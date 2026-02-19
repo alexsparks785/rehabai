@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { UserProfile, WorkoutProgram, UserProgress } from '@/types';
 import { Onboarding } from '@/components/Onboarding';
 import { WorkoutPlayer } from '@/components/WorkoutPlayer';
-import { generateDailyProgram } from '@/lib/programGenerator';
+import { generateDailyProgram, generateProgramWithAI } from '@/lib/programGenerator';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 
@@ -15,12 +15,13 @@ const STORAGE_KEYS = {
   lastProgram: 'rehabai_last_program'
 };
 
-type AppState = 'loading' | 'onboarding' | 'home' | 'workout';
+type AppState = 'loading' | 'onboarding' | 'home' | 'generating' | 'workout';
 
 export default function Home() {
   const [appState, setAppState] = useState<AppState>('loading');
   const [profile, setProfile] = useState<UserProfile | null>(null);
   const [program, setProgram] = useState<WorkoutProgram | null>(null);
+  const [useAI, setUseAI] = useState(true);
   const [progress, setProgress] = useState<UserProgress>({
     totalWorkouts: 0,
     currentStreak: 0,
@@ -61,12 +62,24 @@ export default function Home() {
     setAppState('home');
   };
 
-  const handleStartWorkout = () => {
+  const handleStartWorkout = async () => {
     if (!profile) return;
     
-    const newProgram = generateDailyProgram(profile);
-    setProgram(newProgram);
-    setAppState('workout');
+    setAppState('generating');
+    
+    try {
+      const newProgram = useAI 
+        ? await generateProgramWithAI(profile)
+        : generateDailyProgram(profile);
+      setProgram(newProgram);
+      setAppState('workout');
+    } catch (error) {
+      console.error('Failed to generate program:', error);
+      // Fallback to rule-based
+      const fallbackProgram = generateDailyProgram(profile);
+      setProgram(fallbackProgram);
+      setAppState('workout');
+    }
   };
 
   const handleWorkoutComplete = () => {
@@ -117,6 +130,17 @@ export default function Home() {
     return (
       <div className="min-h-screen bg-black flex items-center justify-center">
         <div className="text-white text-xl">Loading...</div>
+      </div>
+    );
+  }
+
+  // Generating program state
+  if (appState === 'generating') {
+    return (
+      <div className="min-h-screen bg-black flex flex-col items-center justify-center p-6">
+        <div className="text-5xl mb-6 animate-pulse">🧠</div>
+        <div className="text-white text-xl mb-2">Creating your personalized program...</div>
+        <div className="text-gray-400 text-sm">AI is analyzing your profile</div>
       </div>
     );
   }

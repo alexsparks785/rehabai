@@ -110,9 +110,23 @@ export function generateDailyProgram(profile: UserProfile): WorkoutProgram {
   };
 }
 
-// Future: Claude API integration for smarter program generation
+// Claude API integration for smarter program generation
 export async function generateProgramWithAI(profile: UserProfile): Promise<WorkoutProgram> {
-  // TODO: Call Claude API to generate a more personalized program
-  // For now, fall back to rule-based generation
-  return generateDailyProgram(profile);
+  try {
+    const response = await fetch('/api/generate-program', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(profile),
+    });
+
+    if (!response.ok) {
+      throw new Error('API request failed');
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error('AI generation failed, falling back to rule-based:', error);
+    // Fall back to rule-based generation
+    return generateDailyProgram(profile);
+  }
 }
