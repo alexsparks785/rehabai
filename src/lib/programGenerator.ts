@@ -1,5 +1,5 @@
 import { UserProfile, WorkoutProgram, ProgramExercise, ConditionType } from '@/types';
-import { exercises } from '@/data/exercises';
+import { allExercises } from '@/data/exercises';
 
 // For now, generate programs based on simple rules
 // Later this will use Claude API for more personalized generation
@@ -17,11 +17,51 @@ const CONDITION_EXERCISES: Record<ConditionType, string[]> = {
     'knee-to-chest',
     'sphinx'
   ],
-  'knee-pain': ['cat-cow', 'glute-bridge', 'bird-dog', 'hip-flexor-stretch'],
-  'neck-pain': ['cat-cow', 'childs-pose', 'supine-twist'],
-  'shoulder-pain': ['cat-cow', 'childs-pose', 'dead-bug'],
-  'hip-pain': ['hip-flexor-stretch', 'glute-bridge', 'supine-twist', 'knee-to-chest'],
-  'general-mobility': ['cat-cow', 'hip-flexor-stretch', 'supine-twist', 'childs-pose', 'glute-bridge']
+  'knee-pain': [
+    'quad-set',
+    'straight-leg-raise',
+    'terminal-knee-extension',
+    'step-down',
+    'glute-bridge',
+    'clamshell',
+    'hip-flexor-stretch'
+  ],
+  'neck-pain': [
+    'chin-tuck',
+    'neck-rotation',
+    'levator-scap-stretch',
+    'cat-cow',
+    'childs-pose',
+    'supine-twist'
+  ],
+  'shoulder-pain': [
+    'pendulum',
+    'external-rotation-band',
+    'wall-slide',
+    'cat-cow',
+    'childs-pose',
+    'dead-bug'
+  ],
+  'hip-pain': [
+    'clamshell',
+    'fire-hydrant',
+    '90-90-stretch',
+    'figure-four-stretch',
+    'hip-flexor-stretch',
+    'glute-bridge',
+    'supine-twist',
+    'knee-to-chest'
+  ],
+  'general-mobility': [
+    'cat-cow',
+    'hip-flexor-stretch',
+    'supine-twist',
+    'childs-pose',
+    'glute-bridge',
+    'bird-dog',
+    '90-90-stretch',
+    'wall-slide'
+  ]
 };
 
 export function generateDailyProgram(profile: UserProfile): WorkoutProgram {
@@ -29,7 +69,7 @@ export function generateDailyProgram(profile: UserProfile): WorkoutProgram {
   
   // Get exercise objects
   const selectedExercises = conditionExercises
-    .map(id => exercises.find(e => e.id === id))
+    .map(id => allExercises.find(e => e.id === id))
     .filter(Boolean);
 
   // Adjust based on pain level

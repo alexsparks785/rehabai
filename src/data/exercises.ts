@@ -224,12 +224,23 @@ export const exercises: Exercise[] = [
   }
 ];
 
+// Import extended exercises
+import { extendedExercises } from './exercises-extended';
+
+// Combine all exercises
+export const allExercises = [...exercises, ...extendedExercises];
+
 // Helper function to get exercises by category
 export function getExercisesByCategory(category: string): Exercise[] {
-  return exercises.filter(e => e.category === category);
+  return allExercises.filter(e => e.category === category);
 }
 
 // Helper function to get exercises by target area
 export function getExercisesByTargetArea(area: string): Exercise[] {
-  return exercises.filter(e => e.targetArea.includes(area));
+  return allExercises.filter(e => e.targetArea.includes(area));
+}
+
+// Helper function to get exercises by ID
+export function getExerciseById(id: string): Exercise | undefined {
+  return allExercises.find(e => e.id === id);
 }
