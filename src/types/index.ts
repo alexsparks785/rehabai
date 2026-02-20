@@ -31,6 +31,7 @@ export interface Exercise {
   instructions: string[];
   tips: string[];
   difficulty: 'beginner' | 'intermediate' | 'advanced';
+  unilateral?: boolean; // true if exercise is done one side at a time
 }
 
 export type ExerciseCategory = 
