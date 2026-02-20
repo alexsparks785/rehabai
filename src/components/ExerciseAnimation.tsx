@@ -363,6 +363,260 @@ function SidePlank({ frame }: AnimationProps) {
   );
 }
 
+// Child's Pose animation
+function ChildsPose({ frame }: AnimationProps) {
+  const breathe = Math.sin(frame * 0.08) * 0.5 + 0.5; // Breathing cycle
+  const expand = breathe * 3;
+  
+  return (
+    <svg viewBox="0 0 200 120" className="w-full max-w-md">
+      {/* Floor */}
+      <line x1="20" y1="100" x2="180" y2="100" stroke="#444" strokeWidth="2" />
+      
+      {/* Body - folded forward */}
+      <g>
+        {/* Feet/heels */}
+        <ellipse cx="150" cy="95" rx="10" ry="6" fill="#f0f0f0" />
+        
+        {/* Legs folded */}
+        <path 
+          d="M 140 95 Q 130 80 120 75"
+          fill="none" 
+          stroke="#f0f0f0" 
+          strokeWidth="6"
+          strokeLinecap="round"
+        />
+        
+        {/* Back/torso - curved */}
+        <path 
+          d={`M 120 75 Q 90 ${70 + expand} 60 72`}
+          fill="none" 
+          stroke="#f0f0f0" 
+          strokeWidth="8"
+          strokeLinecap="round"
+        />
+        
+        {/* Head on ground */}
+        <circle cx="55" cy="85" r="10" fill="#f0f0f0" />
+        
+        {/* Arms extended */}
+        <line x1="65" y1="75" x2="40" y2="95" stroke="#f0f0f0" strokeWidth="4" strokeLinecap="round" />
+        <line x1="65" y1="75" x2="30" y2="90" stroke="#f0f0f0" strokeWidth="4" strokeLinecap="round" />
+        
+        {/* Hands */}
+        <circle cx="40" cy="95" r="4" fill="#f0f0f0" />
+        <circle cx="30" cy="90" r="4" fill="#f0f0f0" />
+      </g>
+      
+      {/* Breath indicator */}
+      <circle cx="100" cy="60" r={8 + expand * 2} fill="none" stroke="#fbbf24" strokeWidth="1" opacity={0.5} />
+      
+      <text x="100" y="115" textAnchor="middle" fill="#888" fontSize="8">
+        {breathe > 0.5 ? 'Breathe in, expand' : 'Breathe out, relax deeper'}
+      </text>
+    </svg>
+  );
+}
+
+// Hip Flexor Stretch animation
+function HipFlexorStretch({ frame }: AnimationProps) {
+  const lean = Math.sin(frame * 0.08) * 0.5 + 0.5;
+  const shift = lean * 10;
+  
+  return (
+    <svg viewBox="0 0 200 120" className="w-full max-w-md">
+      {/* Floor */}
+      <line x1="20" y1="100" x2="180" y2="100" stroke="#444" strokeWidth="2" />
+      
+      {/* Body - lunge position */}
+      <g>
+        {/* Back knee on ground */}
+        <circle cx="140" cy="98" r="5" fill="#f0f0f0" />
+        
+        {/* Back leg */}
+        <line x1="140" y1="95" x2="160" y2="75" stroke="#f0f0f0" strokeWidth="5" strokeLinecap="round" />
+        
+        {/* Back foot */}
+        <ellipse cx="165" cy="100" rx="8" ry="4" fill="#f0f0f0" />
+        
+        {/* Hips */}
+        <circle cx={100 + shift} cy="70" r="10" fill={lean > 0.5 ? "#fbbf24" : "#f0f0f0"} />
+        
+        {/* Front thigh */}
+        <line x1={95 + shift} y1="75" x2="60" y2="100" stroke="#f0f0f0" strokeWidth="5" strokeLinecap="round" />
+        
+        {/* Front foot */}
+        <rect x="52" y="96" width="15" height="6" rx="2" fill="#f0f0f0" />
+        
+        {/* Torso - upright */}
+        <line x1={100 + shift} y1="70" x2={100 + shift * 0.5} y2="35" stroke="#f0f0f0" strokeWidth="6" strokeLinecap="round" />
+        
+        {/* Head */}
+        <circle cx={100 + shift * 0.5} cy="25" r="10" fill="#f0f0f0" />
+        
+        {/* Arms on hips */}
+        <line x1={95 + shift * 0.5} y1="45" x2={85 + shift} y2="65" stroke="#f0f0f0" strokeWidth="3" strokeLinecap="round" />
+        <line x1={105 + shift * 0.5} y1="45" x2={115 + shift} y2="65" stroke="#f0f0f0" strokeWidth="3" strokeLinecap="round" />
+      </g>
+      
+      <text x="100" y="115" textAnchor="middle" fill="#888" fontSize="8">
+        {lean > 0.5 ? 'Shift hips forward, feel the stretch' : 'Keep torso tall'}
+      </text>
+    </svg>
+  );
+}
+
+// Supine Twist animation
+function SupineTwist({ frame }: AnimationProps) {
+  const twist = Math.sin(frame * 0.06); // -1 to 1
+  const kneeX = 100 + twist * 30;
+  
+  return (
+    <svg viewBox="0 0 200 120" className="w-full max-w-md">
+      {/* Floor */}
+      <line x1="20" y1="95" x2="180" y2="95" stroke="#444" strokeWidth="2" />
+      
+      {/* Body - supine */}
+      <g>
+        {/* Head */}
+        <circle cx={100 - twist * 10} cy="30" r="10" fill="#f0f0f0" />
+        
+        {/* Arms in T position */}
+        <line x1="60" y1="50" x2="140" y2="50" stroke="#f0f0f0" strokeWidth="4" strokeLinecap="round" />
+        <circle cx="60" cy="50" r="4" fill="#f0f0f0" />
+        <circle cx="140" cy="50" r="4" fill="#f0f0f0" />
+        
+        {/* Torso */}
+        <line x1="100" y1="40" x2="100" y2="70" stroke="#f0f0f0" strokeWidth="8" strokeLinecap="round" />
+        
+        {/* Hips - rotate with twist */}
+        <ellipse cx="100" cy="72" rx={12 - Math.abs(twist) * 4} ry="8" fill="#f0f0f0" />
+        
+        {/* Knees together, dropping to side */}
+        <circle cx={kneeX} cy={75 + Math.abs(twist) * 10} r="6" fill={Math.abs(twist) > 0.5 ? "#fbbf24" : "#f0f0f0"} />
+        <circle cx={kneeX + 8} cy={77 + Math.abs(twist) * 10} r="5" fill="#f0f0f0" />
+        
+        {/* Lower legs */}
+        <line x1={kneeX} y1={78 + Math.abs(twist) * 10} x2={kneeX - 15} y2={90 + Math.abs(twist) * 3} stroke="#f0f0f0" strokeWidth="4" strokeLinecap="round" />
+        <line x1={kneeX + 8} y1={80 + Math.abs(twist) * 10} x2={kneeX - 8} y2={92 + Math.abs(twist) * 3} stroke="#f0f0f0" strokeWidth="4" strokeLinecap="round" />
+      </g>
+      
+      <text x="100" y="115" textAnchor="middle" fill="#888" fontSize="8">
+        {twist > 0 ? 'Knees right, look left' : twist < 0 ? 'Knees left, look right' : 'Both shoulders down'}
+      </text>
+    </svg>
+  );
+}
+
+// Knee to Chest animation
+function KneeToChest({ frame }: AnimationProps) {
+  const cycle = Math.floor(frame / 30) % 2;
+  const pull = Math.min(1, (frame % 30) / 15);
+  
+  return (
+    <svg viewBox="0 0 200 120" className="w-full max-w-md">
+      {/* Floor */}
+      <line x1="20" y1="95" x2="180" y2="95" stroke="#444" strokeWidth="2" />
+      
+      {/* Body - supine */}
+      <g>
+        {/* Head */}
+        <circle cx="160" cy="88" r="10" fill="#f0f0f0" />
+        
+        {/* Torso */}
+        <line x1="150" y1="88" x2="80" y2="85" stroke="#f0f0f0" strokeWidth="8" strokeLinecap="round" />
+        
+        {/* Hips */}
+        <circle cx="75" cy="85" r="10" fill="#f0f0f0" />
+        
+        {/* Pulling leg (alternates) */}
+        {cycle === 0 ? (
+          <>
+            <line x1="75" y1="80" x2={90 - pull * 25} y2={75 - pull * 20} stroke="#fbbf24" strokeWidth="5" strokeLinecap="round" />
+            <line x1={90 - pull * 25} y1={75 - pull * 20} x2={100 - pull * 35} y2={85 - pull * 15} stroke="#fbbf24" strokeWidth="4" strokeLinecap="round" />
+            {/* Hands pulling */}
+            <circle cx={95 - pull * 30} cy={78 - pull * 18} r="4" fill="#fbbf24" />
+          </>
+        ) : (
+          <line x1="75" y1="88" x2="50" y2="95" stroke="#f0f0f0" strokeWidth="5" strokeLinecap="round" />
+        )}
+        
+        {/* Other leg */}
+        {cycle === 1 ? (
+          <>
+            <line x1="75" y1="80" x2={90 - pull * 25} y2={75 - pull * 20} stroke="#fbbf24" strokeWidth="5" strokeLinecap="round" />
+            <line x1={90 - pull * 25} y1={75 - pull * 20} x2={100 - pull * 35} y2={85 - pull * 15} stroke="#fbbf24" strokeWidth="4" strokeLinecap="round" />
+            <circle cx={95 - pull * 30} cy={78 - pull * 18} r="4" fill="#fbbf24" />
+          </>
+        ) : (
+          <line x1="75" y1="88" x2="50" y2="95" stroke="#f0f0f0" strokeWidth="5" strokeLinecap="round" />
+        )}
+        
+        {/* Arms pulling knee */}
+        <line x1="120" y1="75" x2={105 - pull * 25} y2={75 - pull * 10} stroke="#f0f0f0" strokeWidth="3" strokeLinecap="round" />
+      </g>
+      
+      <text x="100" y="115" textAnchor="middle" fill="#888" fontSize="8">
+        Pull knee gently, keep back flat
+      </text>
+    </svg>
+  );
+}
+
+// Sphinx Pose animation
+function Sphinx({ frame }: AnimationProps) {
+  const breathe = Math.sin(frame * 0.08) * 0.5 + 0.5;
+  const lift = breathe * 5;
+  
+  return (
+    <svg viewBox="0 0 200 120" className="w-full max-w-md">
+      {/* Floor */}
+      <line x1="20" y1="100" x2="180" y2="100" stroke="#444" strokeWidth="2" />
+      
+      {/* Body - prone on forearms */}
+      <g>
+        {/* Legs flat */}
+        <line x1="140" y1="95" x2="170" y2="98" stroke="#f0f0f0" strokeWidth="5" strokeLinecap="round" />
+        <line x1="140" y1="95" x2="175" y2="95" stroke="#f0f0f0" strokeWidth="5" strokeLinecap="round" />
+        
+        {/* Feet */}
+        <ellipse cx="175" cy="98" rx="6" ry="3" fill="#f0f0f0" />
+        <ellipse cx="180" cy="95" rx="6" ry="3" fill="#f0f0f0" />
+        
+        {/* Hips on ground */}
+        <ellipse cx="135" cy="92" rx="12" ry="6" fill="#f0f0f0" />
+        
+        {/* Lower back - gentle curve up */}
+        <path 
+          d={`M 135 88 Q 110 ${85 - lift} 85 ${75 - lift}`}
+          fill="none" 
+          stroke={breathe > 0.5 ? "#fbbf24" : "#f0f0f0"}
+          strokeWidth="8"
+          strokeLinecap="round"
+        />
+        
+        {/* Shoulders */}
+        <circle cx="80" cy={70 - lift} r="8" fill="#f0f0f0" />
+        
+        {/* Head - looking forward */}
+        <circle cx="65" cy={55 - lift} r="10" fill="#f0f0f0" />
+        
+        {/* Forearms on ground */}
+        <line x1="80" y1={75 - lift} x2="55" y2="95" stroke="#f0f0f0" strokeWidth="4" strokeLinecap="round" />
+        <line x1="80" y1={75 - lift} x2="45" y2="95" stroke="#f0f0f0" strokeWidth="4" strokeLinecap="round" />
+        
+        {/* Hands flat */}
+        <ellipse cx="55" cy="97" rx="6" ry="3" fill="#f0f0f0" />
+        <ellipse cx="45" cy="97" rx="6" ry="3" fill="#f0f0f0" />
+      </g>
+      
+      <text x="100" y="115" textAnchor="middle" fill="#888" fontSize="8">
+        {breathe > 0.5 ? 'Lift chest, lengthen spine' : 'Relax shoulders down'}
+      </text>
+    </svg>
+  );
+}
+
 // Default placeholder animation
 function DefaultAnimation({ frame }: AnimationProps) {
   const pulse = Math.sin(frame * 0.1) * 0.2 + 1;
@@ -402,6 +656,15 @@ const animations: Record<string, React.FC<AnimationProps>> = {
   'pelvic_tilt': PelvicTilt,
   'side-plank': SidePlank,
   'side_plank': SidePlank,
+  'childs-pose': ChildsPose,
+  'childs_pose': ChildsPose,
+  'hip-flexor-stretch': HipFlexorStretch,
+  'hip_flexor_stretch': HipFlexorStretch,
+  'supine-twist': SupineTwist,
+  'supine_twist': SupineTwist,
+  'knee-to-chest': KneeToChest,
+  'knee_to_chest': KneeToChest,
+  'sphinx': Sphinx,
 };
 
 export const availableAnimations = Object.keys(animations);
