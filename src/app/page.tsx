@@ -162,25 +162,92 @@ export default function Home() {
       {activeTab === 'programs' && (
         <div className="p-6 pb-24">
           <h1 className="text-3xl font-bold text-white mb-6">Programs</h1>
-          <div className="text-center py-12">
+          <div className="text-center py-8">
             <div className="text-5xl mb-4">📋</div>
-            <h2 className="text-xl font-semibold text-white mb-2">Coming Soon</h2>
-            <p className="text-gray-400">
-              Multi-week structured programs for your condition
+            <h2 className="text-xl font-semibold text-white mb-2">Structured Programs Coming Soon</h2>
+            <p className="text-gray-400 mb-6">
+              Multi-week progressive programs designed by physical therapists
             </p>
+          </div>
+          <div className="space-y-4">
+            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
+              <div className="flex items-center gap-3 mb-2">
+                <span className="text-2xl">🎯</span>
+                <div>
+                  <h3 className="font-semibold text-white">8-Week Lower Back Rebuild</h3>
+                  <p className="text-sm text-gray-400">Foundation → Build → Strengthen</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
+              <div className="flex items-center gap-3 mb-2">
+                <span className="text-2xl">⚡</span>
+                <div>
+                  <h3 className="font-semibold text-white">Quick Relief Protocol</h3>
+                  <p className="text-sm text-gray-400">For flare-ups and acute pain</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
+              <div className="flex items-center gap-3 mb-2">
+                <span className="text-2xl">🏃</span>
+                <div>
+                  <h3 className="font-semibold text-white">Return to Activity</h3>
+                  <p className="text-sm text-gray-400">Get back to what you love</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       )}
 
       {activeTab === 'clips' && (
         <div className="p-6 pb-24">
-          <h1 className="text-3xl font-bold text-white mb-6">Clips</h1>
-          <div className="text-center py-12">
-            <div className="text-5xl mb-4">🎬</div>
-            <h2 className="text-xl font-semibold text-white mb-2">Coming Soon</h2>
-            <p className="text-gray-400">
-              Exercise tutorial library with video demonstrations
+          <h1 className="text-3xl font-bold text-white mb-6">Learn</h1>
+          <div className="text-center py-8">
+            <div className="text-5xl mb-4">📚</div>
+            <h2 className="text-xl font-semibold text-white mb-2">Education Library Coming Soon</h2>
+            <p className="text-gray-400 mb-6">
+              Understanding your body is key to recovery
             </p>
+          </div>
+          <div className="space-y-4">
+            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
+              <div className="flex items-center gap-3">
+                <span className="text-2xl">🦴</span>
+                <div>
+                  <h3 className="font-semibold text-white">Spine Anatomy Basics</h3>
+                  <p className="text-sm text-gray-400">What&apos;s actually causing your pain</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
+              <div className="flex items-center gap-3">
+                <span className="text-2xl">🧠</span>
+                <div>
+                  <h3 className="font-semibold text-white">Pain Science Explained</h3>
+                  <p className="text-sm text-gray-400">Why movement helps, not hurts</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
+              <div className="flex items-center gap-3">
+                <span className="text-2xl">🎬</span>
+                <div>
+                  <h3 className="font-semibold text-white">Exercise Form Videos</h3>
+                  <p className="text-sm text-gray-400">Perfect your technique</p>
+                </div>
+              </div>
+            </div>
+            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
+              <div className="flex items-center gap-3">
+                <span className="text-2xl">💡</span>
+                <div>
+                  <h3 className="font-semibold text-white">Flare-up Management</h3>
+                  <p className="text-sm text-gray-400">What to do when pain spikes</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       )}
