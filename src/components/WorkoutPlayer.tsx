@@ -150,6 +150,23 @@ export function WorkoutPlayer({
     }
   };
 
+  // Guard for empty exercises
+  if (!exercises || exercises.length === 0) {
+    return (
+      <div className="min-h-screen bg-black flex flex-col items-center justify-center p-6 text-white">
+        <div className="text-5xl mb-6">⚠️</div>
+        <h1 className="text-2xl font-bold mb-4">No exercises found</h1>
+        <p className="text-gray-400 mb-8">Please generate a workout first</p>
+        <button 
+          onClick={onExit}
+          className="px-6 py-3 bg-yellow-500 text-black rounded-full font-semibold"
+        >
+          Go Back
+        </button>
+      </div>
+    );
+  }
+
   // Preparing screen
   if (playerState === 'preparing') {
     return (

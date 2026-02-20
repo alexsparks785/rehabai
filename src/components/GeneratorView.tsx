@@ -96,11 +96,13 @@ export function GeneratorView({ profile, onStartWorkout }: GeneratorViewProps) {
 
     // If no clear grouping, just split by thirds
     if (warmup.length === 0 && cooldown.length === 0) {
-      const third = Math.ceil(exercises.length / 3);
+      const third = Math.max(1, Math.ceil(exercises.length / 3));
+      const warmupEnd = Math.min(2, third);
+      const cooldownStart = exercises.length - Math.min(2, third);
       return {
-        warmup: exercises.slice(0, Math.min(2, third)),
-        main: exercises.slice(Math.min(2, third), -Math.min(2, third) || undefined),
-        cooldown: exercises.slice(-Math.min(2, third))
+        warmup: exercises.slice(0, warmupEnd),
+        main: exercises.slice(warmupEnd, cooldownStart > warmupEnd ? cooldownStart : undefined),
+        cooldown: cooldownStart > warmupEnd ? exercises.slice(cooldownStart) : []
       };
     }
 

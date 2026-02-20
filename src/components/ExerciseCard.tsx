@@ -1,5 +1,6 @@
 'use client';
 
+import { useState } from 'react';
 import { Exercise, ProgramExercise } from '@/types';
 import { cn } from '@/lib/utils';
 
@@ -114,5 +115,3 @@ export function ExerciseSection({
   );
 }
 
-// Need to import useState
-import { useState } from 'react';

@@ -1,5 +1,6 @@
 import { UserProfile, WorkoutProgram, ProgramExercise, ConditionType } from '@/types';
 import { allExercises } from '@/data/exercises';
+import { generateId } from '@/lib/uuid';
 
 // For now, generate programs based on simple rules
 // Later this will use Claude API for more personalized generation
@@ -100,7 +101,7 @@ export function generateDailyProgram(profile: UserProfile): WorkoutProgram {
   }, 0);
 
   return {
-    id: crypto.randomUUID(),
+    id: generateId(),
     name: `Daily ${profile.condition.replace('-', ' ')} Program`,
     description: `Personalized program for ${profile.name || 'you'} based on your condition and goals`,
     condition: profile.condition,

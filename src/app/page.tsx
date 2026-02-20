@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { UserProfile, WorkoutProgram, UserProgress, WorkoutSession } from '@/types';
+import { generateId } from '@/lib/uuid';
 import { Onboarding } from '@/components/Onboarding';
 import { WorkoutPlayer } from '@/components/WorkoutPlayer';
 import { BottomNav } from '@/components/BottomNav';
@@ -71,7 +72,7 @@ export default function Home() {
   const handleWorkoutComplete = () => {
     // Create session record
     const session: WorkoutSession = {
-      id: crypto.randomUUID(),
+      id: generateId(),
       programId: program?.id || '',
       startedAt: new Date().toISOString(),
       completedAt: new Date().toISOString(),

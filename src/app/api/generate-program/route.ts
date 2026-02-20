@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import Anthropic from '@anthropic-ai/sdk';
 import { UserProfile, WorkoutProgram, ProgramExercise } from '@/types';
 import { allExercises } from '@/data/exercises';
+import { generateId } from '@/lib/uuid';
 
 const anthropic = new Anthropic({
   apiKey: process.env.ANTHROPIC_API_KEY,
@@ -101,7 +102,7 @@ Return ONLY a valid JSON object (no markdown, no explanation) with this structur
     }, 0);
 
     const program: WorkoutProgram = {
-      id: crypto.randomUUID(),
+      id: generateId(),
       name: programData.name,
       description: programData.description,
       condition: profile.condition,
