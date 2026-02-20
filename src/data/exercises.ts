@@ -202,6 +202,29 @@ export const exercises: Exercise[] = [
     difficulty: 'beginner'
   },
   {
+    id: 'side-plank',
+    name: 'Side Plank',
+    description: 'Lateral core stabilization to support the lower back',
+    category: 'strengthening',
+    targetArea: ['obliques', 'core', 'lower back'],
+    duration: 30,
+    sets: 2,
+    imageUrl: PLACEHOLDER_IMG,
+    instructions: [
+      'Lie on side, elbow under shoulder, knees bent (modified) or legs straight',
+      'Lift hips off ground, creating straight line from head to knees/feet',
+      'Hold position, keeping hips stacked',
+      'Lower with control, switch sides'
+    ],
+    tips: [
+      'Don\'t let hips sag or pike up',
+      'Start with modified version (knees bent)',
+      'Breathe throughout the hold'
+    ],
+    difficulty: 'intermediate',
+    unilateral: true
+  },
+  {
     id: 'knee-to-chest',
     name: 'Knee to Chest Stretch',
     description: 'Releases lower back tension and stretches the glutes',

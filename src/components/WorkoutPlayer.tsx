@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button';
 import { 
   Pause, Play, Settings, List, X, Plus, ChevronRight, Check
 } from 'lucide-react';
+import { ExerciseAnimation } from './ExerciseAnimation';
 
 interface WorkoutPlayerProps {
   exercises: ProgramExercise[];
@@ -366,12 +367,12 @@ export function WorkoutPlayer({
       </div>
 
       {/* Video area */}
-      <div className="flex-1 bg-gray-900 relative flex items-center justify-center">
-        {/* Placeholder - will be replaced with actual video */}
-        <div className="text-center">
-          <div className="text-8xl mb-4 opacity-30">🏋️</div>
-          <p className="text-gray-500">Exercise demonstration</p>
-        </div>
+      <div className="flex-1 bg-gray-900 relative">
+        {/* Exercise animation */}
+        <ExerciseAnimation 
+          exerciseId={exercise.id} 
+          isPaused={isPaused}
+        />
 
         {/* Paused overlay */}
         {isPaused && (
