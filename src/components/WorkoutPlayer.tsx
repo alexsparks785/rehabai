@@ -188,15 +188,22 @@ export function WorkoutPlayer({
   // Complete screen
   if (playerState === 'complete') {
     return (
-      <div className="min-h-screen bg-black flex flex-col items-center justify-center p-6 text-white">
-        <div className="w-20 h-20 rounded-full bg-green-500 flex items-center justify-center mb-6">
-          <Check size={40} />
+      <div className="min-h-screen bg-gradient-to-b from-green-900/30 to-black flex flex-col items-center justify-center p-6 text-white">
+        <div className="w-24 h-24 rounded-full bg-green-500 flex items-center justify-center mb-6 animate-pulse">
+          <Check size={48} />
         </div>
-        <h1 className="text-3xl font-bold mb-2">Workout Complete!</h1>
-        <p className="text-gray-400 mb-2">{workoutName}</p>
-        <p className="text-2xl font-semibold text-yellow-400 mb-8">
-          {formatTime(elapsedTime)}
+        <h1 className="text-3xl font-bold mb-2">Amazing Work! 🎉</h1>
+        <p className="text-gray-300 mb-2 text-center">
+          You just invested {formatTime(elapsedTime)} in your recovery
         </p>
+        <p className="text-green-400 text-sm mb-6 text-center">
+          Every session brings you closer to feeling better
+        </p>
+        <div className="bg-gray-900/50 rounded-lg p-4 mb-8 w-full max-w-xs">
+          <p className="text-center text-gray-400 text-sm">
+            💡 Consistency beats intensity. Try to do this daily, even when you don&apos;t feel like it.
+          </p>
+        </div>
         <Button onClick={onExit} size="lg" className="w-full max-w-xs bg-yellow-500 hover:bg-yellow-600 text-black font-semibold">
           Done
         </Button>

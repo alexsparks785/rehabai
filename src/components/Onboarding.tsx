@@ -89,8 +89,15 @@ export function Onboarding({ onComplete }: OnboardingProps) {
         {/* Step 0: Name */}
         {step === 0 && (
           <div className="flex-1 flex flex-col justify-center">
-            <h1 className="text-3xl font-bold mb-2">Welcome to RehabAI</h1>
-            <p className="text-gray-400 mb-8">Your personalized rehab program</p>
+            <div className="text-5xl mb-4">🌟</div>
+            <h1 className="text-3xl font-bold mb-2">You&apos;re Not Alone</h1>
+            <p className="text-gray-400 mb-2">
+              Millions of people deal with pain every day. The good news? 
+              Most can get better with the right approach.
+            </p>
+            <p className="text-green-400 mb-8 text-sm">
+              Let&apos;s build your recovery plan together.
+            </p>
             
             <Label htmlFor="name" className="text-gray-300 mb-2">What should we call you?</Label>
             <Input
@@ -106,8 +113,10 @@ export function Onboarding({ onComplete }: OnboardingProps) {
         {/* Step 1: Condition */}
         {step === 1 && (
           <div className="flex-1 flex flex-col">
-            <h1 className="text-2xl font-bold mb-2">What are you dealing with?</h1>
-            <p className="text-gray-400 mb-6">Select your primary concern</p>
+            <h1 className="text-2xl font-bold mb-2">What&apos;s been holding you back?</h1>
+            <p className="text-gray-400 mb-6">
+              We&apos;ll create a program specifically designed for your situation
+            </p>
             
             <div className="space-y-3">
               {CONDITIONS.map(c => (
@@ -139,8 +148,10 @@ export function Onboarding({ onComplete }: OnboardingProps) {
         {/* Step 2: Pain Level */}
         {step === 2 && (
           <div className="flex-1 flex flex-col justify-center">
-            <h1 className="text-2xl font-bold mb-2">Current pain level?</h1>
-            <p className="text-gray-400 mb-8">On a scale of 1-10</p>
+            <h1 className="text-2xl font-bold mb-2">How are you feeling today?</h1>
+            <p className="text-gray-400 mb-8">
+              Be honest – this helps us give you the right exercises
+            </p>
             
             <div className="bg-gray-900 rounded-lg p-6">
               <div className="text-center text-6xl font-bold mb-6 text-green-500">
@@ -172,8 +183,10 @@ export function Onboarding({ onComplete }: OnboardingProps) {
         {/* Step 3: Goals */}
         {step === 3 && (
           <div className="flex-1 flex flex-col">
-            <h1 className="text-2xl font-bold mb-2">What are your goals?</h1>
-            <p className="text-gray-400 mb-6">Select all that apply</p>
+            <h1 className="text-2xl font-bold mb-2">What does recovery look like for you?</h1>
+            <p className="text-gray-400 mb-6">
+              Select what matters most – we&apos;ll prioritize these in your program
+            </p>
             
             <div className="grid grid-cols-2 gap-3">
               {GOALS.map(goal => (

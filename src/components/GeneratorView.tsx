@@ -154,14 +154,19 @@ export function GeneratorView({ profile, onStartWorkout }: GeneratorViewProps) {
 
       {/* Content */}
       {!program && !isGenerating && (
-        <div className="px-6 py-12 text-center">
-          <div className="text-5xl mb-4">🎯</div>
-          <h2 className="text-xl font-semibold text-white mb-2">Ready to generate</h2>
-          <p className="text-gray-400 mb-6">
-            Tap Refresh to create your personalized {profile.condition.replace(/-/g, ' ')} workout
+        <div className="px-6 py-8 text-center">
+          <div className="text-5xl mb-4">💪</div>
+          <h2 className="text-xl font-semibold text-white mb-2">Your Journey Starts Here</h2>
+          <p className="text-gray-400 mb-4">
+            We&apos;ll create a personalized program based on your {profile.condition.replace(/-/g, ' ')} and current pain level.
           </p>
-          <Button onClick={handleGenerate} className="bg-yellow-400 text-black hover:bg-yellow-500">
-            Generate Workout
+          <div className="bg-gray-900 rounded-lg p-4 mb-6 text-left">
+            <p className="text-green-400 text-sm mb-2">✓ Evidence-based exercises</p>
+            <p className="text-green-400 text-sm mb-2">✓ Adjusted to your pain level ({profile.painLevel}/10)</p>
+            <p className="text-green-400 text-sm">✓ Progresses as you get stronger</p>
+          </div>
+          <Button onClick={handleGenerate} className="bg-yellow-400 text-black hover:bg-yellow-500 w-full">
+            Generate My Program
           </Button>
         </div>
       )}
@@ -169,8 +174,13 @@ export function GeneratorView({ profile, onStartWorkout }: GeneratorViewProps) {
       {isGenerating && (
         <div className="px-6 py-12 text-center">
           <div className="text-5xl mb-4 animate-pulse">🧠</div>
-          <h2 className="text-xl font-semibold text-white mb-2">Creating your program...</h2>
-          <p className="text-gray-400">AI is selecting the best exercises for you</p>
+          <h2 className="text-xl font-semibold text-white mb-2">Building your program...</h2>
+          <p className="text-gray-400 mb-4">Selecting the right exercises for your recovery</p>
+          <div className="text-sm text-gray-500">
+            <p className="mb-1">• Analyzing your condition</p>
+            <p className="mb-1">• Matching exercises to your pain level</p>
+            <p>• Creating a safe progression</p>
+          </div>
         </div>
       )}
 
