@@ -1,0 +1,135 @@
+{
+  "stretch_routine": {
+    "name": "Mobility Flow",
+    "duration": "~30 minutes",
+    "intro_message": "Each exercise becomes increasingly more demanding to the low back, there is no pressure to complete all 5 when starting. You will build more tolerance & confidence as you go!",
+    "exercises": [
+      {
+        "order": 1,
+        "name": "Couch Stretch",
+        "sets": 2,
+        "duration": "1 minute per side",
+        "file": "01-couch-stretch.md"
+      },
+      {
+        "order": 2,
+        "name": "Outer Hip Circuit",
+        "sets": 1,
+        "reps": "Complete circuit, each side",
+        "file": "02-outer-hip-circuit.md"
+      },
+      {
+        "order": 3,
+        "name": "Pigeon Strength",
+        "sets": 1,
+        "reps": "20 reps each side",
+        "file": "03-pigeon-strength.md"
+      },
+      {
+        "order": 4,
+        "name": "Deep Squat",
+        "sets": 2,
+        "duration": "2 minutes",
+        "file": "04-squat-hold.md"
+      },
+      {
+        "order": 5,
+        "name": "Loaded Butterfly",
+        "sets": 2,
+        "duration": "1 minute",
+        "file": "05-loaded-butterflies.md"
+      },
+      {
+        "order": 6,
+        "name": "Active Hang",
+        "optional": true,
+        "duration": "Accumulate 1 minute",
+        "file": "06-active-hang.md"
+      }
+    ]
+  },
+  "strength_routine": {
+    "name": "LBA Flow",
+    "duration": "~1 hour",
+    "intro_message": "Each exercise becomes increasingly more demanding to the low back, there is no pressure to complete all of them when starting. If this is your first few months in LBA: Pick the movements your body can handle today and do them with low intensity, reduced range, and fewer reps or shorter holds. You're just setting the foundation right now. Find what your body can tolerate without stirring things up. You will build more tolerance & confidence as you go!",
+    "exercises": [
+      {
+        "order": 1,
+        "name": "Sled Warmup",
+        "sets": 1,
+        "duration": "10 minutes",
+        "file": "01-bbb-sled-warmup.md"
+      },
+      {
+        "order": 2,
+        "name": "Tibialis Raise",
+        "sets": 2,
+        "reps": 25,
+        "file": "02-tibialis-raise.md"
+      },
+      {
+        "order": 3,
+        "name": "Deep Calf Raise",
+        "sets": 2,
+        "reps": 25,
+        "file": "03-kot-calf-raise.md"
+      },
+      {
+        "order": 4,
+        "name": "Reverse Step Up",
+        "sets": 2,
+        "reps": "25 each leg",
+        "file": "04-reverse-step-up.md"
+      },
+      {
+        "order": 5,
+        "name": "Full Range Split Squat",
+        "sets": 2,
+        "reps": "10 each leg",
+        "file": "05-full-range-split-squat.md"
+      },
+      {
+        "order": 6,
+        "name": "External Rotation",
+        "sets": 1,
+        "reps": "15 each side",
+        "file": "06-external-rotation.md"
+      },
+      {
+        "order": 7,
+        "name": "Dumbbell Pullover",
+        "sets": 2,
+        "reps": 15,
+        "file": "07-pullover.md"
+      },
+      {
+        "order": 8,
+        "name": "Trap 3 Raise",
+        "sets": 2,
+        "reps": 10,
+        "file": "08-trap-3-raise.md"
+      },
+      {
+        "order": 9,
+        "name": "Back Extension",
+        "sets": "See progression",
+        "reps": "See progression",
+        "file": "09-back-extension.md"
+      },
+      {
+        "order": 10,
+        "name": "Hip Flexor Kick Out",
+        "sets": 2,
+        "reps": "5 reps, 5 second hold each leg",
+        "file": "10-hip-flexor-kick-out.md"
+      },
+      {
+        "order": 11,
+        "name": "Side Bend Progression",
+        "sets": 2,
+        "reps": "12 each side",
+        "file": "11-side-bend-progression.md"
+      }
+    ]
+  }
+}
