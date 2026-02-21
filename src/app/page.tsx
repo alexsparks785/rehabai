@@ -8,6 +8,7 @@ import { WorkoutPlayer } from '@/components/WorkoutPlayer';
 import { BottomNav } from '@/components/BottomNav';
 import { GeneratorView } from '@/components/GeneratorView';
 import { ProfileView } from '@/components/ProfileView';
+import { ProgramsView } from '@/components/ProgramsView';
 
 // localStorage keys
 const STORAGE_KEYS = {
@@ -160,45 +161,7 @@ export default function Home() {
       )}
 
       {activeTab === 'programs' && (
-        <div className="p-6 pb-24">
-          <h1 className="text-3xl font-bold text-white mb-6">Programs</h1>
-          <div className="text-center py-8">
-            <div className="text-5xl mb-4">📋</div>
-            <h2 className="text-xl font-semibold text-white mb-2">Structured Programs Coming Soon</h2>
-            <p className="text-gray-400 mb-6">
-              Multi-week progressive programs designed by physical therapists
-            </p>
-          </div>
-          <div className="space-y-4">
-            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
-              <div className="flex items-center gap-3 mb-2">
-                <span className="text-2xl">🎯</span>
-                <div>
-                  <h3 className="font-semibold text-white">8-Week Lower Back Rebuild</h3>
-                  <p className="text-sm text-gray-400">Foundation → Build → Strengthen</p>
-                </div>
-              </div>
-            </div>
-            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
-              <div className="flex items-center gap-3 mb-2">
-                <span className="text-2xl">⚡</span>
-                <div>
-                  <h3 className="font-semibold text-white">Quick Relief Protocol</h3>
-                  <p className="text-sm text-gray-400">For flare-ups and acute pain</p>
-                </div>
-              </div>
-            </div>
-            <div className="bg-gray-900 rounded-lg p-4 border border-gray-800 opacity-60">
-              <div className="flex items-center gap-3 mb-2">
-                <span className="text-2xl">🏃</span>
-                <div>
-                  <h3 className="font-semibold text-white">Return to Activity</h3>
-                  <p className="text-sm text-gray-400">Get back to what you love</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <ProgramsView onStartWorkout={handleStartWorkout} />
       )}
 
       {activeTab === 'clips' && (
