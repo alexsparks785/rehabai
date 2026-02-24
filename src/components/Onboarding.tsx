@@ -38,6 +38,18 @@ export function Onboarding({ onComplete }: OnboardingProps) {
   const [painLevel, setPainLevel] = useState(5);
   const [selectedGoals, setSelectedGoals] = useState<string[]>([]);
 
+  const handleSkip = () => {
+    const profile: UserProfile = {
+      id: generateId(),
+      name: 'Guest',
+      condition: 'low-back-pain',
+      painLevel: 5,
+      goals: ['Reduce pain', 'Build strength'],
+      createdAt: new Date().toISOString(),
+    };
+    onComplete(profile);
+  };
+
   const handleGoalToggle = (goal: string) => {
     setSelectedGoals(prev => 
       prev.includes(goal) 
@@ -73,16 +85,25 @@ export function Onboarding({ onComplete }: OnboardingProps) {
 
   return (
     <div className="min-h-screen bg-black text-white flex flex-col">
-      {/* Progress dots */}
-      <div className="p-4 flex justify-center gap-2">
-        {[0, 1, 2, 3].map(i => (
-          <div 
-            key={i}
-            className={`w-2 h-2 rounded-full transition-colors ${
-              i === step ? 'bg-green-500' : i < step ? 'bg-green-500/50' : 'bg-gray-700'
-            }`}
-          />
-        ))}
+      {/* Header with skip */}
+      <div className="p-4 flex justify-between items-center">
+        <div className="w-16" /> {/* Spacer */}
+        <div className="flex gap-2">
+          {[0, 1, 2, 3].map(i => (
+            <div 
+              key={i}
+              className={`w-2 h-2 rounded-full transition-colors ${
+                i === step ? 'bg-green-500' : i < step ? 'bg-green-500/50' : 'bg-gray-700'
+              }`}
+            />
+          ))}
+        </div>
+        <button
+          onClick={handleSkip}
+          className="text-gray-500 text-sm hover:text-gray-300 transition-colors w-16 text-right"
+        >
+          Skip
+        </button>
       </div>
 
       <div className="flex-1 flex flex-col p-6">
