@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import { Exercise, ProgramExercise } from '@/types';
 import { Button } from '@/components/ui/button';
 import { 
-  Pause, Play, Settings, List, X, Plus, ChevronRight, Check
+  Pause, Play, Settings, List, X, Plus, ChevronRight, ChevronLeft, SkipForward, Check
 } from 'lucide-react';
 import { ExerciseAnimation } from './ExerciseAnimation';
 
@@ -120,6 +120,22 @@ export function WorkoutPlayer({
       setPlayerState('complete');
       onComplete();
     }
+  };
+
+  const moveToPreviousExercise = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex(prev => prev - 1);
+      setCurrentSet(1);
+      setLoggedReps(null);
+      setLoggedWeight(null);
+      setPlayerState('exercising');
+      setTimeRemaining(exercises[currentIndex - 1]?.duration || 30);
+    }
+  };
+
+  const skipCurrentExercise = () => {
+    // Skip directly to next exercise (or complete if last)
+    moveToNextExercise();
   };
 
   const adjustRestTime = (delta: number) => {
@@ -315,6 +331,30 @@ export function WorkoutPlayer({
             </div>
           </div>
 
+          {/* Navigation buttons */}
+          <div className="flex items-center justify-center gap-4 mb-4">
+            <button
+              onClick={moveToPreviousExercise}
+              disabled={currentIndex === 0}
+              className={`flex items-center gap-2 px-4 py-2 rounded-full ${
+                currentIndex === 0 
+                  ? 'bg-white/5 text-white/30 cursor-not-allowed' 
+                  : 'bg-white/10 hover:bg-white/20'
+              }`}
+            >
+              <ChevronLeft size={18} />
+              <span className="text-sm font-medium">Redo Previous</span>
+            </button>
+            
+            <button
+              onClick={moveToNextExercise}
+              className="flex items-center gap-2 px-4 py-2 rounded-full bg-yellow-500/20 hover:bg-yellow-500/30 border border-yellow-500/50"
+            >
+              <span className="text-sm font-medium text-yellow-400">Skip Rest</span>
+              <SkipForward size={18} className="text-yellow-400" />
+            </button>
+          </div>
+
           {/* Next exercise preview */}
           {nextExercise && (
             <div className="flex items-center gap-2 text-white/60">
@@ -459,6 +499,30 @@ export function WorkoutPlayer({
             <Plus size={16} />
             <span className="text-sm">weight</span>
             {loggedWeight && <span className="text-yellow-400 font-bold">{loggedWeight}</span>}
+          </button>
+        </div>
+
+        {/* Navigation buttons */}
+        <div className="flex items-center justify-center gap-4 mb-4">
+          <button
+            onClick={moveToPreviousExercise}
+            disabled={currentIndex === 0}
+            className={`flex items-center gap-2 px-4 py-2 rounded-full ${
+              currentIndex === 0 
+                ? 'bg-white/5 text-white/30 cursor-not-allowed' 
+                : 'bg-white/10 hover:bg-white/20'
+            }`}
+          >
+            <ChevronLeft size={18} />
+            <span className="text-sm font-medium">Previous</span>
+          </button>
+          
+          <button
+            onClick={skipCurrentExercise}
+            className="flex items-center gap-2 px-4 py-2 rounded-full bg-yellow-500/20 hover:bg-yellow-500/30 border border-yellow-500/50"
+          >
+            <span className="text-sm font-medium text-yellow-400">Skip</span>
+            <SkipForward size={18} className="text-yellow-400" />
           </button>
         </div>
 
