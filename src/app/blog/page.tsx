@@ -82,10 +82,13 @@ export default function BlogPage() {
           </Link>
           <nav className="flex gap-6">
             <Link href="/" className="text-gray-400 hover:text-white transition">
-              App
+              Home
             </Link>
             <Link href="/blog" className="text-white font-medium">
-              Blog
+              Articles
+            </Link>
+            <Link href="/app" className="text-gray-400 hover:text-white transition">
+              App
             </Link>
           </nav>
         </div>
