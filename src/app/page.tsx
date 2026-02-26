@@ -72,7 +72,7 @@ export default function EducationLanding() {
             {/* Desktop nav */}
             <div className="hidden md:flex items-center gap-6">
               <Link href="/blog" className="text-gray-300 hover:text-white transition">Articles</Link>
-              <Link href="#categories" className="text-gray-300 hover:text-white transition">Topics</Link>
+              <Link href="/guides" className="text-gray-300 hover:text-white transition">Quick Guides</Link>
               <Link href="#troubleshoot" className="text-gray-300 hover:text-white transition">Troubleshoot</Link>
               <Link href="/app" className="px-4 py-2 bg-yellow-500 text-black rounded-full font-medium hover:bg-yellow-400 transition">
                 Try the App
@@ -92,7 +92,7 @@ export default function EducationLanding() {
           {mobileMenuOpen && (
             <div className="md:hidden pt-4 pb-2 space-y-3">
               <Link href="/blog" className="block text-gray-300 hover:text-white">Articles</Link>
-              <Link href="#categories" className="block text-gray-300 hover:text-white">Topics</Link>
+              <Link href="/guides" className="block text-gray-300 hover:text-white">Quick Guides</Link>
               <Link href="#troubleshoot" className="block text-gray-300 hover:text-white">Troubleshoot</Link>
               <Link href="/app" className="block px-4 py-2 bg-yellow-500 text-black rounded-full font-medium text-center">
                 Try the App
