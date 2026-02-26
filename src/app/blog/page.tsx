@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'sciatica-exercises-relief',
+    title: 'Sciatica Exercises: Evidence-Based Moves for Lasting Relief',
+    excerpt: 'Sciatica pain shooting down your leg? Learn which exercises actually help (and which make it worse), plus a progressive program for long-term relief.',
+    date: '2026-02-26',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '9 min read'
+  },
+  {
+    slug: 'shoulder-pain-rotator-cuff',
+    title: 'Shoulder Pain and Rotator Cuff: A Complete Guide to Recovery',
+    excerpt: 'From diagnosis to full recovery—everything you need to know about rotator cuff issues, including exercises that actually work and timelines to expect.',
+    date: '2026-02-26',
+    author: 'Foundational Rehab',
+    category: 'Shoulders',
+    readTime: '10 min read'
+  },
+  {
+    slug: 'desk-posture-pain-relief',
+    title: 'Desk Posture: How to Fix Pain From Sitting All Day',
+    excerpt: 'Neck tension, upper back pain, and stiff hips from desk work? Here\'s the science of why sitting hurts and practical fixes you can do at your desk.',
+    date: '2026-02-26',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read'
+  },
+  {
     slug: 'understanding-low-back-pain',
     title: 'Understanding Low Back Pain: Causes, Myths, and Modern Treatment',
     excerpt: 'Low back pain affects 80% of people at some point in their lives. Learn what actually causes it, debunk common myths, and discover evidence-based approaches to relief.',

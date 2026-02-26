@@ -13,6 +13,404 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'sciatica-exercises-relief': {
+    title: 'Sciatica Exercises: Evidence-Based Moves for Lasting Relief',
+    date: '2026-02-26',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '9 min read',
+    content: `
+## What Is Sciatica?
+
+Sciatica refers to pain that radiates along the path of the sciatic nerve—from your lower back, through your hip and buttock, and down each leg. Typically, sciatica affects only one side of your body.
+
+The pain can range from a mild ache to a sharp, burning sensation or excruciating discomfort. Sometimes it feels like a jolt or electric shock. It can be worse when you cough or sneeze, and prolonged sitting can aggravate symptoms.
+
+## Common Causes
+
+### Herniated Disc
+The most frequent cause. When the soft inner material of a spinal disc pushes through the outer ring, it can press on the sciatic nerve roots.
+
+### Spinal Stenosis
+Narrowing of the spinal canal in the lower back can compress the nerves.
+
+### Piriformis Syndrome
+The piriformis muscle in the buttock can sometimes irritate or compress the sciatic nerve.
+
+### Degenerative Disc Disease
+Age-related changes in the discs can lead to nerve irritation.
+
+## The Good News
+
+Here's what most people don't realize: **90% of sciatica cases resolve within 6-12 weeks** with conservative treatment. Surgery is rarely needed.
+
+The key is staying active with appropriate exercises while avoiding movements that aggravate symptoms.
+
+## Exercises That Help
+
+### Phase 1: Acute Pain Relief (Week 1-2)
+
+**Prone Press-Ups (McKenzie Extension)**
+Lie face down. Place hands under shoulders and gently press up, keeping hips on the floor. Hold 2-3 seconds, lower down. This can help "centralize" pain (move it from leg toward back—a good sign).
+- 10 reps, every 2-3 hours
+
+**Knee-to-Chest Stretch**
+Lie on back. Gently pull one knee toward chest, hold 20-30 seconds. Keep opposite leg straight or bent.
+- 3 reps each side, 2-3 times daily
+
+**Sciatic Nerve Glides**
+Lie on back with affected leg raised, knee bent. Slowly straighten knee while flexing ankle, then bend knee while pointing toes. This "flosses" the nerve gently.
+- 10-15 slow reps, 2-3 times daily
+
+### Phase 2: Building Tolerance (Week 2-4)
+
+**Cat-Cow Stretches**
+On hands and knees, alternate between arching back up (cat) and letting belly drop (cow). Move slowly and smoothly.
+- 10-15 cycles, twice daily
+
+**Bird-Dog**
+From hands and knees, extend opposite arm and leg. Hold 5 seconds, return, switch sides. Builds core stability without loading the spine.
+- 10 reps each side, twice daily
+
+**Piriformis Stretch**
+Lie on back, cross affected leg over opposite thigh. Pull uncrossed leg toward chest until you feel a stretch in the buttock.
+- Hold 30 seconds, 3 reps, twice daily
+
+### Phase 3: Strengthening (Week 4+)
+
+**Bridges**
+Lie on back, knees bent, feet flat. Lift hips toward ceiling, squeezing glutes at top. Lower slowly.
+- 15-20 reps, 3 sets
+
+**Clamshells**
+Lie on side, knees bent 90 degrees. Keep feet together, lift top knee. Add resistance band as you get stronger.
+- 15-20 reps each side, 3 sets
+
+**Dead Bug**
+Lie on back, arms reaching toward ceiling, knees bent 90 degrees. Slowly lower opposite arm and leg toward floor while keeping back flat.
+- 10 reps each side, 3 sets
+
+## Exercises to Avoid (Initially)
+
+- **Heavy lifting** — especially with poor form
+- **Deep forward bending** — reaching for toes, sit-ups
+- **High-impact activities** — running, jumping
+- **Prolonged sitting** — take breaks every 30-45 minutes
+
+## Movement Tips
+
+**Walking is excellent.** It's low-impact and keeps things moving without aggravating most sciatica cases. Start with short walks (10-15 minutes) and gradually increase.
+
+**Swimming or water walking** can be helpful because buoyancy reduces spinal load.
+
+**Listen to your body.** Some discomfort during exercise is okay, but sharp or increasing pain means back off.
+
+## Red Flags: When to See a Doctor
+
+Seek immediate medical attention if you experience:
+- Loss of bladder or bowel control
+- Progressive weakness in the leg
+- Numbness in the groin area
+- Severe pain that doesn't improve with rest
+- Pain after a significant injury
+
+## The Recovery Timeline
+
+- **Week 1-2:** Focus on pain relief and gentle movement
+- **Week 2-4:** Gradually increase activity, add gentle strengthening
+- **Week 4-8:** Progressive loading, return to normal activities
+- **Week 8-12:** Full strengthening program, preventing recurrence
+
+Most people see significant improvement by 4-6 weeks. Be patient—nerves heal slowly, but they do heal.
+
+---
+
+*Foundational Rehab offers personalized sciatica recovery programs. Our AI-guided approach adapts to your progress and ensures safe, effective progression.*
+    `
+  },
+  'shoulder-pain-rotator-cuff': {
+    title: 'Shoulder Pain and Rotator Cuff: A Complete Guide to Recovery',
+    date: '2026-02-26',
+    author: 'Foundational Rehab',
+    category: 'Shoulders',
+    readTime: '10 min read',
+    content: `
+## Understanding Your Rotator Cuff
+
+The rotator cuff is a group of four muscles and their tendons that stabilize the shoulder joint and allow you to lift and rotate your arm. These muscles are:
+
+- **Supraspinatus** — lifts arm out to the side
+- **Infraspinatus** — rotates arm externally
+- **Teres Minor** — assists external rotation
+- **Subscapularis** — rotates arm internally
+
+Because the shoulder sacrifices stability for mobility (it's essentially a golf ball on a tee), these muscles work constantly to keep things in place.
+
+## Common Rotator Cuff Problems
+
+### Tendinitis/Tendinopathy
+Inflammation or degeneration of the rotator cuff tendons, usually from overuse or repetitive overhead activities.
+
+### Impingement
+The tendons get pinched between the bones of the shoulder during certain movements, causing pain with overhead reaching.
+
+### Tears
+Can be partial or full-thickness. Tears can result from acute injury or gradual wear over time. Surprisingly, many people have rotator cuff tears with no pain at all.
+
+### Bursitis
+Inflammation of the bursa (fluid-filled sac) that cushions the rotator cuff tendons.
+
+## An Important Truth About Imaging
+
+Here's something that surprises most people: **MRI studies of people with NO shoulder pain** show that rotator cuff tears are extremely common, especially with age:
+
+- Age 50-59: 13% have tears
+- Age 60-69: 20% have tears
+- Age 70-79: 31% have tears
+- Age 80+: 51% have tears
+
+This means a tear on your MRI doesn't necessarily explain your pain. Many "abnormal" findings are simply normal aging.
+
+## Conservative Treatment Works
+
+Research consistently shows that **physical therapy is as effective as surgery** for most rotator cuff problems, including many tears. Surgery should be reserved for:
+- Complete tears in young, active individuals
+- Acute traumatic tears
+- Failure of 3-6 months of proper conservative care
+
+## The Rehabilitation Approach
+
+### Phase 1: Pain Management (Week 1-2)
+
+**Goals:** Reduce pain, restore basic range of motion
+
+**Pendulum Exercises**
+Lean forward, let arm hang. Make small circles using body movement (not shoulder muscles). This provides gentle motion without stress.
+- 1-2 minutes each direction, 3-4 times daily
+
+**Passive Range of Motion**
+Use your good arm to move the affected arm through comfortable ranges. Don't push into pain.
+
+**Ice and Activity Modification**
+Ice 15-20 minutes after activity. Avoid painful movements, but don't completely immobilize.
+
+### Phase 2: Mobility Restoration (Week 2-4)
+
+**Goals:** Restore full pain-free range of motion
+
+**Sleeper Stretch (for internal rotation)**
+Lie on affected side, elbow bent 90 degrees. Use other hand to gently push forearm toward the bed.
+- Hold 30 seconds, 3 reps, twice daily
+
+**Cross-Body Stretch**
+Pull affected arm across body with opposite hand. Feel stretch in back of shoulder.
+- Hold 30 seconds, 3 reps, twice daily
+
+**Wall Slides**
+Stand facing wall, forearms on wall. Slide arms up as high as comfortable, then back down.
+- 15 reps, twice daily
+
+### Phase 3: Early Strengthening (Week 4-8)
+
+**Goals:** Build rotator cuff strength with light resistance
+
+**External Rotation with Band**
+Elbow at side, bent 90 degrees. Rotate forearm outward against band resistance. Keep elbow tucked.
+- 15-20 reps, 3 sets
+
+**Internal Rotation with Band**
+Same position, rotate forearm inward against resistance.
+- 15-20 reps, 3 sets
+
+**Scaption (Scapular Plane Raises)**
+Raise arms at 45-degree angle (between front and side) with thumbs up. Go only to shoulder height.
+- 15 reps, 3 sets (start with no weight, progress to light dumbbells)
+
+**Prone Y, T, W**
+Lie face down on bench or bed. Raise arms into Y position (overhead), T position (out to sides), and W position (elbows bent, hands up). Squeeze shoulder blades.
+- 10-15 reps each position, 2 sets
+
+### Phase 4: Advanced Strengthening (Week 8+)
+
+**Goals:** Build functional strength and resilience
+
+**Standing Rows**
+Pull band or cable toward your hip, squeezing shoulder blade back.
+- 12-15 reps, 3 sets
+
+**Push-Up Progression**
+Start with wall push-ups, progress to incline, then floor. Focus on controlled movement.
+- 10-15 reps, 3 sets
+
+**Overhead Press (when ready)**
+Only progress to overhead pressing when pain-free at shoulder level. Start light.
+- 10-12 reps, 3 sets
+
+## Dos and Don'ts
+
+### Do:
+- Stay active with pain-free activities
+- Sleep on your back or unaffected side
+- Focus on posture—rolled shoulders stress the rotator cuff
+- Be patient—tendons heal slowly (6-12 weeks minimum)
+
+### Don't:
+- Push through sharp pain
+- Sleep on the affected shoulder
+- Do heavy overhead lifting early in recovery
+- Skip the boring rehab exercises
+
+## Prevention
+
+Once recovered, maintain shoulder health with:
+- Regular rotator cuff strengthening (2-3x/week)
+- Balanced pushing and pulling exercises
+- Good posture habits
+- Gradual progression of any new activities
+
+---
+
+*Foundational Rehab provides comprehensive shoulder recovery programs tailored to your specific condition and goals.*
+    `
+  },
+  'desk-posture-pain-relief': {
+    title: 'Desk Posture: How to Fix Pain From Sitting All Day',
+    date: '2026-02-26',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read',
+    content: `
+## The Modern Epidemic
+
+The average office worker sits for **10+ hours per day**. Add commuting and evening TV time, and many people spend 13-15 hours in seated positions. Our bodies simply weren't designed for this.
+
+The result? An epidemic of:
+- Neck and upper back pain
+- Lower back stiffness
+- Tight hip flexors
+- Rounded shoulders
+- Headaches
+
+## Why Sitting Hurts
+
+### It's Not Just "Bad Posture"
+
+Here's a nuance most people miss: **there's no single "perfect" posture**. The problem isn't that you sit with imperfect alignment—it's that you stay in ONE position for too long.
+
+Even "perfect" posture becomes harmful when held for hours. The real issue is:
+- **Lack of movement variety**
+- **Sustained muscle tension**
+- **Reduced blood flow to tissues**
+- **Adaptive shortening of muscles**
+
+### What Happens Physically
+
+**Hip Flexors Shorten**
+When you sit, your hip flexors are in a shortened position. Over time, they adapt to this length, pulling on your pelvis and affecting your lower back.
+
+**Glutes Shut Off**
+Sitting puts your glutes on stretch and keeps them inactive. They "forget" how to fire properly, shifting load to your back.
+
+**Upper Back Rounds**
+Reaching for a keyboard encourages shoulder rounding. The muscles of the upper back lengthen and weaken.
+
+**Neck Juts Forward**
+Looking at a screen often means pushing your head forward. This puts enormous strain on neck muscles—for every inch forward, it's like adding 10 pounds of head weight.
+
+## The Solution: Movement Snacks
+
+Rather than trying to maintain perfect posture all day, focus on **frequent movement breaks**. Think of it as "movement snacks" throughout your day.
+
+### Every 30 Minutes: Micro-Breaks (30 seconds)
+
+**Chin Tucks**
+Pull your chin straight back (make a double chin). Hold 5 seconds.
+- 5 reps
+
+**Shoulder Blade Squeezes**
+Pull shoulders back and squeeze shoulder blades together. Hold 5 seconds.
+- 5 reps
+
+**Seated Hip Flexor Stretch**
+Scoot to edge of chair, let one leg drop back, tuck pelvis under. Hold 15 seconds each side.
+
+### Every 2 Hours: Movement Breaks (2-3 minutes)
+
+**Standing Hip Flexor Stretch**
+Step into lunge, back knee down if possible. Tuck pelvis under and lean forward slightly. Hold 30 seconds each side.
+
+**Thoracic Extension**
+Place hands behind head, gently arch upper back over the chair back (or a foam roller). Hold 10 seconds.
+- 5 reps
+
+**Wall Angels**
+Stand with back against wall, arms in "goalpost" position. Slide arms up and down while keeping contact with wall.
+- 10 reps
+
+**Hip Circles**
+Stand on one leg, make circles with the other knee. 10 circles each direction, each leg.
+
+### Daily: Maintenance Routine (10-15 minutes)
+
+**Cat-Cow Stretches**
+On hands and knees, alternate arching and rounding your spine.
+- 10-15 cycles
+
+**World's Greatest Stretch**
+From push-up position, step one foot outside your hand. Rotate toward the front leg, reaching arm to ceiling. Alternate sides.
+- 5 each side
+
+**Glute Bridges**
+Lie on back, knees bent. Lift hips, squeeze glutes at top.
+- 15-20 reps
+
+**Deep Squat Hold**
+Squat as deep as comfortable (hold onto something for balance if needed). Just hang out there.
+- Work up to 2-3 minutes total
+
+**Dead Hang (if you have a bar)**
+Simply hang from a pull-up bar. Great for shoulder and spine decompression.
+- 30-60 seconds total
+
+## Workspace Setup Tips
+
+While no setup prevents the harms of prolonged sitting, a good setup reduces strain:
+
+### Monitor
+- Top of screen at or slightly below eye level
+- About arm's length away
+- Directly in front of you (not off to the side)
+
+### Chair
+- Feet flat on floor (or footrest)
+- Knees at roughly 90 degrees
+- Back supported (but don't rely on it constantly)
+
+### Keyboard/Mouse
+- Elbows at roughly 90 degrees
+- Wrists neutral (not bent up or down)
+- Close to body (not reaching forward)
+
+### Consider
+- A sit-stand desk (alternate throughout day)
+- A walking pad for calls
+- Taking phone calls standing or walking
+
+## The Mindset Shift
+
+Stop thinking: "I need to sit with better posture."
+
+Start thinking: "I need to move more often throughout the day."
+
+Your body doesn't want perfect stillness—it wants variety. Even "bad" postures are fine briefly. The harm comes from staying in ANY position too long.
+
+Set a timer. Take your movement snacks. Your body will thank you.
+
+---
+
+*Foundational Rehab offers desk-worker-specific programs designed to counteract the effects of prolonged sitting. Build the habits that keep you pain-free.*
+    `
+  },
   'understanding-low-back-pain': {
     title: 'Understanding Low Back Pain: Causes, Myths, and Modern Treatment',
     date: '2026-02-25',
