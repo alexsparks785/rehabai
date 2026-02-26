@@ -9,19 +9,40 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "RehabAI - Your Personal Rehab Coach",
-  description: "AI-powered personalized rehabilitation and fitness programs for lower back pain recovery",
+  title: {
+    default: "Foundational Rehab - Evidence-Based Recovery Programs",
+    template: "%s | Foundational Rehab"
+  },
+  description: "AI-powered personalized rehabilitation programs for back pain, shoulder recovery, and mobility. Evidence-based exercises designed by physical therapy principles.",
   manifest: "/manifest.json",
+  metadataBase: new URL('https://app.foundationalrehab.com'),
+  openGraph: {
+    type: 'website',
+    locale: 'en_US',
+    url: 'https://app.foundationalrehab.com',
+    siteName: 'Foundational Rehab',
+    title: 'Foundational Rehab - Evidence-Based Recovery Programs',
+    description: 'AI-powered personalized rehabilitation programs for back pain, shoulder recovery, and mobility.',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Foundational Rehab',
+    description: 'AI-powered personalized rehabilitation programs for back pain, shoulder recovery, and mobility.',
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "RehabAI"
+    title: "Foundational Rehab"
   },
-  applicationName: "RehabAI",
-  keywords: ["rehab", "physical therapy", "lower back pain", "exercises", "recovery"],
-  authors: [{ name: "RehabAI" }],
+  applicationName: "Foundational Rehab",
+  keywords: ["physical therapy", "rehab exercises", "back pain relief", "sciatica treatment", "shoulder recovery", "rotator cuff exercises", "mobility exercises", "posture correction", "pain relief", "evidence-based rehab"],
+  authors: [{ name: "Foundational Rehab" }],
   formatDetection: {
     telephone: false
+  },
+  robots: {
+    index: true,
+    follow: true,
   }
 };
 
