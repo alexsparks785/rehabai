@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'ankle-mobility-exercises',
+    title: 'Ankle Mobility: The Missing Link in Your Movement',
+    excerpt: 'Stiff ankles cause problems everywhere—knees, hips, back. Learn why ankle mobility matters and the best exercises to improve it fast.',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
     slug: 'neck-pain-relief-exercises',
     title: 'Neck Pain Relief: Exercises That Actually Work',
     excerpt: 'Stiff neck, tension headaches, and upper back tightness? Most neck pain comes from how we live—and responds well to the right exercises.',

@@ -13,6 +13,175 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'ankle-mobility-exercises': {
+    title: 'Ankle Mobility: The Missing Link in Your Movement',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## The Forgotten Joint
+
+When people have knee pain, they focus on the knee. Back pain? The back. But often, the real problem is hiding in plain sight—at the bottom of the chain.
+
+Your ankles are the foundation of every step, squat, and jump. When they don't move well, problems ripple upward: knee pain, hip tightness, back issues. Yet ankle mobility is one of the most overlooked aspects of movement health.
+
+## Why Ankle Mobility Matters
+
+### The Squat Connection
+
+Try this: squat down as deep as you can with your heels on the ground. If your heels lift, you lean excessively forward, or you can't get deep—your ankles are likely limiting you.
+
+When ankles lack dorsiflexion (the ability to bring toes toward shin), your body compensates:
+- Heels lift off the ground
+- Knees can't track forward properly
+- Torso pitches forward
+- Lower back rounds
+- Hips don't reach full depth
+
+This affects everything from squats to lunges to simply walking up stairs.
+
+### The Knee Pain Connection
+
+Limited ankle mobility often contributes to knee pain. When the ankle can't flex properly, the knee and hip absorb forces differently—often in ways that stress the kneecap and surrounding structures.
+
+Research shows that **improving ankle dorsiflexion can reduce knee pain** even when the knee itself isn't directly treated.
+
+### The Chain Reaction
+
+Your body is a kinetic chain. Stiffness at one joint creates compensation at others:
+
+**Stiff ankles → Knees compensate → Hips compensate → Back compensates**
+
+This is why someone with chronic back pain might actually need to work on their ankles.
+
+## Testing Your Ankle Mobility
+
+### The Wall Test
+
+Kneel facing a wall, one foot forward, toes about 4-5 inches from the wall. Try to touch your knee to the wall without your heel lifting.
+
+**Results:**
+- Knee touches easily → Good mobility
+- Knee barely touches / heel lifts → Moderate restriction
+- Can't get close → Significant restriction
+
+Test both sides—asymmetry is common and worth addressing.
+
+### The Deep Squat Test
+
+Squat as deep as possible, feet shoulder-width, toes slightly out. Can you keep heels down and torso relatively upright?
+
+If not, ankle mobility (or hip mobility, or both) is likely limited.
+
+## What Limits Ankle Mobility?
+
+### Joint Restrictions
+
+The ankle joint itself can become stiff, particularly the talus bone's ability to glide backward as you flex.
+
+### Calf Tightness
+
+The gastrocnemius and soleus (calf muscles) cross the ankle. When tight, they limit dorsiflexion mechanically.
+
+### Previous Injury
+
+Ankle sprains, even old ones, often leave lasting restrictions. Scar tissue and altered mechanics persist long after pain resolves.
+
+### Modern Life
+
+Shoes with elevated heels, excessive sitting, and lack of full-range movement all contribute to gradual stiffening.
+
+## The Fix: A Complete Approach
+
+### 1. Soft Tissue Work (Daily, 2-3 min)
+
+**Calf Foam Rolling**
+Sit with calf on foam roller. Roll from ankle to below knee, pausing on tender spots. Cross one leg over the other for more pressure.
+
+**Calf Stretching**
+Classic wall stretch: hands on wall, one foot back, knee straight, heel down. Hold 30-45 seconds.
+- 3 reps each side
+
+Don't forget the soleus—do the same stretch with your back knee slightly bent.
+
+### 2. Joint Mobilization (Daily, 2-3 min)
+
+**Banded Ankle Mobilization**
+Anchor a resistance band low and loop it around your front ankle, just below the joint. Step forward to create tension. Drive your knee forward over your toes in a lunge position. The band helps pull the talus back for better mechanics.
+- 15-20 reps each side
+
+**Half-Kneeling Ankle Rocks**
+In a half-kneeling position, rock your front knee forward over your toes as far as possible while keeping heel down. Hold 2 seconds, return.
+- 15-20 reps each side
+
+**Ankle CARs (Controlled Articular Rotations)**
+Lift one foot off the ground. Make the largest possible circle with your foot, moving only at the ankle—not the whole leg. Go slowly.
+- 5 circles each direction, each foot
+
+### 3. Loaded Stretching (3-4x per week)
+
+**Deficit Calf Raises**
+Stand on a step with heels hanging off. Lower heels as far as possible (stretch), then rise to toes. Go slowly—3 seconds down, 2 seconds up.
+- 15-20 reps, 3 sets
+
+**Weighted Deep Squat Hold**
+Hold a weight at your chest (goblet position) and sit in a deep squat, driving knees forward over toes. The weight helps you stay balanced and provides gentle loading.
+- Work up to 2-3 minutes total
+
+**Single-Leg Soleus Raises**
+Stand on one foot, knee slightly bent. Rise to toes and lower slowly. This targets the soleus—crucial for ankle mobility.
+- 12-15 reps each side, 3 sets
+
+## Programming for Results
+
+**Quick daily routine (5 minutes):**
+- Calf foam rolling: 1 min each side
+- Banded ankle mobilization: 15 reps each side  
+- Half-kneeling rocks: 15 reps each side
+
+**Full session (3-4x per week, 10-15 minutes):**
+- Foam rolling and stretching: 3-4 min
+- Banded mobilization: 2 sets each side
+- Loaded movements: deficit calf raises, squat holds
+
+## How Long Until Results?
+
+Ankle mobility typically improves faster than hip mobility:
+
+- **2-3 weeks:** Noticeable improvement in available range
+- **4-6 weeks:** Significant improvement; easier squatting
+- **8+ weeks:** Lasting changes with maintenance
+
+Consistency matters more than intensity. Daily work beats occasional aggressive stretching.
+
+## Common Mistakes
+
+**Going too aggressive too fast**
+Jamming into end range aggressively can irritate tissues. Progress gradually.
+
+**Only stretching, not strengthening**
+Flexibility without strength isn't stable. Include loaded exercises.
+
+**Ignoring one side**
+Most people have asymmetry. Spend extra time on the stiffer side.
+
+**Forgetting about it once better**
+Maintenance is required. A few minutes daily keeps ankles mobile.
+
+## The Takeaway
+
+Your ankles might not hurt, but that doesn't mean they're moving well. Limited ankle mobility silently affects your knees, hips, and back—and limits your movement potential.
+
+The good news? Ankles respond quickly to consistent work. A few minutes daily can transform your squat, reduce joint stress, and improve how you move.
+
+Start with the wall test. If you're restricted, you now know exactly what to do.
+
+---
+
+*Foundational Rehab includes ankle mobility work in lower body programs. Our AI-guided approach ensures you're addressing the right restrictions for your movement goals.*
+    `
+  },
   'neck-pain-relief-exercises': {
     title: 'Neck Pain Relief: Exercises That Actually Work',
     date: '2026-02-27',
