@@ -13,6 +13,192 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'knee-pain-squatting-fix': {
+    title: 'Knee Pain When Squatting: Causes, Fixes, and When to Worry',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Knees',
+    readTime: '8 min read',
+    content: `
+## The Frustration of Knee Pain
+
+You're trying to get stronger, stay fit, or just function better—and every time you squat, your knees protest. Front-of-knee pain during squatting is one of the most common complaints in fitness and rehab settings.
+
+The good news? It's usually very fixable. The bad news? Most advice you'll find online is either wrong or overly simplistic.
+
+Let's break down what's actually happening and how to fix it.
+
+## What's Causing Your Pain?
+
+### Patellofemoral Pain Syndrome (PFPS)
+
+The most common diagnosis for front-of-knee pain. Your kneecap (patella) glides in a groove on your thigh bone (femur). When tracking isn't optimal, the cartilage under the kneecap gets irritated.
+
+**Feels like:** Aching pain around or behind the kneecap, worse with squatting, stairs, or sitting with knees bent for long periods.
+
+### Patellar Tendinopathy ("Jumper's Knee")
+
+The tendon connecting your kneecap to your shin bone becomes irritated, usually from overuse or rapid increases in training.
+
+**Feels like:** Pain at the bottom of your kneecap, right where the tendon attaches. Often worse with explosive movements.
+
+### IT Band Issues
+
+The iliotibial band runs down the outside of your thigh. When tight or overworked, it can affect knee tracking.
+
+**Feels like:** Pain on the outside of the knee, often worse with deeper squats or lateral movements.
+
+### Meniscus Problems
+
+The cartilage pads in your knee can be injured or degenerate over time.
+
+**Feels like:** Clicking, catching, or locking. Pain often along the joint line (sides of the knee).
+
+## The Myth of "Bad Knees"
+
+Here's what most people get wrong: **the knee is usually the victim, not the criminal.**
+
+Knee pain during squatting typically results from:
+- Weakness in the hips (especially glutes)
+- Poor ankle mobility
+- Quadriceps imbalances
+- Too much too soon (load management)
+- Movement patterns, not structural problems
+
+When your hips are weak, your knees compensate. When your ankles are stiff, your knees compensate. The knee sits in the middle and takes the abuse.
+
+## Assessment: Finding Your Issue
+
+### The Single-Leg Squat Test
+
+Stand on one leg and slowly squat down as far as you can control. Watch (or film) your knee:
+- Does it cave inward? → Hip weakness
+- Does it shoot forward early? → Ankle stiffness or quad dominance
+- Can you control the descent? → Overall stability
+
+### Ankle Mobility Check
+
+Kneel facing a wall, toes about 4 inches away. Try to touch your knee to the wall without your heel lifting. Switch sides.
+- Can't reach? → Ankle mobility limitation
+- Significant side difference? → Address the stiff side
+
+### Hip Strength Check
+
+Side-lying leg raises: lie on your side, lift your top leg toward the ceiling, keeping it straight. Can you do 20 reps with good form without burning out quickly? If not, hip weakness is likely contributing.
+
+## The Fix: A Progressive Approach
+
+### Step 1: Load Management (Week 1-2)
+
+Don't stop squatting—modify. Pain during exercise should stay below 3/10, and shouldn't be worse the next day.
+
+**Modifications that help:**
+- Reduce depth (pain usually increases with depth)
+- Box squats (sit back to a box, stand up)
+- Tempo squats (3 seconds down, 3 seconds up)
+- Reduce weight temporarily
+- Widen or narrow stance (experiment)
+
+### Step 2: Build What's Weak (Ongoing)
+
+**Hip Strengthening (Daily)**
+
+**Clamshells with Band**
+Side-lying, knees bent, band around thighs. Open top knee against resistance.
+- 15-20 reps, 3 sets each side
+
+**Glute Bridges with Band**
+Band around thighs, push knees out as you bridge.
+- 15-20 reps, 3 sets
+
+**Single-Leg Romanian Deadlifts**
+Stand on one leg, hinge forward while extending other leg back. Use wall for balance initially.
+- 10-12 reps, 3 sets each side
+
+**Quadriceps Balance (Daily)**
+
+**Terminal Knee Extensions**
+Band anchored behind you, around knee. Start with knee bent, straighten against resistance, squeezing quad at top.
+- 15-20 reps, 3 sets
+
+**Spanish Squats**
+Band around knees anchored in front. Lean back into the band and squat, keeping shins vertical. This reduces kneecap compression.
+- 10-15 reps, 3 sets
+
+**VMO Focus Step-Downs**
+Stand on a step, slowly lower opposite heel to touch floor, focusing on controlling with the quad (especially inner quad).
+- 10-15 reps, 3 sets each side
+
+### Step 3: Improve Ankle Mobility (Daily)
+
+**Ankle Dorsiflexion Stretch**
+Half-kneeling facing wall. Drive knee forward over toes toward wall. Hold end range 30 seconds.
+- 3 reps each side
+
+**Banded Ankle Mobilization**
+Band around front of ankle, anchored behind you. Drive knee forward. The band pulls the talus back for better mechanics.
+- 10-15 reps each side
+
+### Step 4: Rebuild the Squat (Week 2+)
+
+**Goblet Box Squat**
+Hold weight at chest, squat back to a box (height where no pain occurs). Stand up. Focus on sitting back, keeping knees tracking over toes.
+- 3 sets of 10-12
+
+**Progress gradually:**
+1. Lower the box height over weeks
+2. Transition to free squats (no box)
+3. Gradually add load
+4. Reintroduce depth
+
+## Technique Tweaks That Help
+
+### Knee Position
+Knees should track over toes (not cave in). Cue: "spread the floor" with your feet.
+
+### Squat Depth
+Only go as deep as you can control without pain. Depth will improve as you address mobility and strength.
+
+### Stance Width
+Experiment. Some people do better wider, some narrower. There's no universal "right" stance.
+
+### Heel Elevation
+If ankle mobility is limiting you, elevate your heels slightly (plates, wedge, or squat shoes). This is a tool, not a crutch.
+
+### Bar Position (If Applicable)
+High bar requires more ankle mobility. Low bar requires more hip mobility. Try both.
+
+## When to Worry
+
+Most knee pain from squatting is mechanical and fixable with the approach above. However, see a professional if:
+
+- Significant swelling that doesn't resolve
+- Locking or catching (can't fully bend or straighten)
+- Giving way or instability
+- Pain that worsens despite modification
+- Pain at rest or at night
+- Following an acute injury (pop, twist)
+
+## The Timeline
+
+Expect gradual improvement over 4-8 weeks with consistent work. Knee issues tend to be stubborn—you're rebuilding strength and movement patterns that took years to develop.
+
+**Week 1-2:** Load management, start strengthening
+**Week 3-4:** Notice less pain with daily activities
+**Week 5-8:** Return to deeper squats, start adding load
+**Week 8+:** Full training with ongoing maintenance work
+
+## The Long Game
+
+Even after you're pain-free, keep doing the hip and quad work 2-3x per week. These muscles need ongoing attention to keep your knees happy.
+
+Think of it as maintenance, not treatment. Bodies need consistent input to stay robust.
+
+---
+
+*Foundational Rehab offers targeted programs for knee pain recovery. Our AI-guided approach adapts to your progress and keeps you moving toward pain-free squatting.*
+    `
+  },
   'sciatica-exercises-relief': {
     title: 'Sciatica Exercises: Evidence-Based Moves for Lasting Relief',
     date: '2026-02-26',

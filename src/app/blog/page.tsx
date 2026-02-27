@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'knee-pain-squatting-fix',
+    title: 'Knee Pain When Squatting: Causes, Fixes, and When to Worry',
+    excerpt: 'Front knee pain during squats is frustrating but usually fixable. Learn what\'s actually causing it, which exercises help, and how to squat pain-free again.',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Knees',
+    readTime: '8 min read'
+  },
+  {
     slug: 'sciatica-exercises-relief',
     title: 'Sciatica Exercises: Evidence-Based Moves for Lasting Relief',
     excerpt: 'Sciatica pain shooting down your leg? Learn which exercises actually help (and which make it worse), plus a progressive program for long-term relief.',
