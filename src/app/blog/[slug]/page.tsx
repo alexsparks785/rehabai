@@ -13,6 +13,191 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'neck-pain-relief-exercises': {
+    title: 'Neck Pain Relief: Exercises That Actually Work',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Neck',
+    readTime: '7 min read',
+    content: `
+## The Modern Neck Problem
+
+Look around any coffee shop, office, or subway car. Heads down, shoulders rounded, necks craned forward toward screens. This posture—repeated for hours daily, for years—is why neck pain has become epidemic.
+
+Neck pain affects **30-50% of adults** annually. It's the fourth leading cause of disability globally. And while it has many possible causes, the vast majority of cases share a common thread: how we position ourselves in modern life.
+
+## Understanding Your Neck
+
+Your cervical spine (neck) consists of 7 vertebrae supporting your head—which weighs about 10-12 pounds. When your head is balanced directly over your spine, the muscles work minimally.
+
+But here's the problem: **for every inch your head moves forward, it effectively doubles in weight** as far as your neck muscles are concerned. That "text neck" position? Your muscles are working as if your head weighs 40-60 pounds.
+
+All day. Every day.
+
+## Common Neck Pain Patterns
+
+### Tension-Type Pain
+Dull, aching pain across the neck and shoulders. Often worse at the end of the day. Muscles feel tight and tender.
+
+**Usually from:** Sustained postures, stress, poor ergonomics
+
+### Cervicogenic Headaches
+Headaches that start in the neck and radiate to the head—often one-sided, sometimes behind the eye.
+
+**Usually from:** Joint stiffness and muscle tension in the upper neck
+
+### Acute "Crick" or Wry Neck
+Sudden onset of sharp pain and stiffness, often after sleeping awkwardly or a quick movement.
+
+**Usually from:** Muscle spasm or minor joint irritation—almost always resolves within days
+
+### Radiating Pain
+Pain, numbness, or tingling that travels into the shoulder, arm, or hand.
+
+**Usually from:** Nerve irritation—may need professional evaluation if persistent
+
+## What Causes Most Neck Pain?
+
+### Forward Head Posture
+The #1 culprit. Screens pull our heads forward. Over time, this creates muscle imbalances: front neck muscles shorten, back muscles lengthen and weaken, and upper traps become overworked.
+
+### Sustained Positions
+Holding any position too long is problematic. The issue isn't that you look at your phone—it's that you do it for hours without movement breaks.
+
+### Stress and Tension
+Emotional stress manifests physically. Many people carry tension in their neck and shoulders, keeping muscles chronically contracted.
+
+### Poor Sleep Positions
+Stomach sleeping or using too many pillows can strain the neck for hours nightly.
+
+### Weakness
+When the deep neck stabilizers are weak, the superficial muscles overwork—leading to tension and pain.
+
+## The Fix: A Multi-Pronged Approach
+
+### 1. Postural Awareness (Throughout Day)
+
+**Chin Tucks**
+The single most important exercise for desk workers. Pull your chin straight back (make a double chin), hold 5 seconds.
+- 10 reps, every hour
+
+**Posture Reset**
+Roll shoulders up, back, and down. Gently squeeze shoulder blades. Lengthen through the crown of your head.
+- Every 30 minutes at your desk
+
+**Screen Position**
+Top of monitor at eye level. Phone at eye level (or as close as practical). Don't let your head chase the screen.
+
+### 2. Mobility Work (Daily)
+
+**Neck Rotations**
+Slowly turn head to look over each shoulder. Hold end range 5 seconds.
+- 5-10 each direction
+
+**Lateral Neck Stretch**
+Tilt ear toward shoulder. For more stretch, gently pull with hand. Keep opposite shoulder down.
+- Hold 30 seconds each side
+
+**Upper Trap Stretch**
+Tilt head away from tight side, gently rotate chin toward armpit. Reach opposite arm toward floor.
+- Hold 30 seconds each side
+
+**Thoracic Extension**
+Sit in chair, hands behind head. Gently arch upper back over the chair back, looking up.
+- 10 reps, twice daily
+
+### 3. Strengthening (3-4x Per Week)
+
+**Deep Neck Flexor Activation**
+Lie on back, gently tuck chin (as if nodding "yes"). Feel the front of your neck engage—not the big muscles, the deep ones.
+- Hold 10 seconds, 10 reps
+
+**Prone Y-T-W Raises**
+Lie face down, arms hanging off bed or bench. Raise arms into Y position (thumbs up), then T, then W. Squeeze shoulder blades.
+- 10 reps each position, 2 sets
+
+**Rows**
+Band or cable rows, pulling toward lower ribs. Squeeze shoulder blades back and down.
+- 15 reps, 3 sets
+
+**Face Pulls**
+Band at face height, pull toward face while externally rotating shoulders. Great for posterior shoulder and upper back.
+- 15 reps, 3 sets
+
+### 4. Stress Management
+
+If stress is a contributor (it usually is), address it directly:
+- Diaphragmatic breathing exercises
+- Regular physical activity
+- Adequate sleep
+- Whatever helps you decompress (walking, meditation, hobbies)
+
+### 5. Sleep Setup
+
+- **Back sleeping:** Use a pillow that keeps your head neutral, not pushed forward
+- **Side sleeping:** Pillow should fill the gap between shoulder and head
+- **Stomach sleeping:** Try to break this habit—it forces neck rotation for hours
+
+## Exercises to Avoid (Initially)
+
+- Heavy overhead pressing (can aggravate some neck issues)
+- Neck bridges or extreme neck loading
+- High-impact activities if having acute symptoms
+- Aggressive stretching into pain
+
+## The Desk Setup Checklist
+
+**Monitor:**
+- Top at eye level or slightly below
+- Directly in front of you
+- About arm's length away
+
+**Chair:**
+- Supports natural lumbar curve
+- Allows feet flat on floor
+- Armrests at elbow height
+
+**Keyboard/Mouse:**
+- Elbows at roughly 90 degrees
+- Shoulders relaxed (not shrugged)
+- Wrists neutral
+
+## When to See a Professional
+
+Most neck pain is mechanical and responds to the approach above. However, seek evaluation if:
+
+- Pain radiates into the arm with numbness, tingling, or weakness
+- Pain follows significant trauma
+- You have difficulty with coordination or walking
+- Pain is severe and unrelenting
+- Symptoms are worsening despite self-care
+- You have accompanying fever, unexplained weight loss, or night sweats
+
+## The Timeline
+
+**Acute episodes** (crick in neck): Usually resolve within 3-7 days
+
+**Chronic tension patterns:** Expect 4-8 weeks of consistent work to see significant change. The patterns developed over years—they won't resolve overnight.
+
+**Ongoing maintenance:** Neck-friendly habits need to become permanent. This isn't a "fix it and forget it" situation.
+
+## The Key Insight
+
+Your neck pain probably isn't because something is "wrong" with your neck. It's because modern life demands sustained positions your body wasn't designed for.
+
+The solution isn't to fix your neck—it's to change how you use it:
+- Move more frequently
+- Strengthen what's weak
+- Stretch what's tight
+- Reduce sustained positions
+
+Your neck is remarkably resilient when you give it what it needs.
+
+---
+
+*Foundational Rehab offers targeted programs for neck pain and postural issues. Build the habits and strength that keep you pain-free.*
+    `
+  },
   'plantar-fasciitis-recovery': {
     title: 'Plantar Fasciitis: Why Your Heel Hurts and How to Fix It',
     date: '2026-02-27',
