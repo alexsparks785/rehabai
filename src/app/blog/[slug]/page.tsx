@@ -13,6 +13,167 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'it-band-syndrome-treatment': {
+    title: 'IT Band Syndrome: Why Foam Rolling Isn\'t Enough',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '7 min read',
+    content: `
+## The Runner's Nemesis
+
+You're a few miles into your run when it starts—that sharp pain on the outside of your knee. You push through, but it gets worse. Eventually, every step hurts. Welcome to IT band syndrome, one of the most common running injuries.
+
+IT band syndrome (ITBS) accounts for **12% of all running injuries** and is the leading cause of lateral (outer) knee pain in runners. It also affects cyclists, hikers, and anyone who does repetitive knee bending.
+
+## What Is the IT Band?
+
+The iliotibial band is a thick strip of connective tissue running from your hip to just below your knee on the outside of your thigh. It's not a muscle—it's fascia, similar to a tough tendon.
+
+The IT band helps stabilize your knee during movement, particularly when your foot strikes the ground during running.
+
+## What's Actually Happening?
+
+Here's where things get interesting—and where most treatment goes wrong.
+
+### The Old Theory (Wrong)
+The traditional explanation was that the IT band "snaps" over a bony bump on the outside of the knee, causing friction and irritation. Treatment focused on stretching and foam rolling to loosen the band.
+
+### The Current Understanding (Better)
+Research now shows the IT band doesn't actually slide back and forth. Instead, it compresses against a fat pad and other tissues on the outside of the knee during repetitive bending.
+
+More importantly, **the IT band itself isn't the problem**—it's a symptom. The real issues are usually:
+- Hip weakness (especially glutes)
+- Poor running mechanics
+- Training errors (too much, too soon)
+
+## Why Foam Rolling Isn't Enough
+
+Don't get us wrong—foam rolling the IT band and surrounding muscles can provide temporary relief. But it doesn't address the underlying cause.
+
+Think about it: if the IT band is being overloaded because your hips are weak, rolling the IT band doesn't strengthen your hips. You might feel better for an hour, then the pain returns.
+
+**Foam rolling = symptom management**
+**Hip strengthening = actual treatment**
+
+This is why so many runners roll religiously but never fully resolve their ITBS.
+
+## The Real Fix: A Complete Approach
+
+### 1. Load Management (Immediate)
+
+If running hurts, reduce volume and intensity. You don't necessarily need complete rest, but you need to stay below your pain threshold.
+
+**Guidelines:**
+- Run at a pace/distance where pain stays below 3/10
+- If pain increases during a run, stop
+- Pain shouldn't be worse the next day
+
+Cross-train with activities that don't aggravate symptoms: swimming, cycling (if pain-free), upper body work.
+
+### 2. Hip Strengthening (The Core of Treatment)
+
+This is where the magic happens. Weak hip abductors (especially gluteus medius) allow the knee to collapse inward during running, increasing IT band stress.
+
+**Side-Lying Hip Abduction**
+Lie on your side, bottom knee bent for stability. Lift top leg toward ceiling, keeping it straight and slightly behind you. Don't let your hip roll back.
+- 15-20 reps, 3 sets each side
+
+**Clamshells with Band**
+Side-lying, knees bent 90 degrees, band around thighs. Open top knee against resistance while keeping feet together.
+- 20 reps, 3 sets each side
+
+**Single-Leg Bridges**
+Lie on back, one foot flat, other leg extended. Lift hips, squeezing glute at top. Lower with control.
+- 12-15 reps, 3 sets each side
+
+**Single-Leg Deadlifts**
+Stand on one leg, hinge forward at hips while extending other leg behind you. Feel the standing-leg glute work.
+- 10-12 reps, 3 sets each side
+
+**Lateral Band Walks**
+Band around ankles or thighs. Maintain slight squat position, step sideways while keeping tension on band.
+- 15 steps each direction, 3 sets
+
+### 3. Running Form Considerations
+
+While form changes are controversial (your body has found its preferred pattern for a reason), some adjustments may help ITBS:
+
+**Increase Cadence**
+Taking slightly shorter, faster steps (aim for 5-10% increase in cadence) can reduce loading on the IT band.
+
+**Avoid Overstriding**
+Landing with your foot well ahead of your body increases braking forces and knee stress.
+
+**Avoid Crossover Gait**
+If your feet cross the midline when running (like running on a tightrope), work on keeping a wider base.
+
+### 4. Soft Tissue Work (Supporting Role)
+
+Foam rolling isn't the fix, but it can help as part of a complete approach:
+
+**Foam Roll the Quads and Glutes**
+These muscles attach to or near the IT band. Rolling them can provide relief.
+- 1-2 minutes each area
+
+**Don't Crush the IT Band**
+Aggressive rolling directly on the IT band can irritate it further. Be gentle, or focus on surrounding muscles instead.
+
+### 5. Address Training Errors
+
+ITBS often appears after:
+- Sudden increase in mileage
+- Adding hill training
+- Increasing speed work
+- New shoes or surfaces
+- Return to running after time off
+
+Look at what changed before symptoms started—that's often where the problem lies.
+
+## The Recovery Timeline
+
+ITBS can be stubborn, but most cases resolve with proper treatment:
+
+- **Week 1-2:** Load management, begin hip strengthening
+- **Week 3-4:** Continue strengthening, gradually return to running if pain allows
+- **Week 5-8:** Progressive return to full training
+- **Week 8-12:** Full recovery for most cases
+
+Some people recover faster; severe cases may take longer. The key is not rushing back too quickly.
+
+## Return to Running Protocol
+
+Don't go from 0 to your normal mileage. Progress gradually:
+
+**Week 1:** Walk/run intervals (2 min run, 1 min walk) for 20 minutes
+**Week 2:** Longer run intervals (4 min run, 1 min walk) for 25 minutes
+**Week 3:** Continuous running, 50% of normal easy distance
+**Week 4:** 70% of normal distance
+**Week 5+:** Gradual return to full training
+
+Stop and reassess if pain returns above 3/10.
+
+## Prevention
+
+Once recovered, keep ITBS from returning:
+
+- **Maintain hip strength:** 2-3 sessions per week, forever
+- **Progress training gradually:** No more than 10% mileage increase per week
+- **Vary surfaces and routes:** Don't always run the same cambered road
+- **Replace worn shoes:** Every 300-500 miles
+- **Listen to early warning signs:** Address minor discomfort before it becomes injury
+
+## The Bottom Line
+
+IT band syndrome isn't really about the IT band—it's about hip strength, training load, and running mechanics. Foam rolling might feel good, but it won't solve the problem.
+
+The runners who recover fully are the ones who commit to hip strengthening and progress their return to running patiently. Take the time to do it right, and you'll come back stronger than before.
+
+---
+
+*Foundational Rehab offers running-specific recovery programs that address the real causes of IT band syndrome. Get back to running stronger and pain-free.*
+    `
+  },
   'ankle-mobility-exercises': {
     title: 'Ankle Mobility: The Missing Link in Your Movement',
     date: '2026-02-27',

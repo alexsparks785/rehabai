@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'it-band-syndrome-treatment',
+    title: 'IT Band Syndrome: Why Foam Rolling Isn\'t Enough',
+    excerpt: 'Outer knee pain from running or cycling? IT band syndrome is common—but most treatment approaches miss the real cause. Here\'s what actually works.',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '7 min read'
+  },
+  {
     slug: 'ankle-mobility-exercises',
     title: 'Ankle Mobility: The Missing Link in Your Movement',
     excerpt: 'Stiff ankles cause problems everywhere—knees, hips, back. Learn why ankle mobility matters and the best exercises to improve it fast.',
