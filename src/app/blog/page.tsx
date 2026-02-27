@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'plantar-fasciitis-recovery',
+    title: 'Plantar Fasciitis: Why Your Heel Hurts and How to Fix It',
+    excerpt: 'That stabbing heel pain in the morning? Plantar fasciitis affects 1 in 10 people. Learn what actually works for recovery—and what\'s a waste of time.',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Feet',
+    readTime: '7 min read'
+  },
+  {
     slug: 'knee-pain-squatting-fix',
     title: 'Knee Pain When Squatting: Causes, Fixes, and When to Worry',
     excerpt: 'Front knee pain during squats is frustrating but usually fixable. Learn what\'s actually causing it, which exercises help, and how to squat pain-free again.',

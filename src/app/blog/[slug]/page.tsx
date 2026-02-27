@@ -13,6 +13,183 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'plantar-fasciitis-recovery': {
+    title: 'Plantar Fasciitis: Why Your Heel Hurts and How to Fix It',
+    date: '2026-02-27',
+    author: 'Foundational Rehab',
+    category: 'Feet',
+    readTime: '7 min read',
+    content: `
+## The Morning Hobble
+
+You know the feeling: you swing your legs out of bed, put your foot down, and—sharp, stabbing pain in your heel. After a few minutes of walking, it eases up. But then you sit for a while and the first steps are brutal all over again.
+
+This is plantar fasciitis, and it affects roughly **1 in 10 people** at some point in their lives. It's one of the most common causes of heel pain—and one of the most frustrating to deal with.
+
+## What Is the Plantar Fascia?
+
+The plantar fascia is a thick band of connective tissue that runs along the bottom of your foot, connecting your heel bone to your toes. It supports your arch and absorbs shock when you walk.
+
+Plantar fasciitis occurs when this tissue becomes irritated, inflamed, or degenerative—usually where it attaches to the heel bone.
+
+## Why Does It Happen?
+
+### The Overload Story
+
+Plantar fasciitis is fundamentally a **load management problem**. The tissue can handle a certain amount of stress. When demand exceeds capacity—either suddenly or over time—problems develop.
+
+Common triggers:
+- **Rapid increase in activity** (new running program, standing job)
+- **Weight gain** (more load through the feet)
+- **Poor footwear** (worn-out shoes, unsupportive flats)
+- **Tight calves** (alter foot mechanics, increase plantar fascia stress)
+- **Weak foot muscles** (fascia works harder to compensate)
+- **Prolonged standing** (cumulative load)
+
+### Risk Factors
+
+- Age 40-60 (most common range)
+- Running or high-impact sports
+- Occupations requiring prolonged standing
+- Obesity or rapid weight gain
+- Flat feet or very high arches
+- Tight Achilles tendon
+
+## The Good News
+
+Here's what many people don't realize: **plantar fasciitis has an excellent prognosis**. About 80% of cases resolve within 12 months with conservative treatment—no injections, no surgery.
+
+The frustrating part? It takes time. This isn't a 2-week recovery. Plan for 3-6 months of consistent work.
+
+## What Actually Works
+
+### 1. Calf Stretching (Essential)
+
+Tight calves are present in most plantar fasciitis cases. Stretching them reduces tension on the plantar fascia.
+
+**Wall Calf Stretch**
+Hands on wall, one foot back with knee straight. Lean forward until you feel stretch in calf. Hold 30 seconds.
+- 3 reps, 3 times daily
+
+**Bent-Knee Calf Stretch (Soleus)**
+Same position, but bend back knee. This targets the deeper calf muscle.
+- 3 reps, 3 times daily
+
+### 2. Plantar Fascia Stretching
+
+**Seated Plantar Fascia Stretch**
+Sit with ankle on opposite knee. Pull toes back toward shin until you feel stretch along the arch.
+- Hold 30 seconds, 10 reps, especially before first steps in morning
+
+**Research shows:** Doing this stretch before getting out of bed significantly reduces morning pain.
+
+### 3. Loading Exercises (Key for Recovery)
+
+This is where most treatment plans fall short. The plantar fascia, like all connective tissue, needs **progressive loading** to heal properly and build resilience.
+
+**Towel Scrunches**
+Place towel on floor. Use toes to scrunch it toward you.
+- 2-3 minutes, twice daily
+
+**Marble Pickups**
+Pick up marbles with toes, place in cup.
+- 20 reps each foot, daily
+
+**Single-Leg Calf Raises (Progression)**
+This is the gold standard exercise for plantar fasciitis. Stand on a step, heels hanging off. Rise up on toes, lower slowly (3 seconds down).
+
+Week 1-2: Both feet, flat ground
+Week 3-4: Both feet, off step
+Week 5-6: Single leg, flat ground
+Week 7+: Single leg, off step
+
+- 3 sets of 12-15 reps, every other day
+
+**Research shows:** Heavy slow resistance training (like calf raises) produces better outcomes than stretching alone.
+
+### 4. Footwear Matters
+
+**Do:**
+- Wear supportive shoes, even around the house
+- Replace worn-out athletic shoes (every 300-500 miles)
+- Consider shoes with good arch support and cushioned heel
+
+**Don't:**
+- Walk barefoot on hard surfaces (especially early in recovery)
+- Wear completely flat shoes (ballet flats, flip flops)
+- Ignore worn-out shoes
+
+### 5. First Step Protection
+
+Since the first steps after rest are the worst, protect them:
+
+- Stretch plantar fascia before getting out of bed
+- Keep supportive slippers next to bed
+- Don't walk barefoot to the bathroom
+
+## What Probably Doesn't Work (But Gets Prescribed Anyway)
+
+### Night Splints
+Mixed evidence. May help some people, but compliance is low (uncomfortable) and benefits are modest.
+
+### Orthotics
+Off-the-shelf arch supports may provide comfort, but evidence for custom orthotics isn't strong for plantar fasciitis specifically. Try cheap ones first.
+
+### Cortisone Injections
+Provide short-term relief but don't address the underlying problem. Some evidence they may weaken tissue with repeated use.
+
+### Ultrasound, Laser, E-Stim
+No strong evidence these passive treatments help beyond placebo.
+
+### Surgery
+Very rarely needed. Reserved for severe cases that fail 6-12 months of proper conservative care.
+
+## The Recovery Timeline
+
+Be patient. Connective tissue heals slowly.
+
+- **Week 1-4:** Focus on pain management, stretching, footwear
+- **Month 2-3:** Introduce loading exercises, gradual progression
+- **Month 3-6:** Progressive strengthening, return to activities
+- **Month 6-12:** Full resolution for most people
+
+Morning pain is usually the last symptom to resolve. It can linger even as everything else improves.
+
+## Activity Modification (Not Complete Rest)
+
+Complete rest doesn't help—you need to load the tissue to stimulate healing. But you do need to modify:
+
+- Reduce high-impact activities temporarily (running, jumping)
+- Cross-train with low-impact options (cycling, swimming)
+- Reduce prolonged standing when possible
+- Progress activities gradually as pain allows
+
+## Red Flags: When to See a Doctor
+
+Most plantar fasciitis is manageable with self-treatment. See a professional if:
+
+- Pain started after an injury (possible tear)
+- Numbness or tingling in the foot
+- Significant swelling or bruising
+- Pain that's severe or getting worse despite treatment
+- Pain at rest or at night (not just first steps)
+- No improvement after 2-3 months of consistent treatment
+
+## The Keys to Success
+
+1. **Be consistent** — Daily stretching and exercises, not occasional
+2. **Be patient** — This takes months, not weeks
+3. **Load progressively** — Stretching alone isn't enough; you need to strengthen
+4. **Protect first steps** — Stretch before standing after rest
+5. **Fix footwear** — Supportive shoes, especially at home
+
+Plantar fasciitis is frustrating, but it's very treatable. The people who recover fully are the ones who commit to the boring, consistent work for several months.
+
+---
+
+*Foundational Rehab offers structured plantar fasciitis recovery programs. Our approach combines the stretching, strengthening, and progression that research supports.*
+    `
+  },
   'knee-pain-squatting-fix': {
     title: 'Knee Pain When Squatting: Causes, Fixes, and When to Worry',
     date: '2026-02-27',
