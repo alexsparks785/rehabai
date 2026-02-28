@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'tennis-elbow-golfers-elbow-treatment',
+    title: 'Tennis Elbow & Golfer\'s Elbow: The Complete Recovery Guide',
+    excerpt: 'Elbow pain that won\'t quit? Tennis and golfer\'s elbow are tendon problems—and rest alone won\'t fix them. Here\'s what works.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '8 min read'
+  },
+  {
     slug: 'tight-hamstrings-causes-fixes',
     title: 'Tight Hamstrings: Why Stretching Isn\'t Working',
     excerpt: 'Stretching every day but still tight? The problem isn\'t your hamstrings—it\'s your approach. Here\'s what actually works.',

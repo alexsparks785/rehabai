@@ -13,6 +13,240 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'tennis-elbow-golfers-elbow-treatment': {
+    title: 'Tennis Elbow & Golfer\'s Elbow: The Complete Recovery Guide',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '8 min read',
+    content: \`
+## The Elbow Epidemic
+
+You don't play tennis. You've never golfed. Yet here you are with elbow pain that won't quit.
+
+Tennis elbow and golfer's elbow are misleading names. These conditions affect anyone who uses their hands repetitively—programmers, mechanics, musicians, weightlifters, even people who just scroll their phones too much.
+
+**The numbers:** Tennis elbow affects 1-3% of the population. Among people who do repetitive hand work, that number jumps to 15%.
+
+## Tennis Elbow vs Golfer's Elbow
+
+**Tennis Elbow (Lateral Epicondylitis)**
+- Pain on the OUTSIDE of the elbow
+- Affects wrist extensors (muscles that bend wrist backward)
+- Hurts with gripping, twisting, lifting with palm down
+
+**Golfer's Elbow (Medial Epicondylitis)**
+- Pain on the INSIDE of the elbow
+- Affects wrist flexors (muscles that bend wrist forward)
+- Hurts with gripping, throwing, lifting with palm up
+
+Both are tendinopathies—overuse injuries where the tendon becomes irritated and fails to heal properly.
+
+## What's Actually Happening
+
+Old thinking called these "tendinitis"—inflammation of the tendon. But research shows inflammation is only present in the acute phase (first 1-2 weeks).
+
+**The real problem:** Tendinosis—a breakdown of the tendon's collagen structure without significant inflammation. The tendon becomes disorganized, weaker, and painful.
+
+This is why anti-inflammatory treatments (ice, NSAIDs) don't work long-term. You're treating inflammation that isn't there.
+
+**What does work:** Loading the tendon appropriately to stimulate repair and reorganization.
+
+## Common Causes
+
+### Occupational
+- Computer/mouse work (most common modern cause)
+- Manual labor (gripping tools)
+- Assembly line work
+
+### Sports
+- Racquet sports (tennis, padel, squash)
+- Golf (both elbows can be affected)
+- Throwing sports
+- Weightlifting (especially pulling movements)
+
+### Lifestyle
+- Carrying bags with bent elbow
+- Prolonged phone/tablet use
+- Knitting, gardening, cooking
+- Any repetitive gripping
+
+### Contributing Factors
+- Poor grip strength
+- Weak shoulder/rotator cuff
+- Cervical spine issues (can refer pain to elbow)
+- Starting new activities too quickly
+
+## Why It Doesn't Heal on Its Own
+
+Tendons have poor blood supply compared to muscles. This means slower healing.
+
+But the bigger issue: people either rest completely (which weakens the tendon) or push through (which prevents healing).
+
+**The Goldilocks problem:**
+- Too little load → Tendon weakens, can't handle normal use
+- Too much load → Ongoing microtrauma, no healing
+- Just right → Stimulates repair, builds tolerance
+
+Finding "just right" is the key to recovery.
+
+## The Evidence-Based Treatment Protocol
+
+### Phase 1: Pain Management (Weeks 1-2)
+
+**Relative Rest**
+Don't stop using your arm—but modify painful activities. The goal is reducing pain to allow initial healing.
+
+**Activity Modification:**
+- Use both hands for lifting
+- Switch mouse to other hand (or use vertical mouse)
+- Avoid palm-down gripping
+- Take breaks during repetitive tasks
+
+**Counterforce Brace**
+A strap worn below the elbow changes the force distribution on the tendon. Wear during aggravating activities.
+
+**Pain Rule:** Activities should not increase pain above 3/10. If they do, modify or stop.
+
+### Phase 2: Isometric Loading (Weeks 2-4)
+
+Isometric exercises (muscle activation without movement) help with pain and begin tendon loading.
+
+**Wrist Extension Isometric (Tennis Elbow)**
+Rest forearm on table, palm down, wrist over edge. Make a fist. Push back of hand into other hand (or immovable surface). Hold 30-45 seconds.
+- 5 reps, 3x daily
+
+**Wrist Flexion Isometric (Golfer's Elbow)**
+Rest forearm on table, palm up, wrist over edge. Push palm into other hand. Hold 30-45 seconds.
+- 5 reps, 3x daily
+
+**Key point:** These should reduce pain immediately. If they increase pain, adjust position or reduce force.
+
+### Phase 3: Eccentric Loading (Weeks 4-8)
+
+Eccentric exercise (muscle lengthening under load) is the gold standard for tendinopathy treatment.
+
+**Tyler Twist (Tennis Elbow)**
+Hold FlexBar (or rolled towel) vertically. Grip top with affected hand, wrist extended. Grip bottom with other hand. Twist bar with bottom hand while holding top position. Then slowly untwist by letting affected wrist flex.
+- 15 reps, 3 sets, 1-2x daily
+
+**Reverse Tyler Twist (Golfer's Elbow)**
+Same concept but reverse the movement. Start with affected wrist flexed, slowly extend against resistance.
+- 15 reps, 3 sets, 1-2x daily
+
+**Dumbbell Eccentrics**
+Rest forearm on table, wrist over edge. Lift light weight (2-5 lbs) using other hand to assist. Lower slowly over 3-4 seconds using only affected arm.
+- 15 reps, 3 sets daily
+
+### Phase 4: Progressive Strengthening (Weeks 8-12+)
+
+**Wrist Curls (Both Directions)**
+Full range wrist curls with gradual weight increase. Both concentric (lifting) and eccentric (lowering) phases now.
+- 3x15, increase weight when easy
+
+**Forearm Pronation/Supination**
+Hold hammer or weighted bar at end. Rotate palm up, then palm down, with control.
+- 3x15 each direction
+
+**Grip Strengthening**
+Gradually add grip work. Start with putty or light gripper. Progress to farmer's carries.
+- Daily, progressive
+
+**Integrated Movements**
+Gradually return to normal activities. Pulling movements in the gym, racquet sports, etc. Progress slowly.
+
+### Phase 5: Maintenance
+
+Tendons adapt slowly. Even when pain is gone, continue:
+- 2x weekly strengthening
+- Warm-up before aggravating activities
+- Monitoring load (don't spike volume suddenly)
+
+## Timeline Expectations
+
+**Week 1-2:** Pain management phase. May feel similar or slightly better.
+
+**Week 3-4:** Isometrics providing pain relief. Starting to feel functional improvement.
+
+**Week 6-8:** Noticeable improvement with eccentrics. Daily activities become easier.
+
+**Week 12:** Most people significantly better. May still have occasional discomfort with heavy loads.
+
+**Month 6:** Full recovery for most. Some stubborn cases take up to a year.
+
+**Important:** Tendinopathies are slow to heal. Don't expect fast results. Consistency over months is the answer.
+
+## What NOT to Do
+
+**Don't rest completely**
+Complete rest weakens the tendon. Relative rest + appropriate loading is the answer.
+
+**Don't rely on passive treatments**
+Massage, ultrasound, laser—these feel good but don't fix the problem. Exercise is the treatment.
+
+**Don't push through sharp pain**
+Mild discomfort during exercise is okay. Sharp or worsening pain means you're doing too much.
+
+**Don't get cortisone injections early**
+Research shows cortisone provides short-term relief but worse long-term outcomes. Save it for stubborn cases that don't respond to exercise.
+
+**Don't ignore your shoulder/neck**
+Weakness up the chain contributes to elbow overload. Address the whole arm.
+
+## Addressing the Root Cause
+
+Getting rid of pain is step one. Preventing recurrence requires addressing why it happened.
+
+**Ergonomics**
+- Mouse position and type
+- Keyboard height
+- Tool grip size
+
+**Technique**
+- Sports technique (racquet grip, swing mechanics)
+- Lifting technique (avoid excessive wrist involvement)
+
+**Load Management**
+- Gradual increases in activity
+- Recovery time between sessions
+- Avoiding sudden spikes in volume
+
+**Upstream Strength**
+- Rotator cuff strength
+- Scapular stability
+- Grip strength (paradoxically, weak grip contributes to elbow issues)
+
+## When to See a Professional
+
+Seek evaluation if:
+- No improvement after 6-8 weeks of consistent exercise
+- Pain is severe or worsening
+- Numbness or tingling in hand
+- Significant weakness
+- History of trauma to the elbow
+
+**Who to see:**
+- Sports medicine physician for diagnosis
+- Physical therapist for exercise guidance
+- Orthopedic surgeon if conservative treatment fails (rare)
+
+## The Bottom Line
+
+Tennis elbow and golfer's elbow are frustrating but fixable. The key insights:
+
+1. It's not inflammation—it's tendon breakdown
+2. Rest alone doesn't work—you need to load the tendon
+3. Isometrics → Eccentrics → Strengthening is the progression
+4. It takes time—expect 3-6 months for full recovery
+5. Address the cause—or it will come back
+
+Your tendons want to heal. Give them the right stimulus.
+
+---
+
+*Elbow pain holding you back? The Foundational Rehab app includes progressive arm and grip programs—structured loading that gets you back to full function.*
+\`
+  },
   'tight-hamstrings-causes-fixes': {
     title: 'Tight Hamstrings: Why Stretching Isn\'t Working',
     date: '2026-02-28',
