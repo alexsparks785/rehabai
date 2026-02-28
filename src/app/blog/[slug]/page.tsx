@@ -13,6 +13,250 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'tension-headaches-neck-pain-relief': {
+    title: 'Tension Headaches and Neck Pain: Breaking the Cycle',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Neck',
+    readTime: '7 min read',
+    content: \`
+## The Head-Neck Connection
+
+Your head weighs 10-12 pounds. When it sits perfectly balanced on your spine, your neck muscles work minimally. But tilt it forward—like you do when looking at a phone or computer—and the load increases dramatically. At 45 degrees forward, your neck experiences **50+ pounds of force**.
+
+Do this for hours every day, and something has to give. For many people, that something is a tension headache.
+
+**Tension-type headaches** are the most common headache, affecting up to **80% of people** at some point. And for many, they originate not in the head, but in the neck.
+
+## How Neck Problems Cause Headaches
+
+### Cervicogenic Headache
+"Cervicogenic" means "originating from the cervical spine (neck)." These headaches are directly caused by neck dysfunction.
+
+**What happens:**
+The upper cervical spine (C1-C3) shares nerve pathways with the head. When joints or muscles in this area are irritated, pain refers to the head—most commonly the base of the skull, behind the eyes, or the forehead.
+
+### Tension-Type Headache
+Muscle tension in the neck and shoulders contributes to the classic "band around the head" feeling.
+
+**What happens:**
+Tight upper trapezius, levator scapulae, and suboccipital muscles create tension that radiates into the head. Trigger points in these muscles can refer pain to specific head regions.
+
+### The Overlap
+Many headaches have components of both. The neck creates the conditions for headache, and stress or other factors trigger the episode.
+
+## Symptoms of Neck-Related Headaches
+
+**Cervicogenic headache:**
+- Usually one-sided
+- Starts in neck or base of skull, spreads forward
+- Triggered or worsened by neck movement or positions
+- Reduced neck range of motion
+- Tender points in neck
+
+**Tension-type headache:**
+- Usually both sides
+- "Band" or pressure sensation around head
+- Mild to moderate intensity
+- Not worsened by physical activity
+- May have tight neck and shoulder muscles
+
+**Red flags (seek immediate evaluation):**
+- Sudden, severe "thunderclap" headache
+- Headache with fever, stiff neck, confusion
+- Headache after head trauma
+- New headache pattern after age 50
+- Headache with vision changes, weakness, numbness
+
+## Why Your Neck Is Tight
+
+### 1. Forward Head Posture
+The #1 culprit. Head forward = neck muscles overworking = tension = headache.
+
+**Contributors:**
+- Computer work
+- Phone use
+- Driving
+- Reading
+
+### 2. Weak Deep Neck Flexors
+The muscles that stabilize your neck from the front are often weak. This forces superficial muscles (like upper traps) to compensate.
+
+### 3. Stiff Thoracic Spine
+When your upper back is stiff, your neck has to move more to compensate. More neck movement = more stress.
+
+### 4. Poor Breathing
+Chest breathing instead of diaphragmatic breathing engages neck muscles (scalenes, SCM) that should be relaxed.
+
+### 5. Stress
+Emotional stress creates physical tension. The neck and shoulders are prime targets.
+
+## The Treatment Protocol
+
+### Phase 1: Acute Relief
+
+**Suboccipital Release**
+Lie on back with two tennis balls in a sock, placed at the base of skull. Let head rest on balls. Gently nod head up and down, turn side to side.
+- 2-3 minutes
+
+**Upper Trap Stretch**
+Tilt head to one side (ear toward shoulder). Gently add pressure with hand. Feel stretch in opposite side of neck.
+- 30 seconds per side, 3 reps
+
+**Levator Scapulae Stretch**
+Tilt head 45 degrees (look toward armpit). Gently add pressure. Feel stretch in back of neck.
+- 30 seconds per side, 3 reps
+
+**Heat**
+Apply heat to neck and upper back. Relaxes tight muscles, increases blood flow.
+- 15-20 minutes
+
+### Phase 2: Restore Mobility
+
+**Chin Tucks**
+Sit or stand tall. Draw chin straight back (making a "double chin"). Hold 5 seconds.
+- 15 reps, multiple times daily
+
+**Neck Rotation**
+Turn head slowly to each side, going to comfortable end range. No forcing.
+- 10 reps each direction
+
+**Neck Flexion/Extension**
+Nod head forward (chin to chest) and backward (look at ceiling). Controlled movement.
+- 10 reps
+
+**Thoracic Extension**
+Sit in chair, hands behind head. Arch upper back over the chair back. Breathe and relax.
+- 10 reps, hold end position 5 seconds
+
+**Thread the Needle**
+Hands and knees. Reach one arm under body, rotating upper back. Open toward ceiling.
+- 10 reps per side
+
+### Phase 3: Strengthen the Stabilizers
+
+**Deep Neck Flexor Training**
+Lie on back, small towel roll under neck curve. Gently nod chin (as if saying "yes") to flatten neck into towel. Hold 10 seconds.
+- 10 reps, 3 sets
+
+**Chin Tuck with Resistance**
+Sit against wall or headrest. Chin tuck, pressing back of head into surface. Hold 5-10 seconds.
+- 10 reps, 3 sets
+
+**Prone Y-T-W Raises**
+Lie face down, arms hanging off table. Raise arms into Y, T, and W positions. Squeeze shoulder blades.
+- 10 reps each position
+
+**Rows**
+Band or cable rows. Focus on squeezing shoulder blades together.
+- 15 reps, 3 sets
+
+**Scapular Wall Slides**
+Back against wall, arms in "goal post" position. Slide arms up and down while maintaining contact with wall.
+- 10 reps, slow and controlled
+
+### Phase 4: Address Lifestyle Factors
+
+**Workstation Ergonomics**
+- Monitor at eye level
+- Keyboard and mouse at elbow height
+- Chair supporting natural spine curve
+- Feet flat on floor
+
+**Phone Use**
+- Bring phone to eye level (don't drop head to phone)
+- Use voice commands when possible
+- Take breaks every 15-20 minutes
+
+**Driving**
+- Adjust headrest properly
+- Use mirrors to minimize turning
+- Take breaks on long drives
+
+**Sleep Position**
+- Avoid sleeping on stomach
+- Pillow that keeps neck neutral (not too high or low)
+- Consider cervical pillow
+
+**Stress Management**
+- Regular exercise
+- Breathing exercises
+- Adequate sleep
+- Whatever relaxation works for you
+
+### Phase 5: Breathing Retraining
+
+Poor breathing patterns perpetuate neck tension.
+
+**Diaphragmatic Breathing**
+Lie on back, knees bent. Place one hand on chest, one on belly. Breathe so belly rises but chest stays still.
+- 5 minutes daily
+
+**360 Breathing**
+Breathe into your whole trunk—front, sides, and back. Imagine inflating a balloon in your abdomen.
+- Practice throughout the day
+
+## Daily Maintenance Routine
+
+**Morning (3 minutes):**
+- Chin tucks: 10 reps
+- Neck rotations: 5 each way
+- Upper trap stretch: 30 seconds per side
+
+**At Work (every hour, 1 minute):**
+- Chin tucks: 5 reps
+- Shoulder rolls: 10 forward, 10 backward
+- Deep breaths: 5 diaphragmatic breaths
+
+**Evening (5 minutes):**
+- Suboccipital release: 2 minutes
+- Thread the needle: 5 per side
+- Deep neck flexor holds: 10 x 10 seconds
+
+## Timeline for Improvement
+
+**Week 1-2:** May fluctuate. Some immediate relief from stretching, but patterns take time to change.
+
+**Week 3-4:** Noticeable reduction in headache frequency and/or intensity.
+
+**Week 6-8:** Significant improvement. Headaches become occasional rather than constant.
+
+**Month 3+:** New normal. Ongoing maintenance keeps headaches at bay.
+
+**Key insight:** Consistency matters more than intensity. Daily small doses beat occasional long sessions.
+
+## When to See a Professional
+
+**Get evaluated if:**
+- Headaches don't improve with consistent self-treatment
+- Headaches are increasing in frequency or severity
+- New headache pattern
+- Headaches with neurological symptoms
+- Need for frequent pain medication
+
+**Who to see:**
+- Primary care for initial evaluation
+- Neurologist to rule out other headache types
+- Physical therapist for manual therapy and exercise guidance
+- Consider massage therapy for muscle tension
+
+## The Bottom Line
+
+Tension headaches and neck pain are two sides of the same coin. Fix the neck, and the headaches often follow:
+
+1. **Posture matters** — Forward head = overworked neck = headaches
+2. **Strengthen the right muscles** — Deep neck flexors, not just stretching
+3. **Improve thoracic mobility** — Stiff upper back stresses the neck
+4. **Breathe well** — Chest breathing perpetuates tension
+5. **Daily maintenance** — Small, consistent efforts beat occasional interventions
+
+Your head is heavy. Help your neck carry it properly.
+
+---
+
+*Tension headaches affecting your quality of life? The Foundational Rehab app includes neck and posture programs—break the cycle of pain with targeted exercises.*
+\`
+  },
   'si-joint-pain-treatment': {
     title: 'SI Joint Pain: Causes, Symptoms, and Effective Treatment',
     date: '2026-02-28',

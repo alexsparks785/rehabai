@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'tension-headaches-neck-pain-relief',
+    title: 'Tension Headaches and Neck Pain: Breaking the Cycle',
+    excerpt: 'Constant headaches and a stiff neck? They\'re connected—and fixable. Here\'s how to break the cycle for good.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Neck',
+    readTime: '7 min read'
+  },
+  {
     slug: 'si-joint-pain-treatment',
     title: 'SI Joint Pain: Causes, Symptoms, and Effective Treatment',
     excerpt: 'Low back pain that won\'t go away? Your SI joint might be the hidden cause. Here\'s how to identify and fix it.',
