@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'thoracic-spine-mobility',
+    title: 'Thoracic Spine Mobility: Unlock Your Upper Back',
+    excerpt: 'Stiff upper back causing neck pain, shoulder issues, or headaches? Your thoracic spine is the hidden culprit—here\'s how to unlock it.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read'
+  },
+  {
     slug: 'hip-flexor-pain-relief',
     title: 'Hip Flexor Pain: Why It Happens and How to Fix It',
     excerpt: 'That tight, achy feeling in the front of your hip? Desk work is the culprit. Learn why stretching alone won\'t fix it—and what actually will.',

@@ -13,6 +13,211 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'thoracic-spine-mobility': {
+    title: 'Thoracic Spine Mobility: Unlock Your Upper Back',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read',
+    content: \`
+## The Forgotten Spine
+
+Between your neck and lower back sits your thoracic spine—12 vertebrae that most people completely ignore until something goes wrong. Stiff upper back? Shoulder pain that won't quit? Neck tension that never releases? The thoracic spine is often the hidden culprit.
+
+**Here's the problem:** Modern life locks us into flexion. We hunch over phones, curl toward keyboards, and round our shoulders forward. The thoracic spine, designed for rotation and extension, gets stuck in one position. Everything else compensates.
+
+## Why Thoracic Mobility Matters
+
+Your thoracic spine is built for movement—more than any other spinal region:
+
+- **Rotation:** T-spine should provide 35-40° of rotation each way
+- **Extension:** Ability to arch backward (think reaching overhead)
+- **Lateral flexion:** Side bending capacity
+
+When the thoracic spine stiffens, the body finds movement elsewhere:
+
+**Neck compensates:** Leading to chronic tension, headaches, and cervical strain
+
+**Shoulders compensate:** Causing impingement, rotator cuff issues, limited overhead mobility
+
+**Lower back compensates:** Creating excess motion where you don't want it—hello, back pain
+
+**Breathing suffers:** A stiff ribcage restricts diaphragmatic breathing, increasing stress response
+
+## Signs Your T-Spine Needs Work
+
+- Difficulty reaching arms fully overhead without arching lower back
+- Upper back feels "stuck" or constantly tight
+- Shoulder pain that doesn't respond to shoulder exercises
+- Neck tension that returns within hours of stretching
+- Trouble rotating torso (think golf swing, looking over shoulder while driving)
+- Rounded upper back posture that you can't seem to fix
+- Pain between shoulder blades
+
+## The Self-Assessment
+
+**Wall Test**
+Stand with back against wall, feet 6 inches from base. Try to flatten entire spine against wall—lower back, upper back, and head—without forcing.
+
+*If you can't get your upper back flat without your lower back arching off the wall, your T-spine is limited in extension.*
+
+**Rotation Test**
+Sit in a chair, cross arms over chest. Without moving hips, rotate torso as far as possible each direction.
+
+*You should achieve roughly 45° rotation each way. If one side is significantly limited or you feel stuck, T-spine mobility is compromised.*
+
+**Overhead Reach Test**
+Stand against wall, raise arms overhead trying to touch wall with thumbs without arching lower back.
+
+*If you can't reach the wall or your lower back arches significantly, T-spine extension is limited.*
+
+## The Complete T-Spine Protocol
+
+### Phase 1: Release Tissue Restrictions
+
+Before mobilizing joints, address soft tissue around the thoracic spine.
+
+**Foam Roller Extension**
+Lie on foam roller positioned across upper back (not lower back). Support head with hands. Gently extend over roller, then move roller up/down spine and repeat.
+- 2 minutes, moving through different segments
+
+**Lat Release**
+Lie on side with foam roller under armpit/lat area. Roll slowly from armpit toward bottom of ribcage. Pause on tender spots.
+- 90 seconds per side
+
+**Pec Release with Ball**
+Stand facing wall, place lacrosse ball between chest and wall near shoulder. Roll gently, finding tight spots in pec major/minor.
+- 60 seconds per side
+
+### Phase 2: Mobilize the Joints
+
+**Cat-Cow with T-Spine Focus**
+On hands and knees, round spine toward ceiling (cat), then drop belly and lift chest (cow). Focus on moving the upper back, not just hinging at lower back.
+- 15 slow repetitions
+
+**Thread the Needle**
+On hands and knees, reach one arm under body, rotating thorax and letting shoulder drop toward ground. Then open up, reaching that arm toward ceiling.
+- 10 reps per side, slow and controlled
+
+**Open Book**
+Lie on side, knees bent 90°, arms extended in front. Rotate top arm open, following with eyes, trying to touch floor behind you while keeping knees stacked.
+- 10 reps per side, holding end position 2-3 seconds
+
+**Quadruped T-Spine Rotation**
+On hands and knees, one hand behind head. Rotate elbow toward opposite arm, then rotate open toward ceiling.
+- 10 reps per side
+
+**Bench T-Spine Extension**
+Kneel facing a bench or couch. Place elbows on surface, hands together. Sit hips back and let chest drop toward floor, feeling stretch through upper back.
+- 30-second holds, 3 reps
+
+### Phase 3: Strengthen the New Range
+
+Mobility without stability is temporary. Lock in your new range with strength work.
+
+**Prone Y Raises**
+Lie face down, arms extended overhead in Y position. Lift arms toward ceiling, squeezing between shoulder blades. Hold 3 seconds.
+- 12 reps, 3 sets
+
+**Face Pulls**
+With resistance band at face height, pull toward face while externally rotating shoulders (end with thumbs pointing back). Squeeze upper back.
+- 15 reps, 3 sets
+
+**Wall Slides**
+Back against wall, arms in "goal post" position (elbows at 90°). Slowly slide arms up wall, maintaining contact with wall throughout.
+- 10 reps, slow and controlled
+
+**Band Pull-Aparts**
+Hold band in front at shoulder height, arms straight. Pull band apart, squeezing shoulder blades together. Control the return.
+- 15 reps, 3 sets
+
+**Dead Hangs**
+Hang from pull-up bar with relaxed shoulders. Let gravity decompress spine. Breathe into ribcage.
+- 30-60 seconds, as tolerated
+
+### Phase 4: Integrate Into Movement
+
+**Rotation During Daily Activities**
+When reaching for something, rotate through T-spine rather than just extending arm. Make rotation a habit.
+
+**Breathing Practice**
+Lie on back, knees bent. Place hands on lower ribs. Breathe into hands, feeling ribs expand sideways. This mobilizes thoracic spine from inside.
+- 10 breaths, 2x daily
+
+**Movement Snacks**
+Every 30 minutes of sitting, do 5 thread-the-needles or 30 seconds of foam roller extension. Consistency beats intensity.
+
+## Sample Weekly Program
+
+**Daily (2-3 minutes)**
+- Cat-cow: 10 reps
+- Thread the needle: 5 per side
+- Or foam roller extension: 90 seconds
+
+**3x Per Week (15 minutes)**
+Complete protocol:
+1. Foam roller extension — 2 min
+2. Lat release — 90 sec/side
+3. Cat-cow — 15 reps
+4. Thread the needle — 10/side
+5. Open book — 10/side
+6. Bench T-spine extension — 3 x 30 sec
+7. Prone Y raises — 12 reps
+8. Band pull-aparts — 15 reps
+
+## Expected Timeline
+
+**Week 1:** Awareness increases. You notice when you're stuck in flexion.
+
+**Week 2-3:** Initial mobility gains. Exercises start feeling easier.
+
+**Week 4-6:** Noticeable improvement. Overhead reach gets better, rotation increases.
+
+**Week 8+:** Significant change. Neck and shoulder issues often improve as T-spine does its job.
+
+## Common Mistakes
+
+**1. Only stretching, never strengthening**
+Mobility without stability doesn't last. Include the strengthening work.
+
+**2. Forcing range**
+Thoracic mobility improves gradually. Aggressive stretching causes guarding and slows progress.
+
+**3. Ignoring breathing**
+Restricted breathing perpetuates T-spine stiffness. Breathwork is mobility work.
+
+**4. Inconsistency**
+A 30-minute session once a week does less than 3 minutes daily. Frequency wins.
+
+**5. Neglecting posture habits**
+All the mobility work in the world can't overcome 8 hours of slouching. Address the environment.
+
+## When to Seek Help
+
+See a professional if:
+- Sharp pain with movement
+- Numbness or tingling in arms
+- Pain that doesn't improve with consistent work (4-6 weeks)
+- History of spinal issues or osteoporosis
+- Pain that wakes you at night
+
+## The Bottom Line
+
+Your thoracic spine is meant to move. When it doesn't, everything else suffers—neck, shoulders, lower back, even your breathing.
+
+The fix isn't complicated:
+1. Release tight tissues
+2. Mobilize stuck joints
+3. Strengthen new range
+4. Practice daily
+
+A mobile T-spine changes how your entire body feels and functions.
+
+---
+
+*Stiff upper back limiting your movement? The Foundational Rehab app includes thoracic mobility programs with guided exercises—get your spine moving the way it was designed to.*
+\`
+  },
   'hip-flexor-pain-relief': {
     title: 'Hip Flexor Pain: Why It Happens and How to Fix It',
     date: '2026-02-28',
