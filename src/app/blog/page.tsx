@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'foam-rolling-complete-guide',
+    title: 'Foam Rolling: The Complete Guide to Self-Myofascial Release',
+    excerpt: 'Everyone foam rolls—but most do it wrong. Here\'s what the science actually says and how to do it effectively.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read'
+  },
+  {
     slug: 'tension-headaches-neck-pain-relief',
     title: 'Tension Headaches and Neck Pain: Breaking the Cycle',
     excerpt: 'Constant headaches and a stiff neck? They\'re connected—and fixable. Here\'s how to break the cycle for good.',

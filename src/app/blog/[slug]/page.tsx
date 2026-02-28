@@ -13,6 +13,208 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'foam-rolling-complete-guide': {
+    title: 'Foam Rolling: The Complete Guide to Self-Myofascial Release',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read',
+    content: \`
+## The Tool Everyone Uses (and Misuses)
+
+Foam rollers are everywhere—gyms, living rooms, physical therapy clinics. They promise to release tight muscles, improve recovery, and eliminate pain. But are they actually doing what you think?
+
+**The truth:** Foam rolling works, but probably not for the reasons you've been told. Understanding what it actually does—and doesn't do—will help you use it effectively.
+
+## What Foam Rolling Actually Does
+
+### What It Doesn't Do
+
+**Myth: Breaking up adhesions and scar tissue**
+Fascia is incredibly strong. The amount of force required to deform fascia is far more than you can generate with a foam roller. You're not "breaking up" anything.
+
+**Myth: Lengthening muscles**
+Rolling doesn't make muscles longer. Studies show flexibility improvements are temporary and don't come from structural changes.
+
+**Myth: Flushing out toxins**
+This isn't a thing. There are no toxins being flushed.
+
+### What It Actually Does
+
+**Neurological effects**
+Foam rolling appears to work primarily through the nervous system. Sustained pressure stimulates mechanoreceptors that signal the brain to reduce muscle tension. It's a sensory input that changes output.
+
+**Increased blood flow**
+Compression and release does increase local circulation temporarily. This may help with warmth and preparation for exercise.
+
+**Pain modulation**
+Pressure creates a competing sensory input that can temporarily reduce pain perception. Similar to why rubbing a bumped elbow helps.
+
+**Psychological benefits**
+The ritual of foam rolling may promote relaxation and body awareness. This has value, even if the mechanism isn't what we thought.
+
+## When Foam Rolling Helps
+
+**Before exercise:** As part of a warm-up to increase blood flow and reduce stiffness. Keep it brief (30-60 seconds per area).
+
+**After exercise:** To promote relaxation and reduce perception of soreness. Won't prevent DOMS but may reduce how bad it feels.
+
+**For temporary relief:** When muscles feel tight or tender, rolling can provide short-term relief. Useful before stretching or mobility work.
+
+**To improve tolerance:** Regular rolling may help desensitize sensitive areas over time.
+
+## When Foam Rolling Doesn't Help
+
+**As a substitute for strengthening:** Tight muscles are often weak muscles. Rolling doesn't build strength.
+
+**For chronic problems:** If you've been rolling the same spot for months without improvement, rolling isn't fixing the underlying issue.
+
+**When it causes significant pain:** Some discomfort is expected, but intense pain suggests you're being too aggressive or there's something else going on.
+
+**Directly on injuries:** Acute strains, inflamed tendons, and fresh injuries don't benefit from direct pressure.
+
+## The How-To Guide
+
+### General Principles
+
+**Pressure:** Moderate. On a 1-10 scale, aim for 5-7. Enough to feel it, not enough to tense up against it.
+
+**Speed:** Slow. About 1 inch per second. No rapid back-and-forth.
+
+**Duration:** 30-90 seconds per muscle group. More isn't necessarily better.
+
+**Breathing:** Continue breathing normally. Holding breath increases tension.
+
+**When you find a tender spot:** Pause for 20-30 seconds, breathe into it, then continue.
+
+### Area-by-Area Guide
+
+**Calves**
+Sit on floor, roller under one calf. Cross other leg on top for more pressure. Roll from ankle to below knee. Rotate leg in and out to hit different angles.
+- 60-90 seconds per leg
+
+**Quadriceps**
+Face down, roller under one thigh. Roll from above knee to just below hip. Turn leg in and out to hit different parts.
+- 60-90 seconds per leg
+
+**IT Band**
+Controversial—but if you choose to roll it: side-lying, roller under outer thigh. Roll from just above knee to hip. This is usually very tender; don't force intensity.
+- 30-60 seconds per side
+
+**Hip Flexors**
+Face down, roller at front of hip crease. This is tricky positioning. Small movements, gentle pressure.
+- 30-60 seconds per side
+
+**Glutes**
+Sit on roller, cross one ankle over opposite knee. Lean toward crossed side. Roll around the buttock area.
+- 60-90 seconds per side
+
+**Piriformis**
+Same position as glutes, but focus on deeper, more lateral area. May need to use a ball for more targeted pressure.
+- 60-90 seconds per side
+
+**Thoracic Spine**
+Lie on roller placed across mid-back. Arms crossed over chest or behind head. Gently extend over roller, then move roller up/down spine and repeat.
+- 2-3 minutes total
+
+**Lats**
+Side-lying, roller under armpit/lat area. Roll from armpit toward bottom of ribcage.
+- 60 seconds per side
+
+**Pecs**
+Face down, roller at angle under chest/shoulder. Can also use a ball against a wall for more targeted work.
+- 30-60 seconds per side
+
+### What NOT to Roll
+
+**Lower back:** The lumbar spine has no rib cage for protection. Rolling directly on it can cause extension and compression. Roll glutes, hip flexors, and thoracic spine instead.
+
+**Directly on bones:** Shins, spine prominences, elbow and knee joints. Roll the muscles, not the bones.
+
+**Acute injuries:** Fresh strains, inflamed tendons, bruises. Wait until acute phase resolves.
+
+**Over nerves:** Be careful behind the knee, in the armpit, and at the front of the hip where nerves are superficial.
+
+## Foam Roller Types
+
+**Basic EVA foam:** Inexpensive, softer. Good for beginners or sensitive areas.
+
+**High-density foam:** Firmer, more durable. Standard gym roller.
+
+**Textured/Grid rollers:** Varied surface creates different pressure. No evidence they work better, but some people prefer the feel.
+
+**Vibrating rollers:** The vibration may enhance neurological effects. Some evidence they provide additional benefit, but also much more expensive.
+
+**Balls (lacrosse, tennis, etc.):** For targeted work on smaller areas like glutes, pecs, feet. More pressure in a smaller area.
+
+## Sample Routines
+
+### Pre-Workout (5 minutes)
+Quick rolling to increase blood flow and prepare for movement:
+- Calves: 30 seconds each
+- Quads: 30 seconds each
+- Glutes: 30 seconds each
+- Thoracic spine: 60 seconds
+- Any area that feels particularly stiff
+
+### Post-Workout (8-10 minutes)
+Focus on worked areas:
+- Primary muscles used: 60-90 seconds each
+- Supporting muscles: 30-60 seconds each
+- Full body roll-through if time allows
+
+### Recovery Day (15 minutes)
+Comprehensive rolling session:
+- Calves: 90 seconds each
+- Quads: 90 seconds each
+- Glutes/piriformis: 90 seconds each
+- Lats: 60 seconds each
+- Thoracic spine: 2-3 minutes
+
+### Desk Worker Daily (5 minutes)
+Target areas affected by sitting:
+- Thoracic spine: 90 seconds
+- Hip flexors: 30 seconds each
+- Glutes: 60 seconds each
+- Pecs (with ball): 30 seconds each
+
+## Common Mistakes
+
+**Rolling too fast**
+Slower is better. Fast rolling doesn't give the nervous system time to respond.
+
+**Too much pressure**
+If you're tensing up against the roller, you're going too hard. Back off.
+
+**Holding breath**
+Breath-holding increases tension—the opposite of what you want.
+
+**Rolling injured areas**
+Acute injuries need rest and appropriate treatment, not pressure.
+
+**Rolling instead of strengthening**
+Foam rolling is a tool, not a solution. If muscles are chronically tight, they often need strengthening, not just rolling.
+
+**Expecting permanent changes**
+Foam rolling effects are temporary. It's maintenance, not a cure.
+
+## The Bottom Line
+
+Foam rolling is a useful tool when understood correctly:
+
+1. **It works neurologically** — Not by breaking up tissue
+2. **Effects are temporary** — Use it as part of a routine, not a one-time fix
+3. **Moderate pressure** — More isn't better
+4. **Slow and breathe** — Let the nervous system respond
+5. **Complement, don't replace** — Strengthening and movement matter more
+
+Roll smart, not just hard.
+
+---
+
+*Want to optimize your recovery routine? The Foundational Rehab app includes mobility programs that combine foam rolling with the strengthening work that creates lasting change.*
+\`
+  },
   'tension-headaches-neck-pain-relief': {
     title: 'Tension Headaches and Neck Pain: Breaking the Cycle',
     date: '2026-02-28',
