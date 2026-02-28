@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'when-to-see-doctor-pain',
+    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\'t Ignore',
+    excerpt: 'Most pain responds to self-care—but some symptoms need professional attention. Know the red flags that warrant evaluation.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'foam-rolling-complete-guide',
     title: 'Foam Rolling: The Complete Guide to Self-Myofascial Release',
     excerpt: 'Everyone foam rolls—but most do it wrong. Here\'s what the science actually says and how to do it effectively.',

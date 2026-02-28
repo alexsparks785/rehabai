@@ -13,6 +13,241 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'when-to-see-doctor-pain': {
+    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\'t Ignore',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: \`
+## Self-Care Has Limits
+
+Most musculoskeletal pain responds to exercise, movement, and time. The body is remarkably good at healing itself when given the right inputs.
+
+But not all pain is the same. Some symptoms signal conditions that need professional evaluation—and sometimes urgently. Knowing the difference between "work through it" and "get checked out" could save you from serious complications.
+
+This guide covers the red flags that warrant medical attention.
+
+## Universal Red Flags (Any Body Region)
+
+These symptoms require prompt evaluation regardless of where your pain is located:
+
+### Seek Immediate Care (ER/Urgent Care)
+
+**Trauma with severe symptoms**
+- Obvious deformity (bone looks wrong)
+- Inability to bear weight or use the limb
+- Significant swelling immediately after injury
+- Open wound with bone or joint visible
+
+**Signs of infection**
+- Fever combined with joint pain or swelling
+- Red, hot, swollen joint
+- Spreading redness from an injury
+- Feeling systemically unwell with localized pain
+
+**Neurological emergencies**
+- Sudden weakness in legs
+- Loss of bladder or bowel control
+- Numbness in the saddle area (groin/buttock)
+- Rapidly progressing numbness or weakness
+
+**Vascular concerns**
+- Limb becomes cold, pale, or blue
+- Loss of pulse in affected area
+- Severe pain with minimal movement
+
+### See a Doctor Soon (Days, Not Weeks)
+
+**Pain that's getting worse despite rest**
+Most musculoskeletal issues improve or plateau. Getting progressively worse is a warning sign.
+
+**Night pain that wakes you**
+Pain that disrupts sleep—especially pain that wakes you regardless of position—needs evaluation.
+
+**Unexplained weight loss with pain**
+Unintentional weight loss combined with persistent pain warrants investigation.
+
+**Pain with systemic symptoms**
+Fever, fatigue, loss of appetite, night sweats alongside pain.
+
+**No improvement after 6-8 weeks**
+If consistent self-treatment isn't helping after this timeframe, get professional guidance.
+
+## Region-Specific Red Flags
+
+### Back Pain
+
+**Immediate evaluation:**
+- Sudden leg weakness
+- Loss of bladder/bowel control
+- Numbness in groin/saddle area (cauda equina syndrome—surgical emergency)
+
+**Soon evaluation:**
+- Progressive neurological symptoms (increasing numbness, weakness)
+- History of cancer with new back pain
+- Back pain with unexplained weight loss
+- Back pain with fever
+- Recent spinal injection or procedure with new symptoms
+- Pain that's severe and not improving
+
+### Neck Pain
+
+**Immediate evaluation:**
+- Weakness in arms or legs
+- Difficulty walking or balance problems
+- Loss of bladder/bowel control
+- Neck pain after significant trauma
+
+**Soon evaluation:**
+- Numbness or tingling in both arms/hands
+- Weakness that's getting worse
+- Neck pain with fever and stiffness (rule out meningitis)
+- Difficulty swallowing with neck pain
+
+### Shoulder Pain
+
+**Immediate evaluation:**
+- Obvious deformity after injury
+- Complete inability to move arm
+- Severe pain with any movement after trauma
+
+**Soon evaluation:**
+- Weakness that prevents overhead activities
+- Pain that worsens despite rest
+- Night pain that's severe and constant
+- History of cancer with new shoulder pain
+
+### Hip Pain
+
+**Immediate evaluation:**
+- Inability to bear weight after injury
+- Obvious deformity
+- Severe pain with any hip movement
+- Hip pain with fever (possible joint infection)
+
+**Soon evaluation:**
+- Groin pain with walking that's progressive
+- Pain at rest that's getting worse
+- Night pain that's severe
+- History of steroid use with new hip pain (avascular necrosis risk)
+
+### Knee Pain
+
+**Immediate evaluation:**
+- Obvious deformity
+- Locked knee (can't bend or straighten)
+- Significant instability (knee gives way completely)
+- Severe swelling within hours of injury
+- Inability to bear any weight
+
+**Soon evaluation:**
+- Knee giving way repeatedly
+- Swelling that doesn't resolve
+- Catching or locking
+- Pain with fever and hot, swollen joint
+
+### Ankle/Foot Pain
+
+**Immediate evaluation:**
+- Obvious deformity
+- Inability to bear weight
+- Numbness in foot after injury
+- Open fracture
+
+**Soon evaluation:**
+- Persistent swelling after sprain
+- Pain that's not improving after 2 weeks
+- Recurring ankle sprains
+- Pain with signs of infection
+
+### Elbow/Wrist/Hand Pain
+
+**Immediate evaluation:**
+- Obvious deformity
+- Numbness or tingling after injury
+- Inability to move fingers
+- Severe swelling with skin color changes
+
+**Soon evaluation:**
+- Progressive weakness
+- Numbness that's getting worse
+- Symptoms not improving with conservative care
+
+## When "Wait and See" Is Appropriate
+
+Most pain doesn't need immediate evaluation. You can typically try self-care first if:
+
+- Pain started without major trauma
+- You can identify an activity that likely caused it
+- Pain is stable or improving
+- No red flag symptoms present
+- You can function (even if modified)
+- Pain responds to rest, ice, movement, or OTC pain relief
+
+**Typical self-care timeline:**
+- Mild issues: 1-2 weeks
+- Moderate issues: 2-4 weeks
+- More significant problems: 4-6 weeks
+
+If you're not seeing progress within these timeframes, seek professional input.
+
+## Who to See
+
+**Primary Care Physician**
+Good starting point for most issues. Can examine, order imaging if needed, and refer appropriately.
+
+**Urgent Care**
+For acute injuries that aren't emergencies but need same-day evaluation. X-rays often available.
+
+**Emergency Room**
+For true emergencies: severe trauma, suspected fractures with deformity, neurological emergencies, signs of serious infection.
+
+**Sports Medicine Physician**
+Specializes in musculoskeletal issues without surgery. Good for persistent pain, sports injuries, and second opinions.
+
+**Orthopedic Surgeon**
+For conditions that may need surgical intervention. Usually after imaging and initial evaluation.
+
+**Physical Therapist**
+Many states allow direct access (no referral needed). Excellent for movement-based evaluation and treatment. Can identify when you need physician referral.
+
+**Chiropractor**
+For spine-related issues. Quality varies; look for those who combine manipulation with exercise-based approaches.
+
+## What to Expect at Your Appointment
+
+**Prepare:**
+- Note when symptoms started
+- What makes it better/worse
+- Any trauma or activities that triggered it
+- Treatments you've tried
+- Previous similar issues
+- Relevant medical history
+
+**The evaluation:**
+- History (they'll ask lots of questions)
+- Physical examination (movement, strength, special tests)
+- Possibly imaging (X-ray, MRI, ultrasound)
+- Diagnosis and treatment plan
+
+**Advocate for yourself:**
+- Ask what they think is causing the pain
+- Ask what the treatment plan is
+- Ask what you should watch for
+- Ask when you should follow up
+
+## Trust Your Gut
+
+You know your body better than anyone. If something feels seriously wrong—even if you can't articulate why—get it checked. The worst outcome is reassurance that it's nothing serious. The cost of missing something important is much higher.
+
+**Bottom line:** Most pain is manageable with appropriate self-care. But red flags exist for a reason. Know them, respect them, and seek help when needed.
+
+---
+
+*This information is educational and not a substitute for professional medical advice. When in doubt, consult a healthcare provider.*
+\`
+  },
   'foam-rolling-complete-guide': {
     title: 'Foam Rolling: The Complete Guide to Self-Myofascial Release',
     date: '2026-02-28',
