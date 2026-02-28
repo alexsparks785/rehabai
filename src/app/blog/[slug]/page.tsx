@@ -13,6 +13,218 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'piriformis-syndrome-treatment': {
+    title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read',
+    content: \`
+## The Great Imitator
+
+Deep buttock pain that radiates down your leg. Sounds like sciatica, right? Maybe. But there's another culprit that mimics sciatica almost perfectly—and it's far more treatable.
+
+**Piriformis syndrome** occurs when the piriformis muscle, deep in your buttock, irritates or compresses the sciatic nerve. The symptoms feel identical to disc-related sciatica, but the cause—and the solution—are completely different.
+
+## What Is the Piriformis?
+
+The piriformis is a small, flat muscle that runs from your sacrum (base of spine) to the top of your femur (thigh bone). Its job is to externally rotate your hip—think turning your knee outward.
+
+Here's what makes it special: **the sciatic nerve runs directly beneath it** (or in some people, directly through it). When the piriformis gets tight, inflamed, or spasms, it can compress the nerve and create sciatica-like symptoms.
+
+## Piriformis Syndrome vs True Sciatica
+
+Both cause pain that radiates from the buttock down the leg. But they have different sources:
+
+**True Sciatica (Disc-Related)**
+- Caused by herniated disc or spinal stenosis
+- Pain often starts in lower back
+- Symptoms may include numbness, tingling, weakness
+- Worse with sitting, bending forward, coughing
+- Imaging shows spinal pathology
+
+**Piriformis Syndrome**
+- Caused by piriformis muscle irritating nerve
+- Pain centered in buttock, minimal or no back pain
+- More aching than sharp/electric
+- Worse with sitting on hard surfaces, climbing stairs, prolonged sitting
+- Spine imaging is normal
+
+## Who Gets Piriformis Syndrome?
+
+**Runners and cyclists** — Repetitive hip motion, often with weak glutes
+
+**Desk workers** — Prolonged sitting compresses the piriformis
+
+**Drivers** — Wallet in back pocket, foot on gas pedal for hours
+
+**Weekend warriors** — Sudden increase in activity without conditioning
+
+**Women** — Wider pelvis creates different biomechanics (2-3x more common than men)
+
+## Common Causes
+
+### 1. Muscle Imbalance
+Weak gluteus medius and maximus force the piriformis to overwork. It's a small muscle doing a big muscle's job.
+
+### 2. Prolonged Sitting
+Sitting compresses the piriformis against the sciatic nerve. Hours of daily compression creates irritation.
+
+### 3. Overuse
+Running, cycling, stair climbing—repetitive hip flexion and rotation can overwork the piriformis.
+
+### 4. Trauma
+Fall onto buttock, car accident, or direct blow can cause muscle damage and subsequent scarring/tightness.
+
+### 5. Anatomic Variation
+In 10-20% of people, the sciatic nerve passes through the piriformis rather than beneath it. These individuals are more susceptible.
+
+## Self-Assessment
+
+**Seated Piriformis Test**
+Sit in chair, cross affected leg over other knee (ankle on knee). Gently press down on raised knee. Pain deep in buttock = positive.
+
+**FAIR Test**
+Lie on unaffected side. Flex hip to 60°, bend knee. Let knee drop toward table (internal rotation). Reproduces symptoms = positive.
+
+**Palpation**
+Press into the center of your buttock, roughly between the top of your thigh bone and the base of your spine. Exquisite tenderness = suspect piriformis.
+
+*Note: These tests suggest piriformis syndrome but aren't definitive. Disc issues should be ruled out by a professional.*
+
+## The Treatment Protocol
+
+### Phase 1: Calm It Down (Week 1-2)
+
+**Avoid Aggravating Factors**
+- Don't sit on hard surfaces
+- Remove wallet from back pocket
+- Take breaks from prolonged sitting
+- Modify or reduce running/cycling temporarily
+
+**Soft Tissue Release**
+Lie on affected side with lacrosse ball or tennis ball under the piriformis (center of buttock). Roll slowly, pausing on tender spots. Don't go too aggressive—this muscle is already irritated.
+- 60-90 seconds, 2-3x daily
+
+**Gentle Stretching**
+Figure-4 stretch: Lie on back, cross affected ankle over opposite knee, pull bottom knee toward chest. Hold 30-60 seconds.
+- 3 reps, 2-3x daily
+
+**Heat**
+Heat pad on buttock for 15-20 minutes helps relax the muscle. Avoid ice unless there's acute inflammation.
+
+### Phase 2: Restore Normal Length (Weeks 2-4)
+
+**Piriformis Stretch Variations**
+
+*Supine Figure-4* (easiest)
+Described above. Foundation stretch.
+
+*Seated Figure-4*
+Sit in chair, cross ankle over knee, lean forward with straight back. Deeper stretch.
+- 60 seconds per side
+
+*Pigeon Pose*
+From hands and knees, bring one knee forward and angle it across body. Extend back leg. Fold forward over front leg.
+- 60-90 seconds per side
+
+*Supine Twist*
+Lie on back, cross one leg over body, let it fall toward floor on opposite side. Keep shoulders down.
+- 60 seconds per side
+
+**Neural Gliding**
+If there's nerve involvement, gentle nerve glides help. Lie on back, hold knee to chest, slowly straighten and bend knee while flexing/pointing foot.
+- 15 gentle reps per leg
+
+### Phase 3: Strengthen the Glutes (Weeks 3-6)
+
+This is the actual fix. Strong glutes mean the piriformis doesn't have to overwork.
+
+**Clamshells**
+Side-lying, knees bent 45°. Open top knee while keeping feet together. Feel it in the side of your glute, not front of hip.
+- 20 reps, 3 sets per side
+
+**Side-Lying Hip Abduction**
+Side-lying, bottom leg bent, top leg straight. Lift top leg toward ceiling, slightly behind you. Don't let hip roll back.
+- 15 reps, 3 sets per side
+
+**Glute Bridges**
+Lie on back, feet flat, knees bent. Squeeze glutes and lift hips. Hold 3 seconds at top.
+- 15 reps, 3 sets
+
+**Single-Leg Glute Bridge**
+Same as above, but one leg extended. Keep hips level—don't rotate.
+- 10 reps per side, 3 sets
+
+**Monster Walks**
+Band around ankles or thighs. Quarter squat position. Walk sideways maintaining tension.
+- 15 steps each direction, 3 sets
+
+**Single-Leg Deadlifts**
+Stand on one leg, hinge forward, reach toward ground. Feel standing-leg glute work.
+- 10 reps per leg, 3 sets
+
+### Phase 4: Integrate and Maintain (Week 6+)
+
+**Return to Activity Gradually**
+If running or cycling triggered symptoms, return slowly:
+- Start at 50% of previous volume
+- Increase by 10% per week maximum
+- Any return of symptoms = scale back
+
+**Hip Strengthening Maintenance**
+Continue glute work 2-3x per week indefinitely. Prevention is easier than treatment.
+
+**Movement Variety**
+Don't just run or cycle. Include lateral movements, rotation, and multi-planar exercise.
+
+## Sitting Modifications
+
+Since sitting is a major aggravator:
+
+**Stand regularly** — Every 30-45 minutes minimum
+
+**Cushioning** — Use a cushion that takes pressure off the piriformis
+
+**Posture** — Sit with weight even on both sit bones, not leaning to one side
+
+**Wallet removal** — Seriously, don't sit on your wallet
+
+**Car adjustments** — Use cruise control when possible, take breaks on long drives
+
+## When It's Not Getting Better
+
+See a professional if:
+- No improvement after 4-6 weeks of consistent work
+- Severe pain that limits daily activities
+- Numbness, tingling, or weakness in leg
+- Symptoms are bilateral (both sides)
+- Bowel or bladder changes
+
+**Red flags** (seek immediate evaluation):
+- Rapid onset weakness
+- Loss of bladder/bowel control
+- Saddle numbness
+
+A physical therapist can confirm the diagnosis and provide targeted treatment. In stubborn cases, injections or other interventions may help.
+
+## The Bottom Line
+
+Piriformis syndrome is frustrating but very treatable. The key insights:
+
+1. **It mimics sciatica** — But the spine is fine; the muscle is the problem
+2. **Sitting is the enemy** — Modify your environment
+3. **Release and stretch help** — But they're not the whole answer
+4. **Glute strength is the fix** — Weak glutes cause piriformis overload
+5. **Be patient** — Full resolution takes 6-12 weeks
+
+Your piriformis is overworking because something else isn't pulling its weight. Fix the weakness, and the pain resolves.
+
+---
+
+*Deep buttock pain limiting your movement? The Foundational Rehab app includes targeted hip and glute programs—address the root cause, not just the symptom.*
+\`
+  },
   'core-stability-back-pain': {
     title: 'Core Stability for Back Pain: What Actually Works',
     date: '2026-02-28',

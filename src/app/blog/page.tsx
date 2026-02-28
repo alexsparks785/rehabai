@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'piriformis-syndrome-treatment',
+    title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
+    excerpt: 'Pain radiating from your buttock down your leg? It might not be sciatica. Piriformis syndrome mimics it perfectly—but is far more treatable.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read'
+  },
+  {
     slug: 'core-stability-back-pain',
     title: 'Core Stability for Back Pain: What Actually Works',
     excerpt: 'Everyone says strengthen your core. But crunches and planks aren\'t cutting it. Here\'s what the research actually shows works for back pain.',
