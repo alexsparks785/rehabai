@@ -19,7 +19,7 @@ const posts: Record<string, {
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Self-Care Has Limits
 
 Most musculoskeletal pain responds to exercise, movement, and time. The body is remarkably good at healing itself when given the right inputs.
@@ -246,7 +246,7 @@ You know your body better than anyone. If something feels seriously wrong—even
 ---
 
 *This information is educational and not a substitute for professional medical advice. When in doubt, consult a healthcare provider.*
-\`
+`
   },
   'foam-rolling-complete-guide': {
     title: 'Foam Rolling: The Complete Guide to Self-Myofascial Release',
@@ -254,7 +254,7 @@ You know your body better than anyone. If something feels seriously wrong—even
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '8 min read',
-    content: \`
+    content: `
 ## The Tool Everyone Uses (and Misuses)
 
 Foam rollers are everywhere—gyms, living rooms, physical therapy clinics. They promise to release tight muscles, improve recovery, and eliminate pain. But are they actually doing what you think?
@@ -448,7 +448,7 @@ Roll smart, not just hard.
 ---
 
 *Want to optimize your recovery routine? The Foundational Rehab app includes mobility programs that combine foam rolling with the strengthening work that creates lasting change.*
-\`
+`
   },
   'tension-headaches-neck-pain-relief': {
     title: 'Tension Headaches and Neck Pain: Breaking the Cycle',
@@ -456,7 +456,7 @@ Roll smart, not just hard.
     author: 'Foundational Rehab',
     category: 'Neck',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Head-Neck Connection
 
 Your head weighs 10-12 pounds. When it sits perfectly balanced on your spine, your neck muscles work minimally. But tilt it forward—like you do when looking at a phone or computer—and the load increases dramatically. At 45 degrees forward, your neck experiences **50+ pounds of force**.
@@ -692,7 +692,7 @@ Your head is heavy. Help your neck carry it properly.
 ---
 
 *Tension headaches affecting your quality of life? The Foundational Rehab app includes neck and posture programs—break the cycle of pain with targeted exercises.*
-\`
+`
   },
   'si-joint-pain-treatment': {
     title: 'SI Joint Pain: Causes, Symptoms, and Effective Treatment',
@@ -700,7 +700,7 @@ Your head is heavy. Help your neck carry it properly.
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Joint Nobody Talks About
 
 You have low back pain. Maybe it radiates into your buttock or thigh. You've seen doctors, tried stretches, maybe even had imaging. But nothing quite explains it.
@@ -952,7 +952,7 @@ Your SI joint is a workhorse—give it the support it needs.
 ---
 
 *SI joint pain limiting your movement? The Foundational Rehab app includes pelvic stability programs—targeted exercises for lasting relief.*
-\`
+`
   },
   'groin-pain-adductor-strain': {
     title: 'Groin Pain and Adductor Strains: Recovery and Prevention',
@@ -960,7 +960,7 @@ Your SI joint is a workhorse—give it the support it needs.
     author: 'Foundational Rehab',
     category: 'Hips',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Injury Athletes Dread
 
 You make a quick lateral cut, kick a ball, or push off during a sprint. Suddenly—sharp pain in your inner thigh. You know immediately something is wrong.
@@ -1217,7 +1217,7 @@ Your groin can handle explosive demands—it just needs proper preparation and r
 ---
 
 *Groin pain limiting your sport? The Foundational Rehab app includes hip and adductor programs—from acute injury management to full return-to-sport protocols.*
-\`
+`
   },
   'runners-knee-patellofemoral-pain': {
     title: 'Runner\'s Knee: Why It Happens and How to Fix It',
@@ -1225,7 +1225,7 @@ Your groin can handle explosive demands—it just needs proper preparation and r
     author: 'Foundational Rehab',
     category: 'Running',
     readTime: '8 min read',
-    content: \`
+    content: `
 ## The Most Common Running Injury
 
 Front knee pain. It starts subtly—a dull ache during runs that goes away after. Then it lingers. Soon, stairs hurt. Sitting for long periods hurts. Running becomes impossible.
@@ -1464,7 +1464,7 @@ Your knees aren't fragile—they're just asking for better support from above.
 ---
 
 *Knee pain keeping you off the road? The Foundational Rehab app includes hip and knee programs specifically designed for runners—evidence-based exercises to get you back to pain-free miles.*
-\`
+`
   },
   'wrist-pain-carpal-tunnel-relief': {
     title: 'Wrist Pain and Carpal Tunnel: Causes, Relief, and Prevention',
@@ -1472,7 +1472,7 @@ Your knees aren't fragile—they're just asking for better support from above.
     author: 'Foundational Rehab',
     category: 'Arms',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Price of Modern Work
 
 Your wrists weren't designed for keyboards. Or mice. Or phones. Yet here you are, logging 8+ hours of repetitive hand movements every day.
@@ -1716,7 +1716,7 @@ Your wrists can handle modern work—with the right support.
 ---
 
 *Wrist pain limiting your productivity? The Foundational Rehab app includes arm and hand programs—from nerve gliding to strengthening, everything you need for healthy wrists.*
-\`
+`
   },
   'achilles-tendinopathy-treatment': {
     title: 'Achilles Tendinopathy: The Evidence-Based Recovery Guide',
@@ -1724,7 +1724,7 @@ Your wrists can handle modern work—with the right support.
     author: 'Foundational Rehab',
     category: 'Running',
     readTime: '8 min read',
-    content: \`
+    content: `
 ## The Tendon That Won't Quit Hurting
 
 Your Achilles is the thickest, strongest tendon in your body. It handles forces of 6-8 times your body weight during running. And when it starts hurting, it can feel like it will never stop.
@@ -1949,7 +1949,7 @@ Your Achilles can handle tremendous forces—it just needs the right stimulus to
 ---
 
 *Achilles pain limiting your running? The Foundational Rehab app includes progressive tendon loading programs—evidence-based protocols to get you back on the road.*
-\`
+`
   },
   'shin-splints-treatment-prevention': {
     title: 'Shin Splints: Why They Happen and How to Fix Them for Good',
@@ -1957,7 +1957,7 @@ Your Achilles can handle tremendous forces—it just needs the right stimulus to
     author: 'Foundational Rehab',
     category: 'Running',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Runner's Rite of Passage
 
 You started running. Maybe you're training for your first 5K, getting back into shape, or ramping up mileage for a race. Then it hits—that aching, burning pain along your shinbone that makes every step miserable.
@@ -2184,7 +2184,7 @@ Listen to your shins.
 ---
 
 *Shin splints keeping you off the road? The Foundational Rehab app includes a complete lower leg program—build the strength and mobility to run pain-free.*
-\`
+`
   },
   'piriformis-syndrome-treatment': {
     title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
@@ -2192,7 +2192,7 @@ Listen to your shins.
     author: 'Foundational Rehab',
     category: 'Hips',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Great Imitator
 
 Deep buttock pain that radiates down your leg. Sounds like sciatica, right? Maybe. But there's another culprit that mimics sciatica almost perfectly—and it's far more treatable.
@@ -2396,7 +2396,7 @@ Your piriformis is overworking because something else isn't pulling its weight. 
 ---
 
 *Deep buttock pain limiting your movement? The Foundational Rehab app includes targeted hip and glute programs—address the root cause, not just the symptom.*
-\`
+`
   },
   'core-stability-back-pain': {
     title: 'Core Stability for Back Pain: What Actually Works',
@@ -2404,7 +2404,7 @@ Your piriformis is overworking because something else isn't pulling its weight. 
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '8 min read',
-    content: \`
+    content: `
 ## The Core Confusion
 
 "Strengthen your core" is the most common advice for back pain. It's also the most misunderstood.
@@ -2632,7 +2632,7 @@ Your spine needs a stable foundation. Build it properly.
 ---
 
 *Back pain limiting your life? The Foundational Rehab app includes progressive core stability programs—designed to build the foundation your spine needs.*
-\`
+`
   },
   'tennis-elbow-golfers-elbow-treatment': {
     title: 'Tennis Elbow & Golfer\'s Elbow: The Complete Recovery Guide',
@@ -2640,7 +2640,7 @@ Your spine needs a stable foundation. Build it properly.
     author: 'Foundational Rehab',
     category: 'Arms',
     readTime: '8 min read',
-    content: \`
+    content: `
 ## The Elbow Epidemic
 
 You don't play tennis. You've never golfed. Yet here you are with elbow pain that won't quit.
@@ -2866,7 +2866,7 @@ Your tendons want to heal. Give them the right stimulus.
 ---
 
 *Elbow pain holding you back? The Foundational Rehab app includes progressive arm and grip programs—structured loading that gets you back to full function.*
-\`
+`
   },
   'tight-hamstrings-causes-fixes': {
     title: 'Tight Hamstrings: Why Stretching Isn\'t Working',
@@ -2874,7 +2874,7 @@ Your tendons want to heal. Give them the right stimulus.
     author: 'Foundational Rehab',
     category: 'Flexibility',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Stretching Paradox
 
 You stretch your hamstrings every day. You've been doing it for years. And somehow, they're still tight. Sound familiar?
@@ -3079,7 +3079,7 @@ Stop fighting your hamstrings. Start understanding them.
 ---
 
 *Hamstrings always tight? The Foundational Rehab app includes programs that address the real cause—not just the symptom. Build flexibility that lasts.*
-\`
+`
   },
   'thoracic-spine-mobility': {
     title: 'Thoracic Spine Mobility: Unlock Your Upper Back',
@@ -3087,7 +3087,7 @@ Stop fighting your hamstrings. Start understanding them.
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Forgotten Spine
 
 Between your neck and lower back sits your thoracic spine—12 vertebrae that most people completely ignore until something goes wrong. Stiff upper back? Shoulder pain that won't quit? Neck tension that never releases? The thoracic spine is often the hidden culprit.
@@ -3284,7 +3284,7 @@ A mobile T-spine changes how your entire body feels and functions.
 ---
 
 *Stiff upper back limiting your movement? The Foundational Rehab app includes thoracic mobility programs with guided exercises—get your spine moving the way it was designed to.*
-\`
+`
   },
   'hip-flexor-pain-relief': {
     title: 'Hip Flexor Pain: Why It Happens and How to Fix It',
@@ -3292,7 +3292,7 @@ A mobile T-spine changes how your entire body feels and functions.
     author: 'Foundational Rehab',
     category: 'Hips',
     readTime: '8 min read',
-    content: \`
+    content: `
 ## The Desk Worker's Epidemic
 
 You stand up after a long meeting and there it is—that tight, achy feeling in the front of your hip. Maybe it pinches when you try to lift your knee. Or it nags at you during runs and squats. Hip flexor pain is everywhere, and it's only getting worse.
@@ -3495,7 +3495,7 @@ Your hip flexors are asking you to move differently. Listen to them.
 ---
 
 *Hip flexor pain affecting your workouts or daily life? The Foundational Rehab app includes targeted programs for hip mobility and strength—guided exercises designed to fix the problem, not just mask it.*
-\`
+`
   },
   'it-band-syndrome-treatment': {
     title: 'IT Band Syndrome: Why Foam Rolling Isn\'t Enough',
