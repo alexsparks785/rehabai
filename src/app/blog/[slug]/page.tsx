@@ -13,6 +13,258 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'wrist-pain-carpal-tunnel-relief': {
+    title: 'Wrist Pain and Carpal Tunnel: Causes, Relief, and Prevention',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read',
+    content: \`
+## The Price of Modern Work
+
+Your wrists weren't designed for keyboards. Or mice. Or phones. Yet here you are, logging 8+ hours of repetitive hand movements every day.
+
+Wrist pain has become epidemic. **Carpal tunnel syndrome alone affects 3-6% of adults**, and that's just one of many conditions causing wrist and hand problems. Throw in tendinitis, arthritis, and non-specific wrist pain, and the numbers explode.
+
+The good news: most wrist pain responds to the right approach. The bad news: most people don't know the right approach.
+
+## Types of Wrist Pain
+
+### Carpal Tunnel Syndrome (CTS)
+The median nerve gets compressed as it passes through the carpal tunnel—a narrow passage in your wrist.
+
+**Symptoms:**
+- Numbness and tingling in thumb, index, middle, and half of ring finger
+- Pain in wrist that may radiate up arm
+- Weakness in grip
+- Worse at night (waking with numb hands)
+- Symptoms improve with shaking hands
+
+### Tendinitis/Tendinopathy
+Overuse of wrist tendons, particularly the extensors (back of forearm) or flexors (front of forearm).
+
+**Symptoms:**
+- Aching pain with wrist movement
+- Tenderness along forearm muscles or at wrist
+- Pain with gripping or twisting motions
+- May have crepitus (crackling sensation)
+
+### De Quervain's Tenosynovitis
+Inflammation of tendons on the thumb side of the wrist.
+
+**Symptoms:**
+- Pain at base of thumb, radiating into forearm
+- Pain when making a fist, grasping, or turning wrist
+- Positive Finkelstein test (pain when tucking thumb and bending wrist toward pinky)
+
+### TFCC Injury
+Triangular fibrocartilage complex damage, usually from trauma or repetitive rotation.
+
+**Symptoms:**
+- Pain on pinky side of wrist
+- Pain with rotation (turning doorknob, using screwdriver)
+- May have clicking or catching
+- Weakness with grip
+
+### Ganglion Cyst
+Fluid-filled lump, usually on back of wrist.
+
+**Symptoms:**
+- Visible or palpable bump
+- May or may not be painful
+- Can compress nearby nerves causing tingling
+
+## Is It Carpal Tunnel?
+
+Many people self-diagnose carpal tunnel when they have something else. Here's how to tell:
+
+**Likely carpal tunnel if:**
+- Tingling/numbness in thumb, index, middle, half of ring finger
+- Symptoms worse at night
+- Shaking hands helps
+- Positive Phalen's test (symptoms within 60 seconds of pressing backs of hands together with wrists flexed)
+
+**Probably NOT carpal tunnel if:**
+- Tingling in pinky or back of hand (different nerve)
+- Pain is main symptom without numbness/tingling
+- No night symptoms
+- Pain with specific movements only
+
+When in doubt, get evaluated. Proper diagnosis matters.
+
+## Why Wrists Hurt
+
+### 1. Repetitive Stress
+Same motions, hour after hour, day after day. Typing, clicking, scrolling. Tissues don't get time to recover.
+
+### 2. Poor Positioning
+Wrists bent while typing. Mouse too far away. Keyboard too high. Awkward angles increase tissue stress.
+
+### 3. Weak Forearm Muscles
+Muscles fatigue quickly if they're weak. Fatigued muscles can't protect joints and tendons.
+
+### 4. Neck and Shoulder Issues
+Nerves to your hands come from your neck. Thoracic outlet syndrome, cervical radiculopathy, and shoulder tightness can all cause hand symptoms.
+
+### 5. Systemic Factors
+Diabetes, thyroid disorders, pregnancy, and inflammatory conditions increase carpal tunnel risk.
+
+## The Relief Protocol
+
+### Phase 1: Reduce Aggravation (Week 1-2)
+
+**Ergonomic Modifications**
+- Wrists neutral while typing (not bent up or down)
+- Mouse close to body, elbow at 90 degrees
+- Keyboard at elbow height or slightly below
+- Consider ergonomic keyboard or vertical mouse
+- Take breaks every 30 minutes
+
+**Night Splinting (for Carpal Tunnel)**
+Wear a wrist brace at night to keep wrist neutral. Many people sleep with wrists flexed, which compresses the carpal tunnel.
+
+**Activity Modification**
+Reduce or modify activities that aggravate symptoms. Can you use keyboard shortcuts instead of mouse? Voice typing instead of typing?
+
+### Phase 2: Nerve and Tendon Gliding (Weeks 1-4)
+
+**Median Nerve Glides (for Carpal Tunnel)**
+1. Start with fist, wrist neutral
+2. Extend fingers, thumb tucked
+3. Extend wrist (fingers toward ceiling)
+4. Extend thumb out
+5. Rotate forearm palm up
+6. Use other hand to gently stretch thumb
+
+Move through sequence smoothly, 10-15 reps, 3x daily.
+
+**Tendon Gliding Exercises**
+Start with fingers extended straight. Move through: straight fingers → hook fist (bend at middle and end joints) → full fist → tabletop (fingers straight, bent at knuckles) → straight.
+
+Hold each position 3 seconds. 10 cycles, 3x daily.
+
+**Wrist Circles**
+Slowly circle wrists in each direction. Full range of motion, controlled.
+- 10 circles each direction, several times daily
+
+### Phase 3: Strengthen (Weeks 2-6)
+
+**Wrist Curls (Flexors)**
+Rest forearm on table, palm up, wrist over edge. Curl light weight (2-5 lbs) up, lower slowly.
+- 15 reps, 3 sets
+
+**Reverse Wrist Curls (Extensors)**
+Same position, palm down. Lift back of hand toward ceiling.
+- 15 reps, 3 sets
+
+**Pronation/Supination**
+Hold hammer or weighted bar at end. Rotate palm up, then palm down.
+- 15 reps each direction, 3 sets
+
+**Grip Strengthening**
+Start with putty or stress ball. Progress to grip trainers. Don't go heavy—focus on endurance.
+- 2-3 minutes daily
+
+**Finger Extension**
+Wrap rubber band around fingers. Spread fingers against resistance.
+- 20 reps, 3 sets
+
+### Phase 4: Address Upstream Issues
+
+Wrist problems often originate elsewhere.
+
+**Neck Check**
+Look up, down, rotate each way. Any restrictions or symptoms? Cervical mobility work may help.
+
+**Thoracic Mobility**
+Stiff upper back affects shoulder position, which affects arm mechanics.
+
+**Shoulder Strength**
+Weak rotator cuff and scapular muscles force distal muscles to compensate.
+
+**Refer to other articles** for neck and thoracic mobility work.
+
+## Ergonomic Quick Wins
+
+**Keyboard:**
+- Wrists floating or on soft rest (not hard edge)
+- Keyboard flat or slightly negative tilt (away from you)
+- Shoulders relaxed, elbows close to body
+
+**Mouse:**
+- As close to keyboard as possible
+- Move from shoulder, not just wrist
+- Consider trackpad or vertical mouse
+- Alternate hands if possible
+
+**Monitor:**
+- Top of screen at eye level
+- Arms length away
+- Directly in front, not to side
+
+**Breaks:**
+- Every 30 minutes, move hands and wrists
+- Every hour, get up and move
+- Consider app reminders
+
+## What About...
+
+**Braces during the day?**
+Generally not recommended long-term. They weaken muscles and can cause dependence. Use for specific aggravating activities if needed.
+
+**Ice or heat?**
+Ice for acute inflammation (swelling, warmth). Heat for chronic tightness. Neither is a cure.
+
+**Massage?**
+Forearm massage can help with muscle tension. Focus on flexors (front of forearm) and extensors (back).
+
+**Surgery?**
+Last resort for carpal tunnel syndrome that doesn't respond to conservative treatment. Success rates are high for true carpal tunnel, but try 3-6 months of conservative treatment first.
+
+## Timeline Expectations
+
+**Mild wrist pain:** 2-4 weeks with proper management
+
+**Moderate symptoms:** 4-8 weeks
+
+**Carpal tunnel syndrome:** 6-12 weeks for conservative treatment to work (if it's going to)
+
+**Key insight:** Symptoms that took months or years to develop won't resolve in days. Be patient and consistent.
+
+## When to See a Professional
+
+**Get evaluated if:**
+- Constant numbness or tingling
+- Weakness in grip or dropping things
+- No improvement after 4-6 weeks
+- Visible swelling or deformity
+- Symptoms after trauma
+
+**Red flags (seek immediate evaluation):**
+- Sudden severe weakness
+- Loss of sensation
+- Significant swelling after injury
+- Pain that wakes you constantly
+
+A hand specialist or orthopedic surgeon can confirm diagnosis. A physical or occupational therapist can guide treatment.
+
+## The Bottom Line
+
+Wrist pain is a consequence of how we live and work. The fix requires changing both:
+
+1. **Modify the environment** — Ergonomics matter
+2. **Keep things moving** — Nerve and tendon gliding
+3. **Build strength** — Strong forearms protect wrists
+4. **Address upstream** — Neck and shoulder issues contribute
+5. **Be patient** — Recovery takes weeks to months
+
+Your wrists can handle modern work—with the right support.
+
+---
+
+*Wrist pain limiting your productivity? The Foundational Rehab app includes arm and hand programs—from nerve gliding to strengthening, everything you need for healthy wrists.*
+\`
+  },
   'achilles-tendinopathy-treatment': {
     title: 'Achilles Tendinopathy: The Evidence-Based Recovery Guide',
     date: '2026-02-28',

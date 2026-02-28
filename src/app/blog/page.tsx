@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'wrist-pain-carpal-tunnel-relief',
+    title: 'Wrist Pain and Carpal Tunnel: Causes, Relief, and Prevention',
+    excerpt: 'Wrist pain, numbness, tingling? From carpal tunnel to tendinitis, here\'s how to find relief and prevent it from coming back.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read'
+  },
+  {
     slug: 'achilles-tendinopathy-treatment',
     title: 'Achilles Tendinopathy: The Evidence-Based Recovery Guide',
     excerpt: 'Achilles pain that won\'t quit? Rest isn\'t the answer—loading is. Here\'s the evidence-based protocol that actually works.',
