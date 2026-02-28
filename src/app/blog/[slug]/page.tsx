@@ -13,6 +13,217 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'hip-flexor-pain-relief': {
+    title: 'Hip Flexor Pain: Why It Happens and How to Fix It',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '8 min read',
+    content: \`
+## The Desk Worker's Epidemic
+
+You stand up after a long meeting and there it is—that tight, achy feeling in the front of your hip. Maybe it pinches when you try to lift your knee. Or it nags at you during runs and squats. Hip flexor pain is everywhere, and it's only getting worse.
+
+**Why now?** We sit more than any generation in history. The average American sits 10+ hours per day. Your hip flexors—the muscles that bring your knee toward your chest—spend most of their time in a shortened position. Over time, they get tight, weak, and cranky.
+
+## What Are the Hip Flexors?
+
+The "hip flexors" are actually a group of muscles:
+
+**Iliopsoas** (the main player)
+- Psoas major: runs from your lower spine through the pelvis
+- Iliacus: lines the inside of your pelvis
+- Together, they're the strongest hip flexors
+
+**Rectus Femoris**
+- One of the four quadriceps muscles
+- Unique because it crosses both the hip and knee joints
+- Often overlooked in hip flexor treatment
+
+**Other Contributors**
+- Tensor fasciae latae (TFL)
+- Sartorius
+- Pectineus
+
+## Types of Hip Flexor Pain
+
+### 1. Muscle Tightness (Most Common)
+
+**What it feels like:**
+- Stiffness when standing up after sitting
+- Feeling like you can't fully extend your hip
+- Tightness that eases with movement
+
+**Why it happens:**
+Prolonged sitting keeps hip flexors shortened. They adapt to this position, losing flexibility and becoming "stuck" short.
+
+### 2. Muscle Strain
+
+**What it feels like:**
+- Sudden sharp pain during activity
+- Pain when lifting knee against resistance
+- Possible bruising or swelling
+
+**Why it happens:**
+Sprinting, kicking, or sudden movements can overload the muscle, especially when it's already tight or weak.
+
+### 3. Hip Impingement (FAI)
+
+**What it feels like:**
+- Pinching in the front of the hip
+- Pain with deep squats or bringing knee to chest
+- Gradual onset, gets worse over time
+
+**Why it happens:**
+Bone shape variations cause the hip joint to pinch during certain movements. Common in athletes and desk workers alike.
+
+### 4. Referred Pain
+
+**What it feels like:**
+- Vague, hard-to-locate front hip pain
+- May come and go
+- Other symptoms possible (back pain, groin pain)
+
+**Why it happens:**
+Lower back issues can refer pain to the front of the hip. The psoas attaches to the spine, so it's intimately connected to back health.
+
+## Why Stretching Alone Doesn't Work
+
+Here's the uncomfortable truth: you can't stretch your way out of this problem.
+
+Yes, stretching feels good temporarily. But if your hip flexors are tight because you sit all day, stretching for 30 seconds doesn't undo 10 hours of shortening.
+
+**The real issues:**
+1. **You sit too much** — Environmental problem, not a muscle problem
+2. **Your glutes are weak** — Hip flexors dominate because glutes don't engage
+3. **Your core doesn't stabilize** — Psoas compensates for poor core stability
+4. **You don't strengthen** — Tight muscles are often weak muscles
+
+## The Complete Solution
+
+### Step 1: Reduce Sitting (Obvious but Essential)
+
+You can't out-exercise 10 hours of sitting. You have to sit less.
+
+**Practical changes:**
+- Stand or walk during phone calls
+- Set a 30-minute movement reminder
+- Walk after meals
+- Consider a standing desk (even part-time)
+
+### Step 2: Release (But Don't Obsess)
+
+Targeted release can help, but it's a small piece of the puzzle.
+
+**Psoas Release with Ball**
+Lie face-down with a soft ball (lacrosse ball is too hard) just inside your hip bone. Relax body weight onto ball. Breathe and let tension release. 60-90 seconds per side.
+
+**Couch Stretch**
+Kneel in front of a couch/wall, back knee on ground, foot up against surface. Front foot flat on floor in lunge position. Squeeze glute on back leg, keep torso upright. 60 seconds per side.
+
+**Half-Kneeling Hip Flexor Stretch**
+Half-kneeling position, squeeze back glute, tuck pelvis slightly. Reach same-side arm overhead and lean away. Feel deep stretch through psoas. 60 seconds per side.
+
+### Step 3: Strengthen the Hip Flexors (Yes, Really)
+
+This is counterintuitive but crucial. Tight muscles are often weak muscles compensating for something.
+
+**90/90 Hip Flexor Lift**
+Sit against wall, knees and hips at 90 degrees. Lift one foot 2 inches off ground, using hip flexor. Hold 5 seconds. 10 reps per side.
+
+**Standing Psoas March**
+Stand tall, lift one knee to hip height. Hold 3 seconds, lower with control. Use a wall for balance if needed. 15 reps per side.
+
+**Dead Bugs**
+Lie on back, arms up, knees bent 90 degrees. Lower opposite arm and leg toward ground while keeping lower back pressed into floor. 10 reps per side.
+
+### Step 4: Strengthen the Glutes (The Real Key)
+
+When glutes are weak, hip flexors take over movements they shouldn't. Strong glutes = less hip flexor strain.
+
+**Glute Bridges**
+Lie on back, feet flat, knees bent. Squeeze glutes and lift hips. Hold 3 seconds at top. 15 reps, 3 sets.
+
+**Single-Leg Glute Bridge**
+Same as above but with one leg extended. Focus on keeping hips level. 10 reps per side.
+
+**Clamshells**
+Side-lying, knees bent 45 degrees. Open top knee while keeping feet together. Feel it in the side of your glute, not your TFL. 20 reps per side.
+
+**Romanian Deadlifts**
+Stand on one leg, hinge at hips, reach hands toward ground. Feel the standing leg glute work eccentrically. 10 reps per side.
+
+### Step 5: Move Through Full Range
+
+Modern life doesn't require full hip extension. Your hip flexors forget how to lengthen.
+
+**Walking Lunges**
+Step forward into lunge, back knee nearly touching ground. Push through front heel to stand. Alternate legs.
+10 per leg daily.
+
+**Hip CARs (Controlled Articular Rotations)**
+Stand on one leg, draw circles with other knee as large as possible. Slow and controlled, full range.
+5 circles each direction per leg.
+
+## Weekly Program
+
+**Daily (Non-Negotiable)**
+- Movement break every 30-45 minutes
+- 2-minute morning hip mobility routine
+
+**3x Per Week**
+- Full hip flexor routine (15-20 minutes)
+- Includes: release, stretch, strengthen hip flexors, strengthen glutes
+
+**Sample Routine:**
+1. Soft ball psoas release — 90 sec/side
+2. Half-kneeling hip flexor stretch — 60 sec/side
+3. Dead bugs — 10 reps/side
+4. 90/90 hip flexor lift — 10 reps/side
+5. Glute bridges — 15 reps
+6. Clamshells — 20 reps/side
+7. Walking lunges — 10 reps/leg
+
+## Timeline for Improvement
+
+**Week 1-2:** You'll feel different. Stiffness starts to ease, especially in mornings.
+
+**Week 3-4:** Noticeable improvement. Standing up from sitting feels easier. Less "stuck" feeling.
+
+**Week 6-8:** Significant change. Pain during activities diminishes. You move better overall.
+
+**Month 3+:** New normal. Hip flexors are no longer a limiting factor. Focus shifts to maintenance.
+
+## When to See a Professional
+
+Get evaluated if:
+- Sharp pain with specific movements (possible strain or impingement)
+- Pain that worsens despite consistent work
+- Numbness, tingling, or radiating pain
+- Pain that started after a specific injury
+- Pain that limits daily activities
+
+**Who to see:**
+- Sports medicine physician for diagnosis
+- Physical therapist for movement assessment and treatment
+- Orthopedic surgeon if structural issues suspected
+
+## The Bottom Line
+
+Hip flexor pain is a lifestyle problem with a movement solution. Stretching helps temporarily, but lasting relief requires:
+
+1. Sitting less
+2. Strengthening hip flexors (not just stretching)
+3. Activating dormant glutes
+4. Moving through full range daily
+
+Your hip flexors are asking you to move differently. Listen to them.
+
+---
+
+*Hip flexor pain affecting your workouts or daily life? The Foundational Rehab app includes targeted programs for hip mobility and strength—guided exercises designed to fix the problem, not just mask it.*
+\`
+  },
   'it-band-syndrome-treatment': {
     title: 'IT Band Syndrome: Why Foam Rolling Isn\'t Enough',
     date: '2026-02-27',

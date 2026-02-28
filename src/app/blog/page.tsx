@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hip-flexor-pain-relief',
+    title: 'Hip Flexor Pain: Why It Happens and How to Fix It',
+    excerpt: 'That tight, achy feeling in the front of your hip? Desk work is the culprit. Learn why stretching alone won\'t fix it—and what actually will.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '8 min read'
+  },
+  {
     slug: 'it-band-syndrome-treatment',
     title: 'IT Band Syndrome: Why Foam Rolling Isn\'t Enough',
     excerpt: 'Outer knee pain from running or cycling? IT band syndrome is common—but most treatment approaches miss the real cause. Here\'s what actually works.',
