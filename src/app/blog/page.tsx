@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'achilles-tendinopathy-treatment',
+    title: 'Achilles Tendinopathy: The Evidence-Based Recovery Guide',
+    excerpt: 'Achilles pain that won\'t quit? Rest isn\'t the answer—loading is. Here\'s the evidence-based protocol that actually works.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '8 min read'
+  },
+  {
     slug: 'shin-splints-treatment-prevention',
     title: 'Shin Splints: Why They Happen and How to Fix Them for Good',
     excerpt: 'That burning shin pain ruining your runs? Shin splints are fixable—but most runners handle them wrong. Here\'s the complete recovery guide.',

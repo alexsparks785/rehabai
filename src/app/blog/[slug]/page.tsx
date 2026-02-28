@@ -13,6 +13,239 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'achilles-tendinopathy-treatment': {
+    title: 'Achilles Tendinopathy: The Evidence-Based Recovery Guide',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '8 min read',
+    content: \`
+## The Tendon That Won't Quit Hurting
+
+Your Achilles is the thickest, strongest tendon in your body. It handles forces of 6-8 times your body weight during running. And when it starts hurting, it can feel like it will never stop.
+
+Achilles tendinopathy affects **up to 50% of runners** at some point in their careers. It's also common in basketball players, tennis players, dancers, and anyone who does repetitive jumping or pushing off.
+
+The frustrating part: Achilles problems are slow to heal. But with the right approach, they absolutely do heal.
+
+## Understanding the Condition
+
+**Old term:** Achilles tendinitis (implies inflammation)
+**Current term:** Achilles tendinopathy (recognizes it's a structural issue)
+
+For decades, doctors thought Achilles pain was caused by inflammation. Treatment focused on rest and anti-inflammatories. It didn't work well.
+
+Research now shows that chronic Achilles pain involves **tendon degeneration**—disorganized collagen, increased ground substance, sometimes new blood vessel and nerve growth into damaged areas. Inflammation is minimal or absent.
+
+This changes everything about treatment.
+
+## Two Types of Achilles Tendinopathy
+
+### Midportion Tendinopathy (Most Common)
+- Pain 2-6 cm above the heel bone
+- Thickening or nodule may be visible/palpable
+- Classic "morning stiffness" pattern
+- Affects the main body of the tendon
+
+### Insertional Tendinopathy
+- Pain right at the heel bone where tendon attaches
+- May have bony prominence (Haglund's deformity)
+- Aggravated by pressure from shoes
+- Often involves the bursa as well
+
+Treatment principles are similar, but insertional tendinopathy requires some modifications (especially avoiding stretching that compresses the insertion).
+
+## Classic Symptoms
+
+**Morning stiffness:** Pain and stiffness with first steps after sleeping or prolonged sitting. Eases after a few minutes of walking.
+
+**Warm-up phenomenon:** Pain at start of activity, decreases as you warm up, may return after stopping.
+
+**Activity-related pain:** Worse with running, jumping, climbing stairs, walking uphill.
+
+**Palpable changes:** Thickening, tenderness, sometimes a nodule in the tendon.
+
+**Progression:** Starts mild, gradually worsens if ignored.
+
+## Why It Happens
+
+### Training Errors
+- Sudden increase in running volume or intensity
+- Adding hills or speed work too quickly
+- Inadequate recovery between sessions
+- Change in training surface
+
+### Biomechanical Factors
+- Weak calf muscles (especially soleus)
+- Limited ankle dorsiflexion
+- Poor hip strength affecting lower limb mechanics
+- Overpronation
+
+### Equipment
+- Worn-out shoes
+- Low heel-drop shoes (for those not adapted)
+- Change in footwear
+
+### Other Factors
+- Advancing age (tendon changes occur naturally)
+- Higher body weight
+- Certain medications (fluoroquinolone antibiotics)
+- Systemic conditions
+
+## The Recovery Protocol
+
+### Phase 1: Load Management (Week 1-2)
+
+**Don't stop completely.** Complete rest weakens the tendon. But you need to find the right dose.
+
+**The 24-hour rule:** Activity should not cause pain that is worse the next morning. If it does, you did too much.
+
+**Modify, don't stop:**
+- Reduce running volume by 50%+
+- Avoid hills and speed work
+- Consider walk-run intervals
+- Cross-train with low-impact activities (cycling, swimming, pool running)
+
+**Pain during activity:** Keep it below 4/10. Some discomfort is acceptable; significant pain is not.
+
+### Phase 2: Heavy Slow Resistance Training (Weeks 2-12)
+
+This is the foundation of treatment. Heavy, slow loading stimulates tendon remodeling.
+
+**Heel Raises (Bilateral to Unilateral Progression)**
+
+*Stage 1: Bilateral Heel Raises*
+Stand on both feet. Rise onto toes, hold 3 seconds, lower over 3 seconds.
+- 3 sets of 15 reps, once daily
+
+*Stage 2: Single-Leg Heel Raises (Floor)*
+Same as above but on one leg. Use wall for balance.
+- 3 sets of 15 reps per leg, once daily
+
+*Stage 3: Add Weight*
+Hold dumbbells or wear weighted vest. Progress weight gradually.
+- 3 sets of 12 reps, increase weight when you can complete all reps
+
+*Stage 4: Deficit Heel Raises*
+Stand on step with heels hanging off (MIDPORTION ONLY—avoid for insertional).
+Rise up, lower below step level.
+- 3 sets of 12 reps
+
+**Key principles:**
+- Heavy enough that last 2-3 reps are challenging
+- Slow and controlled (3 seconds up, 3 seconds down)
+- Some discomfort during exercise is acceptable (up to 5/10)
+- Pain should settle within 24 hours
+
+**For Insertional Tendinopathy:**
+Avoid positions that compress the insertion (no deficit stretching or extreme dorsiflexion). Do heel raises from flat ground only, and don't lower below neutral.
+
+### Phase 3: Progress Loading (Weeks 6-12)
+
+**Eccentric-Only Protocol (Alternative)**
+The Alfredson protocol: 3 sets of 15 reps, twice daily, eccentric only (lowering phase). Use a step to return to start position. This works but newer evidence suggests heavy slow resistance is equally or more effective.
+
+**Add Plyometrics (When Ready)**
+Once heavy strength is established (usually 6-8 weeks), gradual introduction of jumping/hopping prepares the tendon for athletic demands.
+
+*Progression:*
+1. Double-leg hops in place (Week 6-8)
+2. Single-leg hops in place (Week 8-10)
+3. Forward hops (Week 10-12)
+4. Sport-specific plyometrics (Week 12+)
+
+### Phase 4: Return to Running (Week 8-12+)
+
+**Only begin when:**
+- Heel raises are pain-free or minimal discomfort
+- Morning stiffness resolved or minimal
+- Walking and daily activities pain-free
+
+**Return protocol:**
+Start with walk-run intervals on flat, soft surfaces. Progress slowly.
+
+*Sample:*
+- Week 1: Run 1 min/walk 2 min x 5 (15 min total), 3x/week
+- Week 2: Run 2 min/walk 1 min x 6 (18 min total)
+- Week 3: Run 3 min/walk 1 min x 5 (20 min total)
+- Week 4: Continuous running 15 min
+- Week 5+: Increase by 10% weekly
+
+**Continue strength work** throughout return to running and beyond.
+
+## What Doesn't Work
+
+**Prolonged rest:** Weakens the tendon, doesn't fix the problem.
+
+**Anti-inflammatories (NSAIDs):** May help short-term pain but don't address the issue and may impair healing.
+
+**Cortisone injections:** Strong evidence AGAINST cortisone for Achilles tendinopathy. Risk of tendon rupture.
+
+**Stretching (for insertional):** Compresses the insertion and aggravates the problem.
+
+**Passive treatments alone:** Massage, ultrasound, laser may feel good but don't fix the tendon.
+
+## What Might Help (Adjuncts)
+
+**Heel lifts:** Reduces tendon strain. Can help during acute phase.
+
+**Ice:** For pain relief after activity. Won't heal the tendon but can manage symptoms.
+
+**Soft tissue work:** Calf massage or foam rolling may help with muscle tightness contributing to tendon load.
+
+**Isometric exercises:** For pain relief. Hold heel raise at top for 45 seconds, 5 reps. Can reduce pain acutely.
+
+## Timeline Expectations
+
+This is not a quick fix.
+
+**Minimum:** 3 months of consistent loading for significant improvement
+**Average:** 6 months for return to full activity
+**Stubborn cases:** 12 months or longer
+
+**The mistake most people make:** Stopping the program when they feel better. The tendon isn't fully healed when pain resolves. Continue loading for at least 3 months after symptoms resolve.
+
+## Prevention
+
+**Calf strength maintenance:** Heavy heel raises 2x/week forever. Strong calves protect the Achilles.
+
+**Gradual progression:** Respect the 10% rule for mileage increases. Be even more conservative with hills and speed work.
+
+**Footwear:** Replace running shoes regularly. Be cautious with transitions to minimalist footwear.
+
+**Early intervention:** At the first sign of Achilles discomfort, reduce load and begin heel raise program. Early treatment prevents chronic problems.
+
+## When to See a Professional
+
+**Get evaluated if:**
+- Pain is severe or sudden onset (possible rupture)
+- No improvement after 6 weeks of consistent loading
+- Pain at rest or at night
+- Swelling or warmth
+- Previous Achilles rupture
+
+**Who to see:**
+- Sports medicine physician for diagnosis and to rule out other conditions
+- Physical therapist for supervised loading progression
+- Podiatrist if foot mechanics are a factor
+
+## The Bottom Line
+
+Achilles tendinopathy is stubborn but beatable. The evidence is clear:
+
+1. **Load the tendon** — Heavy, slow heel raises are the treatment
+2. **Be patient** — This is a 3-6 month process minimum
+3. **Don't stop early** — Continue loading after pain resolves
+4. **Modify, don't rest** — Complete rest makes things worse
+5. **Prevent recurrence** — Maintain calf strength forever
+
+Your Achilles can handle tremendous forces—it just needs the right stimulus to heal.
+
+---
+
+*Achilles pain limiting your running? The Foundational Rehab app includes progressive tendon loading programs—evidence-based protocols to get you back on the road.*
+\`
+  },
   'shin-splints-treatment-prevention': {
     title: 'Shin Splints: Why They Happen and How to Fix Them for Good',
     date: '2026-02-28',
