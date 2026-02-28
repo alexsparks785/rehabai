@@ -13,6 +13,266 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'si-joint-pain-treatment': {
+    title: 'SI Joint Pain: Causes, Symptoms, and Effective Treatment',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '7 min read',
+    content: \`
+## The Joint Nobody Talks About
+
+You have low back pain. Maybe it radiates into your buttock or thigh. You've seen doctors, tried stretches, maybe even had imaging. But nothing quite explains it.
+
+Here's a possibility often overlooked: your **sacroiliac joint**—the SI joint.
+
+SI joint dysfunction accounts for **15-30% of chronic low back pain cases**. Yet it's frequently misdiagnosed as disc problems, sciatica, or generic "low back pain." Understanding the SI joint can be the key to finally finding relief.
+
+## What Is the SI Joint?
+
+The sacroiliac joints are where your spine meets your pelvis. You have two of them—one on each side of your sacrum (the triangular bone at the base of your spine).
+
+These joints don't move much—only a few degrees. But they transfer enormous forces between your upper body and legs. Every step you take, every time you sit or stand, your SI joints are working.
+
+**Key point:** The SI joint is designed for stability, not mobility. Problems arise when it becomes either too stiff or too loose.
+
+## SI Joint Pain Symptoms
+
+**Location:**
+- One-sided low back pain (usually)
+- Pain over the dimples of your lower back
+- May radiate into buttock, groin, or back of thigh
+- Rarely goes below the knee (unlike sciatica)
+
+**Pattern:**
+- Often worse with prolonged standing or sitting
+- Pain transitioning from sit to stand
+- Pain with walking, especially on uneven surfaces
+- May be worse climbing stairs
+- Often relieved by changing positions
+- May be asymmetric (worse on one side)
+
+**Classic sign:** Point to your pain with one finger. If you point to the area just below your waist, off to one side (over the SI joint), that's suggestive.
+
+## SI Joint vs Other Causes
+
+**SI Joint Pain:**
+- One-sided, over the joint
+- Pain with single-leg activities
+- Positive SI provocation tests
+- Doesn't follow dermatomal pattern
+
+**Disc/Sciatica:**
+- May have clear nerve symptoms (numbness, tingling)
+- Pain follows specific path down leg
+- Positive straight leg raise test
+- May have weakness in specific muscles
+
+**Facet Joint Pain:**
+- Central or bilateral low back
+- Worse with extension (bending backward)
+- May radiate into buttock, rarely below knee
+
+**Hip Pain:**
+- More in groin or front of thigh
+- Pain with hip rotation
+- May have clicking or catching
+
+In reality, these conditions often coexist. Getting the right diagnosis matters for effective treatment.
+
+## Causes of SI Joint Dysfunction
+
+### 1. Hypermobility (Too Loose)
+The joint moves more than it should, causing instability.
+
+**Risk factors:**
+- Pregnancy and postpartum (ligaments loosen)
+- Hypermobility syndromes
+- Previous pelvic trauma
+- Leg length discrepancy (real or functional)
+
+### 2. Hypomobility (Too Stiff)
+The joint doesn't move enough, creating abnormal stress.
+
+**Risk factors:**
+- Prolonged sitting
+- Fusion at adjacent spine levels
+- Arthritis
+- Muscle imbalances
+
+### 3. Inflammation
+Inflammatory conditions can affect the SI joint.
+
+**Examples:**
+- Ankylosing spondylitis
+- Psoriatic arthritis
+- Other seronegative spondyloarthropathies
+
+### 4. Trauma
+Fall onto buttock, car accident, or sports impact.
+
+### 5. Muscle Imbalances
+Weak glutes, tight hip flexors, and core dysfunction alter forces through the SI joint.
+
+## Self-Assessment
+
+**Single-Leg Stance Test**
+Stand on one leg for 30 seconds. Pain in the SI joint area on the standing side = possible dysfunction.
+
+**FABER Test**
+Lie on back. Place ankle of affected side on opposite knee (figure 4 position). Let knee fall toward floor. Pain in SI joint area = positive.
+
+**Posterior Pelvic Pain Provocation Test**
+Lie on back, hip flexed to 90 degrees. Partner pushes down through knee toward table. Pain in SI joint = positive.
+
+*Note: No single test is definitive. Multiple positive tests increase likelihood.*
+
+## The Treatment Approach
+
+### For Hypermobility/Instability
+
+**1. Stabilization Exercises**
+
+The goal is to strengthen muscles that support the SI joint.
+
+*Dead Bugs*
+Lie on back, arms up, knees bent 90°. Lower opposite arm and leg while keeping lower back pressed into floor.
+- 10 reps per side, 3 sets
+
+*Bird Dogs*
+Hands and knees. Extend opposite arm and leg without rotating spine. Hold 5 seconds.
+- 10 reps per side, 3 sets
+
+*Pallof Press*
+Band attached to side, hold at chest. Press arms forward, resisting rotation.
+- 10 reps per side, 3 sets
+
+*Side Plank*
+Build toward 30-second holds, ensuring hips don't sag or pike.
+- 3 reps per side
+
+*Glute Bridges*
+Focus on level hips and controlled movement.
+- 15 reps, 3 sets
+
+**2. SI Belt**
+A sacroiliac belt worn around the pelvis can provide temporary stability. Useful during acute flares or high-demand activities. Not a long-term solution—strengthening is.
+
+**3. Avoid Aggravating Positions**
+- Single-leg activities (temporarily)
+- Asymmetric loading
+- Prolonged standing on one leg
+- Crossing legs while sitting
+
+### For Hypomobility/Stiffness
+
+**1. Mobility Exercises**
+
+*Knee-to-Chest*
+Lie on back, pull one knee toward chest. Gentle stretch through SI area.
+- 30 seconds per side, 3 reps
+
+*Supine Twist*
+Lie on back, arms out. Cross one leg over body, let it fall toward floor. Keep shoulders down.
+- 30 seconds per side, 3 reps
+
+*Thread the Needle*
+Hands and knees. Reach one arm under body, rotating thorax. Open up toward ceiling.
+- 10 reps per side
+
+*Hip Flexor Stretch*
+Half-kneeling, squeeze glute, shift forward. Opens up the front of the pelvis.
+- 30 seconds per side, 3 reps
+
+**2. Muscle Energy Techniques**
+These can help "reset" the joint position:
+
+*Prone SI Joint Reset*
+Lie face down, one knee bent to 90°. Gently press that knee into the table while breathing. Hold 5 seconds, relax. Repeat 5 times per side.
+
+### For Both Types
+
+**1. Glute Strengthening**
+Strong glutes stabilize the pelvis and reduce SI joint stress.
+
+*Single-Leg Glute Bridge*
+- 10 reps per side, 3 sets
+
+*Side-Lying Hip Abduction*
+- 15 reps per side, 3 sets
+
+*Clamshells*
+- 20 reps per side, 3 sets
+
+**2. Hip Flexibility**
+Tight hips alter pelvic mechanics.
+
+Address hip flexors, piriformis, and adductors as needed.
+
+**3. Core Stability**
+The core and SI joint work together. See core stability article for full protocol.
+
+## Activity Modifications
+
+**During Flares:**
+- Avoid single-leg standing
+- Don't cross legs
+- Sleep with pillow between knees (side sleeping) or under knees (back sleeping)
+- Avoid prolonged positions
+- Use armrests to assist with sit-to-stand
+
+**For Ongoing Management:**
+- Maintain movement variety
+- Avoid sustained one-sided activities
+- Keep hips and core strong
+- Address leg length discrepancy if present
+
+## Timeline for Improvement
+
+**Acute SI flare:** 1-2 weeks with proper management
+
+**Chronic SI dysfunction:** 6-12 weeks for significant improvement
+
+**Key insight:** SI joint issues often recur. Ongoing maintenance is necessary—this isn't a "fix it once and forget it" situation.
+
+## When to See a Professional
+
+**Get evaluated if:**
+- Pain is severe or worsening
+- Symptoms persist despite 4-6 weeks of self-management
+- You have morning stiffness lasting >30 minutes (possible inflammatory condition)
+- Numbness, tingling, or weakness
+- Pain with bowel/bladder changes
+- History of inflammatory conditions
+
+**Who to see:**
+- Physical therapist for movement assessment and treatment
+- Sports medicine physician or physiatrist for diagnosis
+- Rheumatologist if inflammatory cause suspected
+
+**Treatment options from professionals:**
+- Manual therapy (manipulation, mobilization)
+- SI joint injections (diagnostic and therapeutic)
+- Prolotherapy or PRP (for instability)
+- Rarely, surgical fusion
+
+## The Bottom Line
+
+SI joint pain is common, underdiagnosed, and very treatable:
+
+1. **Location is key** — Pain over the SI joint area, one-sided
+2. **Know your type** — Unstable vs stiff requires different approaches
+3. **Stabilize the system** — Core and glutes are essential
+4. **Stay consistent** — This takes weeks to months, not days
+5. **Maintain long-term** — Recurrence is common without ongoing work
+
+Your SI joint is a workhorse—give it the support it needs.
+
+---
+
+*SI joint pain limiting your movement? The Foundational Rehab app includes pelvic stability programs—targeted exercises for lasting relief.*
+\`
+  },
   'groin-pain-adductor-strain': {
     title: 'Groin Pain and Adductor Strains: Recovery and Prevention',
     date: '2026-02-28',

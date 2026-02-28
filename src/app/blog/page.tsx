@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'si-joint-pain-treatment',
+    title: 'SI Joint Pain: Causes, Symptoms, and Effective Treatment',
+    excerpt: 'Low back pain that won\'t go away? Your SI joint might be the hidden cause. Here\'s how to identify and fix it.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '7 min read'
+  },
+  {
     slug: 'groin-pain-adductor-strain',
     title: 'Groin Pain and Adductor Strains: Recovery and Prevention',
     excerpt: 'Groin pull got you sidelined? These injuries linger if mismanaged. Here\'s the evidence-based approach to full recovery.',
