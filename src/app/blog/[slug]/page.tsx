@@ -13,6 +13,241 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'shin-splints-treatment-prevention': {
+    title: 'Shin Splints: Why They Happen and How to Fix Them for Good',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '7 min read',
+    content: \`
+## The Runner's Rite of Passage
+
+You started running. Maybe you're training for your first 5K, getting back into shape, or ramping up mileage for a race. Then it hits—that aching, burning pain along your shinbone that makes every step miserable.
+
+Welcome to shin splints, the most common running injury. Up to **35% of runners** will experience shin splints at some point. For new runners, that number is even higher.
+
+The good news: shin splints are preventable and treatable. The bad news: most people handle them wrong and end up in a frustrating cycle of pain, rest, return, pain.
+
+## What Are Shin Splints?
+
+"Shin splints" is a catch-all term for pain along the tibia (shinbone). The medical term is **medial tibial stress syndrome (MTSS)**.
+
+What's actually happening: the muscles, tendons, and bone tissue along the inner shin become overloaded and irritated. It's a stress reaction—not quite a stress fracture, but on the spectrum toward one if you ignore it.
+
+## Shin Splints vs Stress Fracture
+
+This distinction matters. A lot.
+
+**Shin Splints (MTSS)**
+- Diffuse pain along a larger area (usually 5+ cm)
+- Pain with activity, eases with rest
+- Tender to touch along the bone
+- Can often "warm up" out of it initially
+- No pain with single-leg hopping (usually)
+
+**Stress Fracture**
+- Focal point tenderness (can point to exact spot)
+- Pain persists after stopping activity
+- May hurt with walking or at rest
+- Pain with single-leg hopping on affected leg
+- Requires imaging to confirm
+
+**If you suspect a stress fracture, stop running and get evaluated.** Continuing to run on a stress fracture can lead to a complete break.
+
+## Why Shin Splints Happen
+
+### 1. Too Much, Too Soon
+The most common cause. Bone and soft tissue need time to adapt to running stress. When you increase mileage or intensity faster than your body can adapt, shin splints result.
+
+**The 10% Rule:** Don't increase weekly mileage by more than 10% per week. Even this can be too aggressive for new runners.
+
+### 2. Running Surface and Terrain
+Hard surfaces (concrete, asphalt) and cambered roads increase tibial stress. Hills, especially downhill, add additional load.
+
+### 3. Footwear Issues
+Worn-out shoes lose their cushioning. Shoes that don't match your foot type or gait can alter load distribution.
+
+### 4. Biomechanical Factors
+- Overpronation (foot rolling inward excessively)
+- Weak hip stabilizers leading to poor leg alignment
+- Limited ankle mobility
+- Tight calves
+
+### 5. Training Errors
+- All running, no cross-training
+- No strength work
+- Insufficient recovery between hard sessions
+- Running on tired legs
+
+### 6. Anatomical Factors
+- Low bone density
+- Higher body weight
+- Previous history of shin splints
+- Female sex (higher incidence)
+
+## The Recovery Protocol
+
+### Phase 1: Reduce Load (Immediately)
+
+You cannot run through shin splints and expect them to improve. The tissue is overloaded and needs relative rest.
+
+**Options:**
+- **Complete rest** — If pain is severe or present during walking
+- **Reduced running** — Cut volume by 50%+, run only on soft surfaces
+- **Cross-training** — Pool running, cycling, elliptical (if pain-free)
+
+**Pain Rule:** If shin pain exceeds 3/10 during or after activity, you're doing too much.
+
+### Phase 2: Address Contributing Factors (Weeks 1-4)
+
+While reducing running load, fix what caused the problem.
+
+**Calf Flexibility**
+Tight calves increase tibial stress.
+
+*Standing Calf Stretch*
+Step one foot back, keep heel down, lean into wall. Hold 30 seconds. Do with knee straight (gastrocnemius) and knee bent (soleus).
+- 3 reps each position, both legs, 2x daily
+
+*Foam Roll Calves*
+Roll slowly from ankle to knee. Pause on tender spots.
+- 60-90 seconds per leg
+
+**Ankle Mobility**
+Limited ankle dorsiflexion changes running mechanics.
+
+*Knee-to-Wall Test*
+Kneel with one foot forward, knee toward wall. See how far your knee can travel over your toes while keeping heel down. Goal: 4-5 inches.
+
+*Half-Kneeling Ankle Mobilization*
+Same position as test. Rock knee forward over toes, hold 2 seconds, return. Add weight on knee for more intensity.
+- 15 reps per ankle
+
+**Tibialis Posterior Strengthening**
+This muscle is often the primary tissue involved in shin splints.
+
+*Single-Leg Calf Raise with Inversion*
+Stand on one foot. Rise onto toes while slightly inverting foot (rolling to outside edge). Lower with control.
+- 15 reps per side, 3 sets
+
+*Towel Scrunches*
+Sit with foot on towel. Scrunch towel toward you using toes.
+- 2 minutes per foot
+
+**Hip and Glute Strengthening**
+Weak hips lead to poor leg alignment and increased shin stress.
+
+*Clamshells*
+Side-lying, knees bent. Open top knee while keeping feet together.
+- 20 reps per side, 3 sets
+
+*Side-Lying Leg Raises*
+Side-lying, bottom leg bent, top leg straight. Lift and lower with control.
+- 15 reps per side, 3 sets
+
+*Single-Leg Bridges*
+Lie on back, one leg extended. Bridge up on single leg, keep hips level.
+- 12 reps per side, 3 sets
+
+*Single-Leg Deadlifts*
+Stand on one leg, hinge forward. Feel glute on standing leg.
+- 10 reps per leg, 3 sets
+
+### Phase 3: Graduated Return to Running (Weeks 4-8)
+
+Don't rush back. Gradual return is essential for tissue adaptation.
+
+**Sample Return Protocol:**
+
+*Week 1:* Walk/run intervals. Run 1 minute, walk 2 minutes. Total 15 minutes. Do 3x this week on soft surface.
+
+*Week 2:* Run 2 minutes, walk 1 minute. Total 20 minutes. 3x this week.
+
+*Week 3:* Run 3 minutes, walk 1 minute. Total 20-25 minutes. 3x this week.
+
+*Week 4:* Continuous easy running 15 minutes. 3x this week.
+
+*Week 5:* Continuous running 20 minutes. 3x this week.
+
+*Week 6+:* Gradually increase duration by 10% per week.
+
+**Rules during return:**
+- Any shin pain above 2/10 = walk the rest
+- Pain next day = take an extra rest day
+- Soft surfaces only initially
+- Continue all strengthening work
+
+### Phase 4: Prevention (Ongoing)
+
+**Maintain Strength Work**
+Hip and calf strengthening 2-3x per week indefinitely. This is non-negotiable for injury prevention.
+
+**Progress Gradually**
+Respect the 10% rule. When adding intensity (hills, speed), reduce volume.
+
+**Vary Surfaces**
+Mix concrete, asphalt, trails, track. Don't do all mileage on hardest surfaces.
+
+**Monitor Shoes**
+Replace running shoes every 300-500 miles. If you're not tracking, look for worn treads or compressed midsoles.
+
+**Listen to Early Warnings**
+Slight shin discomfort that comes and goes is a warning. Respond by reducing load immediately, not after it becomes constant.
+
+## What About...
+
+**Ice?**
+Can help with pain in acute phase. 15-20 minutes after activity. Not a treatment, just symptom management.
+
+**Compression sleeves?**
+May provide comfort during activity. Not a fix, but can help some people run with less pain during return.
+
+**Orthotics?**
+If overpronation is a significant factor, custom or over-the-counter orthotics may help. But strength work is more important.
+
+**Gait retraining?**
+Increasing cadence (steps per minute) by 5-10% can reduce tibial loading. A running coach or PT can help with form changes.
+
+## Timeline Expectations
+
+**Mild shin splints:** 2-4 weeks with proper management
+
+**Moderate shin splints:** 4-8 weeks
+
+**Severe/chronic shin splints:** 8-12 weeks or longer
+
+**Key insight:** The longer you ran through pain before addressing it, the longer recovery takes.
+
+## When to See a Professional
+
+Get evaluated if:
+- Pain is focal (single point tenderness)
+- Pain persists at rest or during walking
+- No improvement after 4 weeks of proper management
+- Pain with hopping on one leg
+- Swelling or visible changes to the shin
+
+A sports medicine physician can rule out stress fracture with imaging. A physical therapist can assess biomechanics and guide return to running.
+
+## The Bottom Line
+
+Shin splints are telling you something: your training load exceeded your tissue capacity.
+
+The fix isn't complicated:
+1. Reduce load immediately
+2. Address calf tightness, ankle mobility, hip strength
+3. Return gradually with a structured plan
+4. Maintain prevention work forever
+
+Every runner who takes shin splints seriously comes back stronger. Every runner who ignores them ends up with a stress fracture or chronic issues.
+
+Listen to your shins.
+
+---
+
+*Shin splints keeping you off the road? The Foundational Rehab app includes a complete lower leg program—build the strength and mobility to run pain-free.*
+\`
+  },
   'piriformis-syndrome-treatment': {
     title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
     date: '2026-02-28',

@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'shin-splints-treatment-prevention',
+    title: 'Shin Splints: Why They Happen and How to Fix Them for Good',
+    excerpt: 'That burning shin pain ruining your runs? Shin splints are fixable—but most runners handle them wrong. Here\'s the complete recovery guide.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '7 min read'
+  },
+  {
     slug: 'piriformis-syndrome-treatment',
     title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
     excerpt: 'Pain radiating from your buttock down your leg? It might not be sciatica. Piriformis syndrome mimics it perfectly—but is far more treatable.',
