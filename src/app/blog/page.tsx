@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'groin-pain-adductor-strain',
+    title: 'Groin Pain and Adductor Strains: Recovery and Prevention',
+    excerpt: 'Groin pull got you sidelined? These injuries linger if mismanaged. Here\'s the evidence-based approach to full recovery.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read'
+  },
+  {
     slug: 'runners-knee-patellofemoral-pain',
     title: 'Runner\'s Knee: Why It Happens and How to Fix It',
     excerpt: 'Front knee pain ruining your runs? Runner\'s knee is the #1 running injury—and it\'s usually a hip problem in disguise.',

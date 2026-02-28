@@ -13,6 +13,271 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'groin-pain-adductor-strain': {
+    title: 'Groin Pain and Adductor Strains: Recovery and Prevention',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read',
+    content: \`
+## The Injury Athletes Dread
+
+You make a quick lateral cut, kick a ball, or push off during a sprint. Suddenly—sharp pain in your inner thigh. You know immediately something is wrong.
+
+Groin injuries are among the most common and frustrating sports injuries. They account for **10-18% of all soccer injuries** and are prevalent in hockey, football, basketball, and any sport requiring quick direction changes.
+
+The frustrating part: groin injuries love to linger. Without proper management, they become chronic problems that sideline athletes for months.
+
+## Anatomy of the Groin
+
+The "groin" isn't a single structure—it's a complex region where multiple muscles, tendons, and bones converge.
+
+**Adductor Muscles (Main Culprits)**
+- Adductor longus (most commonly injured)
+- Adductor brevis
+- Adductor magnus
+- Gracilis
+- Pectineus
+
+These muscles run from the pelvis to the inner thigh, pulling the leg inward (adduction).
+
+**Other Structures**
+- Hip flexors (can refer pain to groin)
+- Pubic bone and symphysis
+- Inguinal ligament and canal
+- Hip joint itself
+
+## Types of Groin Pain
+
+### 1. Adductor Strain/Tear
+Most common groin injury in athletes.
+
+**Symptoms:**
+- Sudden onset during activity
+- Pain in inner thigh, may radiate toward groin
+- Pain with squeezing legs together
+- Tenderness along inner thigh muscles
+- Bruising in severe cases
+
+**Grades:**
+- Grade 1: Mild strain, minimal fiber damage
+- Grade 2: Partial tear, moderate pain and weakness
+- Grade 3: Complete tear, significant pain and disability
+
+### 2. Hip Flexor Strain
+Often confused with groin strain. (See hip flexor article for full coverage.)
+
+**Key difference:** Pain more in front of hip/upper thigh, worse with knee-to-chest movement.
+
+### 3. Osteitis Pubis
+Inflammation of the pubic symphysis (joint at front of pelvis).
+
+**Symptoms:**
+- Gradual onset
+- Central groin pain at pubic bone
+- Pain with running, kicking, twisting
+- Tenderness at pubic symphysis
+
+### 4. Sports Hernia (Athletic Pubalgia)
+Weakening or tear of the lower abdominal wall, not a true hernia.
+
+**Symptoms:**
+- Deep, diffuse groin pain
+- Worse with exertion, may improve with rest
+- Pain with coughing, sneezing, sit-ups
+- Often no visible bulge
+
+### 5. Hip Joint Issues
+Labral tears, impingement, or arthritis can present as groin pain.
+
+**Symptoms:**
+- Deep groin/front hip pain
+- Clicking, catching, or locking
+- Stiffness
+- Pain with hip flexion and rotation
+
+## Assessing Your Injury
+
+**Likely adductor strain if:**
+- Sudden onset during activity involving legs
+- Pain in inner thigh
+- Pain when squeezing knees together against resistance
+- Tenderness along adductor muscles
+
+**May need professional evaluation if:**
+- Gradual onset without clear mechanism
+- Central groin pain at pubic bone
+- Deep pain that's hard to localize
+- Symptoms in lower abdomen
+- Clicking, catching, or locking
+- Not improving with basic management
+
+## The Recovery Protocol
+
+### Acute Phase (Days 1-5)
+
+**Relative Rest**
+Avoid activities that cause pain. Walking is usually fine. No running, cutting, kicking.
+
+**Ice**
+15-20 minutes every few hours for first 48-72 hours if swelling present.
+
+**Compression**
+Compression shorts can provide support and comfort.
+
+**Pain-Free Movement**
+Gentle range of motion to prevent stiffness:
+- Lying hip circles
+- Gentle stretching within pain-free range
+- Walking
+
+### Subacute Phase (Days 5-14)
+
+**Isometric Strengthening**
+Build strength without moving the injured tissue.
+
+*Adductor Squeeze*
+Lie on back, knees bent, squeeze ball or pillow between knees. Hold 10 seconds.
+- 10 reps, 3 sets, pain-free
+
+*Side-Lying Adduction*
+Lie on injured side, top leg supported on pillows. Lift bottom leg toward ceiling.
+- 15 reps, 3 sets
+
+**Gentle Stretching**
+Only if comfortable:
+
+*Supine Butterfly*
+Lie on back, soles of feet together, let knees fall open. Gentle stretch only.
+- 30 seconds, 3 reps
+
+### Progressive Loading Phase (Weeks 2-6)
+
+**Eccentric Strengthening**
+Key for tendon and muscle healing.
+
+*Copenhagen Adduction (Modified)*
+Side plank position, top leg on bench, bottom leg hanging. Lift bottom leg to meet top leg, lower slowly.
+Start with bent knee version, progress to straight leg.
+- 10 reps, 3 sets per side
+
+*Sliding Board Adduction*
+Stand on slick surface (or use slider under foot). Slide leg out to side, pull back in using adductors.
+- 12-15 reps, 3 sets per leg
+
+**Concentric Strengthening**
+
+*Cable Adduction*
+Ankle strap attached to low cable. Stand sideways, pull leg across body.
+- 15 reps, 3 sets per leg
+
+*Sumo Squats*
+Wide stance squat. Emphasizes adductors.
+- 12-15 reps, 3 sets
+
+*Lateral Lunges*
+Step to side into lunge, push back to start. Feel adductor stretch and contraction.
+- 10-12 reps per side, 3 sets
+
+### Sport-Specific Phase (Weeks 6+)
+
+**Progression:**
+1. Linear running (straight ahead)
+2. Gradual curves
+3. Lateral shuffles
+4. Cutting at 45 degrees
+5. Cutting at 90 degrees
+6. Sport-specific drills
+7. Full practice
+8. Full competition
+
+**Rules:**
+- Pain-free at current level before progressing
+- At least 3 sessions at each level
+- Any pain = back down a level
+
+## Preventing Recurrence
+
+Groin injuries have high recurrence rates—up to 30%. Prevention is essential.
+
+**Hip Adductor Strength**
+Regular Copenhagen adductions and cable work, 2-3x per week.
+
+**Hip Abductor Balance**
+Strong outer hips balance inner hips. Side-lying raises, clamshells, lateral band walks.
+
+**Hip Flexor and Core Strength**
+Weak core and hip flexors increase adductor load. Include in training.
+
+**Adequate Warm-Up**
+Dynamic stretching and progressive loading before explosive activities.
+
+**Load Management**
+Don't spike training volume. Gradual increases only.
+
+**Address Flexibility Deficits**
+Overly tight adductors are at risk. Maintain mobility.
+
+## The Copenhagen Adduction Program
+
+Research shows the Copenhagen adduction exercise specifically reduces groin injury risk by **41%** in athletes.
+
+**Weekly Program (Prevention):**
+- 3 sessions per week
+- Start: 1 set of 5 reps each side
+- Progress weekly: add reps or sets
+- Goal: 3 sets of 10-15 reps each side
+
+**Progression:**
+1. Both knees bent, short lever
+2. Top leg straight, bottom leg bent
+3. Both legs straight
+
+## Timeline Expectations
+
+**Grade 1 strain:** 1-3 weeks
+
+**Grade 2 strain:** 4-8 weeks
+
+**Grade 3 strain:** 8-12+ weeks, possible surgery
+
+**Chronic groin pain:** Highly variable, often 3-6 months with comprehensive rehab
+
+**Key insight:** Rushing back is the primary cause of chronic groin problems. Complete the progression.
+
+## When to See a Professional
+
+**Get evaluated if:**
+- Unable to walk normally
+- Significant weakness
+- Visible deformity or large bruise
+- No improvement after 2 weeks
+- Pain at pubic bone (possible osteitis pubis)
+- Symptoms in lower abdomen (possible sports hernia)
+- History of hip problems
+
+**Who to see:**
+- Sports medicine physician for diagnosis
+- Physical therapist for rehab guidance
+- Surgeon if structural issues suspected
+
+## The Bottom Line
+
+Groin injuries are common but manageable when handled correctly:
+
+1. **Don't ignore early signs** — Small strains become big problems
+2. **Rest initially, then load progressively** — Complete rest weakens tissue
+3. **Strengthen specifically** — Copenhagen adductions are evidence-based
+4. **Progress gradually through sport demands** — Cutting is the last step, not the first
+5. **Prevent recurrence** — Ongoing strength work is non-negotiable
+
+Your groin can handle explosive demands—it just needs proper preparation and recovery.
+
+---
+
+*Groin pain limiting your sport? The Foundational Rehab app includes hip and adductor programs—from acute injury management to full return-to-sport protocols.*
+\`
+  },
   'runners-knee-patellofemoral-pain': {
     title: 'Runner\'s Knee: Why It Happens and How to Fix It',
     date: '2026-02-28',
