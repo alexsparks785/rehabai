@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'core-stability-back-pain',
+    title: 'Core Stability for Back Pain: What Actually Works',
+    excerpt: 'Everyone says strengthen your core. But crunches and planks aren\'t cutting it. Here\'s what the research actually shows works for back pain.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read'
+  },
+  {
     slug: 'tennis-elbow-golfers-elbow-treatment',
     title: 'Tennis Elbow & Golfer\'s Elbow: The Complete Recovery Guide',
     excerpt: 'Elbow pain that won\'t quit? Tennis and golfer\'s elbow are tendon problems—and rest alone won\'t fix them. Here\'s what works.',

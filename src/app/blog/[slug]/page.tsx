@@ -13,6 +13,242 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'core-stability-back-pain': {
+    title: 'Core Stability for Back Pain: What Actually Works',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read',
+    content: \`
+## The Core Confusion
+
+"Strengthen your core" is the most common advice for back pain. It's also the most misunderstood.
+
+People hear "core" and think six-pack abs. They do hundreds of crunches, planks until failure, and aggressive sit-ups. Their back pain gets worse. They conclude core work doesn't help.
+
+**Here's the truth:** Core stability absolutely helps back pain—but most people are doing it wrong.
+
+## What "Core" Actually Means
+
+Your core isn't just your abs. It's a cylinder of muscles surrounding your spine:
+
+**Front:** Rectus abdominis (six-pack), transverse abdominis (deep corset muscle)
+
+**Sides:** Internal and external obliques, quadratus lumborum
+
+**Back:** Erector spinae, multifidus (small spinal stabilizers)
+
+**Top:** Diaphragm
+
+**Bottom:** Pelvic floor
+
+These muscles work together to create a stable foundation for movement. When they coordinate well, your spine is protected. When they don't, individual structures get overloaded.
+
+## Why Traditional "Core Work" Fails
+
+### Problem 1: Training Movement, Not Stability
+
+Sit-ups and crunches are movement exercises. They work the core through range of motion.
+
+But the core's primary job is **anti-movement**—resisting forces that would bend, twist, or compress the spine. You need to train stability, not just strength.
+
+### Problem 2: Outer Unit vs Inner Unit
+
+The "outer unit" muscles (rectus abdominis, obliques) are powerful movers. They're also the muscles people overtrain.
+
+The "inner unit" muscles (transverse abdominis, multifidus, pelvic floor, diaphragm) are stabilizers. They're subtle, often weak, and usually ignored.
+
+Back pain research consistently shows that the **inner unit is dysfunctional** in people with chronic back pain. These muscles don't automatically activate when needed. They have to be retrained.
+
+### Problem 3: Bracing vs Breathing
+
+Many people hold their breath and brace hard during core work. This creates rigidity, not stability.
+
+True core stability means maintaining control while breathing normally. Your core should provide a stable foundation without locking up your entire trunk.
+
+## The Research on Core Training and Back Pain
+
+Studies show that core stability training reduces back pain—but **specific approaches work better than general strengthening**.
+
+**What works:**
+- Motor control exercises (retraining muscle timing)
+- Anti-movement training (resisting flexion, extension, rotation)
+- Progressive loading matched to capacity
+- Integrating core work into functional movement
+
+**What doesn't work as well:**
+- Generic strengthening without motor control focus
+- High-intensity core work in acute pain
+- Isolated ab training without addressing the whole cylinder
+
+## The Core Stability Protocol
+
+### Phase 1: Find and Activate (Weeks 1-2)
+
+Before strengthening, you need to connect with muscles that may have "turned off."
+
+**Diaphragmatic Breathing**
+Lie on back, knees bent, hands on lower ribs. Breathe into your hands—ribs should expand sideways, not chest rising. Exhale fully, feeling gentle core engagement.
+- 10 breaths, 3x daily
+
+**Transverse Abdominis Activation**
+Same position. On exhale, gently draw lower belly in (imagine zipping up tight pants). Don't flatten your back or tuck your pelvis—just subtle engagement. Hold while breathing.
+- 10-second holds, 10 reps
+
+**Multifidus Activation**
+Hands and knees position. Without moving your spine, gently "stiffen" the muscles alongside your lower spine. Imagine preventing someone from pushing you sideways.
+- 10-second holds, 10 reps
+
+**Pelvic Floor Connection**
+Same as transverse abdominis exercise, but focus on gently lifting the pelvic floor (like stopping urination). These muscles work together—engaging one often activates the other.
+- 10-second holds, 10 reps
+
+### Phase 2: Anti-Movement Training (Weeks 2-6)
+
+Now build stability by resisting forces.
+
+**Dead Bugs**
+Lie on back, arms toward ceiling, knees bent 90°. Keeping lower back pressed into floor, slowly lower opposite arm and leg toward ground. Return to start.
+- 10 reps per side, slow and controlled
+
+**Bird Dogs**
+Hands and knees. Extend opposite arm and leg without rotating spine or shifting pelvis. Hold 3 seconds, return with control.
+- 10 reps per side
+
+**Pallof Press (Anti-Rotation)**
+Stand sideways to cable or band. Hold handle at chest. Press arms straight forward, resisting the pull that wants to rotate you. Hold 3 seconds, return.
+- 10 reps per side
+
+**Side Plank (Anti-Lateral Flexion)**
+Forearm and feet (or knees for easier version). Lift hips to create straight line. Hold. Don't let hips sag or pike up.
+- 20-30 second holds, 3 per side
+
+**Front Plank (Anti-Extension)**
+Forearms and toes. Straight line from head to heels. Focus on preventing lower back from sagging—ribs connected to pelvis.
+- 20-30 second holds, 3 reps
+
+**Farmer's Carry (Anti-Everything)**
+Hold heavy weight in one hand. Walk with perfect posture—don't lean or shift. The unilateral load challenges entire core.
+- 30-40 steps per side
+
+### Phase 3: Loaded Stability (Weeks 6-12)
+
+Integrate core stability into compound movements.
+
+**Goblet Squats**
+Hold weight at chest. Squat with control. Core works to prevent forward collapse.
+- 3x12
+
+**Romanian Deadlifts**
+Maintain neutral spine while hinging. Core prevents rounding under load.
+- 3x10
+
+**Single-Leg Deadlifts**
+Requires core to prevent rotation and maintain balance.
+- 3x8 per leg
+
+**Overhead Press**
+Standing press demands core stability to prevent extension.
+- 3x10
+
+**Carries (Variations)**
+Farmer's, suitcase, overhead—all train core under load.
+- 2-3 sets, 40 steps each
+
+### Phase 4: Dynamic Stability (Week 12+)
+
+Challenge stability during movement.
+
+**Turkish Get-Ups**
+Complex full-body movement requiring constant core engagement. Start light.
+- 3 per side
+
+**Cable Chops/Lifts**
+Rotation with control. Resist rotation at end range.
+- 3x12 per side
+
+**Medicine Ball Work**
+Slams, throws, rotational tosses. Power with stability.
+- 3x10
+
+## The Daily Minimum
+
+Don't have time for full workouts? Do this every day:
+
+**Morning (2 minutes):**
+- 10 diaphragmatic breaths
+- Dead bugs: 8 per side
+
+**During Day (1 minute, multiple times):**
+- Stand up, brace core lightly, take 5 breaths
+- Single-leg balance: 30 seconds per leg
+
+**Evening (3 minutes):**
+- Bird dogs: 10 per side
+- Side plank: 20 seconds per side
+- Pallof press (or simulate without band): 10 per side
+
+This minimal dose maintains motor control and activation.
+
+## Common Mistakes
+
+**Breath holding**
+Core work should happen while breathing. Practice exhaling during the hard part of each exercise.
+
+**Going too hard too fast**
+Start with activation and anti-movement work. Progress slowly. Aggressive loading on a dysfunctional core worsens problems.
+
+**Only training flexion**
+Crunches and sit-ups train one direction. Real stability requires resisting all directions.
+
+**Ignoring the rest of the body**
+Core doesn't work in isolation. Hip strength, thoracic mobility, and movement patterns all matter.
+
+**Expecting instant results**
+Motor control changes take weeks. Strength takes months. Be patient.
+
+## Special Considerations
+
+### Acute Back Pain
+Focus on breathing and gentle activation only. Avoid loaded exercises until pain settles. Movement is good—aggressive core work is not.
+
+### Disc Issues
+Avoid loaded flexion (crunches, sit-ups). Anti-extension and anti-rotation work are usually well-tolerated. Consult a professional.
+
+### Hypermobility
+Extra stability work needed. Focus on motor control—muscles need to provide the stability joints don't.
+
+### Post-Pregnancy
+Pelvic floor and transverse abdominis must be retrained before progressing. Avoid breath-holding and high intra-abdominal pressure.
+
+## When to See a Professional
+
+Get evaluated if:
+- Pain persists despite consistent core work
+- Numbness, tingling, or leg symptoms
+- Significant weakness
+- Bowel or bladder changes
+- Core work makes pain significantly worse
+
+A physical therapist can assess your specific deficits and create a targeted plan.
+
+## The Bottom Line
+
+Core stability works for back pain—when done right. The key principles:
+
+1. **Stability, not just strength** — Train anti-movement
+2. **Inner unit first** — Activate deep stabilizers before loading
+3. **Breathe through it** — Never hold breath
+4. **Progress gradually** — Activation → stability → load → dynamic
+5. **Consistency wins** — Daily activation beats occasional hard workouts
+
+Your spine needs a stable foundation. Build it properly.
+
+---
+
+*Back pain limiting your life? The Foundational Rehab app includes progressive core stability programs—designed to build the foundation your spine needs.*
+\`
+  },
   'tennis-elbow-golfers-elbow-treatment': {
     title: 'Tennis Elbow & Golfer\'s Elbow: The Complete Recovery Guide',
     date: '2026-02-28',
