@@ -13,6 +13,219 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'tight-hamstrings-causes-fixes': {
+    title: 'Tight Hamstrings: Why Stretching Isn\'t Working',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Flexibility',
+    readTime: '7 min read',
+    content: \`
+## The Stretching Paradox
+
+You stretch your hamstrings every day. You've been doing it for years. And somehow, they're still tight. Sound familiar?
+
+You're not alone. "Tight hamstrings" is one of the most common complaints in fitness and rehab. It's also one of the most misunderstood.
+
+**Here's the uncomfortable truth:** If stretching worked, your hamstrings would be loose by now. The fact that they're not tells us something important—the problem isn't what you think it is.
+
+## What "Tight" Actually Means
+
+When you say your hamstrings feel tight, what's actually happening? It could be several things:
+
+### 1. Neural Tension (Most Common)
+
+Your nervous system limits range of motion to protect you. The hamstrings aren't physically short—they're neurally "locked."
+
+**Signs it's neural:**
+- Tightness changes throughout the day
+- Worse when stressed or tired
+- Stretching provides temporary relief only
+- Slump test positive (tightness increases when you look down)
+
+### 2. Protective Tension
+
+Hamstrings tighten to stabilize a pelvis that lacks stability elsewhere. They're doing a job your core or glutes should be doing.
+
+**Signs it's protective:**
+- Also have lower back issues
+- Core feels weak or unengaged
+- Tightness returns within hours of stretching
+
+### 3. Actual Tissue Shortness (Rare)
+
+True structural shortening from prolonged positioning. Less common than people think.
+
+**Signs it's structural:**
+- Consistent limitation regardless of warm-up
+- History of immobilization or casting
+- Doesn't change with movement or time of day
+
+### 4. Weakness Disguised as Tightness
+
+Weak muscles often feel tight. The sensation of tightness is the muscle working harder than it should.
+
+**Signs it's weakness:**
+- Hamstrings cramp easily
+- Feel tight during activity, not just stretching
+- History of hamstring strains
+
+## Why Static Stretching Fails
+
+Traditional hamstring stretching (toe touches, seated forward folds) targets the wrong problem.
+
+**If it's neural tension:** Stretching just fights the nervous system. You might gain temporary range, but the brain re-tightens everything within hours.
+
+**If it's protective:** Stretching removes a compensation without addressing why it exists. Your body will recreate the tightness to maintain stability.
+
+**If it's weakness:** Stretching a weak muscle makes it weaker, worsening the problem.
+
+Only if hamstrings are truly, structurally shortened does static stretching make sense—and even then, there are better approaches.
+
+## The Real Solutions
+
+### Step 1: Address Neural Tension
+
+Calm the nervous system and show it that length is safe.
+
+**Sciatic Nerve Glides**
+Sit on edge of chair. Extend one leg, point toes. Look up as you extend leg, look down as you bend knee. Gentle oscillation—never hold or force.
+- 15-20 gentle reps per leg
+
+**Active Leg Lowering**
+Lie on back, one leg toward ceiling (use strap if needed). Slowly lower leg toward ground with control, only as far as you can without back arching.
+- 10 reps per leg
+
+**Contract-Relax Stretching**
+In a stretch position, contract hamstrings (push heel into ground) for 5 seconds, then relax and move deeper. Neurally "earns" new range.
+- 3-4 cycles per leg
+
+### Step 2: Build Pelvic Stability
+
+Give the hamstrings permission to let go by stabilizing elsewhere.
+
+**Dead Bugs**
+Lie on back, arms up, knees bent 90°. Lower opposite arm and leg toward floor while keeping lower back pressed into ground.
+- 10 reps per side, slow and controlled
+
+**Bird Dogs**
+On hands and knees, extend opposite arm and leg. Keep spine neutral—no rotation, no arching.
+- 10 reps per side, 3-second holds
+
+**Glute Bridges with Core Focus**
+Before bridging, exhale and gently brace core. Lift hips without letting lower back hyperextend. Feel glutes, not lower back.
+- 15 reps, focus on control
+
+**Pallof Press**
+Band attached to side, hold at chest. Press arms straight forward, resisting rotation. Core works to stabilize.
+- 10 reps per side
+
+### Step 3: Strengthen the Hamstrings
+
+Strong muscles don't feel tight. Build capacity.
+
+**Romanian Deadlifts**
+Hinge at hips, slight knee bend, weight close to legs. Feel hamstrings stretch on the way down, engage to stand up.
+- 10-12 reps, 3 sets
+
+**Nordic Curl Negatives**
+Kneel, anchor feet, slowly lower body forward with control. Use hands to catch yourself. The lowering phase builds eccentric strength.
+- 5-8 slow reps
+
+**Stability Ball Curl**
+Lie on back, heels on stability ball. Bridge hips up, curl ball toward glutes, extend back out with control.
+- 12 reps, 3 sets
+
+**Single-Leg Deadlifts**
+Stand on one leg, hinge forward, feel standing-leg hamstring lengthen under load. Return to standing.
+- 8-10 reps per leg
+
+### Step 4: Move Dynamically
+
+Static positions create static problems. Dynamic movement teaches hamstrings to work through range.
+
+**Leg Swings**
+Hold wall for balance. Swing leg forward and back with relaxed momentum. Let it swing naturally—don't force range.
+- 15 swings per leg
+
+**Walking High Knees**
+Walk forward, pulling each knee toward chest. Opposite leg hamstring gets a dynamic stretch.
+- 20 steps
+
+**Inchworms**
+Stand, fold forward, walk hands out to plank. Walk feet toward hands. Stand up. Repeat.
+- 8-10 reps
+
+**Deep Squat Hold**
+Sit in deep squat, elbows pushing knees out. Rock gently side to side. Hips, hamstrings, and entire posterior chain get loaded and lengthened.
+- 30-60 seconds, several times daily
+
+## Sample 4-Week Program
+
+### Week 1-2: Neural and Stability Focus
+
+**Daily:**
+- Sciatic nerve glides: 15 reps/leg
+- Deep squat hold: 30 seconds
+- Leg swings: 15/leg
+
+**3x/week:**
+- Dead bugs: 10/side
+- Bird dogs: 10/side
+- Glute bridges: 15 reps
+- Contract-relax stretching: 3 cycles/leg
+
+### Week 3-4: Add Strength
+
+**Daily:**
+Continue nerve glides and movement
+
+**3x/week:**
+- Romanian deadlifts: 3x10
+- Nordic negatives: 2x5
+- Single-leg deadlifts: 2x8/leg
+- Pallof press: 2x10/side
+
+## What to Expect
+
+**Week 1:** May not feel different yet. That's normal—you're retraining patterns.
+
+**Week 2-3:** Stretching becomes less necessary. Tightness doesn't return as quickly.
+
+**Week 4-6:** Noticeable improvement. Morning stiffness decreases. Hamstrings feel "normal."
+
+**Beyond:** Maintenance mode. Dynamic work and strength training keep things loose.
+
+## Special Cases
+
+### Runners
+Running hammers hamstrings eccentrically. Prioritize Nordic curls and RDLs. Dynamic prep before runs, not static stretching.
+
+### Desk Workers
+Sitting puts hamstrings in shortened position AND causes neural tension from compressed posture. Stand regularly, do nerve glides.
+
+### Lower Back Pain
+Hamstrings often tighten to protect the back. Address core stability first. Forced stretching can worsen back pain.
+
+### History of Strains
+Scar tissue and protective neural patterns. Progress slowly with strengthening. Avoid aggressive stretching.
+
+## The Bottom Line
+
+Tight hamstrings are usually a symptom, not a cause. Stretching the symptom doesn't fix the problem.
+
+Real solutions:
+1. Calm neural tension (nerve glides, dynamic movement)
+2. Build stability elsewhere (core, glutes)
+3. Strengthen the hamstrings (they're often weak, not just tight)
+4. Move dynamically (static problems need dynamic solutions)
+
+Stop fighting your hamstrings. Start understanding them.
+
+---
+
+*Hamstrings always tight? The Foundational Rehab app includes programs that address the real cause—not just the symptom. Build flexibility that lasts.*
+\`
+  },
   'thoracic-spine-mobility': {
     title: 'Thoracic Spine Mobility: Unlock Your Upper Back',
     date: '2026-02-28',
