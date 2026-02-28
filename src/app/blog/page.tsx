@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'runners-knee-patellofemoral-pain',
+    title: 'Runner\'s Knee: Why It Happens and How to Fix It',
+    excerpt: 'Front knee pain ruining your runs? Runner\'s knee is the #1 running injury—and it\'s usually a hip problem in disguise.',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '8 min read'
+  },
+  {
     slug: 'wrist-pain-carpal-tunnel-relief',
     title: 'Wrist Pain and Carpal Tunnel: Causes, Relief, and Prevention',
     excerpt: 'Wrist pain, numbness, tingling? From carpal tunnel to tendinitis, here\'s how to find relief and prevent it from coming back.',

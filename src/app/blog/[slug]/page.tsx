@@ -13,6 +13,253 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'runners-knee-patellofemoral-pain': {
+    title: 'Runner\'s Knee: Why It Happens and How to Fix It',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '8 min read',
+    content: \`
+## The Most Common Running Injury
+
+Front knee pain. It starts subtly—a dull ache during runs that goes away after. Then it lingers. Soon, stairs hurt. Sitting for long periods hurts. Running becomes impossible.
+
+**Runner's knee** (patellofemoral pain syndrome) is the single most common running injury, accounting for **25-40% of all knee problems** seen in sports medicine clinics. Despite the name, it affects cyclists, hikers, and anyone who bends their knees repeatedly.
+
+## What Is Runner's Knee?
+
+Runner's knee describes pain around or behind the kneecap (patella). The patella sits in a groove on the femur (thigh bone) and glides up and down as you bend your knee.
+
+When the patella doesn't track properly, or when tissues around it become irritated from overload, pain results. The exact source varies—it could be the cartilage behind the kneecap, the fat pad beneath it, or surrounding soft tissues.
+
+**Important:** "Runner's knee" is a description, not a diagnosis. It tells you where the pain is, not necessarily why it's happening.
+
+## Symptoms
+
+**Classic presentation:**
+- Pain at the front of the knee, around or behind kneecap
+- Pain going downstairs (often worse than upstairs)
+- Pain after prolonged sitting ("movie sign")
+- Pain with squatting, lunging, running
+- Grinding or crunching sensation (crepitus)
+- Stiffness after rest
+
+**Pattern:**
+Often starts gradually. May "warm up" and feel better during activity initially. As it worsens, pain occurs earlier in runs and lasts longer after.
+
+## Why It Happens
+
+Runner's knee is multifactorial. Usually, several issues combine:
+
+### 1. Training Errors (Most Common)
+- Too much running, too fast
+- Sudden increase in mileage or intensity
+- Adding hills or speed work without preparation
+- Not enough recovery between hard sessions
+
+### 2. Hip Weakness
+This is the biggest factor research has identified. Weak hip abductors (glute med) and external rotators allow the thigh to collapse inward during running and landing. This increases stress on the patella.
+
+**The chain reaction:**
+Weak hips → knee dives inward → patella tracks poorly → pain
+
+### 3. Quadriceps Imbalance
+The vastus medialis (inner quad) helps pull the kneecap inward to balance the outer quad pulling outward. Weakness creates imbalanced tracking.
+
+### 4. Foot and Ankle Issues
+Overpronation, limited ankle mobility, or weak foot muscles can alter knee mechanics.
+
+### 5. Tight Structures
+Tight IT band, quads, or hip flexors can affect how the patella tracks.
+
+### 6. Anatomical Factors
+Some people have bone structure that predisposes them to tracking issues. This doesn't mean they can't run—but they may need to be more careful.
+
+## The Evidence-Based Treatment
+
+### Phase 1: Load Management (Weeks 1-2)
+
+You can't outrun runner's knee. Training must be modified.
+
+**Guidelines:**
+- Reduce running volume by 50% or more
+- Avoid hills (especially downhill)
+- Avoid speed work
+- Cross-train with low-impact activities (swimming, cycling if pain-free)
+- Run on flat, soft surfaces only
+
+**Pain Rule:** Running should not increase pain above 2-3/10. Pain should not be worse the next day.
+
+### Phase 2: Hip Strengthening (The Main Event)
+
+Research consistently shows hip strengthening is the most effective treatment. This should be your focus.
+
+**Side-Lying Hip Abduction**
+Lie on side, bottom knee bent for stability. Lift top leg toward ceiling, keeping it slightly behind you. Don't let hip roll backward.
+- 15-20 reps, 3 sets per side
+
+**Clamshells (With Resistance)**
+Side-lying, knees bent 45 degrees, band around thighs. Open top knee while keeping feet together. Feel it in the side of your glute.
+- 20 reps, 3 sets per side
+
+**Single-Leg Bridges**
+Lie on back, one leg extended. Bridge up on single leg, keep hips level.
+- 12-15 reps, 3 sets per side
+
+**Single-Leg Deadlifts**
+Stand on one leg, hinge forward. Feel glute on standing leg working.
+- 10-12 reps, 3 sets per leg
+
+**Lateral Band Walks**
+Band around ankles or thighs. Maintain quarter squat, step sideways keeping tension.
+- 15 steps each direction, 3 sets
+
+**Single-Leg Squats (When Ready)**
+Stand on one leg, squat down keeping knee tracking over toes. Only go as deep as you can with good form.
+- 8-10 reps per leg, 3 sets
+
+### Phase 3: Quadriceps Strengthening
+
+**Isometric Quad Sets**
+Sit with leg extended, pillow under knee. Press knee down into pillow, tightening quad. Hold 10 seconds.
+- 10 reps, 3 sets (good for acute pain)
+
+**Terminal Knee Extensions**
+Band around something fixed, loop behind knee. Start with knee slightly bent. Straighten knee against resistance.
+- 15 reps, 3 sets per leg
+
+**Step-Ups**
+Step up onto 6-8 inch step, leading with affected leg. Control the lowering.
+- 12 reps per leg, 3 sets
+
+**Wall Sits**
+Back against wall, slide down until knees at 60-90 degrees. Hold.
+- 30-60 second holds, 3 reps
+
+**Spanish Squats (Advanced)**
+Band around something fixed at knee height, loop around back of knees. Lean back into band and squat. Keeps shins vertical, reduces patellofemoral stress.
+- 15 reps, 3 sets
+
+### Phase 4: Address Other Factors
+
+**Soft Tissue Work**
+
+*Quad Foam Rolling*
+Roll front of thighs, pausing on tight spots.
+- 60-90 seconds per leg
+
+*IT Band Rolling*
+Roll outer thigh from hip to knee.
+- 60-90 seconds per leg
+
+**Flexibility**
+
+*Quad Stretch*
+Standing or lying, pull heel toward buttock. Keep knees together.
+- 30 seconds per leg
+
+*Hip Flexor Stretch*
+Half-kneeling, squeeze glute on back leg, shift forward.
+- 30 seconds per side
+
+**Ankle Mobility**
+Limited ankle mobility forces the knee to compensate. Test and address if limited. (See ankle mobility article.)
+
+### Phase 5: Return to Running (Weeks 4-8+)
+
+Don't rush this. Many runners return too quickly and relapse.
+
+**Criteria to begin running:**
+- Pain-free or minimal with stairs
+- Single-leg squat pain-free
+- No pain with daily activities
+- Can complete hip strength program without issue
+
+**Return Protocol:**
+Start with walk-run intervals on flat surfaces.
+
+*Week 1:* Run 1 min/walk 2 min x 5-6, 3x/week
+*Week 2:* Run 2 min/walk 1 min x 6-7, 3x/week
+*Week 3:* Run 3 min/walk 1 min x 5-6, 3x/week
+*Week 4:* Continuous running 15-20 min, 3x/week
+*Week 5+:* Increase by 10% weekly
+
+**Rules during return:**
+- Flat surfaces only initially
+- No hills or speed work until running 20-25 min continuously without issues
+- Continue all hip strengthening (forever)
+- Any pain increase = back off
+
+## What About...
+
+**Knee braces/straps?**
+Can provide short-term symptom relief for some. Not a treatment—the problem is hip weakness, not the knee.
+
+**Taping?**
+McConnell taping can help some people. Temporary symptom relief, not a fix.
+
+**Orthotics?**
+May help if foot mechanics are a significant factor. Get assessed by a professional.
+
+**Gait retraining?**
+Increasing cadence (steps per minute) by 5-10% reduces knee loading. Can help as part of treatment.
+
+**Injections?**
+Generally not indicated for patellofemoral pain. Research doesn't support cortisone for this condition.
+
+## Timeline Expectations
+
+**Mild cases:** 4-6 weeks
+
+**Moderate cases:** 8-12 weeks
+
+**Chronic/severe:** 3-6 months
+
+**Key insight:** Hip weakness took time to develop. It takes time to fix. Most people give up too soon.
+
+## Prevention
+
+Once you've had runner's knee, you're at risk for recurrence unless you address the underlying issues.
+
+**Non-negotiables:**
+- Hip strengthening 2-3x per week forever
+- Respect the 10% rule for mileage increases
+- Don't add hills and speed work simultaneously
+- Listen to early warning signs
+
+**If front knee pain starts to return:**
+- Immediately reduce training load
+- Increase hip strengthening frequency
+- Return to walk-run intervals if needed
+
+## When to See a Professional
+
+**Get evaluated if:**
+- No improvement after 6 weeks of consistent hip work
+- Pain is severe or worsening
+- Knee swelling or locking
+- Instability or giving way
+- Symptoms after trauma
+
+A sports medicine physician can confirm diagnosis and rule out other conditions. A physical therapist can assess your specific deficits and guide return to running.
+
+## The Bottom Line
+
+Runner's knee is frustrating but fixable. The science is clear:
+
+1. **It's a hip problem** — Strengthen your hips, not just your knees
+2. **Modify training** — You can't run through it
+3. **Be patient** — 6-12 weeks minimum
+4. **Keep strengthening** — Forever, not just until pain stops
+5. **Return gradually** — Most relapses happen from rushing
+
+Your knees aren't fragile—they're just asking for better support from above.
+
+---
+
+*Knee pain keeping you off the road? The Foundational Rehab app includes hip and knee programs specifically designed for runners—evidence-based exercises to get you back to pain-free miles.*
+\`
+  },
   'wrist-pain-carpal-tunnel-relief': {
     title: 'Wrist Pain and Carpal Tunnel: Causes, Relief, and Prevention',
     date: '2026-02-28',
