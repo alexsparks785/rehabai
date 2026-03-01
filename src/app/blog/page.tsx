@@ -302,6 +302,24 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read'
+  },
+  {
+    slug: 'stretching-mistakes-flexibility',
+    title: '7 Stretching Mistakes That Are Wasting Your Time (Or Making Things Worse)',
+    excerpt: 'You stretch regularly but aren\'t getting more flexible? You might be making these common mistakes that sabotage your results.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'how-long-pain-heal-recovery-timeline',
+    title: 'How Long Does Pain Take to Heal? Understanding Recovery Timelines',
+    excerpt: 'Will this pain ever go away? Here\'s what science says about how long different injuries actually take to heal—and why yours might be taking longer.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '8 min read'
   }
 ];
 
