@@ -338,6 +338,24 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Getting Started',
     readTime: '8 min read'
+  },
+  {
+    slug: 'herniated-disc-bulging-disc-guide',
+    title: 'Herniated Disc vs Bulging Disc: What\'s the Difference and Will It Heal?',
+    excerpt: 'Got a scary MRI result? Here\'s what herniated and bulging discs actually mean, why they\'re often not as bad as they sound, and what to do about them.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'best-sleeping-positions-back-neck-pain',
+    title: 'Best Sleeping Positions for Back and Neck Pain',
+    excerpt: 'Waking up in pain? Your sleep position might be the culprit. Here\'s how to set up for pain-free nights and better mornings.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
   }
 ];
 
