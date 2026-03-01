@@ -6659,6 +6659,382 @@ The good news: most musculoskeletal issues do get better. Understanding realisti
 
 *Foundational Rehab programs are designed to support each phase of healing with appropriate exercises for where you are in your recovery. Our AI-guided approach progresses you safely from acute pain to full function.*
     `
+  },
+  'anterior-pelvic-tilt-fix': {
+    title: 'Anterior Pelvic Tilt: Why Your Pelvis Position Causes Back Pain (And How to Fix It)',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read',
+    content: `
+## What Is Anterior Pelvic Tilt?
+
+Stand sideways in front of a mirror. Look at your pelvis. Is the front of your pelvis (near your belt buckle) tilted down toward the floor while the back tilts up? That's anterior pelvic tilt (APT).
+
+Some degree of anterior tilt is normal—we're not meant to be perfectly neutral. But excessive APT creates a cascade of postural compensations that often lead to pain:
+
+- Exaggerated curve in the lower back (hyperlordosis)
+- Belly that protrudes forward (even if you're lean)
+- Tight hip flexors
+- Weak or inhibited glutes and abs
+- Low back pain
+
+APT is extremely common in people who sit a lot—which is most of us.
+
+## The Muscle Imbalance Pattern
+
+Anterior pelvic tilt isn't random. It results from predictable muscle imbalances:
+
+### Muscles That Are Tight/Overactive
+
+**Hip flexors (psoas and rectus femoris)**
+These muscles attach to the front of the pelvis. When tight, they pull the front of the pelvis down.
+
+**Lower back extensors**
+The muscles that arch your back become shortened and overactive, maintaining the excessive curve.
+
+### Muscles That Are Weak/Inhibited
+
+**Abdominals (especially lower abs)**
+Weak abs can't counterbalance the pull of tight hip flexors.
+
+**Glutes**
+When glutes are weak, the pelvis can't be stabilized properly, and hip flexors dominate.
+
+**Hamstrings**
+Often lengthened (not tight) in APT—they're being pulled by the tilted pelvis.
+
+## Why Does This Cause Pain?
+
+### Low Back Compression
+The exaggerated lumbar curve compresses the joints of the lower spine. Over time, this can cause facet joint pain, disc issues, and muscle strain.
+
+### Altered Mechanics
+When your pelvis tilts forward, everything above and below compensates. Your mid-back may round more. Your knees may hyperextend. You're no longer moving efficiently.
+
+### Overworked Muscles
+The lower back muscles work overtime to support the exaggerated curve. They fatigue and become painful.
+
+### Inhibited Glutes
+When hip flexors are tight and pelvis is tilted forward, glutes don't fire properly. This affects everything from walking to athletic performance.
+
+## How to Test for Anterior Pelvic Tilt
+
+### The Thomas Test
+Lie on your back at the edge of a table or high bed. Pull one knee to your chest. Let the other leg hang off the edge.
+
+If the hanging thigh:
+- Rises above horizontal: tight hip flexors
+- Knee can't bend to 90 degrees: tight rectus femoris (quad)
+
+### Visual Assessment
+Stand sideways in a mirror:
+- Is there an excessive arch in your low back?
+- Does your belly protrude forward?
+- Does your butt stick out prominently?
+
+### The Wall Test
+Stand with back against wall. Slide your hand behind your lower back. If you can fit more than your flat hand (significant gap between back and wall), you may have excessive APT.
+
+## The Fix: A Balanced Approach
+
+Fixing APT requires addressing both sides of the equation: stretching what's tight AND strengthening what's weak. Doing only one doesn't work.
+
+### Step 1: Release and Stretch Tight Muscles
+
+**Hip flexor stretch (half-kneeling)**
+Kneel on one knee, other foot forward. Tuck your pelvis under (posterior tilt) before leaning forward. You should feel the stretch in the front of your back hip. Hold 30-60 seconds each side.
+
+Key: Keep the pelvis tucked throughout. If your back arches, you're not actually stretching the hip flexor.
+
+**Rectus femoris stretch**
+Same position as above, but grab your back ankle and pull heel toward glutes. This adds a quad stretch to the hip flexor stretch.
+
+**Lower back release**
+Child's pose, knees wide. Breathe into your lower back. Let the lumbar spine round.
+
+Foam rolling for hip flexors and quads can also help before stretching.
+
+### Step 2: Strengthen Weak Muscles
+
+**Glute bridges with posterior tilt**
+Lie on back, knees bent. Tuck pelvis (flatten low back to floor) BEFORE lifting hips. Squeeze glutes at top. Lower with control. This teaches glutes to fire in a neutral pelvis position.
+
+**Dead bugs**
+Lie on back, arms up, knees bent 90 degrees. Flatten low back to floor (posterior tilt). Slowly lower opposite arm and leg while maintaining flat back position. This builds core control with proper pelvis position.
+
+**Plank with posterior tilt**
+In plank position, actively tuck pelvis under (squeeze glutes, engage abs). This changes plank from a back exercise to a core exercise.
+
+**Glute-focused exercises**
+Hip thrusts, glute bridges, Romanian deadlifts, lunges with proper form. Build glute strength to counterbalance hip flexors.
+
+### Step 3: Build Awareness
+
+**Find neutral pelvis**
+Practice tilting your pelvis forward (anterior tilt) and backward (posterior tilt). Feel the difference. Find the middle—that's neutral. Practice holding neutral in various positions.
+
+**Sitting posture**
+When sitting, think about keeping pelvis neutral—not tilted forward. Sit on your sit bones, not your tailbone.
+
+**Standing posture**
+Gently engage lower abs and glutes when standing. Think of "tucking" slightly without clenching.
+
+## Sample Routine
+
+**Daily (5-10 minutes):**
+- Hip flexor stretch: 30-60 sec each side
+- Glute bridges with posterior tilt: 2 x 10-15
+- Dead bugs: 2 x 8-10 each side
+
+**3x per week (add to workout):**
+- Hip thrusts or glute bridges: 3 x 12-15
+- Plank with posterior tilt: 3 x 30-60 sec
+- Romanian deadlifts: 3 x 10-12
+
+**Throughout day:**
+- Posture check-ins
+- Move every 30-60 minutes if sitting
+- Practice neutral pelvis when standing
+
+## Common Mistakes
+
+**Only stretching hip flexors**
+Stretching without strengthening glutes and core leaves you with flexible hip flexors but no ability to hold a better position.
+
+**Overcompensating with posterior tilt**
+The goal is neutral, not excessive backward tilt. Going too far the other way creates different problems.
+
+**Forgetting about daily positions**
+You can't out-exercise 8 hours of sitting in APT. Address your sitting and standing habits too.
+
+**Expecting quick results**
+Postural patterns develop over years. They don't change in days. Give it 4-8 weeks of consistent work to see meaningful change.
+
+## Special Considerations
+
+### Athletes
+APT is common in athletes who do a lot of running, cycling, or hip flexion without adequate glute work. It can contribute to hamstring strains, hip impingement, and back pain.
+
+### Pregnancy
+Some increase in anterior tilt is normal during pregnancy. Post-pregnancy, targeted glute and core work helps restore neutral alignment.
+
+### Desk Workers
+If you sit all day, APT is almost inevitable without intervention. Frequent movement breaks and targeted exercises are essential.
+
+## Timeline
+
+**Week 1-2:** Learning exercises, building awareness
+**Week 3-4:** Starting to feel easier to find neutral
+**Week 5-8:** Noticeable improvement in posture and symptoms
+**Ongoing:** Maintenance to prevent return to old patterns
+
+Remember: you're retraining movement patterns that have been ingrained for years. Consistency over months creates lasting change.
+
+---
+
+*Foundational Rehab's posture programs specifically target the muscle imbalances driving anterior pelvic tilt. Our AI-guided approach ensures you're strengthening and stretching the right areas.*
+    `
+  },
+  'exercise-for-beginners-starting-guide': {
+    title: 'Starting Exercise When You\'re Out of Shape: A Realistic Guide',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Getting Started',
+    readTime: '8 min read',
+    content: `
+## The Hardest Part Is Starting
+
+You know you should exercise. You've probably tried before. Maybe it didn't stick. Maybe you got hurt. Maybe life got in the way. Maybe the gym felt intimidating and you didn't know what to do.
+
+Whatever happened before doesn't matter. This is about starting fresh—realistically, sustainably, without the all-or-nothing approach that leads to burnout.
+
+Here's how to begin when you're starting from zero.
+
+## Why Most Beginners Fail
+
+Understanding common pitfalls helps you avoid them:
+
+### Too Much, Too Soon
+Motivation is highest on day one. You do an intense workout, can barely walk for a week, and never go back. The enthusiasm-to-injury pipeline claims another victim.
+
+### All-or-Nothing Thinking
+"I'll go to the gym five days a week for an hour each time." When life interferes and you miss a day, the whole plan feels broken, so you quit entirely.
+
+### Comparison
+You see fit people doing advanced exercises and feel like you should be doing that too. You skip the fundamentals and either get hurt or get demoralized.
+
+### No Plan
+Showing up without knowing what to do leads to wandering around awkwardly, doing random exercises, and not making progress.
+
+### Ignoring Pain
+"No pain, no gain" is terrible advice for beginners. Pushing through pain creates injuries that sideline you for weeks or months.
+
+## The Right Mindset
+
+### Start Embarrassingly Small
+Your first goal isn't getting fit. It's building the habit. A 10-minute walk counts. Five bodyweight squats count. Showing up matters more than intensity.
+
+### Consistency Over Intensity
+Three 20-minute sessions per week, maintained for months, beats one killer workout followed by weeks off. You're playing the long game.
+
+### Progress, Not Perfection
+You don't need perfect form, perfect nutrition, or perfect conditions. You need to keep showing up and gradually doing a little more.
+
+### It Gets Easier
+The first few weeks are hardest. Your body adapts. What feels exhausting now will feel manageable in a month. Trust the process.
+
+## Where to Start: Walking
+
+If you're truly starting from zero, walking is the perfect beginning:
+
+**Week 1-2:** 10-15 minutes of comfortable walking, 3-4 days
+**Week 3-4:** 20-25 minutes, 4-5 days
+**Week 5-6:** 30 minutes, 5 days
+**Week 7+:** Add hills, increase pace, or add time
+
+Walking is:
+- Low injury risk
+- Requires no equipment
+- Can be done anywhere
+- Actually effective for health
+
+Don't underestimate it. Regular walking transforms cardiovascular health, mood, and energy levels.
+
+## Adding Strength: Bodyweight First
+
+Once walking feels easy (or if you want to start both simultaneously), add simple strength work. No gym required.
+
+### The Starter Four
+
+**1. Wall Push-ups → Regular Push-ups**
+Start with hands on wall, gradually progress to lower surfaces (counter, chair), eventually floor. This builds pushing strength safely.
+
+**2. Chair Squats → Bodyweight Squats**
+Start by sitting down into a chair and standing up. Progress to barely touching the chair. Eventually, free squats.
+
+**3. Dead Bug**
+Lie on back, arms up, knees bent 90 degrees. Lower opposite arm and leg while keeping back flat. Builds core stability without stressing the back.
+
+**4. Glute Bridges**
+Lie on back, knees bent, push hips up, squeeze glutes at top. Builds glute strength essential for nearly everything else.
+
+### Sample Week
+
+**Monday:** 15-min walk + bodyweight circuit (5 of each exercise)
+**Tuesday:** 20-min walk
+**Wednesday:** 15-min walk + bodyweight circuit (5 of each)
+**Thursday:** Rest or gentle stretching
+**Friday:** 20-min walk + bodyweight circuit (6 of each)
+**Weekend:** Active: longer walk, yard work, play with kids, whatever moves you
+
+## Progressing Safely
+
+### The 10% Rule
+Increase volume (time, reps, distance) by no more than 10% per week. Slow and steady builds fitness without injury.
+
+### Listen to Your Body
+- Muscle soreness 24-48 hours after exercise: normal
+- Sharp pain during exercise: stop
+- Joint pain: modify or rest
+- Exhaustion lasting days: you did too much
+
+### Progressive Overload
+To keep improving, gradually increase demands:
+- More reps
+- More sets
+- More weight (eventually)
+- Less rest between sets
+- Harder variations
+
+But increase one thing at a time, not everything at once.
+
+## Common Beginner Questions
+
+### "How long until I see results?"
+
+- **Energy/mood improvements:** 1-2 weeks
+- **Feeling stronger/fitter:** 3-4 weeks
+- **Visible changes:** 6-12 weeks (varies with nutrition)
+
+### "What about the gym?"
+
+The gym isn't required, but if you want to go:
+- Start with machines (safer, easier to learn)
+- Consider a few personal training sessions to learn basics
+- Go at off-peak times when it's less intimidating
+- Have a simple plan before you walk in
+
+### "Do I need to stretch?"
+
+Brief stretching after exercise can help. But if you're doing zero exercise now, adding exercise matters more than adding stretching. Don't let "I should stretch too" become an excuse not to start.
+
+### "What if I have pain or injuries?"
+
+- If you have significant pain, see a healthcare provider before starting
+- Many conditions actually improve with appropriate exercise
+- Modifications exist for almost every exercise
+- Start with what you CAN do, not what you can't
+
+### "Morning or evening?"
+
+Whenever you'll actually do it. The "best" time is the time that fits your schedule and energy levels. Consistency trumps optimization.
+
+## Building the Habit
+
+### Attach to Existing Routines
+"After my morning coffee, I walk for 15 minutes." Linking new habits to established ones makes them stick.
+
+### Make It Easy
+- Lay out exercise clothes the night before
+- Have a plan so you don't have to decide
+- Remove friction wherever possible
+
+### Track Progress
+A simple log—even just checkmarks on a calendar—provides motivation and accountability.
+
+### Plan for Obstacles
+What will you do when it's raining? When you're tired? When you're traveling? Having backup plans prevents obstacles from derailing you.
+
+### Forgive Setbacks
+You'll miss workouts. You'll have bad weeks. This doesn't mean failure. It means you're human. Resume the plan and move forward.
+
+## The 8-Week Starter Plan
+
+**Weeks 1-2: Foundation**
+- Walk 15-20 min, 4 days
+- Bodyweight circuit (5 reps each), 2 days
+- Focus: Building the habit
+
+**Weeks 3-4: Building**
+- Walk 20-25 min, 4-5 days
+- Bodyweight circuit (8 reps each), 2-3 days
+- Focus: Increasing volume slightly
+
+**Weeks 5-6: Growing**
+- Walk 25-30 min, 5 days (add some hills)
+- Bodyweight circuit (10 reps, add a set), 3 days
+- Focus: Feeling progress
+
+**Weeks 7-8: Establishing**
+- Walk 30+ min, 5 days
+- Bodyweight circuit (2 sets x 10-12), 3 days
+- Focus: This is now your routine
+
+After 8 weeks, you'll be ready to explore: join a gym, try a class, start a specific program, or continue building on what's working.
+
+## The Real Secret
+
+There's no magic workout, no perfect program, no ideal time of day. The "best" exercise is the one you'll actually do consistently.
+
+Start smaller than you think you should. Progress slower than you want to. Keep showing up even when motivation fades. Let weeks become months become years.
+
+That's how fitness is built. One workout at a time, consistently, over time.
+
+---
+
+*Foundational Rehab helps beginners start safely with programs designed for real people, not fitness models. Our AI-guided approach meets you where you are and progresses you at the right pace.*
+    `
   }
 };
 

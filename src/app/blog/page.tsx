@@ -320,6 +320,24 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '8 min read'
+  },
+  {
+    slug: 'anterior-pelvic-tilt-fix',
+    title: 'Anterior Pelvic Tilt: Why Your Pelvis Position Causes Back Pain (And How to Fix It)',
+    excerpt: 'That exaggerated low back curve and protruding belly? It\'s often anterior pelvic tilt—a fixable posture problem that causes real pain.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercise-for-beginners-starting-guide',
+    title: 'Starting Exercise When You\'re Out of Shape: A Realistic Guide',
+    excerpt: 'Want to start exercising but don\'t know where to begin? Here\'s the no-judgment guide to building a sustainable routine from zero.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Getting Started',
+    readTime: '8 min read'
   }
 ];
 
