@@ -266,6 +266,24 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Hips',
     readTime: '7 min read'
+  },
+  {
+    slug: 'tmj-jaw-pain-treatment',
+    title: 'TMJ Pain: Causes, Symptoms, and Effective Treatment',
+    excerpt: 'Jaw clicking, pain when chewing, headaches? TMJ disorders are surprisingly common—and often fixable with the right approach.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Head & Neck',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'forward-head-posture-fix',
+    title: 'Forward Head Posture: Why Your Head Position Causes Pain (And How to Fix It)',
+    excerpt: 'That forward head position from screens isn\'t just unattractive—it\'s causing your neck pain, headaches, and shoulder tension. Here\'s the fix.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read'
   }
 ];
 

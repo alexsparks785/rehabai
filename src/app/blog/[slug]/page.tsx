@@ -5445,6 +5445,434 @@ Stop doing the things that feel like they should help but don't. Start doing the
 
 *Foundational Rehab's hip programs include specific protocols for gluteal tendinopathy. Our AI-guided approach progresses you safely from pain relief to full function.*
     `
+  },
+  'tmj-jaw-pain-treatment': {
+    title: 'TMJ Pain: Causes, Symptoms, and Effective Treatment',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Head & Neck',
+    readTime: '7 min read',
+    content: `
+## What Is TMJ Disorder?
+
+The temporomandibular joint (TMJ) connects your jawbone to your skull. You have two of them—one on each side. These joints allow you to open and close your mouth, chew, speak, and yawn.
+
+TMJ disorders (often called TMD—temporomandibular disorders) are a group of conditions causing pain and dysfunction in the jaw joint and the muscles controlling jaw movement. They're surprisingly common, affecting up to 12% of the population at any given time.
+
+## Common Symptoms
+
+TMJ disorders can cause a wide range of symptoms:
+
+### Jaw Symptoms
+- Pain or tenderness in the jaw
+- Pain in one or both temporomandibular joints
+- Aching pain around your ear
+- Difficulty or discomfort while chewing
+- Locking of the joint, making it difficult to open or close your mouth
+
+### Sounds
+- Clicking, popping, or grating sounds when opening or closing the mouth
+- Note: Clicking without pain is common and often doesn't require treatment
+
+### Headaches and Related Pain
+- Headaches, especially in the temples
+- Earaches or feeling of fullness in the ears
+- Neck and shoulder pain
+- Facial pain
+
+## What Causes TMJ Problems?
+
+TMJ disorders usually result from a combination of factors:
+
+### Muscle Tension and Overuse
+
+**Teeth grinding (bruxism)**
+Grinding or clenching teeth—especially during sleep—puts enormous stress on the jaw muscles and joint. Many people don't realize they do this.
+
+**Jaw clenching**
+Clenching during stress, concentration, or physical exertion overworks the jaw muscles.
+
+**Chewing habits**
+Excessive gum chewing, nail biting, or chewing on pens can contribute.
+
+### Joint Problems
+
+**Disc displacement**
+The TMJ has a small disc that cushions the joint. This disc can slip out of position, causing clicking and sometimes pain.
+
+**Arthritis**
+Both osteoarthritis and inflammatory arthritis can affect the TMJ.
+
+**Injury**
+Direct trauma to the jaw or head can damage the joint or muscles.
+
+### Contributing Factors
+
+**Stress**
+Stress often leads to unconscious jaw clenching and muscle tension.
+
+**Poor posture**
+Forward head posture changes jaw position and muscle tension patterns.
+
+**Dental issues**
+Bite misalignment or missing teeth can affect how the jaw functions.
+
+**Sleep position**
+Sleeping on your stomach or with your hand under your jaw can stress the joint.
+
+## Self-Assessment
+
+Signs that suggest TMJ involvement:
+
+- Pain increases with jaw use (chewing, talking, yawning)
+- Tenderness when you press on the jaw muscles or joint
+- Limited mouth opening (normal is about 3 finger-widths)
+- Deviation of the jaw when opening (shifts to one side)
+- Clicking or popping (though this alone isn't necessarily a problem)
+
+## When to See a Professional
+
+**See a dentist or doctor if:**
+- Pain is severe or getting worse
+- You can't open or close your jaw fully
+- Pain significantly affects eating or speaking
+- Symptoms persist despite self-care
+
+**Seek immediate care if:**
+- Jaw suddenly locks and won't open or close
+- Severe pain after injury to the jaw or head
+
+## Evidence-Based Treatment
+
+Most TMJ disorders respond well to conservative treatment. Surgery is rarely needed.
+
+### Step 1: Reduce Aggravating Factors
+
+**Soft diet temporarily**
+Give your jaw muscles a break. Avoid hard, chewy, or crunchy foods. Cut food into small pieces. Don't bite into large sandwiches or apples.
+
+**Stop parafunctional habits**
+Become aware of clenching during the day. Keep your lips together, teeth apart. Your teeth should only touch when swallowing.
+
+**Limit jaw opening**
+Avoid wide yawning (support your chin). Don't hold phone between ear and shoulder. Be gentle with dental work timing if possible.
+
+**Reduce stress**
+Since stress drives clenching, stress management helps. Whatever works for you—exercise, meditation, therapy, etc.
+
+### Step 2: Heat and Massage
+
+**Moist heat**
+Apply warm, moist heat to the jaw muscles for 10-15 minutes several times daily. This relaxes tight muscles and improves blood flow.
+
+**Self-massage**
+Gently massage the jaw muscles:
+- Masseter: The large muscle at the angle of your jaw
+- Temporalis: The muscle in your temple area
+- Use gentle, circular pressure. If it increases pain, back off.
+
+### Step 3: Exercises
+
+TMJ exercises fall into two categories:
+
+**Relaxation exercises**
+- Resting position: Tongue on roof of mouth, teeth apart, jaw muscles relaxed
+- Controlled opening: Slowly open and close without clicking or deviation
+- Diaphragmatic breathing: Reduces overall tension
+
+**Strengthening and mobility exercises**
+- Resisted opening: Place thumb under chin, gently open against resistance
+- Resisted closing: Place thumbs under chin, fingers on front, resist closing
+- Lateral movements: Move jaw side to side against light finger resistance
+- Tongue-up opening: Keep tongue on roof of mouth while slowly opening
+
+Start with relaxation exercises. Add strengthening once acute pain settles.
+
+### Step 4: Posture Correction
+
+Forward head posture changes the resting position of the jaw and increases tension in jaw muscles. Addressing posture often helps TMJ symptoms:
+
+- Chin tucks
+- Upper back strengthening
+- Chest stretching
+- Workstation ergonomics
+
+### Night Guard
+
+If bruxism is contributing, a night guard (occlusal splint) can protect teeth and reduce muscle strain. Options:
+
+**Over-the-counter guards**
+Inexpensive but less precise fit. Good for trial period.
+
+**Custom-fitted guards**
+Made by a dentist from molds of your teeth. Better fit and more durable. More expensive but often worth it for chronic grinders.
+
+## What About Clicking?
+
+Here's something important: clicking or popping without pain often doesn't require treatment. Many people have clicking jaws that function perfectly well.
+
+Clicking becomes concerning when:
+- It's accompanied by pain
+- It progresses to locking
+- It significantly limits function
+
+If you have painless clicking and full function, you probably don't need to "fix" it.
+
+## Timeline and Prognosis
+
+Good news: most TMJ disorders improve with conservative treatment. Studies show that 50-90% of patients improve with non-surgical approaches.
+
+Typical timeline:
+- Acute flare-ups: May settle in days to weeks with rest and self-care
+- Chronic issues: May take 2-3 months of consistent work to see significant improvement
+- Maintenance: Many people need ongoing awareness of habits and occasional exercises
+
+## Prevention
+
+Once symptoms improve, prevent recurrence by:
+
+- Maintaining awareness of clenching habits
+- Managing stress
+- Continuing gentle jaw exercises
+- Maintaining good posture
+- Using night guard if needed
+- Avoiding extreme jaw movements
+
+## Key Exercises Summary
+
+### Relaxed Jaw Position
+Tongue on roof of mouth, teeth slightly apart, jaw muscles relaxed. Practice this as your default position throughout the day.
+
+### Goldfish Exercise (Partial Opening)
+Place tongue on roof of mouth. Put one finger on TMJ and one on chin. Drop lower jaw halfway, then close. Repeat 6 times, several times daily.
+
+### Goldfish Exercise (Full Opening)
+Same as above but open fully without pain or clicking. Only progress to this once partial opening is comfortable.
+
+### Chin Tucks
+Sit or stand tall. Draw chin straight back (making a double chin). Hold 3 seconds. Repeat 10 times. This addresses forward head posture that contributes to TMJ issues.
+
+### Tongue Up
+With tongue on roof of mouth, slowly open and close your mouth. This encourages proper jaw mechanics.
+
+---
+
+*Foundational Rehab includes jaw and neck protocols that address the full chain of muscles affecting TMJ function. Our AI-guided approach helps you progress safely from pain relief to full function.*
+    `
+  },
+  'forward-head-posture-fix': {
+    title: 'Forward Head Posture: Why Your Head Position Causes Pain (And How to Fix It)',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read',
+    content: `
+## The Hidden Cost of Screen Time
+
+Look around any coffee shop, office, or subway car. You'll see it everywhere: heads jutting forward, chins poking toward screens, necks craned at uncomfortable angles.
+
+This forward head posture (FHP)—sometimes called "tech neck" or "text neck"—has become epidemic in the smartphone era. And it's not just aesthetically concerning. It's a major driver of neck pain, headaches, shoulder tension, and even jaw problems.
+
+## What Is Forward Head Posture?
+
+In ideal alignment, your ear should stack directly over your shoulder when viewed from the side. Your head (which weighs 10-12 pounds) is balanced efficiently over your spine.
+
+With forward head posture, your head sits in front of this line—sometimes by several inches. This seemingly small shift has major consequences.
+
+## Why It Matters: The Physics Problem
+
+Your head weighs about 10-12 pounds. When positioned directly over your spine, that weight is distributed efficiently.
+
+For every inch your head moves forward, the effective weight your neck muscles must support increases by roughly 10 pounds.
+
+- Head 1 inch forward: ~20 lbs of force
+- Head 2 inches forward: ~30 lbs of force  
+- Head 3 inches forward: ~40 lbs of force
+
+Many people with chronic forward head posture are asking their neck muscles to support 3-4x the normal load—all day, every day. No wonder things start to hurt.
+
+## Symptoms of Forward Head Posture
+
+The effects cascade throughout your body:
+
+### Neck and Upper Back
+- Chronic neck pain and stiffness
+- Upper back pain between shoulder blades
+- Muscle fatigue and soreness
+- Reduced neck mobility
+
+### Head and Face
+- Tension headaches, especially at base of skull
+- TMJ (jaw) problems
+- Eye strain
+
+### Shoulders and Arms
+- Rounded shoulders
+- Shoulder pain and impingement
+- Numbness or tingling in arms (in severe cases)
+
+### Breathing and Energy
+- Reduced lung capacity (forward head restricts ribcage)
+- Fatigue
+- Poor sleep (difficulty finding comfortable position)
+
+## What Causes Forward Head Posture?
+
+### Modern Life
+
+**Screen use**
+Looking down at phones. Leaning toward computer monitors. Hours of this daily, for years.
+
+**Desk work**
+Poorly positioned monitors, keyboards too far away, chairs that don't support good posture.
+
+**Driving**
+Craning forward to see, especially with improper seat position.
+
+### Physical Factors
+
+**Muscle imbalances**
+Tight chest and front neck muscles pull the head forward. Weak upper back and deep neck muscles can't counteract this.
+
+**Weak awareness**
+Most people have no idea what neutral posture feels like. They've been forward so long that it feels "normal."
+
+### Contributing Factors
+
+- Carrying heavy bags on one shoulder
+- Sleeping with too many pillows
+- Stress (tends to pull shoulders up and head forward)
+- Previous neck injury
+- Sedentary lifestyle
+
+## How to Assess Your Posture
+
+### The Wall Test
+Stand with your back against a wall, heels about 2 inches from the wall. Your buttocks and shoulder blades should touch the wall.
+
+Now: does the back of your head naturally touch the wall without tilting your chin up? If not—if there's a gap or if you have to strain to touch—you likely have forward head posture.
+
+### The Photo Test
+Have someone photograph you from the side while you're standing naturally (don't "pose" with good posture). Draw a vertical line from your ear. Does it pass through your shoulder?
+
+### The Mirror Test
+Stand sideways in front of a mirror. Look at where your ear is relative to your shoulder. Be honest—it's usually worse than you think.
+
+## Fixing Forward Head Posture
+
+Correcting forward head posture requires a three-pronged approach:
+
+### 1. Stretch What's Tight
+
+**Chest and front shoulders (pectorals)**
+These muscles pull your shoulders forward. Doorway stretches, foam roller chest openers, and corner stretches help.
+
+**Front of neck (SCM and scalenes)**
+The muscles at the front and sides of your neck get shortened with forward head posture. Gentle stretches help restore length.
+
+**Upper trapezius**
+Though this muscle is often painful, it's usually overworked (not tight). Gentle stretching is okay, but strengthening the lower traps is more important.
+
+### 2. Strengthen What's Weak
+
+**Deep neck flexors**
+These muscles at the front of your neck (behind your throat) support proper head position. They're almost universally weak in people with FHP.
+
+**Lower and middle trapezius**
+These upper back muscles pull your shoulder blades down and back, counteracting the forward pull.
+
+**Rhomboids and posterior shoulder**
+These muscles between your shoulder blades help maintain proper shoulder position.
+
+### 3. Rebuild Awareness
+
+**Posture cues**
+Set regular reminders to check your posture. Every time you look at your phone, let it be a trigger to check alignment.
+
+**Environmental changes**
+Raise your monitor. Bring your phone to eye level. Adjust your car seat. Make good posture the path of least resistance.
+
+**Movement breaks**
+Every 30-60 minutes, get up and move. Even a few chin tucks and shoulder rolls help reset your position.
+
+## Key Exercises
+
+### Chin Tucks (The Foundation)
+Sit or stand tall. Draw your chin straight back, making a "double chin." Don't tilt your head up or down—just glide it backward. Hold 5 seconds, repeat 10 times. Do this multiple times daily.
+
+This exercise strengthens the deep neck flexors and counteracts the forward pull.
+
+### Wall Angels
+Stand with back against wall. Raise arms to shoulder height with elbows bent 90 degrees (like a goal post). Slowly slide arms up overhead while keeping them in contact with the wall. Return to start. 10-15 reps.
+
+This opens the chest and strengthens the upper back.
+
+### Prone Y-T-W Raises
+Lie face down. Extend arms to form a Y shape, lift slightly off the ground. Return and form a T shape, lift. Return and form a W shape (elbows bent), lift. 8-10 reps of each.
+
+This strengthens the lower trapezius and rhomboids.
+
+### Doorway Chest Stretch
+Stand in a doorway with your forearm on the door frame, elbow at shoulder height. Step forward through the doorway until you feel a stretch across your chest. Hold 30 seconds each side.
+
+### Levator Scapulae Stretch
+Sit and hold the seat with one hand. Turn your head 45 degrees toward the opposite side. Gently tilt your chin toward your armpit until you feel a stretch on the back/side of your neck. Hold 30 seconds each side.
+
+## Workstation Setup
+
+**Monitor position**
+Top of screen at or slightly below eye level. Screen about arm's length away.
+
+**Keyboard and mouse**
+Close to your body. Shoulders relaxed, elbows at about 90 degrees.
+
+**Chair**
+Supports your lower back. Feet flat on floor or footrest. Thighs parallel to floor.
+
+**Phone use**
+Bring the phone up to eye level instead of dropping your head to the phone.
+
+## Timeline and Expectations
+
+Postural change is slow—you're rewiring years of habit and gradually changing tissue length.
+
+**First few weeks:** Increased awareness, some muscle soreness as you use different muscles. Posture may feel "weird" because forward is your normal.
+
+**1-3 months:** Exercises become easier. New posture starts to feel more natural. Pain often decreases.
+
+**3-6 months:** Significant structural changes possible with consistent work. Good posture becomes default.
+
+**Ongoing:** Maintenance work continues indefinitely. Modern life constantly pulls us forward—you have to actively counteract it.
+
+## What Doesn't Work
+
+**Just "sitting up straight"**
+Without addressing muscle imbalances, you'll fatigue quickly and slump back forward. Willpower alone isn't enough.
+
+**Only stretching**
+Stretching tight muscles helps, but without strengthening weak muscles, you'll drift back to old patterns.
+
+**Aggressive corrections**
+Overcorrecting by pulling shoulders way back creates its own problems. The goal is neutral, not military posture.
+
+**Expecting quick fixes**
+Posture developed over years. It won't change in days. Consistency over time is what works.
+
+## The Bigger Picture
+
+Forward head posture is a symptom of how we live—hours of screen time, sitting, and inactivity. Addressing it fully means:
+
+- Regular movement throughout the day
+- Varied positions (sit, stand, move)
+- Exercise that strengthens the whole posterior chain
+- Awareness and environment design
+
+It's not about achieving "perfect" posture. It's about reducing the extreme loading that causes pain and building a body that moves well.
+
+---
+
+*Foundational Rehab's posture programs address the full pattern of muscle imbalances driving forward head posture. Our AI-guided approach helps you progress from pain relief through lasting postural change.*
+    `
   }
 };
 
