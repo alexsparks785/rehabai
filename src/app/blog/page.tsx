@@ -248,6 +248,24 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '7 min read'
+  },
+  {
+    slug: 'frozen-shoulder-adhesive-capsulitis',
+    title: 'Frozen Shoulder: Causes, Stages, and Evidence-Based Treatment',
+    excerpt: 'Can\'t lift your arm without searing pain? Frozen shoulder is one of the most frustrating conditions—but it\'s treatable with the right approach and timeline expectations.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Shoulder',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'hip-bursitis-trochanteric-pain',
+    title: 'Hip Bursitis: Why Your Outer Hip Hurts and How to Fix It',
+    excerpt: 'Pain on the outside of your hip that flares when lying on that side or climbing stairs? It\'s probably not bursitis—and that changes everything about treatment.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read'
   }
 ];
 

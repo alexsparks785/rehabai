@@ -5067,6 +5067,384 @@ Start where you are, work consistently, and trust the process.
 
 *Foundational Rehab includes targeted hip mobility work in all lower body programs. Our AI-guided approach helps you progress safely based on your current capabilities.*
     `
+  },
+  'frozen-shoulder-adhesive-capsulitis': {
+    title: 'Frozen Shoulder: Causes, Stages, and Evidence-Based Treatment',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Shoulder',
+    readTime: '8 min read',
+    content: `
+## What Is Frozen Shoulder?
+
+Frozen shoulder—clinically called adhesive capsulitis—is a condition where the shoulder joint capsule becomes inflamed, thickened, and tight, severely limiting range of motion. It's one of the most frustrating musculoskeletal conditions because it's painful, disabling, and takes a long time to resolve.
+
+The hallmarks of frozen shoulder:
+- Significant loss of both active AND passive range of motion
+- Pain that's often worse at night
+- Inability to reach overhead, behind your back, or out to the side
+- Gradual onset without clear injury
+
+If someone else can move your arm further than you can move it yourself, it's probably not frozen shoulder—something else is limiting you. True frozen shoulder restricts motion regardless of who's doing the moving.
+
+## Who Gets Frozen Shoulder?
+
+Frozen shoulder affects about 2-5% of the general population, but certain groups are at much higher risk:
+
+### Risk Factors
+
+**Diabetes**
+People with diabetes have 2-4x higher risk, and their frozen shoulders tend to be more severe and longer-lasting. Up to 20% of diabetics will experience frozen shoulder.
+
+**Age and Sex**
+Most common between ages 40-60, and affects women more than men.
+
+**Thyroid Disorders**
+Both hyperthyroidism and hypothyroidism increase risk.
+
+**Previous Shoulder Immobilization**
+Keeping the shoulder still after surgery, injury, or stroke significantly increases risk.
+
+**Other Conditions**
+Heart disease, Parkinson's disease, and autoimmune conditions are associated with higher rates.
+
+## The Three Stages of Frozen Shoulder
+
+Frozen shoulder follows a predictable pattern through three stages—though the timeline varies considerably between individuals.
+
+### Stage 1: Freezing (2-9 months)
+
+The freezing stage is dominated by pain:
+- Pain comes on gradually, often without clear cause
+- Night pain is common and disruptive
+- Range of motion starts to decrease
+- Pain may be severe and constant
+
+This is often when people first seek help, worried they've torn something.
+
+### Stage 2: Frozen (4-12 months)
+
+The frozen stage is dominated by stiffness:
+- Pain often decreases from the freezing stage
+- Stiffness reaches its peak
+- Range of motion is severely limited in multiple directions
+- Daily activities become difficult
+
+Paradoxically, many people feel "better" in this stage because the intense pain has subsided—but function is at its worst.
+
+### Stage 3: Thawing (5-24 months)
+
+The thawing stage is recovery:
+- Range of motion gradually returns
+- Pain continues to decrease
+- Function improves
+- Full recovery is possible, though some residual limitation may remain
+
+### Total Timeline
+
+The complete cycle typically takes 1-3 years. Yes, years. This is why frozen shoulder is so frustrating—it's a long journey.
+
+## Diagnosis
+
+Frozen shoulder is diagnosed primarily through:
+
+### Physical Examination
+Loss of both active and passive range of motion is the key finding. External rotation (turning arm outward) is often most limited.
+
+### Imaging
+X-rays are usually normal but rule out arthritis. MRI can show thickened joint capsule but isn't always necessary for diagnosis.
+
+### Rule Out Other Conditions
+Rotator cuff tears, arthritis, and other shoulder problems can mimic some frozen shoulder symptoms but have different treatment approaches.
+
+## Treatment Approaches
+
+### Stage-Appropriate Treatment
+
+**Freezing Stage**
+Focus on pain management. Aggressive stretching during this phase often increases inflammation and prolongs the freezing stage.
+- Gentle, pain-free movement
+- Anti-inflammatory medications if appropriate
+- Sleep positioning strategies
+- Possible corticosteroid injection (can help with pain)
+
+**Frozen Stage**
+Gradual, progressive stretching becomes more appropriate as pain decreases.
+- Stretching at end range (pendulum exercises, wall walks, towel stretches)
+- Moist heat before stretching
+- Consistency over intensity
+
+**Thawing Stage**
+Progressive loading and strengthening as range returns.
+- Continue mobility work
+- Add strengthening as range allows
+- Return to normal activities gradually
+
+### Physical Therapy
+
+Physical therapy is a cornerstone of frozen shoulder treatment. A good PT will:
+- Match treatment intensity to your current stage
+- Teach appropriate home exercises
+- Use manual therapy techniques
+- Help you understand realistic timelines
+
+### Corticosteroid Injections
+
+Injections can provide significant pain relief, especially in the freezing stage. They don't speed up the overall timeline but can make the journey more tolerable.
+
+### Hydrodilatation
+
+This involves injecting fluid into the joint capsule to stretch it. Research shows mixed results, but some people experience significant improvement.
+
+### Surgery
+
+Manipulation under anesthesia (MUA) or arthroscopic capsular release are options for severe, prolonged cases that don't respond to conservative treatment. Usually reserved for cases beyond 6-12 months without improvement.
+
+## Key Exercises for Frozen Shoulder
+
+### Pendulum Exercises
+Lean forward, let your arm hang, and make small circles. This provides gentle movement without forcing the joint. Do this several times daily.
+
+### Passive External Rotation
+Use a stick or your other hand to gently rotate your affected arm outward. Hold at end range 15-30 seconds.
+
+### Wall Walks
+Face a wall, walk your fingers up it, then turn sideways and repeat. Track your progress over weeks.
+
+### Towel Stretch (Behind Back)
+Hold a towel behind your back with both hands. Gently pull upward with your good arm to stretch the affected shoulder into internal rotation.
+
+### Cross-Body Stretch
+Bring your affected arm across your body and use your other hand to gently increase the stretch. Hold 15-30 seconds.
+
+## What NOT to Do
+
+**Don't force through severe pain**
+Aggressive stretching during the freezing stage often backfires, increasing inflammation and prolonging the process.
+
+**Don't stop moving entirely**
+Gentle, pain-free movement is important throughout. Complete immobilization makes things worse.
+
+**Don't expect quick fixes**
+Anyone promising to "unfreeze" your shoulder quickly is overselling. This condition has a natural timeline that can be supported but not dramatically shortened.
+
+**Don't ignore it**
+Early intervention (proper staging, appropriate exercise, pain management) can make the journey smoother.
+
+## Prognosis
+
+The good news: most frozen shoulders resolve. Studies show that 90% of people achieve satisfactory outcomes with conservative treatment alone.
+
+The realistic news: it takes time. The average total duration is 2-3 years, though some resolve faster and others take longer.
+
+Factors associated with longer duration:
+- Diabetes
+- Severe initial restriction
+- Bilateral involvement (both shoulders)
+- Lack of consistent treatment
+
+## When to Seek Help
+
+**See a professional if:**
+- Shoulder pain significantly limits your daily activities
+- You can't sleep due to shoulder pain
+- Your range of motion is decreasing
+- You're not sure what's causing your shoulder symptoms
+
+Getting an accurate diagnosis is important—frozen shoulder treatment is quite different from rotator cuff treatment, and doing the wrong thing can slow your recovery.
+
+---
+
+*Foundational Rehab's shoulder programs adapt to your current stage and capabilities. Our AI-guided approach ensures you're doing the right exercises at the right intensity for where you are in your recovery.*
+    `
+  },
+  'hip-bursitis-trochanteric-pain': {
+    title: 'Hip Bursitis: Why Your Outer Hip Hurts and How to Fix It',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read',
+    content: `
+## The Outer Hip Pain Problem
+
+Pain on the outside of the hip is extremely common—especially in women over 40, runners, and people who suddenly increase their activity. You lie on that side and it aches. Climb stairs and it flares. Sometimes it radiates down the outer thigh.
+
+For decades, this was called "hip bursitis" or "trochanteric bursitis." Doctors assumed the bursa (a fluid-filled sac) over the bony prominence of the hip was inflamed.
+
+But here's the thing: research now shows that most "hip bursitis" isn't actually bursitis at all.
+
+## Greater Trochanteric Pain Syndrome (GTPS)
+
+The modern understanding is that outer hip pain is usually a tendon problem—specifically, the gluteal tendons that attach near the greater trochanter (that bony bump on the outside of your hip).
+
+This condition is now called Greater Trochanteric Pain Syndrome (GTPS), which encompasses:
+- Gluteal tendinopathy (the main culprit in most cases)
+- Bursitis (sometimes present, but rarely the primary problem)
+- Gluteal tears (in more severe cases)
+
+Why does this matter? Because treating bursitis is very different from treating tendinopathy. If you're doing the wrong thing, you won't get better.
+
+## What Causes GTPS?
+
+### Compressive Loading
+
+The gluteal tendons wrap around the greater trochanter. Certain positions compress these tendons against the bone:
+
+**Lying on your side** - Direct compression of tendons against the bone
+**Standing with hip hitched** - Shifting weight to one side compresses that hip
+**Crossing legs** - Compresses the outer hip structures
+**Sitting with knees together** - Creates sustained compression
+
+### Tensile Overload
+
+The gluteal muscles and tendons can also be overloaded by:
+- Sudden increase in walking/running
+- Hill climbing or stairs
+- Single-leg activities
+- Weakness requiring tendons to work harder
+
+### Risk Factors
+
+- Female sex (3-4x more common in women)
+- Age 40-60
+- Sedentary lifestyle followed by activity increase
+- Weakness in hip abductors
+- Wide pelvis (increases the angle of pull)
+- Low back pain (often associated)
+
+## Symptoms
+
+Classic GTPS presentation:
+- Pain over the outside of the hip
+- Worse when lying on that side (often wakes you at night)
+- Worse climbing stairs or walking uphill
+- Pain with prolonged standing
+- May radiate down the outer thigh (but not past the knee)
+- Tender to press on the bony prominence
+
+## The Compression Problem
+
+Here's the counterintuitive part: many common "treatments" actually make GTPS worse.
+
+**Stretching the IT band** - Increases compression of gluteal tendons
+**Foam rolling the outer hip** - Direct compression on irritated tendons
+**Pigeon pose** - Compresses the tendons against the bone
+**Lying on the affected side** - Sustained compression
+
+If you've been stretching and foam rolling your outer hip without improvement (or with worsening symptoms), this is likely why.
+
+## Evidence-Based Treatment
+
+### Step 1: Reduce Compression
+
+**Sleep positioning**
+Don't lie on the affected side. If you're a side sleeper, lie on the opposite side with a pillow between your knees. Or sleep on your back with a pillow under your knees.
+
+**Sitting posture**
+Avoid crossing legs. Sit with knees slightly apart. Use a cushion if chairs are hard.
+
+**Standing posture**
+Don't hang on one hip. Keep weight even. Avoid prolonged standing when possible.
+
+**Stop stretching into compression**
+No IT band stretches, no pigeon pose, no foam rolling the outer hip. These feel like they should help but typically don't.
+
+### Step 2: Progressive Loading
+
+This is the most important part. Gluteal tendinopathy responds to gradual, progressive loading—not rest, not stretching.
+
+**Isometric exercises (start here)**
+Isometrics involve muscle contraction without movement. For GTPS:
+- Side-lying with pillow between knees, press top knee into pillow (30-45 seconds, multiple times daily)
+- Standing, press outside of knee against wall (30-45 seconds)
+
+Isometrics often provide pain relief while building tendon tolerance.
+
+**Isotonic exercises (progress to)**
+Once isometrics are comfortable:
+- Side-lying hip abduction (leg lifts)
+- Standing hip abduction with band
+- Single-leg stance holds
+- Step-ups (affected leg leading)
+
+**Functional exercises (final progression)**
+- Single-leg squats
+- Lateral band walks
+- Running (if that's your goal)
+
+### Step 3: Address Contributing Factors
+
+**Core and hip stability**
+Weakness in the core and hip stabilizers often contributes to gluteal tendon overload. A comprehensive program addresses the whole chain.
+
+**Load management**
+If you increased activity recently, you may need to temporarily reduce volume while building tendon capacity.
+
+**Weight management**
+Higher body weight increases load on hip structures. Even modest weight loss can help if applicable.
+
+## Timeline Expectations
+
+Gluteal tendinopathy typically takes 3-6 months of consistent work to resolve. Some key points:
+
+- Pain relief from isometrics can be quick (days to weeks)
+- Building tendon capacity takes months
+- Returning to full activity is gradual
+- Relapses are common if you progress too fast or return to compressive habits
+
+## What About Injections?
+
+Corticosteroid injections are commonly offered for "hip bursitis." The evidence is mixed:
+
+**Short-term:** Injections can reduce pain for weeks to a few months
+**Long-term:** Studies show exercise is superior to injections for lasting results
+**Risk:** Repeated injections may weaken tendons
+
+Injections might be appropriate for severe pain that prevents you from exercising, but they're not a standalone solution.
+
+## When Is It Something Else?
+
+Outer hip pain isn't always GTPS. Consider other causes if:
+
+**Pain radiates past the knee** - Could be referred from spine
+**Groin pain is prominent** - Could be hip joint problem (arthritis, labral tear)
+**Catching or locking** - Suggests mechanical hip problem
+**No tenderness over greater trochanter** - Source may be elsewhere
+**Doesn't respond to GTPS treatment** - Time to investigate further
+
+An accurate diagnosis matters. Hip joint problems require different treatment than tendinopathy.
+
+## Key Exercises
+
+### Isometric Hip Abduction (Side-lying)
+Lie on your back or unaffected side with pillow between knees. Press top knee into pillow without moving. Hold 30-45 seconds. This builds tendon tolerance without compression.
+
+### Standing Wall Press
+Stand sideways near a wall, affected side toward wall. Press outside of knee into wall. Hold 30-45 seconds. Great for pain relief.
+
+### Side-lying Hip Abduction
+Lie on unaffected side. Lift top leg toward ceiling, keeping it slightly behind you (not forward). Control the descent. Start with 10-15 reps, progress as tolerated.
+
+### Clam Shells (Modified)
+Lie on unaffected side with knees bent. Lift top knee while keeping feet together. Avoid rotating pelvis. This targets gluteus medius with less compression than traditional positioning.
+
+### Single-Leg Stance
+Stand on affected leg for 30-60 seconds. Keep pelvis level (don't drop opposite hip). This builds functional hip stability.
+
+## The Bottom Line
+
+Outer hip pain labeled as "bursitis" is usually gluteal tendinopathy. The treatment that works is:
+
+1. Reduce compression (stop stretching/rolling, fix sleep position)
+2. Progressive loading (isometrics → isotonics → functional)
+3. Patience (3-6 months for full recovery)
+
+Stop doing the things that feel like they should help but don't. Start doing the exercises that actually build tendon capacity. Give it time.
+
+---
+
+*Foundational Rehab's hip programs include specific protocols for gluteal tendinopathy. Our AI-guided approach progresses you safely from pain relief to full function.*
+    `
   }
 };
 
