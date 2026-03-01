@@ -5873,6 +5873,410 @@ It's not about achieving "perfect" posture. It's about reducing the extreme load
 
 *Foundational Rehab's posture programs address the full pattern of muscle imbalances driving forward head posture. Our AI-guided approach helps you progress from pain relief through lasting postural change.*
     `
+  },
+  'muscle-cramps-causes-prevention': {
+    title: 'Muscle Cramps: Why They Happen and How to Stop Them',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: `
+## The Sudden Seizing Pain
+
+You're asleep, and suddenly your calf seizes into a rock-hard knot of agony. Or you're mid-run and your hamstring locks up. Or you reach for something and your foot cramps into a bizarre contorted position.
+
+Muscle cramps—involuntary, forceful contractions that won't release—are nearly universal. About 95% of people experience them at some point. For some, they're occasional nuisances. For others, they're frequent, severe, and disruptive.
+
+Understanding why cramps happen is the first step to preventing them.
+
+## What Causes Muscle Cramps?
+
+Despite how common cramps are, their exact mechanisms remain somewhat mysterious. Research has identified several contributing factors:
+
+### Neuromuscular Fatigue
+
+The most current theory focuses on the nervous system. When muscles fatigue, the normal inhibitory signals that prevent excessive contraction can malfunction. The muscle contracts and can't properly relax.
+
+This explains why cramps often occur:
+- Late in exercise when muscles are tired
+- In muscles you've worked hard
+- When you're pushing beyond your usual capacity
+
+### Dehydration and Electrolytes
+
+The traditional explanation—you're low on water, salt, potassium, or magnesium. While this is probably overstated as a primary cause, it can contribute, especially:
+
+- During prolonged exercise in heat
+- With heavy sweating
+- With certain medications (diuretics)
+- With inadequate dietary intake
+
+### Muscle Shortening
+
+Cramps tend to occur when muscles are in shortened positions:
+- Calf cramps with pointed toes
+- Foot cramps when curling toes
+- Hamstring cramps with knee bent
+
+This may relate to the neuromuscular fatigue theory—shortened muscles are more susceptible to misfiring.
+
+### Other Contributing Factors
+
+**Inadequate conditioning**
+Muscles that aren't prepared for the demands placed on them cramp more easily.
+
+**Poor flexibility**
+Chronically tight muscles may be more prone to cramping.
+
+**Medications**
+Diuretics, statins, and some blood pressure medications can increase cramp risk.
+
+**Medical conditions**
+Nerve compression, peripheral artery disease, diabetes, and other conditions can contribute.
+
+**Age**
+Cramps become more common with age, possibly due to muscle loss and nerve changes.
+
+## Types of Cramps
+
+### Exercise-Associated Muscle Cramps (EAMC)
+
+Cramps during or immediately after exercise. Most common in:
+- Endurance activities
+- Hot conditions
+- Late stages of competition
+- Muscles working hardest
+
+### Nocturnal Leg Cramps
+
+Those 3am calf or foot cramps that wake you from sleep. Extremely common, affecting up to 60% of adults at some point. More frequent with:
+- Age over 50
+- Pregnancy
+- Certain medications
+- Prolonged sitting or standing during the day
+
+### Occupational Cramps
+
+Cramps related to repetitive movements—writer's cramp, musician's cramp. These have a different mechanism related to task-specific dystonia.
+
+## Immediate Treatment: Stopping a Cramp
+
+When a cramp strikes:
+
+### Stretch the Muscle
+Gently stretch the cramping muscle. For a calf cramp, pull your toes toward your shin. For a hamstring cramp, straighten your leg. The stretch should be firm but not violent.
+
+### Massage
+Once the acute spasm subsides, gentle massage can help the muscle relax and improve blood flow.
+
+### Walk It Off
+For leg cramps, walking can help reset the neuromuscular signals and relax the muscle.
+
+### Apply Heat
+After the cramp releases, heat can help relax residual tension.
+
+## Prevention Strategies
+
+### Training and Conditioning
+
+**Progressive overload**
+Build up training gradually. Sudden increases in volume or intensity invite cramps.
+
+**Sport-specific training**
+Train the muscles you'll use, in the ways you'll use them.
+
+**Regular exercise**
+Consistent activity seems to reduce overall cramp susceptibility.
+
+### Flexibility and Stretching
+
+**Regular stretching**
+Maintain flexibility in cramp-prone muscles. Calf stretches before bed may help with nocturnal cramps.
+
+**Dynamic warmup before exercise**
+Prepare muscles for activity with movement-based warmups.
+
+**Stretch after exercise**
+Gentle stretching when muscles are warm may help prevent post-exercise cramps.
+
+### Hydration and Nutrition
+
+**Stay hydrated**
+Drink adequate fluids, especially during prolonged exercise or in heat. Thirst is a reasonable guide for most people.
+
+**Electrolytes during long exercise**
+For exercise over 60-90 minutes, especially in heat, consider sodium and other electrolytes.
+
+**Dietary sources**
+Potassium (bananas, potatoes, leafy greens), magnesium (nuts, seeds, whole grains), and calcium (dairy, leafy greens) support muscle function.
+
+### Nocturnal Cramp Prevention
+
+**Calf stretches before bed**
+Stretch calves for 30 seconds each side before sleep.
+
+**Avoid pointing toes**
+Keep feet in neutral position. A pillow at the foot of the bed can help.
+
+**Untuck sheets**
+Tight sheets can push feet into pointed position.
+
+**Stay hydrated**
+But balance with not drinking so much you wake to urinate.
+
+**Gentle movement before bed**
+A short walk or light stretching can help.
+
+## When to See a Doctor
+
+Most cramps are benign, but see a healthcare provider if:
+
+- Cramps are severe, frequent, and not improving with self-care
+- Cramps are accompanied by muscle weakness
+- Swelling, redness, or skin changes accompany cramps
+- Cramps don't improve with stretching
+- No obvious cause (like exercise or position)
+- Cramps significantly disrupt sleep or daily life
+
+## What About Supplements?
+
+### Magnesium
+Often recommended for cramps. Evidence is mixed. May help if you're actually deficient. Typical dose: 200-400mg daily. Can cause loose stools in high doses.
+
+### Potassium
+Important for muscle function, but supplementation beyond food sources is rarely needed unless there's a medical reason.
+
+### Pickle Juice
+Yes, really. Small studies show pickle juice can stop cramps faster than water. The theory is that the sour taste triggers a reflex that interrupts the cramp signal. It works too fast to be about electrolytes.
+
+### Quinine
+Used to be commonly prescribed. Now avoided due to serious side effects. Not recommended.
+
+## The Bottom Line
+
+Muscle cramps are common, usually benign, and often preventable. Key points:
+
+- Fatigue and conditioning matter more than electrolytes for most cramps
+- Stretch, hydrate, and train progressively
+- For nocturnal cramps, try calf stretches before bed
+- Most cramps respond to stretching the affected muscle
+- See a doctor if cramps are severe, frequent, or accompanied by other symptoms
+
+---
+
+*Foundational Rehab programs include flexibility and recovery work that can help reduce cramp frequency. Our AI-guided approach ensures you're progressing at the right pace for your body.*
+    `
+  },
+  'morning-stiffness-causes-relief': {
+    title: 'Morning Stiffness: Why You Wake Up Tight and How to Fix It',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: `
+## The Tin Man Problem
+
+The alarm goes off. You swing your legs out of bed and—everything feels stuck. Your back is tight. Your hips don't want to move. Your first steps are stiff and creaky.
+
+Sound familiar? Morning stiffness affects most adults at some point, and becomes increasingly common with age. It's that feeling of being rusted in place overnight, needing several minutes (or more) to "warm up" before moving normally.
+
+While some morning stiffness is normal, excessive or prolonged stiffness can signal underlying issues worth addressing.
+
+## Why Does Stiffness Happen Overnight?
+
+Several mechanisms contribute to morning stiffness:
+
+### Fluid Dynamics
+
+When you're upright and moving, the pumping action of muscles helps circulate fluid through your joints and tissues. When you lie still for hours, fluid can accumulate in joints and tissues, creating a sense of swelling and stiffness.
+
+This is why movement helps—it literally pumps the excess fluid out.
+
+### Inflammatory Processes
+
+Inflammation naturally fluctuates throughout the day. For many people, inflammatory markers peak in the early morning hours. This is particularly relevant for inflammatory conditions like rheumatoid arthritis, but applies to some degree for everyone.
+
+### Muscle and Fascia
+
+The connective tissue surrounding muscles (fascia) becomes less pliable with prolonged stillness. Muscles that stay in shortened positions overnight can feel tight upon waking.
+
+### Decreased Circulation
+
+Blood flow decreases during sleep. Less circulation means less oxygen and nutrients to tissues, and slower removal of metabolic waste products.
+
+## Normal vs. Concerning Stiffness
+
+### Normal Morning Stiffness
+- Resolves within 15-30 minutes of moving around
+- No significant pain
+- Improves quickly with light movement
+- Doesn't significantly impact your day
+
+### Potentially Concerning Stiffness
+- Lasts longer than 30-60 minutes
+- Accompanied by significant pain
+- Associated with joint swelling
+- Getting progressively worse over time
+- Accompanied by other symptoms (fatigue, fever, weight loss)
+
+Stiffness lasting over an hour, especially with joint swelling, can indicate inflammatory arthritis and warrants medical evaluation.
+
+## Common Causes of Excessive Morning Stiffness
+
+### Osteoarthritis
+The most common cause of joint stiffness in older adults. Typically involves:
+- Stiffness that improves within 30 minutes
+- Affected joints (often knees, hips, hands, spine)
+- Worse after inactivity, better with movement
+- Gradually worsening over years
+
+### Inflammatory Arthritis
+Rheumatoid arthritis, psoriatic arthritis, and related conditions cause:
+- Prolonged morning stiffness (often 1+ hours)
+- Joint swelling and warmth
+- Often affects multiple joints symmetrically
+- May include fatigue and other systemic symptoms
+
+### Fibromyalgia
+Widespread muscle pain and stiffness, often with:
+- Diffuse stiffness (not just joints)
+- Fatigue and sleep problems
+- Tender points throughout the body
+- Brain fog
+
+### Sedentary Lifestyle
+Simply not moving enough during the day leads to:
+- General deconditioning
+- Reduced flexibility
+- Poor circulation
+- Muscles that stiffen quickly with inactivity
+
+### Poor Sleep Position
+Sleeping in awkward positions can cause:
+- Specific areas of stiffness (neck, shoulder, back)
+- Often one-sided
+- Related to pillow, mattress, or positioning
+
+### Previous Injury
+Old injuries can lead to:
+- Stiffness in specific areas
+- Often weather-sensitive
+- May be related to scar tissue or compensatory patterns
+
+## Strategies for Reducing Morning Stiffness
+
+### Before Bed
+
+**Gentle stretching routine**
+5-10 minutes of gentle stretching before bed can reduce overnight stiffness. Focus on areas that tend to be stiff in the morning.
+
+**Warm bath or shower**
+Heat relaxes muscles and promotes circulation. A warm bath before bed can help.
+
+**Avoid alcohol**
+Alcohol disrupts sleep quality and can increase inflammation.
+
+**Stay hydrated**
+Dehydration can worsen stiffness. Drink adequate fluids during the day.
+
+### Sleep Environment and Position
+
+**Supportive mattress**
+Neither too soft nor too firm. Should maintain spinal alignment.
+
+**Appropriate pillow**
+Should keep your neck neutral. Side sleepers need a thicker pillow than back sleepers.
+
+**Sleep position adjustments**
+- Back sleepers: pillow under knees reduces low back strain
+- Side sleepers: pillow between knees keeps hips aligned
+- Stomach sleeping often increases stiffness (avoid if possible)
+
+**Bedroom temperature**
+Cool but not cold. Being chilled can increase muscle tension.
+
+### Upon Waking
+
+**Move before getting up**
+While still in bed:
+- Gentle ankle circles
+- Knee-to-chest stretches
+- Gentle spinal rotation
+- Reach arms overhead
+
+This starts the pumping action and warms tissues before you stand.
+
+**Warm shower**
+Heat increases blood flow and relaxes muscles. Even a few minutes helps.
+
+**Morning movement routine**
+A consistent 5-10 minute routine of gentle movement can dramatically reduce stiffness. Consistency matters more than duration.
+
+### Throughout the Day
+
+**Regular movement**
+Don't sit for hours without moving. Get up every 30-60 minutes.
+
+**Stay active**
+Regular exercise—even walking—significantly reduces stiffness over time.
+
+**Stay hydrated**
+Adequate fluid intake supports tissue health.
+
+**Stretch tight areas**
+Brief stretching breaks throughout the day help maintain flexibility.
+
+## A Simple Morning Routine
+
+Try this 5-minute sequence upon waking:
+
+**1. In bed (1 minute)**
+- 10 ankle circles each direction
+- Hug knees to chest, rock gently side to side
+- Gentle spinal twist each side (10 seconds)
+
+**2. Sitting on bed edge (1 minute)**
+- Neck circles, slowly
+- Shoulder rolls forward and back
+- Reach arms overhead, lean gently each direction
+
+**3. Standing (3 minutes)**
+- March in place 30 seconds
+- Hip circles each direction
+- Forward fold (gentle, don't force)
+- Cat-cow stretches (standing version: hands on thighs)
+- Gentle squats or sit-to-stands from bed
+
+This simple routine takes almost no time but can significantly reduce morning stiffness.
+
+## When to See a Doctor
+
+Consult a healthcare provider if:
+
+- Morning stiffness lasts more than 30-60 minutes
+- You have joint swelling, redness, or warmth
+- Stiffness is getting progressively worse
+- You have fatigue, fever, or unexplained weight loss
+- Stiffness significantly impacts your daily function
+- You're concerned about your symptoms
+
+Early intervention for inflammatory conditions can prevent joint damage.
+
+## The Bigger Picture
+
+Some morning stiffness is a normal part of how bodies work—especially as we age. But excessive stiffness usually signals that something needs attention:
+
+- More movement and exercise
+- Better sleep positioning
+- Treatment for underlying conditions
+- Improved daily habits
+
+The body is remarkably adaptable. With consistent attention to movement, flexibility, and overall health, morning stiffness can be dramatically reduced.
+
+---
+
+*Foundational Rehab's programs include morning mobility routines designed to reduce stiffness and improve how you start your day. Our AI-guided approach adapts to your specific areas of tightness.*
+    `
   }
 };
 

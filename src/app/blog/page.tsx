@@ -284,6 +284,24 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Posture',
     readTime: '7 min read'
+  },
+  {
+    slug: 'muscle-cramps-causes-prevention',
+    title: 'Muscle Cramps: Why They Happen and How to Stop Them',
+    excerpt: 'That sudden, excruciating charley horse waking you at 3am? Muscle cramps have multiple causes—and the fix isn\'t always what you think.',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'morning-stiffness-causes-relief',
+    title: 'Morning Stiffness: Why You Wake Up Tight and How to Fix It',
+    excerpt: 'Feeling like the Tin Man every morning? That stiffness has real causes—and solutions that go beyond just "getting older."',
+    date: '2026-03-01',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
   }
 ];
 
