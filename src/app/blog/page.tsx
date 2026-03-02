@@ -356,6 +356,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read'
+  },
+  {
+    slug: 'back-spasms-causes-treatment',
+    title: 'Back Spasms: Why Your Back Locks Up and How to Get Relief',
+    excerpt: 'That sudden, intense muscle seizing that stops you in your tracks? Back spasms are terrifying—but usually not serious. Here\'s what to do.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'rib-pain-costochondritis-treatment',
+    title: 'Rib Pain and Costochondritis: Causes, Symptoms, and Relief',
+    excerpt: 'Sharp chest pain that makes you worry about your heart? Costochondritis and rib issues are surprisingly common—and treatable.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Chest',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'arthritis-pain-exercise-management',
+    title: 'Arthritis Pain: Why Exercise Helps More Than Rest',
+    excerpt: 'Diagnosed with arthritis and told to "take it easy"? That advice is outdated. Movement is medicine—here\'s the evidence-based approach.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'stress-pain-connection',
+    title: 'The Stress-Pain Connection: Why Your Mind Affects Your Body',
+    excerpt: 'Your pain is real—but stress can make it worse, or even cause it. Understanding this connection is key to lasting relief.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
   }
 ];
 
