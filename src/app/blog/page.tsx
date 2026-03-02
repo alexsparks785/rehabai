@@ -392,6 +392,33 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '7 min read'
+  },
+  {
+    slug: 'spinal-stenosis-treatment-exercises',
+    title: 'Spinal Stenosis: Understanding Your Narrowed Spine and Finding Relief',
+    excerpt: 'Told your spinal canal is narrowing? Stenosis sounds scary, but many people manage well without surgery. Here\'s what actually helps.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'nerve-pain-neuropathy-relief',
+    title: 'Nerve Pain: Why It Feels Different and How to Manage It',
+    excerpt: 'Burning, tingling, electric shocks? Nerve pain doesn\'t respond to typical treatments. Here\'s what\'s happening and what actually works.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'hip-impingement-fai-treatment',
+    title: 'Hip Impingement (FAI): Causes, Symptoms, and Conservative Treatment',
+    excerpt: 'Pinching pain deep in your hip with movement? Hip impingement is common in active people—and often manageable without surgery.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '8 min read'
   }
 ];
 

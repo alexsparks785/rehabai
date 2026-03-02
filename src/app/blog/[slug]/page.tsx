@@ -8383,6 +8383,608 @@ You have more influence over your pain than you might think. Use it.
 
 *Foundational Rehab programs integrate stress management and nervous system education alongside physical exercises, because real recovery requires addressing the whole system.*
     `
+  },
+  'spinal-stenosis-treatment-exercises': {
+    title: 'Spinal Stenosis: Understanding Your Narrowed Spine and Finding Relief',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read',
+    content: `
+## What Is Spinal Stenosis?
+
+Spinal stenosis means narrowing of the spinal canal—the tunnel that houses your spinal cord and nerves. When this tunnel narrows, it can compress the nerves, causing pain, numbness, and weakness.
+
+It's most common in people over 50 and is usually caused by age-related changes in the spine. But here's what most people don't realize: stenosis on an MRI doesn't necessarily mean you'll have symptoms. Many people have significant narrowing with minimal problems.
+
+## Types of Spinal Stenosis
+
+### Lumbar Stenosis (Low Back)
+
+The most common type. Affects the lower spine and can cause:
+- Low back pain
+- Pain, numbness, or weakness in legs
+- "Neurogenic claudication" (leg symptoms with walking)
+- Relief when bending forward or sitting
+
+The hallmark sign: symptoms improve when leaning forward (like on a shopping cart) because this opens the spinal canal.
+
+### Cervical Stenosis (Neck)
+
+Affects the neck region. Can cause:
+- Neck pain and stiffness
+- Arm pain, numbness, or weakness
+- Hand clumsiness or coordination issues
+- In severe cases, balance problems or leg weakness
+
+Cervical stenosis affecting the spinal cord (myelopathy) is more serious and may require intervention.
+
+## What Causes Stenosis?
+
+**Degenerative changes (most common)**
+- Disc bulging or herniation
+- Bone spurs (osteophytes)
+- Thickened ligaments
+- Facet joint arthritis
+
+These are normal age-related changes. Most people over 60 have some degree of stenosis on imaging.
+
+**Other causes**
+- Congenitally narrow spinal canal
+- Previous injury
+- Spinal tumors (rare)
+- Paget's disease
+
+## The Good News About Stenosis
+
+**Imaging doesn't predict symptoms**
+Many people with severe stenosis on MRI have minimal symptoms. Others with mild narrowing have significant pain. The correlation isn't as tight as you'd think.
+
+**Many cases respond to conservative treatment**
+Surgery is not inevitable. Most people manage stenosis well with the right approach.
+
+**Symptoms often wax and wane**
+Stenosis isn't necessarily progressive. Many people have stable symptoms for years.
+
+**You can influence your symptoms**
+Positioning, exercise, and activity modification can make a significant difference.
+
+## Conservative Treatment
+
+### Positioning and Posture
+
+Flexion (forward bending) opens the spinal canal. Extension (backward bending) narrows it further.
+
+**What helps:**
+- Sitting (opens canal more than standing)
+- Leaning forward while walking
+- Sleeping in fetal position with knees bent
+- Avoiding prolonged standing
+
+**What often aggravates:**
+- Standing for long periods
+- Walking without breaks
+- Backward bending
+- Sleeping on stomach
+
+### Flexion-Based Exercises
+
+Exercises that flex the spine can help:
+
+**Knee-to-chest stretch**
+Lying on back, pull one or both knees toward chest. Hold 30 seconds.
+
+**Pelvic tilts**
+Lying on back, flatten low back into floor by tilting pelvis. Gentle, repeated.
+
+**Cat stretch**
+On hands and knees, round back toward ceiling. Hold briefly, repeat.
+
+**Child's pose**
+Kneel and sit back on heels, arms extended forward on floor.
+
+### Core Strengthening
+
+A strong core supports the spine and can reduce stenosis symptoms:
+
+- Dead bugs
+- Modified planks
+- Bridges
+- Bird dogs (modified to minimize extension)
+
+Focus on stability and endurance, not heavy loading.
+
+### Walking Program
+
+Walking is often aggravated by stenosis, but modified walking is important:
+
+**Use supports**
+- Shopping cart
+- Walker
+- Hiking poles
+- These allow leaning forward
+
+**Take breaks**
+Stop and sit when symptoms start, then continue.
+
+**Walk shorter distances more frequently**
+Better than pushing through long walks.
+
+**Recumbent bike**
+Often tolerated better than walking—provides aerobic exercise in a flexed position.
+
+### Aquatic Exercise
+
+Water exercise can be excellent for stenosis:
+- Buoyancy reduces spinal load
+- Natural slight flexion in water
+- Allows movement that's difficult on land
+
+## Medical Treatments
+
+### Physical Therapy
+
+A therapist specializing in spine care can:
+- Customize exercises for your presentation
+- Teach activity modification
+- Provide manual therapy
+- Progress your program safely
+
+### Medications
+
+**NSAIDs:** Can help with inflammation and pain
+**Gabapentin/pregabalin:** May help nerve-related symptoms
+**Muscle relaxants:** For associated muscle spasm
+**Oral steroids:** Short courses for flares (not long-term)
+
+### Epidural Steroid Injections
+
+Inject anti-inflammatory medication directly into the epidural space:
+- Can provide temporary relief (weeks to months)
+- May help with acute flares
+- Not a cure, but can facilitate rehabilitation
+- Limited number recommended
+
+## When Surgery Makes Sense
+
+Surgery isn't first-line treatment, but it can help in certain situations:
+
+**Consider surgery if:**
+- Severe symptoms significantly limiting life
+- Progressive weakness or neurological decline
+- Failure of adequate conservative treatment (usually 3-6 months)
+- Loss of bowel/bladder function (emergency)
+
+**Surgical options:**
+- Laminectomy (removing bone to create space)
+- Laminotomy (partial bone removal)
+- Sometimes combined with fusion
+
+Success rates are generally good for appropriately selected patients, though symptoms may recur over time.
+
+## Living Well with Stenosis
+
+Many people live full lives with spinal stenosis. Key strategies:
+
+**Know your limits and work within them**
+Not pushing through pain, but finding sustainable activity levels.
+
+**Modify activities rather than avoiding them**
+- Use a cart at the grocery store
+- Take walking breaks
+- Choose seated activities when standing is difficult
+
+**Stay active in tolerated ways**
+- Recumbent bike, swimming, seated exercises
+- Activity is better than inactivity for long-term outcomes
+
+**Maintain healthy weight**
+Less load on the spine.
+
+**Don't catastrophize**
+Stenosis is common and manageable. Your spine isn't crumbling.
+
+## The Bottom Line
+
+Spinal stenosis is a narrowing of the spinal canal that can compress nerves. But having stenosis doesn't mean you're destined for disability or surgery.
+
+Most people manage well with:
+- Flexion-based positioning and exercises
+- Core strengthening
+- Activity modification
+- Appropriate medical support when needed
+
+The spine is resilient. Work with your body's preferences (flexion opens the canal), stay active in ways that work for you, and don't let a scary-sounding diagnosis define your life.
+
+---
+
+*Foundational Rehab includes stenosis-specific programs focusing on flexion exercises, core stability, and activity strategies that respect the condition while keeping you moving.*
+    `
+  },
+  'nerve-pain-neuropathy-relief': {
+    title: 'Nerve Pain: Why It Feels Different and How to Manage It',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '8 min read',
+    content: `
+## Why Nerve Pain Feels So Strange
+
+Nerve pain doesn't feel like muscle soreness or joint aches. It has its own signature: burning, tingling, electric shocks, numbness, pins and needles. It can feel like your skin is sunburned when it's not, or like insects crawling where there are none.
+
+This is because nerve pain comes from the nerves themselves—the communication cables of your body—rather than from the tissues they supply. And that difference matters for treatment.
+
+## Understanding Nerve Pain
+
+### Types of Nerve Pain
+
+**Peripheral neuropathy**
+Damage or dysfunction of nerves outside the brain and spinal cord. Often affects hands and feet first. Common causes include diabetes, vitamin deficiencies, and certain medications.
+
+**Radiculopathy**
+Compression or irritation of a nerve root where it exits the spine. Sciatica is a classic example—pain radiating down the leg from an irritated lumbar nerve root.
+
+**Neurogenic pain**
+Pain originating from the nervous system itself—can occur after injury, surgery, or sometimes without clear cause.
+
+**Entrapment neuropathies**
+Nerves compressed at specific points: carpal tunnel (median nerve at wrist), cubital tunnel (ulnar nerve at elbow), peroneal nerve at fibular head.
+
+### Typical Sensations
+
+- **Burning:** A hot, searing sensation
+- **Tingling:** "Pins and needles" feeling
+- **Electric shocks:** Sudden jolts of pain
+- **Numbness:** Reduced or absent sensation
+- **Hypersensitivity:** Normal touch feels painful (allodynia)
+- **Shooting pain:** Pain that travels along the nerve path
+- **Deep aching:** Less specific, harder to localize
+
+These differ from musculoskeletal pain, which is usually more localized and related to movement or pressure.
+
+## Why It Doesn't Respond to Typical Treatments
+
+Nerve pain often doesn't respond well to:
+- NSAIDs (ibuprofen, naproxen)—great for inflammation, but nerve pain isn't primarily inflammatory
+- Ice—may actually increase sensitivity
+- Rest—nerves often need movement to heal
+
+This frustrates people who've successfully treated muscle pulls and joint pain in the past. Nerve pain requires a different approach.
+
+## What Actually Helps
+
+### Movement and Nerve Gliding
+
+Nerves need to slide and glide through the tissues around them. When they become adhered or sensitized, gentle movement can help:
+
+**Nerve glides/flossing**
+Specific movements that gently tension and release the nerve:
+- Sciatic nerve glides (leg movements that tension the nerve)
+- Median nerve glides (for carpal tunnel)
+- Ulnar nerve glides (for cubital tunnel)
+
+**Key principle:** Gentle and pain-free. Aggressive stretching can irritate nerves further.
+
+**General movement**
+Walking, swimming, cycling—overall movement promotes blood flow and tissue health, including nerve health.
+
+### Aerobic Exercise
+
+Regular aerobic exercise has been shown to reduce nerve pain sensitivity. It:
+- Increases blood flow to nerves
+- Releases endorphins (natural painkillers)
+- Reduces overall nervous system sensitivity
+- Improves glucose control (important for diabetic neuropathy)
+
+### Medications
+
+Different medications target nerve pain:
+
+**Gabapentin/Pregabalin**
+Originally seizure medications, they calm overactive nerves. Often first-line for neuropathic pain.
+
+**Duloxetine/SNRIs**
+Antidepressants that also help nerve pain by affecting pain pathways in the spinal cord and brain.
+
+**Tricyclic antidepressants**
+Older medications (amitriptyline, nortriptyline) that can help nerve pain at low doses.
+
+**Topical treatments**
+- Capsaicin cream (from chili peppers—depletes pain signaling chemicals)
+- Lidocaine patches (local numbing)
+
+These aren't painkillers in the traditional sense—they work by changing how nerves signal. They often take weeks to show full effect.
+
+### Address the Underlying Cause
+
+If possible, treating the cause can help the nerve heal:
+
+**Diabetic neuropathy:** Improve blood sugar control
+**Entrapment:** Reduce compression (splinting, ergonomic changes)
+**Nutritional deficiency:** Correct vitamin B12 or other deficiencies
+**Radiculopathy:** Address disc or spinal issues
+
+### Desensitization
+
+For hypersensitive areas, gradual exposure can help:
+- Start with very gentle touch (soft fabric)
+- Progressively increase texture and pressure
+- Regular, brief sessions
+
+The goal is to teach the nervous system that touch is safe, gradually reducing the overreaction.
+
+### Cold vs. Heat
+
+Heat is often better tolerated than ice for nerve pain. Ice can sometimes increase sensitivity. But individual responses vary—use what feels better for you.
+
+## Specific Conditions
+
+### Sciatica (Lumbar Radiculopathy)
+
+Pain radiating down the leg from a nerve root (often L5 or S1):
+- Nerve glides and gentle stretching
+- Avoid positions that aggravate (often prolonged sitting)
+- Core stabilization
+- Most cases resolve in 6-12 weeks without surgery
+
+### Carpal Tunnel Syndrome
+
+Median nerve compression at the wrist:
+- Night splinting (keeps wrist neutral)
+- Nerve glides
+- Ergonomic modifications
+- Avoiding aggravating activities
+- Severe cases may need surgery
+
+### Peripheral Neuropathy
+
+Often starts in feet and hands:
+- Optimize any underlying condition (diabetes, etc.)
+- Regular walking (even if uncomfortable)
+- Protect insensitive areas from injury
+- Medications as discussed
+
+### Post-Surgical or Post-Injury Nerve Pain
+
+Nerves can remain sensitized after healing:
+- Gradual desensitization
+- Movement therapy
+- Sometimes medications
+- Time—often improves over months
+
+## The Brain's Role
+
+Chronic nerve pain often involves changes in the brain and spinal cord, not just the nerve itself. The pain system becomes amplified.
+
+This means:
+- Treatment should address the whole nervous system, not just the nerve
+- Strategies like stress management, sleep, and exercise help
+- Pain psychology can be valuable
+- The brain can "unlearn" persistent pain patterns
+
+## When to See a Doctor
+
+Get evaluated for nerve pain if you have:
+- Progressive weakness
+- Significant numbness affecting function
+- Bladder or bowel changes
+- Symptoms that don't improve over weeks
+- Pain after injury or surgery
+- Symptoms without clear cause
+
+Some nerve conditions require medical intervention—early treatment often leads to better outcomes.
+
+## The Bottom Line
+
+Nerve pain is different from other pain—it requires a different approach. Standard treatments for muscle and joint pain often don't work.
+
+What does help:
+- Nerve glides and gentle movement
+- Aerobic exercise
+- Appropriate medications (different from typical painkillers)
+- Addressing underlying causes
+- Time and patience
+
+Nerve pain can be frustrating, but it often improves. Understanding why it feels the way it does—and what actually helps—puts you on the path to relief.
+
+---
+
+*Foundational Rehab programs include nerve mobilization techniques and guidance for managing neuropathic symptoms alongside musculoskeletal recovery.*
+    `
+  },
+  'hip-impingement-fai-treatment': {
+    title: 'Hip Impingement (FAI): Causes, Symptoms, and Conservative Treatment',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '8 min read',
+    content: `
+## That Pinching Pain in Your Hip
+
+You're squatting, sitting cross-legged, or bringing your knee to your chest—and there it is: a sharp, pinching sensation deep in the front of your hip. It might feel like something is catching or blocking your movement.
+
+This is the classic presentation of femoroacetabular impingement, or FAI—a condition where the bones of the hip joint don't fit together perfectly, leading to friction and pinching of the soft tissues.
+
+## What Is Hip Impingement?
+
+FAI occurs when the ball (femoral head) and socket (acetabulum) of the hip joint have abnormal contact during movement. There are three types:
+
+**Cam impingement**
+The femoral head isn't perfectly round—it has a bump or abnormal shape. When the hip flexes and rotates, this bump jams into the socket.
+
+**Pincer impingement**
+The socket is too deep or covers too much of the ball. The rim of the socket pinches the labrum (cartilage ring) during movement.
+
+**Combined**
+Most people with FAI have some degree of both cam and pincer abnormalities.
+
+## Important Context
+
+Here's something crucial: **many people have FAI-type anatomy with no symptoms**. Studies of people without hip pain frequently show cam or pincer changes on imaging.
+
+Having FAI anatomy doesn't mean you'll have pain. And having pain with FAI anatomy doesn't always mean the anatomy is causing the pain.
+
+This matters because it affects treatment decisions. Surgery to "fix" the anatomy only makes sense if the anatomy is truly the pain source.
+
+## Typical Symptoms
+
+FAI usually causes:
+
+**Groin pain**
+The most common symptom—deep in the front of the hip/groin area.
+
+**Pain with specific movements**
+- Deep squatting
+- Hip flexion with internal rotation
+- Sitting for prolonged periods
+- Getting in/out of cars
+- Crossing legs
+
+**"C-sign"**
+People often cup their hand around the front of the hip to show where it hurts—forming a C shape.
+
+**Clicking or catching**
+A sense that something catches during movement.
+
+**Limited range of motion**
+Especially in flexion and internal rotation.
+
+## The FADIR Test
+
+The classic provocation test: Flexion, ADduction, Internal Rotation.
+
+Lying on your back, bring your knee toward the opposite shoulder while rotating your foot away from your body. If this reproduces your deep hip/groin pain, it's suggestive (though not diagnostic) of FAI.
+
+## Who Gets FAI?
+
+- Often presents in active young adults (20s-40s)
+- Common in athletes, especially those requiring deep hip flexion (hockey, soccer, martial arts)
+- Can develop from childhood hip development
+- May become symptomatic with increased activity
+
+## Conservative Treatment
+
+Many people with symptomatic FAI improve significantly without surgery. The key is addressing the modifiable factors.
+
+### Activity Modification
+
+Temporary reduction of aggravating activities:
+- Avoid end-range hip flexion
+- Modify squatting depth
+- Limit positions that provoke symptoms
+
+This isn't permanent avoidance—it's reducing irritation while you build capacity.
+
+### Hip Strengthening
+
+Weak hip muscles, especially the gluteals, can contribute to impingement:
+
+**Gluteus medius (side hip)**
+- Side-lying leg raises
+- Clamshells
+- Lateral band walks
+
+**Gluteus maximus (buttock)**
+- Bridges
+- Hip thrusts
+- Step-ups
+
+**Hip flexors**
+- Psoas marching
+- Leg raises (within non-painful range)
+
+Stronger muscles can improve hip mechanics and reduce impingement forces.
+
+### Movement Pattern Modification
+
+How you move matters as much as strength:
+
+**Squatting**
+- Wider stance
+- Toes turned out slightly
+- Don't force depth beyond comfort
+- Drive knees out
+
+**Hip hinge**
+- Hinge from hips, not just bend
+- Keep spine neutral
+- Reduces hip flexion demands
+
+**Avoid combined flexion/adduction/internal rotation**
+This is the impingement position—modify movements to stay out of it.
+
+### Core Stability
+
+A stable core supports better hip mechanics:
+- Dead bugs
+- Pallof press
+- Anti-rotation exercises
+
+### Manual Therapy
+
+A skilled therapist can provide:
+- Hip joint mobilization
+- Soft tissue work to surrounding muscles
+- Movement assessment and correction
+
+### Anti-Inflammatory Approaches
+
+Reducing inflammation can help:
+- NSAIDs (short-term)
+- Ice after aggravating activities
+- Intra-articular injection (diagnostic and therapeutic)
+
+An injection that significantly reduces pain confirms the hip joint as the pain source and can facilitate rehabilitation.
+
+## What to Avoid
+
+**Forcing through pain**
+Repeatedly impinging doesn't help—it irritates.
+
+**Aggressive stretching**
+Especially hip flexor stretches that jam the hip into flexion. Often counterproductive.
+
+**Deep end-range positions**
+At least initially—these can be reintroduced as symptoms improve.
+
+## Surgery
+
+Hip arthroscopy can reshape the bones and repair the labrum. It's appropriate when:
+- Conservative treatment has failed (typically 3-6 months of quality rehab)
+- Symptoms significantly impact quality of life
+- Imaging and clinical picture both point to FAI
+
+Outcomes are generally good for well-selected patients, but recovery takes months and requires significant rehabilitation.
+
+**Not everyone needs surgery.** Many people manage well long-term with conservative care.
+
+## The Bigger Picture
+
+FAI exists on a spectrum. Some people have significant bony abnormalities with no pain. Others have minimal changes with significant symptoms.
+
+What matters is finding your individual sweet spot:
+- Activity levels that don't provoke symptoms
+- Strength and control around the hip
+- Movement patterns that work with your anatomy
+
+Over time, many people can return to most activities—including sports and deep squatting—by building capacity and modifying technique.
+
+## The Bottom Line
+
+Hip impingement is common, especially in active people. But having the anatomy doesn't mean you're doomed to pain or surgery.
+
+Conservative management often works well:
+- Avoid aggravating positions temporarily
+- Strengthen hip muscles (especially glutes)
+- Improve movement patterns
+- Build capacity gradually
+
+Many people return to full activity. Work with your hip's anatomy rather than fighting against it, and you'll likely find significant improvement.
+
+---
+
+*Foundational Rehab includes specific hip impingement protocols focusing on hip strengthening, movement modification, and progressive return to full activity.*
+    `
   }
 };
 
