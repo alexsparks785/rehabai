@@ -419,6 +419,24 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Hips',
     readTime: '8 min read'
+  },
+  {
+    slug: 'degenerative-disc-disease-treatment',
+    title: 'Degenerative Disc Disease: Why the Name Is Scarier Than the Condition',
+    excerpt: 'Told you have degenerative disc disease? Despite the scary name, it\'s normal aging—not a progressive disease. Here\'s what it really means.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'trigger-points-muscle-knots-relief',
+    title: 'Trigger Points and Muscle Knots: What They Are and How to Release Them',
+    excerpt: 'Those painful spots that radiate pain when pressed? Trigger points are real—and treatable. Here\'s the evidence-based approach.',
+    date: '2026-03-02',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
   }
 ];
 
