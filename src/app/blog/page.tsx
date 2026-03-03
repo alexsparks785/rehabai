@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'rest-days-exercise-recovery',
+    title: 'Rest Days: How Many You Need and What to Do on Them',
+    excerpt: 'Should you exercise every day? Take complete rest? Active recovery? Here\'s what the science says about optimal recovery between workouts.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
     slug: 'heat-vs-ice-when-to-use',
     title: 'Heat vs Ice: When to Use Each for Pain and Injury',
     excerpt: 'Should you ice it or heat it? The answer depends on what\'s wrong, when it happened, and what you\'re trying to achieve. Here\'s the definitive guide.',

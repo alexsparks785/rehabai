@@ -13492,6 +13492,291 @@ When in doubt, getting checked out is reasonable. Most of the time, you'll be re
 
 *Foundational Rehab programs address nerve-related symptoms from musculoskeletal causes. For symptoms that need medical evaluation, we'll help you know when to seek appropriate care.*
     `
+  },
+  'rest-days-exercise-recovery': {
+    title: 'Rest Days: How Many You Need and What to Do on Them',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## The Recovery Paradox
+
+Here's something counterintuitive: you don't get stronger during workouts. You get stronger during recovery.
+
+Exercise is a stress that breaks down tissue. Rest is when your body repairs and adapts, coming back stronger. Without adequate recovery, you don't improve—you just accumulate fatigue and damage.
+
+Yet many people either rest too much (losing consistency) or too little (burning out). Finding the right balance is key to lasting progress.
+
+## What Happens During Recovery
+
+**The stress-adaptation cycle:**
+
+1. **Training:** You apply stress (exercise) that exceeds your current capacity
+2. **Fatigue:** Immediately after, you're weaker than baseline
+3. **Recovery:** Your body repairs damage and restores function
+4. **Adaptation:** You rebuild slightly stronger than before (supercompensation)
+5. **New baseline:** Your capacity has increased
+
+**The timing matters:**
+- Train again too soon: You're still fatigued, can't perform well, and risk injury
+- Wait too long: Supercompensation fades, you're back to baseline
+- Time it right: You catch the adaptation wave and build on it
+
+## How Much Rest Do You Need?
+
+### By Training Type
+
+**Strength training (heavy):**
+48-72 hours before training the same muscle group again.
+
+**Why:** Muscle protein synthesis (the repair process) remains elevated for 24-48 hours. Heavy loads create more damage requiring more recovery.
+
+**Cardio (moderate intensity):**
+Can often be done daily or with minimal rest days.
+
+**Why:** Less structural damage. Adaptations are more systemic (heart, lungs, metabolism).
+
+**HIIT (high-intensity intervals):**
+2-3 sessions per week maximum for most people.
+
+**Why:** Very high stress on multiple systems. Requires significant recovery.
+
+**Flexibility/mobility:**
+Can be done daily.
+
+**Why:** Low stress, often enhances recovery.
+
+### By Fitness Level
+
+**Beginners:**
+Need more rest (48-72 hours between challenging sessions). Recovery systems are less developed.
+
+**Intermediate:**
+Can handle more frequency with proper programming.
+
+**Advanced:**
+May need less rest between sessions but require periodization (planned easy weeks, deloads).
+
+### By Age
+
+**Younger (under 30):**
+Generally recover faster. Can handle higher frequency.
+
+**Middle age (30-50):**
+Recovery slows. May need extra rest days.
+
+**Older (50+):**
+Recovery takes longer. Rest becomes increasingly important. But this doesn't mean less exercise—it means smarter scheduling.
+
+## Signs You Need More Rest
+
+### Physical Signs
+
+- Persistent fatigue that doesn't improve with sleep
+- Decreased performance (weights feel heavier, runs feel harder)
+- Elevated resting heart rate
+- Poor sleep despite being tired
+- Increased injuries or nagging pains
+- Frequent illness
+- Loss of appetite or constant hunger
+
+### Mental Signs
+
+- Dreading workouts you normally enjoy
+- Irritability and mood changes
+- Difficulty concentrating
+- Lack of motivation
+
+### Warning Signs
+
+If you're experiencing several of these consistently, you may be overtrained. The solution isn't to push harder—it's to rest more aggressively.
+
+## Types of Rest Days
+
+### Complete Rest
+
+**What it is:**
+No structured exercise. Normal daily activity only.
+
+**Best for:**
+- After very hard training days or weeks
+- When feeling rundown
+- Periodically (at least 1 day per week for most people)
+
+**What to do:**
+Walk if you want. Stretch gently. But no training.
+
+### Active Recovery
+
+**What it is:**
+Light activity that promotes blood flow without adding training stress.
+
+**Examples:**
+- Easy walking (not power walking)
+- Gentle swimming
+- Light cycling (zone 1)
+- Yoga (gentle, not power yoga)
+- Mobility work
+- Light stretching
+
+**Best for:**
+- Days between hard training sessions
+- When you feel recovered but want to stay active
+- Reducing stiffness from previous training
+
+**Intensity guide:**
+If you're breathing hard or sweating significantly, it's not recovery—it's training.
+
+### Sleep
+
+**The most important recovery tool.**
+
+Sleep is when:
+- Growth hormone is released
+- Muscle protein synthesis peaks
+- The nervous system recovers
+- Inflammation is regulated
+
+**Requirements:**
+7-9 hours for most adults. More if training hard.
+
+**Poor sleep = poor recovery,** regardless of how many rest days you take.
+
+## How to Structure Your Week
+
+### For General Fitness (3-4 training days)
+
+**Example:**
+- Monday: Strength
+- Tuesday: Rest or light cardio
+- Wednesday: Cardio or HIIT
+- Thursday: Rest
+- Friday: Strength
+- Saturday: Active recovery (walk, hike, play)
+- Sunday: Complete rest
+
+### For Strength Focus (3-4 days)
+
+**Example:**
+- Monday: Upper body
+- Tuesday: Lower body
+- Wednesday: Rest
+- Thursday: Upper body
+- Friday: Lower body
+- Saturday: Light cardio or active recovery
+- Sunday: Complete rest
+
+### For Endurance Focus (4-5 days)
+
+**Example:**
+- Monday: Easy run
+- Tuesday: Speed work or HIIT
+- Wednesday: Rest or cross-train
+- Thursday: Moderate run
+- Friday: Rest
+- Saturday: Long run
+- Sunday: Active recovery
+
+### For Beginners (2-3 days)
+
+**Example:**
+- Monday: Full body workout
+- Tuesday-Wednesday: Rest
+- Thursday: Full body workout
+- Friday-Saturday: Rest
+- Sunday: Optional light activity
+
+**Key principle:** Don't train hard two days in a row when starting out.
+
+## Common Mistakes
+
+### Not Actually Resting
+
+"Active recovery" that's actually another workout. Going for a "light" run that becomes hard. Doing a "mobility" session with heavy stretching.
+
+**Solution:** Be honest. Recovery means low intensity. If you're pushing, it's training.
+
+### Inconsistent Recovery
+
+Training hard for 3 weeks, then taking a week off entirely. Boom-bust cycles.
+
+**Solution:** Consistent rest built into every week. Planned recovery weeks every 4-6 weeks.
+
+### Ignoring Sleep
+
+Training hard, eating well, then sleeping 5 hours.
+
+**Solution:** Sleep is non-negotiable. It matters more than supplements, massage, and most recovery gadgets.
+
+### Same Rest for All Training
+
+Treating a heavy squat day and a light yoga session as if they require the same recovery.
+
+**Solution:** Match rest to training stress. Harder sessions = more recovery.
+
+### Never Taking Complete Rest
+
+Always doing "something," never truly resting.
+
+**Solution:** At least 1 day per week of actual rest. Your body and mind both need it.
+
+## Enhancing Recovery
+
+### What Actually Helps
+
+**Sleep:** The foundation. Everything else is secondary.
+
+**Nutrition:** Adequate protein (0.7-1g per pound bodyweight), sufficient calories, hydration.
+
+**Light movement:** Easy walking, mobility work.
+
+**Stress management:** Mental stress impairs physical recovery.
+
+### What Might Help
+
+**Massage:** Can reduce soreness, promote relaxation.
+
+**Foam rolling:** May reduce perceived tightness.
+
+**Contrast therapy:** Some evidence for recovery enhancement.
+
+**Compression garments:** Modest evidence.
+
+### What's Overhyped
+
+**Most supplements:** Effects are small if any.
+
+**Cryotherapy chambers:** Expensive, minimal evidence.
+
+**Fancy recovery devices:** Often more about feeling like you're recovering than actual recovery.
+
+## The Bottom Line
+
+**Key principles:**
+
+1. **Rest is part of training.** You don't improve without it.
+
+2. **At least 1-2 rest days per week** for most people.
+
+3. **Match rest to training stress.** Hard sessions need more recovery.
+
+4. **Sleep trumps everything.** No recovery tool compensates for poor sleep.
+
+5. **Active recovery is fine,** but it should feel easy.
+
+6. **Listen to your body.** Fatigue, poor performance, and lack of motivation are signals.
+
+7. **Consistency over intensity.** Sustainable training with adequate rest beats heroic efforts followed by burnout.
+
+You don't have to earn rest days. They're not a sign of weakness. They're when the magic happens—when your body transforms the stress of training into actual improvement.
+
+Rest hard. Recover well. Come back stronger.
+
+---
+
+*Foundational Rehab programs include appropriate recovery protocols—because we know that rest is when real progress happens.*
+    `
   }
 };
 
