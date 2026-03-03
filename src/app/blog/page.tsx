@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'walking-for-health-how-much',
+    title: 'How Much Walking Do You Actually Need? The Evidence-Based Answer',
+    excerpt: 'Is 10,000 steps necessary? Can walking replace the gym? Here\'s what research actually shows about walking for health, weight, and longevity.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '7 min read'
+  },
+  {
     slug: 'hip-pain-sleeping-side-relief',
     title: 'Hip Pain When Sleeping on Your Side: Causes and Solutions',
     excerpt: 'Waking up with hip pain? Side sleeping puts pressure on your hips—but you don\'t have to give it up. Here\'s how to sleep pain-free.',
