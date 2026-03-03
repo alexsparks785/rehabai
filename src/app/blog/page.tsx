@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'how-to-fix-posture-guide',
+    title: 'How to Fix Your Posture: The Complete Evidence-Based Guide',
+    excerpt: 'Slouching, rounded shoulders, forward head? Posture can change—but not with the methods most people try. Here\'s what actually works.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '9 min read'
+  },
+  {
+    slug: 'sitting-too-long-health-risks',
+    title: 'How Much Sitting Is Too Much? The Truth About Sedentary Health',
+    excerpt: 'You\'ve heard sitting is the new smoking. But how much is actually harmful, and what can you do if your job requires a desk? Here\'s the research.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '8 min read'
+  },
+  {
     slug: 'doms-muscle-soreness-recovery',
     title: 'DOMS: Why You\'re Sore After Workouts and What Actually Helps',
     excerpt: 'That delayed muscle soreness after a tough workout? It\'s DOMS—and most recovery advice is wrong. Here\'s what the science actually shows.',
