@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'heat-vs-ice-when-to-use',
+    title: 'Heat vs Ice: When to Use Each for Pain and Injury',
+    excerpt: 'Should you ice it or heat it? The answer depends on what\'s wrong, when it happened, and what you\'re trying to achieve. Here\'s the definitive guide.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'numbness-tingling-causes-when-worry',
+    title: 'Numbness and Tingling: What Causes It and When to Worry',
+    excerpt: 'Pins and needles, numbness, burning sensations—when is it harmless, and when does it need attention? Here\'s how to tell the difference.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
     slug: 'tight-calves-causes-relief',
     title: 'Tight Calves: Why They Happen and How to Get Lasting Relief',
     excerpt: 'Constantly stretching your calves but they\'re still tight? The problem might not be what you think. Here\'s what actually works.',
