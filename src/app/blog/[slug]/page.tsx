@@ -9377,6 +9377,690 @@ The key is treating the knots while also asking why they formed in the first pla
 
 *Foundational Rehab programs include self-treatment techniques for common trigger points alongside the strengthening and movement work that prevents them from returning.*
     `
+  },
+  'doms-muscle-soreness-recovery': {
+    title: 'DOMS: Why You\'re Sore After Workouts and What Actually Helps',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## The Morning-After Mystery
+
+You crushed your workout yesterday. Felt great. Then this morning, you could barely get out of bed. Your legs are screaming, your arms won't straighten, and stairs have become your enemy.
+
+Welcome to DOMS—Delayed Onset Muscle Soreness. It's one of the most common experiences in fitness, and yet most people misunderstand what it is, why it happens, and what actually helps.
+
+## What Is DOMS?
+
+DOMS is muscle pain and stiffness that develops 12-72 hours after exercise. It's different from acute soreness you feel during or immediately after a workout.
+
+**Key characteristics:**
+- Peaks 24-72 hours after exercise
+- Involves stiffness, tenderness, and reduced range of motion
+- Affected muscles feel weak
+- Pain increases with stretch or contraction
+- Gradually resolves over 3-7 days
+
+**What DOMS is NOT:**
+- A sign of a good workout (more soreness doesn't mean better results)
+- Muscle damage that needs avoiding
+- Something to "push through" with intense training
+- An indicator of future muscle growth
+
+## Why Does DOMS Happen?
+
+The old theory was lactic acid buildup. That's wrong—lactic acid clears within an hour of exercise.
+
+The current understanding: DOMS results from microscopic damage to muscle fibers, particularly after **eccentric contractions** (when muscles lengthen under load).
+
+**The process:**
+1. Unaccustomed exercise causes micro-tears in muscle fibers
+2. Inflammatory response begins (this takes time—hence the delay)
+3. Swelling and sensitization of pain receptors
+4. Repair and adaptation process begins
+5. Muscles rebuild stronger (if allowed to recover)
+
+**Movements that cause more DOMS:**
+- Downhill running (eccentric quad work)
+- Lowering weights slowly (eccentric phase)
+- Plyometrics and jumping
+- New exercises your body isn't adapted to
+- Returning to training after a break
+
+## Common Myths About DOMS
+
+### "No pain, no gain"
+**Reality:** Soreness is not a reliable indicator of workout quality or muscle growth. You can have excellent, productive workouts with minimal DOMS, and you can have severe DOMS from ineffective training.
+
+### "You should work through the soreness"
+**Reality:** Training extremely sore muscles is counterproductive. It interferes with recovery, increases injury risk, and doesn't accelerate adaptation.
+
+### "Stretching prevents DOMS"
+**Reality:** Studies consistently show that stretching before or after exercise does not prevent DOMS. It may feel good, but it doesn't reduce subsequent soreness.
+
+### "Lactic acid causes DOMS"
+**Reality:** Lactic acid is cleared within an hour. DOMS is an inflammatory and repair response, not an acid buildup.
+
+### "More soreness means more growth"
+**Reality:** There's no correlation between DOMS severity and hypertrophy. Consistent training with progressive overload builds muscle—not just creating soreness.
+
+## What Actually Helps (Evidence-Based)
+
+### Light Movement (Active Recovery)
+The most effective approach. Light activity increases blood flow without adding stress.
+
+**What works:**
+- Easy walking
+- Light cycling
+- Swimming
+- Gentle mobility work
+- Low-intensity versions of your training
+
+**Why it helps:** Increases circulation, reduces stiffness, doesn't impair recovery.
+
+### Massage
+Research shows moderate benefit for reducing DOMS symptoms.
+
+**Options:**
+- Foam rolling (gentle—not aggressive)
+- Massage therapy
+- Percussion devices (massage guns)
+- Self-massage
+
+**Timing:** Most effective 24-48 hours after exercise.
+
+### Heat
+Heat increases blood flow and can reduce stiffness.
+
+**Applications:**
+- Warm bath or shower
+- Heating pad
+- Warm water immersion
+- Sauna
+
+### Cold Water Immersion
+The evidence is mixed, but some find it helpful—especially immediately after exercise.
+
+**Protocol:** 10-15 minutes in cold water (50-59°F / 10-15°C)
+
+**Note:** Cold immersion may blunt some training adaptations if used after every session. Save it for when recovery is the priority.
+
+### Sleep
+Your body does most of its repair during sleep. Poor sleep extends DOMS duration.
+
+**Priorities:**
+- 7-9 hours of quality sleep
+- Consistent sleep schedule
+- Don't train late if it disrupts sleep
+
+### Nutrition
+Adequate protein and overall nutrition support recovery.
+
+**Basics:**
+- Sufficient protein (0.7-1g per pound bodyweight)
+- Adequate calories
+- Hydration
+- Anti-inflammatory foods (fish, vegetables, berries)
+
+### What Doesn't Help Much
+
+**NSAIDs (ibuprofen, etc.):** May reduce pain but can impair muscle adaptation. Use sparingly if at all.
+
+**Static stretching:** Feels good temporarily but doesn't reduce DOMS or speed recovery.
+
+**High-intensity training on sore muscles:** Counterproductive. Let them recover.
+
+## How to Minimize DOMS
+
+### Progressive Training
+The best way to avoid excessive DOMS is gradual progression.
+
+**Principles:**
+- Increase intensity/volume slowly (10% per week max)
+- Introduce new exercises gradually
+- Don't go from zero to hero after a break
+- Consistency beats sporadic intensity
+
+### The Repeated Bout Effect
+Here's the good news: muscles adapt quickly to prevent future DOMS from the same stimulus.
+
+After your first painful bout, the same exercise will cause progressively less soreness—even if intensity increases. This is the "repeated bout effect."
+
+**What this means:**
+- First exposures to new exercises will cause more DOMS
+- Stick with exercises long enough to adapt
+- Changing exercises constantly means constant DOMS
+- Some DOMS with new movements is normal and expected
+
+### Listen to Your Body
+Mild soreness is fine to train through. Severe soreness with reduced range of motion means you need more recovery.
+
+**Guidelines:**
+- Mild soreness: Can train, maybe at reduced intensity
+- Moderate soreness: Light movement only, or train different muscles
+- Severe soreness: Rest or very light active recovery
+
+## When to Worry
+
+DOMS is normal. But some symptoms warrant attention:
+
+**Seek evaluation if:**
+- Pain is sharp, localized, or in a specific spot (possible strain/tear)
+- Swelling is visible or significant
+- Pain doesn't improve after 7 days
+- Dark urine (possible rhabdomyolysis—rare but serious)
+- Pain is asymmetric (one side much worse)
+- Joint pain rather than muscle pain
+
+**Rhabdomyolysis warning:** Extreme DOMS with very dark urine is a medical emergency. It's rare but can occur with extreme unaccustomed exercise, especially in hot conditions or with certain medications.
+
+## The Bottom Line
+
+DOMS is a normal response to unaccustomed exercise. It's not a badge of honor, it's not necessary for gains, and it's not something to push through aggressively.
+
+**Smart approach:**
+- Expect some DOMS when starting new exercises
+- Progress gradually to minimize excessive soreness
+- Use light movement and massage for relief
+- Give severely sore muscles adequate recovery
+- Don't chase soreness—chase consistent progress
+
+Your body adapts quickly. The soreness gets better. The gains keep coming—as long as you train smart and recover well.
+
+---
+
+*Foundational Rehab programs include progressive loading and recovery guidance designed to build strength without excessive soreness.*
+    `
+  },
+  'text-neck-tech-neck-fix': {
+    title: 'Text Neck: The Modern Epidemic and How to Fix It',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Neck',
+    readTime: '7 min read',
+    content: `
+## The Posture of Our Times
+
+Look around any public space. On the subway, in waiting rooms, at restaurants—heads are down, necks are flexed, spines are curved. The smartphone revolution brought many things, but good posture wasn't one of them.
+
+"Text neck" describes the neck pain, stiffness, and postural changes that result from prolonged forward head posture—typically from looking down at phones, tablets, and laptops.
+
+It's not just discomfort. Left unaddressed, text neck contributes to chronic pain, headaches, and structural changes in the spine. But here's the good news: it's reversible.
+
+## Understanding the Problem
+
+Your head weighs about 10-12 pounds. When balanced directly over your spine, your neck handles this load efficiently.
+
+But for every inch your head moves forward, the effective load on your neck muscles increases dramatically:
+
+- **Neutral position:** 10-12 lbs
+- **15° forward tilt:** ~27 lbs
+- **30° forward tilt:** ~40 lbs  
+- **45° forward tilt:** ~49 lbs
+- **60° forward tilt:** ~60 lbs
+
+When you're looking down at your phone, your head is often at 45-60 degrees of flexion. Your neck muscles are working 4-5x harder than they should.
+
+**Now multiply this by hours per day, every day.**
+
+## Symptoms of Text Neck
+
+**Immediate effects:**
+- Neck pain and stiffness
+- Upper back tightness
+- Shoulder tension
+- Reduced neck mobility
+- Headaches (especially at the base of skull)
+
+**Progressive effects:**
+- Chronic neck pain
+- Forward head posture that persists even when not on phone
+- Rounded upper back (kyphosis)
+- Tight chest muscles
+- Weakened neck flexors and upper back muscles
+- TMJ problems
+
+**Neurological symptoms (advanced cases):**
+- Numbness or tingling in arms/hands
+- Radiating pain down arms
+- Weakness in upper extremities
+
+## Why It's More Than Just Posture
+
+Text neck isn't simply "bad posture you can choose to fix." The sustained positions cause real tissue changes:
+
+**Muscle imbalances:**
+- Neck extensors: tight, overworked
+- Deep neck flexors: weak, inhibited
+- Upper traps: tight, overactive
+- Lower traps and rhomboids: weak
+- Chest muscles: shortened
+
+**Structural changes:**
+- Loss of normal cervical curve
+- Disc compression (anterior)
+- Facet joint irritation
+- Nerve compression (in severe cases)
+
+**The cycle:** Pain causes more muscle guarding, which causes more stiffness, which causes more pain. Breaking this cycle requires active intervention.
+
+## The Fix: A Multi-Pronged Approach
+
+### 1. Reduce Exposure
+
+You probably can't eliminate phone use. But you can reduce the postural load.
+
+**Environmental changes:**
+- Raise your phone to eye level (yes, it looks weird—do it anyway)
+- Use a laptop stand or external monitor
+- Position screens at eye level at workstations
+- Take breaks every 20-30 minutes
+
+**Behavioral changes:**
+- Set screen time limits
+- Use voice commands when possible
+- Print long documents for reading
+- Have phone-free periods daily
+
+### 2. Reverse the Position
+
+For every minute spent in forward flexion, you need extension and retraction to balance.
+
+**Chin tucks (most important exercise)**
+
+Sit or stand tall. Without tilting your head up or down, pull your chin straight back—like you're making a double chin. Hold 5 seconds, repeat 10 times. Do this multiple times daily.
+
+This activates the deep neck flexors, stretches the neck extensors, and restores proper head position.
+
+**Cervical extension**
+
+From a chin tuck position, gently look up toward the ceiling, extending your neck. Hold 2-3 seconds, return to neutral. Repeat 10 times.
+
+**Thoracic extension**
+
+Sit in a chair with your upper back against the backrest. Place your hands behind your head. Gently extend backward over the chair. Hold 5-10 seconds, repeat 5-10 times.
+
+**Corner stretch / doorway stretch**
+
+Stand in a doorway with forearms on the frame, elbows at shoulder height. Step forward gently until you feel a stretch across your chest. Hold 30-60 seconds.
+
+### 3. Strengthen What's Weak
+
+**Deep neck flexor activation**
+
+Lie on your back with knees bent. Gently nod your chin as if making a small "yes" motion—this should create a slight chin tuck without lifting your head. Hold 5-10 seconds. Repeat 10 times.
+
+Progress to holding longer, then to lifting your head slightly off the ground while maintaining the chin tuck.
+
+**Scapular retraction**
+
+Squeeze your shoulder blades together and slightly down. Hold 5 seconds, release. Repeat 15-20 times. Can be done seated throughout the day.
+
+**Prone Y-T-W raises**
+
+Lie face down. Make a Y shape (arms overhead at 45°), T shape (arms out to sides), and W shape (elbows bent, hands near shoulders). Lift arms slightly, squeezing shoulder blades. Hold 5 seconds each position.
+
+**Rows**
+
+Any rowing movement strengthens the upper back. Resistance bands, cables, or dumbbells all work.
+
+### 4. Mobilize What's Stiff
+
+**Upper trap stretch**
+
+Sit on your right hand. Gently tilt your head to the left until you feel a stretch on the right side of your neck. Hold 30 seconds. Repeat other side.
+
+**Levator scapulae stretch**
+
+Similar to above, but look down toward your opposite armpit. This targets the muscle from neck to shoulder blade.
+
+**Thoracic rotation**
+
+Sit or kneel. Rotate your torso, reaching one arm across your body and the other arm behind you. Hold 20-30 seconds. Repeat both sides.
+
+**Cat-cow for upper back**
+
+On hands and knees, alternate between arching your upper back up (cat) and dropping your chest toward the floor (cow). Focus on moving your thoracic spine.
+
+## Daily Protocol
+
+**Morning (5 minutes):**
+- 10 chin tucks
+- 10 cervical extensions
+- Chest doorway stretch (30 sec each side)
+- Thoracic extension over chair (5 reps)
+
+**Throughout the day:**
+- Chin tucks every hour (10 reps)
+- Posture reset at top of every hour
+- Phone breaks every 30 minutes
+
+**Evening (10 minutes):**
+- Full stretch routine (all stretches)
+- Strengthening exercises (rows, Y-T-W, deep neck flexors)
+- Thoracic mobility work
+
+## Setting Up Your Environment
+
+**Phone use:**
+- Hold at eye level when possible
+- Use a phone stand on desks
+- Limit scrolling sessions
+
+**Computer work:**
+- Monitor at eye level, arm's length away
+- Keyboard and mouse at elbow height
+- Chair supporting lower back
+- Feet flat on floor
+
+**Reading:**
+- Hold books/tablets up
+- Use a book stand or pillow on lap
+- Take breaks to look up and around
+
+## How Long Until It's Better?
+
+Timeline varies based on severity:
+
+**Mild (recent onset, just stiffness):**
+- Noticeable improvement: 1-2 weeks
+- Significant relief: 4-6 weeks
+
+**Moderate (chronic, some postural changes):**
+- Some improvement: 2-4 weeks
+- Meaningful change: 6-12 weeks
+- Full correction: 3-6 months
+
+**Severe (structural changes, neurological symptoms):**
+- Seek professional evaluation
+- May need manual therapy, structured rehab
+- Improvement measured in months
+
+**Key:** Consistency matters more than intensity. Daily habits beat occasional heroic efforts.
+
+## When to Get Help
+
+Most text neck responds well to self-treatment. See a professional if:
+
+- Pain is severe or getting worse despite self-care
+- You have numbness, tingling, or weakness in arms
+- Symptoms don't improve after 4-6 weeks of consistent work
+- You have radiating pain
+- Symptoms significantly limit daily activities
+
+Physical therapy can provide manual treatment, specific exercise progression, and ensure you're not missing underlying issues.
+
+## Prevention for Life
+
+Once you've fixed text neck, keep it fixed:
+
+- Maintain daily movement practice (even 5 minutes)
+- Regular posture checks throughout day
+- Ergonomic setups at all workstations
+- Movement variety (not just gym—varied activities)
+- Periodic "tech fasts" for your neck
+
+The modern world encourages forward head posture. Fighting it requires active, ongoing effort. But your neck will thank you.
+
+---
+
+*Foundational Rehab programs include targeted neck and upper back work designed to reverse postural dysfunction and prevent its return.*
+    `
+  },
+  'age-related-stiffness-mobility': {
+    title: 'Why We Get Stiffer With Age (And What to Do About It)',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '8 min read',
+    content: `
+## The Inevitable Question
+
+Somewhere in your 30s or 40s, you noticed it. Getting up from the floor takes a moment longer. Your back protests morning stretches it once welcomed. The yoga pose that was easy at 25 now requires a warm-up. Or two.
+
+Age-related stiffness is so common we treat it as inevitable. "I'm just getting old," we say, accepting creaky joints and tight muscles as our fate.
+
+But here's the truth: much of what we call "aging" is actually "disuse." And while some changes are real and unavoidable, a surprising amount of stiffness is reversible—at any age.
+
+## What Actually Changes With Age
+
+Let's separate fact from fiction about aging and flexibility.
+
+### Real Age-Related Changes
+
+**Connective tissue changes:**
+- Collagen becomes less pliable
+- Water content in tissues decreases
+- Elastin fibers degrade
+- Cross-linking between collagen fibers increases
+
+**Joint changes:**
+- Cartilage thins slightly
+- Synovial fluid production may decrease
+- Joint capsules can tighten
+
+**Muscle changes:**
+- Gradual loss of muscle mass (sarcopenia)
+- Decreased muscle elasticity
+- Slower recovery from exertion
+
+**These changes begin around age 30 and accelerate after 50.** They're real. But they're also slower and less dramatic than most people assume.
+
+### What's Actually Disuse (Not Aging)
+
+Here's where it gets interesting. Much of what we blame on age is actually:
+
+**Movement diet narrowing:**
+Most adults gradually use less of their available range of motion. You stop sitting on the floor. Stop reaching overhead. Stop squatting deep. Stop rotating fully.
+
+Your body adapts to what you do—and what you don't do.
+
+**Sedentary accumulation:**
+Hours of sitting daily, year after year, creates specific tightness patterns. Hip flexors shorten. Hamstrings tighten. Upper back rounds. This isn't aging—it's positioning.
+
+**Training only in middle ranges:**
+Even active adults often exercise in limited ranges. Running, cycling, and machine-based training don't take joints through full motion.
+
+**The proof:** People who maintain varied movement throughout life stay far more flexible than sedentary people of the same age. The difference isn't genetics—it's practice.
+
+## The Use It or Lose It Reality
+
+Your body constantly adapts to demands. This works both ways:
+
+**Challenge tissues regularly → They stay capable**
+**Stop challenging tissues → They lose capacity**
+
+A 60-year-old who has done daily yoga for 30 years will be more flexible than a sedentary 30-year-old. Age matters, but use matters more.
+
+**The remodeling process:**
+Connective tissue turns over slowly—about 1-2% per day. This means:
+- Changes happen gradually (both directions)
+- Consistent practice over months yields real results
+- Even "stiff" tissues can change with persistent loading
+
+## What You Can Do About It
+
+### 1. Move Through Full Ranges Daily
+
+The most important intervention isn't stretching—it's using your available range.
+
+**Include daily:**
+- Deep squatting (even partial, supported)
+- Overhead reaching
+- Rotation (spine, hips, shoulders)
+- Floor transitions (sitting down, getting up)
+- Reaching behind your back
+
+**The "movement snack" approach:**
+Instead of one 30-minute mobility session, sprinkle movement throughout the day. A few squats here. Some shoulder circles there. Floor sitting while watching TV.
+
+### 2. Load Your End Ranges
+
+Passive stretching has limited effect on long-term flexibility. What works better: actively loading the end of your range.
+
+**Example progressions:**
+- Can't squat deep? Squat to a box and hold, pushing deeper over weeks
+- Tight hamstrings? Do Romanian deadlifts through full available range
+- Stiff shoulders? Practice overhead pressing with whatever range you have
+
+**The key:** Don't just stretch passively. Strengthen at length.
+
+### 3. Embrace the Floor
+
+In many cultures, adults sit on the floor throughout life and maintain excellent hip and spine mobility into old age. In chair-based cultures, we lose this capacity.
+
+**Reintroduce floor sitting:**
+- Watch TV on the floor
+- Do some work sitting cross-legged
+- Get up and down from the floor multiple times daily
+
+**Start where you are:** Use cushions, lean against furniture, do whatever modifications you need. Progress from there.
+
+### 4. Never Stop Squatting
+
+The deep squat is often called the "youth position" because we lose it as we age—but only if we stop doing it.
+
+**Daily squat practice:**
+- Hold a supported deep squat (holding onto something)
+- Accumulate 5-10 minutes of squatting daily
+- Use a raised surface if full depth isn't available
+
+**Progressive approach:**
+Week 1-4: Holding support, any depth you can manage
+Week 5-8: Less support, working deeper
+Week 9+: Working toward unsupported deep squat
+
+### 5. Prioritize Hip and Spine Mobility
+
+Two areas disproportionately affect how "old" you feel:
+
+**Hips:**
+- Hip flexor stretching (actually, hip extension work)
+- Hip rotation (internal and external)
+- Deep hip flexion (squatting)
+- Lateral hip mobility
+
+**Spine:**
+- Thoracic extension and rotation
+- Segmental spine movement (cat-cow variations)
+- Loaded spine flexion and extension (deadlifts, bridges)
+
+A mobile spine and hips solve most "I feel old" complaints.
+
+### 6. Strength Training Matters
+
+This might seem counterintuitive, but strength training improves mobility—especially as we age.
+
+**Why it works:**
+- Strengthens muscles through full range
+- Maintains muscle mass (which supports joints)
+- Improves confidence to move into ranges
+- Loads connective tissue appropriately
+
+**Best approaches:**
+- Full range of motion on all exercises
+- Include overhead pressing, squatting, hinging
+- Don't avoid ranges that feel "tight"—safely work into them
+
+### 7. Stay Consistent Over Years
+
+This is the real secret. Age-related stiffness accumulates over decades. Reversing it happens over months and years—not days.
+
+**Realistic expectations:**
+- Noticeable improvement: 4-8 weeks of daily practice
+- Significant change: 3-6 months
+- Transformation: 1-2 years
+
+**The compound effect:**
+Someone who does 10 minutes of mobility daily for 5 years will be dramatically more mobile than someone who does occasional 60-minute sessions. Consistency trumps intensity.
+
+## What's Reasonable to Expect
+
+### You CAN regain:
+- Lost range of motion from disuse
+- Comfort in positions you've avoided
+- Ability to get up from the floor easily
+- Pain-free movement in daily activities
+- Significant improvement from your current baseline
+
+### You might not:
+- Return to exactly where you were at 20
+- Achieve elite flexibility without significant training
+- Overcome structural changes (bone spurs, significant arthritis)
+- Progress as quickly as younger people
+
+### The good news:
+Even partial improvement dramatically affects quality of life. Going from "can barely squat" to "can squat comfortably" matters more than whether you achieve perfect form.
+
+## Special Considerations
+
+### Already Have Pain or Arthritis?
+
+Movement remains important—perhaps more important. But approach may differ:
+
+- Start more gently
+- Respect pain signals
+- Progress more slowly
+- Consider working with a physical therapist
+- Focus on pain-free ranges first
+
+Arthritis often responds well to movement. Stiffness without movement accelerates degeneration.
+
+### Returning After Long Sedentary Period?
+
+Start very gradually. Your tissues need time to adapt.
+
+**Week 1-2:** Just move more. Walk. Do gentle ranges.
+**Week 3-4:** Add basic mobility work. Floor time.
+**Week 5+:** Progressively challenge ranges.
+
+The goal is building a sustainable practice, not a heroic comeback that causes injury.
+
+### Over 60?
+
+Everything above still applies. The research is clear: older adults respond to mobility training. Progress may be slower, but it happens.
+
+**Key adjustments:**
+- Allow more recovery time
+- Balance challenge with safety
+- Prioritize movements that support independence
+- Work with appropriate professionals if needed
+
+## Daily Practice Template
+
+**Morning (5 minutes):**
+- Joint circles (all major joints)
+- Cat-cow (10 reps)
+- Supported squat hold (30-60 seconds)
+- Arm circles and shoulder stretches
+
+**Throughout day:**
+- Hourly movement breaks
+- Floor sitting when possible
+- Full-range reaching and bending
+- Get up and down from floor 5+ times
+
+**Evening (10-15 minutes):**
+- Longer stretch holds (60-90 seconds each)
+- Hip stretching routine
+- Spine mobility work
+- Any areas needing extra attention
+
+## The Mindset Shift
+
+Stop saying "I'm too old for that." Start saying "I'm going to reclaim what I've lost."
+
+Age brings some real changes. But the story of inevitable decline is largely wrong. Most "old person stiffness" is reversible with consistent practice.
+
+Your body at 60 can be more mobile than it was at 40—if you're willing to do the work. And that work isn't extreme. It's just daily. It's just consistent. It's just refusing to accept stiffness as your fate.
+
+Move or lose it. That's the rule at every age. The good news? It's never too late to start moving again.
+
+---
+
+*Foundational Rehab programs include mobility work designed for every age and ability level—meeting you where you are and building toward where you want to be.*
+    `
   }
 };
 

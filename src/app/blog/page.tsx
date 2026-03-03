@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'doms-muscle-soreness-recovery',
+    title: 'DOMS: Why You\'re Sore After Workouts and What Actually Helps',
+    excerpt: 'That delayed muscle soreness after a tough workout? It\'s DOMS—and most recovery advice is wrong. Here\'s what the science actually shows.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'text-neck-tech-neck-fix',
+    title: 'Text Neck: The Modern Epidemic and How to Fix It',
+    excerpt: 'Spending hours looking down at your phone? Text neck causes pain, headaches, and postural changes. Here\'s how to reverse the damage.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Neck',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'age-related-stiffness-mobility',
+    title: 'Why We Get Stiffer With Age (And What to Do About It)',
+    excerpt: 'Feeling stiffer every year? It\'s not inevitable. Here\'s why aging affects flexibility and the evidence-based strategies to stay mobile for life.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '8 min read'
+  },
+  {
     slug: 'when-to-see-doctor-pain',
     title: 'When to See a Doctor for Pain: Red Flags You Shouldn\'t Ignore',
     excerpt: 'Most pain responds to self-care—but some symptoms need professional attention. Know the red flags that warrant evaluation.',
