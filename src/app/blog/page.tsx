@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'tight-calves-causes-relief',
+    title: 'Tight Calves: Why They Happen and How to Get Lasting Relief',
+    excerpt: 'Constantly stretching your calves but they\'re still tight? The problem might not be what you think. Here\'s what actually works.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'breathing-exercises-health-benefits',
+    title: 'Breathing Exercises: How They Work and Which Ones Actually Help',
+    excerpt: 'Breathwork is everywhere now. But does it actually do anything? Here\'s the science behind breathing exercises and which techniques are worth your time.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
     slug: 'walking-for-health-how-much',
     title: 'How Much Walking Do You Actually Need? The Evidence-Based Answer',
     excerpt: 'Is 10,000 steps necessary? Can walking replace the gym? Here\'s what research actually shows about walking for health, weight, and longevity.',
