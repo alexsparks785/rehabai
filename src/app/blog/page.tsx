@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'shoulder-blade-pain-causes-relief',
+    title: 'Pain Between Your Shoulder Blades: Causes and How to Fix It',
+    excerpt: 'That nagging ache between your shoulder blades won\'t go away. Here\'s what\'s actually causing it and the exercises that provide lasting relief.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'joint-cracking-popping-safe',
+    title: 'Is Cracking Your Joints Bad? What Science Actually Says',
+    excerpt: 'Knuckle cracking, back popping, neck clicking—is it harmful or harmless? The research might surprise you.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'stretching-before-after-exercise',
     title: 'Should You Stretch Before or After Exercise? The Science-Based Answer',
     excerpt: 'The stretching debate is over. Here\'s what research actually shows about when, how, and whether to stretch for performance and recovery.',
