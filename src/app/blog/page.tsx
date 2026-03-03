@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hip-pain-sleeping-side-relief',
+    title: 'Hip Pain When Sleeping on Your Side: Causes and Solutions',
+    excerpt: 'Waking up with hip pain? Side sleeping puts pressure on your hips—but you don\'t have to give it up. Here\'s how to sleep pain-free.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'balance-training-importance-exercises',
+    title: 'Balance Training: Why It Matters and How to Improve It',
+    excerpt: 'Balance isn\'t just for athletes and seniors. It affects injury risk, performance, and daily function. Here\'s how to build it at any age.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Functional',
+    readTime: '7 min read'
+  },
+  {
     slug: 'shoulder-blade-pain-causes-relief',
     title: 'Pain Between Your Shoulder Blades: Causes and How to Fix It',
     excerpt: 'That nagging ache between your shoulder blades won\'t go away. Here\'s what\'s actually causing it and the exercises that provide lasting relief.',
