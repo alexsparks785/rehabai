@@ -10608,6 +10608,537 @@ Your body adapts to what you do most. Make sure what you do most includes moving
 
 *Foundational Rehab programs address the specific tissue adaptations caused by prolonged sitting—restoring the flexibility and strength that sedentary lifestyles erode.*
     `
+  },
+  'stretching-before-after-exercise': {
+    title: 'Should You Stretch Before or After Exercise? The Science-Based Answer',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Flexibility',
+    readTime: '7 min read',
+    content: `
+## The Great Stretching Debate
+
+For decades, the advice was simple: stretch before exercise to prevent injury, stretch after to improve flexibility. It was gym class gospel, coaching orthodoxy, fitness common sense.
+
+Then research started questioning everything. Static stretching before exercise might actually hurt performance? Stretching doesn't prevent injuries? What about dynamic stretching? What about mobility work?
+
+Let's cut through the confusion with what the science actually shows.
+
+## Static Stretching: The Traditional Approach
+
+Static stretching means holding a stretch position for 15-60 seconds or longer. Touch your toes and hold. Pull your heel to your butt and hold. This is what most people picture when they hear "stretching."
+
+### Before Exercise: The Verdict
+
+**The research is clear:** Static stretching immediately before exercise that requires strength, power, or speed can temporarily reduce performance.
+
+**What happens:**
+- Decreased muscle force production (up to 5-8%)
+- Reduced power output
+- Slightly impaired reaction time
+- Effects last 15-60 minutes
+
+**Why it happens:**
+Static stretching temporarily reduces muscle stiffness and changes the length-tension relationship. This actually decreases the muscle's ability to produce force rapidly.
+
+**The practical impact:**
+For most recreational exercisers, the effect is small and may not matter much. For competitive athletes or anyone doing maximal efforts, it's worth avoiding static stretching immediately before performance.
+
+### After Exercise: The Verdict
+
+**The evidence is more favorable here:**
+- May help restore resting muscle length
+- Can feel good and promote relaxation
+- No negative effects on recovery
+- May provide modest flexibility gains over time
+
+**The honest truth:**
+Static stretching after exercise is fine and may help, but its benefits are more modest than traditionally claimed. It's not magic for recovery or injury prevention.
+
+## Dynamic Stretching: The Modern Standard
+
+Dynamic stretching means moving through ranges of motion actively, without holding positions. Leg swings, arm circles, walking lunges, high knees.
+
+### Before Exercise: The Verdict
+
+**Research strongly supports dynamic stretching pre-exercise:**
+- Increases muscle temperature
+- Improves blood flow
+- Activates the nervous system
+- May enhance performance
+- No negative effects on strength or power
+
+**Why it works:**
+Dynamic movement prepares muscles for action without reducing their ability to produce force. It's specific to what you're about to do.
+
+### After Exercise: The Verdict
+
+Dynamic stretching after exercise is fine but not necessary. Most people prefer static or relaxing approaches post-workout.
+
+## What About Injury Prevention?
+
+This is where the research gets uncomfortable for stretching advocates.
+
+**The evidence shows:**
+- Static stretching does NOT significantly reduce injury risk
+- Dynamic warm-ups may reduce some injury types
+- Strength and conditioning have stronger injury-prevention effects
+- Being warmed up matters more than being stretched
+
+**Why stretching doesn't prevent injuries:**
+Most injuries occur within normal range of motion. Increasing flexibility beyond what an activity requires doesn't add protection. What prevents injuries is strength, coordination, and appropriate training loads.
+
+**What does prevent injuries:**
+- Progressive training (not doing too much too soon)
+- Adequate recovery
+- Strength training
+- Sport-specific conditioning
+- Proper technique
+
+## The Role of Mobility Work
+
+"Mobility" has become the trendy term, often replacing "flexibility." There's a meaningful distinction:
+
+**Flexibility:** Passive range of motion (how far you can be stretched)
+**Mobility:** Active range of motion with control (how far you can move yourself)
+
+**Mobility work often includes:**
+- Dynamic stretching
+- Controlled articular rotations
+- Loaded stretching
+- End-range strengthening
+
+**Why mobility matters more:**
+Having flexibility you can't control is useless—or even risky. Mobility work builds usable range of motion with strength throughout.
+
+## Evidence-Based Recommendations
+
+### Before Exercise
+
+**Do:**
+- 5-10 minutes of general warm-up (light cardio)
+- Dynamic stretches relevant to your activity
+- Movement preparation specific to what you're doing
+
+**Skip:**
+- Long-held static stretches (30+ seconds)
+- Aggressive stretching of muscles you're about to load heavily
+
+**Example pre-workout routine (10 minutes):**
+- 3 minutes easy cardio (walking, cycling, jumping jacks)
+- Leg swings (forward/back, side to side): 10 each direction
+- Hip circles: 10 each direction
+- Arm circles: 10 forward, 10 back
+- Walking lunges with rotation: 10 each side
+- High knees and butt kicks: 30 seconds each
+- Sport/exercise-specific movements at low intensity
+
+### After Exercise
+
+**Options (all fine):**
+- Static stretching for areas that feel tight (30-60 seconds each)
+- Light dynamic movement
+- Foam rolling
+- Simply cooling down with easy movement
+
+**What works:**
+Choose what feels good and helps you wind down. Post-workout is about recovery and returning to baseline, not performance.
+
+**Example post-workout routine (5-10 minutes):**
+- 2-3 minutes light walking
+- Static stretches for major muscle groups used (60 seconds each)
+- Focus on areas that feel particularly tight
+- Optional foam rolling
+
+### For Flexibility Goals
+
+If you're specifically trying to improve flexibility:
+
+**Best practices:**
+- Dedicate separate sessions to flexibility work
+- Include both static holds and loaded stretching
+- Strengthen through full range of motion
+- Be consistent over months (flexibility changes slowly)
+
+**Effective approach:**
+- Hold stretches 60-120 seconds
+- 3-5 times per week
+- Use PNF techniques (contract-relax) for stubborn areas
+- Combine with strengthening at end ranges
+
+**Timing:**
+Flexibility training is most effective when muscles are warm. After exercise or after a separate warm-up is ideal.
+
+## Special Situations
+
+### Desk Workers
+
+If you sit all day, you have specific tightness patterns (hip flexors, chest, upper traps). Brief stretching throughout the day is beneficial.
+
+**What helps:**
+- Movement breaks every 30-45 minutes
+- Standing hip flexor stretches
+- Doorway chest stretches
+- Neck mobility
+
+This isn't about exercise performance—it's about countering positional adaptations.
+
+### Older Adults
+
+Flexibility typically decreases with age, but it responds to training at any age.
+
+**Recommendations:**
+- Include flexibility work 3+ times weekly
+- Hold stretches longer (60+ seconds)
+- Combine with strength and balance work
+- Be patient—changes take longer but do happen
+
+### Specific Sports/Activities
+
+**Running:** Dynamic warm-up, optional light static stretching after
+**Weight training:** Movement prep before, static stretching after or separate
+**Yoga:** Stretching IS the activity (properly warmed into)
+**Team sports:** Thorough dynamic warm-up, sport-specific movement prep
+
+## Common Myths Addressed
+
+### "You need to stretch to be flexible"
+
+**Partly true.** Stretching does improve flexibility, but it's not the only way. Strength training through full range of motion also improves flexibility—often more functionally.
+
+### "Tight muscles cause injuries"
+
+**Mostly false.** Most injuries occur within normal range of motion. Strength, control, and training load management matter more than flexibility.
+
+### "No pain, no gain in stretching"
+
+**False and potentially harmful.** Stretching should create mild discomfort, not pain. Aggressive stretching can cause injury.
+
+### "You should stretch every day"
+
+**Not necessary.** 3-5 times weekly is sufficient for most flexibility goals. Daily is fine but not required.
+
+### "Hold stretches for 30 seconds"
+
+**Minimum, not optimal.** Research suggests 60 seconds or longer is more effective for lasting flexibility changes.
+
+## The Bottom Line
+
+**Before exercise:**
+- Warm up with light cardio (5 minutes)
+- Use dynamic stretching and movement prep
+- Avoid long static stretches before strength/power/speed activities
+
+**After exercise:**
+- Static stretching is fine and may feel good
+- Focus on areas used in your workout
+- Not mandatory—do what helps you recover
+
+**For flexibility improvement:**
+- Dedicate separate time
+- Hold stretches 60+ seconds
+- Combine with strength work through full range
+- Be consistent over months
+
+**For injury prevention:**
+- Focus on proper training load, strength, and technique
+- Don't rely on stretching alone
+
+The stretching debate isn't really a debate anymore. We know when each type works best. Match your approach to your goals.
+
+---
+
+*Foundational Rehab programs include appropriate warm-up protocols, mobility work, and flexibility training—matched to your specific needs and goals.*
+    `
+  },
+  'knee-pain-stairs-causes-fixes': {
+    title: 'Knee Pain Going Up or Down Stairs: Causes and Solutions',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Knees',
+    readTime: '7 min read',
+    content: `
+## The Stair Test
+
+Stairs are the ultimate stress test for knees. They require more knee flexion than walking, more force than level ground, and reveal weaknesses that flat surfaces hide.
+
+If your knees hurt on stairs—whether going up, coming down, or both—you're not alone. It's one of the most common knee complaints, and understanding the pattern can help identify the cause and guide the solution.
+
+## Why Stairs Stress Knees
+
+**The forces involved:**
+- Walking on level ground: 1-1.5x body weight through knees
+- Going upstairs: 3-4x body weight
+- Going downstairs: 4-5x body weight
+
+**The range of motion required:**
+Stairs require more knee bend than walking. This stresses the patellofemoral joint (kneecap against thigh bone) through a greater range.
+
+**The control required:**
+Descending stairs requires eccentric control—muscles lengthening under load. This is harder than concentric work (going up) and reveals weakness.
+
+## Pain Going UP Stairs
+
+If climbing stairs is your main problem, certain conditions are more likely:
+
+### Patellofemoral Pain Syndrome (Runner's Knee)
+
+**The pattern:**
+- Pain at the front of the knee, around or behind the kneecap
+- Worse with climbing stairs, squatting, sitting for long periods
+- May include grinding, clicking, or catching sensations
+
+**What's happening:**
+The kneecap isn't tracking properly through its groove, creating irritation. Usually a combination of muscle imbalance, weakness, and sometimes structural factors.
+
+**What helps:**
+- Quad strengthening (especially VMO)
+- Hip strengthening (glutes control knee position)
+- Addressing flexibility issues (hip flexors, IT band, quads)
+- Temporarily modifying activities that aggravate
+
+### Patellar Tendinitis (Jumper's Knee)
+
+**The pattern:**
+- Pain at the bottom of the kneecap, where the tendon attaches
+- Worse with jumping, climbing, squatting
+- Often worse at the start of activity, may warm up then return after
+
+**What's happening:**
+The patellar tendon is overloaded and irritated. Common in jumping sports and activities involving repeated knee loading.
+
+**What helps:**
+- Eccentric quad exercises (slow lowering)
+- Load management (reduce aggravating activities temporarily)
+- Progressive tendon loading program
+- Addressing contributing factors (flexibility, training errors)
+
+### Quadriceps Weakness
+
+**The pattern:**
+- Knee feels "weak" going up stairs
+- May need to push off the railing
+- General knee discomfort with loading
+
+**What's happening:**
+The quads aren't strong enough to handle the demand. Climbing stairs requires significant quad force.
+
+**What helps:**
+- Progressive quad strengthening
+- Step-ups, squats, leg press (pain-free ranges)
+- Building endurance through repetition
+
+## Pain Going DOWN Stairs
+
+Descending is often worse than climbing. If coming down is your main issue:
+
+### Patellofemoral Pain Syndrome
+
+Also causes pain descending—often worse than ascending due to higher forces and eccentric demand.
+
+**The pattern:**
+- Pain behind or around kneecap
+- Worse with prolonged sitting too
+- May feel like the knee might "give way"
+
+**What helps:**
+Same as above—quad and hip strengthening, proper tracking mechanics.
+
+### Knee Arthritis (Osteoarthritis)
+
+**The pattern:**
+- Pain with weight-bearing, especially descending
+- Stiffness after sitting, improves with movement
+- May include swelling, grinding sensations
+- Usually 50+ years old, though can occur younger
+
+**What's happening:**
+Cartilage wear reduces the joint's ability to handle load. Descending stairs creates high compressive forces.
+
+**What helps:**
+- Maintain healthy weight
+- Strengthen muscles around the knee
+- Low-impact exercise (swimming, cycling)
+- Movement (not rest—gentle exercise helps)
+- Medical management as needed
+
+### Meniscus Issues
+
+**The pattern:**
+- Pain on the inside or outside of the knee
+- May include catching, locking, or giving way
+- Swelling, especially after activity
+- Sometimes a specific injury event, sometimes gradual onset
+
+**What's happening:**
+The meniscus (cartilage pad) is damaged. Descending stairs compresses and stresses the meniscus.
+
+**What helps:**
+- Depends on type and severity of damage
+- Strengthening often helps
+- Some tears heal with conservative treatment
+- Some require surgical intervention
+
+### IT Band Syndrome
+
+**The pattern:**
+- Pain on the outside of the knee
+- May be worse with running/cycling too
+- Descending stairs aggravates
+- Tight sensation along outer thigh
+
+**What's happening:**
+The IT band is irritated where it crosses the outer knee. Descending requires controlled knee flexion/extension that repeatedly loads this area.
+
+**What helps:**
+- Hip strengthening (especially glute med)
+- Foam rolling/massage
+- Addressing training errors
+- Sometimes footwear changes
+
+## Pain BOTH Directions
+
+Some conditions affect stairs in both directions:
+
+### General Patellofemoral Dysfunction
+Tracking issues affect both loading and control.
+
+### Arthritis
+Any significant arthritis will affect both ascending and descending.
+
+### Weakness/Deconditioning
+If muscles are generally weak, stairs are hard in both directions.
+
+### Bursitis
+Inflammation of bursa (fluid-filled sacs) around the knee can cause pain with any knee movement under load.
+
+## Self-Assessment Questions
+
+**Ask yourself:**
+
+1. **Where exactly does it hurt?**
+   - Front of knee, behind kneecap → Patellofemoral issues
+   - Below kneecap → Patellar tendon
+   - Inside or outside of knee → Meniscus, ligament, or IT band
+   - Deep inside knee → Possibly arthritis
+
+2. **When did it start?**
+   - After injury → Structural damage possible
+   - Gradual onset → Overuse, arthritis, or deconditioning
+
+3. **What else bothers it?**
+   - Squatting, kneeling, sitting → Patellofemoral
+   - Running, jumping → Tendon or IT band
+   - First thing in morning → Arthritis
+   - Activity in general → Multiple possible causes
+
+4. **Your age?**
+   - Under 40 → Patellofemoral, tendon, or injury more likely
+   - Over 50 → Arthritis more common
+
+## General Solutions That Help Most Causes
+
+Regardless of the specific diagnosis, these approaches help most knee pain on stairs:
+
+### Strengthen the Quads
+
+The quads control knee motion. Strong quads = less stress on knee structures.
+
+**Exercises:**
+- Straight leg raises (start here if very irritated)
+- Wall sits
+- Step-ups (start low, progress height)
+- Squats (to comfortable depth)
+- Leg press
+
+**Key:** Find the exercises that don't aggravate symptoms and progress from there.
+
+### Strengthen the Hips
+
+The hips control knee position. Weak hips let the knee collapse inward, increasing patellofemoral stress.
+
+**Exercises:**
+- Clamshells
+- Side-lying leg raises
+- Monster walks with band
+- Single-leg balance
+- Lateral step-downs
+
+### Improve Flexibility Where Needed
+
+Tight muscles can affect knee mechanics:
+
+**Common areas to address:**
+- Hip flexors (affect patellar tracking)
+- IT band/TFL (affect lateral knee)
+- Quads (affect patellofemoral pressure)
+- Calves (affect overall knee position)
+
+### Modify Activities Temporarily
+
+Give irritated tissues time to calm down:
+
+- Take stairs one at a time
+- Use handrail to reduce load
+- Take elevator when needed
+- Reduce other aggravating activities
+
+**This is temporary**—the goal is building capacity to return to normal function.
+
+### Use Proper Technique
+
+**Going up:**
+- Lead with the stronger/less painful leg
+- Push through the whole foot
+- Use glutes, not just quads
+
+**Going down:**
+- Lead with the weaker/more painful leg
+- Control the descent slowly
+- Don't let the knee collapse inward
+
+## When to See Someone
+
+**Get professional evaluation if:**
+- Significant swelling
+- Knee locking or giving way
+- Pain is severe or worsening despite self-care
+- History of significant injury
+- No improvement after 4-6 weeks of appropriate exercise
+- Pain at rest or at night
+- Obvious deformity or instability
+
+## The Recovery Timeline
+
+**Mild cases (recent onset, no structural damage):**
+- Improvement begins: 2-4 weeks
+- Significant relief: 6-8 weeks
+
+**Moderate cases (ongoing issue, some deconditioning):**
+- Improvement begins: 4-6 weeks
+- Full function: 8-12 weeks
+
+**Chronic or structural cases:**
+- May take 3-6 months
+- May need professional guidance
+- Some conditions need ongoing management
+
+## The Bottom Line
+
+Knee pain on stairs is common but usually treatable. The solution almost always involves:
+
+1. Identifying contributing factors
+2. Strengthening muscles around the knee
+3. Addressing flexibility issues
+4. Modifying aggravating activities temporarily
+5. Progressive return to full function
+
+Stairs can go from your enemy to your exercise. It just takes the right approach and consistency.
+
+---
+
+*Foundational Rehab programs include knee strengthening protocols designed to eliminate stair pain and build lasting knee health.*
+    `
   }
 };
 

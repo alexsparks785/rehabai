@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'stretching-before-after-exercise',
+    title: 'Should You Stretch Before or After Exercise? The Science-Based Answer',
+    excerpt: 'The stretching debate is over. Here\'s what research actually shows about when, how, and whether to stretch for performance and recovery.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Flexibility',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'knee-pain-stairs-causes-fixes',
+    title: 'Knee Pain Going Up or Down Stairs: Causes and Solutions',
+    excerpt: 'Stairs are the ultimate knee test. If yours hurt climbing or descending, here\'s what\'s likely causing it and how to fix it.',
+    date: '2026-03-03',
+    author: 'Foundational Rehab',
+    category: 'Knees',
+    readTime: '7 min read'
+  },
+  {
     slug: 'how-to-fix-posture-guide',
     title: 'How to Fix Your Posture: The Complete Evidence-Based Guide',
     excerpt: 'Slouching, rounded shoulders, forward head? Posture can change—but not with the methods most people try. Here\'s what actually works.',
