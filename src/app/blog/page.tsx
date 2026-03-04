@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'how-to-squat-properly',
+    title: 'How to Squat Properly: Form, Depth, and Common Mistakes',
+    excerpt: 'The squat is the king of exercises—when done right. Here\'s how to squat safely and effectively for your body.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'deadlift-form-back-safety',
+    title: 'Deadlift Form: How to Lift Heavy Without Hurting Your Back',
+    excerpt: 'Deadlifts build total-body strength—if you do them right. Here\'s how to master the form and protect your spine.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'hip-mobility-for-squats',
+    title: 'Hip Mobility for Squats: How to Get Deeper and Move Better',
+    excerpt: 'Can\'t squat deep? Your hips might be the problem. Here\'s how to unlock the mobility you need.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read'
+  },
+  {
     slug: 'thoracic-spine-mobility',
     title: 'Thoracic Mobility: The Missing Link in Your Movement',
     excerpt: 'Your upper back might be the cause of your shoulder, neck, or lower back problems. Here\'s how to unlock thoracic mobility.',

@@ -13,6 +13,720 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'how-to-squat-properly': {
+    title: 'How to Squat Properly: Form, Depth, and Common Mistakes',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '8 min read',
+    content: `
+## The Foundation of Strength
+
+The squat is often called the king of exercises—and for good reason. It trains your entire lower body, builds functional strength, and carries over to everything from athletics to daily life.
+
+But squatting well isn't as simple as "sit down and stand up." Poor form leads to pain and injury. Proper form unlocks all the benefits while keeping you safe.
+
+## Why Squatting Matters
+
+**Muscles worked:**
+- Quadriceps (front of thigh)
+- Glutes (buttocks)
+- Hamstrings (back of thigh)
+- Adductors (inner thigh)
+- Core (stabilization)
+- Back (stabilization)
+
+**Benefits:**
+- Lower body strength and muscle
+- Functional movement pattern
+- Bone density
+- Metabolism and hormonal response
+- Athletic performance
+- Daily life function (sitting, standing, lifting)
+
+## Basic Squat Setup
+
+### Stance
+
+**Width:** Slightly wider than shoulder-width. Most people squat best with feet somewhere between hip and shoulder width.
+
+**Toe angle:** Toes turned out 15-30 degrees. Match your natural hip anatomy.
+
+**Weight distribution:** Even across the whole foot—not on toes, not on heels. Feel tripod contact: big toe, little toe, heel.
+
+### Descent
+
+1. **Initiate with hips:** Begin by pushing hips back slightly
+2. **Break at hips and knees together:** Both joints flex simultaneously
+3. **Knees track over toes:** Knees should point same direction as toes
+4. **Maintain neutral spine:** Slight arch in lower back, no rounding
+5. **Chest up:** Don't collapse forward
+6. **Descend under control:** 2-3 seconds down
+
+### Depth
+
+**Minimum:** Thighs parallel to ground (hip crease level with knee)
+
+**Ideal for most:** Below parallel (hip crease below knee)
+
+**Full depth:** As deep as you can go with good form
+
+Depth depends on mobility, anatomy, and goals. Deeper isn't always better—form trumps depth.
+
+### Ascent
+
+1. **Drive through whole foot:** Push the floor away
+2. **Hips and chest rise together:** Don't let hips shoot up while chest stays down
+3. **Knees stay out:** Don't let them cave inward
+4. **Squeeze glutes at top:** Full hip extension
+5. **Don't hyperextend:** Neutral spine at top
+
+## Common Mistakes and Fixes
+
+### Knees Caving Inward
+
+**The problem:** Knees collapse toward each other, especially coming up.
+
+**Why it happens:** Weak glutes, tight adductors, poor motor control.
+
+**Fixes:**
+- Cue "push knees out"
+- Strengthen glutes (clamshells, banded squats)
+- Use light band around knees for feedback
+- Reduce weight until you can control it
+
+### Heels Rising
+
+**The problem:** Heels come off the ground during descent.
+
+**Why it happens:** Limited ankle mobility, poor balance, too much forward lean.
+
+**Fixes:**
+- Ankle mobility work (covered in separate article)
+- Temporarily elevate heels on plates or use weightlifting shoes
+- Widen stance slightly
+- Work on balance and motor control
+
+### Butt Wink (Pelvis Tucking Under)
+
+**The problem:** Lower back rounds at the bottom of the squat.
+
+**Why it happens:** Limited hip mobility, hamstring tightness, going deeper than your mobility allows.
+
+**Fixes:**
+- Don't go deeper than you can with neutral spine
+- Hip mobility work
+- Hamstring flexibility
+- Core bracing
+- Slight toe-out may help
+
+### Good Morning Squat
+
+**The problem:** Hips rise faster than chest, turning it into a hip hinge.
+
+**Why it happens:** Weak quads, relying on posterior chain, poor motor pattern.
+
+**Fixes:**
+- Cue "chest up" or "lead with chest"
+- Pause squats to build control
+- Front squats (forces upright torso)
+- Reduce weight and groove pattern
+
+### Forward Lean (Excessive)
+
+**The problem:** Torso pitches far forward, straining lower back.
+
+**Why it happens:** Weak quads, limited ankle mobility, poor thoracic extension.
+
+**Fixes:**
+- Ankle mobility work
+- Thoracic mobility work
+- Strengthen quads with leg press, goblet squats
+- Front squat variations
+
+## Squat Variations
+
+### Goblet Squat
+
+Best for: Beginners, learning pattern, warming up.
+
+Hold kettlebell or dumbbell at chest. Helps maintain upright torso.
+
+### Front Squat
+
+Best for: Quad emphasis, upright torso, athletes.
+
+Bar rests on front of shoulders. Forces upright position.
+
+### Back Squat (High Bar)
+
+Best for: General strength, quad emphasis.
+
+Bar on upper traps. More upright torso, deeper squat.
+
+### Back Squat (Low Bar)
+
+Best for: Maximum weight, powerlifting.
+
+Bar lower on rear delts. More hip hinge, more posterior chain.
+
+### Box Squat
+
+Best for: Learning depth, building power, deloading spine.
+
+Squat to box, pause, stand. Teaches depth consistency.
+
+## Mobility Requirements
+
+Good squatting requires:
+
+**Ankle dorsiflexion:** At least 4 inches past toes in wall test.
+
+**Hip flexion:** Ability to bring thighs toward chest.
+
+**Hip external rotation:** Knees can track over toes.
+
+**Thoracic extension:** Chest stays up without lower back compensation.
+
+If you're limited in these areas, address them (see related mobility articles).
+
+## Programming Considerations
+
+**Frequency:** 2-3x per week for most people.
+
+**Intensity:** Varies by goal—strength (heavier, lower reps), hypertrophy (moderate weight, more reps).
+
+**Progression:** Add weight, reps, or sets over time.
+
+**Variation:** Rotate squat styles to address weaknesses.
+
+**Warm-up sets:** Always. Build up to working weight.
+
+## When Squats Hurt
+
+**Knee pain:**
+- Check depth (not going too deep?)
+- Check tracking (knees caving?)
+- Address quad/hip weakness
+- May need load reduction
+
+**Back pain:**
+- Check bracing (are you breathing and bracing?)
+- Check rounding (butt wink at bottom?)
+- May need mobility work or reduced depth
+- Consider front squat or goblet squat
+
+**Hip pain:**
+- Check stance width and toe angle
+- May have hip impingement (try different stance)
+- Address hip mobility
+- See professional if persistent
+
+Pain isn't normal. If squatting consistently hurts, something needs to change—form, mobility, load, or variation.
+
+## Building Your Squat
+
+**Beginners:**
+1. Master goblet squat
+2. Progress to front or back squat
+3. Focus on form before load
+4. Film yourself to check form
+
+**Intermediate:**
+1. Progressive overload
+2. Address weak points
+3. Include accessory work (lunges, leg press, etc.)
+4. Vary squat styles
+
+**Advanced:**
+1. Periodize training
+2. Specialty variations for weak points
+3. Competition prep if applicable
+
+## The Bottom Line
+
+The squat is a skill. Like any skill, it takes practice to master.
+
+Focus on:
+1. Proper setup (stance, toe angle)
+2. Controlled descent
+3. Appropriate depth for your mobility
+4. Knees tracking over toes
+5. Chest up, back neutral
+6. Driving through whole foot
+
+Start light, film yourself, and be patient. A beautiful squat takes time to develop—but it's worth it.
+    `
+  },
+  'deadlift-form-back-safety': {
+    title: 'Deadlift Form: How to Lift Heavy Without Hurting Your Back',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '8 min read',
+    content: `
+## The Most Functional Lift
+
+The deadlift is the simplest exercise: pick weight up off the ground. It's also one of the most effective—building total-body strength, posterior chain power, and real-world lifting ability.
+
+But the deadlift has a reputation for causing back injuries. The truth? It's not the deadlift that's dangerous—it's poor form and ego-driven loading.
+
+Done right, the deadlift actually protects your back by building strength and teaching you how to lift safely.
+
+## Why Deadlift?
+
+**Muscles worked:**
+- Hamstrings
+- Glutes
+- Back (spinal erectors, lats, traps)
+- Quads (to a degree)
+- Grip and forearms
+- Core
+
+**Benefits:**
+- Total-body strength
+- Posterior chain development
+- Grip strength
+- Functional lifting pattern (picking things up)
+- Bone density
+- Posture and back health (when done correctly)
+
+## The Setup
+
+The setup is 90% of a good deadlift. Rush it and you're setting yourself up for trouble.
+
+### Bar Position
+
+- Bar over mid-foot (when looking down, bar covers middle of foot)
+- Close to shins (will nearly touch them during lift)
+- Not too far forward, not touching shins at start
+
+### Stance
+
+**Conventional:**
+- Feet hip-width apart
+- Toes slightly out (5-15 degrees)
+- Arms outside legs
+
+**Sumo:**
+- Wide stance (varies by individual)
+- Toes turned out significantly
+- Arms inside legs, narrower grip
+
+Choose based on your anatomy and preferences. Both are valid.
+
+### Grip
+
+**Double overhand:** Both palms facing you. Builds grip strength. Use until it becomes limiting.
+
+**Mixed grip:** One palm toward you, one away. Allows heavier loads. Alternate hands to balance.
+
+**Hook grip:** Thumb under fingers. Painful but secure. Popular with Olympic lifters.
+
+**Straps:** For heavy training when grip limits deadlift. Use sparingly to maintain grip strength.
+
+### The Hip Hinge
+
+This is the movement pattern of the deadlift. Practice it before adding load.
+
+1. Stand with feet hip-width
+2. Soften knees slightly (not a squat)
+3. Push hips back while keeping back flat
+4. Feel stretch in hamstrings
+5. Chest points toward floor but back is neutral
+6. Return by driving hips forward
+
+The deadlift is a hinge, not a squat. Hips go back more than knees go forward.
+
+## The Pull
+
+### Starting Position
+
+1. **Walk to bar:** Mid-foot under bar
+2. **Hinge down:** Push hips back, bend knees until hands reach bar
+3. **Grip bar:** Just outside legs (conventional)
+4. **Shins to bar:** Bend knees until shins touch bar
+5. **Chest up:** Pull chest up, squeeze lats, take slack out of bar
+6. **Neutral spine:** Natural curve in lower back, not rounded
+7. **Deep breath:** Brace your core
+
+### The Lift
+
+1. **Push floor away:** Think leg press, not pulling with back
+2. **Bar stays close:** Drags up legs
+3. **Hips and shoulders rise together:** Don't let hips shoot up
+4. **Pass knees:** Then drive hips forward to lockout
+5. **Stand tall:** Full hip extension, shoulders back, don't hyperextend
+6. **Lower with control:** Hinge back, lower bar along same path
+
+## Common Mistakes and Fixes
+
+### Rounded Lower Back
+
+**The problem:** Lower back rounds during lift—highest injury risk.
+
+**Why it happens:** Poor setup, weak core, too heavy, poor body awareness.
+
+**Fixes:**
+- Set up with chest up, back flat before lifting
+- Brace hard before each rep
+- Reduce weight until you can maintain position
+- Film yourself from the side
+- Consider trap bar or rack pulls until form improves
+
+### Bar Drifting Away
+
+**The problem:** Bar swings forward, away from body.
+
+**Why it happens:** Not engaging lats, poor setup, hips rising too fast.
+
+**Fixes:**
+- Cue "bend the bar around your legs" or "protect your armpits"
+- Pull slack out before lifting
+- Keep bar dragging up legs (wear long pants)
+
+### Hips Rising First
+
+**The problem:** Hips shoot up, turning deadlift into a stiff-leg deadlift.
+
+**Why it happens:** Weak quads, treating it as pure hip hinge.
+
+**Fixes:**
+- Cue "push the floor away" to engage legs
+- Get hips lower in setup (within reason)
+- Pause deadlifts to build control
+- Film from side to see what's happening
+
+### Hyperextending at Top
+
+**The problem:** Leaning back excessively at lockout.
+
+**Why it happens:** Trying to "complete" the rep, habit.
+
+**Fixes:**
+- Stand tall, squeeze glutes—don't lean back
+- Hip extension, not lumbar extension
+- Think "tall" not "back"
+
+### Hitching
+
+**The problem:** Bar stalls on thighs, lifter uses legs to bounce it up.
+
+**Why it happens:** Grip failure, weak lockout, too heavy.
+
+**Fixes:**
+- Strengthen grip
+- Block pulls for lockout strength
+- Don't attempt weights you can't complete smoothly
+
+## Variations
+
+### Romanian Deadlift (RDL)
+
+- Start at top, lower to mid-shin
+- Emphasis on hamstrings and eccentric
+- Less lower back stress than full deadlift
+- Great for learning hip hinge
+
+### Trap Bar Deadlift
+
+- Handles at sides, stand inside bar
+- More quad involvement
+- Easier to keep neutral spine
+- Great for beginners or those with mobility limitations
+
+### Sumo Deadlift
+
+- Wide stance, grip inside legs
+- More quad and adductor involvement
+- Often easier on lower back
+- Better for some body types
+
+### Deficit Deadlift
+
+- Stand on elevated surface
+- Increases range of motion
+- Builds strength off the floor
+- Only for those with good mobility
+
+### Block/Rack Pull
+
+- Bar starts elevated
+- Reduced range of motion
+- Focuses on lockout
+- Allows heavier loads, less lower back stress
+
+## Programming
+
+**Frequency:** 1-2x per week for most people. Heavy deadlifts are demanding.
+
+**Intensity:** Heavy for strength (1-5 reps), moderate for hypertrophy (6-12 reps).
+
+**Volume:** Less is often more. Quality over quantity.
+
+**Variations:** Rotate to address weaknesses.
+
+**Recovery:** Allow adequate rest. Deadlifts fatigue the nervous system.
+
+## Protecting Your Back
+
+The deadlift strengthens your back—but only with good form and appropriate loading.
+
+**Non-negotiables:**
+- Neutral spine throughout
+- Proper bracing
+- Bar close to body
+- Weight you can control
+
+**Progression:**
+- Master pattern with light weight
+- Add load gradually
+- If form breaks down, reduce weight
+- Film regularly to check form
+
+**When to skip it:**
+- Acute back pain
+- Unable to maintain neutral spine
+- Excessively fatigued
+- Poor recovery from previous session
+
+## The Bottom Line
+
+The deadlift isn't dangerous—poor form is dangerous. Master the hip hinge, set up properly, brace hard, and lift weights you can control.
+
+Done right, deadlifts build a stronger, more resilient back. They teach you how to lift safely in real life—picking up kids, moving furniture, carrying groceries.
+
+Start light, focus on form, and progress patiently. Your back will thank you.
+    `
+  },
+  'hip-mobility-for-squats': {
+    title: 'Hip Mobility for Squats: How to Get Deeper and Move Better',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read',
+    content: `
+## The Squat Limiter
+
+You want to squat deeper, but your body won't cooperate. Your heels rise, your back rounds, or you just can't get down there. The problem is often your hips.
+
+Hip mobility is essential for squatting well. Without it, you compensate—and compensations lead to pain and limited progress.
+
+The good news: hip mobility can be improved at any age with consistent work.
+
+## Hip Mobility for Squatting
+
+Squatting requires:
+
+**Hip flexion:** Ability to bring thigh toward torso. This determines how deep you can go.
+
+**Hip external rotation:** Knees tracking over toes. Allows knees to stay out.
+
+**Hip abduction:** Legs spreading apart. Needed for wider stances.
+
+**Internal rotation:** Some is needed for proper hip mechanics, even in squats.
+
+Most people are limited in one or more of these. Identifying your specific limitation helps target your work.
+
+## Quick Assessment
+
+### Hip Flexion Test
+
+1. Lie on back
+2. Pull one knee toward chest (other leg straight)
+3. How close can you get without rounding lower back or lifting other leg?
+4. Should be able to get thigh past 90 degrees
+
+### Hip External Rotation Test
+
+1. Sit on floor, knees bent, feet flat
+2. Let knees fall outward
+3. How far do they go?
+4. Compare sides
+
+### Hip Internal Rotation Test
+
+1. Sit on chair, knees at 90 degrees
+2. Keep knees together, swing feet outward
+3. Should get 30-40 degrees
+4. Compare sides
+
+### 90/90 Test
+
+1. Sit on floor
+2. One leg in front (shin parallel to chest)
+3. Other leg to side (shin parallel to your front leg)
+4. Can you sit upright without leaning?
+5. Switch sides and compare
+
+## Exercises to Improve Hip Mobility
+
+### Hip Flexion
+
+**Knee-to-chest stretch:**
+1. Lie on back
+2. Pull one knee toward chest
+3. Keep other leg straight on floor
+4. Hold 30-60 seconds each side
+
+**Deep squat hold:**
+1. Hold onto support if needed
+2. Squat as deep as possible
+3. Let hips drop and relax
+4. Hold 60-120 seconds
+5. Shift weight around
+
+**Frog stretch:**
+1. On hands and knees
+2. Spread knees wide, feet turned out
+3. Rock hips back
+4. Hold 60-90 seconds
+
+### External Rotation
+
+**90/90 stretch:**
+1. Sit in 90/90 position (front shin parallel to chest, back shin to side)
+2. Sit tall, lean forward over front shin
+3. Hold 60-90 seconds
+4. Switch sides
+
+**Pigeon pose:**
+1. Front leg bent in front of you
+2. Back leg extended behind
+3. Square hips to front
+4. Hold 60-90 seconds each side
+
+**Figure-4 stretch:**
+1. Lie on back
+2. Ankle on opposite knee
+3. Pull bottom leg toward chest
+4. Hold 60 seconds each side
+
+**Cossack squat:**
+1. Wide stance
+2. Shift to one side, bending that knee
+3. Other leg stays straight
+4. Go as deep as mobility allows
+5. 8-10 reps each side
+
+### Internal Rotation
+
+**Internal rotation stretch:**
+1. Sit on floor, one leg bent in front, one bent behind
+2. Lean toward the back leg
+3. Feel stretch in outer hip
+4. Hold 30-60 seconds each side
+
+**Book openers (for hips):**
+1. Lie on side, knees bent 90 degrees
+2. Open top knee toward ceiling, keeping feet together
+3. Then close and go other direction
+4. 10-15 reps each side
+
+### Dynamic Mobility
+
+**Hip circles:**
+1. On hands and knees
+2. Circle knee forward, out, back, in
+3. 10 circles each direction each leg
+
+**Leg swings:**
+1. Hold support, stand on one leg
+2. Swing other leg forward and back
+3. Then side to side
+4. 15-20 swings each direction
+
+**World's greatest stretch:**
+1. Lunge position
+2. Plant hand inside front foot
+3. Rotate other arm toward ceiling
+4. Drop hip toward floor
+5. 5-8 reps each side
+
+### Loaded Mobility
+
+**Goblet squat with pause:**
+1. Hold weight at chest
+2. Squat to bottom position
+3. Hold 3-5 seconds, push knees out
+4. Stand
+5. 8-10 reps
+
+**Squat to stand:**
+1. Hinge down, grab toes
+2. Squat down, keeping hold of toes
+3. Lift chest, straighten back
+4. Stand up, maintaining hold
+5. Repeat 8-10 times
+
+## Programming
+
+### Daily Mobility (5-10 minutes)
+
+Pick 2-3 exercises targeting your specific limitations:
+- 60-90 seconds each stretch
+- Include one dynamic movement
+
+### Pre-Squat Warm-Up
+
+1. Hip circles: 10 each direction
+2. Leg swings: 15 each direction
+3. Deep squat hold: 60 seconds
+4. World's greatest stretch: 5 each side
+5. Goblet squat: 8-10 reps
+
+### Dedicated Mobility Session (15-20 minutes, 2-3x/week)
+
+Work through all major hip movements:
+- Hip flexion work
+- External rotation work
+- Internal rotation work
+- Dynamic movements
+- Loaded mobility
+
+## Addressing Specific Issues
+
+### "I can't keep my heels down"
+
+Often an ankle issue more than hip. See ankle mobility article. But hip flexion limitations also contribute—when hips can't flex enough, you fall forward.
+
+### "My knees cave in"
+
+Weakness more than mobility. Strengthen glutes (clamshells, monster walks). Also work external rotation mobility.
+
+### "I get a pinch in the front of my hip"
+
+Could be hip impingement (femoroacetabular impingement). Try:
+- Wider stance
+- More toe-out
+- Don't force depth
+- See professional if persistent
+
+### "My back rounds at the bottom"
+
+Hip flexion or hamstring limitation. Work on:
+- Hip flexion mobility
+- Hamstring flexibility
+- Don't go deeper than you can with neutral spine
+
+## Realistic Expectations
+
+Hip mobility takes time to improve:
+- Soft tissue restrictions: 2-4 weeks
+- Joint capsule restrictions: 6-12 weeks
+- Long-standing limitations: 3-6 months
+
+Some limitations are structural (bone shape) and won't change. Work within your anatomy.
+
+Consistency matters most. 10 minutes daily beats 60 minutes once a week.
+
+## The Bottom Line
+
+Squatting deeper requires hip mobility in flexion, external rotation, and sometimes internal rotation. Assess where you're limited, target those areas, and be consistent.
+
+Don't force depth you don't have the mobility for. Build the mobility, then earn the depth. Your squat—and your hips—will thank you.
+    `
+  },
   'thoracic-spine-mobility': {
     title: 'Thoracic Mobility: The Missing Link in Your Movement',
     date: '2026-03-04',
