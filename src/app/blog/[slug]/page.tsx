@@ -13,6 +13,679 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'lower-back-pain-exercises': {
+    title: 'Lower Back Pain: The Best Exercises for Relief and Prevention',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read',
+    content: `
+## The Universal Problem
+
+Low back pain affects approximately 80% of adults at some point. It's the leading cause of disability worldwide and one of the most common reasons for missed work.
+
+The good news: most low back pain improves with movement and exercise. The challenge is knowing what to do—and what to avoid.
+
+## Important First: Red Flags
+
+Before starting any exercise program, rule out serious conditions. See a doctor if you have:
+
+- Pain following trauma (fall, accident)
+- Numbness in the groin or saddle area
+- Loss of bladder or bowel control
+- Progressive leg weakness
+- Unexplained weight loss
+- Pain that wakes you from sleep
+- History of cancer with new back pain
+- Fever with back pain
+
+These require medical evaluation before exercise.
+
+## Why Exercise Works
+
+Exercise helps back pain through multiple mechanisms:
+
+- **Strengthens supporting muscles** — takes load off spinal structures
+- **Improves flexibility** — reduces stiffness and muscle tension
+- **Increases blood flow** — promotes healing
+- **Reduces fear-avoidance** — builds confidence in movement
+- **Decreases inflammation** — through systemic effects
+- **Improves posture** — reduces sustained stress on tissues
+
+The worst thing for most back pain? Bed rest. Movement is medicine.
+
+## Phase 1: Acute Pain Relief (Days 1-7)
+
+When back pain first strikes, gentle movement is key. Don't push through significant pain, but don't stop moving entirely.
+
+**Pelvic tilts:**
+1. Lie on back, knees bent, feet flat
+2. Flatten lower back against floor by tilting pelvis
+3. Hold 5 seconds, release
+4. Repeat 10-15 times
+
+**Knee-to-chest stretch:**
+1. Lie on back, knees bent
+2. Pull one knee toward chest
+3. Hold 20-30 seconds
+4. Repeat other side
+5. Can do both knees together
+
+**Supported lumbar rotation:**
+1. Lie on back, knees bent, feet flat
+2. Keeping shoulders down, let knees fall to one side
+3. Hold 20-30 seconds
+4. Repeat other side
+
+**Walking:**
+Short, frequent walks. Start with 5-10 minutes, multiple times daily.
+
+**Cat-cow stretches:**
+1. On hands and knees
+2. Arch back up like a cat, tuck chin
+3. Drop belly, lift head (cow)
+4. Move slowly between positions
+5. Repeat 10-15 times
+
+## Phase 2: Mobility and Stability (Weeks 1-4)
+
+As acute pain settles, add exercises that build stability while improving mobility.
+
+**Bird-dog:**
+1. On hands and knees, spine neutral
+2. Extend one arm forward, opposite leg back
+3. Keep hips level, don't rotate
+4. Hold 5 seconds
+5. Alternate sides, 10 reps each
+
+**Dead bug:**
+1. Lie on back, arms toward ceiling, knees bent 90 degrees
+2. Lower one arm overhead while extending opposite leg
+3. Keep lower back pressed into floor
+4. Return and alternate
+5. 10 reps each side
+
+**Glute bridge:**
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes and lift hips
+3. Don't arch lower back at top
+4. Hold 3-5 seconds
+5. 2-3 sets of 10-15
+
+**Side plank (modified):**
+1. Lie on side, prop on forearm
+2. Knees bent, lift hips off floor
+3. Keep body in straight line from knees to shoulders
+4. Hold 15-30 seconds each side
+5. Progress to full side plank on feet
+
+**Hip flexor stretch:**
+1. Half-kneeling position
+2. Tuck tailbone under (flatten lower back)
+3. Lean forward gently
+4. Hold 30 seconds each side
+
+## Phase 3: Strength Building (Weeks 4+)
+
+Once you're moving well, progressive strengthening prevents recurrence.
+
+**Plank progression:**
+1. Start with modified plank (on knees)
+2. Progress to full plank
+3. Progress to longer holds or variations
+4. Goal: 60 seconds with good form
+
+**Glute bridge progression:**
+1. Two-leg bridge → single-leg bridge
+2. Add weight across hips
+3. Elevated feet (on bench or step)
+
+**Squat pattern:**
+1. Bodyweight squats with good form
+2. Focus on sitting back, keeping chest up
+3. Only go as deep as you can with neutral spine
+4. Progress weight gradually
+
+**Hip hinge (deadlift pattern):**
+1. Start with Romanian deadlift, light weight
+2. Hinge at hips, slight knee bend
+3. Keep back flat, not rounded
+4. This pattern is protective when done correctly
+
+**Farmer's carry:**
+1. Hold weights at sides
+2. Walk with upright posture
+3. Engages entire core without spinal loading
+4. Great functional exercise
+
+## What to Avoid (At Least Initially)
+
+Some exercises can aggravate back pain, especially during acute phases:
+
+**Sit-ups and crunches:**
+High spinal flexion load. Planks are safer for core strength.
+
+**Straight-leg deadlifts with heavy weight:**
+High-risk if form breaks down. Build up gradually.
+
+**Leg raises (lying flat):**
+Can hyperextend the lower back. Modify by bending knees or supporting lower back.
+
+**Toe touches:**
+Loaded spinal flexion. Hip hinge pattern is safer.
+
+**High-impact activities:**
+Running, jumping—add back gradually after pain resolves.
+
+**Exercises through pain:**
+Mild discomfort is okay; sharp pain is not. Back off and modify.
+
+## Movement Principles
+
+Regardless of specific exercises, these principles guide safe back training:
+
+**Maintain neutral spine:**
+Neither overly arched nor rounded during exercises.
+
+**Brace before loading:**
+Engage core before lifting or moving weight.
+
+**Hip hinge, don't back bend:**
+Bend at hips, not through the spine.
+
+**Progress gradually:**
+Don't jump to heavy weights or advanced exercises too quickly.
+
+**Variety matters:**
+Your back needs movement in all directions—flexion, extension, rotation, lateral bend.
+
+## Specific Conditions
+
+Different back problems may benefit from different approaches:
+
+**Disc-related pain (flexion intolerant):**
+- Extension exercises often help (McKenzie method)
+- Avoid prolonged sitting and forward bending
+- Focus on neutral spine during activities
+
+**Stenosis (extension intolerant):**
+- Flexion-based exercises often help
+- Cycling, walking uphill
+- Avoid prolonged standing and extension
+
+**Muscle strain:**
+- Gentle movement, gradual loading
+- Usually resolves in 2-6 weeks
+- Progress through all phases
+
+**Chronic nonspecific back pain:**
+- General exercise is most effective
+- Cardio, strength training, flexibility
+- Address fear-avoidance and build confidence
+
+## How Long Until It Works?
+
+- **Acute back pain:** Usually improves within 2-6 weeks
+- **Subacute (6-12 weeks):** May take 2-3 months of consistent exercise
+- **Chronic (>3 months):** Expect 3-6 months; focus on function over pain
+
+Exercise for back pain is a long game. Consistency beats intensity.
+
+## Prevention
+
+Once recovered, maintain your gains:
+
+- Regular exercise (aim for 150+ minutes/week)
+- Core and hip strengthening 2-3x weekly
+- Avoid prolonged static positions
+- Lift with good mechanics
+- Maintain healthy weight
+- Move frequently throughout the day
+
+## The Bottom Line
+
+Exercise is the most effective treatment for most low back pain—more effective than rest, medications, or passive treatments. Start gentle, progress gradually, and make movement a permanent part of your life.
+
+The goal isn't just pain relief. It's building a resilient back that can handle whatever life throws at it.
+    `
+  },
+  'neck-pain-exercises-relief': {
+    title: 'Neck Pain: Exercises and Stretches That Actually Work',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Neck',
+    readTime: '7 min read',
+    content: `
+## The Modern Epidemic
+
+Neck pain has skyrocketed in the digital age. Hours spent hunched over screens push the head forward, straining muscles and joints. Add stress-related tension, poor sleep positions, and sedentary lifestyles, and it's no wonder necks are suffering.
+
+The good news: most neck pain responds well to exercise and lifestyle modifications.
+
+## When to See a Doctor
+
+First, rule out serious problems. Seek medical evaluation if you have:
+
+- Pain following trauma (car accident, fall)
+- Weakness in arms or hands
+- Numbness or tingling that's spreading
+- Difficulty with balance or coordination
+- Severe headaches with neck stiffness and fever
+- Pain that's getting progressively worse
+
+These need professional assessment before starting exercises.
+
+## Understanding Neck Pain
+
+Common causes include:
+
+**Muscle tension and strain:**
+The most common culprit. Tight, overworked muscles from poor posture, stress, or sustained positions.
+
+**Poor posture (forward head):**
+Every inch your head moves forward adds 10+ pounds of effective weight on your neck muscles.
+
+**Cervical disc problems:**
+Bulging or herniated discs can cause neck pain and arm symptoms.
+
+**Degenerative changes:**
+Arthritis, bone spurs, disc degeneration—normal aging that sometimes causes symptoms.
+
+**Muscle weakness:**
+Weak deep neck flexors and upper back muscles fail to support proper head position.
+
+## Phase 1: Pain Relief (Days 1-7)
+
+For acute neck pain, start with gentle movements to reduce stiffness without aggravating symptoms.
+
+**Gentle range of motion:**
+- Turn head left and right (within comfortable range)
+- Tilt ear toward shoulder (both sides)
+- Look up and down gently
+- 5-10 repetitions each direction, several times daily
+- Move slowly; don't push into pain
+
+**Chin tucks (basic):**
+1. Sit or stand with good posture
+2. Draw chin straight back, making a "double chin"
+3. Hold 5 seconds
+4. Repeat 10 times, several times daily
+5. This is the most important exercise for neck pain
+
+**Upper trapezius stretch:**
+1. Sit tall, hold bottom of chair with one hand
+2. Tilt head away from that side
+3. Gently increase stretch by leaning away
+4. Hold 30 seconds, repeat both sides
+
+**Levator scapulae stretch:**
+1. Look toward your armpit
+2. Use hand on back of head to gently increase stretch
+3. You'll feel this in the back/side of your neck
+4. Hold 30 seconds each side
+
+**Heat application:**
+Moist heat for 15-20 minutes helps relax tense muscles.
+
+## Phase 2: Restore Mobility (Weeks 1-3)
+
+Once acute pain settles, work on restoring full range of motion and beginning strengthening.
+
+**Thoracic spine mobility:**
+Your upper back being stiff makes your neck work harder.
+
+1. Sit in chair, hands behind head
+2. Arch upper back over the chair back
+3. Rotate left and right
+4. Repeat 10 times each direction
+
+**Pec stretches:**
+Tight chest muscles pull shoulders forward, straining the neck.
+
+1. Doorway stretch: forearm on door frame, lean through
+2. Hold 30 seconds each side
+3. Try different arm heights (low, middle, high)
+
+**Chin tuck progression:**
+1. Basic chin tucks (seated, standing)
+2. Add resistance: place fingers on chin, push while tucking
+3. Against wall: back against wall, chin tuck to touch wall with back of head
+4. 2-3 sets of 10
+
+**Neck rotation with chin tuck:**
+1. Perform chin tuck
+2. Maintaining the tuck, rotate head left and right
+3. 10 repetitions each side
+
+## Phase 3: Strengthen (Weeks 2+)
+
+Weak muscles can't maintain good posture. Building strength is key to lasting relief.
+
+**Deep neck flexor strengthening:**
+
+Supine chin tuck:
+1. Lie on back without pillow
+2. Tuck chin, pressing back of neck toward floor
+3. Hold 10 seconds
+4. 3 sets of 10
+
+Chin tuck with head lift:
+1. Lie on back
+2. Tuck chin, then lift head 1 inch off floor
+3. Hold 5-10 seconds
+4. 3 sets of 10
+5. Progression: longer holds, more repetitions
+
+**Scapular strengthening:**
+
+Rows:
+1. Cable, band, or dumbbell rows
+2. Squeeze shoulder blades together
+3. 3 sets of 12-15
+
+Face pulls:
+1. Cable or band at face height
+2. Pull toward face, hands ending near ears
+3. Squeeze shoulder blades
+4. 3 sets of 15
+
+Wall angels:
+1. Back against wall, arms in "goalpost" position
+2. Slide arms up and down, keeping contact with wall
+3. 2-3 sets of 10
+
+Prone Y-T-W:
+1. Lie face down on floor or bench
+2. Lift arms in Y position (overhead at 45 degrees)
+3. Lift arms in T position (straight out)
+4. Lift arms in W position (elbows bent)
+5. 2 sets of 10 each position
+
+**Resistance band neck exercises:**
+1. Loop band around head
+2. Resist in each direction: forward, backward, left, right
+3. Hold 5-10 seconds each
+4. 2 sets of 8-10 each direction
+
+## Posture Correction
+
+Exercise alone isn't enough—you need to address daily habits.
+
+**Workstation setup:**
+- Screen at eye level
+- Keyboard and mouse at elbow height
+- Feet flat on floor
+- Lumbar support in chair
+- Monitor arm's length away
+
+**Phone use:**
+- Bring phone up to eye level instead of dropping head down
+- Use speaker or headset for calls
+- Take frequent breaks from scrolling
+
+**Sleep position:**
+- Pillow that keeps neck neutral (not too high or flat)
+- Avoid stomach sleeping
+- Consider cervical pillow if side sleeping
+
+**Movement breaks:**
+- Every 30-60 minutes, look away from screen
+- Roll shoulders, turn head, stretch briefly
+- Stand and walk if possible
+
+## Stress Management
+
+Neck tension is often stress-related. Consider:
+
+- Breathing exercises
+- Meditation or mindfulness
+- Regular aerobic exercise
+- Adequate sleep
+- Jaw relaxation (clenching contributes to neck tension)
+
+## What to Avoid
+
+- **Aggressive stretching or cracking:** Gentle is better
+- **Looking down for prolonged periods:** Modify your setup instead
+- **Sleeping on stomach:** Forces neck rotation for hours
+- **Heavy bags on one shoulder:** Distribute weight evenly
+- **Ignoring persistent symptoms:** Get checked out
+
+## Timeline
+
+- Acute strain: 1-3 weeks with appropriate care
+- Chronic neck pain: 6-12 weeks of consistent exercise
+- Postural changes: Ongoing commitment, but improvements within weeks
+
+## The Bottom Line
+
+Neck pain is usually a combination of weakness, tightness, and poor habits. Address all three:
+
+1. Stretch what's tight (upper traps, pecs, levator)
+2. Strengthen what's weak (deep flexors, scapular muscles)
+3. Fix daily posture (workstation, phone, sleep)
+
+Chin tucks are your foundation—do them daily, forever. Build strength in your upper back. And remember: the best posture is your next posture. Move often.
+    `
+  },
+  'core-exercises-back-pain': {
+    title: 'Core Exercises for Back Pain: Build Stability Without Making It Worse',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Core',
+    readTime: '7 min read',
+    content: `
+## The Core-Back Connection
+
+You've probably heard that a weak core causes back pain. There's truth to this—but it's more nuanced than "do more sit-ups."
+
+The core isn't just your abs. It's a cylinder of muscles surrounding your spine: abdominals in front, obliques on the sides, back muscles behind, diaphragm on top, and pelvic floor at the bottom. Together, they create a stable foundation for all movement.
+
+When this system is weak or uncoordinated, your spine takes more stress than it should.
+
+## Why Sit-Ups Don't Work (and May Hurt)
+
+Traditional sit-ups and crunches are poor choices for back pain:
+
+- **High spinal flexion load:** Each rep compresses the discs
+- **Train movement, not stability:** The core's main job is resisting movement, not creating it
+- **Often done with poor form:** Neck strain, hip flexor dominance
+- **Don't transfer to real life:** When do you need to curl your spine against resistance?
+
+Research shows sit-ups don't protect the spine better than alternatives, and they carry more risk.
+
+## What the Core Actually Does
+
+Your core muscles serve three main functions:
+
+**Anti-extension:** Prevent excessive arching (planks target this)
+**Anti-rotation:** Prevent unwanted twisting (Pallof press, bird-dog)
+**Anti-lateral flexion:** Prevent side bending (side planks, suitcase carries)
+
+Effective core training means training all three functions—not just flexion (crunches).
+
+## Phase 1: Foundation (Weeks 1-2)
+
+Start here if you have active back pain or haven't trained core in a while.
+
+**Breathing and activation:**
+
+Diaphragmatic breathing:
+1. Lie on back, knees bent
+2. Hand on belly, hand on chest
+3. Breathe so belly rises, chest stays quiet
+4. Exhale fully, feel abs engage naturally
+5. 10 breaths, 2-3 times daily
+
+Abdominal bracing:
+1. Same position
+2. Tighten abs as if bracing for a punch
+3. Don't hold breath; breathe normally while braced
+4. Hold 10 seconds, repeat 10 times
+
+**Pelvic tilts:**
+1. Lie on back, knees bent
+2. Flatten lower back to floor (posterior tilt)
+3. Arch lower back away from floor (anterior tilt)
+4. Find neutral (slight natural curve)
+5. 15-20 repetitions
+
+**Dead bug (basic):**
+1. Lie on back, arms toward ceiling, knees bent 90 degrees
+2. Press lower back into floor
+3. Slowly lower one heel to tap floor, return
+4. Alternate legs, keeping lower back pressed down
+5. If back arches, you've gone too far
+6. 10 reps each side
+
+**Bird-dog (basic):**
+1. On hands and knees, spine neutral
+2. Extend one arm forward, hold 5 seconds
+3. Return, extend one leg back, hold 5 seconds
+4. Keep hips and shoulders level—no rotation
+5. 10 reps each limb
+
+## Phase 2: Build Stability (Weeks 2-4)
+
+Progress when Phase 1 exercises feel easy with perfect form.
+
+**Plank:**
+1. Forearms on floor, feet together
+2. Lift hips so body is straight from head to heels
+3. Don't let hips sag or pike up
+4. Squeeze glutes, brace abs
+5. Start with 15-30 seconds, progress to 60+
+6. Quality over quantity—stop when form breaks
+
+**Side plank (modified to full):**
+1. Lie on side, forearm on floor
+2. Modified: knees bent, lift hips
+3. Full: straight legs, stack feet
+4. Keep body in straight line
+5. 20-30 seconds each side, progress from there
+
+**Bird-dog (full):**
+1. Extend opposite arm and leg simultaneously
+2. Hold 5 seconds at end range
+3. 10 reps each side
+4. No rotation—balance a cup of water on your back
+
+**Dead bug (full):**
+1. Arms toward ceiling, knees bent 90 degrees
+2. Extend opposite arm overhead, opposite leg out
+3. Keep lower back pressed to floor
+4. Return and alternate
+5. 10 reps each side
+
+**Glute bridge:**
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes, lift hips
+3. Don't hyperextend lower back at top
+4. Hold 3-5 seconds at top
+5. 15-20 reps
+
+## Phase 3: Load and Challenge (Weeks 4+)
+
+Once you've mastered the basics, add load and complexity.
+
+**Pallof press (anti-rotation):**
+1. Cable or band at chest height
+2. Stand sideways to anchor, hold handle at chest
+3. Press hands straight out, resist rotation
+4. Hold 3-5 seconds, return
+5. 10 reps each side
+
+**Farmer's carry:**
+1. Hold heavy weights at sides
+2. Walk with upright posture
+3. Start with 30-second walks
+4. Progress by adding weight or distance
+
+**Suitcase carry (unilateral):**
+1. Weight in one hand only
+2. Walk without leaning to either side
+3. Core must resist lateral flexion
+4. 30 seconds each side
+
+**Plank variations:**
+- Plank with arm reach
+- Plank with leg lift
+- Body saw (slide forward and back)
+- Plank to push-up
+
+**Cable chops and lifts:**
+1. Cable high or low
+2. Pull diagonally across body
+3. Rotate through hips, not spine
+4. 10-12 reps each direction
+
+**Loaded carries (progression):**
+- Front rack carry
+- Overhead carry
+- Mixed carry (one overhead, one at side)
+
+## Exercises to Modify or Avoid
+
+**Sit-ups and crunches:**
+Replace with dead bugs and planks.
+
+**Russian twists:**
+High rotation load on spine. Use Pallof press instead.
+
+**Superman holds:**
+Can hyperextend lower back. Use bird-dogs instead.
+
+**Leg raises (flat on back):**
+Can strain lower back if core isn't strong enough. Bend knees or support lower back.
+
+**Any exercise that causes back pain:**
+Pain is feedback. Modify or choose a different exercise.
+
+## Programming
+
+For back pain prevention and core strength:
+
+**Frequency:** 3-4 times per week
+**Volume:** 2-3 sets per exercise
+**Exercises:** Choose 3-4 covering all functions (anti-extension, anti-rotation, anti-lateral flexion)
+
+**Sample routine:**
+1. Dead bug: 2 x 10 each side
+2. Plank: 2 x 30-60 seconds
+3. Side plank: 2 x 20-30 seconds each side
+4. Bird-dog: 2 x 10 each side
+5. Pallof press: 2 x 10 each side
+
+**Progress by:**
+- Adding time (planks)
+- Adding reps
+- Adding load (carries, cable work)
+- Adding complexity (limb movement, unstable surface)
+
+## Beyond Isolated Core Work
+
+The best core training happens during compound movements:
+
+- Squats and deadlifts require massive core stability
+- Overhead presses challenge anti-extension
+- Single-leg work demands anti-rotation and balance
+- Loaded carries integrate everything
+
+As you progress, dedicated core work becomes supplementary to compound lifting.
+
+## The Bottom Line
+
+Effective core training for back pain means:
+
+1. Skip the sit-ups—train stability, not flexion
+2. Train all functions: anti-extension, anti-rotation, anti-lateral flexion
+3. Progress gradually from basic to loaded
+4. Integrate core stability into compound movements
+5. Consistency beats intensity—do a little every day
+
+A strong, coordinated core protects your spine during everything you do. Build it wisely, and your back will thank you.
+    `
+  },
   'plantar-fasciitis-treatment-exercises': {
     title: 'Plantar Fasciitis: Why Your Heel Hurts and How to Fix It',
     date: '2026-03-04',

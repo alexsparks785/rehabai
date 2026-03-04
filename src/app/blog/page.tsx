@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'lower-back-pain-exercises',
+    title: 'Lower Back Pain: The Best Exercises for Relief and Prevention',
+    excerpt: '80% of adults experience low back pain. Here are the exercises that actually help—and the ones that make it worse.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'neck-pain-exercises-relief',
+    title: 'Neck Pain: Exercises and Stretches That Actually Work',
+    excerpt: 'Stiff neck? Tension headaches? Here\'s how to relieve neck pain and prevent it from coming back.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Neck',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'core-exercises-back-pain',
+    title: 'Core Exercises for Back Pain: Build Stability Without Making It Worse',
+    excerpt: 'A strong core protects your back—but the wrong exercises can hurt it. Here\'s how to build core stability safely.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Core',
+    readTime: '7 min read'
+  },
+  {
     slug: 'plantar-fasciitis-treatment-exercises',
     title: 'Plantar Fasciitis: Why Your Heel Hurts and How to Fix It',
     excerpt: 'That stabbing pain in your heel every morning? It\'s probably plantar fasciitis—and it\'s fixable. Here\'s what actually works.',
