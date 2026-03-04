@@ -16,6 +16,51 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'bursitis-causes-treatment',
+    title: 'Bursitis: What It Is, Why It Happens, and How to Treat It',
+    excerpt: 'Hip, shoulder, or knee bursitis causing pain? Here\'s what\'s actually inflamed and how to calm it down for good.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'muscle-soreness-vs-injury',
+    title: 'Muscle Soreness vs. Injury: How to Tell the Difference',
+    excerpt: 'Is that post-workout ache normal soreness or something worse? Here\'s how to know when to push through and when to back off.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-long-see-fitness-results',
+    title: 'How Long Does It Take to See Results From Exercise?',
+    excerpt: 'You\'ve started working out—when will you see changes? Here\'s the realistic timeline for strength, muscle, and fitness gains.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'active-recovery-rest-days',
+    title: 'Active Recovery: What to Do on Rest Days',
+    excerpt: 'Rest days don\'t mean sitting on the couch. Here\'s how active recovery speeds healing and keeps you moving.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'strength-training-over-50',
+    title: 'Strength Training Over 50: It\'s Never Too Late to Start',
+    excerpt: 'Think you\'re too old to lift weights? Science says otherwise. Here\'s how to build strength safely at any age.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read'
+  },
+  {
     slug: 'strength-training-beginners-guide',
     title: 'Strength Training for Beginners: How to Start Lifting Weights',
     excerpt: 'New to strength training? Here\'s everything you need to know to start building muscle safely and effectively.',

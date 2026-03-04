@@ -13,6 +13,910 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'bursitis-causes-treatment': {
+    title: 'Bursitis: What It Is, Why It Happens, and How to Treat It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## What Is a Bursa?
+
+Throughout your body, small fluid-filled sacs called bursae cushion the spaces between bones, tendons, and muscles. They reduce friction and allow smooth movement.
+
+When a bursa becomes inflamed—bursitis—it swells, causes pain, and makes movement uncomfortable. It's one of the most common causes of joint pain.
+
+## Common Types of Bursitis
+
+### Hip Bursitis (Trochanteric Bursitis)
+
+**Location:** Outside of the hip, over the bony prominence (greater trochanter).
+
+**Symptoms:**
+- Pain on the outside of the hip
+- Pain lying on affected side
+- Pain walking, climbing stairs
+- Tenderness when pressing on the area
+
+**Common causes:**
+- Repetitive activities (running, cycling)
+- Prolonged standing
+- IT band tightness
+- Hip muscle weakness
+- Direct trauma (fall)
+
+### Shoulder Bursitis (Subacromial Bursitis)
+
+**Location:** Under the roof of the shoulder (acromion), above the rotator cuff.
+
+**Symptoms:**
+- Pain with overhead reaching
+- Pain sleeping on affected side
+- Pain on side/front of shoulder
+- Weakness with arm elevation
+
+**Common causes:**
+- Repetitive overhead activities
+- Shoulder impingement
+- Rotator cuff weakness
+- Poor posture
+
+### Knee Bursitis
+
+**Prepatellar bursitis:** Front of kneecap. Often from kneeling ("housemaid's knee").
+
+**Pes anserine bursitis:** Inside of knee, below joint. Common in runners and those with knee arthritis.
+
+**Symptoms:**
+- Localized swelling
+- Pain with pressure or movement
+- Warmth over the area
+
+## What Causes Bursitis?
+
+**Repetitive motion:** Same movement over and over irritates the bursa.
+
+**Pressure:** Prolonged pressure on a bursa (kneeling, leaning on elbows).
+
+**Trauma:** Direct hit to the area.
+
+**Muscle imbalances:** Weakness or tightness changing joint mechanics.
+
+**Age:** Bursae become less resilient over time.
+
+**Other conditions:** Arthritis, gout, infection can cause or worsen bursitis.
+
+## Treatment
+
+### Acute Phase (First 1-2 Weeks)
+
+**Rest from aggravating activities:**
+- Avoid the specific movements or positions that cause pain
+- Don't stop all movement—gentle activity is fine
+
+**Ice:**
+- 15-20 minutes several times daily
+- Reduces inflammation and pain
+
+**Compression:**
+- For accessible areas (knee)
+- Helps reduce swelling
+
+**NSAIDs:**
+- Ibuprofen or naproxen can help
+- Short-term use (1-2 weeks)
+- Check with doctor if you have contraindications
+
+**Protect the area:**
+- Knee pads if you must kneel
+- Cushion when lying on affected hip
+- Avoid direct pressure
+
+### Rehab Phase (Weeks 2-6+)
+
+Once acute inflammation settles, address the underlying causes.
+
+**Hip bursitis:**
+- Strengthen glutes (bridges, clamshells, side-lying leg raises)
+- Stretch IT band and hip flexors
+- Address running/walking mechanics
+- Gradual return to activity
+
+**Shoulder bursitis:**
+- Rotator cuff strengthening
+- Scapular stability exercises
+- Improve posture
+- Address impingement factors
+
+**Knee bursitis:**
+- Strengthen quadriceps and hamstrings
+- Address any biomechanical issues
+- Avoid prolonged kneeling
+- Use protection if kneeling is necessary
+
+## Medical Treatment
+
+If conservative treatment fails after 4-6 weeks:
+
+**Corticosteroid injection:**
+- Reduces inflammation quickly
+- Provides temporary relief
+- Should be combined with rehab
+- Limited number of injections recommended
+
+**Aspiration:**
+- For significant swelling
+- Removes excess fluid
+- Can be combined with injection
+
+**Physical therapy:**
+- Guided exercise program
+- Manual therapy
+- Modalities for pain relief
+
+**Surgery:**
+- Rare, last resort
+- For chronic, refractory cases
+- Removal of the bursa
+
+## When to See a Doctor
+
+- Severe pain or rapid swelling
+- Fever with joint pain (possible infection)
+- Redness and warmth over the area
+- No improvement after 2-3 weeks
+- Recurrent episodes
+- Significant functional limitation
+
+**Red flag:** Septic (infected) bursitis is a medical emergency. Signs include fever, severe pain, spreading redness, and feeling unwell.
+
+## Prevention
+
+- Strengthen muscles around commonly affected joints
+- Maintain flexibility
+- Use proper form during exercise
+- Take breaks from repetitive activities
+- Use padding when kneeling or leaning
+- Address biomechanical issues early
+
+## The Bottom Line
+
+Bursitis is painful but usually responds well to conservative treatment. The key is:
+
+1. Calm the acute inflammation (rest, ice, NSAIDs)
+2. Address underlying causes (strengthen, stretch, modify activities)
+3. Return gradually to full activity
+4. Prevent recurrence with ongoing maintenance
+
+Don't just wait for it to go away—treat the inflammation AND fix why it happened.
+    `
+  },
+  'muscle-soreness-vs-injury': {
+    title: 'Muscle Soreness vs. Injury: How to Tell the Difference',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Post-Workout Question
+
+You finished a hard workout. The next day, you're sore. Is this the "good" kind of soreness—proof you worked hard? Or is something actually wrong?
+
+Knowing the difference between normal soreness and injury prevents two mistakes: pushing through something serious, or unnecessarily avoiding exercise.
+
+## Normal Muscle Soreness (DOMS)
+
+**DOMS = Delayed Onset Muscle Soreness**
+
+This is the familiar ache that shows up 24-72 hours after exercise, especially when you've done something new or challenging.
+
+**Characteristics of DOMS:**
+- Affects the muscles you worked
+- Develops gradually (peaks at 24-48 hours)
+- Feels like general achiness, stiffness, tenderness
+- Both sides equally affected (if you worked both)
+- Improves with gentle movement
+- Resolves within 3-5 days
+- No sharp pain
+
+**What causes it:**
+Microscopic muscle damage from eccentric (lengthening) contractions. This damage triggers inflammation and repair—ultimately making muscle stronger.
+
+**Common triggers:**
+- New exercises
+- Increased intensity or volume
+- Eccentric emphasis (lowering weights, downhill running)
+- Long breaks from training
+
+## Signs of Injury
+
+Not all post-workout pain is DOMS. Warning signs that something more serious is happening:
+
+**Sharp or localized pain:**
+DOMS is diffuse—affecting the whole muscle. Injury pain is often sharp and you can point to exactly where it hurts.
+
+**Pain during exercise:**
+DOMS shouldn't affect your workout much (maybe the first few reps). If pain worsens during exercise, that's concerning.
+
+**One-sided pain (when you trained both sides):**
+If you did squats and only one leg hurts, that's a red flag.
+
+**Swelling or bruising:**
+Visible swelling, bruising, or deformity indicates tissue damage beyond normal soreness.
+
+**Joint pain:**
+DOMS affects muscles. Pain in or around joints—knees, shoulders, elbows—is different.
+
+**Pain that doesn't improve:**
+DOMS peaks at 24-48 hours then improves. Pain that stays the same or worsens needs attention.
+
+**Pain at rest:**
+Significant pain while sitting or lying down suggests injury.
+
+**Decreased range of motion:**
+Some stiffness is normal with DOMS. Significant limitation or locking suggests injury.
+
+**Immediate pain during exercise:**
+If something hurt at the moment it happened (felt a pop, sharp pain), that's acute injury.
+
+## The Comparison
+
+| Feature | DOMS | Injury |
+|---------|------|--------|
+| Onset | 24-72 hours after | Often immediate or same day |
+| Location | Whole muscle, diffuse | Localized, can point to it |
+| Type of pain | Aching, tender | Sharp, stabbing |
+| Symmetry | Both sides if trained both | Often one side |
+| With movement | Improves with gentle movement | May worsen |
+| Duration | 3-5 days, improving | Persists or worsens |
+| Swelling | No | Often yes |
+
+## What to Do About DOMS
+
+**Keep moving:**
+Light activity increases blood flow and speeds recovery. Don't skip your next workout entirely (unless you're extremely sore).
+
+**Active recovery:**
+Walking, easy cycling, swimming, stretching.
+
+**Hydrate and eat well:**
+Adequate protein supports muscle repair.
+
+**Sleep:**
+Recovery happens during sleep.
+
+**Gentle stretching:**
+Light stretching may help. Don't push into pain.
+
+**Time:**
+It will resolve on its own within a few days.
+
+**What doesn't help much:**
+Ice, NSAIDs—they may reduce pain but don't speed healing. Some research suggests they might even slow adaptation.
+
+## What to Do If You Suspect Injury
+
+**Stop the aggravating activity:**
+Don't push through genuine injury.
+
+**RICE for acute injuries:**
+Rest, Ice, Compression, Elevation—traditional first aid for soft tissue injuries.
+
+**Assess severity:**
+- Mild (grade 1): Continue modified activity
+- Moderate (grade 2): Rest from aggravating activities, may need professional guidance
+- Severe (grade 3): Medical attention needed
+
+**Seek professional help if:**
+- Severe pain
+- Significant swelling
+- Inability to use the body part
+- Pain persists beyond a week
+- Symptoms worsen
+
+## Building Tolerance
+
+You can minimize DOMS while still making progress:
+
+**Progress gradually:**
+Don't double your workout overnight. Increase volume and intensity by 10% or less per week.
+
+**Train consistently:**
+The more you train, the less DOMS you'll experience from familiar exercises.
+
+**Include eccentric training:**
+Regularly including eccentric work builds tolerance.
+
+**Don't avoid soreness-inducing exercise:**
+Some DOMS is fine and part of adaptation. You don't need to prevent it entirely.
+
+## The Bottom Line
+
+Some post-workout soreness is normal—even a sign you challenged yourself. But not all pain is created equal.
+
+**Normal DOMS:**
+- Diffuse muscle aching
+- 24-72 hours after exercise
+- Improves within 3-5 days
+- Gets better with movement
+
+**Likely injury:**
+- Sharp, localized pain
+- One side only
+- Swelling or bruising
+- Doesn't improve or worsens
+
+When in doubt, err on the side of caution. A few days of rest is better than making an injury worse.
+    `
+  },
+  'how-long-see-fitness-results': {
+    title: 'How Long Does It Take to See Results From Exercise?',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: `
+## The Impatience Problem
+
+You've started exercising. You're putting in the work. When will you actually see results?
+
+The fitness industry promises quick transformations. Reality is more nuanced—but also more encouraging than you might think. Changes happen faster than visible results.
+
+## Types of Results
+
+Different adaptations happen on different timelines:
+
+### Neural Adaptations (Fastest)
+
+**Timeline:** 1-4 weeks
+
+When you first start strength training, you get stronger before your muscles get bigger. Your nervous system learns to recruit muscle fibers more efficiently.
+
+**You'll notice:**
+- Exercises feel easier
+- You can lift more weight
+- Better coordination
+- Movements feel smoother
+
+### Cardiovascular Fitness
+
+**Timeline:** 2-6 weeks
+
+Your heart and lungs adapt relatively quickly to aerobic training.
+
+**You'll notice:**
+- Less out of breath during activity
+- Faster heart rate recovery
+- Can go longer or faster
+- Daily activities feel easier
+
+### Strength Gains
+
+**Timeline:** 4-8 weeks for measurable increases
+
+After neural adaptations, actual strength (force production) increases.
+
+**You'll notice:**
+- Consistent weight increases in the gym
+- Daily activities feel easier
+- More confident with physical tasks
+
+### Muscle Size (Hypertrophy)
+
+**Timeline:** 6-12 weeks for visible changes
+
+Building visible muscle takes the longest. The process is slow and cumulative.
+
+**Factors affecting timeline:**
+- Training program
+- Nutrition (protein, calories)
+- Sleep and recovery
+- Genetics
+- Starting point
+
+### Fat Loss
+
+**Timeline:** Varies widely based on caloric deficit
+
+Fat loss depends primarily on nutrition. Exercise supports the process but doesn't drive it alone.
+
+**Rough timeline:**
+- 0.5-1 lb per week is sustainable
+- Visual changes often noticed at 4-8 weeks
+- Significant transformation: 3-6 months
+
+### Flexibility
+
+**Timeline:** 2-4 weeks for initial improvements
+
+Regular stretching produces relatively quick gains in range of motion.
+
+**Maintenance:** Ongoing—flexibility is use-it-or-lose-it
+
+## Realistic Timelines
+
+### 2 Weeks
+
+- Feeling better mentally
+- More energy
+- Exercise feels slightly easier
+- Sleep may improve
+- **No visible changes likely**
+
+### 4 Weeks
+
+- Noticeable fitness improvements
+- Can do more reps or weight
+- Less soreness after workouts
+- Clothes may fit slightly different
+- **Subtle visual changes possible**
+
+### 8 Weeks
+
+- Measurable strength gains
+- Clear cardiovascular improvements
+- Some visible muscle definition (if body fat is reasonable)
+- Weight changes if nutrition is dialed in
+- **Others might start noticing**
+
+### 12 Weeks (3 Months)
+
+- Significant strength gains
+- Visible muscle development
+- Meaningful body composition changes
+- Fitness level notably improved
+- **Clear before/after difference**
+
+### 6 Months
+
+- Major transformation possible
+- Significant muscle gain or fat loss
+- Fitness vastly improved
+- Exercise is becoming a habit
+- **Dramatic visual difference**
+
+### 1 Year
+
+- Complete lifestyle shift
+- Peak newbie gains achieved
+- Strong foundation for continued progress
+- **Potentially unrecognizable from starting point**
+
+## Why You Don't See Changes
+
+If you've been training for weeks without results:
+
+**You're not training hard enough:**
+The stimulus must challenge your body. If workouts feel easy, they probably are.
+
+**You're not consistent:**
+Results require regular training. 2-3 times per week minimum for strength, 3-5 for cardio.
+
+**Nutrition isn't aligned:**
+You can't out-train a bad diet. Muscle needs protein; fat loss needs a caloric deficit.
+
+**You're not recovering:**
+Gains happen during recovery. Poor sleep or overtraining sabotages progress.
+
+**You're changing programs too often:**
+Stick with a program for 8-12 weeks minimum.
+
+**You're expecting too much too fast:**
+Refer to the timelines above. Patience is essential.
+
+## How to Track Progress
+
+**Weight scale:**
+Useful but misleading. Muscle gain can offset fat loss. Weight fluctuates daily.
+
+**Progress photos:**
+Take monthly photos in same lighting, same poses. Most reliable for visual changes.
+
+**Measurements:**
+Chest, waist, hips, arms, thighs. More reliable than scale alone.
+
+**Performance metrics:**
+Weight lifted, running pace, reps completed. These improve before physique does.
+
+**How you feel:**
+Energy, mood, sleep, confidence. Often improves before visible changes.
+
+**How clothes fit:**
+Often noticed before scale changes.
+
+## The Comparison Trap
+
+Social media shows exceptional results, often enhanced by:
+- Ideal lighting and angles
+- Pump from recent workout
+- Filters and editing
+- Steroids or PEDs
+- Professional photography
+- Years of training (presented as weeks)
+
+Compare yourself to your past self, not to internet strangers.
+
+## The Bottom Line
+
+Results take longer than you want but happen faster than you think.
+
+- **2-4 weeks:** You feel different
+- **6-8 weeks:** Others might notice
+- **12+ weeks:** Significant visible changes
+
+The key is consistency. Most people quit before results arrive. If you stick with it—training regularly, eating appropriately, recovering well—results are inevitable.
+
+Trust the process. Do the work. The changes will come.
+    `
+  },
+  'active-recovery-rest-days': {
+    title: 'Active Recovery: What to Do on Rest Days',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: `
+## Rest Days Aren't About Sitting Still
+
+You train hard—but gains happen during recovery, not during the workout itself. Rest days are when your muscles repair, adapt, and grow stronger.
+
+But rest doesn't mean doing nothing. Active recovery—light movement on rest days—can actually speed recovery compared to complete rest.
+
+## Why Active Recovery Works
+
+**Increased blood flow:**
+Light movement promotes circulation, delivering nutrients to muscles and removing metabolic waste.
+
+**Reduced stiffness:**
+Gentle movement prevents the stiffness that comes from inactivity.
+
+**Maintained mobility:**
+Joints stay lubricated and mobile.
+
+**Mental benefits:**
+Movement improves mood and reduces the restlessness of forced inactivity.
+
+**Habit maintenance:**
+Staying active, even lightly, reinforces your exercise habit.
+
+## What Counts as Active Recovery
+
+**Key principle:** Low intensity. You should finish feeling better than when you started, not more fatigued.
+
+### Walking
+
+The simplest form of active recovery. Benefits:
+- Gets you outside
+- Zero equipment
+- Adjustable intensity
+- 20-45 minutes is ideal
+
+### Swimming
+
+Excellent low-impact option. The water provides gentle resistance without joint stress.
+
+### Cycling (Easy)
+
+Light spinning—conversational pace, low resistance. Not a hard ride.
+
+### Yoga
+
+Gentle yoga, not power yoga. Focus on:
+- Stretching
+- Breathing
+- Relaxation
+- 30-60 minutes
+
+### Mobility Work
+
+Focused session on improving range of motion:
+- Foam rolling
+- Dynamic stretches
+- Joint circles
+- Controlled articular rotations (CARs)
+
+### Light Sports
+
+Recreational activities at low intensity:
+- Casual shooting hoops
+- Easy tennis rally
+- Leisurely golf
+- Social pickleball
+
+### Stretching
+
+Dedicated stretching session:
+- Hold stretches 30-60 seconds
+- Target tight areas
+- 20-30 minutes
+
+## Sample Active Recovery Day
+
+### Option 1: Morning Routine (30 minutes)
+
+1. Foam roll major muscle groups (10 min)
+2. Dynamic stretching sequence (10 min)
+3. Light walk around the block (10 min)
+
+### Option 2: Yoga Flow (45 minutes)
+
+Gentle yoga class or video focusing on:
+- Stretching
+- Breathing
+- Relaxation
+- No strength poses or flows that challenge you
+
+### Option 3: Walking + Mobility (40 minutes)
+
+1. 25-minute walk (easy pace)
+2. 15-minute mobility routine (hips, thoracic spine, shoulders)
+
+### Option 4: Swimming (30 minutes)
+
+Easy laps or pool walking. Keep heart rate low. Focus on relaxed movement.
+
+## What NOT to Do on Active Recovery Days
+
+**Don't train hard:**
+If it feels like a workout, it's not recovery.
+
+**Don't go long:**
+Extended sessions add fatigue. Keep it under an hour.
+
+**Don't skip it entirely:**
+Some movement is better than none (unless you're injured or sick).
+
+**Don't try new activities:**
+Stick with familiar movements. Novelty adds stress.
+
+**Don't compete:**
+Save competitive drive for training days.
+
+## How Often?
+
+Depends on your training load and recovery capacity:
+
+**Beginners:** 
+- 3 training days, 4 rest/active recovery days
+- Bodies need more recovery while adapting
+
+**Intermediate:**
+- 4-5 training days, 2-3 rest/active recovery days
+
+**Advanced:**
+- May train more frequently
+- Still need 1-2 genuine recovery days
+- Active recovery between hard sessions
+
+**Signs you need more rest:**
+- Persistent fatigue
+- Declining performance
+- Increased injuries
+- Poor sleep
+- Mood changes
+- Loss of motivation
+
+## Complete Rest vs. Active Recovery
+
+Sometimes you need complete rest:
+- Illness
+- Injury
+- Extreme fatigue
+- High stress periods
+- Poor sleep
+
+Listen to your body. Active recovery is generally better, but forced rest has its place.
+
+## Making It Sustainable
+
+**Schedule it:**
+Put active recovery in your calendar like a workout.
+
+**Make it enjoyable:**
+Choose activities you actually like.
+
+**Combine with life:**
+Walk while listening to podcasts. Do mobility while watching TV.
+
+**Don't overthink it:**
+Moving gently for 20-30 minutes is enough.
+
+## The Bottom Line
+
+Rest days are essential for progress. But rest doesn't mean inactivity.
+
+Active recovery—light walking, easy swimming, yoga, mobility work—speeds recovery compared to sitting still. You'll feel better, move better, and train better on your next hard day.
+
+Keep it light. Keep it easy. Keep moving.
+    `
+  },
+  'strength-training-over-50': {
+    title: 'Strength Training Over 50: It\'s Never Too Late to Start',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read',
+    content: `
+## The Most Important Age to Lift
+
+If there's one age group that benefits most from strength training, it's adults over 50. The very changes that make aging challenging—muscle loss, bone density decline, metabolic slowdown—are directly addressed by lifting weights.
+
+Yet many people in this age group avoid strength training, believing it's too late or too risky. The opposite is true.
+
+## Why It Matters More After 50
+
+### Sarcopenia (Muscle Loss)
+
+Starting around age 30, you lose muscle mass. After 50, this accelerates—up to 1-2% per year without intervention.
+
+**Consequences:**
+- Weakness
+- Slower metabolism
+- Increased fall risk
+- Loss of independence
+- Reduced quality of life
+
+**The fix:** Strength training. Studies show people in their 70s, 80s, even 90s can build muscle.
+
+### Osteoporosis (Bone Loss)
+
+Bones weaken with age, especially in women post-menopause. Fractures become more common and more dangerous.
+
+**Strength training helps:** Loading bones stimulates bone-building cells. Weight-bearing and resistance exercises maintain or increase bone density.
+
+### Metabolic Health
+
+Muscle is metabolically active. More muscle = higher metabolism. Strength training also improves insulin sensitivity, helping prevent or manage type 2 diabetes.
+
+### Functional Independence
+
+The ability to carry groceries, climb stairs, get up from a chair, and live independently depends on strength. Use it or lose it.
+
+## Getting Started Safely
+
+### Medical Clearance
+
+If you have chronic conditions, get cleared by your doctor. Most conditions aren't contraindications—they're reasons TO exercise with appropriate modifications.
+
+### Learn Proper Form
+
+This matters at any age but especially now. Options:
+- Personal trainer (look for experience with older adults)
+- Physical therapist
+- Senior fitness classes
+- Online tutorials (used carefully)
+
+### Start Light
+
+Your ego wants to lift heavy. Your joints need time to adapt. Start with weights you can lift easily for 15 reps, then progress.
+
+### Progress Gradually
+
+Connective tissue adapts more slowly than muscle, especially with age. Increase weight by small amounts. No rush.
+
+## Training Principles for 50+
+
+### Compound Movements
+
+Focus on exercises that work multiple joints and muscles:
+- Squats (or leg press)
+- Deadlifts (or Romanian deadlifts)
+- Presses (bench, overhead)
+- Rows (cable, dumbbell)
+- Step-ups and lunges
+
+These provide the most benefit for time invested.
+
+### Include All Movement Patterns
+
+- Push (chest press, overhead press)
+- Pull (rows, pulldowns)
+- Squat (leg press, goblet squat)
+- Hinge (deadlift variations)
+- Carry (farmer's walks)
+- Core (planks, dead bugs)
+
+### Balance and Stability
+
+Include exercises that challenge balance:
+- Single-leg movements
+- Standing exercises
+- Stability challenges
+
+Falls are a major concern after 50. Training balance helps prevent them.
+
+### Mobility Work
+
+Flexibility typically decreases with age. Include:
+- Dynamic warm-up before training
+- Mobility work for hips, shoulders, spine
+- Some static stretching after training
+
+### Recovery Time
+
+You may need more recovery than younger trainees:
+- 2-3 full-body sessions per week works well
+- At least 48 hours between sessions for same muscle groups
+- More sleep if possible
+- Don't train through excessive soreness
+
+## Sample Program
+
+### Full Body, 2-3 Times Per Week
+
+**Workout A:**
+1. Leg Press or Goblet Squat: 3 × 10-12
+2. Dumbbell Row: 3 × 10-12 each side
+3. Chest Press (machine or dumbbell): 3 × 10-12
+4. Romanian Deadlift: 3 × 10-12
+5. Plank: 3 × 20-30 seconds
+6. Farmer's Walk: 3 × 30 seconds
+
+**Workout B:**
+1. Step-Ups: 3 × 10 each leg
+2. Lat Pulldown: 3 × 10-12
+3. Overhead Press: 3 × 10-12
+4. Glute Bridge: 3 × 12-15
+5. Cable or Band Row: 3 × 12-15
+6. Dead Bug: 3 × 10 each side
+
+### Progression
+
+- When you can do all sets at the top of the rep range with good form, increase weight
+- Small increases (2-5 lbs for upper body, 5-10 lbs for lower body)
+- If you can't complete all reps with new weight, stay there until you can
+
+## Common Concerns Addressed
+
+### "I have arthritis"
+
+Exercise actually helps arthritis by:
+- Strengthening muscles around joints
+- Improving joint nutrition
+- Reducing stiffness
+- Managing pain
+
+Work around painful movements, not through them.
+
+### "I have osteoporosis"
+
+Strength training helps maintain bone density. Start lighter, progress slowly, avoid high-impact. The benefits outweigh the risks.
+
+### "I've never lifted weights"
+
+Everyone starts somewhere. Beginners at any age can make significant progress. Starting now is better than never starting.
+
+### "I'm afraid of injury"
+
+Proper form and gradual progression minimize injury risk. Ironically, not exercising increases injury risk from falls and weakness.
+
+### "I don't want to get bulky"
+
+You won't. Building significant muscle is difficult at any age. What you will build is functional strength and a more capable body.
+
+## What Success Looks Like
+
+Realistic expectations:
+- Increased strength (measurable within weeks)
+- Better function in daily activities
+- Improved balance
+- More energy
+- Better sleep
+- Improved mood
+- Better bone density (measured over years)
+- Maintained independence
+
+You probably won't look like a bodybuilder. You will look and feel better.
+
+## The Bottom Line
+
+Starting strength training after 50 isn't just safe—it's essential. The benefits for muscle, bone, metabolism, and function are profound.
+
+It's not too late. You're not too old. The best time to start was 20 years ago. The second best time is today.
+
+Find a program, start light, progress gradually, and be consistent. Your future self will thank you.
+    `
+  },
   'strength-training-beginners-guide': {
     title: 'Strength Training for Beginners: How to Start Lifting Weights',
     date: '2026-03-04',
