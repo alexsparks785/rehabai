@@ -13,6 +13,415 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'progressive-overload-explained': {
+    title: 'Progressive Overload: The Only Way to Keep Getting Stronger',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: `
+## The Most Important Principle
+
+You can argue about optimal rep ranges, exercise selection, and training frequency. But one principle is non-negotiable: progressive overload.
+
+Without progressively increasing the demands on your body, you stop adapting. Your muscles have no reason to get stronger or bigger. You plateau.
+
+## What Is Progressive Overload?
+
+Progressive overload means gradually increasing the stress placed on your body during training over time.
+
+Your body adapts to handle the demands you place on it—but only if those demands exceed what it's already capable of. Once adapted, the same workout becomes maintenance, not improvement.
+
+**Simple example:**
+- Week 1: Squat 100 lbs for 3 sets of 8
+- Week 4: Squat 110 lbs for 3 sets of 8
+- Week 8: Squat 120 lbs for 3 sets of 8
+
+You've progressively increased the load. Your body had to adapt by getting stronger.
+
+## Ways to Apply Progressive Overload
+
+Adding weight isn't the only option. You can increase demands in several ways:
+
+### 1. Increase Weight (Load)
+
+The most straightforward method. Lift heavier over time.
+
+**How to apply:**
+- Add 2.5-5 lbs to upper body exercises
+- Add 5-10 lbs to lower body exercises
+- When you can complete all prescribed sets and reps, increase weight
+
+### 2. Increase Reps
+
+Do more reps with the same weight.
+
+**How to apply:**
+- Week 1: 3 × 8 at 100 lbs
+- Week 2: 3 × 9 at 100 lbs
+- Week 3: 3 × 10 at 100 lbs
+- Week 4: 3 × 8 at 105 lbs (reset reps, increase weight)
+
+### 3. Increase Sets (Volume)
+
+Do more total work.
+
+**How to apply:**
+- Week 1-4: 3 sets per exercise
+- Week 5-8: 4 sets per exercise
+- Or add another exercise for the same muscle group
+
+### 4. Increase Frequency
+
+Train each muscle group more often.
+
+**How to apply:**
+- Move from training each muscle 1x/week to 2x/week
+- More frequent stimulus = more growth opportunity
+
+### 5. Increase Range of Motion
+
+Go deeper or fuller in the movement.
+
+**How to apply:**
+- Squat to parallel → squat below parallel
+- Partial range bench press → full range bench press
+- Requires adequate mobility
+
+### 6. Decrease Rest Time
+
+Same work in less time = increased density.
+
+**How to apply:**
+- Reduce rest between sets from 3 min to 2 min
+- Good for muscular endurance and conditioning
+- Not ideal for maximum strength
+
+### 7. Improve Technique
+
+Better form = more effective stimulus.
+
+**How to apply:**
+- Reduce momentum/cheating
+- Slower, more controlled reps
+- Better mind-muscle connection
+
+### 8. Increase Time Under Tension
+
+Slow down the movement.
+
+**How to apply:**
+- 3-4 second eccentric (lowering) phase
+- Pause at bottom or top
+- Same weight feels harder
+
+## The Double Progression Method
+
+A practical way to apply progressive overload:
+
+1. Choose a rep range (e.g., 8-12)
+2. Start at the bottom of the range with a challenging weight
+3. Each session, try to add reps
+4. When you hit the top of the range for all sets, increase weight
+5. Reset to the bottom of the range with new weight
+6. Repeat
+
+**Example:**
+- Week 1: 100 lbs × 8, 8, 8
+- Week 2: 100 lbs × 9, 8, 8
+- Week 3: 100 lbs × 10, 9, 9
+- Week 4: 100 lbs × 11, 10, 10
+- Week 5: 100 lbs × 12, 11, 11
+- Week 6: 100 lbs × 12, 12, 12 → Increase to 105 lbs
+- Week 7: 105 lbs × 8, 8, 8
+- Continue...
+
+## Why People Stop Progressing
+
+### Not Tracking
+
+If you don't know what you lifted last week, how do you know to lift more this week? Track your workouts.
+
+### Adding Too Much Too Fast
+
+Jumping weight by 20 lbs instead of 5 lbs leads to failed reps and injury. Small, consistent increases beat large, sporadic ones.
+
+### Program Hopping
+
+Switching programs every few weeks prevents progressive overload. You never build on previous work. Stick with a program for 8-12 weeks minimum.
+
+### Poor Recovery
+
+Progression requires recovery. Without adequate sleep, nutrition, and rest days, you can't adapt to increased demands.
+
+### Not Training Hard Enough
+
+If you always stay in your comfort zone, you're not providing a stimulus to adapt to. You need to challenge yourself (safely).
+
+### Unrealistic Expectations
+
+Progress slows over time. Beginners add weight weekly. Intermediate lifters add weight monthly. Advanced lifters add weight over months. Adjust expectations accordingly.
+
+## Progression Isn't Linear
+
+Don't expect to add weight every single session forever. Real progress looks like:
+- Good week, add weight
+- Struggle with new weight
+- Fight for the same weight
+- Finally hit all reps
+- Add weight again
+
+Expect ups and downs. The trend should be upward over months, not necessarily week to week.
+
+## When You're Stuck
+
+Plateaus happen. Strategies:
+
+**Deload:** Take a week at 50-60% intensity. Let your body recover.
+
+**Change variables:** If adding weight isn't working, try adding reps or sets.
+
+**Vary exercises:** Swap in a similar movement. Progress on that, then return.
+
+**Address weak points:** Maybe your grip or core is limiting your lifts. Strengthen those.
+
+**Check recovery:** Are you sleeping enough? Eating enough? Taking rest days?
+
+## The Bottom Line
+
+Progressive overload is simple but not easy:
+
+1. Track your workouts
+2. Do slightly more than last time
+3. Recover adequately
+4. Be patient
+5. Repeat for months and years
+
+This principle applies whether your goal is strength, muscle, endurance, or general fitness. Without progression, you're just maintaining.
+
+Do more over time. That's the secret.
+    `
+  },
+  'exercise-for-mental-health': {
+    title: 'Exercise for Mental Health: What the Research Actually Shows',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '7 min read',
+    content: `
+## More Than Physical
+
+You probably know exercise is good for your body. But the mental health benefits are equally profound—and backed by substantial research.
+
+Exercise isn't a replacement for professional mental health treatment when needed. But it's a powerful tool that helps nearly everyone feel better mentally.
+
+## What the Research Shows
+
+### Depression
+
+**The evidence:** Multiple meta-analyses show exercise reduces symptoms of depression. The effect size is comparable to antidepressant medication for mild to moderate depression.
+
+**Key findings:**
+- Both aerobic and resistance training help
+- Effects begin within weeks
+- Regular exercise may prevent depression onset
+- Works alongside other treatments
+
+### Anxiety
+
+**The evidence:** Exercise significantly reduces anxiety symptoms. Both acute (single session) and chronic (regular training) benefits exist.
+
+**Key findings:**
+- Immediate anxiety reduction after exercise
+- Long-term reduction in anxiety sensitivity
+- Helps with generalized anxiety, panic, and social anxiety
+- May work by normalizing fight-or-flight response
+
+### Stress
+
+**The evidence:** Regular exercisers handle stress better and recover faster from stressors.
+
+**Key findings:**
+- Lower cortisol response to stress
+- Faster return to baseline after stressful events
+- Better perceived ability to cope
+- Physical outlet for stress response
+
+### Cognitive Function
+
+**The evidence:** Exercise improves memory, attention, processing speed, and executive function.
+
+**Key findings:**
+- Increased blood flow to brain
+- Promotes neuroplasticity
+- May reduce cognitive decline with aging
+- Even single sessions improve focus temporarily
+
+### Sleep
+
+**The evidence:** Regular exercise improves sleep quality and helps with insomnia.
+
+**Key findings:**
+- Faster sleep onset
+- Deeper sleep
+- Less nighttime waking
+- Best when not done right before bed
+
+### Self-Esteem
+
+**The evidence:** Exercise improves how you feel about yourself.
+
+**Key findings:**
+- Sense of accomplishment
+- Improved body image (regardless of actual changes)
+- Mastery and competence feelings
+- Social benefits of group exercise
+
+## How Exercise Helps
+
+Multiple mechanisms explain exercise's mental health benefits:
+
+### Neurochemical Changes
+
+- **Endorphins:** Natural painkillers that create positive feelings
+- **Serotonin:** Mood-regulating neurotransmitter (increased with exercise)
+- **Dopamine:** Reward and motivation neurotransmitter
+- **BDNF:** Brain-derived neurotrophic factor, promotes brain health
+
+### Stress Response Regulation
+
+Exercise trains your body to handle stress better:
+- Activates fight-or-flight system
+- Then practices recovery
+- Over time, system becomes more resilient
+
+### Psychological Mechanisms
+
+- **Distraction:** Takes mind off worries
+- **Self-efficacy:** Builds confidence
+- **Social connection:** Group exercise, gym community
+- **Mastery:** Sense of accomplishment
+- **Routine:** Provides structure
+
+### Sleep Improvement
+
+Better sleep improves everything—mood, cognition, stress tolerance, emotional regulation.
+
+## What Kind of Exercise?
+
+Good news: most types of exercise help mental health.
+
+### Aerobic Exercise
+
+- Running, cycling, swimming
+- Best studied for depression and anxiety
+- Moderate intensity seems optimal
+- 20-45 minutes per session
+
+### Resistance Training
+
+- Weight lifting, bodyweight exercises
+- Also effective for depression and anxiety
+- Additional benefits of strength and body composition
+- 2-3 times per week
+
+### Yoga
+
+- Combines movement, breathing, mindfulness
+- Particularly helpful for anxiety
+- Good option for those who dislike intense exercise
+- Accessible for many fitness levels
+
+### Outdoor Exercise
+
+- Walking, hiking, outdoor sports
+- Additional benefits from nature exposure
+- "Green exercise" may have extra mental health effects
+- Natural light helps mood and sleep
+
+### Mind-Body Practices
+
+- Tai chi, qigong
+- Lower intensity options
+- Good for stress and anxiety
+- Suitable for older adults or those with limitations
+
+## How Much Exercise?
+
+### Minimum Effective Dose
+
+Research suggests benefits begin with:
+- 2-3 sessions per week
+- 20-30 minutes per session
+- Moderate intensity
+
+Some benefit is better than none. Even a single walk helps.
+
+### Optimal Amount
+
+For mental health benefits:
+- 150 minutes of moderate exercise per week (standard recommendation)
+- Or 75 minutes of vigorous exercise
+- Spread across most days
+
+More isn't always better. Overtraining can worsen mood and sleep.
+
+### Consistency Over Intensity
+
+Regular moderate exercise beats occasional intense exercise for mental health. The habit matters more than any single session.
+
+## Getting Started
+
+If you're not currently exercising and struggling mentally:
+
+### Start Small
+
+- 10-minute walk
+- Simple bodyweight routine
+- Anything is better than nothing
+
+### Reduce Barriers
+
+- Lay out exercise clothes the night before
+- Schedule specific times
+- Choose activities near home
+- Find accountability (friend, class, app)
+
+### Make It Enjoyable
+
+- Choose activities you don't hate
+- Listen to music or podcasts
+- Exercise with others
+- Vary activities to prevent boredom
+
+### Don't Wait for Motivation
+
+Depression and anxiety kill motivation. Exercise anyway. Motivation often follows action, not the other way around.
+
+### Be Patient
+
+Mental health benefits build over weeks. Keep going even if you don't feel different immediately.
+
+## When Exercise Isn't Enough
+
+Exercise is powerful but not a cure-all:
+
+- **Severe depression or anxiety** may require medication, therapy, or both
+- **Suicidal thoughts** require immediate professional help
+- **Eating disorders** may be worsened by certain exercise approaches
+- **Exercise addiction** can harm mental health
+
+Exercise works best as part of a comprehensive approach that includes sleep, nutrition, social connection, and professional support when needed.
+
+## The Bottom Line
+
+Exercise is one of the most effective things you can do for your mental health. It helps with depression, anxiety, stress, sleep, and cognitive function.
+
+The best exercise is the one you'll actually do. Start where you are. Be consistent. The mental benefits will come.
+
+Your brain is part of your body. Moving your body helps your brain.
+    `
+  },
   'bursitis-causes-treatment': {
     title: 'Bursitis: What It Is, Why It Happens, and How to Treat It',
     date: '2026-03-04',

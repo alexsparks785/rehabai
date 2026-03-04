@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'progressive-overload-explained',
+    title: 'Progressive Overload: The Only Way to Keep Getting Stronger',
+    excerpt: 'Not making progress anymore? You might be missing the most important principle in fitness. Here\'s how to apply progressive overload.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-mental-health',
+    title: 'Exercise for Mental Health: What the Research Actually Shows',
+    excerpt: 'Exercise isn\'t just for your body. Here\'s how physical activity affects anxiety, depression, and overall mental wellbeing.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '7 min read'
+  },
+  {
     slug: 'bursitis-causes-treatment',
     title: 'Bursitis: What It Is, Why It Happens, and How to Treat It',
     excerpt: 'Hip, shoulder, or knee bursitis causing pain? Here\'s what\'s actually inflamed and how to calm it down for good.',
