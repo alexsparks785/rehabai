@@ -13,6 +13,589 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'plantar-fasciitis-treatment-exercises': {
+    title: 'Plantar Fasciitis: Why Your Heel Hurts and How to Fix It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Feet',
+    readTime: '7 min read',
+    content: `
+## That First Step in the Morning
+
+You know the feeling: you swing your legs out of bed, stand up, and—sharp, stabbing pain in your heel. After a few minutes of hobbling, it eases up. But it's there again after sitting for a while, or at the end of a long day on your feet.
+
+This is plantar fasciitis, and it affects about 10% of people at some point in their lives.
+
+## What Is the Plantar Fascia?
+
+The plantar fascia is a thick band of connective tissue running from your heel to your toes along the bottom of your foot. It supports your arch and absorbs shock with every step.
+
+When overloaded, it develops microtears and degenerative changes—particularly where it attaches to the heel bone. Like other tendinopathies, it's more degeneration than inflammation, despite the "-itis" name.
+
+## Risk Factors
+
+- **Age:** Most common between 40-60
+- **On your feet all day:** Teachers, nurses, factory workers, retail
+- **Running or jumping sports:** Especially with sudden increases in activity
+- **Tight calves:** Limited ankle dorsiflexion is a major contributor
+- **Obesity:** More load on the fascia
+- **Flat feet or high arches:** Altered mechanics
+- **Poor footwear:** Unsupportive shoes, worn-out running shoes
+
+## Symptoms
+
+- Pain on the bottom of the heel
+- Worst with first steps in the morning
+- Pain after prolonged sitting (post-static dyskinesia)
+- Pain that improves with walking but returns with prolonged activity
+- Tenderness at the inside of the heel
+
+## What Actually Works
+
+### 1. Load Management
+
+The fascia needs to heal, but complete rest makes it worse. The key is finding the right balance.
+
+**Reduce aggravating activities:**
+- Limit time on hard surfaces
+- Avoid going barefoot on hard floors
+- Wear supportive shoes even at home
+- Reduce running/jumping temporarily
+
+**Stay active:**
+- Low-impact alternatives: cycling, swimming, elliptical
+- Walking in supportive shoes is usually fine
+
+### 2. Stretching
+
+Calf tightness is almost universally present with plantar fasciitis. Stretching helps.
+
+**Calf stretch (gastrocnemius):**
+1. Step forward, back leg straight
+2. Lean into wall, keeping heel down
+3. Hold 30 seconds, repeat 3 times each side
+4. Do 2-3 times daily
+
+**Soleus stretch:**
+1. Same position, but bend back knee
+2. This targets the deeper calf muscle
+3. Hold 30 seconds, repeat 3 times each side
+
+**Plantar fascia stretch:**
+1. Sit and cross affected foot over opposite knee
+2. Pull toes back toward shin
+3. You should feel stretch along the arch
+4. Hold 30 seconds, repeat 3 times
+5. Do before first steps in the morning
+
+### 3. Strengthening
+
+This is where most treatment programs fall short. The fascia needs progressive loading to heal.
+
+**Towel scrunches:**
+1. Sit with foot on towel
+2. Scrunch towel toward you using toes
+3. 3 sets of 15
+
+**Marble pickups:**
+1. Pick up marbles with toes, place in cup
+2. 20 repetitions
+
+**High-load strength training (the game-changer):**
+
+This protocol has strong research support:
+1. Stand on step with rolled towel under toes
+2. Rise up on both feet
+3. Lower slowly on affected foot only (3 seconds)
+4. 3 sets of 12, every other day
+5. Progress by adding weight (backpack)
+6. Continue for 12 weeks
+
+The towel keeps toes extended, loading the fascia specifically.
+
+**Calf raises:**
+- Standard calf raises strengthen the entire system
+- 3 sets of 15, progress to single leg
+
+### 4. Night Splints
+
+Keeping the ankle at 90 degrees overnight maintains length in the fascia and calf. This reduces that intense morning pain.
+
+- Wear for 1-3 months
+- Takes getting used to, but effective
+- Available at pharmacies and online
+
+### 5. Footwear and Orthotics
+
+**Shoes:**
+- Supportive, cushioned shoes
+- Avoid flat shoes and going barefoot
+- Consider shoes with rocker bottom
+
+**Orthotics:**
+- Over-the-counter arch supports help many people
+- Custom orthotics for severe or persistent cases
+- Heel cups for cushioning
+
+### 6. Other Treatments
+
+**Ice massage:**
+- Freeze water bottle, roll under foot
+- 10-15 minutes, 2-3 times daily
+
+**Taping:**
+- Low-Dye taping supports the arch
+- Can reduce pain during activity
+
+**Shockwave therapy:**
+- Good evidence for stubborn cases
+- Typically 3-6 sessions
+
+## What Doesn't Work (Or Makes Things Worse)
+
+**Cortisone injections:**
+May provide short-term relief but risk fascia rupture. Generally avoided.
+
+**Aggressive stretching of a painful fascia:**
+Gentle stretching is fine; painful stretching is counterproductive.
+
+**Complete rest:**
+The fascia needs controlled loading to heal.
+
+**Ignoring it:**
+Plantar fasciitis that goes untreated often becomes chronic.
+
+## Timeline
+
+- Mild cases: 6-8 weeks
+- Moderate cases: 3-6 months
+- Chronic cases: 6-12 months
+
+About 90% of cases resolve with conservative treatment. Be patient and consistent.
+
+## When to See a Doctor
+
+- No improvement after 2-3 months of treatment
+- Severe pain affecting daily function
+- Numbness or tingling
+- Pain even at rest
+- Visible swelling or bruising
+
+Options include:
+- Physical therapy
+- Shockwave therapy
+- PRP injections (mixed evidence)
+- Surgery (rare, last resort)
+
+## Prevention
+
+- Maintain calf flexibility
+- Strengthen foot and calf muscles
+- Replace worn-out shoes
+- Gradual increases in activity
+- Maintain healthy weight
+- Supportive footwear on hard surfaces
+
+## The Bottom Line
+
+Plantar fasciitis is painful and frustrating, but it's treatable. The combination of calf stretching, high-load strengthening, and appropriate footwear resolves most cases. The key is consistency over months—not days or weeks.
+
+Don't just stretch and wait. Load the fascia progressively, and it will heal stronger than before.
+    `
+  },
+  'carpal-tunnel-syndrome-exercises': {
+    title: 'Carpal Tunnel Syndrome: Symptoms, Causes, and Treatment Without Surgery',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read',
+    content: `
+## The Most Common Nerve Compression
+
+Carpal tunnel syndrome (CTS) affects up to 5% of the population. It occurs when the median nerve gets compressed as it passes through the carpal tunnel—a narrow passageway in your wrist formed by bones and ligaments.
+
+The result: numbness, tingling, and weakness in your hand that can seriously impact your quality of life.
+
+## Symptoms
+
+**Classic symptoms:**
+- Numbness and tingling in thumb, index, middle, and half of ring finger
+- Symptoms often worse at night
+- Shaking your hand provides temporary relief
+- Weakness in grip, dropping things
+- Pain that may radiate up the forearm
+
+**What carpal tunnel is NOT:**
+- Numbness in pinky finger (that's ulnar nerve)
+- Pain only, without numbness/tingling
+- Symptoms in the back of the hand
+
+## Risk Factors
+
+**Anatomical:**
+- Smaller carpal tunnel (women 3x more likely)
+- Wrist fractures or arthritis
+- Anatomical variations
+
+**Medical conditions:**
+- Diabetes
+- Thyroid disorders
+- Rheumatoid arthritis
+- Pregnancy (temporary, usually resolves after delivery)
+- Obesity
+
+**Activities:**
+- Repetitive wrist movements
+- Prolonged awkward wrist positions
+- Vibrating tool use
+- Sustained gripping
+
+## What's Actually Happening
+
+The carpal tunnel has limited space. When pressure increases inside—from swelling, fluid retention, or sustained awkward positions—the median nerve gets squeezed.
+
+Sustained wrist flexion or extension increases pressure dramatically. This is why symptoms often worsen at night (sleeping with wrists bent) and with prolonged computer use.
+
+## Diagnosis
+
+A clinical exam is usually sufficient, but tests can confirm:
+
+**Phalen's test:**
+Hold wrists flexed for 60 seconds. Positive if symptoms appear.
+
+**Tinel's sign:**
+Tap over the carpal tunnel. Positive if it causes tingling.
+
+**Nerve conduction studies:**
+Measures how well the nerve transmits signals. Confirms diagnosis and severity.
+
+## Conservative Treatment
+
+Mild to moderate carpal tunnel often responds to non-surgical treatment. Start here.
+
+### 1. Wrist Splinting
+
+The single most effective conservative treatment.
+
+- Wear at night (keeps wrist neutral while sleeping)
+- Neutral position, not flexed or extended
+- Wear for 4-6 weeks minimum
+- Can wear during aggravating activities
+
+Studies show significant improvement in 80% of people with night splinting alone.
+
+### 2. Activity Modification
+
+**Ergonomics:**
+- Keyboard and mouse at elbow height
+- Wrists in neutral position (not bent up or down)
+- Take breaks every 30-60 minutes
+- Reduce sustained gripping
+
+**Avoid:**
+- Sleeping on your hands
+- Sustained wrist flexion or extension
+- Repetitive forceful gripping
+
+### 3. Nerve Gliding Exercises
+
+These help the nerve move freely through the carpal tunnel.
+
+**Median nerve glide (version 1):**
+1. Start with fist, wrist neutral
+2. Extend fingers, wrist neutral
+3. Extend fingers and wrist back
+4. Add thumb extension
+5. Rotate forearm palm-up
+6. Gently pull thumb with other hand
+7. Move through sequence slowly, 10 times, 3x daily
+
+**Tendon gliding:**
+1. Fingers straight up
+2. Hook fist (fingers bent at middle joints)
+3. Full fist
+4. Tabletop (fingers bent at knuckles only)
+5. Move through sequence 10 times, 3x daily
+
+### 4. Strengthening
+
+Weakness in the forearm and hand muscles can contribute to symptoms.
+
+**Grip strengthening:**
+- Stress ball or hand gripper
+- Moderate resistance, not painful
+- 3 sets of 15
+
+**Wrist curls:**
+- Light weight, full range of motion
+- Both flexion and extension
+- 3 sets of 15
+
+**Finger spreads:**
+- Place rubber band around fingers
+- Spread fingers apart against resistance
+- 3 sets of 15
+
+### 5. Other Conservative Measures
+
+**Ice:**
+- 15-20 minutes when symptoms flare
+- Can reduce swelling in the tunnel
+
+**NSAIDs:**
+- May help short-term
+- Not a long-term solution
+
+**Vitamin B6:**
+- Some evidence of benefit at 100-200mg daily
+- May help nerve function
+
+**Yoga:**
+- Upper body stretching and strengthening
+- Studies show improvement in grip strength and symptoms
+
+## When Surgery Makes Sense
+
+Carpal tunnel release is one of the most common and successful surgeries performed.
+
+**Consider surgery if:**
+- Conservative treatment fails after 6-12 weeks
+- Severe symptoms (constant numbness, weakness)
+- Nerve conduction shows significant damage
+- Thenar muscle wasting (the thumb pad muscle shrinks)
+
+**Surgery involves:**
+- Cutting the ligament that forms the roof of the tunnel
+- Relieves pressure on the nerve
+- Can be open or endoscopic
+- Outpatient procedure
+
+**Success rates:**
+- 70-90% experience significant improvement
+- Recovery: 2-6 weeks for light use, 6-12 weeks for full strength
+
+**Caution:**
+Don't wait too long. Prolonged nerve compression can cause permanent damage that surgery can't fully reverse.
+
+## What About Cortisone Injections?
+
+- Provide temporary relief (weeks to months)
+- Useful for confirming diagnosis
+- Good option during pregnancy
+- Not a permanent solution
+
+## Prevention
+
+- Maintain neutral wrist position during work
+- Take regular breaks from repetitive tasks
+- Ergonomic keyboard and mouse setup
+- Keep hands warm (cold increases stiffness)
+- Reduce force (lighter grip, lighter touch)
+- Stretch and strengthen regularly
+
+## The Bottom Line
+
+Carpal tunnel syndrome is common and often treatable without surgery. Start with night splinting—it works for most people with mild to moderate symptoms. Add nerve gliding exercises, improve your ergonomics, and give it 6-8 weeks.
+
+If symptoms persist or worsen, don't ignore them. Early intervention prevents permanent nerve damage. Surgery is highly effective when conservative treatment fails.
+    `
+  },
+  'it-band-syndrome-runners-knee': {
+    title: 'IT Band Syndrome: Why Your Knee Hurts and How to Fix It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '7 min read',
+    content: `
+## The Runner's Curse
+
+IT band syndrome (ITBS) is the second most common running injury, accounting for up to 12% of all running-related problems. That sharp pain on the outside of your knee can sideline you for weeks or months if not addressed properly.
+
+The good news: it's very treatable. The bad news: foam rolling alone won't fix it.
+
+## What Is the IT Band?
+
+The iliotibial band is a thick band of fascia running from your hip to just below your knee on the outside of your thigh. It's not a muscle—it's connective tissue that can't be stretched or "released" in any meaningful way.
+
+The IT band works with your hip muscles (especially the glutes and tensor fasciae latae) to stabilize your leg during single-leg activities like running.
+
+## What Causes IT Band Syndrome?
+
+IT band syndrome isn't really an IT band problem—it's a hip strength and biomechanics problem.
+
+**The mechanism:**
+When you run, your knee bends and straightens repeatedly. Around 20-30 degrees of flexion, the IT band crosses back and forth over a bony bump on the outside of your knee (lateral femoral condyle). If there's too much friction or compression, the fat pad and tissues underneath become irritated.
+
+**Why it happens:**
+
+1. **Weak hip abductors (glutes)**
+When your hip muscles can't control your pelvis, your knee collapses inward, increasing IT band tension.
+
+2. **Training errors**
+Too much too soon, especially hills or speed work.
+
+3. **Running surface**
+Cambered roads (running on the same side), track running (always turning left).
+
+4. **Biomechanics**
+Overpronation, leg length discrepancy, narrow running gait.
+
+5. **Tight hip flexors**
+Contribute to altered running mechanics.
+
+## Symptoms
+
+- Pain on the outside of the knee
+- Pain starts during running, often at the same distance/time
+- Pain worse going downhill or down stairs
+- Pain may prevent you from running but not walking
+- May have snapping or clicking sensation
+- Tender to touch over the lateral knee
+
+## What Doesn't Work
+
+Let's clear this up first:
+
+**Foam rolling the IT band:**
+You can't lengthen or release the IT band. It's incredibly tough tissue. Foam rolling it may provide temporary relief through neurological effects, but it doesn't fix the underlying problem. It also hurts like hell and isn't necessary.
+
+**Stretching the IT band:**
+Same issue—you can't meaningfully stretch it. Studies show IT band stretches don't actually change its length.
+
+**Rest alone:**
+Pain will go away, but it'll come back when you resume running because you haven't addressed the cause.
+
+## What Actually Works
+
+### 1. Load Management
+
+You need to reduce the irritation before you can fix the underlying problem.
+
+**Options:**
+- Reduce running volume and intensity
+- Avoid hills (especially downhill)
+- Run on flat, even surfaces
+- Shorten stride length
+- Increase cadence (reduces load per stride)
+- Cross-train with low-impact activities (cycling, swimming)
+
+**Pain rule:**
+Keep pain below 3/10 during and after running. If you can't, run less or take a break.
+
+### 2. Hip Strengthening (The Key)
+
+This is the most important part. Weak hip abductors are the root cause in most cases.
+
+**Clamshells:**
+1. Lie on side, knees bent 45 degrees
+2. Keep feet together, lift top knee
+3. Don't rotate your pelvis back
+4. 3 sets of 15-20 each side
+
+**Side-lying hip abduction:**
+1. Lie on side, bottom knee bent, top leg straight
+2. Lift top leg toward ceiling
+3. Slightly rotate leg so toes point down
+4. 3 sets of 15-20 each side
+
+**Single-leg bridges:**
+1. Lie on back, one knee bent, other leg extended
+2. Drive through heel to lift hips
+3. Keep pelvis level
+4. 3 sets of 10-12 each side
+
+**Monster walks:**
+1. Band around ankles or above knees
+2. Slight squat position
+3. Walk sideways, maintaining tension
+4. 2-3 sets of 15-20 steps each direction
+
+**Single-leg deadlifts:**
+1. Stand on one leg
+2. Hinge at hip, reaching toward ground
+3. Keep back straight, hips square
+4. 3 sets of 10-12 each side
+
+**Single-leg squats:**
+1. Stand on one leg
+2. Squat down, keeping knee tracking over toes
+3. Don't let knee collapse inward
+4. Start with partial range, progress to full
+5. 3 sets of 8-12 each side
+
+### 3. Hip Mobility
+
+Tight hip flexors affect running mechanics.
+
+**Hip flexor stretch:**
+1. Half-kneeling position
+2. Tuck pelvis under (flatten lower back)
+3. Lean forward slightly
+4. Hold 30 seconds each side
+
+**Foam roll hip flexors, quads, and glutes:**
+These areas can benefit from foam rolling—unlike the IT band itself.
+
+### 4. Gait Modifications
+
+Simple running form changes can reduce IT band load:
+
+**Increase cadence:**
+Take 5-10% more steps per minute. This shortens stride and reduces impact.
+
+**Avoid overstriding:**
+Land with foot under your body, not out in front.
+
+**Widen your step width:**
+If you run with feet close together (crossover gait), try widening your base slightly.
+
+### 5. Other Treatments
+
+**Ice:**
+After running, ice the lateral knee for 15-20 minutes.
+
+**NSAIDs:**
+Short-term use to reduce inflammation if needed.
+
+**Physical therapy:**
+For persistent cases or biomechanical analysis.
+
+**Cortisone injection:**
+Reserved for stubborn cases. Provides temporary relief while you address the cause.
+
+## Return to Running Protocol
+
+Once you can do single-leg exercises without pain:
+
+1. Start with walk-run intervals
+2. Run on flat surfaces only
+3. Gradually increase duration before intensity
+4. Add hills last
+5. Continue hip strengthening 2-3x per week indefinitely
+
+## Timeline
+
+- Mild cases: 2-4 weeks
+- Moderate cases: 4-8 weeks
+- Chronic cases: 2-4 months
+
+## Prevention
+
+- Hip strengthening routine 2-3x per week
+- Gradual training increases (10% rule)
+- Vary running surfaces
+- Don't always run on the same side of cambered roads
+- Maintain good running form
+- Replace worn shoes
+- Cross-train to reduce running volume
+
+## The Bottom Line
+
+IT band syndrome is a hip problem, not a knee problem. Stop torturing yourself with foam rolling and IT band stretches. Build strong glutes, modify your training, and you'll be back to running pain-free.
+
+The exercises work—but only if you do them consistently. Make hip strengthening a permanent part of your routine, not just something you do when injured.
+    `
+  },
   'tennis-elbow-lateral-epicondylitis': {
     title: 'Tennis Elbow: Why It Happens and How to Actually Fix It',
     date: '2026-03-04',

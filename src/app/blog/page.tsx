@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'plantar-fasciitis-treatment-exercises',
+    title: 'Plantar Fasciitis: Why Your Heel Hurts and How to Fix It',
+    excerpt: 'That stabbing pain in your heel every morning? It\'s probably plantar fasciitis—and it\'s fixable. Here\'s what actually works.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Feet',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'carpal-tunnel-syndrome-exercises',
+    title: 'Carpal Tunnel Syndrome: Symptoms, Causes, and Treatment Without Surgery',
+    excerpt: 'Numbness and tingling in your hands? Carpal tunnel is common but often misunderstood. Here\'s what helps—and what doesn\'t.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'it-band-syndrome-runners-knee',
+    title: 'IT Band Syndrome: Why Your Knee Hurts and How to Fix It',
+    excerpt: 'That pain on the outside of your knee is likely IT band syndrome—the second most common running injury. Here\'s how to beat it.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '7 min read'
+  },
+  {
     slug: 'tennis-elbow-lateral-epicondylitis',
     title: 'Tennis Elbow: Why It Happens and How to Actually Fix It',
     excerpt: 'You don\'t need to play tennis to get tennis elbow. Here\'s what causes this stubborn condition and the exercises that actually help.',
