@@ -13,6 +13,189 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'protein-for-muscle-building': {
+    title: 'Protein for Muscle Building: How Much You Actually Need',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Nutrition',
+    readTime: '7 min read',
+    content: `
+## The Most Important Macronutrient
+
+For building muscle, protein stands alone. You can adjust carbs and fats based on preference, but protein intake is non-negotiable.
+
+Yet confusion abounds: How much do you really need? Does timing matter? What are the best sources? Let's cut through the noise with what research actually shows.
+
+## Why Protein Matters
+
+Protein provides amino acids—the building blocks of muscle tissue. When you train, you create demand for muscle repair and growth. Protein provides the raw materials.
+
+Without adequate protein:
+- Muscle protein synthesis is limited
+- Recovery is slower
+- You may lose muscle in a caloric deficit
+- Performance suffers
+
+## How Much Do You Need?
+
+### The Research Consensus
+
+For muscle building, research consistently supports:
+
+**0.7-1.0 grams per pound of body weight per day**
+
+Or approximately **1.6-2.2 grams per kilogram**.
+
+**Example:** A 180 lb person needs 126-180 grams of protein daily.
+
+### Factors That Affect Needs
+
+**Higher end (closer to 1g/lb):**
+- Caloric deficit (dieting)
+- High training volume
+- Older adults (>50)
+- Beginners making rapid gains
+- Very lean individuals
+
+**Lower end (0.7-0.8g/lb):**
+- Caloric surplus
+- Moderate training
+- More body fat to lose
+- Experienced lifters in maintenance
+
+### What About More?
+
+Going above 1g/lb hasn't shown additional muscle-building benefits in research. It's not harmful (for healthy individuals), but it's not necessary either. Those calories could go to carbs or fats.
+
+### The Minimum
+
+Below 0.5g/lb, muscle building is significantly compromised. If you're training, don't go below 0.7g/lb even when cutting.
+
+## Protein Timing
+
+### Does It Matter?
+
+Yes, but less than total daily intake. Getting enough protein over the day matters most.
+
+### The Anabolic Window
+
+The "30-minute post-workout window" is overstated. You have several hours, not minutes. That said, protein around training is still smart:
+
+- Pre-workout meal within 2-3 hours
+- Post-workout meal within 2-3 hours
+- If training fasted, post-workout protein becomes more important
+
+### Distribution
+
+Spreading protein across 3-5 meals optimizes muscle protein synthesis better than one or two large doses.
+
+**Optimal:** 25-40 grams per meal, 3-5 times daily.
+
+**Why:** Muscle protein synthesis maxes out around 25-40g in a single sitting (varies by body size). More than that doesn't increase synthesis—it just gets used for energy or other functions.
+
+### Before Bed
+
+A protein-rich meal or casein shake before sleep supports overnight recovery. Research shows benefits for muscle protein synthesis during sleep.
+
+## Best Protein Sources
+
+### Animal Sources (Complete Proteins)
+
+**Chicken breast:** ~31g per 4 oz, lean, versatile
+**Lean beef:** ~28g per 4 oz, plus iron and creatine
+**Fish:** ~25-30g per 4 oz, plus omega-3s (fatty fish)
+**Eggs:** ~6g each, whole food with vitamins
+**Greek yogurt:** ~15-20g per cup, plus probiotics
+**Cottage cheese:** ~14g per half cup, casein-rich
+**Milk:** ~8g per cup
+
+### Plant Sources
+
+Plant proteins are often "incomplete" (missing some amino acids), but combining sources throughout the day solves this.
+
+**Legumes:** ~15g per cup (beans, lentils, chickpeas)
+**Tofu:** ~20g per cup
+**Tempeh:** ~31g per cup
+**Edamame:** ~17g per cup
+**Quinoa:** ~8g per cup (complete protein)
+**Seitan:** ~25g per 3.5 oz
+
+### Protein Supplements
+
+Supplements are convenient but not necessary if you can hit targets with food.
+
+**Whey protein:** Fast-absorbing, complete amino acid profile, ~25g per scoop
+**Casein:** Slow-absorbing, good before bed
+**Plant-based blends:** Pea + rice usually provides complete amino acids
+**Egg white protein:** Alternative for dairy-free
+
+### Quality Considerations
+
+**Leucine content:** This amino acid is the primary trigger for muscle protein synthesis. Animal proteins and whey are highest. Plant-based eaters may need slightly more total protein.
+
+**Digestibility:** Animal proteins are more digestible than most plant proteins. Factor this in if relying heavily on plants.
+
+## Practical Application
+
+### Calculate Your Target
+
+1. Determine body weight in pounds
+2. Multiply by 0.8-1.0 (depending on factors above)
+3. That's your daily target in grams
+
+### Plan Your Meals
+
+Divide target by number of meals. Example:
+- Target: 160g
+- 4 meals: 40g each
+- Build each meal around a protein source
+
+### Sample Day (160g target)
+
+**Breakfast:** 3 eggs + 2 egg whites + Greek yogurt = 35g
+**Lunch:** 6 oz chicken breast + beans = 45g
+**Snack:** Protein shake + handful of nuts = 30g
+**Dinner:** 6 oz salmon + lentils = 50g
+**Total:** 160g
+
+### Track Initially
+
+Use an app to track for a few weeks. Most people overestimate their protein intake. Once you learn what hitting your target looks like, tracking becomes optional.
+
+## Common Questions
+
+### Can you eat too much protein?
+
+For healthy individuals, high protein intake (up to 1.5g/lb) has not shown harmful effects in research. Those with kidney disease should consult their doctor.
+
+### Does cooking affect protein?
+
+Cooking doesn't destroy protein. It may actually improve digestibility.
+
+### Is plant protein as good as animal protein?
+
+Per gram, animal protein is superior for muscle building (more leucine, better digestibility). But plant-based diets absolutely support muscle growth with adequate total protein and variety.
+
+### What if I can't hit my target?
+
+Prioritize protein at each meal. Add a protein supplement if needed. Hitting 80-90% of your target consistently is better than hitting 100% sometimes and 50% other days.
+
+### Do I need protein on rest days?
+
+Yes. Muscle repair and growth happen on rest days. Keep protein intake consistent.
+
+## The Bottom Line
+
+Protein isn't complicated:
+
+1. **Eat 0.7-1.0g per pound of body weight daily**
+2. **Spread across 3-5 meals**
+3. **Prioritize quality sources**
+4. **Stay consistent**
+
+That's it. The rest is details. Get your protein, train hard, sleep well, and muscles will grow.
+    `
+  },
   'sleep-and-muscle-recovery': {
     title: 'Sleep and Muscle Recovery: Why Rest Is When You Actually Get Stronger',
     date: '2026-03-04',

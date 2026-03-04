@@ -16,6 +16,15 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'protein-for-muscle-building',
+    title: 'Protein for Muscle Building: How Much You Actually Need',
+    excerpt: 'Confused about protein? Here\'s the evidence-based guide to how much protein you need, when to eat it, and the best sources.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Nutrition',
+    readTime: '7 min read'
+  },
+  {
     slug: 'sleep-and-muscle-recovery',
     title: 'Sleep and Muscle Recovery: Why Rest Is When You Actually Get Stronger',
     excerpt: 'You can\'t out-train bad sleep. Here\'s why sleep is essential for muscle growth, recovery, and performance.',
