@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'tennis-elbow-lateral-epicondylitis',
+    title: 'Tennis Elbow: Why It Happens and How to Actually Fix It',
+    excerpt: 'You don\'t need to play tennis to get tennis elbow. Here\'s what causes this stubborn condition and the exercises that actually help.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'achilles-tendonitis-treatment',
+    title: 'Achilles Tendonitis: The Complete Recovery Guide',
+    excerpt: 'That nagging pain in your Achilles won\'t go away on its own. Here\'s the evidence-based approach to healing and preventing recurrence.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'rotator-cuff-pain-exercises',
+    title: 'Rotator Cuff Pain: Causes, Exercises, and When You Need Help',
+    excerpt: 'Shoulder pain keeping you up at night? Your rotator cuff might be to blame. Here\'s how to identify the problem and what actually helps.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Shoulders',
+    readTime: '8 min read'
+  },
+  {
     slug: 'sciatica-causes-treatment-exercises',
     title: 'Sciatica: What Causes It and How to Get Real Relief',
     excerpt: 'That shooting pain down your leg? It\'s probably sciatica—and it\'s usually treatable without surgery. Here\'s what actually works.',

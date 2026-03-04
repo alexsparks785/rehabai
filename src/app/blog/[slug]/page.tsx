@@ -13,6 +13,587 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'tennis-elbow-lateral-epicondylitis': {
+    title: 'Tennis Elbow: Why It Happens and How to Actually Fix It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read',
+    content: `
+## What Is Tennis Elbow?
+
+Tennis elbow (lateral epicondylitis) is pain on the outside of your elbow where the forearm extensor tendons attach to the bone. Despite the name, most people who get it have never picked up a tennis racket.
+
+It's caused by repetitive gripping, twisting, and lifting motions—typing, using a mouse, turning screwdrivers, carrying bags, even shaking hands. Anything that overloads the forearm extensor muscles can trigger it.
+
+## Why It's So Stubborn
+
+Tennis elbow has a reputation for being difficult to treat, and there's a reason: tendon injuries heal slowly.
+
+Unlike muscles, tendons have limited blood supply. The repetitive strain causes microscopic tears and degenerative changes in the tendon—not inflammation, despite the "-itis" name. This is why anti-inflammatory treatments often fail.
+
+The condition is more accurately called lateral epicondylalgia or tendinopathy. The tissue isn't inflamed; it's degenerating from overuse.
+
+## Symptoms
+
+- Pain on the outside of the elbow
+- Weakness in grip strength
+- Pain when lifting objects, especially with palm facing down
+- Pain when shaking hands or turning doorknobs
+- Tenderness at the bony bump on the outside of elbow
+- Pain that may radiate into the forearm
+
+## What Doesn't Work
+
+Before we get to what helps, let's address common treatments that don't:
+
+**Rest alone**
+Complete rest allows pain to subside but doesn't address the underlying tendon degeneration. Pain returns when you resume activities.
+
+**Cortisone injections**
+Studies show cortisone provides short-term relief but worse long-term outcomes. It actually impairs tendon healing.
+
+**Anti-inflammatories**
+Since tendinopathy isn't an inflammatory condition, anti-inflammatories don't address the root cause.
+
+**Braces and straps (alone)**
+These can reduce pain during activities but don't heal the tendon.
+
+## What Actually Works
+
+### 1. Load Management
+
+The key insight: tendons need load to heal, but the right amount.
+
+**Identify aggravating activities**
+What makes your pain worse? Typing? Gripping? Lifting? These need to be modified, not eliminated.
+
+**Modify, don't stop**
+- Take more frequent breaks
+- Use lighter grip pressure
+- Change your technique
+- Use ergonomic equipment
+
+**Relative rest**
+Reduce provocative activities to a level where pain stays below 3-4/10, but don't stop using the arm entirely.
+
+### 2. Progressive Tendon Loading
+
+This is the cornerstone of treatment. Tendons respond to progressive loading by remodeling and getting stronger.
+
+**Phase 1: Isometric exercises (Weeks 1-2)**
+Hold positions without movement. These reduce pain and start tendon adaptation.
+
+Wrist extension hold:
+1. Rest forearm on table, wrist hanging off edge
+2. Make a fist, palm facing down
+3. Use other hand to lift wrist into extension
+4. Hold for 30-45 seconds
+5. Repeat 3-5 times, 3x daily
+
+**Phase 2: Eccentric exercises (Weeks 2-6)**
+The lowering phase of movement. This is where tendon healing happens.
+
+Eccentric wrist extension:
+1. Hold a light weight (1-2 lb), palm down, forearm supported
+2. Use other hand to lift wrist up
+3. Slowly lower wrist down over 3-4 seconds (this is the key part)
+4. 3 sets of 15, once daily
+
+Tyler Twist with FlexBar:
+1. Hold FlexBar vertically, affected arm on top
+2. Extend affected wrist back while twisting the bar
+3. Keep twist while bringing arms in front of you
+4. Slowly release the twist using affected wrist
+5. 3 sets of 15, once daily
+
+**Phase 3: Full strengthening (Weeks 6+)**
+Add concentric (lifting) phases and increase load progressively.
+
+- Wrist curls and reverse wrist curls
+- Forearm pronation/supination with weight
+- Grip strengthening
+- Gradual return to normal activities
+
+### 3. Proximal Strengthening
+
+Weakness in the shoulder and upper back often contributes to elbow overload.
+
+Include:
+- Rotator cuff strengthening
+- Scapular exercises (rows, face pulls)
+- Shoulder stability work
+
+### 4. Manual Therapy (Adjunct)
+
+Massage and soft tissue work can reduce pain and improve short-term function:
+- Cross-friction massage to the tendon
+- Forearm extensor massage
+- Trigger point release
+
+These don't heal the tendon but can make exercises more tolerable.
+
+## Timeline
+
+Tennis elbow is notoriously slow to heal:
+- Mild cases: 6-12 weeks
+- Moderate cases: 3-6 months
+- Chronic/severe: 6-12 months
+
+The key is consistency. Tendon adaptation takes time, and there are no shortcuts.
+
+## When to Get Help
+
+See a healthcare provider if:
+- Pain is severe or worsening despite treatment
+- You have significant weakness
+- Symptoms persist beyond 3 months of consistent exercise
+- Pain affects sleep or daily function significantly
+
+Options include:
+- Physical therapy for guided rehabilitation
+- Shockwave therapy (some evidence of benefit)
+- PRP injections (mixed evidence, may help in some cases)
+- Surgery (last resort, only after 6-12 months of failed conservative treatment)
+
+## Prevention
+
+Once you've had tennis elbow, you're at risk for recurrence:
+
+- Maintain forearm and grip strength
+- Use proper ergonomics (neutral wrist position)
+- Warm up before repetitive activities
+- Take regular breaks during prolonged gripping tasks
+- Address upper body weaknesses
+
+## The Bottom Line
+
+Tennis elbow is a tendon problem that requires tendon loading to fix. Rest, injections, and anti-inflammatories don't work long-term. Progressive strengthening—starting with isometrics, progressing through eccentrics, and building to full strength—is the evidence-based approach.
+
+It takes patience. Expect 3-6 months for full recovery. But with consistent exercise, most people recover completely without surgery.
+    `
+  },
+  'achilles-tendonitis-treatment': {
+    title: 'Achilles Tendonitis: The Complete Recovery Guide',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '8 min read',
+    content: `
+## The Achilles Problem
+
+Your Achilles tendon is the strongest tendon in your body—and one of the most commonly injured. It connects your calf muscles to your heel bone and handles forces up to 8 times your body weight during running.
+
+When it starts hurting, it's telling you something is wrong. Ignore it, and you risk a rupture. Address it properly, and you'll come back stronger.
+
+## Types of Achilles Problems
+
+### Insertional Tendinopathy
+
+Pain at the heel where the tendon attaches to the bone. Often associated with bone spurs. Worse with hill running and prolonged standing.
+
+### Midportion Tendinopathy
+
+Pain 2-6 cm above the heel, in the body of the tendon. The most common type. Often has visible thickening or a nodule.
+
+### Paratendinitis
+
+Inflammation of the tissue surrounding the tendon, not the tendon itself. Burning pain, possible crepitus (crackling sensation).
+
+## Why It Happens
+
+Achilles problems are overload injuries. The tendon can't keep up with the demands placed on it.
+
+**Training errors**
+- Sudden increase in mileage or intensity
+- Adding hill running or speed work too quickly
+- Insufficient recovery between hard sessions
+
+**Biomechanical factors**
+- Tight or weak calf muscles
+- Limited ankle dorsiflexion (can't pull toes toward shin)
+- Overpronation
+- Leg length discrepancy
+
+**Other risk factors**
+- Age (tendon stiffness increases after 30)
+- Previous Achilles injury
+- Certain antibiotics (fluoroquinolones)
+- Being male (2-3x higher risk)
+- High BMI
+
+## Symptoms
+
+- Stiffness and pain in the morning that improves with movement
+- Pain at the start of exercise that warms up
+- Pain after exercise, especially the next morning
+- Tenderness when squeezing the tendon
+- Possible thickening or nodule in the tendon
+- Pain going upstairs or uphill
+
+**Warning signs of progression:**
+- Pain during exercise that doesn't warm up
+- Pain with walking
+- Visible swelling
+- Pain at rest
+
+## What Actually Works
+
+### Load Management
+
+Like all tendinopathies, the Achilles needs load to heal—but the right amount.
+
+**The pain monitoring model:**
+- Pain during exercise up to 3-4/10 is acceptable
+- Pain should settle within 24 hours
+- Next-morning stiffness shouldn't be worse than the day before
+
+If pain is higher or lasting longer, reduce load. If pain is minimal, gradually increase.
+
+### Eccentric Loading (The Gold Standard)
+
+The Alfredson protocol is the most studied and effective treatment for Achilles tendinopathy:
+
+**Eccentric heel drops:**
+
+For midportion tendinopathy:
+1. Stand on edge of step on balls of feet
+2. Rise up on both feet
+3. Shift weight to affected leg
+4. Slowly lower heel below step level (3-5 seconds)
+5. Return to start using both legs
+6. 3 sets of 15, twice daily
+7. Progress by adding weight (backpack, weighted vest)
+
+For insertional tendinopathy:
+- Do NOT drop below horizontal (causes compression at insertion)
+- Perform on flat ground, lowering only to floor level
+- Same sets and reps
+
+**The protocol:**
+- Do it daily for 12 weeks minimum
+- Pain during exercise (up to 5/10) is expected and acceptable
+- Increase weight as exercises become easy
+
+### Isometric Exercise (For Pain Relief)
+
+Heavy isometric holds reduce tendon pain:
+
+1. Single-leg heel raise, hold at top
+2. 45-second holds, 4-5 repetitions
+3. Use before activity to reduce pain
+
+### Progressive Strengthening
+
+After 4-6 weeks of eccentrics, add concentric strength:
+
+**Heavy slow resistance:**
+- Full heel raises (up and down, slowly)
+- 3 sets of 8-10 with as much weight as possible
+- 3-4 times per week
+
+**Plyometric progression (later stages):**
+- Jump rope
+- Hopping
+- Bounding
+- Sport-specific movements
+
+### Calf Stretching (Careful!)
+
+Controversial in Achilles tendinopathy:
+- Gentle stretching is fine
+- Aggressive stretching can irritate the tendon
+- Prioritize strengthening over stretching
+- Don't stretch through pain
+
+## What Doesn't Work
+
+**Complete rest**
+Tendons need load. Complete rest leads to further degeneration and weaker tissue.
+
+**Cortisone injections**
+High risk of tendon rupture. Generally contraindicated for Achilles.
+
+**Passive treatments only**
+Massage, ultrasound, and TENS don't heal the tendon. They can be adjuncts but not the main treatment.
+
+**Stretching alone**
+Doesn't address tendon degeneration. Loading is key.
+
+## Other Treatment Options
+
+**Shockwave therapy**
+Evidence supports its use for stubborn cases. Typically 3-6 sessions.
+
+**Night splints**
+Keep the ankle dorsiflexed overnight, reducing morning stiffness.
+
+**Heel lifts**
+Reduce tendon strain temporarily. Useful in acute phases.
+
+**GTN patches**
+Topical nitric oxide may help tendon healing. Prescription required.
+
+**PRP injections**
+Mixed evidence. May help in some cases.
+
+## Timeline
+
+Achilles tendinopathy takes time:
+- Mild: 3-6 months
+- Moderate: 6-9 months
+- Chronic: 9-12+ months
+
+There are no shortcuts. Consistent loading over months is required.
+
+## When to Worry
+
+**See a doctor immediately if:**
+- Sudden pop or snap in the tendon
+- Unable to point your foot or stand on toes
+- Significant swelling and bruising
+- Feeling of being kicked in the back of the leg
+
+These may indicate Achilles rupture—a surgical emergency.
+
+**See a doctor soon if:**
+- No improvement after 6-8 weeks of eccentric exercise
+- Pain is severe or worsening
+- Unable to walk normally
+
+## Return to Running
+
+Don't rush back. Progression:
+
+1. Pain-free walking
+2. Eccentric exercises without next-day flare
+3. Light jogging on flat surfaces (walk-jog intervals)
+4. Gradual increase in duration
+5. Add intensity (hills, speed) last
+6. Continue strength training maintenance
+
+Allow 3-6 months minimum before returning to full training.
+
+## Prevention
+
+- Gradual training progression (10% rule)
+- Regular calf strengthening (even when healthy)
+- Maintain ankle mobility
+- Proper footwear
+- Address biomechanical issues
+- Don't ignore early warning signs
+
+## The Bottom Line
+
+Achilles tendinopathy is frustrating but treatable. The key is consistent progressive loading—not rest, not passive treatments, not injections. Eccentric exercises for 12+ weeks form the foundation. Add heavy resistance training and plyometrics as you improve.
+
+It takes patience. But with the right approach, most people recover fully and return to their activities stronger than before.
+    `
+  },
+  'rotator-cuff-pain-exercises': {
+    title: 'Rotator Cuff Pain: Causes, Exercises, and When You Need Help',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Shoulders',
+    readTime: '8 min read',
+    content: `
+## The Rotator Cuff: What It Actually Is
+
+Your rotator cuff isn't one muscle—it's four: supraspinatus, infraspinatus, teres minor, and subscapularis. Together, they stabilize your shoulder joint and control rotation.
+
+The shoulder sacrifices stability for mobility. Your arm hangs in a shallow socket, relying on these four muscles to keep it centered. When they're weak, injured, or irritated, everything hurts.
+
+## Types of Rotator Cuff Problems
+
+### Tendinopathy (Tendinitis)
+
+Overuse or age-related degeneration of the tendons. Most common in people over 40. Pain with overhead activities and sleeping on the affected side.
+
+### Impingement
+
+The tendons get pinched between the arm bone and the roof of the shoulder (acromion). Causes pain with reaching up or behind your back.
+
+### Tears
+
+Partial or complete tears of one or more rotator cuff tendons. Can be traumatic (fall, accident) or degenerative (wear and tear).
+
+Important: Rotator cuff tears are extremely common in people over 50—even without symptoms. Having a tear doesn't automatically mean you need surgery.
+
+### Bursitis
+
+Inflammation of the fluid-filled sac (bursa) that cushions the tendons. Often occurs alongside impingement.
+
+## Symptoms
+
+- Pain on the outside of the shoulder
+- Pain that radiates down the arm (not past the elbow)
+- Night pain, especially sleeping on the affected side
+- Weakness with lifting or rotating the arm
+- Pain reaching behind your back (bra strap, back pocket)
+- Pain reaching overhead
+- Clicking or catching sensations
+
+## What Causes Rotator Cuff Problems
+
+**Repetitive overhead activities**
+- Sports: baseball, tennis, swimming
+- Work: painting, carpentry, cleaning
+
+**Poor posture**
+Forward head and rounded shoulders narrow the space available for tendons.
+
+**Age**
+Tendon degeneration begins around 40. Most people over 60 have some degree of tendon changes.
+
+**Weakness**
+Weak rotator cuff muscles can't stabilize the shoulder properly, leading to impingement.
+
+**Muscle imbalances**
+Tight chest muscles and weak upper back muscles alter shoulder mechanics.
+
+**Previous injury**
+Past shoulder dislocations or trauma increase risk.
+
+## Red Flags: When to See a Doctor
+
+- Inability to lift your arm
+- Sudden weakness after an injury
+- Severe pain unrelieved by rest or medication
+- Significant night pain that disrupts sleep
+- Visible deformity
+- Symptoms not improving after 6-8 weeks of exercise
+
+## What Actually Helps
+
+### Phase 1: Pain Management and Load Modification
+
+**Relative rest**
+Avoid painful activities, but don't immobilize. Gentle movement is important.
+
+**Modify activities**
+- Sleep on your back or opposite side
+- Avoid reaching overhead or behind your back
+- Lift objects close to your body
+- Reduce repetitive arm movements
+
+**Pain relief**
+- Ice or heat (whichever feels better)
+- Over-the-counter anti-inflammatories (short-term)
+- Topical treatments
+
+### Phase 2: Restore Mobility
+
+Tight muscles limit shoulder function and contribute to impingement.
+
+**Pec stretch**
+1. Stand in doorway, forearm on frame
+2. Lean forward until you feel stretch across chest
+3. Hold 30 seconds, repeat 3 times each side
+
+**Posterior capsule stretch (sleeper stretch)**
+1. Lie on affected side, arm at 90 degrees
+2. Use other hand to push forearm toward floor
+3. Hold 30 seconds, repeat 3 times
+
+**Thoracic extension**
+1. Sit with foam roller across upper back
+2. Hands behind head, extend back over roller
+3. Move roller up and down, extending at each position
+
+### Phase 3: Strengthen the Rotator Cuff
+
+Progressive strengthening is the cornerstone of rotator cuff rehabilitation.
+
+**Isometrics (Weeks 1-2)**
+Press into a wall without movement. Hold 10 seconds, 10 repetitions each direction:
+- External rotation (elbow at side, press back of hand into wall)
+- Internal rotation (elbow at side, press palm into wall)
+- Flexion (face wall, press palm forward)
+- Abduction (side to wall, press arm outward)
+
+**Resistance band exercises (Weeks 2-6)**
+
+External rotation:
+1. Elbow at side, bent 90 degrees
+2. Rotate forearm outward against band
+3. 3 sets of 15
+
+Internal rotation:
+1. Same position, rotate forearm inward
+2. 3 sets of 15
+
+**Side-lying external rotation**
+1. Lie on unaffected side
+2. Upper arm at side, elbow bent 90 degrees
+3. Rotate forearm toward ceiling
+4. 3 sets of 15 with light weight (1-3 lb)
+
+**Prone exercises (Weeks 4+)**
+
+Prone Y-T-W:
+1. Lie face down on bench or floor
+2. Y: Lift arms overhead at 45 degrees, thumbs up
+3. T: Lift arms straight out to sides
+4. W: Elbows bent, squeeze shoulder blades
+5. 2-3 sets of 10 each position
+
+### Phase 4: Scapular Strengthening
+
+The shoulder blade provides the foundation for arm movement.
+
+**Rows**
+- Cable rows
+- Dumbbell rows
+- Band pull-aparts
+
+**Face pulls**
+1. Cable or band at face height
+2. Pull toward face, separating hands
+3. Squeeze shoulder blades at end
+
+**Wall slides**
+1. Back against wall, arms in "goalpost" position
+2. Slide arms up overhead, keeping contact with wall
+3. 2-3 sets of 15
+
+### Phase 5: Functional Integration
+
+As pain decreases and strength improves:
+- Push-ups (modified to full)
+- Overhead pressing (light to progressive)
+- Sport or activity-specific movements
+- Plyometrics if needed
+
+## What About Tears?
+
+Many rotator cuff tears respond to conservative treatment:
+- Studies show exercise is as effective as surgery for many partial and even some full-thickness tears
+- Rehabilitation success depends on tear size, activity demands, and overall function
+- Surgery is typically reserved for large tears, acute traumatic tears, or failure of conservative treatment
+
+## Timeline
+
+- Mild tendinopathy: 6-12 weeks
+- Moderate impingement: 3-4 months
+- Significant tears (conservative): 4-6 months
+- Post-surgical: 6-12 months
+
+## Prevention
+
+- Regular rotator cuff and scapular strengthening
+- Maintain good posture
+- Balance pushing exercises with pulling exercises
+- Warm up before overhead activities
+- Don't ignore early warning signs
+- Address thoracic spine mobility
+
+## The Bottom Line
+
+Rotator cuff problems are common but usually treatable without surgery. The key is progressive strengthening—not rest, not passive treatments. Build the rotator cuff muscles, strengthen the scapular stabilizers, and address contributing factors like posture and mobility.
+
+It takes time and consistency. But with proper rehabilitation, most people return to full function and even prevent future problems.
+    `
+  },
   'sciatica-causes-treatment-exercises': {
     title: 'Sciatica: What Causes It and How to Get Real Relief',
     date: '2026-03-04',
