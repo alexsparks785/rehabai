@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hip-flexor-pain-tight-hip-flexors',
+    title: 'Tight Hip Flexors: What Actually Works (And What Doesn\'t)',
+    excerpt: 'Everyone blames their hip flexors. But stretching alone rarely fixes the problem. Here\'s what\'s really going on and how to address it.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'hamstring-strain-recovery',
+    title: 'Hamstring Strain: How to Recover Faster and Prevent Re-Injury',
+    excerpt: 'Pulled your hamstring? Here\'s the evidence-based approach to getting back to full activity without re-tearing it.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'shoulder-impingement-exercises',
+    title: 'Shoulder Impingement: Why It Happens and How to Fix It',
+    excerpt: 'Pain when raising your arm overhead? Shoulder impingement is common but treatable. Here\'s the complete guide to recovery.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Shoulders',
+    readTime: '7 min read'
+  },
+  {
     slug: 'lower-back-pain-exercises',
     title: 'Lower Back Pain: The Best Exercises for Relief and Prevention',
     excerpt: '80% of adults experience low back pain. Here are the exercises that actually help—and the ones that make it worse.',

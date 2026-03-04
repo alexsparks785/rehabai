@@ -13,6 +13,648 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'hip-flexor-pain-tight-hip-flexors': {
+    title: 'Tight Hip Flexors: What Actually Works (And What Doesn\'t)',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read',
+    content: `
+## The Most Blamed Muscles
+
+Hip flexors have become the scapegoat for everything: back pain, poor posture, tight hamstrings, weak glutes, bad squats. "Your hip flexors are tight" has become the default explanation for any lower body problem.
+
+But here's the truth: stretching alone rarely fixes "tight" hip flexors. The sensation of tightness often isn't what you think it is.
+
+## What Are the Hip Flexors?
+
+The main hip flexors include:
+
+- **Iliopsoas** (iliacus + psoas major) — the primary hip flexor, runs from spine/pelvis to thighbone
+- **Rectus femoris** — part of the quadriceps, crosses both hip and knee
+- **Tensor fasciae latae (TFL)** — connects to the IT band
+- **Sartorius** — the longest muscle in the body
+
+These muscles flex the hip—bringing your thigh toward your torso—and stabilize the pelvis during movement.
+
+## Why You Feel "Tight"
+
+The sensation of tightness can mean several things:
+
+**Actually shortened muscles:**
+Prolonged sitting can lead to adaptive shortening. But true shortening is less common than people think.
+
+**Muscle guarding/tension:**
+Muscles can feel tight when they're working overtime to provide stability your other muscles aren't providing.
+
+**Neural tension:**
+Nerves that pass through the hip area can create sensations interpreted as tightness.
+
+**Weakness masquerading as tightness:**
+Weak hip flexors often feel tight because they're struggling to do their job.
+
+**Anterior pelvic tilt:**
+The pelvis tilting forward can make hip flexors feel compressed and tight, but the solution isn't more stretching.
+
+## The Stretching Trap
+
+Here's the problem: most people with "tight" hip flexors stretch religiously and see no lasting improvement. Why?
+
+**If muscles are actually short:** Stretching helps, but you need to maintain the length with strengthening and posture changes.
+
+**If muscles are guarding:** Stretching provides temporary relief but doesn't address why they're guarding.
+
+**If muscles are weak:** Stretching actually makes things worse—you're further inhibiting already weak muscles.
+
+**If it's neural tension:** Stretching can irritate the nerve.
+
+The first step is figuring out what's actually happening.
+
+## Assessment: What's Really Going On?
+
+**Thomas test (for true shortness):**
+1. Sit on edge of table, pull one knee to chest
+2. Lie back, keeping that knee pulled in
+3. Let other leg hang relaxed
+4. If hanging thigh can't reach horizontal: hip flexors may be short
+5. If knee can't bend to 90 degrees: rectus femoris may be short
+
+**Strength test:**
+1. Sit on edge of chair
+2. Lift one thigh toward ceiling, knee bent
+3. Hold 30 seconds
+4. If it's difficult or causes cramping: hip flexors are weak
+
+**Pain provocation:**
+Does the tightness come with pinching pain in the front of the hip? That may be impingement, not tightness.
+
+## What Actually Works
+
+### If Truly Shortened: Stretch + Strengthen + Posture
+
+**Half-kneeling hip flexor stretch:**
+1. Kneel on one knee, other foot forward
+2. Tuck tailbone under (posterior pelvic tilt)
+3. Shift forward slightly
+4. You should feel stretch in front of back hip
+5. Hold 30-60 seconds each side
+
+**Couch stretch (advanced):**
+1. Back knee on ground, foot against wall or couch
+2. Front foot forward, upright torso
+3. Maintain posterior pelvic tilt
+4. Intense stretch—build up gradually
+
+**Key:** The pelvic tilt is everything. Without it, you're not actually stretching the hip flexors.
+
+### If Weak: Strengthen (Stop Stretching So Much)
+
+**Psoas march:**
+1. Lie on back, knees bent
+2. Lift one knee toward chest against band resistance
+3. Lower slowly
+4. 3 sets of 10-15 each side
+
+**Seated knee raise:**
+1. Sit on edge of chair
+2. Lift one knee as high as possible
+3. Hold 5 seconds at top
+4. 3 sets of 10 each side
+
+**Standing march:**
+1. Stand tall, core engaged
+2. Lift knee toward chest
+3. Hold 2-3 seconds
+4. Alternate legs
+5. 3 sets of 10 each side
+
+**Hanging knee raise (advanced):**
+1. Hang from bar
+2. Lift knees toward chest
+3. Control the descent
+4. 3 sets of 8-12
+
+### If Guarding: Address Root Cause
+
+Hip flexors often guard when:
+- **Core is weak:** Strengthen with dead bugs, planks, bird-dogs
+- **Glutes aren't firing:** Strengthen with bridges, clamshells, hip thrusts
+- **Spine needs stability:** The psoas helps stabilize the lumbar spine when other muscles fail
+
+The tightness resolves when surrounding muscles do their jobs.
+
+### If Neural: Nerve Glides
+
+**Femoral nerve glide:**
+1. Lie on stomach
+2. Bend knee, bringing heel toward buttock
+3. Lift thigh slightly off floor
+4. Gentle, controlled movements
+5. 10-15 reps each side
+
+If symptoms worsen, stop and consult a professional.
+
+## Daily Habits
+
+Beyond exercises, address why hip flexors tighten:
+
+**Sitting:**
+- Take standing breaks every 30-60 minutes
+- Sit with good posture (slight lordotic curve)
+- Consider a standing desk for part of the day
+
+**Sleeping:**
+- Avoid fetal position all night
+- Try sleeping on back with pillow under knees
+- Stretch gently before bed
+
+**Exercise:**
+- Warm up hip flexors before activity
+- Include hip extension exercises (bridges, hip thrusts, lunges)
+- Don't skip the eccentric (lowering) phase
+
+## The Balanced Approach
+
+For most people, the solution includes:
+
+1. **Some stretching** — but technique matters (tuck that pelvis!)
+2. **Strengthening** — weak hip flexors often feel tight
+3. **Glute and core work** — take load off the hip flexors
+4. **Movement variety** — don't sit all day, then sit more stretching
+5. **Patience** — lasting change takes weeks, not days
+
+## When to See a Professional
+
+- Pinching or catching in the front of the hip (possible impingement)
+- Pain that radiates down the leg (possible nerve involvement)
+- No improvement after 4-6 weeks of balanced approach
+- History of hip injury or surgery
+
+## The Bottom Line
+
+"Tight hip flexors" is usually more complicated than it sounds. Before you spend another hour stretching:
+
+1. Assess whether they're actually short, weak, or guarding
+2. Address the root cause, not just the symptom
+3. Include strengthening, not just stretching
+4. Fix daily habits that contribute to the problem
+
+Your hip flexors might need more strength, not more length. Listen to what your body is actually telling you.
+    `
+  },
+  'hamstring-strain-recovery': {
+    title: 'Hamstring Strain: How to Recover Faster and Prevent Re-Injury',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '7 min read',
+    content: `
+## The Most Common Muscle Injury
+
+Hamstring strains are among the most common injuries in sports involving sprinting, jumping, or kicking. They're also notorious for recurring—once you've strained a hamstring, your risk of re-injury increases significantly.
+
+The good news: proper rehabilitation reduces re-injury rates dramatically. The key is not returning too soon and building strength through the full range of motion.
+
+## Understanding the Injury
+
+The hamstrings are three muscles on the back of your thigh: biceps femoris, semitendinosus, and semimembranosus. They extend the hip and flex the knee.
+
+**How strains happen:**
+- High-speed running (acceleration or maximum speed)
+- Kicking
+- Overstretching (splits, high kicks)
+- Quick acceleration from stationary
+- Eccentric overload (muscle lengthening under tension)
+
+**Strain grades:**
+
+- **Grade 1 (mild):** Minor muscle fiber damage. Tightness, mild pain, minimal strength loss. 1-3 weeks recovery.
+- **Grade 2 (moderate):** Partial tear. Significant pain, swelling, weakness. 4-8 weeks recovery.
+- **Grade 3 (severe):** Complete or near-complete tear. Severe pain, major weakness, possible bruising. 3-6 months recovery, may need surgery.
+
+## Immediate Management (First 48-72 Hours)
+
+**PRICE protocol:**
+- **P**rotect: Avoid activities that stress the hamstring
+- **R**est: Relative rest, not complete immobility
+- **I**ce: 15-20 minutes every 2-3 hours
+- **C**ompression: Elastic bandage to limit swelling
+- **E**levation: When resting, elevate the leg
+
+**Pain management:**
+- Over-the-counter pain relievers if needed
+- Avoid NSAIDs in first 48 hours if possible (may slow early healing)
+
+**What NOT to do:**
+- Don't stretch aggressively
+- Don't apply heat (first 48-72 hours)
+- Don't massage the injured area directly
+- Don't "walk it off" through significant pain
+
+## When to See a Doctor
+
+Seek medical evaluation if:
+- You heard or felt a pop
+- Severe pain or inability to walk
+- Significant swelling or bruising
+- Obvious deformity or gap in muscle
+- No improvement after 1-2 weeks
+
+Imaging (MRI) may be needed to determine injury severity and guide treatment.
+
+## Rehabilitation Phases
+
+### Phase 1: Protect and Gentle Activation (Days 1-7)
+
+**Goals:** Reduce pain and swelling, maintain range of motion, begin gentle muscle activation.
+
+**Exercises:**
+
+Isometric hamstring holds:
+1. Lie on back, knee bent, heel on floor
+2. Press heel into floor gently (20-30% effort)
+3. Hold 5-10 seconds
+4. Repeat 10-15 times
+5. No pain with this exercise
+
+Gentle range of motion:
+1. Lie on back
+2. Slowly bend and straighten knee
+3. Stay within pain-free range
+4. 15-20 repetitions several times daily
+
+Prone knee bends:
+1. Lie face down
+2. Slowly bend knee, bringing heel toward buttock
+3. Only go to point of mild stretch, no pain
+4. 15-20 repetitions
+
+**Progress when:** Walking is comfortable, minimal pain at rest.
+
+### Phase 2: Build Strength (Weeks 1-3)
+
+**Goals:** Restore strength through mid-range, progress loading gradually.
+
+**Exercises:**
+
+Hamstring curls (supported):
+1. Lie face down or use machine
+2. Bend knee against light resistance
+3. 3 sets of 12-15
+4. Progress resistance as tolerated
+
+Glute bridges:
+1. Lie on back, knees bent, feet flat
+2. Lift hips, squeeze glutes
+3. 3 sets of 15
+4. Progress to single-leg when ready
+
+Standing hamstring curl:
+1. Stand, hold support
+2. Bend one knee, lifting heel toward buttock
+3. Add ankle weight as tolerated
+4. 3 sets of 12-15
+
+Good mornings (bodyweight):
+1. Stand, hands behind head or on hips
+2. Hinge at hips, slight knee bend
+3. Feel stretch in hamstrings
+4. Return to standing
+5. 3 sets of 10
+
+**Progress when:** Can do exercises pain-free, walking normally.
+
+### Phase 3: Eccentric Focus (Weeks 3-6)
+
+Eccentric (lengthening) strength is crucial for preventing re-injury. Hamstring strains often happen during eccentric loading.
+
+**Exercises:**
+
+Romanian deadlift:
+1. Stand with weight (start light)
+2. Hinge at hips, lowering weight along legs
+3. Feel hamstring stretch at bottom
+4. Return to standing
+5. 3 sets of 10-12
+6. Progress weight gradually
+
+Nordic hamstring curl (assisted):
+1. Kneel, have partner hold ankles (or use anchor)
+2. Slowly lower body toward floor (eccentric phase)
+3. Use hands to catch yourself
+4. Push back up with arms (or partner assists)
+5. Build up to 3 sets of 6-8
+
+Single-leg Romanian deadlift:
+1. Stand on one leg
+2. Hinge forward, extending other leg behind
+3. Feel single-leg hamstring load
+4. 3 sets of 8-10 each side
+
+Slider leg curls:
+1. Lie on back, feet on sliders
+2. Bridge up, then slide feet away
+3. Slowly return (eccentric)
+4. 3 sets of 8-12
+
+**Progress when:** Full strength in gym exercises, no pain with quick movements.
+
+### Phase 4: Running Progression (Weeks 4-8+)
+
+Don't rush this phase. Most re-injuries happen during premature return to running.
+
+**Progression:**
+1. Walk/jog intervals (50% speed)
+2. Light jogging (60-70% speed)
+3. Tempo running (75-80% speed)
+4. Striding (85-90% speed)
+5. Sprinting (gradual to 100%)
+6. Change of direction, sport-specific drills
+
+**Rules:**
+- Each phase should be pain-free before progressing
+- Increase one variable at a time (speed, distance, or intensity)
+- 24-48 hours between running sessions to assess response
+- Return to previous phase if symptoms return
+
+## Return to Sport Criteria
+
+Don't return to full activity until you meet these criteria:
+
+- Full pain-free range of motion
+- Equal strength to uninjured side (>90%)
+- Full speed running without pain or apprehension
+- Sport-specific movements without symptoms
+- Completed gradual return-to-sport program
+
+Rushing return is the #1 cause of re-injury.
+
+## Prevention
+
+Once recovered, prevent recurrence:
+
+**Nordic hamstring exercises:**
+The single best prevention exercise. 2-3 times per week during season.
+
+**Eccentric strength training:**
+Romanian deadlifts, single-leg variations, slider curls.
+
+**Proper warm-up:**
+Dynamic stretching, activation drills, gradual intensity increase before sprinting.
+
+**Avoid overtraining:**
+Fatigue increases injury risk. Monitor training load.
+
+**Maintain flexibility:**
+Gentle hamstring stretching after activity.
+
+**Address imbalances:**
+Weak glutes, tight hip flexors, and core weakness all contribute to hamstring strain.
+
+## The Bottom Line
+
+Hamstring strains require patience and progressive rehabilitation. The biggest mistakes are:
+
+1. Returning too soon
+2. Not building eccentric strength
+3. Skipping the running progression
+4. Neglecting prevention after recovery
+
+Take the time to rehabilitate properly, and you'll come back stronger and more resilient than before. Rush it, and you'll likely be dealing with the same injury again.
+    `
+  },
+  'shoulder-impingement-exercises': {
+    title: 'Shoulder Impingement: Why It Happens and How to Fix It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Shoulders',
+    readTime: '7 min read',
+    content: `
+## The Overhead Pain Problem
+
+Shoulder impingement is one of the most common shoulder complaints. That pinching pain when you raise your arm, reach behind your back, or sleep on your side—it affects athletes, desk workers, and everyone in between.
+
+The good news: most cases respond well to conservative treatment. The key is understanding what's happening and addressing the root causes.
+
+## What Is Impingement?
+
+The term "impingement" describes what happens when structures in the shoulder get pinched or compressed during movement.
+
+The subacromial space—the area between the top of the arm bone (humerus) and the roof of the shoulder (acromion)—contains the rotator cuff tendons and a fluid-filled sac called the bursa. When this space narrows, these structures get squeezed.
+
+**What gets pinched:**
+- Supraspinatus tendon (rotator cuff)
+- Subacromial bursa
+- Biceps tendon (in some cases)
+
+**When it happens:**
+- Raising arm overhead
+- Reaching behind back
+- Lying on the shoulder
+- Repetitive overhead activities
+
+## Why It Happens
+
+Impingement rarely has a single cause. Usually, it's a combination of factors:
+
+**Rotator cuff weakness:**
+When the rotator cuff can't center the humeral head properly, it rides up and narrows the subacromial space.
+
+**Scapular dysfunction:**
+The shoulder blade should rotate and tilt as you raise your arm. If it doesn't move correctly, impingement increases.
+
+**Poor posture:**
+Forward head and rounded shoulders change shoulder mechanics and reduce subacromial space.
+
+**Muscle imbalances:**
+Tight pecs/lats and weak upper back muscles create dysfunctional movement patterns.
+
+**Overuse:**
+Repetitive overhead activities (swimming, throwing, painting) can inflame tendons and bursa.
+
+**Anatomical factors:**
+Some people have less space due to bone shape. This can't be changed, but function can be optimized.
+
+## Symptoms
+
+- Pain on the front or side of shoulder
+- Pain with overhead reaching
+- Pain reaching behind your back
+- Night pain when lying on affected side
+- Weakness with arm elevation
+- Pain with activities: throwing, swimming, reaching
+- "Painful arc" between 60-120 degrees of elevation
+
+## What Makes It Worse
+
+- Sleeping on the affected side
+- Prolonged overhead positions
+- Pushing through pain during exercise
+- Rounded shoulder posture
+- Repetitive overhead activities without rest
+
+## Phase 1: Reduce Irritation (Weeks 1-2)
+
+Before strengthening, reduce inflammation and modify aggravating activities.
+
+**Activity modification:**
+- Avoid painful overhead movements
+- Sleep on unaffected side, or on back with pillow under arm
+- Modify exercises (no overhead pressing, reduce load)
+
+**Pain relief:**
+- Ice after activities (15-20 minutes)
+- NSAIDs short-term if needed
+- Avoid positions that pinch
+
+**Gentle mobility:**
+Pendulum exercises:
+1. Lean forward, arm hanging
+2. Make small circles with arm
+3. Let momentum do the work
+4. 1-2 minutes, several times daily
+
+## Phase 2: Restore Mobility (Weeks 1-4)
+
+Tight structures need to be addressed. Focus on thoracic spine, pecs, and posterior shoulder.
+
+**Thoracic extension:**
+1. Foam roller across upper back
+2. Hands behind head
+3. Extend back over roller
+4. Move roller to different segments
+5. 10-15 extensions
+
+**Pec stretch:**
+1. Doorway stretch: forearm on frame, lean through
+2. 30 seconds at three arm positions (low, middle, high)
+3. Both sides
+
+**Cross-body stretch (posterior capsule):**
+1. Bring arm across body
+2. Use other hand to pull gently
+3. Hold 30 seconds
+4. Gentle—don't force
+
+**Sleeper stretch (if tolerated):**
+1. Lie on affected side, arm at 90 degrees
+2. Use other hand to press forearm toward floor
+3. Hold 30 seconds
+4. Stop if painful
+
+## Phase 3: Strengthen Rotator Cuff (Weeks 2-8)
+
+The rotator cuff centers the humeral head and controls shoulder movement.
+
+**External rotation (sidelying):**
+1. Lie on unaffected side
+2. Upper arm at side, elbow bent 90 degrees
+3. Rotate forearm toward ceiling
+4. 3 sets of 15 with light weight
+
+**External rotation (standing with band):**
+1. Elbow at side, bent 90 degrees
+2. Rotate forearm outward against band
+3. 3 sets of 15
+
+**Internal rotation (standing with band):**
+1. Same position, rotate inward
+2. 3 sets of 15
+
+**High pull (face pull alternative):**
+1. Cable or band at face height
+2. Pull toward face, elbows high
+3. External rotation at end of movement
+4. 3 sets of 15
+
+## Phase 4: Scapular Stability (Weeks 2-8)
+
+The shoulder blade must move properly for the shoulder to function well.
+
+**Wall slides:**
+1. Back against wall, arms in goalpost position
+2. Slide arms up overhead, maintaining wall contact
+3. Squeeze shoulder blades together at bottom
+4. 3 sets of 10-12
+
+**Scapular push-ups:**
+1. Plank position (or on knees)
+2. Without bending elbows, let chest sink between shoulder blades
+3. Push through, spreading shoulder blades apart
+4. 3 sets of 10-15
+
+**Rows:**
+1. Cable, band, or dumbbell rows
+2. Focus on squeezing shoulder blades at end
+3. 3 sets of 12-15
+
+**Lower trapezius activation:**
+1. Lie face down, arms at 45 degrees overhead
+2. Lift arms with thumbs toward ceiling
+3. Focus on lower shoulder blade muscles
+4. 3 sets of 10-15
+
+**Prone Y-T-W:**
+1. Lie face down
+2. Y: arms overhead at 45 degrees, lift
+3. T: arms straight out, lift
+4. W: elbows bent, squeeze blades, lift
+5. 2 sets of 10 each position
+
+## Phase 5: Integration and Return to Activity (Weeks 6+)
+
+Once pain is controlled and strength is improving:
+
+**Push-up progression:**
+1. Wall push-ups
+2. Incline push-ups
+3. Floor push-ups
+4. Focus on scapular control throughout
+
+**Overhead progression:**
+1. Landmine press (angled, not straight up)
+2. Half-kneeling single-arm press
+3. Standing press
+4. Only progress if pain-free
+
+**Sport-specific training:**
+Gradually return to overhead activities with proper mechanics.
+
+## Posture and Ergonomics
+
+Address daily habits that contribute to impingement:
+
+- Monitor at eye level
+- Keyboard at elbow height
+- Take breaks from sustained positions
+- Practice chin tucks and scapular squeezes
+- Strengthen upper back to counter sitting posture
+
+## When to Seek Help
+
+- No improvement after 4-6 weeks of consistent exercise
+- Severe night pain
+- Significant weakness
+- Pain spreading down arm
+- History of shoulder instability or injury
+
+Options include:
+- Physical therapy for guided rehabilitation
+- Cortisone injection (temporary relief, use sparingly)
+- Surgery (rare, for structural problems or failed conservative care)
+
+## The Bottom Line
+
+Shoulder impingement is usually a movement and muscle balance problem, not a structural one. Fix the dysfunctions:
+
+1. Stretch what's tight (pecs, posterior capsule, thoracic spine)
+2. Strengthen what's weak (rotator cuff, scapular stabilizers)
+3. Correct posture and movement patterns
+4. Return to activities gradually
+
+Most people recover fully with consistent rehabilitation. The shoulder is resilient—give it the right inputs, and it will heal.
+    `
+  },
   'lower-back-pain-exercises': {
     title: 'Lower Back Pain: The Best Exercises for Relief and Prevention',
     date: '2026-03-04',
