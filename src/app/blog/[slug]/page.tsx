@@ -13,6 +13,661 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'thoracic-spine-mobility': {
+    title: 'Thoracic Mobility: The Missing Link in Your Movement',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '7 min read',
+    content: `
+## The Ignored Middle Child
+
+Between the mobile neck and the mobile lower back sits the thoracic spine—12 vertebrae that are supposed to rotate, extend, and flex. But for most people, this section is locked up tight.
+
+A stiff thoracic spine doesn't just affect your upper back. It creates problems above (neck and shoulders) and below (lower back). It limits your squat depth, overhead pressing, and even your breathing.
+
+If you've tried everything for your shoulder or neck pain without success, your thoracic spine might be the missing piece.
+
+## Why Thoracic Mobility Matters
+
+**For shoulders:**
+When you raise your arm overhead, your thoracic spine should extend. If it can't, the shoulder has to compensate—leading to impingement, rotator cuff issues, and limited range of motion.
+
+**For neck:**
+A stiff, rounded upper back forces the neck to hyperextend to keep your eyes level. This contributes to neck pain, headaches, and forward head posture.
+
+**For lower back:**
+Without adequate thoracic rotation, the lumbar spine rotates instead—but it's not designed for much rotation. This can contribute to lower back pain.
+
+**For performance:**
+Every overhead movement, rotation, and deep squat requires thoracic mobility. Without it, you compensate—and compensations lead to injury.
+
+## Signs of Limited Thoracic Mobility
+
+- Rounded upper back (kyphosis)
+- Difficulty reaching overhead without arching lower back
+- Shoulder or neck pain
+- Can't rotate torso without moving hips
+- Difficulty getting into deep squat
+- Pain between shoulder blades
+- Limited rotation for golf, tennis, throwing
+
+## Quick Assessment
+
+**Thoracic rotation test:**
+1. Sit on floor, knees bent, hands across chest
+2. Rotate torso to one side without moving hips
+3. Should achieve 45+ degrees of rotation
+4. Compare both sides
+
+**Wall angel test:**
+1. Back flat against wall
+2. Arms in "goalpost" position against wall
+3. Try to slide arms overhead while keeping contact
+4. Difficulty indicates thoracic extension restriction
+
+**Overhead reach:**
+1. Stand with back against wall
+2. Raise arms overhead, trying to touch wall
+3. If lower back arches significantly, thoracic extension is limited
+
+## Why We Get Stiff
+
+**Sitting:**
+Prolonged sitting encourages thoracic flexion (rounding). Hours in this position leads to adaptive stiffness.
+
+**Screens:**
+Looking down at phones and computers reinforces the flexed position.
+
+**Breathing patterns:**
+Shallow, chest breathing doesn't move the thoracic spine. Ribcage becomes locked.
+
+**Age:**
+Disc height decreases, joints stiffen. But this can be largely offset with mobility work.
+
+**Lack of extension:**
+Modern life rarely requires thoracic extension. Without it, we lose it.
+
+## Exercises for Thoracic Mobility
+
+### Extension
+
+**Foam roller extension:**
+1. Roller across upper back
+2. Hands behind head (support, don't pull)
+3. Extend back over roller
+4. Move roller to different segments
+5. 10-15 extensions at each level
+
+**Cat-cow (extension focus):**
+1. On hands and knees
+2. Focus on arching through upper back, not lower back
+3. Drop belly, lift chest, look up
+4. 15-20 repetitions
+
+**Bench thoracic extension:**
+1. Kneel facing bench, elbows on bench
+2. Sit hips back, drop chest toward floor
+3. Feel stretch through upper back and lats
+4. Hold 30-60 seconds
+
+**Prone press-up (thoracic focus):**
+1. Lie face down
+2. Place hands under shoulders
+3. Press up, focusing on extending upper back
+4. Keep lower back relaxed
+5. Hold at top 2-3 seconds, lower
+6. 10-15 reps
+
+### Rotation
+
+**Open book:**
+1. Side-lying, knees bent 90 degrees
+2. Arms extended in front at shoulder height
+3. Rotate top arm open toward ceiling/floor behind you
+4. Follow with eyes
+5. Return, repeat 10-15 times each side
+
+**Thread the needle:**
+1. On hands and knees
+2. Reach one arm under body, rotating torso
+3. Then reach same arm toward ceiling, rotating opposite direction
+4. 10-15 reps each side
+
+**Seated rotation:**
+1. Sit on chair or floor
+2. Cross arms over chest
+3. Rotate torso, keeping hips still
+4. Hold 2-3 seconds each side
+5. 15-20 alternating reps
+
+**Half-kneeling rotation:**
+1. Half-kneeling position
+2. Hands behind head or arms extended
+3. Rotate toward front leg side
+4. 10-15 reps each side
+
+### Combined Movements
+
+**World's greatest stretch:**
+1. Lunge position
+2. Place same-side hand on floor inside front foot
+3. Rotate, reaching other arm toward ceiling
+4. 5-8 reps each side
+
+**Quadruped rotation:**
+1. On hands and knees
+2. Place one hand behind head
+3. Rotate elbow down toward opposite arm
+4. Then rotate up toward ceiling
+5. 10-15 reps each side
+
+### Breathing Work
+
+**Crocodile breathing:**
+1. Lie face down, forehead on hands
+2. Breathe into belly, feeling ribs expand into floor
+3. Focus on 360-degree expansion
+4. 5-10 deep breaths
+
+Breathing exercises move the ribcage and can improve thoracic mobility over time.
+
+## Programming
+
+**Daily maintenance (5 minutes):**
+1. Foam roller extension: 10-15 reps
+2. Open book: 10 each side
+3. Cat-cow: 15 reps
+
+**Pre-workout (3-5 minutes):**
+1. Foam roller extension
+2. Thread the needle or quadruped rotation
+3. World's greatest stretch
+
+**Dedicated session (15-20 minutes, 2-3x/week):**
+1. Foam rolling: 2-3 minutes
+2. Extension work: 2-3 exercises
+3. Rotation work: 2-3 exercises
+4. Breathing: 2-3 minutes
+
+## Integration with Strength Training
+
+**Before pressing:**
+Thoracic extension work ensures shoulders have room to move.
+
+**Before squatting:**
+Thoracic mobility helps maintain upright torso position.
+
+**During training:**
+Exercises like face pulls, rows, and overhead carries reinforce thoracic extension.
+
+## Timeline
+
+- Initial improvements: 2-4 weeks
+- Significant changes: 6-8 weeks
+- Long-standing stiffness: 2-3 months
+
+Consistency matters more than intensity. Daily brief sessions beat occasional long sessions.
+
+## When Mobility Isn't Enough
+
+If you're not seeing improvement despite consistent work:
+
+- **Strength may be the issue:** You may have the range but can't control it. Add strengthening in extended/rotated positions.
+- **Breathing dysfunction:** Work on ribcage expansion with breathing exercises.
+- **Structural limitations:** Some kyphosis is skeletal. Optimize what you have.
+- **Other sources:** Shoulder or neck issues may need direct treatment.
+
+## The Bottom Line
+
+Thoracic mobility affects everything above and below. If you sit at a desk, look at screens, or do any overhead activity, you need to actively maintain thoracic mobility.
+
+Five minutes daily of extension and rotation work can prevent a cascade of problems. Your shoulders, neck, and lower back will thank you.
+    `
+  },
+  'exercise-after-40-strength-training': {
+    title: 'Exercise After 40: How to Train Smarter as You Age',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '8 min read',
+    content: `
+## The Truth About Training After 40
+
+Your body does change as you age. Recovery takes longer, injuries happen more easily, and you can't get away with as much as you used to. But here's what the fitness industry often gets wrong: you don't need to stop training hard. You need to train smarter.
+
+People in their 40s, 50s, 60s, and beyond can build muscle, get stronger, and improve athleticism. The approach just needs to evolve.
+
+## What Actually Changes
+
+**Recovery:**
+Your body takes longer to recover between sessions. What you bounced back from in 24 hours at 25 might take 48-72 hours at 45.
+
+**Hormones:**
+Testosterone declines gradually in men (about 1% per year after 30). Women experience significant hormonal shifts around menopause. Both affect muscle building, fat loss, and recovery.
+
+**Connective tissue:**
+Tendons, ligaments, and cartilage become less resilient. Overuse injuries become more common.
+
+**Muscle mass:**
+Without intervention, muscle loss (sarcopenia) accelerates after 50—up to 1-2% per year. But this is largely preventable with strength training.
+
+**Bone density:**
+Decreases with age, especially in women post-menopause. Weight-bearing exercise helps maintain it.
+
+**Flexibility:**
+Joints stiffen. Mobility work becomes more important, not less.
+
+## What Doesn't Change
+
+**Adaptability:**
+Your body still adapts to training stimulus. You can build muscle at any age.
+
+**Benefits of strength:**
+Strength training is arguably MORE important after 40—for metabolism, bone health, functional independence, and longevity.
+
+**The basics:**
+Progressive overload, adequate protein, recovery, and consistency still work.
+
+## Training Principles for 40+
+
+### 1. Prioritize Strength Training
+
+This is non-negotiable. Strength training:
+- Prevents muscle loss
+- Maintains bone density
+- Improves metabolism
+- Enhances functional capacity
+- Reduces injury risk
+
+Aim for 2-4 strength sessions per week.
+
+### 2. Manage Volume and Intensity
+
+**Volume:** Total work (sets × reps × weight). You may need less total volume than you did at 25 to get the same stimulus—and definitely need more recovery from high volumes.
+
+**Intensity:** You can still lift heavy, but balance max-effort days with moderate loads.
+
+**Practical approach:**
+- 2-3 hard sessions per week
+- Include easier sessions or active recovery days
+- Don't go to failure on every set
+- Leave 1-2 reps in reserve most of the time
+
+### 3. Warm Up Thoroughly
+
+Your 5-minute warm-up at 25 might need to be 10-15 minutes at 45. This isn't weakness—it's wisdom.
+
+**Include:**
+- 5 minutes light cardio
+- Dynamic stretching
+- Movement preparation for the session
+- Warm-up sets building to working weight
+
+Cold muscles and stiff joints plus heavy weights equals injury.
+
+### 4. Prioritize Recovery
+
+**Sleep:** 7-9 hours. Non-negotiable for recovery and hormone function.
+
+**Nutrition:** Protein needs may actually increase with age. Aim for 0.7-1g per pound of body weight.
+
+**Rest days:** Don't feel guilty. Recovery is when you get stronger.
+
+**Active recovery:** Walking, swimming, light cycling on off days.
+
+**Stress management:** Chronic stress impairs recovery at any age.
+
+### 5. Include Mobility Work
+
+Flexibility and mobility decline without attention. Include:
+- Daily movement (don't stay in one position for hours)
+- Targeted mobility work for problem areas
+- Dynamic warm-ups before training
+- Stretching or yoga 2-3x per week
+
+### 6. Listen to Your Body (Actually)
+
+Discomfort during exercise is normal. Pain is a signal. Learn the difference.
+
+**Adjust when:**
+- Joints are achy before you start
+- You feel run down or under-recovered
+- Pain persists between sessions
+- Sleep is poor
+
+This isn't making excuses—it's training intelligently.
+
+## Sample Training Structure
+
+### Option 1: Full Body (3x/week)
+
+Monday, Wednesday, Friday:
+- Squat or leg press
+- Hinge (deadlift, RDL)
+- Press (bench, overhead)
+- Pull (rows, pulldowns)
+- Carry or core work
+
+Great for: Busy schedules, allowing full recovery between sessions.
+
+### Option 2: Upper/Lower Split (4x/week)
+
+Monday/Thursday: Lower
+- Squat variation
+- Hinge variation
+- Lunges or step-ups
+- Leg curl
+- Calf raises
+
+Tuesday/Friday: Upper
+- Press (horizontal)
+- Press (vertical)
+- Row
+- Pulldown or chin-up
+- Arms/core
+
+Great for: More volume per body part, still adequate recovery.
+
+### Option 3: Push/Pull/Legs (3-6x/week)
+
+Rotate through:
+- Push: chest, shoulders, triceps
+- Pull: back, biceps
+- Legs: quads, hamstrings, glutes
+
+Can run 3x/week (each once) or 6x/week (each twice).
+
+## Exercise Selection
+
+**Favor:**
+- Compound movements (squat, deadlift, press, row)
+- Full range of motion
+- Controlled tempos
+- Machine variations when joints are cranky
+
+**Be cautious with:**
+- Maximum-effort singles (higher injury risk)
+- High-impact plyometrics
+- Exercises that consistently cause pain
+- Extreme ranges of motion under load
+
+**Don't eliminate:**
+- Heavy loads (relative to your capacity)
+- Challenging exercises
+- Progressive overload
+
+## Cardio Considerations
+
+**Benefits:** Heart health, endurance, mental health, recovery.
+
+**Balance:** Don't let cardio interfere with strength training recovery.
+
+**Suggestions:**
+- 2-3 moderate cardio sessions per week (30-45 minutes)
+- 1-2 HIIT sessions if desired (shorter duration)
+- Walking as much as possible (doesn't count against recovery)
+- Activities you enjoy
+
+## Injury Prevention
+
+**Warm up thoroughly:** Every. Single. Time.
+
+**Progress gradually:** The 10% rule applies to load and volume increases.
+
+**Address weaknesses:** Prehab exercises for known problem areas.
+
+**Don't ignore pain:** Small issues become big ones if neglected.
+
+**Balance pushing and pulling:** Most people push too much, pull too little.
+
+**Maintain mobility:** Stiff joints get injured.
+
+## The Long Game
+
+Training after 40 isn't about chasing your 25-year-old numbers. It's about:
+- Building and maintaining muscle
+- Staying strong and functional
+- Preventing disease and decline
+- Moving well for decades to come
+
+The person who trains consistently at moderate intensity for 30 more years beats the person who trains hard for 2 years and gets injured.
+
+## Common Mistakes
+
+- **Training like you're 25:** More recovery is needed.
+- **Not training hard enough:** Fear of injury leads to inadequate stimulus.
+- **Skipping strength training:** Cardio alone won't prevent muscle loss.
+- **Ignoring mobility:** Flexibility loss accelerates without attention.
+- **Poor nutrition:** Protein and overall quality matter more as you age.
+- **Insufficient sleep:** Recovery depends on it.
+
+## The Bottom Line
+
+You can absolutely build muscle, get stronger, and improve your fitness after 40. The principles are the same; the application evolves.
+
+Train hard but smart. Recover fully. Stay consistent. The next 20, 30, 40 years of your life will be better for it.
+    `
+  },
+  'wrist-pain-strengthening-exercises': {
+    title: 'Wrist Pain: Causes, Exercises, and How to Protect Your Wrists',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '6 min read',
+    content: `
+## The Overlooked Joint
+
+Your wrists handle more stress than you realize. Typing, lifting, yoga, weightlifting, carrying groceries—they're involved in nearly everything you do with your hands.
+
+When wrist pain develops, it can derail your training, work, and daily activities. Understanding the causes and building wrist strength and mobility can keep you pain-free.
+
+## Common Causes of Wrist Pain
+
+**Overuse injuries:**
+- Repetitive strain from typing or mouse use
+- Tendinitis from repeated gripping
+- Overloading with push-ups, planks, or front rack positions
+
+**Acute injuries:**
+- Falls (catching yourself with outstretched hand)
+- Sports impacts
+- Lifting accidents
+
+**Specific conditions:**
+- Carpal tunnel syndrome (covered in separate article)
+- De Quervain's tenosynovitis (thumb-side pain)
+- TFCC tears (pinky-side pain)
+- Ganglion cysts
+- Arthritis
+
+**Contributing factors:**
+- Weak forearm muscles
+- Limited wrist mobility
+- Poor ergonomics
+- Training errors
+
+## When to See a Doctor
+
+Seek medical evaluation if:
+- Pain follows significant trauma
+- Visible swelling or deformity
+- Numbness or tingling
+- Significant weakness
+- Pain that worsens despite rest
+- Symptoms lasting more than 2-3 weeks
+
+## Self-Care for Wrist Pain
+
+**Rest from aggravating activities:**
+Modify or avoid what makes it worse.
+
+**Ice:**
+15-20 minutes for acute pain or after activities.
+
+**Wrist support:**
+A brace can help during activities or at night.
+
+**Ergonomic adjustments:**
+- Keyboard and mouse at proper height
+- Neutral wrist position
+- Frequent breaks
+
+## Mobility Exercises
+
+**Wrist circles:**
+1. Extend arm, make fist
+2. Circle wrist in both directions
+3. 10-15 each direction
+4. Great for warm-up
+
+**Prayer stretch:**
+1. Palms together in front of chest
+2. Lower hands while keeping palms together
+3. Feel stretch in front of wrists
+4. Hold 20-30 seconds
+
+**Reverse prayer stretch:**
+1. Backs of hands together, fingers pointing down
+2. Raise hands while keeping contact
+3. Feel stretch in back of wrists
+4. Hold 20-30 seconds
+
+**Wrist flexion/extension stretches:**
+1. Extend arm, palm facing down
+2. Use other hand to gently pull fingers back (extension stretch)
+3. Hold 20-30 seconds
+4. Then pull fingers down toward floor (flexion stretch)
+5. Hold 20-30 seconds
+
+**Forearm rotation:**
+1. Elbow at side, bent 90 degrees
+2. Rotate forearm palm up, then palm down
+3. Full range of motion
+4. 15-20 reps
+
+## Strengthening Exercises
+
+### Basic Strengthening
+
+**Wrist curls (flexion):**
+1. Forearm on table, palm up, wrist off edge
+2. Hold light weight
+3. Curl wrist up, lower slowly
+4. 3 sets of 15
+
+**Reverse wrist curls (extension):**
+1. Forearm on table, palm down, wrist off edge
+2. Hold light weight
+3. Raise wrist up, lower slowly
+4. 3 sets of 15
+
+**Radial/ulnar deviation:**
+1. Hold hammer or weighted bar at end
+2. Arm at side, thumb up
+3. Tip wrist up (radial deviation)
+4. Then tip wrist down (ulnar deviation)
+5. 3 sets of 12 each direction
+
+**Pronation/supination with resistance:**
+1. Hold hammer at end
+2. Rotate forearm palm up to palm down
+3. 3 sets of 15
+
+### Grip Strengthening
+
+**Finger squeeze:**
+1. Use stress ball or grip strengthener
+2. Squeeze and hold 3-5 seconds
+3. 3 sets of 12-15
+
+**Finger extension:**
+1. Place rubber band around all fingers
+2. Spread fingers apart against resistance
+3. 3 sets of 15
+
+**Plate pinches:**
+1. Pinch weight plate(s) between thumb and fingers
+2. Hold for time
+3. 3 sets of 15-30 seconds
+
+### Advanced Strengthening
+
+**Wrist roller:**
+1. Attach weight to rope on dowel
+2. Roll weight up by rotating wrists
+3. Lower slowly
+4. Great for forearm endurance
+
+**Farmer's carries:**
+1. Hold heavy weights at sides
+2. Walk for distance or time
+3. Challenges grip and wrist stability
+
+## Wrist Preparation for Training
+
+If your wrists bother you during push-ups, planks, or front rack positions:
+
+**Before training:**
+1. Wrist circles: 10 each direction
+2. Prayer and reverse prayer stretches: 20 seconds each
+3. Forearm rotations: 10 each direction
+4. Fist clenches: 10 reps
+
+**During training (modifications):**
+- Push-ups on fists or handles (keeps wrist neutral)
+- Use parallettes for planks
+- Pad under heels of hands
+- Use straps for front rack if needed
+
+**Build tolerance gradually:**
+Don't go from zero to high-volume wrist loading. Progress slowly.
+
+## Typing and Desk Work
+
+**Ergonomic setup:**
+- Keyboard at elbow height
+- Wrists neutral (not bent up or down)
+- Elbows at 90 degrees or slightly more
+- Consider ergonomic keyboard or mouse
+
+**Breaks:**
+- Every 30-60 minutes, shake out hands
+- Brief stretches throughout the day
+- Avoid marathon typing sessions
+
+**Strengthen:**
+Strong forearms handle load better. Include strengthening 2-3x weekly.
+
+## Recovery Timeline
+
+- Minor strain: 1-2 weeks
+- Tendinitis: 4-8 weeks
+- More significant injuries: 3-6 months
+
+Wrists heal slowly due to limited blood supply. Be patient and don't rush back to aggravating activities.
+
+## Prevention
+
+- Regular wrist mobility work
+- Forearm strengthening 2-3x weekly
+- Ergonomic workspace
+- Proper warm-up before loading wrists
+- Gradual progression of wrist-intensive exercises
+- Listen to early warning signs
+
+## The Bottom Line
+
+Wrist pain is often a combination of overuse, weakness, and poor positioning. The solution:
+
+1. Address the cause (modify aggravating activities)
+2. Build mobility (daily stretching)
+3. Build strength (regular strengthening)
+4. Prevent recurrence (ergonomics, warm-ups, gradual progression)
+
+Strong, mobile wrists don't just prevent pain—they improve your performance in everything from lifting to typing.
+    `
+  },
   'piriformis-syndrome-treatment': {
     title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
     date: '2026-03-04',

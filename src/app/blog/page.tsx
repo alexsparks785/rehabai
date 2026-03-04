@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'thoracic-spine-mobility',
+    title: 'Thoracic Mobility: The Missing Link in Your Movement',
+    excerpt: 'Your upper back might be the cause of your shoulder, neck, or lower back problems. Here\'s how to unlock thoracic mobility.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercise-after-40-strength-training',
+    title: 'Exercise After 40: How to Train Smarter as You Age',
+    excerpt: 'Your body changes after 40, but that doesn\'t mean you can\'t get stronger. Here\'s how to adapt your training for lasting results.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'wrist-pain-strengthening-exercises',
+    title: 'Wrist Pain: Causes, Exercises, and How to Protect Your Wrists',
+    excerpt: 'Wrist pain from typing, lifting, or yoga? Here\'s how to identify the problem and build stronger, pain-free wrists.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '6 min read'
+  },
+  {
     slug: 'piriformis-syndrome-treatment',
     title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
     excerpt: 'Pain deep in your buttock that shoots down your leg? It might not be sciatica—it could be piriformis syndrome. Here\'s how to tell and what to do.',
