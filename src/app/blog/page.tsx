@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'sciatica-causes-treatment-exercises',
+    title: 'Sciatica: What Causes It and How to Get Real Relief',
+    excerpt: 'That shooting pain down your leg? It\'s probably sciatica—and it\'s usually treatable without surgery. Here\'s what actually works.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'foam-rolling-guide-benefits',
+    title: 'Foam Rolling: Does It Work and How to Do It Right',
+    excerpt: 'Everyone owns a foam roller but few use it correctly. Here\'s what the science says about foam rolling and how to actually benefit from it.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'shin-splints-causes-treatment',
+    title: 'Shin Splints: Why They Happen and How to Fix Them',
+    excerpt: 'That aching pain along your shinbone is one of the most common running injuries. Here\'s why it happens and how to get back to running pain-free.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '7 min read'
+  },
+  {
     slug: 'rest-days-exercise-recovery',
     title: 'Rest Days: How Many You Need and What to Do on Them',
     excerpt: 'Should you exercise every day? Take complete rest? Active recovery? Here\'s what the science says about optimal recovery between workouts.',

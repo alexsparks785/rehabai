@@ -13,6 +13,537 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'sciatica-causes-treatment-exercises': {
+    title: 'Sciatica: What Causes It and How to Get Real Relief',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '8 min read',
+    content: `
+## What Is Sciatica?
+
+Sciatica isn't a diagnosis—it's a symptom. It describes pain that radiates along the sciatic nerve, which runs from your lower back through your hips and buttocks and down each leg.
+
+The pain typically affects only one side of your body. It can range from a mild ache to sharp, burning pain or even electric shock-like sensations. Some people also experience numbness, tingling, or muscle weakness in the affected leg.
+
+## What Causes Sciatic Pain
+
+Several conditions can compress or irritate the sciatic nerve:
+
+### Herniated Disc (Most Common)
+
+The cushioning discs between vertebrae can bulge or rupture, pressing on nerve roots that form the sciatic nerve. This accounts for about 90% of sciatica cases.
+
+### Spinal Stenosis
+
+Narrowing of the spinal canal puts pressure on nerves. More common in adults over 50.
+
+### Piriformis Syndrome
+
+The piriformis muscle in your buttock can spasm and irritate the sciatic nerve that runs beneath (or sometimes through) it.
+
+### Spondylolisthesis
+
+When one vertebra slips forward over another, it can pinch nerve roots.
+
+### Bone Spurs
+
+Overgrowth of bone on the vertebrae can narrow the space available for nerves.
+
+## Red Flags: When to See a Doctor
+
+Most sciatica resolves with conservative treatment. But seek immediate medical attention if you experience:
+
+- Sudden, severe pain in your lower back or leg with numbness or muscle weakness
+- Pain following a violent injury (car accident, fall)
+- Loss of bladder or bowel control (emergency—cauda equina syndrome)
+- Progressive neurological symptoms (increasing numbness or weakness)
+
+## What Actually Helps
+
+### Phase 1: Acute Pain Management (Days 1-7)
+
+**Movement is medicine—but start gentle**
+Complete bed rest makes sciatica worse. Stay active, but avoid positions and activities that increase your pain.
+
+**Find your comfortable positions**
+- Lying on your back with knees bent over pillows
+- Side-lying with pillow between knees
+- Standing or walking may feel better than sitting
+
+**Pain relief**
+Over-the-counter anti-inflammatories (ibuprofen, naproxen) can help, but check with your doctor. Ice or heat—whichever feels better for you.
+
+**Avoid**
+- Prolonged sitting (worst position for disc-related sciatica)
+- Heavy lifting
+- Bending forward with straight legs
+- High-impact activities
+
+### Phase 2: Mobility and Decompression (Weeks 1-4)
+
+Once acute pain subsides, specific movements help reduce nerve compression:
+
+**Nerve flossing (nerve glides)**
+Gentle movements that help the sciatic nerve move freely through surrounding tissues.
+
+1. Sit on a chair with good posture
+2. Straighten the affected leg, pointing toes up
+3. Simultaneously look up at the ceiling
+4. Then bend knee and look down
+5. Perform 10-15 repetitions, slowly
+
+**Press-ups (McKenzie extension)**
+For disc-related sciatica, extension exercises can help:
+
+1. Lie face down
+2. Place hands under shoulders
+3. Press up, lifting chest while keeping hips down
+4. Hold 2 seconds, lower back down
+5. Repeat 10 times, several times daily
+
+**Piriformis stretches**
+If piriformis syndrome is suspected:
+
+1. Lie on back, knees bent
+2. Cross affected leg over opposite knee
+3. Pull uncrossed leg toward chest
+4. Hold 30 seconds, repeat 3 times
+
+### Phase 3: Strengthening (Weeks 2-8+)
+
+As pain decreases, building strength prevents recurrence:
+
+**Core stability**
+- Dead bugs
+- Bird dogs
+- Modified planks
+- Pelvic tilts
+
+**Hip and glute strengthening**
+- Glute bridges
+- Clamshells
+- Side-lying hip abduction
+- Monster walks with resistance band
+
+**General conditioning**
+- Walking (start with 10-15 minutes, progress gradually)
+- Swimming or water walking
+- Stationary cycling (if tolerated)
+
+## What Doesn't Work (Or Makes Things Worse)
+
+**Stretching the hamstrings aggressively**
+When the sciatic nerve is already irritated, aggressive hamstring stretches add tension to the nerve. Go easy.
+
+**Prolonged bed rest**
+More than a day or two of rest leads to deconditioning and often prolongs recovery.
+
+**Ignoring it and pushing through**
+Sciatica is telling you something is wrong. Continuing activities that aggravate it can worsen nerve compression.
+
+**Expecting passive treatments to fix it**
+Massage, heat, and other passive modalities feel good but don't address the underlying cause. They're adjuncts, not solutions.
+
+## Timeline: What to Expect
+
+- **Mild sciatica:** Often improves within 4-6 weeks with conservative treatment
+- **Moderate sciatica:** May take 8-12 weeks for significant improvement
+- **Severe or chronic:** Some cases require 3-6 months of consistent rehabilitation
+
+Most people with sciatica recover without surgery. Studies show that conservative treatment works in 80-90% of cases.
+
+## When Surgery Becomes an Option
+
+Surgery is typically considered when:
+- Conservative treatment fails after 6-12 weeks
+- You have progressive neurological symptoms
+- You have cauda equina syndrome (emergency)
+- Pain is severe and significantly impacting quality of life
+
+The most common procedure is a microdiscectomy—removing the portion of disc pressing on the nerve. Success rates are high (85-90%), but surgery isn't without risks.
+
+## Prevention: Keeping Sciatica From Coming Back
+
+Once you've had sciatica, you're more likely to experience it again. Prevention strategies:
+
+- **Maintain a healthy weight** — less load on your spine
+- **Stay active** — regular exercise maintains spinal health
+- **Use good body mechanics** — lift with your legs, not your back
+- **Strengthen your core** — a stable core protects your spine
+- **Set up your workspace ergonomically** — especially if you sit for work
+- **Take movement breaks** — don't sit for hours without standing
+
+## The Bottom Line
+
+Sciatica is painful and scary, but it's usually treatable. The key is understanding what's causing your symptoms, staying appropriately active, and gradually building the strength and mobility to protect your spine long-term.
+
+Don't wait it out hoping it goes away. Start with gentle movement, find what helps, and progress systematically. Most people are significantly better within a few months—without surgery.
+    `
+  },
+  'foam-rolling-guide-benefits': {
+    title: 'Foam Rolling: Does It Work and How to Do It Right',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## The Foam Rolling Craze
+
+Foam rollers are everywhere—gyms, physical therapy clinics, living rooms. But most people have no idea what foam rolling actually does, whether it works, or how to use it correctly.
+
+Let's separate fact from fiction.
+
+## What Foam Rolling Actually Does
+
+Foam rolling is a form of self-myofascial release (SMR). You use your body weight to apply pressure to soft tissues, rolling back and forth to create a massage-like effect.
+
+But here's where it gets interesting: the mechanism isn't what most people think.
+
+**The old theory:** Foam rolling breaks up adhesions, knots, and scar tissue in fascia and muscle.
+
+**The current understanding:** The pressure you can apply with a foam roller isn't enough to physically deform fascia or break up scar tissue. What's actually happening is neurological—you're stimulating mechanoreceptors that reduce muscle tone and alter pain perception.
+
+In other words, foam rolling works more on your nervous system than on your tissues.
+
+## What the Research Says
+
+**Temporary increase in flexibility**
+Multiple studies show foam rolling can increase range of motion by 4-10% for about 10-30 minutes. It's a useful warm-up tool.
+
+**Reduced muscle soreness**
+Foam rolling after exercise may reduce delayed onset muscle soreness (DOMS). The effect is modest but consistent across studies.
+
+**No impact on performance**
+Unlike static stretching, foam rolling doesn't appear to reduce strength or power when done before activity.
+
+**Pain reduction**
+For some people, foam rolling provides immediate pain relief through the neurological mechanisms mentioned above.
+
+**What's NOT proven:**
+- Long-term flexibility improvements (stretching and strength training are more effective)
+- Breaking up scar tissue or adhesions
+- Improving athletic performance
+
+## How to Foam Roll Correctly
+
+### Basic Technique
+
+1. **Position the roller under the target muscle**
+2. **Use your body weight for pressure** — not so hard it's unbearable, not so light you barely feel it
+3. **Roll slowly** — about 1 inch per second
+4. **Spend 30-90 seconds per muscle group**
+5. **Breathe and try to relax into the pressure**
+
+### Common Mistakes
+
+**Rolling too fast**
+Quick rolling doesn't give your nervous system time to respond. Slow down.
+
+**Rolling directly on bones or joints**
+The roller should be on soft tissue, not on your knee cap, spine, or hip bones.
+
+**Rolling inflamed areas**
+If something is acutely injured or inflamed, rolling it adds more irritation. Skip it.
+
+**Using it as your only recovery tool**
+Foam rolling is a supplement, not a replacement for stretching, strengthening, and proper sleep/nutrition.
+
+**Expecting miracles**
+Foam rolling is a minor intervention. It's not going to fix a chronic problem.
+
+## Area-by-Area Guide
+
+### Quadriceps (Front of Thigh)
+
+1. Lie face down with roller under one or both thighs
+2. Support yourself on forearms
+3. Roll from hip to just above knee
+4. Turn slightly to hit inner and outer quad
+
+### IT Band/Outer Thigh
+
+1. Lie on your side with roller under outer thigh
+2. Stack or stagger legs
+3. Roll from hip to just above knee
+4. **Note:** This area is notoriously sensitive. It doesn't need to be torture to be effective.
+
+### Hamstrings (Back of Thigh)
+
+1. Sit with roller under one or both thighs
+2. Hands behind you for support
+3. Roll from sit bones to just above knee
+4. Rotate leg in/out to hit different angles
+
+### Calves
+
+1. Sit with roller under one or both calves
+2. Cross ankles to add pressure if needed
+3. Roll from behind knee to above ankle
+4. Rotate leg to hit inner and outer calf
+
+### Glutes
+
+1. Sit on roller with knees bent
+2. Cross one ankle over opposite knee
+3. Lean toward the crossed side
+4. Roll around the glute muscle
+
+### Upper Back (Thoracic Spine)
+
+1. Lie on back with roller across upper back
+2. Support head with hands (don't pull on neck)
+3. Lift hips and roll from mid-back to upper back
+4. **Avoid:** Rolling the lower back—it tends to hyperextend
+
+### Lats (Side of Back)
+
+1. Lie on side with roller under armpit area
+2. Arm extended overhead
+3. Roll from armpit to mid-rib area
+
+## When to Foam Roll
+
+### Before Exercise (Warm-up)
+
+Use foam rolling to increase range of motion and blood flow before activity. Keep it brief—1-2 minutes total on areas you'll be using.
+
+### After Exercise (Recovery)
+
+Post-workout rolling may help reduce soreness. Spend more time here—5-10 minutes on major muscle groups.
+
+### On Rest Days
+
+General maintenance and recovery. Focus on chronically tight areas.
+
+### When You're Sore or Stiff
+
+Foam rolling can provide temporary relief from muscle tightness.
+
+## When NOT to Foam Roll
+
+- **Acute injuries** — swelling, bruising, recent muscle strains
+- **Over bones or joints** — target soft tissue only
+- **Varicose veins** — avoid direct pressure
+- **If you're on blood thinners** — bruising risk is higher
+- **If it makes your symptoms worse** — pain during is okay, pain after is not
+
+## Roller Types: Which to Choose
+
+**Soft foam rollers**
+Best for beginners or sensitive areas. Less intense.
+
+**Firm EVA foam rollers**
+Standard choice for most people. Good balance of pressure and comfort.
+
+**Textured/bumpy rollers**
+More targeted pressure. Can be too intense for some.
+
+**Vibrating rollers**
+Add vibration to enhance the neurological effects. Research is mixed on added benefit.
+
+**Lacrosse balls/massage balls**
+For smaller, more targeted areas like feet, glutes, or between shoulder blades.
+
+## The Bottom Line
+
+Foam rolling is a useful tool, but it's not magic. Use it for:
+- Pre-workout warm-up (temporary flexibility boost)
+- Post-workout recovery (modest soreness reduction)
+- General maintenance (feels good, some pain relief)
+
+Don't use it as a substitute for stretching, strengthening, or addressing the root cause of your problems.
+
+The key is consistency over intensity. Regular, gentle foam rolling beats occasional torture sessions. If it hurts so much you're holding your breath, back off.
+    `
+  },
+  'shin-splints-causes-treatment': {
+    title: 'Shin Splints: Why They Happen and How to Fix Them',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Legs',
+    readTime: '7 min read',
+    content: `
+## The Runner's Nemesis
+
+Shin splints—or medial tibial stress syndrome (MTSS)—is one of the most common running injuries. That aching, throbbing pain along the inside of your shinbone affects up to 35% of runners at some point.
+
+The good news: shin splints are treatable and preventable. The key is understanding why they happen.
+
+## What's Actually Happening
+
+Shin splints are an overuse injury. The muscles, tendons, and bone tissue around your tibia become overworked and inflamed.
+
+The primary culprit is the tibialis posterior muscle, which attaches along the inside of your shin and helps control your arch during foot strike. When this muscle is overloaded, it creates stress where it attaches to the bone.
+
+Repeated stress leads to:
+- Inflammation of the muscle/tendon
+- Irritation of the periosteum (bone covering)
+- Microstress reactions in the bone itself
+
+## Why Shin Splints Happen
+
+### Training Errors (Most Common)
+
+**Too much, too soon**
+Increasing mileage, intensity, or frequency faster than your body can adapt. The classic mistake.
+
+**Running on hard surfaces**
+Concrete and asphalt increase impact forces compared to trails or track.
+
+**Worn-out shoes**
+Running shoes lose cushioning after 300-500 miles. Old shoes = more stress on your shins.
+
+### Biomechanical Factors
+
+**Overpronation**
+Excessive inward rolling of the foot increases demand on the tibialis posterior.
+
+**Flat feet or high arches**
+Both extremes can contribute to altered loading patterns.
+
+**Hip weakness**
+Weak glutes and hip stabilizers cause the leg to rotate inward, increasing tibial stress.
+
+**Tight calves**
+Limited ankle mobility changes how forces travel up your leg.
+
+### Other Risk Factors
+
+- Being female (2-3x higher risk)
+- Previous shin splints (recurrence is common)
+- Low bone density
+- Higher BMI
+- Running gait abnormalities
+
+## Is It Actually Shin Splints?
+
+Not all shin pain is shin splints. Conditions to rule out:
+
+**Stress fracture**
+More localized pain (often one specific spot you can point to). Pain with hopping on one leg. Gets worse over time rather than better with warm-up. Requires imaging to confirm.
+
+**Compartment syndrome**
+Severe tightness/pressure during exercise that resolves with rest. May include numbness. Needs medical evaluation.
+
+**Nerve entrapment**
+Burning, tingling, or numbness rather than just aching.
+
+**See a doctor if:**
+- Pain is severe or getting worse despite rest
+- Pain is very localized to one spot
+- You have swelling, redness, or warmth
+- Pain occurs at rest, not just with activity
+- Symptoms don't improve after 2-3 weeks of treatment
+
+## How to Treat Shin Splints
+
+### Phase 1: Acute Phase (Week 1-2)
+
+**Reduce training load**
+This is non-negotiable. You can't run through shin splints—they'll only get worse. Options:
+- Complete rest from running
+- Cross-train with zero-impact activities (swimming, cycling, elliptical)
+- Pool running maintains fitness without impact
+
+**Ice**
+15-20 minutes several times daily to reduce inflammation.
+
+**Anti-inflammatories**
+NSAIDs (ibuprofen, naproxen) can help short-term. Not a long-term solution.
+
+**Soft tissue work**
+Gentle massage or foam rolling of the calf muscles (not directly on the painful shin bone).
+
+### Phase 2: Recovery Phase (Weeks 2-4)
+
+As pain decreases, start rehab exercises:
+
+**Calf raises**
+Strengthen the muscles supporting your shin.
+- 3 sets of 15, both legs
+- Progress to single-leg raises
+
+**Toe raises (tibialis anterior)**
+1. Stand with back against wall
+2. Raise toes off ground while heels stay down
+3. Lower slowly
+4. 3 sets of 15
+
+**Eccentric calf work**
+1. Rise up on both feet
+2. Lower slowly on one foot (6-count descent)
+3. 3 sets of 10 each leg
+
+**Hip and glute strengthening**
+- Clamshells
+- Side-lying hip abduction
+- Single-leg bridges
+- Monster walks
+
+**Ankle mobility**
+- Ankle circles
+- Calf stretches (wall stretch, step stretch)
+- Towel scrunches for foot intrinsic muscles
+
+### Phase 3: Return to Running
+
+When you can walk without pain and hop on the affected leg without pain:
+
+**Start with walk-run intervals**
+- Example: 4 min walk, 1 min jog, repeat 6 times
+- Gradually increase run intervals, decrease walk intervals
+- Progress over 2-4 weeks back to continuous running
+
+**Follow the 10% rule**
+Increase weekly mileage by no more than 10% per week.
+
+**Run on softer surfaces initially**
+Track, grass, trails—less impact than roads.
+
+## Prevention: Keeping Shin Splints From Returning
+
+### Footwear
+
+- **Replace running shoes** every 300-500 miles
+- **Get fitted properly** at a running specialty store
+- **Consider orthotics** if you have significant pronation or arch issues
+
+### Training
+
+- **Increase gradually** — the 10% rule applies to mileage, intensity, and hill work
+- **Vary surfaces** — mix roads, trails, track
+- **Cross-train** — reduce total running impact by incorporating cycling, swimming, etc.
+- **Allow recovery** — don't run hard every day
+
+### Strength and Mobility
+
+- **Calf raises** 2-3x per week (prevention, not just treatment)
+- **Hip/glute strength** — weak hips contribute to shin problems
+- **Ankle mobility** — maintain full range of motion
+- **Single-leg exercises** — running is a single-leg sport
+
+### Running Form
+
+- **Increase cadence** — taking more, shorter steps reduces impact per stride
+- **Avoid overstriding** — landing with foot under your body, not out in front
+- **Consider gait analysis** — if problems persist, a running specialist can identify issues
+
+## Recovery Timeline
+
+- **Mild shin splints:** 2-4 weeks with proper management
+- **Moderate shin splints:** 4-8 weeks
+- **Severe/recurring:** 8-12+ weeks; may need imaging to rule out stress fracture
+
+The mistake most runners make is returning too quickly. When symptoms resolve, that doesn't mean the tissue is fully healed. Build back gradually and keep up the prevention work.
+
+## The Bottom Line
+
+Shin splints are frustrating but fixable. The solution is almost never "just rest"—it's identifying why they happened and addressing those factors.
+
+If you only rest without strengthening, improving mobility, and fixing training errors, shin splints will come back. Use the recovery time to build a more resilient body, and you'll come back a stronger, more durable runner.
+    `
+  },
   'when-to-see-doctor-pain': {
     title: 'When to See a Doctor for Pain: Red Flags You Shouldn\'t Ignore',
     date: '2026-02-28',
