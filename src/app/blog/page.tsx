@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'sleep-and-muscle-recovery',
+    title: 'Sleep and Muscle Recovery: Why Rest Is When You Actually Get Stronger',
+    excerpt: 'You can\'t out-train bad sleep. Here\'s why sleep is essential for muscle growth, recovery, and performance.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'bodyweight-exercises-complete-guide',
+    title: 'Bodyweight Exercises: Build Strength Anywhere Without Equipment',
+    excerpt: 'No gym? No problem. Here\'s how to build real strength using just your body weight.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '8 min read'
+  },
+  {
     slug: 'progressive-overload-explained',
     title: 'Progressive Overload: The Only Way to Keep Getting Stronger',
     excerpt: 'Not making progress anymore? You might be missing the most important principle in fitness. Here\'s how to apply progressive overload.',

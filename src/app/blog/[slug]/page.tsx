@@ -13,6 +13,468 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'sleep-and-muscle-recovery': {
+    title: 'Sleep and Muscle Recovery: Why Rest Is When You Actually Get Stronger',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: `
+## The Overlooked Variable
+
+You can have the perfect training program. You can eat optimal macros. But if your sleep is poor, you're leaving gains on the table.
+
+Sleep isn't downtime—it's when the real work happens. Your body repairs tissue, releases growth hormone, consolidates learning, and prepares for the next day's training.
+
+## What Happens During Sleep
+
+### Muscle Repair
+
+Training creates microscopic damage in muscle fibers. During deep sleep, your body ramps up protein synthesis to repair and strengthen these fibers.
+
+Without adequate sleep:
+- Protein synthesis decreases
+- Muscle breakdown increases
+- Net result: less muscle growth
+
+### Hormone Release
+
+**Growth hormone:** Up to 75% of daily growth hormone is released during deep sleep. Growth hormone is essential for muscle repair, fat metabolism, and tissue recovery.
+
+**Testosterone:** Sleep deprivation significantly reduces testosterone levels—by up to 15% after just one week of restricted sleep.
+
+**Cortisol:** Poor sleep elevates cortisol, a catabolic hormone that breaks down muscle and promotes fat storage.
+
+### Nervous System Recovery
+
+Your nervous system drives muscle contractions. Heavy training taxes the nervous system, and it recovers primarily during sleep.
+
+Poor sleep = poor nervous system recovery = weaker performance.
+
+### Glycogen Restoration
+
+Sleep helps restore muscle glycogen—the fuel for intense exercise. Without adequate replenishment, your next workout suffers.
+
+## The Research
+
+Studies consistently show:
+
+- **Reduced sleep = reduced strength gains** even with identical training programs
+- **Sleep extension improves performance** in athletes
+- **One night of poor sleep** measurably impairs next-day performance
+- **Chronic sleep restriction** leads to muscle loss, even in a caloric surplus
+
+One striking study: participants who slept 5.5 hours vs 8.5 hours during a calorie deficit lost the same total weight, but the sleep-restricted group lost 60% more muscle and 55% less fat.
+
+## How Much Sleep?
+
+### General Recommendations
+
+- Adults: 7-9 hours
+- Athletes/heavy trainers: 8-10 hours
+- Individual needs vary
+
+### Signs You Need More
+
+- Difficulty waking without alarm
+- Relying on caffeine
+- Afternoon energy crashes
+- Mood changes
+- Decreased motivation
+- Plateau despite good training and nutrition
+- Frequent illness
+- Slow recovery from workouts
+
+## Improving Sleep for Recovery
+
+### Sleep Hygiene Basics
+
+**Consistent schedule:**
+- Same bedtime and wake time daily
+- Yes, even weekends
+- Sets your circadian rhythm
+
+**Dark environment:**
+- Blackout curtains or eye mask
+- Cover or remove light sources
+- Darkness signals melatonin release
+
+**Cool temperature:**
+- 65-68°F (18-20°C) is optimal
+- Body temperature drop helps initiate sleep
+
+**Limit screens:**
+- Blue light suppresses melatonin
+- Stop screens 1-2 hours before bed
+- Or use blue light blocking glasses
+
+**Quiet environment:**
+- Earplugs or white noise machine
+- Address noise sources
+
+### Nutrition and Sleep
+
+**Avoid late caffeine:**
+- Caffeine half-life is 5-6 hours
+- Stop by early afternoon
+- Individual sensitivity varies
+
+**Don't eat too close to bed:**
+- Large meals can disrupt sleep
+- Finish eating 2-3 hours before bed
+- Light snack is fine if hungry
+
+**Limit alcohol:**
+- Alcohol may help you fall asleep
+- But it disrupts sleep quality
+- Less deep sleep, more waking
+
+**Consider sleep-supporting nutrients:**
+- Magnesium
+- Zinc
+- Tart cherry juice (natural melatonin)
+
+### Training Timing
+
+**Morning/afternoon training:**
+- Generally doesn't disrupt sleep
+- May even improve sleep quality
+
+**Evening training:**
+- Intense exercise close to bed can impair sleep
+- Allow 2-3 hours between hard training and sleep
+- Some people are fine; monitor your response
+
+### Wind-Down Routine
+
+Create a consistent pre-sleep routine:
+- Dim lights
+- Relaxing activities (reading, stretching)
+- Avoid stimulating content
+- Deep breathing or meditation
+- Signal to your body that sleep is coming
+
+## Napping
+
+Naps can supplement nighttime sleep:
+
+**Benefits:**
+- Improves alertness and performance
+- Can enhance muscle recovery
+- Reduces sleep debt
+
+**Guidelines:**
+- Keep under 30 minutes (or 90 minutes for full cycle)
+- Before 3 PM to avoid disrupting night sleep
+- Consistent timing helps
+
+**Limitations:**
+- Doesn't fully replace nighttime sleep
+- Some people wake groggy (sleep inertia)
+
+## Sleep Tracking
+
+Wearables and apps can provide insight:
+
+**Useful for:**
+- Identifying patterns
+- Holding yourself accountable
+- Correlating sleep with performance
+
+**Limitations:**
+- Accuracy varies
+- Don't obsess over metrics
+- How you feel matters more than what the app says
+
+## When Sleep Is Hard
+
+If you struggle with sleep despite good hygiene:
+
+- **Stress management:** Address underlying anxiety
+- **Cognitive behavioral therapy for insomnia (CBT-I):** Most effective treatment for chronic insomnia
+- **Medical evaluation:** Rule out sleep apnea or other conditions
+- **Professional help:** Sleep specialist if problems persist
+
+Avoid relying on sleep medications long-term. They often don't provide the same restorative sleep.
+
+## The Bottom Line
+
+Sleep is not optional for recovery—it's when recovery happens.
+
+Prioritize:
+- 7-9 hours minimum (8-10 for heavy training)
+- Consistent schedule
+- Sleep-friendly environment
+- Pre-sleep routine
+
+You can't out-train bad sleep. But with good sleep, your training becomes far more effective. This is the easiest gain many people aren't taking.
+    `
+  },
+  'bodyweight-exercises-complete-guide': {
+    title: 'Bodyweight Exercises: Build Strength Anywhere Without Equipment',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '8 min read',
+    content: `
+## No Gym Required
+
+You don't need a gym membership or fancy equipment to build real strength. Your body weight provides all the resistance you need—if you know how to use it.
+
+Bodyweight training builds functional strength, improves mobility, and can be done anywhere. Here's how to make it work.
+
+## Why Bodyweight Training Works
+
+**Progressive overload is still possible:**
+Harder variations, more reps, slower tempos, reduced leverage—all increase difficulty without adding weight.
+
+**Functional movement patterns:**
+You train movements, not just muscles. This transfers to real-world strength.
+
+**Joint-friendly:**
+Often easier on joints than heavy loaded exercises.
+
+**Convenience:**
+No equipment, no gym, no excuses. Travel, home, outdoors—anywhere works.
+
+**Foundation building:**
+Master your body weight before adding external load.
+
+## The Essential Movements
+
+### Push-Up Progressions
+
+**Wall push-up (easiest):**
+Hands on wall, body at angle. Step feet back to increase difficulty.
+
+**Incline push-up:**
+Hands on bench, chair, or stairs. Lower incline = harder.
+
+**Knee push-up:**
+Standard push-up position but knees on ground.
+
+**Full push-up:**
+Hands and toes, body straight. The standard.
+
+**Diamond push-up:**
+Hands close together under chest. More tricep emphasis.
+
+**Archer push-up:**
+Wide hand position, shift weight to one side. Progression toward one-arm.
+
+**Decline push-up:**
+Feet elevated. More shoulder and upper chest.
+
+**One-arm push-up (advanced):**
+The ultimate push-up progression.
+
+**Tips:**
+- Keep body in straight line (no sagging hips)
+- Elbows at 45 degrees, not flared
+- Full range—chest to floor, arms fully extended
+
+### Squat Progressions
+
+**Assisted squat:**
+Hold onto something for balance. Practice the pattern.
+
+**Box squat:**
+Squat to a chair or box. Touch and stand.
+
+**Bodyweight squat:**
+Full squat with no assistance.
+
+**Pause squat:**
+Hold at bottom for 2-3 seconds.
+
+**Jump squat:**
+Add explosive jump at top.
+
+**Bulgarian split squat:**
+Rear foot elevated on chair. Single-leg emphasis.
+
+**Pistol squat (advanced):**
+Single-leg squat to full depth. Requires strength, balance, and mobility.
+
+**Tips:**
+- Knees track over toes
+- Weight through whole foot
+- Chest up, back neutral
+- Go as deep as mobility allows with good form
+
+### Row/Pull Progressions
+
+This is where most bodyweight programs fall short. You need something to pull against.
+
+**Door frame rows:**
+Hold door frame edges, lean back, row yourself up.
+
+**Table rows:**
+Lie under sturdy table, grab edges, row chest to table.
+
+**Inverted rows (ideal):**
+Bar at hip height, body straight, row chest to bar. Lower bar = harder.
+
+**Towel rows:**
+Loop towel over door, grip both ends, row.
+
+**Pull-up progressions:**
+- Dead hang (just hang)
+- Scapular pull-ups (engage shoulders without bending arms)
+- Negative pull-ups (jump up, lower slowly)
+- Band-assisted pull-ups
+- Full pull-ups
+- Weighted pull-ups
+
+**Tips:**
+- Squeeze shoulder blades together
+- Pull elbows to hips (rows) or down and back (pull-ups)
+- Full range of motion
+
+### Hip Hinge Progressions
+
+**Good morning:**
+Hands behind head, hinge at hips, feel hamstring stretch.
+
+**Single-leg Romanian deadlift:**
+Balance on one leg, hinge forward, reach for floor.
+
+**Glute bridge:**
+Lying hip extension. Squeeze glutes at top.
+
+**Single-leg glute bridge:**
+One leg extended, bridge on single leg.
+
+**Hip thrust:**
+Upper back on bench, feet on floor, drive hips up.
+
+**Nordic curl (advanced):**
+Kneel, have partner hold ankles, lower body forward, control descent.
+
+**Tips:**
+- Hinge at hips, not spine
+- Feel work in glutes and hamstrings
+- Don't hyperextend at top
+
+### Core Exercises
+
+**Plank:**
+Foundation core exercise. Keep body straight.
+
+**Side plank:**
+Lateral core stability.
+
+**Dead bug:**
+Lying on back, opposite arm/leg extensions. Maintain flat back.
+
+**Bird-dog:**
+On hands and knees, opposite arm/leg extensions.
+
+**Hollow body hold:**
+Lying on back, legs and arms extended, hold position.
+
+**L-sit (advanced):**
+Support body on hands, legs extended in front.
+
+**Tips:**
+- Quality over quantity
+- Maintain position—stop when form breaks
+- Breathe
+
+## Sample Programs
+
+### Beginner (3x/week)
+
+**Workout A:**
+1. Incline push-ups: 3 × 8-12
+2. Box squats: 3 × 10-15
+3. Inverted rows (high bar): 3 × 8-12
+4. Glute bridges: 3 × 12-15
+5. Plank: 3 × 20-30 sec
+
+**Workout B:**
+1. Knee push-ups: 3 × 8-12
+2. Lunges: 3 × 10 each leg
+3. Table rows: 3 × 8-12
+4. Good mornings: 3 × 12
+5. Dead bug: 3 × 10 each side
+
+### Intermediate (3-4x/week)
+
+1. Push-ups: 3 × 12-15
+2. Bulgarian split squats: 3 × 10 each leg
+3. Inverted rows: 3 × 10-12
+4. Single-leg RDL: 3 × 10 each leg
+5. Diamond push-ups: 2 × 10-12
+6. Pistol squat progressions: 3 × 5 each leg
+7. Plank variations: 3 × 30-45 sec
+
+### Advanced (4x/week)
+
+**Upper A:**
+1. One-arm push-up progression: 4 × 5-8 each
+2. Pull-ups: 4 × 8-12
+3. Pike push-ups: 3 × 10-12
+4. Archer rows: 3 × 8 each
+5. Dips: 3 × 10-12
+
+**Lower A:**
+1. Pistol squats: 4 × 5-8 each
+2. Nordic curl negatives: 4 × 5
+3. Single-leg hip thrust: 3 × 10 each
+4. Jumping lunges: 3 × 10 each
+
+**Upper B:**
+1. Archer push-ups: 4 × 6-8 each
+2. Muscle-up progressions: 4 × work
+3. Handstand push-up progressions: 3 × 5-8
+4. Front lever progressions: 3 × work
+5. L-sit: 3 × 15-20 sec
+
+**Lower B:**
+1. Shrimp squat progressions: 4 × 5-8 each
+2. Single-leg glute bridge: 3 × 12 each
+3. Box jumps: 4 × 5
+4. Calf raises (single leg): 3 × 15 each
+
+## Progression Strategies
+
+Since you can't add weight, progress through:
+
+**1. Harder variations:**
+Incline push-up → standard → decline → one-arm
+
+**2. More reps:**
+3 × 8 → 3 × 10 → 3 × 12 → harder variation at 3 × 8
+
+**3. More sets:**
+3 sets → 4 sets → 5 sets
+
+**4. Slower tempo:**
+Add 3-second lowering phase
+
+**5. Pauses:**
+Hold difficult positions for 2-3 seconds
+
+**6. Reduced rest:**
+90 seconds → 60 seconds → 45 seconds
+
+**7. Add instability:**
+Elevate one foot, use rings, narrow base
+
+## The Bottom Line
+
+Bodyweight training is real training. People built impressive physiques long before gyms existed.
+
+Keys to success:
+- Master the fundamentals
+- Progress to harder variations
+- Train consistently
+- Challenge yourself
+
+No equipment is not an excuse. Your body is the equipment. Start using it.
+    `
+  },
   'progressive-overload-explained': {
     title: 'Progressive Overload: The Only Way to Keep Getting Stronger',
     date: '2026-03-04',
