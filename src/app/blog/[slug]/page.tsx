@@ -13,6 +13,707 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'runners-knee-patellofemoral-pain': {
+    title: 'Runner\'s Knee: Why Your Kneecap Hurts and How to Fix It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Knees',
+    readTime: '7 min read',
+    content: `
+## The Most Common Running Complaint
+
+Runner's knee—officially called patellofemoral pain syndrome (PFPS)—is the single most common running injury, affecting up to 25% of runners. But you don't have to be a runner to get it. Cyclists, hikers, and anyone who sits for long periods can develop that nagging ache around the kneecap.
+
+The good news: it's very treatable without surgery. The challenge is that it requires patience and consistency.
+
+## What's Happening
+
+Patellofemoral pain involves the kneecap (patella) and the groove it slides in on the thighbone (femur). When the patella doesn't track smoothly in this groove, or when there's increased stress on the joint, pain develops.
+
+**Contributing factors:**
+- Weakness in the quadriceps, especially the VMO (inner quad)
+- Weak hip muscles, particularly glutes
+- Tight quads, IT band, or hip flexors
+- Overpronation of the feet
+- Training errors (too much, too soon)
+- Prolonged sitting with knees bent
+- Poor movement patterns
+
+It's usually not one thing but a combination of factors.
+
+## Symptoms
+
+- Aching pain around or behind the kneecap
+- Pain worse with stairs (especially going down)
+- Pain with prolonged sitting ("movie theater sign")
+- Pain with squatting, lunging, or kneeling
+- Pain during or after running
+- Possible grinding or clicking sensation
+- Stiffness after sitting
+
+## What Makes It Worse
+
+- Running (especially hills and speed work)
+- Stairs, particularly descending
+- Prolonged sitting with bent knees
+- Deep squats and lunges
+- Kneeling
+- Sudden increases in training volume
+
+## Phase 1: Pain Management (Weeks 1-2)
+
+**Reduce aggravating activities:**
+- Reduce running volume (don't necessarily stop completely)
+- Avoid deep squats and lunges
+- Take breaks from prolonged sitting
+- Avoid stairs when possible
+
+**Pain relief:**
+- Ice after activity (15-20 minutes)
+- NSAIDs short-term if needed
+- Patellar taping (McConnell technique) may help
+
+**Maintain fitness:**
+- Pool running
+- Swimming
+- Cycling (if pain-free—adjust seat height if needed)
+- Upper body training
+
+## Phase 2: Address the Causes (Weeks 1-6)
+
+### Quadriceps Strengthening
+
+The quads control the patella. Weakness, especially in the VMO, contributes to poor tracking.
+
+**Straight leg raises:**
+1. Lie on back, one knee bent, other leg straight
+2. Tighten thigh, rotate foot outward slightly
+3. Lift leg 6-8 inches
+4. Hold 3 seconds, lower slowly
+5. 3 sets of 15 each side
+
+**Terminal knee extensions:**
+1. Loop band around anchor and behind knee
+2. Start with knee slightly bent
+3. Straighten knee against resistance
+4. 3 sets of 15
+
+**Wall sits:**
+1. Back against wall, lower to 45-degree knee bend
+2. Don't go below 90 degrees
+3. Hold 30-60 seconds
+4. Progress time gradually
+
+**Step-ups (controlled):**
+1. Step up onto 4-6 inch step
+2. Control the descent
+3. Keep knee aligned over toes
+4. 3 sets of 10 each side
+5. Progress step height gradually
+
+### Hip Strengthening
+
+Weak hips, especially glutes, cause the knee to collapse inward, increasing patella stress.
+
+**Clamshells:**
+1. Lie on side, knees bent 45 degrees
+2. Keep feet together, lift top knee
+3. Don't rotate pelvis back
+4. 3 sets of 15-20 each side
+
+**Side-lying hip abduction:**
+1. Lie on side, bottom knee bent, top leg straight
+2. Lift top leg toward ceiling
+3. Toes pointing slightly down
+4. 3 sets of 15-20 each side
+
+**Glute bridges:**
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes, lift hips
+3. 3 sets of 15
+4. Progress to single-leg
+
+**Monster walks:**
+1. Band around ankles or above knees
+2. Quarter-squat position
+3. Walk sideways, maintaining tension
+4. 2-3 sets of 15 steps each direction
+
+**Single-leg balance:**
+1. Stand on one leg
+2. Hold 30 seconds
+3. Progress to eyes closed, unstable surface
+
+### Flexibility Work
+
+Tight muscles can alter patella tracking.
+
+**Quad stretch:**
+1. Stand, pull heel toward buttock
+2. Keep knees together, pelvis neutral
+3. Hold 30 seconds each side
+
+**IT band foam rolling:**
+1. Lie on side, roller under outer thigh
+2. Roll from hip to just above knee
+3. Avoid rolling directly on knee
+4. 1-2 minutes each side
+
+**Hip flexor stretch:**
+1. Half-kneeling position
+2. Tuck tailbone, lean forward slightly
+3. Hold 30 seconds each side
+
+## Phase 3: Functional Progression (Weeks 4-8)
+
+As pain decreases, progress to more functional movements:
+
+**Squats (controlled range):**
+1. Start with partial squats (quarter to half)
+2. Focus on knees tracking over toes
+3. Don't let knees cave inward
+4. Progress depth as tolerated
+
+**Step-downs:**
+1. Stand on step, lower opposite foot to floor
+2. Control the descent (4 seconds)
+3. Tap floor, return to start
+4. 3 sets of 10 each side
+5. Progress step height
+
+**Single-leg squats (partial):**
+1. Stand on one leg
+2. Squat down as far as pain-free
+3. Keep knee aligned over toes
+4. 3 sets of 8-10 each side
+
+**Lunges (forward and reverse):**
+1. Start with body weight
+2. Controlled movement
+3. Knee should not go past toes
+4. Progress to walking lunges
+
+## Return to Running
+
+Once you've built strength and exercises are pain-free:
+
+**Week 1-2:** Walk-run intervals (run 1 min, walk 2 min)
+**Week 3-4:** Increase running intervals
+**Week 5-6:** Continuous easy running, short duration
+**Week 7+:** Gradually increase duration and add intensity
+
+**Rules:**
+- Pain should stay below 3/10 during running
+- No increased pain the next day
+- If pain increases, step back a phase
+- Add hills and speed work last
+
+## Other Helpful Interventions
+
+**Footwear:**
+- Supportive running shoes
+- Consider motion control if you overpronate
+- Replace shoes every 300-500 miles
+
+**Orthotics:**
+- May help if you have significant pronation
+- Over-the-counter often sufficient
+- Custom if needed
+
+**Patellar taping:**
+- McConnell taping can reduce pain during activity
+- Learn technique from a physio, or use patellar straps
+
+**Running form:**
+- Increase cadence (reduces load per stride)
+- Avoid overstriding
+- Consider gait analysis
+
+## Timeline
+
+- Mild cases: 4-6 weeks
+- Moderate cases: 6-12 weeks
+- Chronic cases: 3-6 months
+
+Patience is essential. Pushing through pain delays recovery.
+
+## Prevention
+
+- Hip and quad strengthening 2-3x weekly
+- Gradual training increases (10% rule)
+- Proper footwear
+- Address flexibility limitations
+- Cross-train to reduce running load
+- Don't ignore early warning signs
+
+## The Bottom Line
+
+Runner's knee is a strength and control problem, not a "wear and tear" or structural problem. Build strong quads and hips, address flexibility issues, and return to running gradually.
+
+The exercises work—but only if you do them consistently. Make hip and knee strengthening a permanent part of your routine.
+    `
+  },
+  'golfers-elbow-medial-epicondylitis': {
+    title: 'Golfer\'s Elbow: Causes, Treatment, and Exercises That Work',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read',
+    content: `
+## Tennis Elbow's Less Famous Cousin
+
+Golfer's elbow (medial epicondylitis) is pain on the inside of the elbow, where the forearm flexor tendons attach. Like tennis elbow, most people who get it aren't actually playing the sport it's named after.
+
+Any activity involving gripping, twisting, or wrist flexion can cause it: rock climbing, weightlifting, throwing sports, carpentry, typing, and yes—golf.
+
+## Tennis Elbow vs. Golfer's Elbow
+
+**Tennis elbow (lateral epicondylitis):**
+- Pain on the OUTSIDE of elbow
+- Involves forearm extensors (back of forearm)
+- Pain with gripping, lifting, wrist extension
+
+**Golfer's elbow (medial epicondylitis):**
+- Pain on the INSIDE of elbow
+- Involves forearm flexors (front of forearm)
+- Pain with gripping, wrist flexion, throwing
+
+Both are tendinopathies—degeneration from overuse, not acute inflammation.
+
+## Symptoms
+
+- Pain on the inside of the elbow (medial epicondyle)
+- Pain may radiate into the forearm
+- Weakness in grip
+- Pain with gripping activities
+- Stiffness in the elbow
+- Numbness or tingling into the ring and pinky fingers (ulnar nerve involvement)
+- Pain with wrist flexion or forearm pronation
+
+## Risk Factors
+
+- **Repetitive gripping or throwing**
+- **Poor technique** in sports or work activities
+- **Age 40+** (tendon degeneration is more common)
+- **Improper equipment** (wrong grip size, heavy tools)
+- **Sudden increase in activity**
+- **Weightlifting** (especially rows, curls, pull-ups)
+
+## What Doesn't Work
+
+**Rest alone:**
+Pain goes away, but the tendon doesn't heal. Symptoms return when you resume activity.
+
+**Cortisone injections:**
+Short-term relief, worse long-term outcomes. Can weaken tendon.
+
+**Anti-inflammatories:**
+Tendinopathy isn't primarily inflammatory. NSAIDs don't fix the problem.
+
+**Braces alone:**
+Reduce pain but don't address the underlying tendon degeneration.
+
+## What Works: Progressive Loading
+
+Like all tendinopathies, golfer's elbow requires progressive loading to heal. The tendon needs stress to remodel and get stronger.
+
+### Phase 1: Isometrics (Weeks 1-2)
+
+Hold positions without movement. Good for pain relief and starting tendon loading.
+
+**Wrist flexion isometric:**
+1. Rest forearm on table, palm up, wrist hanging off edge
+2. Use other hand to push down on palm
+3. Resist without moving (no wrist movement)
+4. Hold 30-45 seconds
+5. Repeat 3-5 times, 3x daily
+
+**Grip isometric:**
+1. Squeeze stress ball or rolled towel
+2. Hold 30 seconds
+3. Repeat 3-5 times
+
+### Phase 2: Eccentric Exercises (Weeks 2-6)
+
+Eccentric (lengthening) exercises are the gold standard for tendon rehabilitation.
+
+**Eccentric wrist flexion:**
+1. Rest forearm on table, palm up, wrist off edge
+2. Hold light weight (1-2 lb)
+3. Use other hand to lift wrist up (flexion)
+4. Slowly lower weight over 3-4 seconds (this is the key part)
+5. 3 sets of 15, once daily
+6. Progress weight as tolerated
+
+**Eccentric pronation:**
+1. Hold hammer or weighted bar at the end
+2. Start with palm up
+3. Slowly rotate to palm down (3-4 seconds)
+4. Use other hand to return to start
+5. 3 sets of 15
+
+**Reverse Tyler Twist (using FlexBar):**
+1. Hold FlexBar with affected arm, wrist flexed
+2. Twist bar with other hand while maintaining flexion
+3. Bring arms in front of you
+4. Slowly release the twist using affected wrist
+5. 3 sets of 15, once daily
+
+### Phase 3: Concentric + Eccentric (Weeks 4-8)
+
+Once eccentrics are comfortable, add the full range of motion.
+
+**Wrist curls (full):**
+1. Forearm on table, palm up, wrist off edge
+2. Curl wrist up and lower slowly
+3. 3 sets of 12-15 with moderate weight
+
+**Pronation/supination with weight:**
+1. Hold hammer or weight at end
+2. Rotate forearm palm up, then palm down
+3. Full range, controlled speed
+4. 3 sets of 12-15
+
+**Grip strengthening:**
+1. Hand grippers or stress ball
+2. Progress resistance over time
+3. 3 sets of 12-15
+
+### Phase 4: Functional Strengthening (Weeks 6+)
+
+**Rows:**
+1. Cable or dumbbell rows
+2. Focus on grip strength component
+3. 3 sets of 10-12
+
+**Farmer's carries:**
+1. Hold heavy weights at sides
+2. Walk for distance or time
+3. Challenges grip endurance
+
+**Gradual return to activity:**
+- Sport-specific movements with reduced intensity
+- Progress volume before intensity
+- Maintain strengthening exercises
+
+## Addressing Contributing Factors
+
+**Technique correction:**
+Work with a coach or professional to address form issues in your sport or work.
+
+**Equipment:**
+- Proper grip size (tennis, golf)
+- Lighter tools with better grip
+- Ergonomic workplace setup
+
+**Flexibility:**
+- Wrist flexor stretches (palm up, pull fingers back)
+- Forearm massage or foam rolling
+- Maintain full elbow range of motion
+
+**Proximal strengthening:**
+Weakness in the shoulder and upper back increases load on the forearm.
+- Rotator cuff exercises
+- Scapular strengthening (rows, face pulls)
+
+## Ulnar Nerve Involvement
+
+Some people with golfer's elbow also have ulnar nerve irritation (the nerve runs close to the medial epicondyle). Signs include:
+
+- Numbness or tingling in ring and pinky fingers
+- Weakness in grip
+- Symptoms worse with elbow bent
+
+If you have nerve symptoms:
+- Avoid sustained elbow flexion
+- Don't lean on elbow
+- Consider a night splint to keep elbow straighter
+- Nerve gliding exercises may help
+- See a professional if symptoms are significant
+
+## Timeline
+
+- Mild cases: 6-8 weeks
+- Moderate cases: 3-4 months
+- Chronic cases: 4-6 months
+
+Tendon healing is slow. Expect 3 months for significant improvement in most cases.
+
+## Prevention
+
+Once healed, prevent recurrence:
+
+- Continue strengthening exercises 2-3x weekly
+- Proper warm-up before gripping activities
+- Correct technique in sports/work
+- Appropriate equipment
+- Gradual increases in intensity
+- Don't ignore early warning signs
+
+## When to See a Professional
+
+- No improvement after 6-8 weeks of consistent exercise
+- Significant numbness or tingling
+- Severe pain affecting daily function
+- History of previous elbow problems
+- Unable to perform exercises due to pain
+
+Options include physical therapy, shockwave therapy, PRP injections (mixed evidence), and rarely surgery.
+
+## The Bottom Line
+
+Golfer's elbow is a tendon problem that requires tendon loading to heal. Rest, injections, and passive treatments don't work long-term. Progressive strengthening—especially eccentric exercises—is the evidence-based solution.
+
+Be patient. Stay consistent. The tendon will heal.
+    `
+  },
+  'how-to-improve-flexibility': {
+    title: 'How to Actually Improve Flexibility: The Science-Based Guide',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '8 min read',
+    content: `
+## Why Stretching Isn't Working
+
+You stretch every day, hold each position for 30 seconds, and yet you're not getting more flexible. Sound familiar?
+
+Most flexibility advice is incomplete. Understanding the science of flexibility reveals why common approaches fail—and what actually works.
+
+## Flexibility vs. Mobility
+
+These terms are often used interchangeably, but they're different:
+
+**Flexibility:** Passive range of motion. How far a joint can move when you're relaxed or when external force is applied.
+
+**Mobility:** Active range of motion. How far you can move a joint using your own muscles, under control.
+
+**Why it matters:** Being passively flexible but not strong in those ranges is a recipe for injury. True functional flexibility requires both length and strength.
+
+## Why You're Not Getting More Flexible
+
+### 1. You're Not Stretching Long Enough
+
+Research shows that meaningful flexibility gains require:
+- **30-60 seconds per stretch** (minimum)
+- **Daily or near-daily frequency**
+- **Weeks to months** of consistent practice
+
+A few stretches before a workout won't make lasting changes.
+
+### 2. Your Nervous System Is Limiting You
+
+Most flexibility isn't limited by muscle length—it's limited by your nervous system's tolerance. Your brain puts "brakes" on range of motion to protect you from perceived danger.
+
+This is why:
+- You can be more flexible when relaxed
+- Warming up increases range of motion
+- Fear and tension decrease flexibility
+
+### 3. You're Only Stretching Passively
+
+Passive stretching (relaxing into a position) improves passive range. But if you want to use that range actively—say, in a high kick or deep squat—you need to train strength in those positions.
+
+### 4. You're Not Addressing the Right Tissues
+
+Sometimes the limitation isn't the muscle itself but:
+- Joint capsule tightness
+- Neural tension
+- Bone structure (can't be changed)
+- Fascial restrictions
+
+Different limitations require different approaches.
+
+## What Actually Works
+
+### 1. Longer Duration Static Stretching
+
+For actual tissue length changes:
+
+- Hold stretches for **60-120 seconds**
+- Multiple sets per muscle group
+- **5-7 days per week** for serious gains
+- Total time: 2-5 minutes per muscle group daily
+
+This is more than most people do. Significant flexibility requires significant time investment.
+
+### 2. Contract-Relax (PNF) Stretching
+
+PNF (proprioceptive neuromuscular facilitation) techniques are more effective than static stretching alone:
+
+**Contract-relax method:**
+1. Stretch to mild tension
+2. Contract the stretched muscle isometrically (5-10 seconds)
+3. Relax
+4. Stretch further into new range
+5. Repeat 2-4 times
+
+**How it works:** The contraction activates the Golgi tendon organ, which triggers relaxation and allows greater stretch.
+
+### 3. Active Flexibility Training
+
+Build strength in your end ranges:
+
+**Loaded progressive stretching:**
+1. Get into stretched position
+2. Add light load (body weight or external)
+3. Contract muscles in stretched position
+4. 3 sets of 8-12 reps or 30-60 second holds
+
+**End-range isometrics:**
+1. Get to end of your range
+2. Contract against resistance (or just contract muscles in that position)
+3. Hold 20-45 seconds
+4. Repeat 2-3 sets
+
+**Examples:**
+- Hip flexor stretch with active glute squeeze at end range
+- Hamstring stretch with active hip flexion
+- Weighted deep squats held at bottom position
+
+### 4. Eccentric Training
+
+Eccentric exercises (lowering under control) increase both strength and flexibility:
+
+- Romanian deadlifts for hamstrings
+- Nordic curls for hamstrings
+- Eccentric calf raises on a step
+- Slow, controlled lower into deep squat
+
+Research shows eccentric training improves flexibility as much as static stretching—while also building strength.
+
+### 5. Addressing Neural Tension
+
+If you feel sharp, radiating, or "nerve-y" sensations during stretching, the limitation may be neural:
+
+**Nerve flossing/gliding:**
+1. Gentle movements that slide the nerve through tissues
+2. Not stretching—just sliding
+3. Example: sciatic nerve glide (seated, alternate knee extension with neck flexion)
+
+**Important:** Nerves should slide, not stretch. Stop if symptoms worsen.
+
+### 6. Consistency Over Intensity
+
+The #1 predictor of flexibility gains is consistency:
+- **Daily or near-daily** stretching beats intense sessions 2x/week
+- **Moderate intensity** (5-7/10 stretch sensation) is better than painful stretching
+- **Months of work** are required for significant changes
+
+## Program Design for Flexibility
+
+### Daily Routine (15-20 minutes)
+
+**Option 1: Static stretching focus**
+- 2 minutes per major tight area
+- PNF technique 1-2 times per stretch
+- Hold final stretch 60-90 seconds
+
+**Option 2: Active flexibility focus**
+- Loaded stretches: 3 sets of 8-10 reps per area
+- End-range isometrics: 3 sets of 20-30 seconds
+- Brief static stretch to finish
+
+### Target-Based Approach
+
+If you have specific goals (splits, deep squat, etc.), train specifically:
+
+**Hamstrings:**
+- Romanian deadlifts (eccentric focus)
+- Active straight-leg raises
+- PNF hamstring stretching
+- Pike stretch with active flexion
+
+**Hip flexors:**
+- Half-kneeling stretch (long duration)
+- Active hip extension
+- Couch stretch
+- Rear-foot elevated split squats
+
+**Hips (external rotation/squat depth):**
+- Deep squat holds (loaded)
+- 90/90 position with active rotation
+- Pigeon stretch (supported)
+- Frog stretch
+
+### Integration with Training
+
+**Pre-workout:**
+- Dynamic stretching (leg swings, arm circles)
+- Activation drills
+- Brief mobility work for the session's movements
+
+**Post-workout:**
+- Static stretching (muscles are warm)
+- Longer holds for tight areas
+- Good time for PNF techniques
+
+**Separate sessions:**
+- Dedicated flexibility work
+- Can be brief (15-20 minutes) but consistent
+
+## Common Flexibility Goals
+
+### Touching Toes
+
+**What's limiting:** Usually hamstrings and hip flexion, sometimes neural tension
+
+**What helps:**
+- RDLs with progressive depth
+- PNF hamstring stretching
+- Active hip flexion drills
+- Jefferson curls (advanced)
+
+### Full Depth Squat
+
+**What's limiting:** Ankles, hips, thoracic spine
+
+**What helps:**
+- Goblet squat holds
+- Ankle mobility drills
+- Hip 90/90 stretches
+- Thoracic extensions
+- Weighted squat sits
+
+### Splits
+
+**What's limiting:** Hamstrings (front leg), hip flexors (back leg), adductors (side split)
+
+**What helps:**
+- Progressive splits practice (supported)
+- PNF stretching
+- Active flexibility in split positions
+- Months of consistent work (this is a long-term goal)
+
+## What Doesn't Work
+
+- **Aggressive bouncing** — triggers stretch reflex, increases tension
+- **Stretching cold** — less effective, higher injury risk
+- **Stretching through sharp pain** — can cause injury
+- **Expecting quick results** — flexibility takes months, not days
+- **Stretching only** — without strength, you can't use the range
+
+## Timeline
+
+Realistic expectations:
+- **Minor improvements:** 2-4 weeks
+- **Noticeable progress:** 6-12 weeks
+- **Significant gains:** 3-6 months
+- **Major goals (splits, etc.):** 6-12+ months
+
+## The Bottom Line
+
+Improving flexibility requires:
+1. **More time** than most people spend (60+ seconds per stretch)
+2. **Consistency** (daily or near-daily)
+3. **Active work** (strength in end ranges)
+4. **Patience** (months of practice)
+
+Don't just stretch—train your flexibility. Build strength where you're lengthening, and your nervous system will allow more range over time. 
+
+The most flexible people aren't genetically gifted—they're consistently committed.
+    `
+  },
   'hip-flexor-pain-tight-hip-flexors': {
     title: 'Tight Hip Flexors: What Actually Works (And What Doesn\'t)',
     date: '2026-03-04',

@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'runners-knee-patellofemoral-pain',
+    title: 'Runner\'s Knee: Why Your Kneecap Hurts and How to Fix It',
+    excerpt: 'That aching pain around or behind your kneecap is likely patellofemoral pain syndrome. Here\'s what causes it and how to run pain-free again.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Knees',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'golfers-elbow-medial-epicondylitis',
+    title: 'Golfer\'s Elbow: Causes, Treatment, and Exercises That Work',
+    excerpt: 'Pain on the inside of your elbow? Golfer\'s elbow affects more than just golfers. Here\'s how to heal it and prevent it from coming back.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'how-to-improve-flexibility',
+    title: 'How to Actually Improve Flexibility: The Science-Based Guide',
+    excerpt: 'Stretching every day but not getting more flexible? You might be doing it wrong. Here\'s what the research says actually works.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '8 min read'
+  },
+  {
     slug: 'hip-flexor-pain-tight-hip-flexors',
     title: 'Tight Hip Flexors: What Actually Works (And What Doesn\'t)',
     excerpt: 'Everyone blames their hip flexors. But stretching alone rarely fixes the problem. Here\'s what\'s really going on and how to address it.',
