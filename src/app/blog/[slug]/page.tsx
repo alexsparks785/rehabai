@@ -13,6 +13,782 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'strength-training-beginners-guide': {
+    title: 'Strength Training for Beginners: How to Start Lifting Weights',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '9 min read',
+    content: `
+## Why Strength Training?
+
+Strength training isn't just for bodybuilders. It's for everyone—young and old, athletic and sedentary, male and female. The benefits go far beyond bigger muscles:
+
+- **Increased muscle mass:** Prevents age-related muscle loss
+- **Stronger bones:** Reduces osteoporosis risk
+- **Better metabolism:** Muscle burns more calories at rest
+- **Improved function:** Daily activities become easier
+- **Injury prevention:** Strong muscles protect joints
+- **Mental health:** Reduces anxiety and depression
+- **Longevity:** Associated with longer, healthier life
+
+If you've never lifted weights, this guide will get you started safely and effectively.
+
+## Getting Started
+
+### Equipment Options
+
+**Gym:**
+- Full range of equipment
+- Guidance available
+- Social environment
+- Monthly cost
+
+**Home gym:**
+- Convenience
+- One-time investment
+- Privacy
+- Can start minimal and expand
+
+**Minimal equipment needed:**
+- Adjustable dumbbells (or a few pairs of fixed dumbbells)
+- Resistance bands
+- Pull-up bar (optional)
+- Bench (optional but helpful)
+
+You can build significant strength with just dumbbells and your body weight.
+
+### Learning the Movements
+
+Before loading up weight, learn these fundamental movement patterns:
+
+**Squat (lower body push):**
+- Sit down and stand up pattern
+- Works quads, glutes, core
+- Start with bodyweight, progress to goblet squat
+
+**Hinge (lower body pull):**
+- Bending at hips while keeping back flat
+- Works hamstrings, glutes, back
+- Start with Romanian deadlift, progress to deadlift
+
+**Push (upper body):**
+- Pushing weight away from body
+- Works chest, shoulders, triceps
+- Start with push-ups, progress to bench press
+
+**Pull (upper body):**
+- Pulling weight toward body
+- Works back, biceps
+- Start with rows, progress to pull-ups
+
+**Carry:**
+- Walking while holding weight
+- Works everything, especially core and grip
+- Start with farmer's carries
+
+### Sets, Reps, and Rest
+
+**Reps (repetitions):** How many times you perform a movement.
+
+**Sets:** Groups of reps. 3 sets of 10 means 10 reps, rest, 10 reps, rest, 10 reps.
+
+**Rest:** Time between sets. Typically 60-180 seconds for strength training.
+
+**For beginners:**
+- 2-3 sets per exercise
+- 8-12 reps per set
+- 60-90 seconds rest between sets
+- Focus on form, not weight
+
+### How Heavy?
+
+**RPE (Rate of Perceived Exertion):**
+- RPE 6: Could do 4+ more reps
+- RPE 7: Could do 3 more reps
+- RPE 8: Could do 2 more reps
+- RPE 9: Could do 1 more rep
+- RPE 10: Maximum effort, couldn't do another
+
+**For beginners:** Work at RPE 6-7. Leave plenty in the tank while learning.
+
+**"2 reps in reserve":** Stop each set when you could do 2 more with good form.
+
+## Your First Program
+
+### Full Body, 3 Days Per Week
+
+Best for beginners. Hits each muscle group 3x/week. Allows full recovery between sessions.
+
+**Sample Schedule:**
+- Monday: Workout A
+- Wednesday: Workout B  
+- Friday: Workout A
+- Next week: B, A, B
+- Alternate each week
+
+**Workout A:**
+1. Goblet Squat: 3 × 10
+2. Dumbbell Romanian Deadlift: 3 × 10
+3. Push-ups (or Dumbbell Bench Press): 3 × 10
+4. Dumbbell Row: 3 × 10 each side
+5. Plank: 3 × 30 seconds
+
+**Workout B:**
+1. Dumbbell Lunges: 3 × 10 each leg
+2. Glute Bridge: 3 × 12
+3. Dumbbell Overhead Press: 3 × 10
+4. Lat Pulldown (or Assisted Pull-ups): 3 × 10
+5. Dead Bug: 3 × 10 each side
+
+### Exercise Descriptions
+
+**Goblet Squat:**
+Hold dumbbell at chest. Feet shoulder-width, toes slightly out. Squat down, keeping chest up. Knees track over toes. Stand back up.
+
+**Dumbbell Romanian Deadlift:**
+Hold dumbbells in front of thighs. Push hips back, slight knee bend, lower weights along legs. Feel hamstring stretch. Drive hips forward to stand.
+
+**Push-ups:**
+Hands shoulder-width, body in straight line. Lower chest to floor, push back up. Modify on knees if needed.
+
+**Dumbbell Row:**
+One hand and knee on bench. Other hand holds dumbbell. Pull dumbbell to hip, squeeze shoulder blade. Lower with control.
+
+**Lunges:**
+Step forward, lower until back knee nearly touches floor. Front knee stays over ankle. Push back to start. Alternate legs.
+
+**Glute Bridge:**
+Lie on back, knees bent, feet flat. Squeeze glutes, lift hips. Don't hyperextend back. Lower with control.
+
+**Overhead Press:**
+Dumbbells at shoulder height. Press straight up. Lower with control. Keep core tight.
+
+## Progression
+
+The key to continued results is progressive overload—gradually increasing the challenge.
+
+**Ways to progress:**
+1. Add weight (primary method)
+2. Add reps (within rep range)
+3. Add sets (more volume)
+4. Improve form (better quality)
+5. Decrease rest (more density)
+
+**Example progression:**
+- Week 1: 3 × 10 with 20 lbs
+- Week 2: 3 × 11 with 20 lbs
+- Week 3: 3 × 12 with 20 lbs
+- Week 4: 3 × 10 with 25 lbs (reset reps, increase weight)
+
+Progress will be rapid at first, then slow down. This is normal.
+
+## Common Beginner Mistakes
+
+### Going Too Heavy
+
+Your ego wants to lift impressive weight. Your body needs time to adapt. Start lighter than you think you should.
+
+### Poor Form
+
+Learn the movements correctly from the start. Bad habits are hard to break. Film yourself or get coaching.
+
+### Too Much, Too Soon
+
+Don't add exercises, sets, and training days all at once. Start conservative and add gradually.
+
+### Program Hopping
+
+Stick with one program for at least 8-12 weeks. Consistency beats program perfection.
+
+### Skipping Warm-Up
+
+Cold muscles are injury-prone. 5-10 minutes of warm-up prepares your body.
+
+### Neglecting Recovery
+
+Muscles grow during rest, not during training. Sleep well, eat enough protein, take rest days.
+
+## Nutrition Basics
+
+Training stimulates muscle growth. Nutrition enables it.
+
+**Protein:** 0.7-1g per pound of body weight. Essential for muscle building and repair.
+
+**Sources:** Chicken, fish, beef, eggs, dairy, legumes, protein supplements if needed.
+
+**Calories:** 
+- To build muscle: Slight surplus (200-300 calories above maintenance)
+- To lose fat while maintaining muscle: Slight deficit (300-500 below maintenance)
+- For beginners: Can often do both simultaneously
+
+**Timing:** Protein distributed throughout the day. Post-workout nutrition is helpful but not magic.
+
+## Recovery
+
+**Sleep:** 7-9 hours. Non-negotiable for progress.
+
+**Rest days:** 1-2 between sessions for beginners (built into 3-day program).
+
+**Active recovery:** Light walking, stretching on off days.
+
+**Soreness:** Normal for beginners (DOMS). Not required for progress. Severe soreness means you did too much.
+
+## How Long Until Results?
+
+**Strength gains:** Notice within 2-4 weeks (neural adaptations).
+
+**Visible muscle:** 6-12 weeks for noticeable changes.
+
+**Significant transformation:** 6-12 months of consistent training.
+
+Take progress photos monthly. Daily mirror checks deceive you.
+
+## When to Progress Your Program
+
+After 2-3 months on a beginner program, consider:
+- Upper/lower split (4 days/week)
+- More exercise variety
+- More volume per muscle group
+- Hiring a coach for programming
+
+But don't rush. Beginners can progress on simple programs for a long time.
+
+## The Bottom Line
+
+Starting strength training is one of the best decisions you can make for your health. The key principles:
+
+1. Learn the basic movements well
+2. Start lighter than you think
+3. Progress gradually
+4. Stay consistent (3x/week minimum)
+5. Eat enough protein
+6. Sleep and recover
+
+You don't need the perfect program. You need a decent program done consistently. Start today.
+    `
+  },
+  'desk-job-pain-exercises': {
+    title: 'Desk Job Pain: Exercises to Undo the Damage of Sitting All Day',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '7 min read',
+    content: `
+## The Sitting Epidemic
+
+The average office worker sits 10+ hours per day. Sitting itself isn't the enemy—staying in any position too long is. But the specific posture of desk work creates predictable problems:
+
+- Forward head posture
+- Rounded shoulders
+- Tight hip flexors
+- Weak glutes
+- Stiff thoracic spine
+- Tight hamstrings
+- Lower back pain
+- Neck tension
+
+You can't quit your desk job. But you can counteract the damage with targeted movement.
+
+## The Desk Worker's Body
+
+**What gets tight:**
+- Hip flexors (constantly shortened)
+- Chest/pecs (rounded posture)
+- Upper traps (hunched shoulders)
+- Hamstrings (bent position)
+- Neck flexors (looking down)
+
+**What gets weak:**
+- Glutes (not firing when sitting)
+- Deep neck flexors (head falls forward)
+- Lower traps/rhomboids (shoulders round forward)
+- Core (not challenged when seated)
+
+The solution: stretch what's tight, strengthen what's weak.
+
+## The Daily Routine
+
+### Morning (5 minutes)
+
+Do this before or after your morning routine:
+
+**Cat-cow stretches:**
+1. On hands and knees
+2. Arch back up, tuck chin (cat)
+3. Drop belly, lift head (cow)
+4. 10 repetitions, slow and controlled
+
+**Hip flexor stretch:**
+1. Half-kneeling position
+2. Tuck tailbone under (posterior pelvic tilt)
+3. Lean forward gently
+4. 30 seconds each side
+
+**Thoracic rotation:**
+1. On hands and knees
+2. Place one hand behind head
+3. Rotate elbow down, then up toward ceiling
+4. 10 reps each side
+
+### At Your Desk (Every 30-60 Minutes)
+
+Set a timer. Stand up and do a few of these:
+
+**Chin tucks:**
+1. Sitting tall
+2. Pull chin straight back (make a double chin)
+3. Hold 5 seconds
+4. Repeat 10 times
+
+**Seated thoracic extension:**
+1. Interlace hands behind head
+2. Arch upper back over chair back
+3. Hold 3 seconds
+4. Repeat 5 times
+
+**Shoulder blade squeezes:**
+1. Sit tall
+2. Squeeze shoulder blades together and down
+3. Hold 5 seconds
+4. Repeat 10 times
+
+**Chest opener:**
+1. Stand in doorway
+2. Arms on frame at 90 degrees
+3. Lean through gently
+4. Hold 20 seconds
+
+**Standing hip flexor stretch:**
+1. Tall lunge stance
+2. Tuck tailbone, squeeze back glute
+3. Hold 20 seconds each side
+
+**Glute squeezes:**
+1. Standing
+2. Squeeze glutes hard
+3. Hold 10 seconds
+4. Repeat 5 times
+
+### Lunch Break (10 minutes)
+
+**Walk:** Get outside if possible. Walking counteracts sitting.
+
+**Quick mobility circuit:**
+1. Bodyweight squats: 10 reps
+2. Walking lunges: 10 each leg
+3. Wall angels: 10 reps
+4. Hip circles: 10 each direction
+
+### Evening (15-20 minutes)
+
+Undo the day's damage with a more complete routine:
+
+**Hip flexor stretch (extended hold):**
+1. Half-kneeling, rear foot elevated on couch/chair (couch stretch)
+2. Keep pelvis tucked
+3. 90-120 seconds each side
+
+**Pigeon stretch:**
+1. Front leg bent in front
+2. Back leg extended behind
+3. Stay upright or fold forward
+4. 90 seconds each side
+
+**Chest stretch:**
+1. Doorway or corner
+2. Arms at different angles
+3. 60 seconds
+
+**Upper trap stretch:**
+1. Sit, hold bottom of chair
+2. Tilt head away
+3. 45 seconds each side
+
+**Cat-cow:**
+1. 15-20 slow repetitions
+2. Really move through the spine
+
+**Thoracic spine extension:**
+1. Foam roller across upper back
+2. Extend over roller
+3. Move to different segments
+4. 2 minutes total
+
+**Glute bridge:**
+1. Lying on back
+2. Squeeze glutes, lift hips
+3. 3 sets of 15
+
+**Dead bug:**
+1. Lying on back
+2. Opposite arm and leg extensions
+3. Keep lower back pressed to floor
+4. 3 sets of 10 each side
+
+**Bird-dog:**
+1. On hands and knees
+2. Opposite arm and leg extensions
+3. 3 sets of 10 each side
+
+## Workspace Setup
+
+Movement helps, but a bad setup makes everything harder.
+
+**Monitor:**
+- Top of screen at eye level
+- Arm's length away
+- Directly in front (not to the side)
+
+**Keyboard and mouse:**
+- Elbows at 90 degrees
+- Wrists neutral (not bent up or down)
+- Close to body
+
+**Chair:**
+- Feet flat on floor
+- Thighs parallel to ground
+- Lumbar support (or small pillow)
+
+**Standing desk:**
+- Consider alternating sit/stand
+- Anti-fatigue mat for standing
+- Same monitor and keyboard rules apply
+
+## Movement Snacks
+
+Research shows frequent short movement breaks are better than one long stretch session. Try:
+
+**Every 30 minutes:**
+- Stand up
+- Walk to water/bathroom
+- 30 seconds of movement
+
+**Pomodoro technique:**
+- 25 minutes work
+- 5 minutes movement/break
+- Repeat
+
+**Walking meetings:**
+- Phone calls while walking
+- One-on-ones as walks
+
+## The Weekend Warrior Problem
+
+Sitting all week then crushing it at the gym creates injury risk. Your body needs daily movement, not boom-and-bust patterns.
+
+**Better approach:**
+- Daily movement (even 10-15 minutes)
+- Build baseline capacity before intense weekends
+- Use the daily routine above to prep for activity
+
+## Exercise Selection for Desk Workers
+
+Prioritize exercises that counteract sitting:
+
+**Good choices:**
+- Hip thrusts and glute bridges
+- Rows and pull-ups (pulling > pushing)
+- Deadlifts (hip hinge opens hip flexors)
+- Overhead pressing (opens chest)
+- Farmer's carries (posture, grip, core)
+- Face pulls (upper back)
+
+**Use caution with:**
+- Excessive crunches (you already flex forward all day)
+- Heavy bench press without balance (more chest tightness)
+- Sitting exercises (you sit enough)
+
+## Red Flags
+
+These symptoms need professional attention:
+- Numbness or tingling down arms
+- Severe headaches
+- Persistent pain despite movement
+- Pain that wakes you at night
+- Progressive weakness
+
+## The Bottom Line
+
+Desk work is hard on your body—but you can fight back. The strategy:
+
+1. **Move frequently** — Every 30-60 minutes
+2. **Stretch what's tight** — Hip flexors, chest, upper traps
+3. **Strengthen what's weak** — Glutes, deep neck flexors, upper back
+4. **Optimize your setup** — Ergonomics matter
+5. **Daily consistency** — Small doses beat weekend warriors
+
+Your body adapts to what you do most. Give it movement, and it will reward you with less pain and better function.
+    `
+  },
+  'proper-warm-up-guide': {
+    title: 'How to Warm Up Properly: The Science-Based Approach',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: `
+## Why Warm Up?
+
+You know you should warm up, but maybe you skip it when pressed for time. Here's why that's a mistake:
+
+**Performance benefits:**
+- Increased muscle temperature → more force production
+- Improved nerve conduction → faster reaction time
+- Better blood flow → more oxygen to muscles
+- Enhanced joint lubrication → smoother movement
+- Mental preparation → better focus
+
+**Injury prevention:**
+- More pliable muscles and tendons
+- Activated stabilizer muscles
+- Rehearsed movement patterns
+- Identified areas of tightness or discomfort
+
+A proper warm-up makes your workout better AND safer.
+
+## The Old Way vs. The New Way
+
+**Old approach (1980s):**
+- Static stretching before exercise
+- Hold stretches for 30+ seconds
+- Then go straight into activity
+
+**Problems:**
+- Static stretching reduces strength and power
+- Doesn't raise body temperature
+- Doesn't prepare nervous system for activity
+
+**Current evidence-based approach:**
+- General warm-up (raise temperature)
+- Dynamic stretching (mobility through movement)
+- Movement preparation (activate key muscles)
+- Specific warm-up (practice the activity)
+
+## The 4-Phase Warm-Up
+
+### Phase 1: General Warm-Up (3-5 minutes)
+
+Goal: Raise core body temperature and heart rate.
+
+**Options:**
+- Light jogging
+- Cycling
+- Rowing
+- Jumping jacks
+- Jump rope
+- Brisk walking
+
+**Intensity:** Light to moderate. You should be slightly warm, maybe starting to sweat.
+
+### Phase 2: Dynamic Stretching (3-5 minutes)
+
+Goal: Move joints through full range of motion with controlled movements.
+
+**Lower body:**
+
+Leg swings (front to back):
+- Hold support, swing leg forward and back
+- 15-20 swings each leg
+- Gradually increase range
+
+Leg swings (side to side):
+- Same setup, swing leg across and out
+- 15-20 swings each leg
+
+Walking lunges:
+- Step forward into lunge
+- Stand and step with other leg
+- 10 each leg
+
+Walking quad stretch:
+- Pull heel to buttock, step forward
+- Alternate legs
+- 10 each leg
+
+High knees:
+- Jog in place, driving knees up
+- 20-30 seconds
+
+Butt kicks:
+- Jog in place, heels to buttock
+- 20-30 seconds
+
+Hip circles:
+- Stand on one leg
+- Circle other leg in big circles
+- 10 each direction each leg
+
+**Upper body:**
+
+Arm circles:
+- Small circles, gradually bigger
+- 10-15 each direction
+
+Arm swings:
+- Swing arms across chest and out
+- 15-20 reps
+
+Shoulder circles:
+- Roll shoulders forward, then back
+- 10 each direction
+
+Thoracic rotation:
+- Arms out to sides
+- Rotate torso left and right
+- 10 each side
+
+Cat-cow:
+- On hands and knees
+- Arch and round spine
+- 10 reps
+
+### Phase 3: Movement Preparation (2-3 minutes)
+
+Goal: Activate key muscles, especially ones that tend to be "sleepy."
+
+**Glute activation:**
+
+Glute bridges:
+- 10-15 reps, squeeze at top
+
+Clamshells:
+- 10-15 each side
+
+Monster walks:
+- Band around ankles
+- 10 steps each direction
+
+**Core activation:**
+
+Dead bugs:
+- 8-10 each side
+
+Bird-dogs:
+- 8-10 each side
+
+Plank:
+- 20-30 seconds
+
+**Shoulder activation:**
+
+Band pull-aparts:
+- 15-20 reps
+
+Band external rotations:
+- 10-12 each side
+
+### Phase 4: Specific Warm-Up
+
+Goal: Prepare for the exact activity you're about to do.
+
+**For strength training:**
+- Warm-up sets with progressively heavier weights
+- Example for a 200 lb squat working weight:
+  - Bar only × 10
+  - 95 lbs × 8
+  - 135 lbs × 5
+  - 165 lbs × 3
+  - 185 lbs × 1
+  - Then working sets at 200 lbs
+
+**For running:**
+- Start with walking
+- Progress to easy jogging
+- Include a few strides (short accelerations)
+- Then begin your run
+
+**For sports:**
+- Sport-specific drills at increasing intensity
+- Practice key movements
+- Include reactive/change of direction work
+
+## Sample Warm-Ups
+
+### For Strength Training (10-12 minutes)
+
+1. **General:** 3 min rowing or jogging
+2. **Dynamic stretching:**
+   - Leg swings: 15 each direction
+   - Walking lunges: 10 each leg
+   - Hip circles: 10 each way
+   - Arm circles: 10 each direction
+3. **Activation:**
+   - Glute bridges: 15
+   - Dead bugs: 10 each side
+   - Band pull-aparts: 20
+4. **Specific:** Warm-up sets for first exercise
+
+### For Running (8-10 minutes)
+
+1. **General:** 3-5 min brisk walking or very light jog
+2. **Dynamic stretching:**
+   - Leg swings: 15 each direction each leg
+   - Walking lunges: 10 each leg
+   - High knees: 30 seconds
+   - Butt kicks: 30 seconds
+   - Hip circles: 10 each direction
+3. **Activation:**
+   - Glute bridges: 10
+   - Single-leg balance: 30 sec each
+4. **Specific:** 3-4 strides (short accelerations)
+
+### Quick Warm-Up When Short on Time (5 minutes)
+
+1. Jumping jacks: 30 seconds
+2. Bodyweight squats: 15
+3. Walking lunges with rotation: 8 each leg
+4. Arm circles: 10 each direction
+5. Leg swings: 10 each direction each leg
+6. 10-second run in place
+7. Go to activity-specific warm-up
+
+## Common Mistakes
+
+### Skipping It
+
+"I'll warm up during the workout" doesn't work. Cold muscles don't perform or protect you.
+
+### Too Much Static Stretching
+
+Save static stretching for after your workout. Before exercise, use dynamic movement.
+
+### Too Long or Too Intense
+
+The warm-up should prepare you, not tire you. If you're fatigued before your workout, you've overdone it.
+
+### Same Warm-Up for Everything
+
+Customize for your activity. A squat session warm-up differs from a running warm-up.
+
+### Ignoring Problem Areas
+
+If you know your hips are always tight or your glutes don't fire well, address those specifically.
+
+## What About Static Stretching?
+
+Static stretching (holding stretches 30+ seconds) has its place—just not before intense activity.
+
+**When to static stretch:**
+- After your workout
+- On rest days
+- During dedicated mobility sessions
+- When addressing specific tight areas
+
+**Exception:** If you have a severe mobility limitation that prevents proper movement, brief static stretching before activity may be warranted. But this is the exception, not the rule.
+
+## The Bottom Line
+
+A proper warm-up takes 10-15 minutes and dramatically improves performance while reducing injury risk. The formula:
+
+1. Get warm (general cardio)
+2. Move through range (dynamic stretching)
+3. Activate (wake up key muscles)
+4. Rehearse (specific preparation)
+
+Stop skipping your warm-up. Your body—and your performance—will thank you.
+    `
+  },
   'how-to-squat-properly': {
     title: 'How to Squat Properly: Form, Depth, and Common Mistakes',
     date: '2026-03-04',

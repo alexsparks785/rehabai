@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'strength-training-beginners-guide',
+    title: 'Strength Training for Beginners: How to Start Lifting Weights',
+    excerpt: 'New to strength training? Here\'s everything you need to know to start building muscle safely and effectively.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '9 min read'
+  },
+  {
+    slug: 'desk-job-pain-exercises',
+    title: 'Desk Job Pain: Exercises to Undo the Damage of Sitting All Day',
+    excerpt: 'Sitting all day wreaks havoc on your body. Here are the exercises that counteract desk work and keep you pain-free.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'proper-warm-up-guide',
+    title: 'How to Warm Up Properly: The Science-Based Approach',
+    excerpt: 'Still doing static stretches before exercise? There\'s a better way. Here\'s how to warm up for peak performance and injury prevention.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
     slug: 'how-to-squat-properly',
     title: 'How to Squat Properly: Form, Depth, and Common Mistakes',
     excerpt: 'The squat is the king of exercises—when done right. Here\'s how to squat safely and effectively for your body.',
