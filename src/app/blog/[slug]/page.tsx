@@ -13,6 +13,655 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'piriformis-syndrome-treatment': {
+    title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read',
+    content: `
+## The Overlooked Diagnosis
+
+You have pain deep in your buttock that radiates down your leg. Your doctor says "sciatica," but the treatments aren't working. The problem might not be your spine at all—it could be a small muscle called the piriformis.
+
+Piriformis syndrome is often misdiagnosed because it mimics disc-related sciatica. Understanding the difference is key to getting the right treatment.
+
+## What Is the Piriformis?
+
+The piriformis is a small, deep muscle in the buttock. It runs from the sacrum (base of spine) to the top of the thighbone (femur). Its job is to rotate the hip outward and stabilize the pelvis.
+
+Here's the crucial part: the sciatic nerve runs directly beneath the piriformis in most people—and in about 15% of the population, the nerve actually runs through the muscle.
+
+When the piriformis gets tight, inflamed, or spasms, it can compress or irritate the sciatic nerve.
+
+## Piriformis Syndrome vs. Sciatica
+
+**True sciatica (disc-related):**
+- Caused by disc herniation or spinal stenosis
+- Often worse with sitting, bending forward
+- May have back pain along with leg symptoms
+- Imaging shows spinal pathology
+- Symptoms often follow specific nerve root pattern
+
+**Piriformis syndrome:**
+- Caused by piriformis muscle compressing nerve
+- Often worse with prolonged sitting (pressure on muscle)
+- Usually no significant back pain
+- Spine imaging is normal
+- Pain/symptoms in sciatic distribution but without clear dermatomal pattern
+
+**Key differentiator:** Piriformis syndrome often gets worse when sitting on hard surfaces and may improve when standing or walking. Deep buttock pain is the hallmark.
+
+## Symptoms
+
+- Deep, aching pain in the buttock
+- Pain that radiates down the back of the leg
+- Symptoms worse with sitting (especially on hard surfaces)
+- Pain with climbing stairs or walking uphill
+- Discomfort sitting with legs crossed
+- Pain with hip rotation movements
+- Tenderness when pressing deep in the buttock
+
+## What Causes It
+
+**Overuse:**
+- Running, cycling, rowing
+- Repetitive hip rotation activities
+- Prolonged sitting
+
+**Muscle imbalances:**
+- Weak glutes (piriformis compensates)
+- Tight hip flexors
+- Poor hip stability
+
+**Trauma:**
+- Direct blow to the buttock
+- Fall onto the area
+
+**Anatomical variations:**
+- Sciatic nerve passing through the muscle
+- Muscle hypertrophy
+
+**Biomechanical issues:**
+- Leg length discrepancy
+- Overpronation of feet
+- SI joint dysfunction
+
+## Self-Assessment
+
+**FAIR test (Flexion, Adduction, Internal Rotation):**
+1. Lie on your back
+2. Bend the affected hip to 90 degrees
+3. Move knee toward opposite shoulder (adduction)
+4. Rotate the foot outward (internal hip rotation)
+5. Positive if this reproduces your symptoms
+
+**Seated piriformis stretch test:**
+1. Sit on chair
+2. Cross affected ankle over opposite knee
+3. Gently press down on the raised knee
+4. Positive if this reproduces deep buttock pain
+
+These tests aren't definitive, but they help differentiate from other causes.
+
+## Treatment
+
+### Phase 1: Reduce Irritation
+
+**Avoid aggravating factors:**
+- Don't sit on hard surfaces (use cushion)
+- Avoid prolonged sitting
+- Don't sit with legs crossed
+- Limit activities that worsen symptoms
+
+**Pain management:**
+- Ice to the buttock (15-20 minutes)
+- NSAIDs if helpful
+- Gentle movement (walking often feels better than sitting)
+
+### Phase 2: Release and Stretch
+
+**Piriformis stretch (supine):**
+1. Lie on back, knees bent
+2. Cross affected ankle over opposite knee
+3. Pull uncrossed knee toward chest
+4. Feel stretch deep in buttock
+5. Hold 30-60 seconds, repeat 2-3 times
+
+**Piriformis stretch (seated):**
+1. Sit in chair
+2. Cross affected ankle over opposite knee
+3. Lean forward with straight back
+4. Hold 30-60 seconds
+
+**Figure-4 stretch (lying):**
+1. Lie on back
+2. Place affected ankle on opposite knee
+3. Let knee fall outward
+4. Hold 60 seconds
+
+**Self-massage:**
+- Tennis ball or lacrosse ball under the buttock
+- Find tender spots, apply sustained pressure
+- 60-90 seconds per spot
+- Can also use foam roller
+
+### Phase 3: Strengthen
+
+Weak glutes are often the root cause. When the gluteus maximus and medius are weak, the piriformis works overtime.
+
+**Clamshells:**
+1. Lie on side, knees bent
+2. Keep feet together, lift top knee
+3. Don't rotate pelvis back
+4. 3 sets of 15-20 each side
+
+**Glute bridges:**
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Hold 3-5 seconds at top
+4. 3 sets of 15
+
+**Side-lying hip abduction:**
+1. Lie on side, bottom knee bent
+2. Lift top leg toward ceiling
+3. Keep pelvis stacked (don't roll back)
+4. 3 sets of 15-20 each side
+
+**Monster walks:**
+1. Band around ankles
+2. Quarter-squat position
+3. Walk sideways, maintaining tension
+4. 2 sets of 15 steps each direction
+
+**Single-leg exercises:**
+- Single-leg bridges
+- Single-leg deadlifts
+- Step-ups
+- These build hip stability
+
+### Phase 4: Address Contributing Factors
+
+**Hip flexor stretching:**
+Tight hip flexors can inhibit glutes, overloading the piriformis.
+
+**Core stability:**
+A stable core reduces demand on hip muscles.
+
+**Gait and movement analysis:**
+If problems persist, consider professional assessment of running form, leg length, foot mechanics.
+
+## Other Treatment Options
+
+**Physical therapy:**
+Manual therapy, dry needling, guided exercise progression.
+
+**Injections:**
+Corticosteroid or botulinum toxin injections into the piriformis. Can provide relief while you address underlying causes.
+
+**Massage therapy:**
+Deep tissue work to release the piriformis and surrounding muscles.
+
+**Dry needling/acupuncture:**
+May help release muscle tension.
+
+## Timeline
+
+- Mild cases: 2-4 weeks
+- Moderate cases: 6-8 weeks
+- Chronic cases: 2-4 months
+
+Consistency with stretching and strengthening is key. Symptoms often return if you stop the exercises too soon.
+
+## Prevention
+
+- Regular hip and glute strengthening
+- Don't sit for prolonged periods
+- Use a cushion on hard seats
+- Maintain hip flexibility
+- Address any biomechanical issues
+- Vary training activities (don't do the same thing every day)
+
+## When to See a Professional
+
+- No improvement after 4-6 weeks of self-treatment
+- Severe or worsening symptoms
+- Numbness or weakness in the leg
+- Bladder or bowel changes (emergency)
+- Need to rule out spinal pathology
+
+## The Bottom Line
+
+Piriformis syndrome is a common but under-recognized cause of buttock and leg pain. If your "sciatica" isn't responding to spine-focused treatments, consider whether the piriformis is the culprit.
+
+The solution: release the tight piriformis, then strengthen the glutes so it doesn't have to work so hard. Be consistent, be patient, and address the underlying muscle imbalances.
+    `
+  },
+  'ankle-mobility-exercises': {
+    title: 'Ankle Mobility: Why It Matters and How to Improve It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Ankles',
+    readTime: '6 min read',
+    content: `
+## The Forgotten Joint
+
+Everyone talks about hip mobility and shoulder mobility, but ankle mobility might be the most underrated factor in movement quality. Limited ankle mobility affects:
+
+- Squat depth and form
+- Running mechanics
+- Jump and landing ability
+- Knee and hip health
+- Balance and stability
+- Risk of ankle sprains
+
+If you can't get into good positions at the ankle, your body compensates elsewhere—usually at the knees or lower back.
+
+## What Is Ankle Mobility?
+
+Ankle mobility primarily refers to dorsiflexion—the ability to pull your toes toward your shin, or to bring your knee forward over your toes while keeping your heel on the ground.
+
+**Normal dorsiflexion range:** Approximately 10-20 degrees (or knee about 4-5 inches past toes in a half-kneeling position).
+
+**Why it matters:** Every step, squat, and lunge requires adequate dorsiflexion. Without it, movement breaks down.
+
+## Signs of Limited Ankle Mobility
+
+- Heels lift during squats
+- Knees cave inward during squats or lunges
+- Difficulty with deep squat position
+- Compensation (excessive forward lean, butt wink)
+- History of ankle sprains
+- Achilles or calf tightness
+- Knee or hip pain during squatting movements
+
+## Quick Assessment
+
+**Wall test (knee-to-wall):**
+1. Face a wall, one foot about 4 inches away
+2. Keep heel on ground
+3. Try to touch knee to wall
+4. Move foot back until you find max distance where heel stays down
+5. Less than 4 inches = limited mobility
+6. Compare both sides
+
+**Deep squat test:**
+1. Feet shoulder-width apart
+2. Squat as deep as possible
+3. Observe: Do heels lift? Do knees cave? Can you get thighs below parallel?
+
+## What Limits Ankle Mobility
+
+**Soft tissue restrictions:**
+- Tight calf muscles (gastrocnemius, soleus)
+- Achilles tendon stiffness
+- Fascial restrictions
+
+**Joint restrictions:**
+- Talocrural joint stiffness
+- Scar tissue from previous sprains
+- Bone spurs (less common)
+
+**Previous injury:**
+- Ankle sprains often lead to lasting stiffness
+- Immobilization (cast, boot) causes rapid mobility loss
+
+## Exercises to Improve Ankle Mobility
+
+### Soft Tissue Work
+
+**Calf foam rolling:**
+1. Sit with roller under one calf
+2. Cross other leg on top for pressure
+3. Roll from ankle to knee
+4. Pause on tender spots
+5. 1-2 minutes per side
+
+**Lacrosse ball to calf/Achilles:**
+1. Sit with ball under calf or above Achilles
+2. Apply pressure, move foot up and down
+3. 60-90 seconds per area
+
+### Stretching
+
+**Wall calf stretch (gastrocnemius):**
+1. Hands on wall, one foot back
+2. Back leg straight, heel on ground
+3. Lean into wall
+4. Hold 30-60 seconds each side
+
+**Bent-knee calf stretch (soleus):**
+1. Same position, but bend back knee
+2. Keep heel on ground
+3. Feel stretch lower in calf
+4. Hold 30-60 seconds
+
+**Half-kneeling dorsiflexion stretch:**
+1. Half-kneeling, front foot flat
+2. Drive knee forward over toes
+3. Keep heel on ground
+4. Hold 30 seconds, or pulse in and out
+5. Add weight on knee for more intensity
+
+### Joint Mobilization
+
+**Banded ankle mobilization:**
+1. Loop resistance band around ankle, attach to anchor behind you
+2. Half-kneeling or foot on bench
+3. Band pulls talus backward
+4. Drive knee forward over toes
+5. 2 sets of 10-15 oscillations or 30-second holds
+
+This is one of the most effective techniques for joint-related restrictions.
+
+**Ankle circles:**
+1. Seated, foot off ground
+2. Make large circles with foot
+3. 10-15 in each direction
+4. Do daily for maintenance
+
+### Loaded Mobility
+
+**Goblet squat ankle focus:**
+1. Hold weight at chest
+2. Squat deep, focusing on keeping heels down
+3. Pause at bottom, shift weight forward to challenge ankles
+4. 10-15 reps
+
+**Elevated heel squats (temporary):**
+1. Place heels on small plates or wedge
+2. Squat with elevated heels
+3. Reduces ankle mobility demand while you work on it
+4. Gradually reduce heel elevation over time
+
+**Cossack squats:**
+1. Wide stance
+2. Shift to one side, bending that knee deeply
+3. Other leg stays straight
+4. Alternate sides
+5. Challenges ankle mobility in a different plane
+
+## Programming
+
+**Daily routine (5-10 minutes):**
+1. Foam roll calves: 1-2 minutes
+2. Wall calf stretch: 30 seconds each side
+3. Banded ankle mobilization: 10 reps each side
+4. Half-kneeling dorsiflexion: 30 seconds each side
+
+**Before squatting:**
+- Ankle circles
+- Banded mobilization
+- A few goblet squats to groove the pattern
+
+**Frequency:** Daily work is best for mobility. Consistency beats intensity.
+
+## Timeline for Improvement
+
+- **Soft tissue restrictions:** Improvements within 2-4 weeks
+- **Joint restrictions:** May take 4-8 weeks
+- **Post-injury stiffness:** 6-12 weeks of consistent work
+- **Long-standing limitations:** 2-3 months
+
+If the limitation is bony (bone spurs, anatomical), mobility may not fully normalize—but you can still optimize available range.
+
+## Footwear Considerations
+
+**Shoes affect ankle mobility:**
+- High heels and cushioned running shoes can reduce natural ankle motion
+- Minimalist shoes encourage more ankle movement
+- Weightlifting shoes have elevated heels (compensates for limited mobility)
+
+**Recommendation:** Spend some time barefoot or in minimal footwear to maintain natural ankle function. Use appropriate shoes for activities.
+
+## When to Seek Help
+
+- Severe limitation that doesn't improve with consistent work
+- Pain with ankle movement
+- History of significant ankle injury
+- Clicking, locking, or instability
+
+A physical therapist can assess whether the limitation is soft tissue, joint, or structural, and provide targeted treatment.
+
+## The Bottom Line
+
+Ankle mobility is foundational. Without it, everything above—knees, hips, lower back—compensates. The good news is that most ankle restrictions respond well to consistent mobility work.
+
+Spend 5-10 minutes daily on your ankles. Your squat, your knees, and your movement quality will thank you.
+    `
+  },
+  'groin-strain-adductor-injury': {
+    title: 'Groin Strain: Recovery, Exercises, and Preventing Re-Injury',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read',
+    content: `
+## The Stubborn Injury
+
+Groin strains are notorious for two things: they hurt, and they come back. The adductor muscles (inner thigh) are involved in nearly every lower body movement, making them hard to rest and easy to re-injure.
+
+But with proper rehabilitation, you can recover fully and significantly reduce your risk of recurrence.
+
+## Anatomy: What Gets Injured
+
+The "groin" includes several muscles that adduct (pull together) and stabilize the hip:
+
+- **Adductor longus** — most commonly strained
+- **Adductor brevis**
+- **Adductor magnus**
+- **Gracilis**
+- **Pectineus**
+
+These muscles work during running, cutting, kicking, skating, and any lateral movement. The adductor longus, which attaches to the pubic bone, is injured most often.
+
+## How Groin Strains Happen
+
+**Acute strain:**
+- Sudden overstretching (splits, slide tackle, fall)
+- Quick change of direction
+- Forceful kicking
+- Overstride while running
+
+**Chronic/overuse:**
+- Repeated stress without adequate recovery
+- Muscle imbalances (weak adductors relative to abductors)
+- Poor hip mobility
+- Inadequate warm-up
+- High training loads
+
+**Risk factors:**
+- Previous groin injury (biggest risk factor)
+- Weak adductors
+- Hip flexor tightness
+- Poor core stability
+- Sports with cutting/kicking (soccer, hockey, football)
+
+## Severity Grades
+
+**Grade 1 (mild):**
+- Tightness or mild pain
+- No significant strength loss
+- Can usually continue activity
+- 1-2 weeks recovery
+
+**Grade 2 (moderate):**
+- More significant pain
+- Some loss of strength
+- Pain with walking or running
+- 3-6 weeks recovery
+
+**Grade 3 (severe):**
+- Severe pain, possible "pop"
+- Significant weakness
+- May see bruising
+- 2-4 months recovery
+- May require imaging
+
+## Immediate Management
+
+**First 48-72 hours:**
+- Relative rest (avoid activities that cause pain)
+- Ice: 15-20 minutes several times daily
+- Compression: elastic bandage if swelling
+- Avoid stretching initially (can worsen injury)
+- Walking as tolerated
+
+**See a doctor if:**
+- Severe pain or inability to walk
+- Significant bruising or swelling
+- "Popping" sensation at time of injury
+- No improvement after 1-2 weeks
+
+## Rehabilitation
+
+### Phase 1: Protection and Gentle Activation (Days 1-7)
+
+**Goals:** Reduce pain, begin gentle muscle activation.
+
+**Isometric adduction:**
+1. Lie on back, ball or pillow between knees
+2. Gently squeeze (20-30% effort)
+3. Hold 10 seconds
+4. No pain during exercise
+5. 3 sets of 10, multiple times daily
+
+**Supine hip flexion:**
+1. Lie on back
+2. Slowly slide heel toward buttock
+3. Return to start
+4. 15-20 reps
+
+**Walking:**
+As tolerated, pain-free or minimal pain.
+
+### Phase 2: Progressive Loading (Weeks 1-3)
+
+**Goals:** Restore strength through inner and mid-range.
+
+**Side-lying adduction:**
+1. Lie on injured side, bottom leg straight
+2. Top leg bent, foot on floor in front
+3. Lift bottom leg toward ceiling
+4. 3 sets of 15
+
+**Seated ball squeeze:**
+1. Sit with ball between knees
+2. Squeeze and hold 5 seconds
+3. 3 sets of 12-15
+4. Progress resistance as tolerated
+
+**Standing adduction with band:**
+1. Band around injured ankle, anchored to side
+2. Pull leg across body against resistance
+3. Control the return
+4. 3 sets of 15
+
+**Sumo/wide stance squats:**
+1. Wide stance, toes turned out
+2. Squat down, knees tracking over toes
+3. Challenges adductors in a stretched position
+4. Start with bodyweight, progress load
+
+### Phase 3: Strengthening Through Range (Weeks 3-6)
+
+**Goals:** Build strength in outer ranges, sport-specific preparation.
+
+**Copenhagen adduction (supported):**
+1. Side plank position
+2. Top leg supported on bench, bottom leg underneath
+3. Lift bottom leg to meet top leg
+4. 3 sets of 8-10 each side
+5. Progress to unsupported (top leg on bench, no support for bottom)
+
+The Copenhagen exercise is the gold standard for adductor strengthening and injury prevention.
+
+**Lateral lunges:**
+1. Step wide to one side
+2. Bend that knee, keep other leg straight
+3. Push back to start
+4. 3 sets of 10 each side
+5. Add weight as tolerated
+
+**Slider adduction:**
+1. Stand on one leg, other foot on slider
+2. Slide foot out to side
+3. Pull back using adductors
+4. 3 sets of 8-10 each side
+
+**Romanian deadlifts:**
+1. Build posterior chain
+2. Supports overall hip function
+3. 3 sets of 10-12
+
+### Phase 4: Return to Sport (Weeks 6+)
+
+**Progressive running:**
+1. Straight-line jogging
+2. Gradual speed increases
+3. Add curves and turns
+4. Add cutting and change of direction
+5. Sport-specific drills
+
+**Kicking/striking progression:**
+1. Light, controlled kicks
+2. Gradually increase intensity
+3. Match-intensity only when pain-free
+
+**Criteria for full return:**
+- Full pain-free range of motion
+- Equal strength to uninjured side
+- Sport-specific movements without pain or apprehension
+- Completed progressive return-to-sport program
+
+## Prevention: The Copenhagen Protocol
+
+Research shows the Copenhagen adductor exercise dramatically reduces groin injury rates (up to 41% reduction).
+
+**In-season protocol:**
+- Week 1: 1 set of 5 reps each side
+- Week 2: 2 sets of 6-8 reps
+- Week 3: 3 sets of 8-10 reps
+- Maintenance: 1-2 sets of 8-10 reps, 2-3x per week
+
+Add this to your regular training for prevention.
+
+## Other Prevention Strategies
+
+- Adequate warm-up before activity
+- Address hip flexibility limitations
+- Maintain hip and core strength
+- Don't ignore warning signs (tightness, minor strains)
+- Gradual progression of training loads
+- Include lateral movement in training
+
+## Common Mistakes
+
+**Returning too soon:**
+The biggest mistake. Groin muscles don't feel that painful to walk on, so athletes rush back. Re-injury rates are high.
+
+**Stretching acutely:**
+Avoid aggressive stretching in the first 1-2 weeks. It can worsen the injury.
+
+**Ignoring the Copenhagen:**
+This exercise has the best evidence for prevention and rehab. Don't skip it.
+
+**Not addressing root causes:**
+If you don't fix weakness, inflexibility, or training errors, the injury will return.
+
+## The Bottom Line
+
+Groin strains require patient, progressive rehabilitation. The keys:
+
+1. Allow acute healing (1-2 weeks of relative rest)
+2. Progressive strengthening through full range
+3. Copenhagen exercises for rehab and prevention
+4. Gradual return to sport with clear criteria
+5. Ongoing maintenance to prevent recurrence
+
+Take the time to rehab properly. A few extra weeks now prevents months of dealing with a chronic, recurring problem.
+    `
+  },
   'runners-knee-patellofemoral-pain': {
     title: 'Runner\'s Knee: Why Your Kneecap Hurts and How to Fix It',
     date: '2026-03-04',

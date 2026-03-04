@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'piriformis-syndrome-treatment',
+    title: 'Piriformis Syndrome: The Hidden Cause of Buttock and Leg Pain',
+    excerpt: 'Pain deep in your buttock that shoots down your leg? It might not be sciatica—it could be piriformis syndrome. Here\'s how to tell and what to do.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'ankle-mobility-exercises',
+    title: 'Ankle Mobility: Why It Matters and How to Improve It',
+    excerpt: 'Limited ankle mobility affects your squat, your running, and your risk of injury. Here\'s how to assess and improve yours.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Ankles',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'groin-strain-adductor-injury',
+    title: 'Groin Strain: Recovery, Exercises, and Preventing Re-Injury',
+    excerpt: 'Pulled your groin? These injuries are notorious for recurring. Here\'s the evidence-based approach to full recovery.',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Hips',
+    readTime: '7 min read'
+  },
+  {
     slug: 'runners-knee-patellofemoral-pain',
     title: 'Runner\'s Knee: Why Your Kneecap Hurts and How to Fix It',
     excerpt: 'That aching pain around or behind your kneecap is likely patellofemoral pain syndrome. Here\'s what causes it and how to run pain-free again.',
