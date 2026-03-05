@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'pelvic-floor-exercises-guide',
+    title: 'Pelvic Floor Exercises: A Complete Guide for Everyone (Not Just New Moms)',
+    excerpt: 'Leaking, pain, or dysfunction? Your pelvic floor might be the culprit. Here\'s how to strengthen—and relax—these essential muscles.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'chronic-pain-management-exercise',
+    title: 'Chronic Pain: How Exercise Helps and How to Start When Everything Hurts',
+    excerpt: 'In pain for months or years? Exercise might be the last thing you want, but it\'s often the best medicine. Here\'s how to do it right.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '8 min read'
+  },
+  {
     slug: 'hypermobility-joint-laxity-exercises',
     title: 'Hypermobility: Why Being "Too Flexible" Can Cause Pain and How to Manage It',
     excerpt: 'Super flexible but always in pain? You might be hypermobile. Here\'s how to build stability and protect your joints.',

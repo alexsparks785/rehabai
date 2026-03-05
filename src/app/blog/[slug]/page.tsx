@@ -13,6 +13,603 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'pelvic-floor-exercises-guide': {
+    title: 'Pelvic Floor Exercises: A Complete Guide for Everyone (Not Just New Moms)',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## The Hidden Muscles
+
+Your pelvic floor is a hammock of muscles at the base of your pelvis. You can't see them, most people don't think about them, and yet they're essential for bladder control, sexual function, and core stability.
+
+When they don't work right, life gets uncomfortable. But they respond well to exercise—once you know what you're doing.
+
+## What Does the Pelvic Floor Do?
+
+### The Five S's
+
+**Support:** Holds up your pelvic organs (bladder, uterus/prostate, rectum)
+
+**Sphincter control:** Keeps you continent (urine and stool)
+
+**Sexual function:** Contributes to arousal and orgasm
+
+**Stability:** Part of your core, works with abs and back muscles
+
+**Sump pump:** Helps with blood and lymph flow from pelvis
+
+### How It Works
+
+The pelvic floor contracts and relaxes. Both functions matter:
+- **Contraction:** Closes sphincters, provides support
+- **Relaxation:** Allows urination, bowel movements, intercourse
+
+Many people focus only on strengthening. But a pelvic floor that can't relax is just as problematic as a weak one.
+
+## Signs of Pelvic Floor Problems
+
+### Too Weak (Underactive)
+
+- Leaking urine with cough, sneeze, jump, or exercise
+- Urgency (sudden strong need to go)
+- Difficulty holding gas or stool
+- Feeling of heaviness or bulging in pelvis
+- Reduced sensation during sex
+
+### Too Tight (Overactive)
+
+- Pain with intercourse
+- Difficulty starting urine stream
+- Chronic pelvic pain
+- Pain in hips, low back, or tailbone
+- Constipation
+- Incomplete bladder emptying
+
+### Why It Matters
+
+Pelvic floor issues aren't just inconvenient—they affect quality of life. And they're far more common than people admit:
+- 1 in 3 women experience urinary incontinence
+- Up to 16% of men have pelvic floor dysfunction
+- Athletes, especially runners and jumpers, have higher rates
+
+## Who Needs Pelvic Floor Work?
+
+### Not Just Postpartum Women
+
+Yes, pregnancy and childbirth stress the pelvic floor. But it's not just a "mom" issue.
+
+**Others who benefit:**
+- Men (especially after prostate surgery)
+- Athletes with high-impact training
+- Anyone with chronic constipation
+- People who sit all day
+- Those with low back or hip pain
+- Older adults (muscles weaken with age)
+
+## Finding Your Pelvic Floor
+
+### The Basics
+
+Before exercising muscles, you need to find them.
+
+**For women:**
+Imagine you're stopping the flow of urine, or picking up a blueberry with your vagina. You should feel a lift and squeeze inside, not visible movement.
+
+**For men:**
+Imagine you're stopping the flow of urine, or lifting your testicles up. You should feel a tightening at the base of the penis.
+
+### What You Shouldn't Feel
+
+- Squeezing glutes (butt muscles)
+- Holding breath
+- Tightening abs excessively
+- Movement at thighs
+- Visible abdominal clenching
+
+If you can't isolate the pelvic floor, that's common. A pelvic floor physical therapist can help with biofeedback or internal examination to guide you.
+
+## Kegel Exercises (Done Right)
+
+### The Classic Exercise
+
+Kegels are pelvic floor contractions—but most people do them wrong.
+
+**Correct technique:**
+1. Sit, stand, or lie down comfortably
+2. Breathe normally
+3. Gently contract pelvic floor (lift and squeeze)
+4. Hold for 3-5 seconds
+5. Fully relax for 3-5 seconds
+6. Repeat 10 times
+7. Do 3 sets daily
+
+**Key points:**
+- Quality over quantity
+- Full relaxation between contractions is essential
+- Don't hold your breath
+- Start with short holds, progress duration
+
+### Progression
+
+**Week 1-2:** 3-second holds, 10 reps, 3x daily
+
+**Week 3-4:** 5-second holds, 10 reps, 3x daily
+
+**Week 5+:** 10-second holds, 10 reps, 3x daily
+
+Also add quick "flicks"—rapid contract/relax cycles—to train fast-twitch fibers.
+
+## Beyond Kegels
+
+Kegels alone aren't enough. The pelvic floor works as part of a system.
+
+### Diaphragmatic Breathing
+
+The pelvic floor and diaphragm move together.
+
+**Exercise:**
+- Lie on back, knees bent
+- Hands on lower ribs
+- Breathe in: ribs expand, belly rises, pelvic floor descends gently
+- Breathe out: ribs drop, belly falls, pelvic floor lifts naturally
+- 5-10 breaths, focusing on this coordination
+
+### Core Integration
+
+The pelvic floor is the bottom of your "core canister." Train them together.
+
+**Dead bug with breath:**
+- Lie on back, arms up, legs in tabletop
+- Exhale and engage pelvic floor
+- Lower opposite arm and leg
+- Inhale and return
+- Maintain pelvic floor awareness throughout
+
+**Bird-dog with breath:**
+- On hands and knees
+- Exhale, engage pelvic floor
+- Extend opposite arm and leg
+- Inhale, return
+- Pelvic floor is part of stability
+
+### Hip Strengthening
+
+Hip muscles work closely with the pelvic floor.
+
+**Key exercises:**
+- Clamshells
+- Side-lying leg lifts
+- Glute bridges
+- Squats
+
+Strong hips support pelvic floor function.
+
+## For the Tight Pelvic Floor
+
+If your problem is tension, not weakness, Kegels can make things worse.
+
+### Relaxation Techniques
+
+**Diaphragmatic breathing (emphasis on inhale):**
+- Focus on the descent of the pelvic floor with each inhale
+- Let the belly and pelvic floor fully release
+- Don't actively squeeze on exhale
+
+**Happy baby pose:**
+- Lie on back, knees to chest
+- Hold outside edges of feet
+- Let knees drop toward armpits
+- Breathe and relax
+- 1-2 minutes
+
+**Child's pose with breath:**
+- Kneel, sit back, reach arms forward
+- Breathe into the belly and pelvic floor
+- Feel expansion on inhale
+- 2-3 minutes
+
+**Reverse Kegels:**
+- Gently push outward as if starting urination
+- Very gentle—not forceful straining
+- Helps retrain ability to relax
+
+### When to See a Specialist
+
+A pelvic floor physical therapist can:
+- Assess internal muscle tone
+- Provide manual therapy
+- Use biofeedback for better awareness
+- Create a personalized program
+- Address contributing factors
+
+## Special Populations
+
+### Pregnancy
+
+**During pregnancy:**
+- Continue pelvic floor exercises unless contraindicated
+- Focus on both strengthening and relaxation
+- Prepare for the demands of delivery
+
+**Postpartum:**
+- Wait for clearance (usually 6 weeks)
+- Start gentle and progress slowly
+- See a pelvic floor PT if issues persist
+
+### Men
+
+**After prostate surgery:**
+- Pelvic floor exercises reduce incontinence
+- Start before surgery if possible
+- Continue consistently afterward
+
+**For erectile function:**
+- Pelvic floor strength contributes to erections
+- Research supports exercise benefits
+
+### Athletes
+
+**High-impact sports:**
+- Running, jumping increase pressure on pelvic floor
+- Strengthening is protective
+- Address leaking early—it's not normal
+
+## Common Mistakes
+
+### Too Much Squeezing
+
+More isn't better. Overworking creates tension.
+
+### Breath Holding
+
+Holding breath increases pressure, works against pelvic floor.
+
+### Expecting Quick Results
+
+Muscles take 8-12 weeks to strengthen. Be patient.
+
+### Ignoring Relaxation
+
+A muscle that can't relax can't function properly.
+
+### Not Seeking Help
+
+If self-management isn't working after 6-8 weeks, see a professional.
+
+## The Bottom Line
+
+Your pelvic floor is trainable. Whether it needs strengthening, relaxation, or better coordination with breathing and core, consistent practice works.
+
+Start with finding the muscles, progress to Kegels and breathing, then integrate with movement. And don't be embarrassed to seek help—pelvic floor therapists treat these issues every day.
+
+A functional pelvic floor means freedom: no more planning around bathrooms, no more skipping activities, no more accepting discomfort as normal.
+`
+  },
+  'chronic-pain-management-exercise': {
+    title: 'Chronic Pain: How Exercise Helps and How to Start When Everything Hurts',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '8 min read',
+    content: `
+## The Paradox of Pain and Movement
+
+When you're in chronic pain, exercise sounds like the last thing you'd want. Moving hurts. Rest feels safer. Why would you do something that causes more pain?
+
+But here's the truth: carefully dosed movement is one of the most effective treatments for chronic pain. Avoiding it often makes things worse.
+
+Understanding why—and how to start—can change everything.
+
+## What Is Chronic Pain?
+
+### The Definition
+
+Pain lasting more than 3 months, or persisting beyond normal tissue healing time.
+
+### The Shift
+
+Acute pain is a warning signal: tissue damage, protect yourself. Chronic pain is different. The alarm system becomes oversensitive. Pain can persist even after tissues have healed.
+
+This doesn't mean the pain isn't real. It absolutely is. But it means treating chronic pain requires a different approach than treating a fresh injury.
+
+### Common Types
+
+- Chronic low back pain
+- Fibromyalgia
+- Chronic neck pain
+- Osteoarthritis
+- Chronic headaches
+- Complex regional pain syndrome
+- Persistent post-surgical pain
+
+## Why Exercise Works for Chronic Pain
+
+### It Changes Your Pain System
+
+**Descending modulation:** Exercise activates pathways that turn down pain signals. Your brain releases endorphins and other chemicals that reduce pain perception.
+
+**Central sensitization reversal:** Chronic pain often involves an oversensitive nervous system. Gradual movement helps recalibrate sensitivity back toward normal.
+
+**Improved tissue health:** Even if tissues have "healed," they benefit from the blood flow, nutrition, and adaptation that exercise provides.
+
+### It Breaks the Fear-Avoidance Cycle
+
+Chronic pain often leads to:
+1. Pain → Fear of movement
+2. Fear → Avoidance of activity
+3. Avoidance → Deconditioning, depression, more pain
+4. More pain → More fear
+
+Exercise—carefully introduced—breaks this cycle.
+
+### It Improves Everything Else
+
+- Sleep (often disrupted by pain)
+- Mood (depression is common with chronic pain)
+- Energy levels
+- Function and independence
+- Confidence
+
+## The Evidence
+
+Research consistently shows exercise benefits chronic pain:
+
+**Low back pain:** Exercise is first-line treatment. All types help—strength, aerobic, flexibility.
+
+**Fibromyalgia:** Aerobic exercise significantly reduces pain and improves function.
+
+**Osteoarthritis:** Exercise reduces pain and improves function as effectively as pain medications, with fewer side effects.
+
+**Chronic neck pain:** Strengthening exercises reduce pain and disability.
+
+The evidence is clear. The challenge is implementation.
+
+## Why It's Hard
+
+### Pain Increases With Activity
+
+Initially, exercise may increase pain. This is expected and doesn't mean damage is occurring.
+
+### Boom-Bust Patterns
+
+On good days, you do too much. Then you're down for days recovering. Then you try again, overdo it again. This roller coaster prevents progress.
+
+### Uncertainty
+
+"Am I making things worse?" The fear is real and powerful.
+
+### Deconditioning
+
+After months or years of reduced activity, your baseline is low. Exercise feels much harder than it "should."
+
+### Depression and Fatigue
+
+Chronic pain exhausts you. Finding motivation to exercise while exhausted and depressed is genuinely difficult.
+
+## How to Start
+
+### Principle 1: Start Ridiculously Low
+
+Whatever you think you can do, cut it in half. Then maybe cut it in half again.
+
+**Why?** Success builds confidence. Early wins matter more than early gains.
+
+**Example:** If you think you can walk 20 minutes, start with 5. If that goes well for a week, add 2 minutes.
+
+### Principle 2: Progress Slowly
+
+The 10% rule applies, but sometimes even slower.
+
+Add small amounts only when the current level is consistently manageable—not just on good days, but on bad days too.
+
+### Principle 3: Expect Fluctuations
+
+Pain will vary day to day. That's normal. Don't interpret every increase as setback or damage.
+
+Base decisions on weekly patterns, not daily fluctuations.
+
+### Principle 4: Prioritize Consistency Over Intensity
+
+Three 10-minute walks per week beats one "big" session followed by days of recovery.
+
+Build the habit first. Intensity comes later.
+
+### Principle 5: Choose Activities You Might Enjoy
+
+Or at least don't hate. Sustainability matters more than optimal exercise selection.
+
+## Types of Exercise for Chronic Pain
+
+### Aerobic Exercise
+
+Walking, cycling, swimming, elliptical—whatever you tolerate.
+
+**Benefits:**
+- Releases endorphins
+- Improves mood and sleep
+- Builds cardiovascular health
+- Easy to dose and progress
+
+**Starting point:**
+- 5-10 minutes at comfortable pace
+- 3 times per week
+- Progress duration before intensity
+
+### Strength Training
+
+Resistance exercises—bodyweight, bands, weights.
+
+**Benefits:**
+- Builds capacity for daily tasks
+- Protects joints
+- Improves confidence
+- Reduces pain sensitivity over time
+
+**Starting point:**
+- 2-3 exercises for major areas
+- 1-2 sets of 8-10 reps
+- Very light resistance
+- 2 times per week
+
+### Flexibility and Mobility
+
+Gentle stretching, yoga, tai chi.
+
+**Benefits:**
+- Reduces stiffness
+- Improves body awareness
+- Relaxation response
+- Often feels good
+
+**Starting point:**
+- 5-10 minutes of gentle stretches
+- Focus on tight areas
+- Don't push into significant pain
+
+### Mind-Body Practices
+
+Yoga, tai chi, qigong.
+
+**Benefits:**
+- Combine movement with relaxation
+- Improve body awareness
+- Address psychological aspects
+- Strong evidence for chronic pain
+
+## Managing Flare-Ups
+
+### Don't Stop Completely
+
+If pain increases, reduce activity—don't eliminate it. Complete rest usually makes things worse.
+
+**Reduce duration or intensity, not frequency.**
+
+### Don't Push Through Significant Pain
+
+"No pain, no gain" doesn't apply here. If pain is sharply increasing during activity, back off.
+
+**The goal is mild discomfort at most, not suffering.**
+
+### Return to Previous Level
+
+After a flare settles, return to your last successful level. Don't try to "make up" for lost time.
+
+## Pacing Strategies
+
+### Time-Based Activity
+
+Instead of doing tasks "until they hurt," set a time limit regardless of pain.
+
+**Example:** Gardening for 15 minutes, then taking a break—whether or not you feel you need one.
+
+### Activity Planning
+
+Spread demanding tasks throughout the week. Alternate between active and restful activities.
+
+### Baseline Finding
+
+Your baseline is what you can do on a bad day, consistently, without flaring.
+
+**Start there.** Progress from there.
+
+## The Psychological Component
+
+### Pain Neuroscience Education
+
+Understanding that chronic pain involves nervous system sensitivity—not ongoing tissue damage—helps reduce fear and avoidance.
+
+Key concepts:
+- Pain ≠ damage (in chronic pain)
+- The brain can turn pain up or down
+- You're not fragile
+- Movement is safe and helpful
+
+### Cognitive Behavioral Approaches
+
+Addressing thoughts and beliefs about pain:
+- Catastrophizing ("This will never get better")
+- Fear-avoidance beliefs
+- All-or-nothing thinking
+
+Working with a psychologist trained in pain management can help.
+
+### Acceptance
+
+Accepting that pain may be present while choosing to engage in meaningful activity anyway. This isn't resignation—it's strategic.
+
+## Building Your Program
+
+### Sample Week (Beginner)
+
+**Monday:** Walk 10 min + gentle stretches
+
+**Tuesday:** Rest or very light activity
+
+**Wednesday:** Bodyweight exercises (chair squats, wall push-ups, bird-dog) + walk 10 min
+
+**Thursday:** Rest or gentle yoga
+
+**Friday:** Walk 10-15 min + stretches
+
+**Saturday:** Light activity you enjoy
+
+**Sunday:** Rest
+
+### Progression (Over Months)
+
+- Add 2-5 minutes to walks every 1-2 weeks
+- Add 1 set or 2-3 reps to strength exercises every 2 weeks
+- Introduce new exercises gradually
+- Eventually: 150 min moderate aerobic + 2 strength sessions weekly
+
+## When to Seek Help
+
+### Work With a Professional If:
+
+- You're unsure how to start safely
+- Fear of movement is significant
+- Pain is severe or rapidly worsening
+- You've tried and repeatedly failed
+- You have other health conditions affecting exercise
+
+**Who can help:**
+- Physical therapist (especially pain-specialized)
+- Exercise physiologist
+- Pain management team
+- Psychologist specializing in pain
+
+## The Long Game
+
+### It Takes Time
+
+Weeks to months before significant changes. This is normal.
+
+### It Requires Patience
+
+Progress isn't linear. There will be setbacks. They're part of the process, not failure.
+
+### It's Worth It
+
+People with chronic pain who exercise consistently report:
+- Less pain
+- Better function
+- Improved quality of life
+- Greater sense of control
+- Reduced medication needs
+
+## The Bottom Line
+
+Exercise is medicine for chronic pain—but it requires the right dose. Start incredibly low, progress incredibly slowly, and prioritize consistency over intensity.
+
+Pain during exercise doesn't mean damage. Flare-ups don't mean failure. Your body is more resilient than chronic pain has led you to believe.
+
+Movement won't cure chronic pain overnight. But it's one of the few things proven to help. And unlike medications, the side effects are almost all positive.
+
+Start where you are. Move what you can. Build from there.
+`
+  },
   'hypermobility-joint-laxity-exercises': {
     title: 'Hypermobility: Why Being "Too Flexible" Can Cause Pain and How to Manage It',
     date: '2026-03-05',
