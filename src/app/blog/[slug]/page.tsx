@@ -13,6 +13,553 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'diastasis-recti-postpartum-recovery': {
+    title: 'Diastasis Recti: Understanding, Healing, and Rebuilding Your Core After Pregnancy',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## What Is Diastasis Recti?
+
+During pregnancy, your abdominal muscles stretch to accommodate your growing baby. The connective tissue (linea alba) between the two sides of your rectus abdominis—the "six-pack" muscles—thins and widens.
+
+This separation is called diastasis recti abdominis (DRA), and it happens to nearly all pregnant women to some degree. The question isn't whether it happens, but how much and whether it becomes problematic.
+
+## Is It Normal?
+
+### During Pregnancy
+
+Yes, completely normal. By the third trimester, 100% of women have some separation. Your body is doing what it needs to do.
+
+### After Pregnancy
+
+The separation typically reduces significantly in the first 8 weeks postpartum. By 6-12 months, most women have returned to normal or near-normal.
+
+**However:** About 30-40% of women still have significant diastasis at 6+ months postpartum. This is when intervention may help.
+
+## How to Check for Diastasis Recti
+
+### The Self-Test
+
+1. Lie on your back with knees bent, feet flat
+2. Place fingers horizontally just above your belly button
+3. Lift your head and shoulders slightly (mini crunch)
+4. Feel for a gap between the muscle bellies
+5. Check width (finger widths) and depth (how far fingers sink)
+6. Repeat above and below the belly button
+
+### What You're Feeling For
+
+- **Width:** How many fingers fit in the gap (1-2 is normal, 2.5+ may need attention)
+- **Depth:** Can you feel the bottom of the gap, or do fingers sink deep?
+- **Tension:** Does the tissue generate tension when you lift, or is it soft?
+
+### What Matters Most
+
+Width gets the attention, but **tension** is often more important. A 3-finger gap with good tension may function better than a 2-finger gap with none.
+
+## Symptoms Beyond the Gap
+
+Diastasis recti isn't just cosmetic. It can contribute to:
+
+- Lower back pain
+- Pelvic floor dysfunction
+- Poor posture
+- Bloating or "pooching" of the belly
+- Difficulty with core-demanding activities
+- Feeling of weakness or instability
+
+**Note:** Not everyone with diastasis has symptoms, and not everyone with these symptoms has diastasis. Get properly assessed.
+
+## What Causes It (And What Doesn't)
+
+### Contributing Factors
+
+- Pregnancy (especially multiple, close together)
+- Large baby or multiples
+- Polyhydramnios (excess amniotic fluid)
+- Weak core before pregnancy
+- Genetics (connective tissue quality varies)
+- Age (older mothers may be more susceptible)
+- Heavy lifting with poor technique
+
+### What Doesn't Cause It
+
+- Exercise during pregnancy (actually protective!)
+- Being "too fit"
+- Doing planks
+
+Regular exercise during pregnancy, including core work, is associated with *less* diastasis, not more.
+
+## Healing Diastasis Recti
+
+### The Good News
+
+Most cases improve with time and appropriate exercise. Surgery is rarely necessary.
+
+### The Approach
+
+**1. Retrain the deep core system**
+
+Your core is a pressure system: diaphragm on top, pelvic floor on bottom, transverse abdominis wrapping around. These need to work together.
+
+**2. Restore function, not just close the gap**
+
+The goal is a functional core, not necessarily a zero-finger gap. Many women have a small residual gap but excellent function.
+
+**3. Progress gradually**
+
+From basic activation to functional movements to full activity.
+
+## Exercises for Diastasis Recti
+
+### Phase 1: Foundation (Weeks 1-4)
+
+**Diaphragmatic breathing:**
+- Lie on back, knees bent
+- Hands on lower ribs
+- Breathe in, feeling ribs expand laterally
+- Exhale fully, feeling gentle drawing in
+- This reconnects breathing with core function
+
+**Connection breath:**
+- Same position as above
+- On exhale, gently engage pelvic floor (like stopping urine flow)
+- Feel transverse abdominis draw in slightly
+- Inhale, relax fully
+- This is *gentle*—not max effort
+
+**Heel slides:**
+- Lie on back, knees bent
+- Find neutral spine (small curve in lower back)
+- Exhale, engage core gently
+- Slowly slide one heel away
+- Inhale, return
+- Maintain neutral spine throughout
+
+**Toe taps:**
+- Lie on back, legs in tabletop (90-90 at hips and knees)
+- Exhale, engage core
+- Lower one foot to tap floor
+- Inhale, return
+- Keep lower back stable
+
+### Phase 2: Building (Weeks 4-8)
+
+**Dead bugs:**
+- Tabletop legs, arms reaching to ceiling
+- Exhale, extend opposite arm and leg
+- Inhale, return
+- Progress: further reach, slower movement
+
+**Bird-dog:**
+- On hands and knees
+- Exhale, extend opposite arm and leg
+- Hold briefly, return
+- Focus on not rotating or arching
+
+**Glute bridges:**
+- Lie on back, knees bent, feet flat
+- Exhale, lift hips
+- Feel glutes working, not lower back
+- Hold 2-3 seconds, lower
+
+**Side-lying exercises:**
+- Clamshells, side leg lifts
+- Core stabilizes while hips work
+- Progress resistance as tolerated
+
+### Phase 3: Integration (Weeks 8+)
+
+**Modified planks:**
+- Start with wall planks or incline planks
+- Progress to knee planks
+- Finally full planks if appropriate
+- Must maintain good alignment
+
+**Pallof press:**
+- Excellent anti-rotation exercise
+- Band or cable at chest height
+- Press out, resist rotation
+- Builds functional core strength
+
+**Squats and lunges:**
+- Full lower body exercises
+- Exhale on exertion
+- Maintain core engagement
+
+**Carrying exercises:**
+- Farmer's carries
+- Single-arm carries (suitcase)
+- Real-world core challenge
+
+## What to Avoid (Initially)
+
+### Exercises That May Worsen Diastasis
+
+**Traditional crunches and sit-ups:**
+- Create forward pressure on the linea alba
+- Reintroduce later if at all
+
+**Planks and push-ups (too early):**
+- If you can't maintain tension across the midline
+- Progress to these once foundation is solid
+
+**Heavy lifting with breath-holding:**
+- Valsalva creates excessive intra-abdominal pressure
+- Exhale on exertion instead
+
+**Anything that causes doming:**
+- If you see your belly "dome" or "cone" during exercise
+- That movement is too advanced for now
+
+### When to Reintroduce
+
+These exercises aren't forever banned. Once you can maintain tension across the gap during easier exercises, you can progress to more challenging ones—including planks, push-ups, and eventually crunches if desired.
+
+## Beyond Exercise
+
+### Posture and Alignment
+
+- Avoid constant rib thrusting (sticking ribs out)
+- Stack ribs over pelvis
+- Watch how you stand, sit, and carry your baby
+
+### Daily Movements
+
+- Log roll out of bed (side, then push up)
+- Exhale when lifting your baby
+- Engage core before reaching and lifting
+- Avoid straining on the toilet
+
+### Breathing Patterns
+
+- Avoid breath-holding during effort
+- Let belly move naturally—don't constantly suck in
+- Exhale on exertion
+
+## When to Get Help
+
+### See a Pelvic Floor Physical Therapist If:
+
+- Gap is not improving after 8 weeks of exercises
+- You have pelvic floor symptoms (leaking, pressure, pain)
+- Back pain persists
+- You're not sure if you're doing exercises correctly
+- You want a personalized program
+
+### Surgery (Rarely Needed)
+
+**Considered only if:**
+- Conservative treatment fails
+- Functional limitations persist
+- Cosmetic concerns are significant
+- Gap is severe
+
+Most cases don't require surgery. Try 6-12 months of appropriate exercise first.
+
+## Timeline Expectations
+
+**First 8 weeks postpartum:**
+- Focus on rest and basic activation
+- Don't rush
+
+**8 weeks - 6 months:**
+- Progressive exercise program
+- Most improvement happens here
+
+**6-12 months:**
+- Continue building strength
+- Return to all activities for most women
+
+**Beyond 12 months:**
+- If significant diastasis persists, keep working
+- Improvement is still possible
+
+## The Bottom Line
+
+Diastasis recti is common, often improves on its own, and responds well to appropriate exercise. The goal is function, not perfection.
+
+Work from the inside out: breathing, deep core activation, then progressive loading. Avoid exercises that cause doming until you've built the foundation.
+
+Your body grew a human. Give it time, give it the right exercises, and trust the healing process.
+
+You'll get your core back. It might just be different—and that's okay.
+`
+  },
+  'vertigo-vestibular-exercises': {
+    title: 'Vertigo and Dizziness: Exercises That Actually Help',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## When the World Spins
+
+Vertigo—the sensation that you or your surroundings are spinning—is disorienting, nauseating, and sometimes terrifying. But here's the good news: the most common type can often be resolved in just one or two sessions with specific exercises.
+
+Understanding what's causing your dizziness is the key to fixing it.
+
+## Dizziness vs. Vertigo
+
+### Dizziness (General)
+
+- Lightheadedness
+- Feeling faint
+- Unsteadiness
+- Disorientation
+
+Causes: blood pressure changes, dehydration, medications, anxiety, many others.
+
+### Vertigo (Specific)
+
+- Spinning sensation
+- Room rotating around you
+- Usually triggered by position changes
+- Often with nausea
+
+Causes: inner ear problems, vestibular nerve issues, rarely brain problems.
+
+If your dizziness involves true spinning, it's likely vestibular (inner ear) in origin.
+
+## The Vestibular System
+
+### How Balance Works
+
+Your brain integrates three systems:
+1. **Vision:** What you see
+2. **Proprioception:** Where your body is in space
+3. **Vestibular system:** Motion and position sensors in your inner ear
+
+When these disagree—or when one sends wrong signals—you feel dizzy.
+
+### The Inner Ear
+
+Each ear contains:
+- **Semicircular canals:** Detect rotation (3 canals, 3 planes of movement)
+- **Otolith organs:** Detect linear movement and head position
+
+Tiny crystals (otoconia) in the otolith organs can become dislodged and end up in the semicircular canals. This is the most common cause of vertigo.
+
+## BPPV: The Most Common Cause
+
+### What Is It?
+
+Benign Paroxysmal Positional Vertigo (BPPV):
+- **Benign:** Not dangerous
+- **Paroxysmal:** Comes in sudden episodes
+- **Positional:** Triggered by head position changes
+- **Vertigo:** Spinning sensation
+
+### How It Happens
+
+Otoconia (ear crystals) migrate into a semicircular canal. When you move your head, these crystals shift, sending false signals that you're spinning.
+
+### Classic BPPV Symptoms
+
+- Brief vertigo (usually <60 seconds) with position changes
+- Triggered by: looking up, rolling over in bed, bending forward
+- May have nausea
+- Improves if you stay still
+- Often worse in the morning
+
+### Which Canal?
+
+The **posterior canal** is most commonly affected (80-90% of cases). The **horizontal canal** is second most common. Treatment differs by canal.
+
+## The Epley Maneuver (Posterior Canal BPPV)
+
+This is the gold-standard treatment. It repositions the crystals out of the canal.
+
+### How to Perform
+
+**Start:** Sit on bed, turn head 45° toward the affected ear
+
+**Step 1:** Lie back quickly with head hanging off bed edge (still turned 45°). Wait 30 seconds.
+
+**Step 2:** Turn head 90° to face the other direction. Wait 30 seconds.
+
+**Step 3:** Roll onto your side (direction you're facing), turning head to look at floor. Wait 30 seconds.
+
+**Step 4:** Sit up slowly, keeping head turned. Return to center.
+
+**Important notes:**
+- You may feel vertigo during the maneuver—this is expected
+- Wait 30 seconds at each position (or until vertigo stops)
+- You may need to repeat 2-3 times
+- Often works in one session
+
+### Determining the Affected Side
+
+The affected ear is usually the one that triggers vertigo when you turn toward it while lying down. Your healthcare provider can confirm with the Dix-Hallpike test.
+
+## BBQ Roll (Horizontal Canal BPPV)
+
+For horizontal canal involvement, where vertigo occurs when turning head side to side while lying down.
+
+### How to Perform
+
+**Start:** Lie flat on your back
+
+**Step 1:** Turn head 90° toward the unaffected ear. Wait 30 seconds.
+
+**Step 2:** Roll onto that side (same direction). Wait 30 seconds.
+
+**Step 3:** Continue rolling to face down. Wait 30 seconds.
+
+**Step 4:** Roll onto the other side. Wait 30 seconds.
+
+**Step 5:** Return to lying on back. Sit up slowly.
+
+You're essentially "rolling like a log" in the direction away from the affected ear.
+
+## Brandt-Daroff Exercises
+
+For persistent BPPV or when you're not sure which ear is affected.
+
+### How to Perform
+
+**Start:** Sit on edge of bed
+
+**Step 1:** Drop sideways to lie on one side, nose pointed 45° upward. Wait 30 seconds (or until vertigo stops).
+
+**Step 2:** Return to sitting. Wait 30 seconds.
+
+**Step 3:** Drop to the other side. Wait 30 seconds.
+
+**Step 4:** Return to sitting.
+
+**Protocol:**
+- 5 repetitions to each side
+- 3 times per day
+- For 2 weeks (or until symptoms resolve)
+
+These are less effective than Epley for diagnosed posterior canal BPPV but useful for home treatment when diagnosis is uncertain.
+
+## Vestibular Rehabilitation Exercises
+
+For dizziness not caused by BPPV, or for residual imbalance after BPPV treatment.
+
+### Gaze Stabilization
+
+Train your vestibular system to maintain stable vision during head movement.
+
+**VOR x1 exercise:**
+- Hold a business card at arm's length
+- Focus on a letter
+- Turn head side to side (like saying "no") while keeping letter in focus
+- Start slow, progress faster
+- 1 minute, 3-5 times daily
+
+**VOR x2 exercise:**
+- Same setup
+- Move head and card in opposite directions
+- More challenging
+
+### Habituation Exercises
+
+If certain movements make you dizzy, controlled exposure can reduce sensitivity.
+
+**The principle:** Repeat the movement that causes dizziness (in a safe environment) until the brain adapts.
+
+**Examples:**
+- Repeated head turns
+- Bending forward and up
+- Walking while turning head
+- Going from sit to stand
+
+Do each 3-5 times, wait for dizziness to settle, repeat 2-3 times daily.
+
+### Balance Training
+
+**Progressions:**
+1. Stand feet together, eyes open
+2. Stand feet together, eyes closed
+3. Tandem stance (heel to toe), eyes open
+4. Tandem stance, eyes closed
+5. Single leg stance, eyes open/closed
+
+**On different surfaces:** firm floor → carpet → foam
+
+**Adding movement:** march in place, head turns while standing
+
+## When to See a Doctor
+
+### Seek Immediate Care If:
+
+- Vertigo with severe headache
+- Difficulty speaking or swallowing
+- Weakness or numbness
+- Vision changes (double vision, vision loss)
+- Difficulty walking (beyond being dizzy)
+- Hearing loss with vertigo
+- Vertigo after head injury
+
+These could indicate stroke or other serious conditions.
+
+### See Your Doctor If:
+
+- First episode of vertigo (to confirm diagnosis)
+- Symptoms not improving with exercises
+- Vertigo lasting hours (not seconds/minutes)
+- Recurrent episodes
+- Associated symptoms (hearing changes, ear pressure)
+
+## Other Causes of Vertigo
+
+### Vestibular Neuritis
+
+- Inflammation of vestibular nerve
+- Severe vertigo lasting days
+- Often after viral infection
+- Treated with vestibular rehabilitation
+
+### Meniere's Disease
+
+- Episodes of vertigo (20 min - hours)
+- Hearing loss (fluctuating)
+- Tinnitus (ringing)
+- Ear fullness
+- Requires medical management
+
+### Vestibular Migraine
+
+- Vertigo associated with migraine
+- May or may not have headache
+- Treated as migraine
+
+### Central Causes
+
+- Rare but serious
+- Stroke, tumors, MS
+- Usually have other neurological signs
+- Need medical evaluation
+
+## Prevention of BPPV Recurrence
+
+BPPV can recur (about 50% within 5 years). To reduce risk:
+
+- Avoid sleeping on the affected side
+- Use two pillows to keep head elevated
+- Avoid rapid head movements when possible
+- Get up slowly from lying down
+- Stay well hydrated
+- Vitamin D supplementation may help (research ongoing)
+
+## The Bottom Line
+
+Most vertigo—especially BPPV—is highly treatable with specific exercises. The Epley maneuver can resolve posterior canal BPPV in minutes.
+
+If you're experiencing vertigo:
+1. Get properly diagnosed (confirm it's BPPV and which ear/canal)
+2. Perform the appropriate repositioning maneuver
+3. Use vestibular exercises for residual symptoms
+4. Seek medical attention for any red-flag symptoms
+
+The world doesn't have to keep spinning. The right exercises can make it stop.
+`
+  },
   'acl-injury-recovery-guide': {
     title: 'ACL Injury: Surgery, Recovery, and Getting Back to Sports',
     date: '2026-03-05',

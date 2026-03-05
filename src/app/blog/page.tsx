@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'diastasis-recti-postpartum-recovery',
+    title: 'Diastasis Recti: Understanding, Healing, and Rebuilding Your Core After Pregnancy',
+    excerpt: 'Noticed a gap in your abs after pregnancy? Here\'s what diastasis recti actually is and how to heal it properly.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'vertigo-vestibular-exercises',
+    title: 'Vertigo and Dizziness: Exercises That Actually Help',
+    excerpt: 'Room spinning? Here\'s what causes vertigo and the specific exercises that can resolve it—often in just a few sessions.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
     slug: 'acl-injury-recovery-guide',
     title: 'ACL Injury: Surgery, Recovery, and Getting Back to Sports',
     excerpt: 'Torn your ACL? Here\'s what to expect from surgery, rehab timelines, and how to return to full activity safely.',
