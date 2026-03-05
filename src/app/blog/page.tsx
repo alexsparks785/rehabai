@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'golf-back-pain-prevention',
+    title: 'Golf and Back Pain: Why It Happens and How to Play Pain-Free',
+    excerpt: 'Back pain ruining your golf game? Here\'s what causes it and how to keep swinging without hurting.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'swimmers-shoulder-treatment',
+    title: 'Swimmer\'s Shoulder: Causes, Treatment, and Getting Back in the Pool',
+    excerpt: 'Shoulder pain from swimming? Here\'s why it happens and how to fix it without giving up the sport you love.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read'
+  },
+  {
     slug: 'labral-tear-hip-shoulder',
     title: 'Labral Tears: Hip and Shoulder Symptoms, Treatment, and Recovery',
     excerpt: 'Diagnosed with a labral tear? Here\'s what it means, when you need surgery, and how to rehab effectively.',

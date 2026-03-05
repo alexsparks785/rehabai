@@ -13,6 +13,571 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'golf-back-pain-prevention': {
+    title: 'Golf and Back Pain: Why It Happens and How to Play Pain-Free',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read',
+    content: `
+## The Golf-Back Pain Connection
+
+Golf seems gentle—no running, no contact, lots of walking. Yet back pain is the most common injury among golfers, affecting up to 35% of amateur players.
+
+The culprit? The golf swing. It's one of the most asymmetrical, rotational movements in sports. Do it thousands of times and your back will have opinions.
+
+## Why Golf Hurts Your Back
+
+### The Swing Demands
+
+A golf swing requires:
+- Rapid rotation (up to 8x body weight in spinal compression)
+- Combination of rotation and side-bending
+- Asymmetrical loading (always the same direction)
+- Generation of significant power
+- Deceleration forces on follow-through
+
+### The Problem Areas
+
+**Lumbar spine:**
+- Takes most of the rotational stress
+- Limited natural rotation capacity (~13° total)
+- Forced to rotate beyond comfortable limits
+
+**Thoracic spine:**
+- Should provide rotation but often restricted
+- When tight, lumbar spine compensates
+
+**Hips:**
+- Need mobility for proper weight transfer
+- Tight hips = more stress on spine
+
+### Common Injuries
+
+- Muscle strains (most common)
+- Disc problems (bulges, herniations)
+- Facet joint irritation
+- SI joint dysfunction
+- Spondylolysis (stress fracture in younger players)
+
+## Risk Factors
+
+### Swing Mechanics
+
+- Reverse spine angle (leaning toward target at top of backswing)
+- Early extension (hips moving toward ball on downswing)
+- Over-rotation or forced rotation
+- "Casting" from the top
+
+### Physical Limitations
+
+- Limited hip rotation
+- Restricted thoracic mobility
+- Weak core and glutes
+- Poor single-leg stability
+- Tight hip flexors
+
+### Practice Habits
+
+- Too many balls, too little rest
+- No warm-up
+- Hitting off mats (harder on back than grass)
+- Practicing when tired
+
+## Prevention: The TPI Approach
+
+The Titleist Performance Institute (TPI) has extensively studied golf and the body. Their key insight: **work with your body, not against it.**
+
+### Improve Thoracic Rotation
+
+If your upper back rotates well, your lower back doesn't have to.
+
+**Open book stretch:**
+- Lie on side, knees stacked
+- Top arm reaches overhead and back
+- Follow with eyes, let upper back rotate
+- 10 each side
+
+**Thoracic rotation in quadruped:**
+- On hands and knees
+- Hand behind head
+- Rotate elbow toward ceiling
+- 10 each side
+
+**Foam roller extension:**
+- Roller across upper back
+- Hands behind head
+- Extend over roller
+- Move to different segments
+
+### Improve Hip Mobility
+
+Hips need to rotate for proper weight transfer.
+
+**90-90 hip stretch:**
+- Sit with both legs at 90°
+- Rotate to shift weight side to side
+- Work on internal and external rotation
+
+**Half-kneeling hip flexor stretch:**
+- Back knee down, front foot forward
+- Squeeze glute, shift forward
+- 30 seconds each side
+
+**Supine hip rotation:**
+- On back, knees bent
+- Let knees fall to one side
+- Keep shoulders down
+- 10 each direction
+
+### Strengthen the Core
+
+Core stability protects the spine during rotation.
+
+**Anti-rotation press (Pallof press):**
+- Band or cable at chest height
+- Press out, resist rotation
+- Hold 5 seconds
+- 10 each side
+
+**Dead bug:**
+- On back, arms up, legs tabletop
+- Extend opposite arm and leg
+- Keep back flat
+- 10 each side
+
+**Bird-dog:**
+- On hands and knees
+- Extend opposite arm and leg
+- Hold 3 seconds
+- 10 each side
+
+### Strengthen the Glutes
+
+Glutes power the swing and protect the back.
+
+**Glute bridge:**
+- Basic, then single-leg
+- Focus on hip extension, not back extension
+
+**Clamshells:**
+- Side-lying, knees bent
+- Open top knee, keep feet together
+- Band for added resistance
+
+**Romanian deadlifts:**
+- Hip hinge pattern
+- Strengthens posterior chain
+
+## Warm-Up Before Golf
+
+### The 10-Minute Pre-Round Routine
+
+**Walk and swing (2 min):**
+- Walk briskly
+- Arm circles, trunk rotations
+
+**Hip mobility (2 min):**
+- Hip circles
+- Leg swings (front-back, side-side)
+- Squats
+
+**Thoracic rotation (2 min):**
+- Standing trunk rotations
+- Reach and rotate
+
+**Progressive swings (4 min):**
+- Start with wedges at 50%
+- Gradually increase club length and intensity
+- Don't hit driver first
+
+### Why It Matters
+
+Cold muscles and restricted joints increase injury risk. The first tee is not the time for your first swing.
+
+## Swing Modifications
+
+### If Your Back Hurts
+
+**Shorten your backswing:**
+- You don't need a John Daly backswing
+- Shorter swing = less spinal stress
+- Can still generate power with good sequencing
+
+**Wider stance:**
+- Reduces lateral movement
+- More stable base
+
+**Flare your feet:**
+- Lead foot especially
+- Allows hips to clear without forcing spine
+
+**Accept less rotation:**
+- Your body has limits
+- Work within them
+
+### Equipment Considerations
+
+- Proper club fitting reduces compensations
+- Graphite shafts reduce vibration
+- Consider higher-lofted driver (easier to hit)
+- Push cart instead of carrying
+
+## Managing Back Pain on the Course
+
+### During the Round
+
+- Walk, don't ride (walking is better for your back than sitting/jolting in cart)
+- Stretch between holes
+- Avoid sitting on cart seats—stand or half-sit
+- Stay hydrated
+- Take full practice swings, not abbreviated ones
+
+### After the Round
+
+- Gentle stretching
+- Walk rather than sit immediately
+- Ice if inflamed
+- Avoid heavy lifting
+
+## When to Rest vs. Play Through
+
+### You Can Probably Play If:
+
+- Mild stiffness that warms up
+- No pain during swing
+- Pain doesn't worsen throughout round
+- No radiating symptoms
+
+### Take Time Off If:
+
+- Pain during the swing
+- Pain that worsens as you play
+- Radiating pain into leg
+- Numbness or tingling
+- Unable to swing normally
+
+### Modify Your Game:
+
+- Play fewer holes
+- Skip the driver
+- Focus on short game
+- Take more breaks
+
+## Long-Term Strategies
+
+### Regular Exercise
+
+Year-round conditioning matters more than range sessions.
+
+**2-3 times per week:**
+- Core stability work
+- Hip and thoracic mobility
+- Glute and posterior chain strength
+- Balance training
+
+### Lessons
+
+A golf pro can identify swing faults that stress your back. Often a small change makes a big difference.
+
+**Tell your instructor** about your back issues—they can modify instruction accordingly.
+
+### Smart Practice
+
+- Quality over quantity
+- Alternate clubs (don't hit 50 drivers in a row)
+- Take breaks
+- Stop when tired or in pain
+- Grass over mats when possible
+
+## The Bottom Line
+
+Golf and a healthy back can coexist. It requires:
+- Adequate mobility (hips and thoracic spine)
+- Sufficient core stability
+- Proper warm-up
+- Smart practice habits
+- Willingness to adapt your swing to your body
+
+Your swing should serve your body, not destroy it. Play the game for decades, not just seasons.
+
+The best golfers are the ones still playing. Take care of your back.
+`
+  },
+  'swimmers-shoulder-treatment': {
+    title: 'Swimmer\'s Shoulder: Causes, Treatment, and Getting Back in the Pool',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read',
+    content: `
+## The Most Common Swimming Injury
+
+Competitive swimmers can perform 1-2 million shoulder revolutions per year. Recreational lap swimmers might do thousands per week. That repetitive overhead motion takes a toll.
+
+Swimmer's shoulder is an umbrella term for shoulder pain in swimmers, typically involving impingement, rotator cuff irritation, or instability. The good news: it usually responds well to treatment.
+
+## What Is Swimmer's Shoulder?
+
+### The Anatomy
+
+The shoulder is inherently unstable—sacrificing stability for mobility. The rotator cuff muscles, labrum, and capsule work to keep the ball centered in the socket during movement.
+
+### What Goes Wrong
+
+In swimming, the repetitive overhead motion can cause:
+
+**Impingement:** Structures (rotator cuff, bursa) get pinched under the acromion
+
+**Rotator cuff tendinopathy:** Overuse degeneration of the cuff tendons
+
+**Instability:** Loose capsule from repetitive stretching
+
+**Labral irritation:** Wear on the cartilage rim
+
+Often these coexist.
+
+### Who Gets It
+
+- Competitive swimmers (especially those specializing in freestyle, butterfly, backstroke)
+- Masters swimmers (less recovery, older tissue)
+- Triathletes
+- Lap swimmers who ramp up volume quickly
+
+**Prevalence:** Up to 90% of competitive swimmers experience shoulder pain at some point.
+
+## Why Swimming Hurts Shoulders
+
+### The Catch and Pull
+
+During the catch and pull phase, the rotator cuff works hard to stabilize the humeral head while generating power. If the cuff is weak or fatigued, impingement occurs.
+
+### The Recovery
+
+During arm recovery (out of water), the shoulder is in a potentially impinging position—arm elevated and internally rotated.
+
+### The Volume
+
+A swimmer might do 10,000+ strokes per week. Small issues become big problems with repetition.
+
+### Contributing Factors
+
+**Stroke mechanics:**
+- Excessive internal rotation during catch
+- "Dropped elbow" during pull
+- Over-rotation of trunk
+- Hand entry crossing midline
+
+**Physical issues:**
+- Poor scapular stability
+- Weak rotator cuff
+- Tight pecs and lats
+- Limited thoracic extension
+- Core weakness (causing compensations)
+
+**Training errors:**
+- Rapid volume increases
+- Too much paddle use
+- Inadequate rest
+- Single-stroke focus (all freestyle, for example)
+
+## Symptoms
+
+- Anterior or lateral shoulder pain
+- Pain during catch phase
+- Pain with reaching overhead out of water
+- Aching after practice
+- Weakness or fatigue
+- Clicking or popping
+- Pain at night lying on the shoulder
+
+**Progression:**
+1. Pain only after swimming
+2. Pain during swimming but doesn't limit
+3. Pain that limits swimming
+4. Pain with daily activities
+
+**Don't wait until stage 4.** Early intervention is easier.
+
+## Treatment Approach
+
+### Phase 1: Pain Control and Relative Rest
+
+**NOT complete rest.** Stopping entirely can lead to stiffness and deconditioning.
+
+**Modify training:**
+- Reduce volume significantly
+- Avoid painful strokes
+- Kick sets, pull buoy with light arms
+- Swim other strokes if they don't hurt
+
+**Pain management:**
+- Ice after swimming
+- Anti-inflammatory medication short-term
+- Avoid painful positions
+
+### Phase 2: Address Deficits
+
+**Rotator cuff strengthening:**
+
+*External rotation (side-lying):*
+- Lie on non-painful side
+- Elbow at side, bent 90°
+- Rotate forearm toward ceiling
+- 3×15
+
+*External rotation (standing with band):*
+- Elbow at side
+- Rotate outward against band
+- 3×15
+
+*Prone Y-T-W:*
+- Face down on bench or floor
+- Arms in Y, T, then W positions
+- Lift and squeeze shoulder blades
+- 2×10 each position
+
+**Scapular stability:**
+
+*Rows (all variations):*
+- Focus on squeezing shoulder blades
+- Don't shrug shoulders
+- 3×12
+
+*Serratus punches:*
+- Push-up position or standing
+- Protract shoulder blades (push further)
+- 3×15
+
+*Lower trap raises:*
+- Prone, arms in Y position
+- Lift with thumbs up
+- Focus on lower traps, not upper
+- 3×10
+
+**Posterior capsule stretching:**
+
+*Sleeper stretch:*
+- Lie on affected side
+- Shoulder and elbow at 90°
+- Gently push forearm toward floor
+- 30 seconds, 3 times
+
+*Cross-body stretch:*
+- Pull arm across chest
+- Support at elbow
+- 30 seconds, 3 times
+
+**Core stability:**
+- Dead bugs, bird-dogs, planks
+- Swimmers often have surprisingly weak cores
+- Core controls trunk rotation
+
+### Phase 3: Return to Swimming
+
+**Gradual progression:**
+
+*Week 1:* 25-50% volume, no paddles, focus on technique, mix strokes
+
+*Week 2:* 50-75% volume if pain-free, still no paddles
+
+*Week 3:* 75-90% volume, introduce short paddle sets
+
+*Week 4+:* Full volume if pain-free, gradual paddle progression
+
+**Pain rules:**
+- No pain during swimming
+- No pain after that persists
+- If pain returns, back off
+
+### Stroke Technique Corrections
+
+Work with a coach on:
+
+**Entry:**
+- Hand enters in line with shoulder (not crossing midline)
+- Lead with fingertips
+
+**Catch:**
+- Early vertical forearm
+- Don't "slip" with dropped elbow
+
+**Pull:**
+- Pull to hip, not past
+- Avoid excessive internal rotation
+
+**Recovery:**
+- Relaxed recovery
+- Adequate body rotation
+
+**Body position:**
+- Good rotation (45-60° each way)
+- Head neutral, not lifted
+- Tight core
+
+## Prevention Strategies
+
+### Dryland Training
+
+2-3 sessions per week:
+- Rotator cuff strengthening
+- Scapular exercises
+- Core work
+- Shoulder flexibility maintenance
+
+### In-Pool Habits
+
+- Warm up gradually (start with kicking or easy swimming)
+- Vary strokes (don't only freestyle)
+- Limit paddle use (especially oversized paddles)
+- Focus on technique when fatigued
+
+### Training Periodization
+
+- Build volume gradually
+- Include rest and recovery weeks
+- Plan hard and easy days
+- Don't spike volume for meets
+
+### Equipment
+
+- Smaller paddles (finger paddles are easier on shoulders)
+- Consider paddles that can fall off with bad technique
+- Pull buoy reduces arm stress
+- Fins allow shoulder recovery while maintaining cardio
+
+## When to Get Help
+
+### See a Professional If:
+
+- Pain persists despite 2 weeks of modified training
+- Pain is affecting daily activities
+- Weakness or instability
+- Night pain interfering with sleep
+- No improvement with self-treatment
+
+### What to Expect
+
+- Physical exam and movement assessment
+- Possibly imaging (usually not needed initially)
+- Hands-on treatment and exercise prescription
+- Guidance on return to swimming
+
+## The Bottom Line
+
+Swimmer's shoulder is common but manageable. The keys are:
+
+1. **Don't ignore early warning signs**
+2. **Modify training—don't stop completely**
+3. **Address underlying deficits** (rotator cuff, scapular stability, core)
+4. **Fix technique issues**
+5. **Progress back gradually**
+
+Your shoulder is the engine of your swimming. Take care of it, and it'll carry you through millions more strokes.
+
+Most swimmers can return to full training. It just takes patience and smart rehabilitation.
+`
+  },
   'labral-tear-hip-shoulder': {
     title: 'Labral Tears: Hip and Shoulder Symptoms, Treatment, and Recovery',
     date: '2026-03-05',
