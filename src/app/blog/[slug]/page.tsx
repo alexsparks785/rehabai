@@ -13,6 +13,607 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'labral-tear-hip-shoulder': {
+    title: 'Labral Tears: Hip and Shoulder Symptoms, Treatment, and Recovery',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '8 min read',
+    content: `
+## What Is a Labrum?
+
+Both your hip and shoulder have a labrum—a ring of cartilage that deepens the socket and helps stabilize the joint. Think of it as a gasket that creates a seal between the ball and socket.
+
+When this cartilage tears, it can cause pain, clicking, catching, and instability. But the severity varies widely, and not all labral tears need surgery.
+
+## Hip Labral Tears
+
+### Anatomy
+
+The hip labrum surrounds the acetabulum (hip socket). It:
+- Deepens the socket by about 25%
+- Creates a suction seal for stability
+- Distributes forces across the joint
+- Contains nerve endings (why tears hurt)
+
+### How They Happen
+
+**Structural factors (FAI - Femoroacetabular Impingement):**
+- Cam impingement: bump on the femoral head
+- Pincer impingement: over-coverage of the socket
+- These cause repetitive pinching and labral damage
+
+**Traumatic:**
+- Falls, twisting injuries
+- Sports with pivoting (hockey, soccer, golf)
+- Hip dislocation
+
+**Degenerative:**
+- Gradual wear over time
+- Often found incidentally on MRI
+
+### Symptoms
+
+- Deep groin or front hip pain
+- Clicking, catching, or locking
+- Pain with prolonged sitting
+- Pain with hip flexion and rotation
+- Stiffness
+- Giving way sensation
+
+**Key sign:** Pain with bringing knee to chest and rotating inward (FADIR test).
+
+### Diagnosis
+
+**Physical exam:** FADIR test, FABER test, hip range of motion
+
+**X-ray:** Shows bony abnormalities (FAI) but not the labrum
+
+**MRI arthrogram:** Gold standard—injection of contrast into joint before MRI
+
+**Important:** Labral tears are common on MRI in people without symptoms. Don't treat images—treat patients.
+
+### Treatment Options
+
+**Conservative (First Line for Most):**
+
+- Activity modification
+- Physical therapy focusing on:
+  - Hip strengthening (especially glutes)
+  - Core stability
+  - Movement pattern modification
+  - Avoiding positions that pinch (deep flexion/rotation)
+- Anti-inflammatory medications
+- Possibly injection for diagnostic/therapeutic purposes
+
+**Success rate:** Many people improve significantly with conservative care. Give it 3-6 months.
+
+**Surgical:**
+
+- Hip arthroscopy to repair or debride labrum
+- Often combined with treatment of FAI (shaving bone)
+- Indicated when:
+  - Conservative treatment fails
+  - Mechanical symptoms (true locking)
+  - FAI causing ongoing damage
+  - Significant functional limitation
+
+**Recovery:** 3-6 months for most activities, 6-12 months for full sport return.
+
+## Shoulder Labral Tears
+
+### Anatomy
+
+The shoulder labrum surrounds the glenoid (socket of the shoulder blade). It:
+- Deepens the shallow shoulder socket by about 50%
+- Provides attachment for biceps tendon (SLAP tears)
+- Provides attachment for ligaments (Bankart tears)
+- Creates stability in an inherently mobile joint
+
+### Types of Shoulder Labral Tears
+
+**SLAP tear (Superior Labrum Anterior to Posterior):**
+- Top of labrum where biceps attaches
+- Common in overhead athletes, weightlifters
+- Can occur from falls on outstretched arm
+
+**Bankart lesion:**
+- Front-bottom of labrum
+- Often occurs with shoulder dislocation
+- Associated with recurrent instability
+
+**Posterior labral tear:**
+- Back of the labrum
+- Less common
+- Can occur with repetitive posterior loading
+
+### Symptoms
+
+- Deep shoulder pain (hard to localize)
+- Pain with overhead activities
+- Clicking, popping, catching
+- Feeling of instability or "dead arm"
+- Pain at night lying on shoulder
+- Weakness with specific movements
+
+**SLAP specific:** Pain with biceps loading (lifting, pulling)
+
+**Bankart specific:** Apprehension with arm in throwing position
+
+### Diagnosis
+
+**Physical exam:** Various provocative tests (O'Brien's, crank test, apprehension test)
+
+**MRI arthrogram:** Gold standard for labral visualization
+
+**Again:** Finding a tear on MRI doesn't mean it's your problem. Clinical correlation is essential.
+
+### Treatment Options
+
+**Conservative:**
+
+Effective for many, especially:
+- SLAP tears in non-overhead athletes over 40
+- Partial tears without instability
+- Degenerative tears
+
+**Includes:**
+- Activity modification
+- Physical therapy focusing on:
+  - Rotator cuff strengthening
+  - Scapular stability
+  - Posterior capsule stretching
+  - Gradual return to activity
+- Anti-inflammatory medications
+
+**Surgical:**
+
+**SLAP repairs:** Often for young overhead athletes with specific tear patterns. Older adults may do better with biceps tenodesis (cutting and reattaching biceps elsewhere).
+
+**Bankart repairs:** Usually recommended after dislocation, especially in young active individuals at high risk of recurrence.
+
+**Recovery:** 3-4 months for basic function, 6-12 months for full overhead sport.
+
+## Rehabilitation Principles
+
+### Phase 1: Protection and Pain Control (Weeks 0-4)
+
+- Protect healing tissue
+- Control pain and inflammation
+- Maintain motion within safe limits
+- Begin gentle muscle activation
+
+### Phase 2: Early Strengthening (Weeks 4-8)
+
+- Restore full motion
+- Begin progressive strengthening
+- Focus on stabilizing muscles
+- Address movement patterns
+
+### Phase 3: Progressive Strengthening (Weeks 8-16)
+
+- Build strength toward pre-injury levels
+- Improve neuromuscular control
+- Sport-specific movement introduction
+- Address the entire kinetic chain
+
+### Phase 4: Return to Activity (4-6+ months)
+
+- Sport/activity-specific training
+- Graduated return to full participation
+- Address any lingering deficits
+- Prevention strategies
+
+### Key Exercises
+
+**For hip labral tears:**
+- Glute bridges and progressions
+- Clamshells and hip abduction
+- Single-leg balance
+- Core stability (avoiding hip flexion)
+- Deadlift patterns (when ready)
+
+**For shoulder labral tears:**
+- Rotator cuff strengthening (all directions)
+- Scapular exercises (rows, Y-T-W)
+- Posterior capsule stretching
+- Kinetic chain work
+- Gradual overhead progression
+
+## Living With a Labral Tear
+
+### The Reality
+
+Many people have labral tears and don't know it. Many function well despite tears.
+
+**What matters:**
+- Your symptoms, not your MRI
+- Your functional goals
+- How you respond to conservative care
+
+### Long-Term Management
+
+**If you don't have surgery:**
+- Ongoing strengthening
+- Activity modification as needed
+- Avoid positions that aggravate
+- May need periodic physical therapy tune-ups
+
+**If you do have surgery:**
+- Commit fully to rehab
+- Return to activity gradually
+- Maintain strength long-term
+- Address underlying factors (FAI, instability, movement patterns)
+
+## When to Seek Help
+
+### See a Professional If:
+
+- Persistent hip or shoulder pain affecting function
+- Mechanical symptoms (locking, catching)
+- History of dislocation
+- Night pain interfering with sleep
+- Not improving with rest and basic care
+
+### Red Flags:
+
+- Sudden severe pain with inability to move
+- Obvious deformity
+- Numbness or tingling
+- Symptoms after significant trauma
+
+## The Bottom Line
+
+Labral tears exist on a spectrum. Many are found incidentally and cause no problems. Others significantly impact function and may need surgery.
+
+Start conservative for most. Physical therapy, activity modification, and time resolve many cases. Surgery is there when conservative care fails—but it's not always needed.
+
+Your labrum might be torn. That doesn't mean your activity has to stop. The right rehab can get you back to what you love.
+`
+  },
+  'post-surgery-rehab-guide': {
+    title: 'Post-Surgery Rehabilitation: The Complete Guide to Recovery',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read',
+    content: `
+## Surgery Is Just the Beginning
+
+The operation might take an hour. Recovery takes months. And the biggest factor in your outcome isn't the surgeon's skill—it's what you do afterward.
+
+This guide covers the universal principles of surgical rehabilitation. While every procedure has specifics, the framework applies broadly.
+
+## The Phases of Surgical Rehab
+
+### Phase 1: Acute/Protection Phase (Week 0-2+)
+
+**Goals:**
+- Protect the surgical repair
+- Control pain and swelling
+- Prevent complications
+- Begin gentle motion (as allowed)
+- Maintain muscle activation
+
+**Key activities:**
+- Ice, elevation, compression
+- Pain medication as prescribed
+- Gentle range of motion within limits
+- Isometric muscle contractions
+- Walking/mobility as allowed
+- Wound care
+
+**Mindset:** Patience. Healing is happening even when you can't see it.
+
+### Phase 2: Early Motion Phase (Weeks 2-6+)
+
+**Goals:**
+- Restore range of motion
+- Reduce swelling further
+- Begin light strengthening
+- Progress weight bearing (if applicable)
+- Improve circulation and tissue healing
+
+**Key activities:**
+- Progressive stretching
+- Active range of motion
+- Isometric progressing to isotonic exercises
+- Light resistance
+- Gait training if lower extremity
+- Scar mobilization (when healed)
+
+**Mindset:** Controlled progress. Motion is medicine.
+
+### Phase 3: Strengthening Phase (Weeks 6-12+)
+
+**Goals:**
+- Build muscle strength
+- Improve neuromuscular control
+- Restore functional movements
+- Address compensations
+
+**Key activities:**
+- Progressive resistance training
+- Balance and proprioception work
+- Functional movement patterns
+- Sport/activity-specific introduction
+- Core and kinetic chain work
+
+**Mindset:** Building capacity. Quality before quantity.
+
+### Phase 4: Return to Activity Phase (Months 3-6+)
+
+**Goals:**
+- Full strength and endurance
+- Complete functional movements
+- Return to work/sport/life
+- Injury prevention
+
+**Key activities:**
+- Sport-specific training
+- Power and plyometrics (if appropriate)
+- Full work simulation
+- Gradual return to activity
+- Maintenance program development
+
+**Mindset:** Earned confidence. Sustainable return.
+
+## Universal Principles
+
+### 1. Follow Your Protocol
+
+Your surgeon and physical therapist have a reason for every restriction and progression. Precautions exist to protect healing tissue.
+
+**Don't:**
+- Push through restrictions because you "feel fine"
+- Skip steps because you're impatient
+- Compare your timeline to someone else's
+
+**Do:**
+- Ask questions if you don't understand
+- Report unusual pain or concerns
+- Trust the process
+
+### 2. Swelling Is the Enemy
+
+Swelling impedes healing, inhibits muscle function, and causes stiffness.
+
+**How to manage:**
+- Ice: 15-20 minutes, multiple times daily
+- Elevation: Above the heart when possible
+- Compression: As directed
+- Movement: Gentle motion pumps fluid out
+- Avoid: Prolonged dependent positioning
+
+### 3. Range of Motion Comes First
+
+You can't strengthen a joint that doesn't move. Regaining motion is priority one after the protection phase.
+
+**Why it matters:**
+- Scar tissue forms if joints stay still
+- Loss of motion affects function permanently
+- Motion feeds cartilage and promotes healing
+
+**How to approach:**
+- Gentle, frequent stretching
+- Motion before strengthening
+- Both directions matter (flexion and extension)
+
+### 4. Pain Is Information
+
+Some discomfort during rehab is normal. Sharp, worsening, or unusual pain is a signal.
+
+**Normal:**
+- Muscle soreness
+- Stretch discomfort
+- Mild aching after activity
+
+**Not normal:**
+- Sharp pain during exercises
+- Significantly increased pain the next day
+- Pain at the surgical site that's worsening
+- New symptoms (clicking, giving way)
+
+**Rule of thumb:** If pain increases significantly during or after activity, you've done too much.
+
+### 5. Consistency Beats Intensity
+
+Doing your exercises every day at moderate effort beats crushing it twice a week.
+
+**Why:**
+- Tissues adapt to regular stimulus
+- Swelling is managed with frequent motion
+- Habits form with consistency
+- Fewer setbacks from overdoing it
+
+### 6. Address the Whole Chain
+
+Your surgery site doesn't work in isolation.
+
+**Lower extremity surgery:** Core, hip, opposite leg all matter
+
+**Upper extremity surgery:** Scapula, core, posture all matter
+
+**Spine surgery:** Everything connects to your spine
+
+**Neglect the chain = compensations = problems.**
+
+## Specific Considerations
+
+### Knee Surgery (ACL, Meniscus, Replacement)
+
+**Critical focus:**
+- Quad activation (often shuts down)
+- Full extension (harder to regain than flexion)
+- Patellar mobility
+- Swelling management
+
+**Common mistake:** Neglecting extension while only working flexion.
+
+### Shoulder Surgery (Rotator Cuff, Labral, Replacement)
+
+**Critical focus:**
+- Sling/immobilizer protocols
+- Passive motion before active
+- Scapular stability throughout
+- Avoiding positions that stress repair
+
+**Common mistake:** Reaching, pushing, or lifting too soon.
+
+### Hip Surgery (Replacement, Arthroscopy, Fracture)
+
+**Critical focus:**
+- Precaution compliance (positions to avoid)
+- Glute activation
+- Gait normalization
+- Scar tissue management
+
+**Common mistake:** Ignoring hip precautions because you "feel fine."
+
+### Spine Surgery (Fusion, Discectomy, Laminectomy)
+
+**Critical focus:**
+- Movement restrictions per surgeon
+- Core activation without flexion/rotation
+- Walking as primary exercise early on
+- Posture and body mechanics
+
+**Common mistake:** Returning to bending/lifting before cleared.
+
+## The Home Exercise Program
+
+### It's Non-Negotiable
+
+Physical therapy visits matter. What you do at home between visits matters more.
+
+**Reality:** You might see your PT 2-3 times per week. There are 168 hours in a week. The other 165 hours determine your outcome.
+
+### How to Stay Consistent
+
+- Same time every day (habit stacking)
+- Set up a dedicated space
+- Keep equipment accessible
+- Track completion (calendar, app)
+- Understand why each exercise matters
+
+### When to Progress
+
+Progress when:
+- Current level is consistently comfortable
+- Form is excellent
+- PT or protocol indicates it's time
+
+Don't progress just because you're bored or impatient.
+
+## Common Setbacks
+
+### Overdoing It
+
+**Signs:** Increased swelling, pain, regression in motion
+
+**Solution:** Back off, ice, elevate, return to previous level
+
+### Underdoing It
+
+**Signs:** Stiffness, loss of motion, slow progress
+
+**Solution:** Commit to consistency, motion multiple times daily
+
+### Infection
+
+**Signs:** Increasing redness, warmth, drainage, fever
+
+**Solution:** Contact surgeon immediately
+
+### Blood Clot (DVT)
+
+**Signs:** Calf swelling, warmth, pain (often one-sided)
+
+**Solution:** Seek medical attention immediately
+
+### Stiffness/Adhesions
+
+**Signs:** Plateau in motion, tightness that doesn't respond
+
+**Solution:** May need more aggressive therapy, possibly manipulation under anesthesia
+
+## Nutrition for Recovery
+
+### Protein
+
+Essential for tissue repair. Aim for 1.2-1.6 g/kg body weight.
+
+### Hydration
+
+Tissues heal better when hydrated. Aim for clear/light yellow urine.
+
+### Vitamins and Minerals
+
+- Vitamin C: Collagen synthesis
+- Vitamin D: Bone healing
+- Zinc: Wound healing
+- Calcium: Bone healing
+
+### What to Limit
+
+- Alcohol (impairs healing)
+- Excessive sugar (inflammatory)
+- Smoking (seriously impairs healing—quit if possible)
+
+## Mental Health During Recovery
+
+### It's Hard
+
+Surgery and recovery are mentally challenging:
+- Loss of independence
+- Frustration with pace
+- Fear about outcomes
+- Disrupted routine
+- Possible depression
+
+### Strategies
+
+- Set small, achievable goals
+- Celebrate milestones
+- Stay connected socially
+- Accept help
+- Talk to someone if struggling
+- Focus on what you can do, not what you can't
+
+## Questions to Ask
+
+### Before Surgery
+
+- What is the expected timeline?
+- What restrictions will I have?
+- When can I drive, work, exercise?
+- What should I prepare at home?
+
+### After Surgery
+
+- What are the warning signs to watch for?
+- When should I contact you?
+- What is the physical therapy protocol?
+- When is my follow-up?
+
+### During Rehab
+
+- Am I progressing as expected?
+- Should I be doing anything differently?
+- When can I add/change activities?
+- What are realistic expectations for my outcome?
+
+## The Bottom Line
+
+Surgery creates the potential for healing. Rehabilitation realizes that potential.
+
+Your surgeon does their job in the operating room. Your job—the harder, longer job—happens in the weeks and months that follow.
+
+Follow the protocol. Manage swelling. Prioritize motion. Stay consistent. Be patient.
+
+The best surgical outcomes belong to the patients who take rehab seriously. That's you now. Get to work.
+`
+  },
   'pelvic-floor-exercises-guide': {
     title: 'Pelvic Floor Exercises: A Complete Guide for Everyone (Not Just New Moms)',
     date: '2026-03-05',

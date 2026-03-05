@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'labral-tear-hip-shoulder',
+    title: 'Labral Tears: Hip and Shoulder Symptoms, Treatment, and Recovery',
+    excerpt: 'Diagnosed with a labral tear? Here\'s what it means, when you need surgery, and how to rehab effectively.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'post-surgery-rehab-guide',
+    title: 'Post-Surgery Rehabilitation: The Complete Guide to Recovery',
+    excerpt: 'Had surgery? Here\'s the framework for rehab that applies to nearly any orthopedic procedure—and how to optimize your recovery.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read'
+  },
+  {
     slug: 'pelvic-floor-exercises-guide',
     title: 'Pelvic Floor Exercises: A Complete Guide for Everyone (Not Just New Moms)',
     excerpt: 'Leaking, pain, or dysfunction? Your pelvic floor might be the culprit. Here\'s how to strengthen—and relax—these essential muscles.',
