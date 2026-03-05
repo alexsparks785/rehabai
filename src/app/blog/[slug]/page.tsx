@@ -13,6 +13,557 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'hypermobility-joint-laxity-exercises': {
+    title: 'Hypermobility: Why Being "Too Flexible" Can Cause Pain and How to Manage It',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## When Flexibility Becomes a Problem
+
+Most people think flexibility is purely good. Stretch more, feel better, right?
+
+But some people are *too* flexible. Their joints move beyond normal ranges, their ligaments are lax, and despite being able to do impressive party tricks, they're often in pain.
+
+This is hypermobility—and it requires a completely different approach.
+
+## What Is Hypermobility?
+
+### The Basics
+
+Hypermobility means your joints move beyond the typical range of motion. This happens because your connective tissue—the ligaments and joint capsules that limit movement—is more elastic than average.
+
+### The Spectrum
+
+Hypermobility exists on a spectrum:
+
+**Localized hypermobility:** One or a few joints are extra flexible (common, often no issues)
+
+**Generalized joint hypermobility (GJH):** Multiple joints are hypermobile (10-25% of population)
+
+**Hypermobility Spectrum Disorder (HSD):** Hypermobility plus symptoms (pain, injuries)
+
+**Hypermobile Ehlers-Danlos Syndrome (hEDS):** A connective tissue disorder with specific diagnostic criteria
+
+### The Beighton Score
+
+A simple screening tool. Score 1 point for each:
+- Pinky bends back >90° (each hand = 2 points possible)
+- Thumb touches forearm (each side = 2 points)
+- Elbow hyperextends >10° (each side = 2 points)
+- Knee hyperextends >10° (each side = 2 points)
+- Palms flat on floor with legs straight (1 point)
+
+**Score of 5+/9** (or 4+/9 for older adults) suggests generalized hypermobility.
+
+## Why Does Hypermobility Cause Pain?
+
+### The Stability Problem
+
+Joints need passive stability (ligaments) AND active stability (muscles). When passive stability is lacking, muscles work overtime to compensate.
+
+This leads to:
+- Muscle fatigue and tension
+- Joint strain from excessive movement
+- More frequent injuries
+- Longer recovery times
+
+### Common Issues
+
+- Joint pain (especially spine, shoulders, hips, knees)
+- Frequent sprains and subluxations
+- Chronic muscle tension
+- Fatigue (muscles constantly working)
+- Poor proprioception (joint position sense)
+- Clicking, popping, "giving way"
+
+### The Frustrating Paradox
+
+Hypermobile people often feel tight. The muscles are overworking to create stability. Stretching feels good temporarily but doesn't address the root problem—and can make things worse.
+
+## What Doesn't Work
+
+### More Stretching
+
+If you're hypermobile, you don't need more flexibility. Stretching often:
+- Increases joint laxity further
+- Provides only temporary relief
+- Doesn't build the stability you need
+- Can lead to more injuries
+
+**Stop stretching into hypermobile ranges.** It's feeding the problem.
+
+### High-Impact or End-Range Activities
+
+- Yoga (especially pushing into deep poses)
+- Dance (especially ballet en pointe)
+- Gymnastics
+- Martial arts (high kick, splits)
+
+These aren't necessarily forbidden, but require careful modification.
+
+### Ignoring Symptoms
+
+"It's just how my body is" leads to progressive joint damage. Hypermobility needs active management.
+
+## What Actually Works
+
+### The Core Principle
+
+**Build strength and motor control in mid-range positions.** Avoid end-range loading. Create active stability to replace missing passive stability.
+
+### Strength Training
+
+This is the foundation. Stronger muscles = more joint stability.
+
+**Guidelines:**
+- Focus on controlled, mid-range movements
+- Avoid locking out joints
+- Slightly higher reps, moderate weights initially
+- Slow eccentrics (lowering phase)
+- Full-body approach
+
+**Key exercises:**
+- Squats (don't hyperextend knees at top)
+- Romanian deadlifts
+- Rows and pull-downs
+- Push-ups and pressing (don't lock elbows)
+- Carries (farmer's walks)
+
+### Proprioceptive Training
+
+Hypermobile people often have poor awareness of where their joints are in space.
+
+**Exercises:**
+- Balance work (single-leg stance, eyes closed)
+- Slow, controlled movements
+- Mirror work for feedback
+- Resistance band exercises with focus on position
+
+### Motor Control Work
+
+Not just strong—controlled.
+
+**Focus areas:**
+- Isometric holds at various joint angles
+- Slow tempo exercises (3-4 seconds each direction)
+- Reactive stability (perturbation training)
+- Sport-specific movement patterns
+
+### Postural Awareness
+
+Hypermobile people often "hang on ligaments" in standing and sitting.
+
+**Teach:**
+- Neutral joint positions
+- Stacking joints properly
+- Not locking knees or hyperextending spine
+- Active posture (using muscles to hold position)
+
+## Exercise Modifications
+
+### Squats
+
+- Stop at parallel, don't go deep
+- Keep slight knee bend at top
+- Focus on quad and glute engagement
+- May need narrower stance
+
+### Deadlifts
+
+- Soft knee lockout
+- Don't hyperextend at top
+- Romanian deadlifts often better than conventional
+- Focus on hamstring and glute tension
+
+### Pressing Movements
+
+- Don't lock elbows
+- Control the movement throughout
+- May need to limit range at bottom (shoulder protection)
+
+### Yoga and Stretching
+
+If you enjoy yoga:
+- Back off to 80% of your available range
+- Focus on strength poses, not flexibility
+- Use props to limit range
+- Build stability within poses
+- Avoid "showing off" flexibility
+
+### Cardio
+
+- Lower-impact options often better
+- Swimming, cycling, elliptical
+- Running is fine if tolerated but watch for joint issues
+- Avoid repetitive high-impact on unstable surfaces
+
+## Building a Program
+
+### Sample Week
+
+**Monday: Lower Body Strength**
+- Goblet squats 3×12
+- Romanian deadlifts 3×10
+- Step-ups 3×10 each
+- Single-leg glute bridge 3×12 each
+
+**Tuesday: Upper Body Strength**
+- Push-ups (elbows slightly bent at top) 3×10
+- Rows 3×12
+- Pallof press 3×10 each
+- Farmer's carries 3×40 steps
+
+**Wednesday: Stability and Cardio**
+- Balance work 10 minutes
+- Swimming or cycling 20-30 minutes
+- Core work (planks, bird-dogs)
+
+**Thursday: Full Body**
+- Squat variation 3×10
+- Pressing variation 3×10
+- Hinge variation 3×10
+- Carries and core
+
+**Friday: Mobility and Stability**
+- Joint circles (not stretching!)
+- Proprioceptive drills
+- Light cardio
+- Foam rolling (gentle, not aggressive)
+
+**Weekend:** Active recovery—walking, gentle movement, rest
+
+### Progression
+
+- Progress load slowly
+- Master control before adding weight
+- More reps before more weight
+- Quality always over quantity
+
+## Managing Flare-Ups
+
+### When Joints Hurt More Than Usual
+
+- Rest the specific joint (not complete bed rest)
+- Gentle movement within pain-free range
+- Ice if inflamed
+- Compression or supportive bracing temporarily
+- Don't stretch it!
+
+### When to Brace
+
+Bracing can help during flare-ups or demanding activities, but:
+- Don't rely on braces long-term
+- Build strength to replace the brace
+- Use for protection during healing or high-demand activities
+
+## Working With Providers
+
+### Who Can Help
+
+- Physical therapist familiar with hypermobility
+- Sports medicine physician
+- Rheumatologist (if hEDS is suspected)
+- Strength coach who understands the condition
+
+### Red Flags
+
+If you have hypermobility plus:
+- Skin that bruises easily or is very stretchy
+- Family history of similar issues
+- Heart palpitations or fainting
+- Digestive issues
+
+...you may have a connective tissue disorder and should see a specialist.
+
+## The Bottom Line
+
+Hypermobility isn't a sentence to pain. With the right approach—strength over flexibility, control over range—you can build a stable, functional body.
+
+Stop stretching. Start strengthening. Protect those joints with muscles, not movements.
+
+Your flexibility was never the problem. Your stability was. Now go build it.
+`
+  },
+  'kyphosis-rounded-upper-back-exercises': {
+    title: 'Kyphosis: Exercises to Fix Rounded Upper Back and Improve Posture',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Modern Posture Problem
+
+Look around any office, coffee shop, or subway car. Rounded shoulders, head jutting forward, upper back curved into a hump. This is modern posture—and it's creating a generation of curved spines.
+
+The good news: most postural kyphosis is reversible with the right approach.
+
+## What Is Kyphosis?
+
+### Normal vs. Excessive
+
+The thoracic spine (upper and mid back) naturally curves backward—this is called kyphosis. A normal curve is 20-40 degrees.
+
+**Excessive kyphosis** is when this curve increases beyond normal, creating:
+- Rounded upper back ("hunchback")
+- Forward head posture
+- Rounded shoulders
+- Often associated neck and shoulder pain
+
+### Types of Kyphosis
+
+**Postural kyphosis:**
+- Most common type
+- Caused by poor posture habits
+- Reversible with exercise
+- No structural bone changes
+
+**Scheuermann's kyphosis:**
+- Develops during adolescence
+- Vertebrae become wedge-shaped
+- Less reversible but manageable
+- May need medical treatment
+
+**Age-related kyphosis:**
+- Common in older adults
+- Related to disc degeneration and weakness
+- Exercise helps slow progression
+- May involve osteoporosis
+
+### What Causes Postural Kyphosis?
+
+- Hours of sitting hunched over screens
+- Weak upper back muscles
+- Tight chest and front shoulder muscles
+- Poor body awareness
+- Carrying heavy bags
+- Sleeping position
+
+## The Problem With "Just Stand Up Straight"
+
+If fixing posture were as simple as trying harder, no one would have bad posture.
+
+The issue is:
+- Tight muscles pulling you forward
+- Weak muscles unable to pull you back
+- Nervous system patterns that default to slouching
+- Fatigue making good posture unsustainable
+
+You need to change the muscle balance and retrain movement patterns.
+
+## The Two-Part Solution
+
+### Part 1: Release What's Tight
+
+**Chest and front shoulders:**
+- Pec major and minor
+- Anterior deltoid
+- Biceps (long head)
+
+**How to release:**
+
+**Doorway stretch:**
+- Forearm against door frame, elbow at 90°
+- Step through and rotate away
+- Hold 30-60 seconds each side
+- Do 2-3 times daily
+
+**Foam roller chest opener:**
+- Lie lengthwise on foam roller (head to tailbone supported)
+- Arms out to sides, palms up
+- Let gravity open the chest
+- 2-3 minutes
+
+**Pec release with ball:**
+- Ball against wall, lean chest onto it
+- Find tender spots in pec
+- Hold and breathe into tight areas
+- 1-2 minutes each side
+
+### Part 2: Strengthen What's Weak
+
+**Upper back muscles:**
+- Rhomboids
+- Middle and lower trapezius
+- Thoracic extensors
+
+**These muscles are underworked and need activation:**
+
+**Prone Y-T-W raises:**
+- Lie face down on floor or bench
+- Arms form Y (overhead), T (out to sides), W (elbows bent)
+- Lift arms few inches, squeeze shoulder blades
+- 10-15 reps each position
+
+**Face pulls:**
+- Cable or band at face height
+- Pull toward face, elbows high
+- Squeeze shoulder blades, external rotate at end
+- 3×15-20
+
+**Rows (all variations):**
+- Cable rows, dumbbell rows, barbell rows
+- Focus on squeezing shoulder blades together
+- Don't shrug shoulders up
+- 3×10-12
+
+**Reverse flies:**
+- Bent over or chest-supported
+- Arms out to sides
+- Squeeze shoulder blades
+- 3×12-15
+
+**Band pull-aparts:**
+- Hold band at chest height
+- Pull apart until arms straight out
+- Squeeze at end
+- Great for daily practice
+
+## Thoracic Mobility Exercises
+
+Your thoracic spine needs to be able to extend (straighten). If it's stuck in flexion, no amount of strengthening will fix posture.
+
+**Cat-cow:**
+- On hands and knees
+- Alternate between rounding and arching
+- Focus on upper back movement
+- 10-15 cycles
+
+**Thoracic extension on foam roller:**
+- Roller horizontal across upper back
+- Support head with hands
+- Extend over roller, don't just arch lower back
+- Move roller to different segments
+- 5-10 reps per segment
+
+**Thread the needle:**
+- On hands and knees
+- Reach one arm under and through
+- Follow with eyes and rotate upper back
+- 10 each side
+
+**Open book:**
+- Side-lying, knees stacked and bent
+- Top arm reaches overhead and back
+- Let upper back rotate
+- Breathe into the stretch
+- 5-10 each side
+
+## Postural Awareness Training
+
+**Wall angel:**
+- Back against wall
+- Arms in "hands up" position against wall
+- Slide arms up and down, keeping contact
+- Reveals how much mobility you have (or lack)
+- 2×10
+
+**Chin tuck:**
+- Make a "double chin"
+- Pull head back, not down
+- Corrects forward head posture
+- Hold 5-10 seconds, repeat often throughout day
+
+**Brugger's relief position:**
+- Sit at edge of chair
+- Turn palms forward, spread fingers
+- Pull chin back
+- Squeeze shoulder blades down and back
+- Hold 30 seconds
+- Do every 30-60 minutes at desk
+
+## Building a Daily Routine
+
+### Morning (5 minutes)
+
+1. Foam roller chest opener × 2 minutes
+2. Cat-cow × 10 cycles
+3. Thoracic extension on roller × 10 reps
+4. Wall angels × 10
+
+### Work Breaks (2 minutes, every hour)
+
+1. Brugger's relief position × 30 seconds
+2. Chin tucks × 10
+3. Band pull-aparts × 15 (keep a band at your desk)
+
+### Workout (Include These)
+
+- Rows: 3×10-12
+- Face pulls: 3×15
+- Prone Y-T-W: 2×10 each position
+- Any thoracic mobility work
+
+### Evening (5 minutes)
+
+1. Doorway stretch × 1 minute each side
+2. Thread the needle × 10 each side
+3. Foam roller or ball chest release × 2 minutes
+
+## The Desk Setup
+
+No amount of exercise fixes 8 hours in a bad position.
+
+**Essentials:**
+- Screen at eye level
+- Keyboard at elbow height
+- Chair supporting lower back
+- Feet flat on floor
+- Take breaks to move (set a timer!)
+
+Standing desks help, but standing poorly is just as bad as sitting poorly. Alternate positions throughout the day.
+
+## Timeline Expectations
+
+**Week 1-2:**
+- Increased awareness
+- Muscles may feel sore (in a good way)
+- Posture improving temporarily when you think about it
+
+**Month 1:**
+- Mobility improving
+- Easier to maintain good posture
+- Less fatigue holding upright position
+
+**Month 2-3:**
+- Noticeable changes others may comment on
+- Good posture becoming more automatic
+- Pain decreasing if present
+
+**6+ months:**
+- New default posture
+- Habits ingrained
+- Maintenance mode (still need to keep exercising)
+
+## When to Seek Help
+
+### See a Doctor If:
+
+- Pain radiating into arms
+- Numbness or tingling
+- Kyphosis appeared suddenly
+- Getting worse despite exercises
+- Associated with osteoporosis
+- Kyphosis is severe or rigid
+
+### Scheuermann's Kyphosis
+
+If diagnosed in adolescence:
+- May need bracing
+- Physical therapy important
+- Surgery rarely needed
+- Exercise helps manage symptoms
+
+## The Bottom Line
+
+Postural kyphosis is largely a modern lifestyle problem—and it has a lifestyle solution.
+
+Open the front of your body. Strengthen your back. Move your thoracic spine. Check in on your posture throughout the day.
+
+Your spine wants to be upright. Give it the support it needs.
+`
+  },
   'diastasis-recti-postpartum-recovery': {
     title: 'Diastasis Recti: Understanding, Healing, and Rebuilding Your Core After Pregnancy',
     date: '2026-03-05',

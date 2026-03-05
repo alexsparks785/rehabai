@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hypermobility-joint-laxity-exercises',
+    title: 'Hypermobility: Why Being "Too Flexible" Can Cause Pain and How to Manage It',
+    excerpt: 'Super flexible but always in pain? You might be hypermobile. Here\'s how to build stability and protect your joints.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'kyphosis-rounded-upper-back-exercises',
+    title: 'Kyphosis: Exercises to Fix Rounded Upper Back and Improve Posture',
+    excerpt: 'Noticing a hump at the top of your back? Here\'s what causes kyphosis and the exercises that help straighten your spine.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'diastasis-recti-postpartum-recovery',
     title: 'Diastasis Recti: Understanding, Healing, and Rebuilding Your Core After Pregnancy',
     excerpt: 'Noticed a gap in your abs after pregnancy? Here\'s what diastasis recti actually is and how to heal it properly.',
