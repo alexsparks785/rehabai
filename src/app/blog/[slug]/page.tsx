@@ -13,6 +13,1003 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'meniscus-tear-symptoms-treatment': {
+    title: 'Meniscus Tear: Symptoms, Treatment Options, and Recovery',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '8 min read',
+    content: `
+## The Meniscus: Your Knee's Shock Absorber
+
+The menisci are two C-shaped pieces of cartilage that sit between your thighbone (femur) and shinbone (tibia). They act as shock absorbers, distribute load, and provide stability.
+
+When torn, they can cause pain, swelling, catching, and locking. But not all tears require surgery—understanding your options is crucial.
+
+## How Meniscus Tears Happen
+
+### Traumatic Tears
+
+Common in younger, active individuals:
+- Sudden twisting while the foot is planted
+- Deep squatting under load
+- Contact sports with pivoting
+- Quick direction changes
+
+These tears are often accompanied by swelling, immediate pain, and sometimes a "pop."
+
+### Degenerative Tears
+
+Common in people over 40:
+- Gradual wear over time
+- May occur with minimal trauma
+- Sometimes no specific injury remembered
+- Often found incidentally on MRI
+
+These tears are often part of normal aging and may not need intervention.
+
+## Symptoms of a Meniscus Tear
+
+### Classic Signs
+
+- **Pain along the joint line** (inside or outside of knee)
+- **Swelling** within 24-48 hours
+- **Catching or locking** sensation
+- **Giving way** feeling
+- **Pain with twisting** or deep squatting
+- **Difficulty fully straightening** the knee
+
+### Red Flags (See a Doctor)
+
+- Knee completely locked (can't bend or straighten)
+- Severe swelling immediately after injury
+- Unable to bear weight
+- Visible deformity
+- Numbness or tingling in lower leg
+
+## Diagnosis
+
+### Physical Exam
+
+Your doctor will perform tests like:
+- McMurray test (twisting the knee while bent)
+- Thessaly test (rotating while standing on one leg)
+- Joint line tenderness check
+- Range of motion assessment
+
+### Imaging
+
+- **X-ray:** Rules out fractures and arthritis (doesn't show meniscus)
+- **MRI:** Gold standard for seeing meniscus tears
+
+**Important:** MRI shows *anatomy*, not *symptoms*. Many people have meniscus tears on MRI with no pain. Don't treat the MRI—treat the patient.
+
+## Types of Meniscus Tears
+
+### By Shape
+
+- **Radial tears:** From inner edge outward
+- **Horizontal tears:** Through the middle
+- **Bucket handle tears:** Large, flap-like (often cause locking)
+- **Complex tears:** Multiple tear patterns
+
+### By Location
+
+- **Red zone (outer 1/3):** Good blood supply, can heal
+- **Red-white zone (middle 1/3):** Limited blood supply
+- **White zone (inner 2/3):** Poor blood supply, won't heal
+
+Location matters because blood supply determines healing potential.
+
+## Treatment Options
+
+### Conservative Treatment (No Surgery)
+
+Appropriate for:
+- Degenerative tears
+- Small tears in the outer zone
+- Minimal symptoms
+- No mechanical locking
+
+**What it involves:**
+
+1. **Initial rest and protection** (1-2 weeks)
+2. **Ice and elevation** for swelling
+3. **Gradual range of motion** exercises
+4. **Strengthening** (especially quadriceps)
+5. **Activity modification** initially
+
+**Success rate:** Many studies show 60-80% of degenerative tears improve with physical therapy alone.
+
+### Surgical Options
+
+#### Meniscectomy (Partial Removal)
+
+- Removes the torn portion
+- Quick recovery (2-6 weeks)
+- **But:** Increases arthritis risk long-term
+- Less tissue = less shock absorption
+
+#### Meniscus Repair
+
+- Stitches the tear back together
+- Preserves the meniscus
+- **But:** Longer recovery (3-6 months)
+- Only possible for tears in the red zone
+- Better long-term outcomes
+
+#### Meniscus Transplant
+
+- For young patients with significant meniscus loss
+- Uses donor tissue
+- Specialized procedure
+
+### When Surgery Makes Sense
+
+- Knee is truly locking (not just catching)
+- Symptoms persist after 6-8 weeks of conservative treatment
+- Large bucket-handle tear causing mechanical problems
+- Young athlete with repairable tear in red zone
+- Significant impact on quality of life
+
+### When to Avoid Surgery
+
+- Degenerative tear with mild symptoms
+- MRI findings without matching symptoms
+- Arthritis already present
+- Symptoms improving with therapy
+
+**Research shows:** For degenerative tears, surgery is often no better than physical therapy. Multiple studies have confirmed this.
+
+## Recovery and Rehabilitation
+
+### Phase 1: Acute (Weeks 1-2)
+
+- Reduce swelling (ice, elevation, compression)
+- Regain full knee extension
+- Start gentle range of motion
+- Quad setting exercises
+- Partial weight bearing as tolerated
+
+### Phase 2: Mobility and Activation (Weeks 2-4)
+
+- Full range of motion work
+- Stationary bike
+- Straight leg raises
+- Standing exercises (mini squats, heel raises)
+- Progress weight bearing
+
+### Phase 3: Strengthening (Weeks 4-8)
+
+- Progressive resistance training
+- Leg press, step-ups, lunges
+- Balance and proprioception
+- Core stability work
+- Pool exercises if available
+
+### Phase 4: Return to Activity (Weeks 8+)
+
+- Sport-specific movements
+- Agility and plyometrics
+- Gradual return to running
+- Full sport participation when ready
+
+### Key Exercises
+
+**Quad sets:** Contract quad, hold 5 seconds, relax. Foundation exercise.
+
+**Straight leg raises:** Strengthen quads without bending knee.
+
+**Heel slides:** Lie on back, slide heel toward buttock, return.
+
+**Terminal knee extension:** Short arc quad work in final degrees of extension.
+
+**Step-ups:** Progress height as tolerated.
+
+**Single-leg balance:** Essential for knee stability.
+
+## Prevention
+
+### For Athletes
+
+- Proper warm-up before activity
+- Neuromuscular training programs
+- Strengthen hip and core (knee stability starts above)
+- Avoid pivoting on a planted foot when fatigued
+- Wear appropriate footwear
+
+### For Everyone
+
+- Maintain healthy weight
+- Stay active (cartilage needs movement)
+- Strengthen legs regularly
+- Avoid prolonged deep squatting
+- Address hip and ankle mobility limitations
+
+## The Bottom Line
+
+A meniscus tear doesn't automatically mean surgery. Many tears heal or become asymptomatic with conservative care. Surgery should be reserved for cases with true mechanical symptoms or failed conservative treatment.
+
+Work with a physical therapist to restore strength, stability, and function. Most people return to their full activities—with or without surgery.
+
+Your meniscus damage doesn't define your future. Proper rehab does.
+`
+  },
+  'return-to-running-after-injury': {
+    title: 'How to Return to Running After an Injury: The Complete Guide',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read',
+    content: `
+## The Hardest Part of Running
+
+Getting back to running after injury isn't about fitness—it's about patience. You want to run. Your legs feel ready. But rushing this process leads to re-injury and longer setbacks.
+
+Here's how to return safely and sustainably.
+
+## When Are You Ready?
+
+### Minimum Criteria Before Running
+
+Don't run until you can:
+
+1. **Walk 30 minutes** without pain or limping
+2. **Single-leg balance** for 30 seconds (eyes closed is better)
+3. **Single-leg squat** with good control
+4. **Hop on one leg** 10 times without pain
+5. **Do injury-specific exercises** pain-free
+
+If you're coming from a stress fracture, Achilles injury, or surgery, add 2-4 more weeks beyond these milestones.
+
+### Pain Rules
+
+- **No pain during** the run
+- **No pain after** the run
+- **No pain the next morning**
+- **No swelling** that increases
+
+If any of these occur, you've done too much.
+
+## The Run-Walk Method
+
+### Why It Works
+
+Continuous running accumulates stress. Walk breaks give tissues micro-recovery periods. This is the safest way to rebuild running tolerance.
+
+### Week-by-Week Progression
+
+**Week 1:**
+- Run 1 min / Walk 2 min × 10 (20 min total running, 20 min walking)
+- 3 sessions, every other day
+
+**Week 2:**
+- Run 2 min / Walk 1 min × 10
+- 3 sessions
+
+**Week 3:**
+- Run 3 min / Walk 1 min × 7-8
+- 3 sessions
+
+**Week 4:**
+- Run 5 min / Walk 1 min × 5
+- 3 sessions
+
+**Week 5:**
+- Run 8 min / Walk 1 min × 3-4
+- 3 sessions
+
+**Week 6:**
+- Run 10-15 min continuous
+- Build from there
+
+### Adjusting the Plan
+
+- **If you feel great:** Stick to the plan anyway. Tissue adaptation lags behind fitness.
+- **If you have pain:** Drop back 1-2 weeks and progress more slowly.
+- **If you're anxious:** Add extra walk breaks. Mental confidence matters.
+
+## The 10% Rule (And When to Ignore It)
+
+### The Standard Advice
+
+Increase weekly mileage by no more than 10% per week.
+
+### When It Applies
+
+- After you've built back to 10-15 miles/week
+- For experienced runners returning to higher volume
+- During normal training (not return from injury)
+
+### When It Doesn't Apply
+
+- First few weeks back (you might go from 0 to 3 miles—that's infinity percent!)
+- Very low volume runners
+- Those using run-walk method
+
+**Better early-stage rule:** Listen to symptoms, not percentages. Add 5-10 minutes per week if pain-free.
+
+## Surface and Terrain
+
+### Start Flat
+
+- Avoid hills initially
+- Downhill is harder on tissues than uphill
+- Flat surfaces reduce eccentric load
+
+### Consider Surface
+
+- Treadmill: Most forgiving, consistent surface
+- Track: Predictable, flat (but watch the curves)
+- Trail: Softer but variable (save for later)
+- Concrete: Hardest (save for last or avoid entirely)
+
+### When to Add Hills
+
+After 4-6 weeks of pain-free running:
+1. Start with gentle uphills (walk down)
+2. Add flat sections of downhill
+3. Progress to rolling terrain
+4. Finally: full hill workouts
+
+## Speed Comes Last
+
+### The Temptation
+
+You're fit from cross-training. Your legs feel bouncy. You want to run fast.
+
+**Don't.**
+
+### Why Slow Running Matters
+
+- Lower impact forces
+- More time for form correction
+- Builds aerobic base safely
+- Lets you focus on pain signals
+
+### When to Add Speed
+
+After 6-8 weeks of easy running:
+1. Strides (6-8 × 20 seconds) once per week
+2. Tempo runs after 2-3 weeks of strides
+3. Intervals after comfortable tempo running
+
+## Form Considerations
+
+### Common Post-Injury Patterns
+
+- Favoring the injured side
+- Overstriding to avoid push-off
+- Increased trunk lean
+- Asymmetric arm swing
+
+### What to Focus On
+
+- **Cadence:** 170-180 steps/minute reduces impact
+- **Quiet feet:** Less noise = less impact
+- **Forward lean:** From ankles, not waist
+- **Relaxed upper body:** Tension wastes energy
+
+**Video yourself** occasionally to check for asymmetries.
+
+## Cross-Training During Return
+
+### Maintain Fitness
+
+While building running volume slowly, keep cardiovascular fitness with:
+- Pool running (best transfer to running)
+- Cycling (easier on most injuries)
+- Elliptical (low impact, weight-bearing)
+- Rowing (good for upper body/core)
+
+### Suggested Schedule
+
+**Example Week 3:**
+- Monday: Run-walk session
+- Tuesday: Strength training
+- Wednesday: Pool running or cycling
+- Thursday: Run-walk session
+- Friday: Rest or yoga
+- Saturday: Run-walk session
+- Sunday: Longer cross-train
+
+As running volume increases, cross-training decreases.
+
+## Strength Training Is Non-Negotiable
+
+### Why It Prevents Re-Injury
+
+Running doesn't build strength—it requires it. Weakness leads to poor mechanics, which leads to injury.
+
+### Focus Areas
+
+- **Glutes:** Hip strength controls knee position
+- **Core:** Stability reduces compensations
+- **Calves:** Essential for push-off and landing
+- **Single-leg exercises:** Running is single-leg, train single-leg
+
+### Key Exercises
+
+- Single-leg Romanian deadlifts
+- Bulgarian split squats
+- Calf raises (straight and bent knee)
+- Side-lying hip abduction
+- Plank variations
+- Single-leg bridges
+
+2-3 strength sessions per week, even as running increases.
+
+## Mental Aspects
+
+### Fear Is Normal
+
+After injury, you might:
+- Brace for pain that doesn't come
+- Avoid certain movements
+- Feel anxious before runs
+- Second-guess every sensation
+
+This is normal and fades with successful running experiences.
+
+### Building Confidence
+
+- Start with low-stakes runs (familiar routes, short distance)
+- Run with others if that feels supportive
+- Celebrate small wins
+- Focus on the process, not pace or distance
+
+### When Anxiety Persists
+
+If fear is limiting you more than your body:
+- Consider working with a sports psychologist
+- Use mindfulness techniques
+- Gradually expose yourself to feared activities
+- Remind yourself: pain is information, not always danger
+
+## Red Flags: When to Stop
+
+### Stop Running If:
+
+- Sharp pain during the run
+- Pain that worsens as you run
+- Limping or altered gait
+- Swelling that night or next morning
+- Pain that lingers more than 24 hours
+
+### What to Do:
+
+- Rest 2-3 days
+- Assess what went wrong (too much, too fast, bad surface?)
+- Drop back to a previous week's protocol
+- If it happens again, see a professional
+
+## The Long View
+
+Returning from injury isn't about getting back as fast as possible. It's about staying back for good.
+
+A slower return now means more running years ahead. Every week you spend rebuilding properly is an investment in your running future.
+
+**Remember:** The goal isn't to run this week. The goal is to run for the rest of your life.
+`
+  },
+  'pickleball-injuries-prevention-treatment': {
+    title: 'Pickleball Injuries: Prevention, Treatment, and Getting Back on the Court',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read',
+    content: `
+## The Pickleball Phenomenon
+
+Pickleball is the fastest-growing sport in America. It's social, accessible, and addictive. It's also sending a lot of people to physical therapy.
+
+Here's what you need to know about pickleball injuries—and how to avoid them.
+
+## Why Pickleball Causes Injuries
+
+### The Perfect Storm
+
+1. **Older demographic:** Many players are 50+ with less tissue resilience
+2. **Quick adoption:** People play 3-4x/week before their bodies adapt
+3. **Deceptive intensity:** Feels easier than tennis, but involves similar movements
+4. **Stop-start demands:** Sudden direction changes stress joints
+5. **Smaller court:** Less time to react, more explosive movements
+
+### The Most Common Injuries
+
+Research and clinical experience show:
+1. **Ankle sprains** (lateral court movement)
+2. **Achilles tendon injuries** (push-off and pivoting)
+3. **Knee injuries** (sudden stops, pivots)
+4. **Shoulder problems** (overhead shots, serving)
+5. **Elbow tendinopathy** (pickleball elbow—yes, it's a thing)
+6. **Wrist and hand injuries** (paddle impact)
+7. **Falls** (moving backward, court obstacles)
+
+## Ankle Sprains
+
+### How They Happen
+
+Side-to-side movement, pivoting, stepping on a ball, or awkward landings.
+
+### Prevention
+
+- **Court shoes with lateral support** (not running shoes!)
+- Ankle strengthening exercises
+- Balance training
+- Don't play on wet surfaces
+- Proper warm-up before playing
+
+### Treatment
+
+**Mild sprain:** RICE (rest, ice, compression, elevation) + early movement within pain limits.
+
+**Moderate/severe:** May need immobilization, physical therapy, or evaluation for fracture.
+
+**Key exercises:**
+- Alphabet ankle circles
+- Single-leg balance progressions
+- Lateral band walks
+- Controlled lateral movements
+
+## Achilles Tendon Problems
+
+### The Danger Zone
+
+The Achilles takes enormous force during the explosive movements pickleball demands. For older adults, this can mean:
+- Achilles tendinopathy (gradual overuse)
+- Partial tears
+- Complete rupture (often with a "pop")
+
+### Warning Signs
+
+- Stiffness in the morning or after sitting
+- Pain at the back of the ankle during or after play
+- Thickening of the tendon
+- Pain going up on toes
+
+### Prevention
+
+- **Gradual increase in playing volume**
+- Calf strengthening (especially eccentric)
+- Proper warm-up including dynamic calf stretches
+- Avoid playing when fatigued
+- Good court shoes with heel drop
+
+### Treatment
+
+**Tendinopathy:** Eccentric loading exercises (Alfredson protocol), load management, gradual return.
+
+**Rupture:** Immediate medical attention—surgical or non-surgical treatment depending on various factors.
+
+## Knee Injuries
+
+### Common Problems
+
+- **Meniscus tears:** Twisting on a planted foot
+- **Ligament sprains:** Sudden stops, pivots
+- **Patellofemoral pain:** Overuse, quad/hip weakness
+- **Arthritis flares:** Increased activity on compromised joints
+
+### Prevention
+
+- Strengthen quads, glutes, and hamstrings
+- Work on single-leg stability
+- Avoid pivoting on a planted foot—lift and turn
+- Maintain healthy body weight
+- Consider a knee sleeve if history of problems
+
+### Treatment
+
+**Acute injury:** Rest, ice, compression. Seek evaluation if swelling is significant, you can't bear weight, or the knee gives way.
+
+**Overuse injuries:** Activity modification, strengthening, gradual return.
+
+## Shoulder Injuries
+
+### Overhead Stress
+
+Serving, overhead smashes, and reaching for balls overhead stress the rotator cuff.
+
+### Common Problems
+
+- Rotator cuff tendinopathy
+- Shoulder impingement
+- Biceps tendinitis
+- Labral irritation
+
+### Prevention
+
+- **Strengthen the rotator cuff** (external rotation exercises)
+- Work on scapular stability
+- Maintain thoracic mobility
+- Proper technique (don't muscle the ball)
+- Avoid excessive overhead shots when fatigued
+
+### Treatment
+
+- Rest from aggravating activities
+- Rotator cuff and scapular strengthening
+- Address thoracic mobility
+- Technique modification if needed
+
+## Pickleball Elbow
+
+### Medial vs. Lateral
+
+- **Lateral epicondylitis (tennis elbow):** Outside of elbow, backhand strokes
+- **Medial epicondylitis (golfer's elbow):** Inside of elbow, forehand and grip
+
+### Why It Happens
+
+Repetitive wrist and forearm motion, grip strength demands, and vibration from paddle impact.
+
+### Prevention
+
+- **Grip size matters:** Too small = more force needed
+- Paddle with vibration dampening
+- Strengthen forearm muscles (wrist curls, reverse curls)
+- Avoid gripping the paddle too tightly
+- Take breaks during play
+
+### Treatment
+
+- Relative rest (may not need complete stop)
+- Eccentric wrist exercises
+- Counterforce brace below the elbow
+- Ice after playing
+- Gradual return to full volume
+
+## Falls and Traumatic Injuries
+
+### The Risk
+
+Backpedaling, tripping on lines or balls, wet surfaces, and collisions all cause falls.
+
+### Serious Consequences
+
+In older adults, falls can mean:
+- Wrist fractures (FOOSH injuries)
+- Hip fractures
+- Head injuries
+- Knee contusions
+
+### Prevention
+
+- **Never backpedal**—turn and run to the ball
+- Call "yours" or "mine" to avoid partner collisions
+- Keep court clear of loose balls
+- Wear non-marking court shoes
+- Know your limits
+
+## The Warm-Up Protocol
+
+### 10-Minute Pre-Play Routine
+
+**Dynamic movement (3 min):**
+- Walking lunges × 10 each leg
+- Lateral shuffles × 30 seconds
+- High knees × 30 seconds
+- Arm circles × 10 each direction
+
+**Leg prep (3 min):**
+- Calf raises × 15
+- Bodyweight squats × 15
+- Single-leg balance × 30 seconds each
+
+**Upper body (2 min):**
+- Shoulder rotations
+- Paddle swings (easy)
+- Wrist circles
+
+**Court warm-up (2 min):**
+- Dinking rally at the net
+- Gradual intensity increase
+
+### Don't Skip This
+
+Cold muscles and tendons don't handle sudden loading well. The warm-up is your insurance policy.
+
+## Playing Smart
+
+### Load Management
+
+- **Build up gradually:** Don't go from zero to 4 days/week
+- **Take rest days:** Tissue needs time to adapt
+- **Listen to your body:** Pain is a signal
+- **Mix intensity:** Every session doesn't need to be competitive
+
+### Technique Matters
+
+- **Bend your knees,** don't reach down with your back
+- **Move your feet** instead of lunging
+- **Let balls go** that are too far—your body isn't worth the point
+- **Stay balanced** before and after shots
+
+### Equipment Considerations
+
+- **Court shoes:** Lateral support is essential
+- **Paddle weight:** Lighter reduces arm stress but may require more swing force
+- **Grip size:** Match to your hand
+- **Eye protection:** Those balls are fast
+
+## When to Sit Out
+
+### Stop Playing If:
+
+- Sharp pain during play
+- Swelling
+- Inability to move normally
+- Previous injury flaring up
+- Significant fatigue (increases injury risk)
+
+### When to See a Professional:
+
+- Pain lasting more than a week
+- Joint swelling
+- Giving way or instability
+- Loss of motion
+- Any "pop" followed by pain and swelling
+
+## The Bottom Line
+
+Pickleball is fantastic for health—social, active, and fun. But respect what your body is being asked to do.
+
+Build up gradually, warm up properly, strengthen consistently, and listen to pain signals. With smart preparation, you can enjoy pickleball for decades.
+
+Don't let an injury end your pickleball career before it really gets started.
+`
+  },
+  'flat-feet-treatment-exercises': {
+    title: 'Flat Feet: Do They Need Fixing? Exercises, Orthotics, and the Truth',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Flat Feet Question
+
+Someone looked at your feet and said they're flat. Maybe a doctor, a shoe salesperson, or a well-meaning family member. Now you're worried.
+
+Here's what you actually need to know about flat feet—and when to do something about them.
+
+## What Are Flat Feet?
+
+### Normal Anatomy
+
+The foot has three arches:
+- **Medial longitudinal arch:** The main arch (inside of foot)
+- **Lateral longitudinal arch:** Outside of foot
+- **Transverse arch:** Across the midfoot
+
+When people say "flat feet," they usually mean the medial arch appears collapsed when standing.
+
+### Types of Flat Feet
+
+**Flexible flat foot:**
+- Arch appears when non-weight-bearing
+- Collapses when standing
+- Most common type
+- Often asymptomatic
+
+**Rigid flat foot:**
+- No arch even when non-weight-bearing
+- May indicate structural difference
+- More likely to cause problems
+
+### How Common?
+
+Very. About 20-30% of adults have some degree of flat feet. Many have no symptoms at all.
+
+## Do Flat Feet Need Treatment?
+
+### The Short Answer
+
+**Not necessarily.** Flat feet without symptoms don't require intervention.
+
+### When Flat Feet Are Fine
+
+- No pain during activity
+- No significant fatigue
+- Can participate in desired activities
+- No progressive deformity
+
+Many elite athletes have flat feet. Your foot structure doesn't determine your destiny.
+
+### When to Address Flat Feet
+
+- Foot pain during or after activity
+- Ankle, knee, or hip problems potentially related
+- Significant fatigue with standing or walking
+- Progressive worsening
+- Pain affecting daily activities
+
+## What Causes Flat Feet?
+
+### Congenital
+
+- Developed in childhood
+- Often runs in families
+- Most people's flat feet fall into this category
+
+### Acquired
+
+**Posterior tibial tendon dysfunction:** The most common cause of adult-acquired flat foot. The tendon that supports the arch weakens.
+
+**Injury:** Fractures or dislocations affecting foot structure.
+
+**Arthritis:** Inflammatory or degenerative changes.
+
+**Nerve conditions:** Affecting muscle control.
+
+**Pregnancy:** Hormonal changes plus weight gain can flatten arches.
+
+## The Assessment
+
+### What to Look For
+
+**Standing:**
+- Does the arch touch the ground?
+- Does the heel tilt outward (valgus)?
+- Does the forefoot point outward?
+
+**Single-leg heel raise:**
+- Can you rise onto your toes on one foot?
+- Does the arch reform?
+- Is there pain?
+
+**Walking:**
+- Does the arch collapse excessively?
+- Is gait symmetrical?
+
+### When It Matters
+
+The assessment helps determine if flat feet are causing problems or just an anatomical variant that's functioning fine.
+
+## Treatment Options
+
+### Exercise and Strengthening
+
+**When it helps:** Flexible flat feet, mild symptoms, posterior tibial tendon dysfunction in early stages.
+
+**Key exercises:**
+
+**Short foot exercise:**
+- Stand with weight evenly distributed
+- Without curling toes, lift the arch by pulling the ball of foot toward heel
+- Hold 5-10 seconds
+- This activates intrinsic foot muscles
+
+**Towel scrunches:**
+- Place foot on towel
+- Scrunch towel toward you using only toes
+- Builds intrinsic foot strength
+
+**Heel raises:**
+- Single-leg when possible
+- Focus on controlling the foot position
+- Progress to adding weight
+
+**Posterior tibial strengthening:**
+- Seated, press inside of foot against resistance
+- Or: band around forefoot, turn foot inward
+
+**Single-leg balance:**
+- Focus on maintaining arch position
+- Progress to unstable surfaces
+
+### Orthotics
+
+**When they help:**
+- Symptoms relieved by arch support
+- Activity demands exceed what exercises can accomplish
+- Posterior tibial tendon dysfunction
+- As adjunct to strengthening (not replacement)
+
+**Types:**
+- Over-the-counter inserts (Superfeet, PowerStep)
+- Custom orthotics from podiatrist
+- Shoe modifications
+
+**The evidence:**
+- Orthotics can reduce pain and improve function
+- But they don't permanently "fix" flat feet
+- Consider them a tool, not a crutch
+
+### Footwear
+
+**What to look for:**
+- Firm heel counter
+- Motion control or stability features
+- Adequate arch support
+- Proper fit (not too wide or narrow)
+
+**What to avoid:**
+- Completely flat shoes
+- Worn-out shoes
+- Flip flops and minimalist shoes (at least initially)
+
+### Physical Therapy
+
+A physical therapist can:
+- Assess your specific needs
+- Design an appropriate exercise program
+- Provide manual therapy if helpful
+- Address contributing factors (hip weakness, ankle mobility)
+- Determine if orthotics would help
+
+### Surgery
+
+**Rarely needed.** Reserved for:
+- Severe rigid flat foot
+- Failed conservative treatment
+- Posterior tibial tendon rupture
+- Significant arthritis
+
+Types include tendon repairs, bone cuts (osteotomies), and fusions.
+
+## The Minimalist Shoe Debate
+
+### The Argument
+
+Some claim that supportive shoes weaken feet, and going barefoot or wearing minimal shoes strengthens them.
+
+### The Reality
+
+**There may be something to it, but:**
+- Transition must be very gradual (months to years)
+- Not appropriate for everyone
+- People with symptomatic flat feet often do worse
+- Sudden change leads to injury
+
+**If you want to try it:**
+- Start with just a few minutes daily
+- Very gradually increase
+- Do foot strengthening exercises alongside
+- Be prepared to go back to supportive shoes if needed
+
+## Living With Flat Feet
+
+### Practical Tips
+
+1. **Strengthen your feet** even if asymptomatic
+2. **Rotate footwear** to vary support
+3. **Watch for changes** (increasing flatness, new pain)
+4. **Address the whole chain** (hips and core matter too)
+5. **Don't catastrophize** (flat feet ≠ broken feet)
+
+### Activity Modifications
+
+If flat feet cause problems during activity:
+- Use supportive shoes/orthotics during high-demand activities
+- Strengthen before adding volume
+- Gradually increase demands
+- Consider low-impact alternatives if high-impact causes issues
+
+## Children and Flat Feet
+
+### What's Normal
+
+Most children have flat feet until around age 6. The arch develops with age and activity.
+
+### When to Worry
+
+- Pain during activity
+- Rigid flat foot (arch never appears)
+- Significant functional limitations
+- Progressive worsening after age 6-8
+
+Most children's flat feet require no intervention and resolve on their own.
+
+## The Bottom Line
+
+Flat feet are extremely common and often require no treatment. If you have flat feet without pain or functional limitations, you're likely fine.
+
+If flat feet cause symptoms, start with strengthening exercises and appropriate footwear. Orthotics can help but shouldn't replace building foot strength.
+
+Your foot structure is just one factor. What matters more is whether your feet do what you need them to do. If they do, leave them alone. If they don't, there are effective ways to help.
+`
+  },
   'protein-for-muscle-building': {
     title: 'Protein for Muscle Building: How Much You Actually Need',
     date: '2026-03-04',

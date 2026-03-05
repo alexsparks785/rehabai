@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'meniscus-tear-symptoms-treatment',
+    title: 'Meniscus Tear: Symptoms, Treatment Options, and Recovery',
+    excerpt: 'Knee pain and clicking? Here\'s how to know if it\'s a meniscus tear, when surgery is needed, and how to recover fully.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'return-to-running-after-injury',
+    title: 'How to Return to Running After an Injury: The Complete Guide',
+    excerpt: 'Ready to run again but worried about re-injury? Here\'s the evidence-based approach to building back safely.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'pickleball-injuries-prevention-treatment',
+    title: 'Pickleball Injuries: Prevention, Treatment, and Getting Back on the Court',
+    excerpt: 'The fastest-growing sport comes with unique injury patterns. Here\'s how to stay healthy and recover when you don\'t.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'flat-feet-treatment-exercises',
+    title: 'Flat Feet: Do They Need Fixing? Exercises, Orthotics, and the Truth',
+    excerpt: 'Told you have flat feet? Here\'s what actually matters, when to intervene, and exercises that help.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'protein-for-muscle-building',
     title: 'Protein for Muscle Building: How Much You Actually Need',
     excerpt: 'Confused about protein? Here\'s the evidence-based guide to how much protein you need, when to eat it, and the best sources.',
