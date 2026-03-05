@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'acl-injury-recovery-guide',
+    title: 'ACL Injury: Surgery, Recovery, and Getting Back to Sports',
+    excerpt: 'Torn your ACL? Here\'s what to expect from surgery, rehab timelines, and how to return to full activity safely.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '9 min read'
+  },
+  {
+    slug: 'scoliosis-exercises-management',
+    title: 'Scoliosis: Exercises, Treatment Options, and Living Well With a Curved Spine',
+    excerpt: 'Diagnosed with scoliosis? Here\'s what actually helps, what doesn\'t, and how to manage it for life.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'osteoporosis-exercise-bone-health',
+    title: 'Osteoporosis and Exercise: How to Build Stronger Bones at Any Age',
+    excerpt: 'Worried about bone density? Here\'s the evidence-based guide to exercise for bone health and osteoporosis management.',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
     slug: 'meniscus-tear-symptoms-treatment',
     title: 'Meniscus Tear: Symptoms, Treatment Options, and Recovery',
     excerpt: 'Knee pain and clicking? Here\'s how to know if it\'s a meniscus tear, when surgery is needed, and how to recover fully.',

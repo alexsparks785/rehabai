@@ -13,6 +13,870 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'acl-injury-recovery-guide': {
+    title: 'ACL Injury: Surgery, Recovery, and Getting Back to Sports',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '9 min read',
+    content: `
+## The ACL: A Critical Stabilizer
+
+The anterior cruciate ligament (ACL) is one of four major ligaments in your knee. It prevents your tibia from sliding forward and provides rotational stability. When it tears, your knee can feel unstable—especially during cutting, pivoting, and landing.
+
+ACL injuries are common in sports like soccer, basketball, skiing, and football. Understanding your options and the recovery process is crucial for getting back to what you love.
+
+## How ACL Injuries Happen
+
+### The Mechanism
+
+Most ACL tears are non-contact injuries:
+- Landing from a jump with the knee extended
+- Sudden deceleration
+- Pivoting or cutting with a planted foot
+- Hyperextension
+
+Contact injuries (direct blow to the knee) account for about 30% of cases.
+
+### The Moment It Happens
+
+- Often a "pop" is heard or felt
+- Immediate swelling (within hours)
+- Feeling of instability or "giving way"
+- Difficulty bearing weight
+- Significant pain initially
+
+## Diagnosis
+
+### Physical Examination
+
+**Lachman test:** The most sensitive test—assesses forward translation of the tibia.
+
+**Anterior drawer test:** Similar assessment with knee bent.
+
+**Pivot shift test:** Assesses rotational instability.
+
+### Imaging
+
+**X-ray:** Rules out fractures (doesn't show the ACL).
+
+**MRI:** Gold standard for confirming ACL tear and assessing other structures (meniscus, cartilage, other ligaments).
+
+### Associated Injuries
+
+ACL tears often occur with:
+- Meniscus tears (50% of cases)
+- MCL sprains
+- Bone bruises
+- Cartilage damage
+
+The "unhappy triad" is ACL + MCL + medial meniscus injury.
+
+## Surgery or No Surgery?
+
+### The Decision Factors
+
+**Surgery typically recommended for:**
+- Young, active individuals
+- Athletes wanting to return to cutting/pivoting sports
+- Knee gives way during daily activities
+- Combined injuries (meniscus tear)
+- High physical demand jobs
+
+**Non-surgical management may work for:**
+- Older, less active individuals
+- No instability during daily activities
+- Linear activities only (running, cycling)
+- Strong preference to avoid surgery
+- Lower physical demands
+
+### Important to Know
+
+- An ACL doesn't heal on its own
+- Non-surgical doesn't mean no treatment—rehab is essential
+- You can always choose surgery later if conservative treatment fails
+- Some people function well without an ACL ("copers")
+
+## ACL Reconstruction Surgery
+
+### What Happens
+
+The torn ACL is replaced with a graft—tissue that becomes your new ligament. Common graft sources:
+
+**Patellar tendon (bone-tendon-bone):**
+- Strong fixation
+- Faster incorporation
+- More anterior knee pain during kneeling
+- Slightly higher risk of patellar fracture
+
+**Hamstring tendon:**
+- Less anterior knee pain
+- Smaller incision
+- May have slight hamstring weakness
+- Good option for most patients
+
+**Quadriceps tendon:**
+- Growing in popularity
+- Strong graft
+- Less hamstring impact
+
+**Allograft (donor tissue):**
+- No donor site morbidity
+- Slightly higher re-tear rate in young athletes
+- Good option for older or less active patients
+
+### Recovery Timeline
+
+**Day 1-2 weeks:** Protect the graft, reduce swelling, restore extension
+
+**Weeks 2-6:** Restore full range of motion, begin strengthening
+
+**Weeks 6-12:** Progressive strengthening, begin light jogging (end of this phase)
+
+**Months 3-6:** Running progression, agility introduction, sport-specific training begins
+
+**Months 6-9:** Return to practice, non-contact drills
+
+**Months 9-12:** Return to full sport participation (if criteria met)
+
+**Year 1-2:** Continued strengthening and monitoring
+
+### Why So Long?
+
+The graft goes through a biological process:
+1. **Necrosis:** Original cells die (weeks 1-4)
+2. **Revascularization:** Blood supply establishes (months 1-3)
+3. **Remodeling:** Graft transforms into ligament-like tissue (months 3-12+)
+
+The graft is weakest at 6-8 weeks—right when you start feeling good. This is dangerous territory.
+
+## Pre-Surgery Rehab (Prehab)
+
+### Why It Matters
+
+Surgery on a swollen, stiff, weak knee leads to worse outcomes. Goals before surgery:
+
+- Minimal swelling
+- Full knee extension (critical!)
+- Good quad activation
+- Near-normal walking pattern
+- Mental preparation
+
+### Typical Prehab Program
+
+- Quad sets and straight leg raises
+- Heel slides for range of motion
+- Stationary bike (when motion allows)
+- Icing and elevation
+- Usually 2-4 weeks
+
+Patients who complete prehab have better surgical outcomes.
+
+## Post-Surgery Rehabilitation
+
+### Phase 1: Protection (Weeks 0-2)
+
+**Goals:**
+- Protect graft
+- Control swelling
+- Full passive extension
+- Quad activation
+
+**Exercises:**
+- Quad sets (most important!)
+- Ankle pumps
+- Heel slides
+- Patellar mobilization
+- Prone hangs for extension
+
+**Precautions:**
+- Brace (settings per surgeon)
+- Crutches for weight bearing
+- Ice and elevation
+- No active hamstring exercises if hamstring graft
+
+### Phase 2: Early Motion (Weeks 2-6)
+
+**Goals:**
+- Full range of motion (especially extension)
+- Normal gait pattern
+- Progressive quad strengthening
+- Reduce swelling
+
+**Exercises:**
+- Stationary bike
+- Leg press (limited range initially)
+- Step-ups (low height)
+- Balance exercises
+- Pool walking if available
+
+**Milestones:**
+- Full extension by week 2
+- 90° flexion by week 2
+- Full flexion by week 6
+- Walking without limp
+
+### Phase 3: Strengthening (Weeks 6-12)
+
+**Goals:**
+- Build strength
+- Improve neuromuscular control
+- Begin light jogging (end of phase)
+
+**Exercises:**
+- Full range leg press
+- Romanian deadlifts
+- Lunges
+- Step-downs
+- Single-leg exercises
+- Core work
+
+**Milestones:**
+- Quad strength >70% of other side
+- Single-leg squat with good control
+- Jogging on treadmill (if cleared)
+
+### Phase 4: Running and Agility (Months 3-6)
+
+**Goals:**
+- Build running capacity
+- Introduce direction change
+- Sport-specific movement
+
+**Exercises:**
+- Progressive running program
+- Lateral movements (shuffles, carioca)
+- Ladder drills
+- Box jumps and landing practice
+- Cutting progressions
+
+**Milestones:**
+- Run 2+ miles without pain
+- Change direction without apprehension
+- Hop testing >85% limb symmetry
+
+### Phase 5: Return to Sport (Months 6-9+)
+
+**Goals:**
+- Full sport participation
+- Confidence in the knee
+- Minimize re-injury risk
+
+**Activities:**
+- Practice with team (non-contact → contact)
+- Game-speed drills
+- Position-specific training
+- Psychological readiness
+
+**Return-to-Sport Criteria:**
+- Quad and hamstring strength >90% of other leg
+- Hop tests >90% limb symmetry
+- No swelling with activity
+- Full confidence
+- 9+ months post-surgery (minimum)
+- Pass sport-specific testing
+
+## Re-Injury Prevention
+
+### The Risk
+
+ACL re-tear rates are concerning:
+- 15-25% in young athletes returning to cutting/pivoting sports
+- Second ACL injuries (same or other knee) are common
+
+### What Reduces Risk
+
+**Neuromuscular training:**
+- Landing mechanics (soft, controlled)
+- Knee-over-toe alignment
+- Hip and core strength
+- Balance and proprioception
+
+**Continued strengthening:**
+- Quad and hamstring strength maintenance
+- Hip strength (especially abductors)
+- Don't stop exercises after clearance
+
+**Smart return:**
+- Don't rush timeline
+- Meet objective criteria
+- Psychological readiness matters
+- Consider sport modification
+
+**ACL injury prevention programs:**
+- FIFA 11+ for soccer
+- PEP program
+- Evidence shows 50%+ reduction in ACL injuries
+
+## The Mental Game
+
+### What's Normal
+
+- Fear of re-injury
+- Frustration with slow progress
+- Grief over lost season/activities
+- Anxiety about return
+- Depression during recovery
+
+### Strategies
+
+- Set short-term, achievable goals
+- Celebrate milestones
+- Stay connected with team/sport
+- Consider sports psychology
+- Trust the process (and your PT)
+
+Psychological readiness is as important as physical readiness for return to sport.
+
+## The Bottom Line
+
+ACL reconstruction is a marathon, not a sprint. The 9-12 month timeline exists for good reasons—graft biology and re-injury risk.
+
+Commit fully to rehabilitation. Hit your milestones. Be patient when you feel ready but haven't met criteria. The athletes who do best are those who respect the process.
+
+Your goal isn't just to return. It's to return and stay returned.
+`
+  },
+  'scoliosis-exercises-management': {
+    title: 'Scoliosis: Exercises, Treatment Options, and Living Well With a Curved Spine',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## Understanding Scoliosis
+
+Scoliosis is a lateral curvature of the spine—a curve to the side when viewed from behind. If you've been told you have scoliosis, you probably have questions. Let's separate fact from fear.
+
+## What Is Scoliosis?
+
+### The Definition
+
+A spinal curve of 10 degrees or more, measured on X-ray using the Cobb angle method. The spine also rotates, creating a three-dimensional deformity.
+
+### Types
+
+**Idiopathic (unknown cause):** 80% of cases
+- Adolescent idiopathic scoliosis (most common, develops during growth)
+- Juvenile (ages 3-10)
+- Infantile (under age 3)
+
+**Congenital:** Present at birth due to vertebral malformation
+
+**Neuromuscular:** Due to conditions like cerebral palsy or muscular dystrophy
+
+**Degenerative:** Develops in adulthood due to disc/joint degeneration
+
+### How Common?
+
+2-3% of the population has scoliosis. Most cases are mild and don't require treatment.
+
+## Severity Levels
+
+### Mild (10-25 degrees)
+
+- Usually no treatment needed
+- Monitor during growth
+- Exercise and posture awareness
+- Rarely causes significant problems
+
+### Moderate (25-40 degrees)
+
+- May require bracing in growing adolescents
+- Physical therapy recommended
+- Monitor for progression
+- Usually doesn't cause major issues in adulthood
+
+### Severe (>40-50 degrees)
+
+- Surgery may be considered
+- Can affect lung function if thoracic curve is large
+- More likely to progress even after growth
+- Requires specialist management
+
+## Does Scoliosis Cause Pain?
+
+### The Complicated Answer
+
+Mild to moderate scoliosis usually doesn't cause more pain than the general population experiences. Many people with scoliosis are pain-free.
+
+**However:**
+- Muscle imbalances can cause discomfort
+- Degenerative changes may develop at curve areas
+- Severe curves can cause back pain
+- Psychological distress about appearance can coexist
+
+**Important:** If you have scoliosis and back pain, the pain isn't necessarily *from* the scoliosis. All causes should be evaluated.
+
+## Treatment Options
+
+### Observation
+
+For mild curves, especially after growth is complete:
+- Regular check-ups
+- X-rays if symptoms develop
+- Exercise program
+- No restriction on activities
+
+### Bracing
+
+**Who it's for:** Adolescents still growing with curves 25-40 degrees
+
+**How it works:** Doesn't correct curves but can prevent progression during growth
+
+**Types:**
+- Boston brace (most common)
+- Rigo-Chêneau brace
+- Night-time braces (Charleston, Providence)
+
+**Effectiveness:** Can reduce progression if worn as prescribed (usually 16-23 hours/day)
+
+### Physical Therapy
+
+**Scoliosis-specific exercise approaches:**
+
+**Schroth method:** German technique using breathing, posture, and specific exercises
+
+**SEAS (Scientific Exercise Approach to Scoliosis):** Italian method emphasizing self-correction and functional integration
+
+**General physical therapy:** Strengthening, flexibility, posture work
+
+**Evidence:** Can reduce curve progression in adolescents and improve function/appearance in adults
+
+### Surgery
+
+**When considered:**
+- Curves >40-50 degrees in adolescents
+- Curves progressing despite bracing
+- Severe curves affecting function
+- Significant pain not responding to other treatment
+
+**What it involves:** Spinal fusion—permanently joining vertebrae with rods and screws to correct and stabilize the curve
+
+**Considerations:**
+- Major surgery with significant recovery
+- Reduces spinal flexibility
+- Usually achieves significant correction
+- Reserved for cases where benefits outweigh risks
+
+## Exercises for Scoliosis
+
+### Goals
+
+- Improve posture and body awareness
+- Strengthen muscles that support the spine
+- Increase flexibility where needed
+- Reduce muscle imbalances
+- Improve function and reduce discomfort
+
+### Important Principles
+
+1. **Exercises should be individualized** based on your curve pattern
+2. **Asymmetrical exercises** target your specific imbalance
+3. **Core stability** is foundational
+4. **Breathing** can help with rib cage asymmetry
+5. **Postural awareness** matters throughout the day
+
+### General Exercises (Beneficial for Most)
+
+**Cat-cow:**
+- Promotes spinal mobility
+- Develops body awareness
+- Safe for all curve types
+
+**Bird-dog:**
+- Core stability
+- Spinal alignment practice
+- Can be modified for asymmetry
+
+**Side plank:**
+- Lateral core strength
+- Hold longer on the weaker side typically
+- Helps address muscle imbalance
+
+**Pelvic tilts:**
+- Lumbar mobility and control
+- Connects breath to movement
+- Foundation for more advanced work
+
+**Thoracic rotation:**
+- Improves rotational mobility
+- Addresses rib cage stiffness
+- Important for thoracic curves
+
+### Exercises to Approach Carefully
+
+**Heavy overhead pressing:** May compress the spine
+
+**High-impact jumping:** Generally fine but be mindful
+
+**Hyperextension exercises:** May be fine or contraindicated depending on curve
+
+**Extreme rotation under load:** Requires proper form
+
+**Always work with a knowledgeable provider** who can assess your specific needs.
+
+### Schroth-Inspired Concepts
+
+**Rotational angular breathing:** Breathing into the collapsed side of the rib cage to expand it
+
+**Elongation:** Actively lengthening the spine during exercises
+
+**Muscle activation:** Strengthening the convex side muscles
+
+These are best learned from a certified Schroth or scoliosis-trained therapist.
+
+## Living With Scoliosis
+
+### Activity and Sports
+
+Most people with scoliosis can participate in any sport or activity they enjoy. There's no evidence that activity worsens curves.
+
+**Beneficial:** Swimming, yoga, Pilates, strength training, most sports
+
+**No evidence of harm:** Running, contact sports, gymnastics
+
+Listen to your body and modify if something consistently causes pain.
+
+### Posture Awareness
+
+Pay attention to:
+- How you sit at work
+- How you carry bags
+- Sleeping position comfort
+- Standing habits
+
+This isn't about "fixing" your curve—it's about comfort and muscle balance.
+
+### Body Image
+
+Scoliosis can affect how you see your body. This is valid and worth addressing:
+- Talk to someone if it affects your mental health
+- Remember that curves are often less visible than you think
+- Focus on function, not just appearance
+- Many successful athletes have scoliosis
+
+### Pregnancy
+
+Scoliosis generally doesn't affect pregnancy or delivery. Epidurals may be slightly more challenging but are usually still possible. Discuss with your providers.
+
+### As You Age
+
+Mild to moderate curves typically don't worsen significantly after skeletal maturity. Some degenerative progression can occur later in life.
+
+**What helps:**
+- Stay active and strong
+- Maintain healthy weight
+- Don't smoke (affects disc health)
+- Regular exercise throughout life
+
+## When to Seek Help
+
+### See a Doctor If:
+
+- New or worsening pain
+- Neurological symptoms (numbness, weakness)
+- Significant change in appearance
+- Difficulty breathing (severe curves)
+- Concerns about progression
+
+### See a Physical Therapist If:
+
+- You want a personalized exercise program
+- You're experiencing muscle imbalances or discomfort
+- You want to learn scoliosis-specific techniques
+- You're recovering from surgery
+
+## The Bottom Line
+
+A scoliosis diagnosis isn't a sentence to pain or limitation. Most people with scoliosis live full, active lives without significant issues.
+
+Focus on what you can control: staying strong, staying active, and maintaining body awareness. Exercise is your friend, not your enemy.
+
+Your spine may curve, but your life doesn't have to curve around it.
+`
+  },
+  'osteoporosis-exercise-bone-health': {
+    title: 'Osteoporosis and Exercise: How to Build Stronger Bones at Any Age',
+    date: '2026-03-05',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## Bones Need Stress
+
+It seems counterintuitive: if you have weak bones, shouldn't you protect them? Actually, bones need mechanical stress to stay strong. Without it, they weaken further.
+
+Here's how exercise protects your bones—and how to do it safely.
+
+## Understanding Bone Health
+
+### How Bones Work
+
+Bones are living tissue, constantly being broken down and rebuilt. This process is called remodeling.
+
+- **Osteoclasts:** Break down old bone
+- **Osteoblasts:** Build new bone
+
+When breakdown exceeds building, bones weaken.
+
+### Bone Density Terminology
+
+**Normal:** T-score above -1.0
+
+**Osteopenia:** T-score between -1.0 and -2.5 (lower bone mass)
+
+**Osteoporosis:** T-score at or below -2.5 (significantly reduced bone mass)
+
+T-scores compare your bone density to a healthy 30-year-old.
+
+### Why It Matters
+
+Low bone density increases fracture risk. Hip, spine, and wrist fractures can have serious consequences, especially in older adults.
+
+## How Exercise Builds Bone
+
+### Wolff's Law
+
+Bones adapt to the loads placed on them. More stress (within limits) = stronger bones. No stress = weaker bones.
+
+Astronauts lose bone mass in space because of zero gravity. Bed rest causes rapid bone loss. Your bones need you to move.
+
+### What Works
+
+Two types of exercise build bone:
+
+**1. Weight-bearing impact exercise:**
+- Forces through bones during standing activities
+- Impact creates beneficial stress signals
+- Examples: walking, running, jumping, dancing, tennis
+
+**2. Resistance training:**
+- Muscles pulling on bones stimulates growth
+- Higher loads are more effective
+- Examples: weight lifting, resistance bands, bodyweight exercises
+
+### What Doesn't Work (For Bones)
+
+- Swimming
+- Cycling
+- Low-resistance exercise
+
+These are great for cardiovascular health but don't provide enough bone stress. Include them, but they shouldn't be your only exercise.
+
+## Exercise Guidelines for Bone Health
+
+### If You Have Normal Bone Density (Prevention)
+
+**Impact exercise:** 30+ minutes, most days
+- Brisk walking, jogging, hiking, tennis, dancing
+
+**Resistance training:** 2-3 times per week
+- All major muscle groups
+- Progress to challenging weights
+- 8-12 repetitions, 2-3 sets
+
+**Balance training:** Regular practice
+- Prevents falls (which cause fractures)
+- Single-leg stance, tai chi, yoga
+
+### If You Have Osteopenia
+
+Same recommendations as above, with attention to:
+- Proper form to prevent injury
+- Gradual progression
+- Avoiding extreme spinal flexion under load
+
+Higher-impact activities are still beneficial and appropriate for most people.
+
+### If You Have Osteoporosis
+
+**What's still beneficial:**
+- Weight-bearing walking
+- Resistance training (modified if needed)
+- Balance training (critical for fall prevention)
+- Posture exercises
+
+**What needs caution:**
+- High-impact jumping (depends on severity)
+- Loaded spinal flexion (forward bending with weight)
+- Extreme rotation under load
+- Activities with fall risk
+
+**Work with a professional** to design an appropriate program.
+
+## The Best Exercises for Bone Health
+
+### Lower Body (Hip and Spine)
+
+**Squats:** The king of bone-building exercises
+- Loads spine and hips
+- Progress weight over time
+- Use proper form
+
+**Deadlifts:** Excellent for hip and spine
+- Start light, focus on form
+- Romanian deadlifts are a good variation
+
+**Lunges and step-ups:** Single-leg loading
+- Challenges balance
+- Functional movement
+
+**Heel drops:** Simple impact exercise
+- Rise on toes, drop heels to floor
+- Creates impact through the skeleton
+
+### Upper Body (Wrist and Spine)
+
+**Pushing exercises:** Push-ups, bench press, overhead press
+- Load through arms and spine
+- Wrist stress during weight-bearing
+
+**Pulling exercises:** Rows, lat pulldowns
+- Spine loading
+- Upper back strength
+
+**Carrying:** Farmer's walks
+- Loads entire skeleton
+- Functional and effective
+
+### Spine-Specific
+
+**Back extensions:** Strengthen spinal extensors
+- Important for posture
+- Counteracts flexion
+
+**Rows and reverse flies:** Upper back strength
+- Reduces kyphosis (rounded upper back)
+- Protects vertebrae
+
+**Planks:** Core stability
+- Protects spine during activity
+- Isometric loading
+
+### Balance (Fall Prevention)
+
+Falls cause fractures. Balance training is essential:
+
+- Single-leg stance (progress to eyes closed)
+- Tandem walking (heel to toe)
+- Tai chi (excellent evidence for fall reduction)
+- Standing on unstable surfaces
+- Reactive balance drills
+
+## What to Avoid
+
+### With Osteoporosis
+
+**Loaded spinal flexion:**
+- Crunches and sit-ups
+- Toe touches with weight
+- Forward bending while lifting
+
+Why? The front of vertebrae compresses, increasing fracture risk.
+
+**High fall-risk activities:**
+- Activities on unstable surfaces (if balance is poor)
+- Sports with collision risk
+- Icy or slippery conditions
+
+**Extreme twisting under load:**
+- Golf and tennis are usually fine
+- Be cautious with heavy rotational exercises
+
+### Common Sense Precautions
+
+- Use proper form always
+- Progress gradually
+- Avoid exercising when fatigued
+- Create a safe environment (no tripping hazards)
+- Wear appropriate footwear
+
+## Building a Bone-Health Program
+
+### Sample Week (Osteopenia/Prevention)
+
+**Monday:** Weight training (lower body focus)
+- Squats, deadlifts, lunges, calf raises
+- 3 sets of 8-12 reps
+
+**Tuesday:** Weight-bearing cardio
+- 30-minute brisk walk or hike
+- Include some hills
+
+**Wednesday:** Weight training (upper body focus)
+- Rows, push-ups, overhead press, planks
+- 3 sets of 8-12 reps
+
+**Thursday:** Balance and flexibility
+- Tai chi, yoga, or balance exercises
+- 20-30 minutes
+
+**Friday:** Weight training (full body)
+- Mix of exercises from other days
+- Include farmer's walks
+
+**Saturday:** Active recreation
+- Tennis, dancing, hiking, golf
+- Something you enjoy
+
+**Sunday:** Rest or gentle walking
+
+### Progression
+
+Bones adapt slowly. Expect:
+- 6-12 months to see density changes
+- Continued improvement over years
+- Need for ongoing exercise (benefits reverse when you stop)
+
+This is a lifelong commitment, not a quick fix.
+
+## Nutrition for Bones
+
+Exercise alone isn't enough. You also need:
+
+**Calcium:** 1000-1200 mg/day (from food ideally)
+- Dairy, fortified foods, leafy greens, sardines
+
+**Vitamin D:** 800-1000 IU/day (or per blood levels)
+- Sun exposure, supplements, fatty fish
+
+**Protein:** Adequate intake supports bone and muscle
+- 0.8-1.0 g/kg body weight minimum
+
+**Limit:** Excessive alcohol, caffeine, sodium, and smoking—all negatively affect bone health.
+
+## Medication and Exercise
+
+If you're on bone medications (bisphosphonates, etc.):
+- Exercise is still essential and beneficial
+- Medication and exercise work together
+- Don't rely on medication alone
+- Discuss your exercise plan with your doctor
+
+## Starting Later in Life
+
+### It's Never Too Late
+
+Even in your 70s, 80s, and beyond:
+- Exercise can improve bone density
+- Strength gains are absolutely possible
+- Balance improvements reduce fall risk
+- Function and independence improve
+
+**Start where you are.** Chair exercises, wall push-ups, and short walks are valid starting points that can progress over time.
+
+## The Bottom Line
+
+Your bones need you to challenge them. Impact exercise and resistance training tell bones to stay strong.
+
+If you have osteoporosis, work with knowledgeable professionals to create a safe program. Avoid loaded spinal flexion, but don't avoid exercise altogether—that's the worst thing you can do.
+
+Combine exercise with good nutrition and fall prevention strategies. Your bone health is largely in your hands.
+
+Move it or lose it. Your bones are listening.
+`
+  },
   'meniscus-tear-symptoms-treatment': {
     title: 'Meniscus Tear: Symptoms, Treatment Options, and Recovery',
     date: '2026-03-05',
