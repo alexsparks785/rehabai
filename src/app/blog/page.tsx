@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'exercise-during-pregnancy-guide',
+    title: 'Exercise During Pregnancy: What\'s Safe, What to Avoid, and Why It Matters',
+    excerpt: 'Staying active during pregnancy is good for you and baby. Here\'s what you need to know about exercising safely.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercise-high-blood-pressure',
+    title: 'Exercise and High Blood Pressure: The Complete Guide to Working Out Safely',
+    excerpt: 'Have hypertension? Exercise helps lower blood pressure, but there are things to know. Here\'s how to do it right.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-with-diabetes-guide',
+    title: 'Exercise With Diabetes: How to Work Out Safely and Improve Blood Sugar Control',
+    excerpt: 'Exercise is powerful medicine for diabetes. Here\'s how to do it safely and get the most benefit.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'cardiac-rehab-exercise-after-heart-attack',
+    title: 'Exercise After a Heart Attack: Cardiac Rehab and Returning to an Active Life',
+    excerpt: 'Had a heart event? Exercise is essential for recovery. Here\'s how cardiac rehab works and how to exercise safely.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
     slug: 'mcl-sprain-treatment-recovery',
     title: 'MCL Sprain: Grades, Treatment, and Return to Activity',
     excerpt: 'Injured the inside of your knee? MCL sprains are common and usually heal well without surgery. Here\'s what to expect.',

@@ -13,6 +13,900 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'exercise-during-pregnancy-guide': {
+    title: 'Exercise During Pregnancy: What\'s Safe, What to Avoid, and Why It Matters',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## Why Exercise During Pregnancy?
+
+Exercise during pregnancy isn't just safe—it's beneficial for both you and your baby. Current guidelines recommend most pregnant women get at least 150 minutes of moderate-intensity aerobic activity per week.
+
+## Benefits of Prenatal Exercise
+
+### For You
+
+- Reduced back pain
+- Less constipation
+- Lower risk of gestational diabetes
+- Reduced risk of preeclampsia
+- Better mood and energy
+- Improved sleep
+- Easier labor and delivery
+- Faster postpartum recovery
+- Lower risk of excessive weight gain
+- Reduced risk of C-section
+
+### For Baby
+
+- Healthier birth weight
+- Lower fat mass at birth
+- Better stress tolerance
+- Potential cognitive benefits
+
+## Who Should Exercise?
+
+### Generally Safe For
+
+Most pregnant women can and should exercise, including those who:
+- Were active before pregnancy
+- Were sedentary before pregnancy (start gradually)
+- Have uncomplicated pregnancies
+
+### Consult Your Provider First If
+
+- Heart or lung disease
+- Cervical insufficiency
+- Multiple pregnancy with risk factors
+- Placenta previa after 26 weeks
+- Preterm labor risk
+- Ruptured membranes
+- Preeclampsia or pregnancy-induced hypertension
+- Severe anemia
+
+### Absolute Contraindications
+
+Some conditions mean exercise should be avoided. Your provider will advise.
+
+## Safe Exercises During Pregnancy
+
+### Recommended Activities
+
+**Walking:**
+- Safe throughout pregnancy
+- Easy to modify intensity
+- Can do anywhere
+
+**Swimming and water aerobics:**
+- Low impact, supports body weight
+- Reduces swelling
+- Comfortable in later pregnancy
+
+**Stationary cycling:**
+- Low fall risk
+- Easy to adjust intensity
+- Comfortable into third trimester
+
+**Prenatal yoga:**
+- Flexibility and relaxation
+- Breathing techniques helpful for labor
+- Avoid hot yoga and certain poses
+
+**Strength training:**
+- Maintain muscle tone
+- Use moderate weights
+- Modify as belly grows
+
+**Low-impact aerobics:**
+- Prenatal classes ideal
+- Instructor can modify for pregnancy
+
+### With Modifications
+
+**Running:**
+- Can continue if you ran before pregnancy
+- Reduce intensity as pregnancy progresses
+- Listen to your body
+- May need to switch to walking later
+
+**Pilates:**
+- Core strength beneficial
+- Avoid lying flat on back after first trimester
+- Prenatal-specific classes best
+
+## Exercises to Avoid
+
+### High-Risk Activities
+
+- Contact sports (soccer, basketball, hockey)
+- Activities with fall risk (skiing, horseback riding, gymnastics)
+- Hot yoga or hot Pilates
+- Scuba diving
+- Skydiving
+- Activities at high altitude (if not acclimatized)
+
+### After First Trimester
+
+- Lying flat on back for extended periods
+- Exercises that increase fall risk as balance changes
+
+### Throughout Pregnancy
+
+- Heavy lifting that causes straining
+- Exercises that cause pain
+- Bouncing or jarring movements (for some)
+
+## Exercise by Trimester
+
+### First Trimester
+
+- Can often continue pre-pregnancy routine
+- Fatigue and nausea may limit activity
+- Stay hydrated
+- Avoid overheating
+
+### Second Trimester
+
+- Often feel best during this time
+- Modify exercises as belly grows
+- Avoid lying flat on back
+- Balance may start to change
+
+### Third Trimester
+
+- Lower intensity may be needed
+- Walking and swimming often most comfortable
+- Focus on maintaining, not increasing fitness
+- Pelvic floor exercises important
+
+## Warning Signs to Stop
+
+Stop exercising and contact your provider if you experience:
+
+- Vaginal bleeding
+- Regular painful contractions
+- Amniotic fluid leakage
+- Dizziness or feeling faint
+- Chest pain
+- Headache
+- Muscle weakness affecting balance
+- Calf pain or swelling
+- Decreased fetal movement
+
+## Exercise Guidelines
+
+### Intensity
+
+- "Talk test": Should be able to carry conversation
+- RPE (rate of perceived exertion): 12-14 on 20-point scale
+- Avoid exercising to exhaustion
+
+### Duration
+
+- 150 minutes moderate activity per week
+- Can break into shorter sessions
+- 20-30 minutes most days
+
+### Temperature
+
+- Avoid overheating
+- Stay hydrated
+- Exercise in cool environment
+- Avoid hot tubs and saunas
+
+## Key Exercises for Pregnancy
+
+### Pelvic Floor (Kegels)
+
+Essential for supporting pregnancy and preparing for delivery:
+- Contract pelvic floor muscles
+- Hold 5-10 seconds
+- Relax fully
+- 10 reps, 3x daily
+
+### Cat-Cow
+
+Relieves back pain:
+- On hands and knees
+- Arch back up (cat), then let belly drop (cow)
+- 10 reps
+
+### Bird-Dog (Modified)
+
+Core stability:
+- Hands and knees
+- Extend opposite arm and leg
+- Keep back flat
+- 10 each side
+
+### Squats
+
+Functional strength:
+- Feet wider than hip-width
+- Squat to comfortable depth
+- 10-15 reps
+
+### Side-Lying Leg Raises
+
+Hip strength:
+- Lie on side
+- Lift top leg
+- 15 reps each side
+
+## After Delivery
+
+- Gentle activity can often resume soon after uncomplicated delivery
+- Pelvic floor exercises early
+- Gradual return to pre-pregnancy exercise
+- C-section requires longer recovery
+- Get clearance from provider
+
+---
+
+Exercise during pregnancy is one of the best things you can do for yourself and your baby. Most activities are safe with modifications. Listen to your body, stay hydrated, don't overheat, and enjoy the benefits of staying active.
+`
+  },
+  'exercise-high-blood-pressure': {
+    title: 'Exercise and High Blood Pressure: The Complete Guide to Working Out Safely',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Exercise: A Powerful Tool for Blood Pressure
+
+Regular exercise can lower blood pressure by 5-8 mmHg in people with hypertension. That's comparable to some medications. It's one of the most effective lifestyle interventions for blood pressure control.
+
+## How Exercise Helps
+
+### Immediate Effects
+
+During exercise, blood pressure rises temporarily—this is normal and expected. After exercise, blood pressure often drops below pre-exercise levels for hours ("post-exercise hypotension").
+
+### Long-Term Effects
+
+Regular exercise leads to:
+- Lower resting heart rate
+- More efficient heart
+- Better blood vessel function
+- Improved arterial flexibility
+- Weight loss (which further lowers BP)
+- Reduced stress
+
+## Is It Safe?
+
+### For Most People, Yes
+
+Most people with hypertension can exercise safely. Exercise is part of the recommended treatment.
+
+### Check With Doctor First If
+
+- Blood pressure very high (>180/120)
+- Uncontrolled hypertension
+- Heart disease or symptoms
+- Diabetes with complications
+- Kidney disease
+- Starting a vigorous program after being sedentary
+
+### Get Clearance
+
+If you have stage 2 hypertension (≥140/90) or other risk factors, get medical clearance before starting exercise.
+
+## Best Types of Exercise
+
+### Aerobic Exercise (Most Effective)
+
+**Recommended:**
+- Walking
+- Cycling
+- Swimming
+- Jogging
+- Dancing
+- Elliptical
+
+**How much:**
+- 150 minutes moderate intensity per week (or 75 vigorous)
+- 5-7 days per week is better than 2-3
+- Can break into shorter sessions
+
+### Resistance Training (Also Beneficial)
+
+**Safe approach:**
+- Moderate intensity
+- Higher reps, lower weight
+- Avoid heavy maximal lifts
+- Don't hold breath (causes BP spikes)
+
+**How much:**
+- 2-3 days per week
+- Major muscle groups
+- 2-3 sets of 10-15 reps
+
+### Flexibility and Mind-Body
+
+**Options:**
+- Yoga (may lower BP)
+- Tai chi
+- Stretching
+
+**Benefits:**
+- Stress reduction
+- Complementary to aerobic/resistance
+
+## Guidelines for Safe Exercise
+
+### Monitor Blood Pressure
+
+- Know your baseline
+- Consider home monitoring
+- Track response to exercise
+
+### Don't Exercise If
+
+- BP very elevated that day (>180/110)
+- Feeling unwell
+- Chest pain or severe headache
+
+### During Exercise
+
+**Do:**
+- Warm up gradually
+- Stay hydrated
+- Breathe continuously (don't hold breath)
+- Cool down gradually
+- Stop if warning signs
+
+**Avoid:**
+- Sudden intense effort
+- Breath holding (Valsalva maneuver)
+- Isometric exercises at high intensity
+- Exercising in extreme heat
+
+### Warning Signs to Stop
+
+- Chest pain or pressure
+- Severe shortness of breath
+- Dizziness or lightheadedness
+- Irregular heartbeat
+- Nausea
+
+## Specific Exercise Recommendations
+
+### Walking Program
+
+Great starting point:
+- Week 1-2: 10-15 min, 5x/week
+- Week 3-4: 20-25 min, 5x/week
+- Week 5+: 30+ min, 5x/week
+- Moderate pace (can talk but slightly breathless)
+
+### Strength Training Guidelines
+
+**Safe exercises:**
+- Machine weights (safer than free weights)
+- Bodyweight exercises
+- Resistance bands
+
+**Technique:**
+- Breathe out during effort
+- No heavy straining
+- Full rest between sets
+- Avoid overhead lifts if BP very high
+
+### Swimming
+
+Excellent for hypertension:
+- Low impact
+- Full body
+- Water pressure may help circulation
+- Avoid very hot pools/hot tubs
+
+## Medications and Exercise
+
+### Be Aware
+
+Some BP medications affect exercise response:
+- Beta-blockers limit heart rate rise
+- Diuretics may cause dehydration
+- Some cause dizziness with position changes
+
+### Adjustments
+
+- May need to adjust timing of medications
+- Stay extra hydrated with diuretics
+- Rise slowly after floor exercises
+- Discuss with doctor
+
+## Lifestyle Synergy
+
+Exercise works best with other lifestyle changes:
+- DASH diet or low sodium
+- Weight loss
+- Limiting alcohol
+- Stress management
+- Adequate sleep
+
+## What Results to Expect
+
+### Timeline
+
+- Acute BP reduction after single session
+- Chronic reduction with regular exercise over weeks to months
+- Benefits continue as long as exercise continues
+
+### Amount of Reduction
+
+- Average 5-8 mmHg systolic
+- Average 2-5 mmHg diastolic
+- May be more with higher starting BP
+
+### Maintaining Results
+
+- Effects lost within weeks of stopping
+- Exercise must be ongoing lifestyle habit
+
+---
+
+Exercise is medicine for high blood pressure. Start gradually, be consistent, combine aerobic and resistance training, and make it a lifelong habit. Most people with hypertension can exercise safely—and should. Check with your doctor if you have concerns, then get moving.
+`
+  },
+  'exercise-with-diabetes-guide': {
+    title: 'Exercise With Diabetes: How to Work Out Safely and Improve Blood Sugar Control',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## Why Exercise Matters for Diabetes
+
+Exercise is one of the most powerful tools for managing diabetes. It improves insulin sensitivity, helps control blood sugar, reduces cardiovascular risk, and promotes overall health.
+
+For type 2 diabetes, regular exercise can be as effective as some medications.
+
+## Benefits of Exercise
+
+### Blood Sugar Control
+
+- Muscles use glucose during exercise
+- Improved insulin sensitivity for hours to days
+- Lower A1C with regular exercise
+- Reduced medication needs (sometimes)
+
+### Beyond Blood Sugar
+
+- Lower blood pressure
+- Improved cholesterol
+- Weight management
+- Better cardiovascular health
+- Reduced risk of complications
+- Improved mood and energy
+
+## Type 1 vs Type 2 Considerations
+
+### Type 2 Diabetes
+
+- Focus on insulin sensitivity improvement
+- Weight management often a goal
+- Usually can exercise safely with basic precautions
+- May see blood sugar drop during exercise
+
+### Type 1 Diabetes
+
+- More complex blood sugar management
+- Need to balance insulin, food, and exercise
+- Risk of both hypoglycemia and hyperglycemia
+- Requires more planning but very beneficial
+
+## Safe Exercise Guidelines
+
+### Check With Doctor First
+
+Especially if you have:
+- Heart disease or risk factors
+- Neuropathy (nerve damage)
+- Retinopathy (eye problems)
+- Kidney disease
+- Foot problems
+- Very uncontrolled blood sugar
+
+### Monitor Blood Sugar
+
+**Before exercise:**
+- Check glucose
+- Know your target range
+
+**During exercise (if prolonged):**
+- Check periodically
+- Especially if new to exercise or changing routine
+
+**After exercise:**
+- Risk of hypoglycemia can persist for hours
+- May need to check before bed after afternoon exercise
+
+### Blood Sugar Levels and Exercise
+
+**General guidelines (discuss with your doctor):**
+
+- <90 mg/dL: May need carbohydrate before exercising
+- 90-250 mg/dL: Generally safe to exercise
+- >250 mg/dL with ketones: Don't exercise until addressed
+- >300 mg/dL: Use caution, may need to postpone
+
+## Exercise Recommendations
+
+### Aerobic Exercise
+
+**What counts:**
+- Walking
+- Cycling
+- Swimming
+- Dancing
+- Low-impact aerobics
+
+**How much:**
+- 150 minutes per week moderate intensity
+- Spread across at least 3 days
+- No more than 2 consecutive days without activity
+
+### Resistance Training
+
+**Benefits:**
+- Improves insulin sensitivity
+- Builds muscle (more glucose storage)
+- Helps with weight management
+
+**How much:**
+- 2-3 days per week
+- Major muscle groups
+- 8-12 reps, 2-3 sets
+- Day of rest between sessions
+
+### Flexibility
+
+- Daily stretching
+- Yoga (also good for stress)
+- Maintains mobility
+
+## Preventing Hypoglycemia
+
+### Risk Factors
+
+- Taking insulin or sulfonylureas
+- Exercising longer or harder than usual
+- Exercising during peak insulin action
+- Not eating enough before exercise
+
+### Prevention Strategies
+
+**Timing:**
+- Exercise 1-2 hours after meals
+- Know your insulin timing
+
+**Carbohydrates:**
+- Have fast-acting carbs available
+- May need 15-30g carbs per hour of activity
+- Adjust based on blood sugar response
+
+**Medication adjustment:**
+- May need to reduce insulin on exercise days
+- Work with healthcare team
+
+### Treating Hypoglycemia
+
+If blood sugar drops below 70 mg/dL:
+- Stop exercise
+- Take 15-20g fast-acting carbs
+- Wait 15 minutes, recheck
+- Repeat if needed
+- Don't resume until above 100 mg/dL
+
+## Foot Care
+
+### Why It Matters
+
+Diabetes can cause neuropathy (nerve damage) and poor circulation, making foot problems serious.
+
+### Precautions
+
+- Check feet before and after exercise
+- Wear proper fitting shoes
+- Moisture-wicking socks
+- Don't exercise with blisters or sores
+- See podiatrist if concerns
+
+### Best Activities for Foot Concerns
+
+- Swimming
+- Cycling
+- Chair exercises
+- Upper body workouts
+- Water aerobics
+
+## If You Have Complications
+
+### Retinopathy
+
+- Avoid activities that spike blood pressure
+- No heavy straining
+- Avoid head-down positions
+- Low-impact activities safer
+- Get clearance from ophthalmologist
+
+### Neuropathy
+
+- Protect feet
+- Avoid activities with fall risk
+- Water exercise excellent
+- Chair exercises
+- Upper body focus if needed
+
+### Kidney Disease
+
+- May need intensity modifications
+- Stay hydrated
+- Work with healthcare team
+
+### Heart Disease
+
+- Get cardiac clearance
+- May need monitored exercise initially
+- Cardiac rehab programs helpful
+
+## Getting Started
+
+### If Sedentary
+
+**Week 1-2:**
+- 10-15 minutes walking, 3-5 days
+- Light intensity
+
+**Week 3-4:**
+- 20 minutes, 5 days
+- Add light resistance 2x/week
+
+**Week 5+:**
+- Progress gradually toward goals
+- Listen to your body
+
+### Keys to Success
+
+- Start slow
+- Be consistent
+- Monitor blood sugar
+- Carry fast-acting carbs
+- Stay hydrated
+- Wear medical ID
+
+---
+
+Exercise is powerful medicine for diabetes. It takes some planning—monitoring blood sugar, having carbs available, wearing good shoes—but the benefits are enormous. Work with your healthcare team, start gradually, and make physical activity a regular part of your life.
+`
+  },
+  'cardiac-rehab-exercise-after-heart-attack': {
+    title: 'Exercise After a Heart Attack: Cardiac Rehab and Returning to an Active Life',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## Exercise After a Heart Attack: Essential, Not Optional
+
+It might seem counterintuitive, but exercise is one of the most important parts of recovery after a heart attack. Cardiac rehabilitation reduces the risk of dying from heart disease by 25-30%.
+
+## What Is Cardiac Rehab?
+
+Cardiac rehabilitation is a medically supervised program that includes:
+- Exercise training
+- Education about heart-healthy living
+- Counseling to reduce stress
+- Support for lifestyle changes
+
+### Who Should Do Cardiac Rehab?
+
+People who have had:
+- Heart attack
+- Heart surgery (bypass, valve)
+- Angioplasty/stent placement
+- Heart failure
+- Stable angina
+
+### Benefits
+
+- 25-30% reduction in cardiac mortality
+- Improved exercise capacity
+- Better quality of life
+- Reduced symptoms
+- Lower risk of future events
+- Improved mental health
+- Better risk factor control
+
+## Phases of Cardiac Rehab
+
+### Phase 1: Hospital (Inpatient)
+
+Begins while still hospitalized:
+- Early mobility
+- Education about condition
+- Assessment for Phase 2
+- Discharge planning
+
+### Phase 2: Outpatient Program
+
+The core of cardiac rehab (typically 12 weeks):
+- Supervised exercise sessions (usually 36 sessions)
+- ECG monitoring during exercise
+- Education sessions
+- Nutritional counseling
+- Psychosocial support
+- Risk factor modification
+
+### Phase 3: Maintenance
+
+Long-term lifestyle:
+- Independent exercise
+- Ongoing lifestyle management
+- May include community-based programs
+- Lifelong commitment to heart health
+
+## What Happens in Phase 2
+
+### Typical Session
+
+**Duration:** 1-2 hours, 3 times per week
+
+**Components:**
+- Warm-up (5-10 minutes)
+- Aerobic exercise (20-40 minutes)
+- Cool-down (5-10 minutes)
+- May include resistance training
+- Education component
+
+### Exercise Monitoring
+
+- Heart rate monitoring
+- Blood pressure checks
+- ECG monitoring
+- Symptom assessment
+- Perceived exertion tracking
+
+### Progression
+
+- Start conservatively
+- Gradually increase intensity and duration
+- Individualized to your response
+- Safety prioritized
+
+## Exercise Guidelines After Heart Attack
+
+### When to Start
+
+- Phase 1 begins in hospital
+- Phase 2 typically 2-6 weeks after event
+- Timing depends on procedure and recovery
+
+### Types of Exercise
+
+**Aerobic:**
+- Walking (most common starting point)
+- Cycling
+- Treadmill
+- Arm ergometer
+- Swimming (after wounds healed)
+
+**Resistance (when appropriate):**
+- Light weights
+- Resistance bands
+- 8-12 reps, low to moderate intensity
+- Major muscle groups
+
+### How Hard
+
+- Moderate intensity initially
+- Target heart rate based on stress test
+- Rating of perceived exertion 11-14 (on 6-20 scale)
+- "Talk test": can talk but slightly breathless
+
+### How Much
+
+**During rehab:**
+- 3x per week supervised
+- May add independent walking
+
+**Long-term goals:**
+- 150 minutes moderate aerobic per week
+- Resistance training 2x per week
+- Daily flexibility
+
+## Warning Signs to Stop Exercise
+
+Contact medical team or seek emergency care if:
+
+- Chest pain or pressure
+- Severe shortness of breath
+- Irregular heartbeat
+- Dizziness or lightheadedness
+- Excessive fatigue
+- Nausea
+- Pain in jaw, neck, arm, or back
+- Unusual sweating
+
+## After Formal Cardiac Rehab
+
+### Maintaining Exercise
+
+- Continue regular exercise independently
+- Community cardiac rehab programs available
+- Gym programs (inform staff of history)
+- Home exercise routines
+
+### Staying Safe
+
+- Know your target heart rate range
+- Carry nitroglycerin if prescribed
+- Exercise with phone accessible
+- Inform exercise partners of your history
+- Know warning signs
+
+### Regular Follow-up
+
+- Cardiology appointments
+- Stress tests as recommended
+- Ongoing risk factor management
+
+## Lifestyle Beyond Exercise
+
+### Complete Recovery Includes
+
+**Diet:**
+- Heart-healthy eating
+- Mediterranean or DASH diet
+- Reduced sodium and saturated fat
+
+**Medications:**
+- Take as prescribed
+- Understand what each does
+- Don't stop without consulting doctor
+
+**Smoking:**
+- Quit if you smoke
+- Most important change you can make
+
+**Stress management:**
+- Relaxation techniques
+- Counseling if needed
+- Adequate sleep
+
+**Risk factor control:**
+- Blood pressure management
+- Cholesterol control
+- Diabetes management if applicable
+- Weight management
+
+## Common Questions
+
+### "Is it safe?"
+
+Yes, with proper guidance. Supervised cardiac rehab is very safe. The risk of exercising is far lower than the risk of not exercising.
+
+### "When can I return to normal activities?"
+
+Varies by individual. Typically:
+- Driving: 2-4 weeks
+- Sexual activity: 2-4 weeks
+- Work: 2-12 weeks depending on job
+- Sports: Individual assessment
+
+### "What if I didn't get referred to cardiac rehab?"
+
+Ask your cardiologist. Cardiac rehab is underutilized—many eligible patients aren't referred. Advocate for yourself.
+
+## The Bottom Line
+
+Exercise after a heart attack isn't just safe—it's one of the most effective treatments. Cardiac rehabilitation significantly reduces your risk of another event and improves quality of life. If you've had a heart event and haven't done cardiac rehab, talk to your cardiologist. It's never too late to start.
+`
+  },
   'mcl-sprain-treatment-recovery': {
     title: 'MCL Sprain: Grades, Treatment, and Return to Activity',
     date: '2026-03-06',
