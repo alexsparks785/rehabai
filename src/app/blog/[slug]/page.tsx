@@ -13,6 +13,986 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'lordosis-swayback-posture-exercises': {
+    title: 'Lordosis: Exercises to Fix Swayback Posture and Reduce Lower Back Pain',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## What Is Lordosis?
+
+Lordosis refers to an excessive inward curve of the lower back (lumbar spine). Some curve is normal and healthy—it's called the lumbar lordosis. But when this curve becomes exaggerated, it can cause pain and postural problems.
+
+You might hear it called "swayback" or "hyperlordosis."
+
+## What Does It Look Like?
+
+### Classic Posture
+
+- Lower back curves inward excessively
+- Belly protrudes forward
+- Buttocks stick out
+- Pelvis tilts forward (anterior pelvic tilt)
+
+### The Chain Reaction
+
+Hyperlordosis rarely exists in isolation. It often comes with:
+- Tight hip flexors
+- Weak glutes
+- Weak abdominals
+- Tight lower back muscles
+
+## What Causes Hyperlordosis?
+
+### Muscular Imbalances
+
+**Tight muscles:**
+- Hip flexors (psoas, rectus femoris)
+- Lower back extensors
+
+**Weak muscles:**
+- Abdominals
+- Glutes
+- Hamstrings
+
+### Lifestyle Factors
+
+- Prolonged sitting
+- Standing with poor posture
+- Wearing high heels frequently
+- Obesity (belly weight pulls pelvis forward)
+
+### Other Causes
+
+- Pregnancy
+- Spondylolisthesis
+- Osteoporosis with vertebral fractures
+- Disc degeneration
+- Congenital conditions
+
+## Symptoms
+
+### May Be Asymptomatic
+
+Many people with hyperlordosis have no pain. Posture alone isn't destiny.
+
+### When It Causes Problems
+
+- Lower back pain (especially with prolonged standing)
+- Muscle fatigue
+- Stiffness
+- Pain radiating to buttocks
+- Difficulty standing straight
+
+## Assessment
+
+### Quick Self-Check
+
+Stand with your back against a wall:
+- Heels, buttocks, shoulders, and head touching wall
+- Slide your hand behind your lower back
+- Normal: hand fits snugly
+- Hyperlordosis: fist or more space
+
+### Professional Assessment
+
+- Posture analysis
+- Flexibility testing
+- Strength assessment
+- X-rays if structural cause suspected
+
+## Treatment: The Exercise Approach
+
+### The Strategy
+
+1. Stretch tight hip flexors
+2. Strengthen weak glutes
+3. Strengthen abdominals
+4. Learn neutral spine position
+
+### Hip Flexor Stretches
+
+**Half-kneeling hip flexor stretch:**
+- One knee down, other foot forward
+- Tuck pelvis under (flatten low back)
+- Lean forward into stretch
+- Hold 30 seconds
+- 3 reps each side
+
+**Couch stretch:**
+- Back foot on couch, knee on floor
+- Keep torso upright, squeeze glute
+- Hold 30-60 seconds
+
+### Glute Strengthening
+
+**Glute bridges:**
+- Lie on back, knees bent
+- Squeeze glutes, lift hips
+- Keep core tight, don't arch back
+- Hold 5 seconds
+- 15-20 reps
+
+**Single-leg bridges:**
+- Same as above, one leg extended
+- 10 reps each side
+
+**Clamshells:**
+- Side-lying, knees bent
+- Lift top knee, keeping feet together
+- 15 reps each side
+
+**Hip thrusts:**
+- Shoulders on bench, feet on floor
+- Drive through heels, squeeze glutes
+- 12-15 reps
+
+### Abdominal Strengthening
+
+**Dead bug:**
+- Lie on back, arms toward ceiling, knees at 90°
+- Press low back into floor
+- Lower opposite arm and leg
+- Maintain back position
+- 10 each side
+
+**Plank:**
+- Forearms and toes
+- Straight line from head to heels
+- Don't let back sag or pike up
+- Hold 30-60 seconds
+
+**Posterior pelvic tilt:**
+- Lie on back, knees bent
+- Flatten lower back into floor
+- Hold 10 seconds
+- 10 reps
+- Learn this feeling—it's the correction
+
+### Hamstring Strengthening
+
+**Romanian deadlift:**
+- Hinge at hips, slight knee bend
+- Lower weight toward floor
+- Feel hamstring stretch
+- Squeeze glutes to return
+- 10-12 reps
+
+## Daily Posture Cues
+
+### Standing
+
+- Tuck pelvis slightly under
+- Engage lower abs gently
+- Imagine lengthening spine
+- Don't lock knees
+
+### Sitting
+
+- Use lumbar support (but not excessive)
+- Keep feet flat on floor
+- Avoid sitting on front edge of seat
+
+### Sleeping
+
+- Side sleeping with pillow between knees
+- Back sleeping with pillow under knees
+- Avoid sleeping on stomach (increases lordosis)
+
+## How Long Does Correction Take?
+
+### Timeline
+
+- Postural awareness: immediate
+- Flexibility improvements: 2-4 weeks
+- Strength gains: 4-8 weeks
+- Lasting change: 3-6 months of consistent work
+
+### The Key
+
+**Consistency beats intensity.** Daily stretching and regular strengthening matter more than occasional intense sessions.
+
+## When to See a Professional
+
+- Pain that doesn't improve with exercise
+- Neurological symptoms (numbness, weakness)
+- Significant structural deformity
+- Symptoms getting worse
+- History of spine problems
+
+## Exercises to Avoid (Initially)
+
+- Heavy overhead pressing
+- Excessive back extension exercises
+- Exercises that increase anterior pelvic tilt
+- High-impact activities if painful
+
+## Prevention
+
+- Maintain hip flexor flexibility
+- Keep core strong
+- Vary positions throughout day
+- Avoid prolonged sitting
+- Wear supportive footwear
+
+---
+
+Hyperlordosis is usually a muscular imbalance issue that responds well to targeted exercise. Stretch what's tight (hip flexors), strengthen what's weak (glutes and abs), and practice neutral spine. With consistency, most people see significant improvement in both posture and pain.
+`
+  },
+  'concussion-recovery-return-to-activity': {
+    title: 'Concussion Recovery: Timeline, Symptoms, and Safe Return to Activity',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## What Is a Concussion?
+
+A concussion is a mild traumatic brain injury caused by a bump, blow, or jolt to the head. The brain moves rapidly inside the skull, causing chemical changes and sometimes stretching brain cells.
+
+You don't have to lose consciousness to have a concussion. Most people don't.
+
+## Symptoms
+
+### Immediate (Minutes to Hours)
+
+**Physical:**
+- Headache
+- Nausea or vomiting
+- Balance problems
+- Dizziness
+- Fatigue
+- Sensitivity to light or noise
+
+**Cognitive:**
+- Confusion
+- Feeling "foggy"
+- Difficulty concentrating
+- Slowed thinking
+- Memory problems
+
+**Emotional:**
+- Irritability
+- Sadness
+- Anxiety
+- Mood swings
+
+### Delayed (Days to Weeks)
+
+- Sleep disturbances
+- Difficulty with memory and concentration
+- Persistent headache
+- Depression or anxiety
+
+## Red Flags: Go to Emergency Room
+
+Call 911 or go to ER immediately if:
+- Loss of consciousness (more than brief)
+- One pupil larger than the other
+- Severe or worsening headache
+- Repeated vomiting
+- Seizures
+- Increasing confusion
+- Slurred speech
+- Weakness or numbness
+- Difficulty recognizing people or places
+- Can't be awakened
+
+## Initial Management (First 24-48 Hours)
+
+### Physical Rest
+
+- Avoid physical activity
+- Rest in quiet, dim environment if helpful
+- Sleep is okay (and helpful)
+- Old advice to "wake every hour" is outdated for most cases
+
+### Cognitive Rest
+
+- Limit screen time
+- Avoid reading if it worsens symptoms
+- Take breaks from mental tasks
+- Reduce schoolwork/work demands
+
+### What "Rest" Actually Means
+
+Rest doesn't mean lying in a dark room for days. That's outdated. Current evidence supports:
+- Brief initial rest (24-48 hours)
+- Then gradual return to light activity
+- Complete rest beyond 2-3 days may delay recovery
+
+## Recovery Timeline
+
+### Typical Recovery
+
+- **Children:** 2-4 weeks
+- **Adults:** 10-14 days
+- **Most people:** Full recovery expected
+
+### Factors Affecting Recovery
+
+**Longer recovery associated with:**
+- History of previous concussions
+- Longer initial symptoms
+- History of migraines
+- Learning disabilities
+- Mood disorders
+- Younger age (children recover slower than adults)
+
+## Return to Activity Protocols
+
+### Return to School (Children)
+
+**Stage 1:** Rest (1-2 days)
+- Symptom limited rest
+- Brief cognitive activity okay
+
+**Stage 2:** Light cognitive activity
+- Short periods of schoolwork
+- Breaks as needed
+
+**Stage 3:** Moderate cognitive activity
+- Increased schoolwork
+- May need accommodations
+
+**Stage 4:** Near-normal activity
+- Regular schedule
+- Limited accommodations
+
+**Stage 5:** Full return
+- Normal school
+- No accommodations
+
+### Return to Sport (6-Stage Protocol)
+
+Each stage takes minimum 24 hours. Move forward only if symptom-free.
+
+**Stage 1:** Symptom-limited rest
+- Daily activities that don't provoke symptoms
+
+**Stage 2:** Light aerobic exercise
+- Walking, stationary cycling
+- 10-15 minutes
+- No resistance training
+
+**Stage 3:** Sport-specific exercise
+- Running drills, skating
+- No head impact activities
+
+**Stage 4:** Non-contact training drills
+- Passing drills, progressive resistance training
+- Increase intensity
+
+**Stage 5:** Full contact practice
+- After medical clearance
+- Normal training activities
+
+**Stage 6:** Return to competition
+- Normal game play
+
+### Key Rules
+
+- Any return of symptoms → drop back one stage
+- Rest 24 hours before trying again
+- Medical clearance required before contact (Stage 5)
+- Don't rush—second concussion before recovery is serious
+
+## When to See a Doctor
+
+### See Doctor If
+
+- Symptoms aren't improving after 10-14 days
+- Symptoms interfere with school/work/daily life
+- New symptoms develop
+- History of multiple concussions
+- Any red flag symptoms
+
+### Specialists
+
+- Sports medicine physicians
+- Neurologists
+- Neuropsychologists (for cognitive testing)
+- Vestibular therapists (for dizziness/balance)
+
+## Post-Concussion Syndrome
+
+When symptoms persist beyond expected recovery time (typically >4 weeks), it may be called post-concussion syndrome.
+
+### Common Persistent Symptoms
+
+- Headaches
+- Dizziness
+- Fatigue
+- Difficulty concentrating
+- Sleep problems
+- Mood changes
+
+### Treatment
+
+- Targeted therapy for specific symptoms
+- Vestibular rehabilitation for dizziness
+- Cognitive rehabilitation
+- Psychological support
+- Gradual aerobic exercise (may help recovery)
+
+## Prevention
+
+### Sports
+
+- Proper technique (no head-first contact)
+- Appropriate protective equipment
+- Rule enforcement
+- Recognizing and removing concussed athletes
+
+### General
+
+- Seatbelts in vehicles
+- Helmets for biking, skiing, etc.
+- Fall prevention (especially elderly)
+- Safe play environments
+
+## For Parents
+
+### What to Watch
+
+- Behavioral changes
+- Sleep pattern changes
+- School performance decline
+- Complaints of headache or not feeling right
+- Balance problems
+
+### Supporting Recovery
+
+- Communicate with school
+- Ensure adequate sleep
+- Limit screens initially
+- Don't rush return to sports
+- Watch for emotional changes
+
+### Long-Term Concerns
+
+The vast majority of children recover completely. Multiple concussions, especially close together, are the concern. Allow full recovery before return to contact sports.
+
+## Key Takeaways
+
+1. Most concussions resolve completely with time
+2. Brief rest, then gradual return to activity
+3. Don't rush return to contact sports
+4. Seek medical care if symptoms persist or worsen
+5. Each concussion is individual—recovery times vary
+
+---
+
+Concussions are common and usually temporary. The brain needs time to heal, but complete rest isn't the answer. Gradual return to activity, proper monitoring, and patience lead to full recovery for most people. Take it seriously, follow the protocols, and don't rush.
+`
+  },
+  'pelvic-girdle-pain-pregnancy': {
+    title: 'Pelvic Girdle Pain During Pregnancy: Why It Happens and How to Find Relief',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## What Is Pelvic Girdle Pain?
+
+Pelvic girdle pain (PGP) during pregnancy is pain in the joints that make up your pelvis—the sacroiliac joints in back and the pubic symphysis in front. It can occur on one side, both sides, or at the front of the pelvis.
+
+It's also called symphysis pubis dysfunction (SPD) when it primarily affects the front joint.
+
+## How Common Is It?
+
+About 20% of pregnant women experience significant PGP. It can start as early as the first trimester but most commonly begins in the second or third trimester.
+
+## What Causes It?
+
+### Hormonal Changes
+
+**Relaxin:**
+The hormone relaxin increases during pregnancy to loosen ligaments for delivery. But it loosens all joints, including pelvic joints, making them less stable.
+
+### Mechanical Changes
+
+- Weight gain
+- Shift in center of gravity
+- Postural changes
+- Widening of pelvis for delivery
+
+### Contributing Factors
+
+- Previous pelvic or back injury
+- Hypermobility (naturally loose joints)
+- History of PGP in prior pregnancy
+- Physically demanding job
+- Multiple pregnancy (twins, etc.)
+
+## Symptoms
+
+### Location
+
+**Posterior (back):**
+- Pain over sacroiliac joints
+- Deep in buttock
+- May radiate to back of thigh
+
+**Anterior (front):**
+- Pain at pubic bone
+- Clicking or grinding sensation
+- May radiate to groin or inner thigh
+
+**Combined:**
+- Both front and back
+- Feels like pelvis is "falling apart"
+
+### What Makes It Worse
+
+- Walking (especially stairs)
+- Standing on one leg
+- Turning in bed
+- Getting in/out of car
+- Lifting
+- Prolonged standing or sitting
+
+### What Helps
+
+- Resting
+- Keeping knees together
+- Lying down
+- Support belt
+
+## Diagnosis
+
+Usually diagnosed by symptoms and physical exam. Healthcare provider may:
+- Assess gait
+- Test specific movements
+- Palpate painful areas
+- Rule out other conditions
+
+Imaging rarely needed unless another cause suspected.
+
+## Management Strategies
+
+### Movement Modifications
+
+**Keep legs together:**
+- Get in/out of bed by rolling (knees together)
+- Get in/out of car by swinging legs together
+- Avoid straddling movements
+
+**Reduce single-leg activities:**
+- Sit down to dress
+- Avoid standing on one leg
+- Take stairs one at a time (or avoid)
+
+**Equal loading:**
+- Carry items close to body
+- Split loads between two bags
+- Avoid asymmetric positions
+
+### Pelvic Support Belt
+
+**How it helps:**
+- Compresses pelvis
+- Adds external stability
+- Worn around pelvis (not waist)
+
+**When to wear:**
+- During activity
+- May not need at rest
+- Position below belly
+
+### Rest
+
+- Rest when needed
+- Lie on side with pillow between knees
+- Alternate activity and rest
+- Don't push through severe pain
+
+## Exercises
+
+The goal is to stabilize the pelvis without aggravating symptoms.
+
+### Pelvic Floor Exercises
+
+**Kegels:**
+- Contract pelvic floor muscles
+- Hold 5-10 seconds
+- Relax fully
+- 10 reps, 3x daily
+
+The pelvic floor helps stabilize the pelvis.
+
+### Core Stabilization
+
+**Abdominal bracing:**
+- Gently draw belly button toward spine
+- Hold while breathing normally
+- 10-second holds
+
+**Bird-dog (modified):**
+- Hands and knees
+- Extend opposite arm and leg (within comfort)
+- Keep back still
+- 5 each side
+
+### Glute Strengthening
+
+**Bridges (if tolerated):**
+- Lie on back, knees bent
+- Squeeze glutes, lift hips
+- Avoid if increases symptoms
+- 10-15 reps
+
+**Clamshells:**
+- Side-lying, knees bent
+- Lift top knee, keeping feet together
+- 10-15 each side
+
+### What to Avoid
+
+- Wide squats
+- Lunges
+- Single-leg exercises
+- Anything that increases pain
+
+## Other Treatments
+
+### Physical Therapy
+
+Pelvic health physiotherapist can:
+- Assess specific dysfunction
+- Provide manual therapy
+- Guide exercise program
+- Fit support belt
+
+### Massage
+
+May help with muscle tension. Ensure therapist is trained in pregnancy massage.
+
+### Acupuncture
+
+Some evidence for pain relief. Ensure provider is trained in treating pregnant women.
+
+### Medications
+
+Acetaminophen (Tylenol) is generally considered safe. Discuss with healthcare provider.
+
+## Sleep Positions
+
+### Best Position
+
+- Side-lying (left side often recommended for circulation)
+- Pillow between knees
+- Pillow supporting belly
+- Pregnancy pillow can help
+
+### Getting In/Out of Bed
+
+- Roll onto side first
+- Keep knees together
+- Push up with arms while lowering legs
+- Reverse to get back in
+
+## Daily Living Tips
+
+### Dressing
+
+- Sit down to put on pants, underwear, shoes
+- Avoid standing on one leg
+
+### Sitting
+
+- Supportive chair
+- Avoid crossing legs
+- Use cushion if helpful
+
+### Driving
+
+- Swing legs in together
+- Limit long drives
+- Consider lumbar support
+
+### Work
+
+- Sit when possible
+- Avoid prolonged standing
+- Communicate needs to employer
+- May need accommodations
+
+## Labor and Delivery Considerations
+
+### Communicate with Team
+
+Let providers know about PGP. It affects:
+- Positioning during labor
+- Pushing positions
+- Pain management decisions
+
+### Positions to Try
+
+- Side-lying
+- All fours
+- Supported squat (if tolerated)
+- Avoid extreme hip opening
+
+### Epidural
+
+May provide relief but also removes feedback about joint positioning. Team should monitor leg position.
+
+## Postpartum
+
+### Usually Improves
+
+Most PGP resolves within weeks to months after delivery as hormones normalize.
+
+### If It Persists
+
+- Continue exercises
+- See pelvic health physiotherapist
+- May need more intensive treatment
+- Usually resolves by 6 months
+
+---
+
+Pelvic girdle pain is challenging during pregnancy but manageable. Keep movements symmetric, use a support belt, strengthen what you can without pain, and rest when needed. It does get better—most women see significant improvement once baby arrives and hormones normalize.
+`
+  },
+  'de-quervains-tenosynovitis-treatment': {
+    title: 'De Quervain\'s Tenosynovitis: The Painful Thumb Condition and How to Treat It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is De Quervain's Tenosynovitis?
+
+De Quervain's tenosynovitis is inflammation of the tendons on the thumb side of your wrist. It causes pain when you turn your wrist, grasp something, or make a fist.
+
+The condition affects two tendons that run through a tunnel (sheath) at the base of the thumb. When inflamed, they don't glide smoothly through the tunnel.
+
+## Why "Mommy Thumb"?
+
+It's commonly called "mommy thumb" or "new parent thumb" because:
+- Repetitive lifting of babies
+- Awkward wrist positions while holding infant
+- Hormonal changes postpartum
+- Sleep deprivation affecting healing
+
+But it affects many others too—anyone who uses repetitive wrist and thumb motions.
+
+## Who Gets It?
+
+### Common in
+
+- New parents (especially mothers)
+- Office workers (mouse use)
+- Musicians
+- Gamers
+- Crafters (knitting, sewing)
+- Assembly line workers
+- Anyone with repetitive gripping
+
+### Risk Factors
+
+- Age 30-50
+- Female sex
+- Pregnancy or postpartum period
+- Repetitive wrist motions
+- Direct trauma
+- Inflammatory arthritis
+
+## Symptoms
+
+### Classic Presentation
+
+- Pain at thumb side of wrist
+- Swelling near base of thumb
+- Pain with gripping, pinching, twisting
+- Pain when making a fist
+- "Catching" or "snapping" when moving thumb
+- Pain radiating to thumb or forearm
+
+### Finkelstein's Test
+
+Fold thumb into palm, make a fist, bend wrist toward pinky side. Severe pain = likely de Quervain's. (Don't do this repeatedly—once is enough!)
+
+## Treatment
+
+### Rest and Activity Modification
+
+**Avoid or modify:**
+- Repetitive thumb motions
+- Twisting motions
+- Wide grip
+- Forceful pinching
+
+**For new parents:**
+- Change how you lift baby (palms up, keep wrist neutral)
+- Use both hands equally
+- Rest when possible
+- Use nursing pillow for support
+
+### Splinting
+
+**Thumb spica splint:**
+- Immobilizes wrist and thumb
+- Wear at night (definitely)
+- Wear during day activities that aggravate
+- 4-6 weeks
+
+**Why it works:**
+- Reduces tendon movement
+- Allows inflammation to settle
+- Prevents aggravating motions
+
+### Ice
+
+- 15-20 minutes
+- Several times daily
+- Reduces inflammation and pain
+
+### NSAIDs
+
+- Over-the-counter anti-inflammatories
+- Help with pain and swelling
+- Check with doctor if breastfeeding
+
+## Exercises
+
+Start when acute pain has settled (often after a week or two of splinting).
+
+### Tendon Gliding
+
+**Thumb extension/flexion:**
+- Open hand flat
+- Touch thumb to base of pinky
+- Return to flat
+- 10 reps, gently
+
+**Thumb circles:**
+- Gentle circles in both directions
+- 10 each way
+
+### Strengthening (Later Stage)
+
+**Thumb resistance:**
+- Wrap rubber band around fingers
+- Spread thumb away against resistance
+- 15 reps
+
+**Grip strengthening:**
+- Squeeze soft ball gently
+- Hold 5 seconds
+- 10 reps
+- Only if pain-free
+
+### Wrist Stretches
+
+**Wrist flexor stretch:**
+- Arm out, palm up
+- Pull fingers back with other hand
+- Hold 30 seconds
+
+**Wrist extensor stretch:**
+- Arm out, palm down
+- Pull fingers down
+- Hold 30 seconds
+
+## Corticosteroid Injection
+
+### When Indicated
+
+- Failed 4-6 weeks of conservative treatment
+- Significant pain
+- Can't do splinting adequately (common with new parents)
+
+### Effectiveness
+
+- 70-80% get good relief
+- May need repeat injection
+- Some get lasting cure from single injection
+
+### What to Expect
+
+- Injection into tendon sheath
+- Brief sting
+- May have temporary flare (1-2 days)
+- Improvement over 1-2 weeks
+
+## Surgery
+
+### Rarely Needed
+
+Most cases resolve with conservative treatment or injection.
+
+### Indications
+
+- Failed conservative treatment (3-6 months)
+- Failed injections
+- Severe, disabling symptoms
+
+### The Procedure
+
+- Release the tendon sheath
+- Outpatient surgery
+- Local anesthesia
+- 15-30 minutes
+
+### Recovery
+
+- Splint 1-2 weeks
+- Sutures out ~10-14 days
+- Therapy 2-4 weeks
+- Full recovery 4-6 weeks
+- Success rate >90%
+
+## Prevention
+
+### Ergonomics
+
+- Neutral wrist position when possible
+- Avoid wide grip
+- Use palm support for mouse
+- Take breaks
+
+### Technique
+
+**Lifting baby:**
+- Scoop under bottom
+- Keep wrist neutral
+- Use forearms, not just hands
+- Alternate sides
+
+**Carrying:**
+- Support weight with forearms
+- Avoid carrying by gripping with thumb
+
+### Strengthening
+
+Maintain general hand and forearm strength to prevent overuse.
+
+## Timeline
+
+### Typical Recovery
+
+- Mild cases: 4-6 weeks with splinting
+- Moderate: 6-12 weeks
+- With injection: often improvement in days, full relief 2-4 weeks
+- Post-surgery: 4-6 weeks
+
+### What Helps Most
+
+- Early treatment (don't ignore it)
+- Consistent splinting
+- Activity modification
+- Patience
+
+---
+
+De Quervain's is painful and frustrating, especially for new parents who can't exactly stop lifting their baby. A thumb spica splint worn consistently, modifying how you lift and grip, and potentially an injection usually resolve it. Don't suffer in silence—early treatment means faster recovery.
+`
+  },
   'cubital-tunnel-syndrome-treatment': {
     title: 'Cubital Tunnel Syndrome: Why Your Pinky Goes Numb and How to Fix It',
     date: '2026-03-06',

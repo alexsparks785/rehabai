@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'lordosis-swayback-posture-exercises',
+    title: 'Lordosis: Exercises to Fix Swayback Posture and Reduce Lower Back Pain',
+    excerpt: 'Standing with an exaggerated curve in your lower back? Here\'s what causes lordosis and the exercises that restore proper alignment.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'concussion-recovery-return-to-activity',
+    title: 'Concussion Recovery: Timeline, Symptoms, and Safe Return to Activity',
+    excerpt: 'Head injury? Here\'s what to expect during recovery, when to worry, and how to return to sports and daily life safely.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'pelvic-girdle-pain-pregnancy',
+    title: 'Pelvic Girdle Pain During Pregnancy: Why It Happens and How to Find Relief',
+    excerpt: 'Pain in your pelvis, hips, or pubic bone during pregnancy? PGP is common and manageable. Here\'s what actually helps.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'de-quervains-tenosynovitis-treatment',
+    title: 'De Quervain\'s Tenosynovitis: The Painful Thumb Condition and How to Treat It',
+    excerpt: 'Sharp pain at your wrist when gripping or turning? De Quervain\'s is common in new parents and desk workers. Here\'s how to fix it.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
     slug: 'cubital-tunnel-syndrome-treatment',
     title: 'Cubital Tunnel Syndrome: Why Your Pinky Goes Numb and How to Fix It',
     excerpt: 'Tingling in your ring and pinky fingers? Cubital tunnel syndrome is the second most common nerve compression. Here\'s what helps.',
