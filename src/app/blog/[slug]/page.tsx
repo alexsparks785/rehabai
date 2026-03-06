@@ -13,6 +13,969 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'snapping-hip-syndrome-treatment': {
+    title: 'Snapping Hip Syndrome: Why Your Hip Pops and What to Do About It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is Snapping Hip Syndrome?
+
+Snapping hip syndrome (coxa saltans) is a condition where you feel—and sometimes hear—a snapping sensation in your hip during movement. It can occur when walking, getting up from a chair, or swinging your leg.
+
+For many people, it's just an annoyance. For others, it causes pain and interferes with activity.
+
+## Types of Snapping Hip
+
+### External Snapping (Most Common)
+
+**What snaps:** Iliotibial band (IT band) or gluteus maximus tendon
+**Where:** Outside of hip
+**When:** Usually with hip flexion/extension
+
+The IT band slides over the greater trochanter (bony bump on outside of hip). If tight, it snaps over this prominence.
+
+### Internal Snapping
+
+**What snaps:** Iliopsoas tendon (hip flexor)
+**Where:** Front of hip, deep
+**When:** Hip extension to flexion, rotating leg
+
+The iliopsoas tendon catches on bony structures in the pelvis as it slides over during movement.
+
+### Intra-Articular Snapping
+
+**What snaps:** Loose body, labral tear, or cartilage issue
+**Where:** Deep in joint
+**When:** Various movements
+
+This is less a "snapping" syndrome and more joint pathology that happens to cause clicking.
+
+## Who Gets It?
+
+### Common in
+
+- Dancers (especially ballet)
+- Runners
+- Soccer players
+- Athletes with repetitive hip flexion
+- Young adults and adolescents
+- More common in women
+
+### Risk Factors
+
+- Tight IT band or hip flexors
+- Muscle imbalances
+- Increased activity levels
+- Hip anatomy variations
+- Previous hip injury
+
+## Symptoms
+
+### The Snap
+
+- Audible pop or click
+- Palpable sensation of something sliding
+- Reproducible with specific movements
+
+### With or Without Pain
+
+**Painless snapping:**
+- Very common
+- Often doesn't need treatment
+- May be lifelong without issue
+
+**Painful snapping:**
+- Occurs with repetition or prolonged activity
+- May have associated bursitis
+- Benefits from treatment
+
+### Associated Issues
+
+- Hip flexor tendinitis
+- Greater trochanteric bursitis
+- Hip weakness
+- Limited flexibility
+
+## Diagnosis
+
+### Usually Clinical
+
+- History and physical exam often sufficient
+- Reproduction of snapping during exam
+
+### Imaging (If Needed)
+
+**Ultrasound:**
+- Can visualize snapping in real-time
+- Shows tendon movement dynamically
+
+**MRI:**
+- Rules out intra-articular pathology
+- Evaluates for labral tears, loose bodies
+
+**X-rays:**
+- Rule out bony abnormalities
+- Usually normal in snapping hip
+
+## Treatment
+
+### When Treatment Is Needed
+
+- Snapping causes pain
+- Interferes with activity
+- Associated bursitis or tendinitis
+
+### Stretching
+
+**For external snapping (IT band):**
+
+IT band stretch:
+- Cross affected leg behind
+- Side bend away
+- Hold 30 seconds
+
+Foam rolling:
+- Roll outer thigh
+- Avoid directly over trochanter
+- 1-2 minutes
+
+**For internal snapping (iliopsoas):**
+
+Hip flexor stretch:
+- Half-kneeling position
+- Tuck pelvis under
+- Lean forward
+- Hold 30 seconds
+
+90-90 hip flexor stretch:
+- More advanced position
+- Targets deeper hip flexor
+
+### Strengthening
+
+**Hip abductors:**
+- Side-lying leg raises
+- Clamshells
+- Banded walks
+
+**Glutes:**
+- Bridges
+- Single-leg deadlifts
+- Hip thrusts
+
+**Core:**
+- Planks
+- Dead bugs
+- Stabilization work
+
+**Why it helps:**
+Better hip stability and muscle balance reduces abnormal tendon movement.
+
+### Activity Modification
+
+- Reduce repetitive hip flexion temporarily
+- Modify dance or sport activities
+- Return gradually as symptoms allow
+
+### Manual Therapy
+
+- Soft tissue work on tight structures
+- Joint mobilization
+- Can provide relief and improve tissue mobility
+
+## Injections
+
+### When Considered
+
+- Persistent pain despite conservative treatment
+- Associated bursitis
+
+### Options
+
+**Corticosteroid injection:**
+- Into bursa or around tendon
+- Reduces inflammation
+- May provide temporary or lasting relief
+
+**Ultrasound-guided:**
+- More accurate placement
+- Better outcomes
+
+## Surgery (Rare)
+
+### Indications
+
+- Failed 6+ months conservative treatment
+- Significant pain and functional limitation
+
+### Options
+
+**IT band release:**
+- Lengthening or release of IT band
+- For external snapping
+
+**Iliopsoas tendon release:**
+- Partial or complete release
+- For internal snapping
+- Can be done arthroscopically
+
+### Outcomes
+
+- Generally good for appropriately selected patients
+- Some may have mild weakness after iliopsoas release
+
+## Living With Snapping Hip
+
+### If Painless
+
+- No treatment needed
+- May continue normal activities
+- Some people have it their entire lives without issue
+
+### If Painful
+
+- Consistent stretching and strengthening
+- Activity modification during flares
+- Usually manageable with conservative care
+
+### For Dancers/Athletes
+
+- Proper warm-up essential
+- Maintain hip flexibility
+- Address muscle imbalances
+- Consider technique modifications
+
+---
+
+Snapping hip is common and usually benign. If it's painless, don't worry about it. If it hurts, stretching the tight structures, strengthening the weak ones, and modifying activity usually works. Surgery is rarely needed but effective when conservative treatment fails.
+`
+  },
+  'ankle-impingement-treatment': {
+    title: 'Ankle Impingement: Why Your Ankle Pinches and How to Fix It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is Ankle Impingement?
+
+Ankle impingement is a pinching sensation in the ankle joint. Soft tissue or bone gets compressed between the ankle bones during certain movements, causing pain and limited motion.
+
+There are two types: anterior (front) and posterior (back) impingement.
+
+## Anterior Ankle Impingement
+
+### What Gets Pinched
+
+- Soft tissue (synovium, scar tissue)
+- Bone spurs on tibia or talus
+- Joint capsule
+
+### When It Happens
+
+- Deep dorsiflexion (bringing toes toward shin)
+- Deep squats
+- Going downstairs
+- Uphill walking
+- Landing from jumps
+
+### Who Gets It
+
+- Athletes (especially soccer, basketball, dance)
+- People with history of ankle sprains
+- Squatters and CrossFit athletes
+- After ankle injuries
+
+### Symptoms
+
+- Pain at front of ankle
+- Pinching with deep ankle bend
+- Limited dorsiflexion
+- Swelling at front of ankle
+- May feel like ankle "blocks"
+
+## Posterior Ankle Impingement
+
+### What Gets Pinched
+
+- Os trigonum (extra bone behind ankle, present in 10-25% of people)
+- Soft tissue behind ankle
+- FHL tendon (flexor hallucis longus)
+
+### When It Happens
+
+- Pointing toes (plantarflexion)
+- Going en pointe (ballet)
+- Kicking (soccer)
+- Pushing off in sprints
+
+### Who Gets It
+
+- Ballet dancers (classic cause)
+- Soccer players
+- Gymnasts
+- Swimmers (flutter kick)
+
+### Symptoms
+
+- Pain at back of ankle
+- Worse with pointing toes
+- Deep ache behind ankle
+- May have clicking
+
+## Causes
+
+### Anterior Impingement
+
+**Bone spurs:**
+- Form after repeated microtrauma
+- "Footballer's ankle"
+- Block normal motion
+
+**Soft tissue scarring:**
+- After ankle sprains
+- Synovial thickening
+- Scar tissue fills space
+
+### Posterior Impingement
+
+**Os trigonum:**
+- Extra bone present from birth
+- Becomes problematic with repetitive plantarflexion
+
+**Soft tissue:**
+- Capsule thickening
+- Synovitis
+
+## Diagnosis
+
+### Physical Exam
+
+**Anterior:**
+- Pain with forced dorsiflexion
+- Tenderness at anterior joint line
+
+**Posterior:**
+- Pain with forced plantarflexion
+- Tenderness behind ankle
+
+### Imaging
+
+**X-rays:**
+- Show bone spurs, os trigonum
+- Standing and lateral views
+
+**MRI:**
+- Evaluates soft tissue
+- Shows inflammation, scarring
+- Identifies os trigonum
+
+**CT:**
+- Best for bone detail
+- Surgical planning
+
+## Treatment
+
+### Conservative Treatment
+
+**Activity modification:**
+- Avoid aggravating movements temporarily
+- Modify technique if possible
+
+**Heel lifts (anterior):**
+- Reduce dorsiflexion demand
+- Temporary measure
+
+**Physical therapy:**
+
+For anterior impingement:
+- Improve ankle mobility at surrounding joints
+- Strengthen ankle stabilizers
+- Manual mobilization
+- Sometimes, accepting less dorsiflexion ROM
+
+For posterior impingement:
+- Avoid full plantarflexion initially
+- Strengthen surrounding muscles
+- Address contributing factors
+
+### Manual Therapy
+
+**Joint mobilization:**
+- Improve accessory motions
+- Create space in joint
+
+**Soft tissue work:**
+- Address scar tissue
+- Reduce soft tissue restrictions
+
+### Exercises
+
+**Ankle mobility:**
+- Banded ankle distractions
+- Weight-bearing ankle rocks
+- Wall ankle stretches (anterior)
+
+**Strengthening:**
+- Calf raises (both directions)
+- Ankle inversions/eversions
+- Single-leg balance
+
+### Injections
+
+**Corticosteroid:**
+- Reduces inflammation
+- Diagnostic and therapeutic
+- May provide lasting relief for soft tissue impingement
+
+## Surgery
+
+### When Indicated
+
+- Failed 3-6 months conservative treatment
+- Significant functional limitation
+- Large bone spurs
+- Os trigonum causing persistent symptoms
+
+### Options
+
+**Anterior debridement:**
+- Arthroscopic removal of bone spurs and scar tissue
+- Good outcomes
+- Return to sport 6-12 weeks
+
+**Posterior excision:**
+- Removal of os trigonum
+- Debridement of soft tissue
+- Arthroscopic or open
+- Recovery similar
+
+### Outcomes
+
+- Generally excellent for appropriate cases
+- Most athletes return to full activity
+- Recurrence possible but uncommon
+
+## For Specific Populations
+
+### Ballet Dancers (Posterior)
+
+- En pointe work may need modification during treatment
+- Focus on strength and technique
+- May need surgical excision if os trigonum problematic
+
+### Squatters (Anterior)
+
+- Heel lifts or squat shoes can help
+- Work on hip mobility to reduce ankle demand
+- Consider stance modifications
+
+### Soccer Players
+
+- Both types common
+- Technique modification for kicking
+- Often need surgical clearance eventually
+
+## Prevention
+
+- Proper rehabilitation after ankle sprains
+- Maintain ankle mobility
+- Address swelling promptly
+- Avoid repetitive extremes of motion when symptomatic
+
+---
+
+Ankle impingement is frustrating because it limits basic movements. Conservative treatment works for many, especially soft tissue cases. Bone spurs and os trigonum often need surgical removal if they're truly causing the problem—and surgery outcomes are generally very good.
+`
+  },
+  'biceps-tendonitis-shoulder-treatment': {
+    title: 'Biceps Tendonitis: Why the Front of Your Shoulder Hurts',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is Biceps Tendonitis?
+
+Biceps tendonitis is inflammation or irritation of the biceps tendon at the shoulder. The long head of the biceps runs through a groove at the front of your shoulder, making it vulnerable to injury with overhead and lifting activities.
+
+## Anatomy
+
+The biceps has two heads:
+- **Long head:** Attaches to the top of the shoulder socket (labrum), runs through the shoulder joint
+- **Short head:** Attaches to the coracoid process of the scapula
+
+Most biceps tendonitis involves the long head where it passes through the bicipital groove.
+
+## What Causes It?
+
+### Overuse
+
+- Repetitive overhead movements
+- Lifting with poor form
+- Throwing sports
+- Swimming
+- Racquet sports
+
+### Associated Conditions
+
+Biceps tendonitis rarely exists alone. It's often associated with:
+- Rotator cuff problems (very common)
+- Shoulder impingement
+- Labral tears (SLAP lesions)
+- Instability
+
+### Contributing Factors
+
+- Age (degeneration over time)
+- Poor posture
+- Muscle imbalances
+- Sudden increase in activity
+- Prior shoulder injury
+
+## Symptoms
+
+### Classic Presentation
+
+- Pain at front of shoulder
+- Tender in bicipital groove
+- Pain with overhead reaching
+- Pain lifting objects
+- Aching after activity
+- Pain reaching behind back
+
+### What Makes It Worse
+
+- Overhead pressing
+- Carrying heavy objects
+- Turning palm up against resistance
+- Reaching back (like fastening bra)
+- Lying on affected side
+
+### May Also Feel
+
+- Clicking or snapping at front of shoulder
+- Weakness with lifting
+- Radiating pain to biceps
+
+## Diagnosis
+
+### Physical Exam
+
+**Speed's test:**
+- Resist shoulder flexion with arm straight, palm up
+- Positive if reproduces pain
+
+**Yergason's test:**
+- Resist supination and elbow flexion
+- Pain at bicipital groove = positive
+
+**Palpation:**
+- Tenderness directly over bicipital groove
+
+### Imaging
+
+**X-rays:**
+- Usually normal
+- Rule out other issues
+
+**MRI:**
+- Shows tendon inflammation, partial tears
+- Evaluates rotator cuff and labrum
+
+**Ultrasound:**
+- Dynamic evaluation
+- Can see tendon inflammation
+- Cost-effective
+
+## Treatment
+
+### Rest and Activity Modification
+
+**Avoid:**
+- Overhead lifting
+- Heavy lifting with arms extended
+- Sleeping on affected side
+
+**Continue:**
+- Light activity within tolerance
+- Daily activities as able
+
+### Ice
+
+- 15-20 minutes after activity
+- Reduces inflammation
+
+### NSAIDs
+
+- Help with pain and inflammation
+- Short-term use
+
+### Physical Therapy
+
+**Key focus areas:**
+
+Rotator cuff strengthening:
+- External rotation
+- Rows with retraction
+- Essential for shoulder mechanics
+
+Scapular stabilization:
+- Lower trapezius strengthening
+- Serratus anterior work
+- Foundation for shoulder health
+
+Biceps stretching:
+- Arm behind back, palm out
+- Gentle stretch at front of shoulder
+
+Posture correction:
+- Address rounded shoulders
+- Improve thoracic extension
+
+### Exercises
+
+**External rotation:**
+- Band or dumbbell
+- Elbow at side
+- 3 sets of 15
+
+**Scapular retraction:**
+- Squeeze shoulder blades
+- Hold 5 seconds
+- 15 reps
+
+**Rows:**
+- Focus on scapular movement
+- Don't shrug
+- 3 sets of 12
+
+**Sleeper stretch (internal rotation):**
+- Lie on affected side
+- Push forearm down gently
+- Improves posterior capsule mobility
+
+### Injections
+
+**When considered:**
+- Failed 4-6 weeks conservative treatment
+- Significant pain
+
+**Corticosteroid injection:**
+- Into bicipital groove
+- Reduces inflammation
+- May provide lasting relief
+- Limit repeat injections (tendon weakening)
+
+## Surgery
+
+### Rarely Needed
+
+Most biceps tendonitis resolves with conservative treatment.
+
+### Indications
+
+- Failed 3-6 months conservative treatment
+- Significant partial tear or full tear
+- Associated labral tear requiring repair
+
+### Options
+
+**Biceps tenodesis:**
+- Reattach tendon lower on arm
+- Most common procedure
+
+**Biceps tenotomy:**
+- Release tendon (for older, less active patients)
+- May result in "Popeye" bulge but usually painless
+
+### Recovery
+
+- Sling 2-4 weeks
+- Gradual return to activities
+- Full recovery 3-4 months
+
+## Prevention
+
+### Maintain Shoulder Balance
+
+- Strong rotator cuff
+- Good scapular control
+- Adequate flexibility
+
+### Proper Technique
+
+- Lift with good form
+- Don't overload shoulders
+- Progress gradually
+
+### Posture
+
+- Avoid prolonged forward shoulder position
+- Take breaks from desk work
+
+---
+
+Biceps tendonitis is usually part of a bigger shoulder picture. Treating just the biceps without addressing rotator cuff strength, scapular stability, and posture won't give lasting results. Fix the mechanics, and the biceps tendon usually calms down.
+`
+  },
+  'quadriceps-tendonitis-treatment': {
+    title: 'Quadriceps Tendonitis: Pain Above the Kneecap and How to Treat It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is Quadriceps Tendonitis?
+
+Quadriceps tendonitis is pain and inflammation at the quadriceps tendon where it attaches to the top of the kneecap (patella). It's the less famous cousin of patellar tendonitis ("jumper's knee"), which affects the bottom of the kneecap.
+
+Both are forms of tendinopathy—the tendon breaks down from repetitive stress faster than it can repair.
+
+## Who Gets It?
+
+### Common in
+
+- Older athletes (more common than patellar tendonitis in 40+)
+- Runners
+- Jumpers and basketball players
+- Cyclists
+- Anyone with repetitive knee extension
+- People with knee arthritis
+
+### Risk Factors
+
+- Age (more common in older athletes)
+- Sudden increase in activity
+- Weak quadriceps
+- Tight quadriceps
+- Poor training habits
+- Obesity
+
+## Symptoms
+
+### Classic Presentation
+
+- Pain directly above kneecap
+- Worse with activity (stairs, running, jumping)
+- Stiffness after rest
+- Pain when kneeling on knee
+- May have swelling above patella
+
+### What Makes It Worse
+
+- Climbing stairs
+- Getting up from sitting
+- Running and jumping
+- Deep squats
+- Kneeling
+
+### What Helps
+
+- Rest
+- Ice after activity
+- Gradual warm-up
+- Activity modification
+
+## How It's Different From Patellar Tendonitis
+
+### Quadriceps Tendonitis
+
+- Pain ABOVE kneecap
+- More common in older athletes
+- Same tendon mechanism, different location
+
+### Patellar Tendonitis
+
+- Pain BELOW kneecap
+- More common in younger athletes
+- Classic "jumper's knee"
+
+Treatment principles are similar for both.
+
+## Diagnosis
+
+### Physical Exam
+
+- Tenderness at superior pole of patella
+- Pain with resisted knee extension
+- Pain with single leg squat or step down
+- Swelling may be present
+
+### Imaging
+
+**Ultrasound:**
+- Shows tendon thickening, changes
+- Dynamic evaluation possible
+
+**MRI:**
+- Detailed tendon evaluation
+- Rules out other pathology
+
+**X-rays:**
+- Usually normal
+- May show calcification in chronic cases
+
+## Treatment
+
+### The Key Principle: Progressive Loading
+
+Rest doesn't fix tendinopathy. The tendon needs controlled stress to remodel and heal. But the load must be appropriate—not too much, not too little.
+
+### Isometric Exercise (Phase 1)
+
+Start here, especially if painful:
+
+**Quad isometrics:**
+- Sit with leg straight
+- Tighten quad, push knee down
+- Hold 30-45 seconds
+- 5 repetitions, 2-3x daily
+
+**Wall sit:**
+- Back against wall
+- Knees at comfortable angle (not too deep)
+- Hold 30-45 seconds
+- 4-5 reps
+
+### Eccentric Exercise (Phase 2)
+
+Once pain is more controlled:
+
+**Slow decline squats:**
+- Stand on slight decline (or heels elevated)
+- Squat slowly (3-4 seconds down)
+- Rise normally
+- 3 sets of 15
+
+**Single-leg decline squat:**
+- Progress when double-leg is easy
+- Same slow tempo
+- 3 sets of 12
+
+### Heavy Slow Resistance (Phase 3)
+
+**Leg press:**
+- Heavy weight, slow tempo
+- 4 seconds down, 3 seconds up
+- 4 sets of 6-8
+
+**Squat:**
+- Same slow tempo
+- Progressive weight
+- 4 sets of 6-8
+
+### Additional Exercises
+
+**Hip strengthening:**
+- Clamshells
+- Side-lying leg raises
+- Bridges
+- Hip weakness contributes to knee stress
+
+**Flexibility:**
+- Quad stretching (gentle)
+- Hip flexor stretching
+- Foam rolling (carefully)
+
+### Activity Modification
+
+- Reduce volume of aggravating activities
+- Don't stop completely unless severe
+- Cross-train with low-impact activities
+- Progress gradually back to full activity
+
+### Other Treatments
+
+**Ice:**
+- After activity
+- 15-20 minutes
+- Helps with pain management
+
+**NSAIDs:**
+- Short-term for pain
+- Don't rely on long-term
+
+## Injections
+
+### Corticosteroid
+
+**Caution required:**
+- Can weaken tendon
+- Generally avoided or used sparingly
+- Risk of tendon rupture
+
+### PRP (Platelet-Rich Plasma)
+
+- Growing evidence for tendinopathy
+- May help stimulate healing
+- Not first-line treatment
+
+## Surgery (Rare)
+
+### Indications
+
+- Failed 6+ months conservative treatment
+- Complete rupture (emergency)
+
+### Options
+
+- Debridement of damaged tendon
+- Repair if rupture
+
+### Quad Tendon Rupture
+
+- More common in older adults
+- Often with chronic tendinopathy
+- Sudden inability to straighten knee
+- Requires surgical repair
+
+## Timeline
+
+### Typical Recovery
+
+- Mild: 4-6 weeks
+- Moderate: 6-12 weeks
+- Chronic: 3-6 months
+
+### What Matters Most
+
+- Consistent progressive loading
+- Not resting too much
+- Not doing too much
+- Patience
+
+## Prevention
+
+### Strength Training
+
+- Regular quadriceps strengthening
+- Include eccentric component
+- Year-round, not seasonal
+
+### Gradual Progression
+
+- Follow 10% rule for activity increases
+- Allow recovery between hard sessions
+
+### Flexibility
+
+- Maintain quad and hip flexor flexibility
+- Dynamic warm-up before activity
+
+### Address Contributing Factors
+
+- Proper footwear
+- Running form if applicable
+- Hip strength
+
+---
+
+Quadriceps tendonitis responds to the same principles as other tendinopathies: progressive loading, not rest. Start with isometrics, progress through eccentrics to heavy slow resistance, and be patient. Most cases resolve with consistent exercise, but it takes time.
+`
+  },
   'tailbone-pain-coccydynia-treatment': {
     title: 'Tailbone Pain: Why Sitting Hurts and How to Find Relief',
     date: '2026-03-06',

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'snapping-hip-syndrome-treatment',
+    title: 'Snapping Hip Syndrome: Why Your Hip Pops and What to Do About It',
+    excerpt: 'Hip clicking or popping with movement? Snapping hip is common in dancers and athletes. Here\'s what causes it and when it needs treatment.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'ankle-impingement-treatment',
+    title: 'Ankle Impingement: Why Your Ankle Pinches and How to Fix It',
+    excerpt: 'Pain at the front or back of your ankle with deep squats or pointing your toes? Ankle impingement might be the cause.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'biceps-tendonitis-shoulder-treatment',
+    title: 'Biceps Tendonitis: Why the Front of Your Shoulder Hurts',
+    excerpt: 'Pain at the front of your shoulder that worsens with lifting? Your biceps tendon might be the problem. Here\'s how to fix it.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'quadriceps-tendonitis-treatment',
+    title: 'Quadriceps Tendonitis: Pain Above the Kneecap and How to Treat It',
+    excerpt: 'Pain just above your kneecap? Quad tendonitis is the less-famous cousin of jumper\'s knee. Here\'s the evidence-based approach.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
     slug: 'tailbone-pain-coccydynia-treatment',
     title: 'Tailbone Pain: Why Sitting Hurts and How to Find Relief',
     excerpt: 'Can\'t sit without pain? Coccydynia is frustrating but treatable. Here\'s what causes tailbone pain and what actually helps.',
