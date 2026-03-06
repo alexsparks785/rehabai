@@ -13,6 +13,378 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'understanding-mri-xray-results': {
+    title: 'Understanding Your MRI or X-Ray Results: What Those Findings Actually Mean',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Imaging Anxiety Problem
+
+You got an MRI or X-ray, and the report is full of scary-sounding terms: degeneration, bulging disc, tear, arthritis. Before you panic, understand this: **many "abnormal" findings are completely normal for your age and don't explain your pain.**
+
+## The Surprising Truth
+
+### Normal People Have "Abnormal" Scans
+
+Studies of people with NO pain show:
+
+**Spine MRI (no back pain):**
+- 30% of 20-year-olds have disc degeneration
+- 60% of 50-year-olds have disc degeneration
+- 80% of 80-year-olds have disc degeneration
+- Bulging discs present in 30-80% depending on age
+
+**Shoulder MRI (no shoulder pain):**
+- 20% of 50-year-olds have rotator cuff tears
+- 50% of 60-year-olds have rotator cuff tears
+- Many never develop symptoms
+
+**Knee MRI (no knee pain):**
+- Meniscus abnormalities common over 40
+- Cartilage changes normal with age
+
+### What This Means
+
+Finding something on imaging doesn't mean it's causing your pain. Correlation isn't causation.
+
+## Common Scary Terms (Explained)
+
+### Spine Findings
+
+**Degenerative disc disease:**
+- Normal aging of discs
+- Not actually a "disease"
+- Very common, often not painful
+
+**Bulging disc:**
+- Disc extends beyond normal boundary
+- Extremely common
+- Usually not pressing on anything important
+
+**Herniated/protruded disc:**
+- More significant bulge
+- May or may not cause symptoms
+- Many resolve without surgery
+
+**Stenosis:**
+- Narrowing of spinal canal
+- Common with age
+- Severity matters
+
+**Arthritis/spondylosis:**
+- Normal wear and tear
+- Nearly universal with age
+- Doesn't always hurt
+
+### Joint Findings
+
+**Osteoarthritis:**
+- Wear and tear changes
+- Extremely common over 40
+- Severity varies widely
+
+**Meniscus tear:**
+- Can be traumatic or degenerative
+- Degenerative tears common and often painless
+- Treatment depends on type and symptoms
+
+**Tendinosis/tendinopathy:**
+- Tendon changes
+- Common in overused tendons
+- Often responds to exercise
+
+**Labral tear:**
+- Cartilage ring damage (shoulder/hip)
+- Common finding
+- Significance varies
+
+## When Findings DO Matter
+
+### Red Flags
+
+- Findings that match your exact symptoms
+- Progressive neurological deficits
+- Signs of serious disease (tumor, infection, fracture)
+- Significant structural damage
+
+### Clinical Correlation
+
+The key question: **Does the imaging finding match your symptoms and physical exam?**
+
+A disc bulge at L4-5 in someone with L4-5 symptoms = relevant.
+A disc bulge at L4-5 in someone with shoulder pain = probably incidental.
+
+## How to Interpret Your Results
+
+### Step 1: Don't Google
+
+Searching terms from your report will scare you. The internet shows worst-case scenarios.
+
+### Step 2: Talk to Your Provider
+
+Ask:
+- Which findings are relevant to my symptoms?
+- Which are just normal aging?
+- What does this mean for treatment?
+- Do I need further evaluation?
+
+### Step 3: Remember the Context
+
+- Your symptoms matter more than the image
+- Many findings improve or resolve
+- Conservative treatment works for most
+
+## Why Imaging Can Be Harmful
+
+### Nocebo Effect
+
+Being told you have "degeneration" or "tears" can:
+- Increase fear and anxiety
+- Make you move less
+- Lead to more pain (mind-body connection)
+- Create disability from fear
+
+### Overtreatment
+
+Findings lead to:
+- Unnecessary surgery
+- Excessive interventions
+- Treatment of things that weren't causing problems
+
+## When to Get Imaging
+
+### Usually Needed
+
+- Trauma with possible fracture
+- Symptoms suggesting serious disease
+- Progressive neurological symptoms
+- Pre-surgical planning
+- Not responding to treatment
+
+### Often NOT Needed
+
+- Routine low back pain
+- Most musculoskeletal pain without red flags
+- First few weeks of a new problem
+
+### The Right Approach
+
+Imaging should change management. If it won't affect treatment decisions, it may not be needed.
+
+## Questions for Your Doctor
+
+1. Is this finding likely causing my pain?
+2. Would people my age without pain have similar findings?
+3. Does this change what we should do?
+4. What would happen if we didn't find this?
+5. Is surgery the only option, or can we try conservative treatment?
+
+## The Bottom Line
+
+- Most imaging findings are normal aging
+- Finding something doesn't mean it's causing your pain
+- Clinical correlation is everything
+- Don't let a report make you feel broken
+- Treatment decisions should be based on symptoms, not just images
+
+---
+
+Your imaging report is one piece of information, not a verdict. Many people with "terrible" imaging live pain-free, and many with "clean" scans have significant pain. Focus on function, not films.
+`
+  },
+  'do-i-need-surgery-decision-guide': {
+    title: 'Do I Need Surgery? How to Know When It\'s Necessary and When to Wait',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Surgery: Rarely the First Option
+
+For most musculoskeletal problems, surgery is not the first-line treatment. Conservative care—physical therapy, exercise, lifestyle changes—should usually be tried first. Surgery is for when those approaches fail or when there's a clear indication.
+
+## When Surgery IS Necessary
+
+### Emergencies
+
+**Go to ER/urgent surgery:**
+- Cauda equina syndrome (loss of bowel/bladder control, saddle numbness)
+- Severe trauma with fracture or dislocation
+- Acute compartment syndrome
+- Complete tendon rupture affecting function
+- Joint infection
+
+### Clear Indications
+
+**Surgery often appropriate:**
+- Unstable fractures
+- Complete ligament tears in athletes (ACL, etc.)
+- Significant structural damage affecting function
+- Progressive neurological deficit
+- Failed extensive conservative treatment (3-6+ months)
+- Severe arthritis significantly limiting quality of life
+
+## When Surgery Can Often Wait
+
+### Most Back Pain
+
+- 90% resolve without surgery
+- Conservative treatment first (6-12 weeks minimum)
+- Surgery for herniated disc usually elective
+
+### Most Joint Pain
+
+- Arthritis rarely requires immediate surgery
+- Physical therapy and lifestyle changes first
+- Joint replacement when quality of life significantly affected
+
+### Most Tendon Problems
+
+- Tendinopathy usually responds to exercise
+- Partial tears often heal with rehab
+- Surgery reserved for failed conservative care
+
+### Most Meniscus Tears
+
+- Degenerative tears often don't need surgery
+- Physical therapy as effective for many
+- Surgery for mechanical symptoms (locking, catching)
+
+## Questions to Ask Your Surgeon
+
+### About the Condition
+
+- What exactly is wrong?
+- Is this likely causing my symptoms?
+- What happens if I don't have surgery?
+
+### About Surgery
+
+- What does the procedure involve?
+- What are the risks?
+- What's the success rate?
+- How many of these have you done?
+
+### About Alternatives
+
+- What non-surgical options exist?
+- Have I exhausted conservative treatment?
+- What's the harm in waiting?
+
+### About Recovery
+
+- What will recovery look like?
+- How long until I'm back to normal?
+- What rehab will I need?
+- What are realistic expectations?
+
+## Red Flags in Decision-Making
+
+### Be Cautious If
+
+- Surgeon recommends surgery on first visit without trying conservative care
+- You feel pressured to decide quickly (non-emergency)
+- No discussion of alternatives
+- Guarantees of results (nothing is guaranteed)
+- Your symptoms don't match the proposed surgery
+
+### Consider Second Opinion If
+
+- Major surgery recommended
+- You have doubts
+- Recommendation differs from guidelines
+- You want reassurance
+
+## Conservative Treatment First
+
+### What to Try Before Surgery
+
+**Physical therapy:**
+- 6-12 weeks minimum for most conditions
+- Proper exercise prescription
+- Often as effective as surgery for many conditions
+
+**Lifestyle modifications:**
+- Weight loss
+- Activity modification
+- Ergonomic changes
+
+**Medications:**
+- Anti-inflammatories
+- Pain management
+- Time
+
+**Injections:**
+- Corticosteroids
+- May provide relief
+- Not a permanent fix but can help
+
+### How Long to Try
+
+- Most conditions: 6-12 weeks minimum
+- Chronic conditions: 3-6 months
+- Unless emergency or clear surgical indication
+
+## The Decision Matrix
+
+### Surgery More Likely Appropriate
+
+- Clear structural problem causing symptoms
+- Conservative treatment truly failed (adequate trial)
+- Significant functional limitation
+- Progressive worsening
+- Benefits clearly outweigh risks
+
+### Surgery Less Likely Appropriate
+
+- Imaging finding doesn't match symptoms
+- Haven't tried adequate conservative care
+- Minimal functional limitation
+- Stable or improving
+- High surgical risk
+
+## After You Decide
+
+### If Surgery
+
+- Understand the procedure
+- Complete pre-surgical requirements
+- Prehab if possible (strengthening before surgery)
+- Arrange post-surgical help
+- Commit to rehabilitation
+
+### If Not Surgery
+
+- Continue conservative treatment
+- Set follow-up criteria
+- Know when to reconsider
+- Stay engaged in your care
+
+## Shared Decision-Making
+
+The best surgical decisions involve:
+- Your values and preferences
+- The evidence for and against
+- The surgeon's expertise
+- Open communication
+
+You should feel informed, not pressured.
+
+## The Honest Truth
+
+- Surgery has its place
+- But it's overused for some conditions
+- Conservative care works for many problems
+- Second opinions are valuable
+- You have time for most decisions
+
+---
+
+The question isn't just "do I need surgery?" but "will surgery give me a better outcome than continuing conservative treatment?" For many conditions, the answer is no—or at least not yet. Take your time, ask questions, and make sure you've truly given non-surgical options a fair chance.
+`
+  },
   'reduce-inflammation-naturally': {
     title: 'How to Reduce Inflammation Naturally: Diet, Exercise, and Lifestyle',
     date: '2026-03-06',

@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'understanding-mri-xray-results',
+    title: 'Understanding Your MRI or X-Ray Results: What Those Findings Actually Mean',
+    excerpt: 'Got scary-sounding imaging results? Many "abnormal" findings are normal. Here\'s how to understand what matters.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'do-i-need-surgery-decision-guide',
+    title: 'Do I Need Surgery? How to Know When It\'s Necessary and When to Wait',
+    excerpt: 'Surgery is sometimes needed, but not as often as you might think. Here\'s how to make an informed decision.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'reduce-inflammation-naturally',
     title: 'How to Reduce Inflammation Naturally: Diet, Exercise, and Lifestyle',
     excerpt: 'Chronic inflammation contributes to pain and disease. Here\'s what actually helps reduce it naturally.',
