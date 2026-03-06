@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'self-massage-tennis-ball-techniques',
+    title: 'Self-Massage with a Tennis Ball: Target Tight Muscles at Home',
+    excerpt: 'No massage therapist needed. Here\'s how to release tight muscles with just a tennis ball or lacrosse ball.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'resistance-bands-rehab-exercises',
+    title: 'Resistance Bands for Rehab: Exercises for Every Body Part',
+    excerpt: 'Resistance bands are perfect for rehab. Portable, affordable, and versatile. Here\'s how to use them effectively.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'do-massage-guns-work',
+    title: 'Do Massage Guns Work? The Evidence and How to Use Them',
+    excerpt: 'Massage guns are everywhere. But do they actually help? Here\'s what the research says and how to use one properly.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'pt-vs-orthopedist-vs-chiropractor',
+    title: 'PT vs Orthopedist vs Chiropractor: Who Should You See for Pain?',
+    excerpt: 'Not sure which provider to see for your pain? Here\'s what each type does and when to choose them.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'best-sleeping-positions-back-pain',
     title: 'Best Sleeping Positions for Back Pain: How to Wake Up Without Stiffness',
     excerpt: 'Waking up stiff and sore? Your sleep position might be the problem. Here\'s how to sleep better for your back.',

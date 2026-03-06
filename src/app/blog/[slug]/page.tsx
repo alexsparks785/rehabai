@@ -13,6 +13,967 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'self-massage-tennis-ball-techniques': {
+    title: 'Self-Massage with a Tennis Ball: Target Tight Muscles at Home',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Why Tennis Ball Massage Works
+
+Self-massage with a tennis ball (or lacrosse ball for deeper pressure) is a simple way to release muscle tension, reduce trigger points, and improve mobility. It's free, portable, and you can do it anytime.
+
+## Choosing Your Ball
+
+### Tennis Ball
+
+- Softer, more forgiving
+- Good for beginners
+- Best for sensitive areas
+- Less intense pressure
+
+### Lacrosse Ball
+
+- Firmer, more intense
+- Deeper pressure
+- Better for larger muscles
+- Can be too much for some areas
+
+### Other Options
+
+- Massage balls (various firmnesses)
+- Racquetballs (medium firmness)
+- Softball (larger surface area)
+
+## How to Use
+
+### Basic Technique
+
+1. Place ball between your body and floor/wall
+2. Find a tender spot
+3. Apply pressure (manageable discomfort, not pain)
+4. Hold for 30-90 seconds
+5. Or slowly roll over the area
+6. Breathe and relax
+
+### Pressure Guidelines
+
+- Start lighter than you think
+- Gradually increase pressure
+- Should feel like "good hurt" (5-7/10)
+- Never sharp or nerve pain
+- If you're tensing up, it's too much
+
+## Upper Body Techniques
+
+### Upper Back (Rhomboids/Mid-Trap)
+
+**Position:**
+- Lie on back
+- Place ball between shoulder blade and spine
+- Arms crossed over chest
+
+**Technique:**
+- Find tender spots
+- Hold 60 seconds on each
+- Move arms overhead to change pressure
+
+### Chest (Pec Minor)
+
+**Position:**
+- Face wall
+- Ball between chest (below collarbone) and wall
+- Near where chest meets shoulder
+
+**Technique:**
+- Lean in gently
+- Small circles or hold
+- 60-90 seconds each side
+
+### Shoulder (Rotator Cuff)
+
+**Position:**
+- Lie on back or side
+- Ball under back of shoulder
+
+**Technique:**
+- Adjust position to find tender spots
+- Hold or small movements
+- 60 seconds per spot
+
+### Neck (Suboccipitals)
+
+**Position:**
+- Lie on back
+- Two balls in a sock (or peanut massage ball)
+- Place at base of skull
+
+**Technique:**
+- Let head rest on balls
+- Turn head slowly side to side
+- 2-3 minutes
+
+## Lower Body Techniques
+
+### Glutes
+
+**Position:**
+- Sit on ball
+- Cross one ankle over opposite knee (figure-4)
+- Or lie on back with ball under glute
+
+**Technique:**
+- Roll to find tight spots
+- Hold on tender areas
+- 60-90 seconds each side
+
+### Piriformis (Deep Glute)
+
+**Position:**
+- Sit on ball, lean toward one side
+- Find deep spot in buttock
+
+**Technique:**
+- Smaller movements
+- Hold on tight spot
+- Cross leg over to intensify
+
+### Hamstrings
+
+**Position:**
+- Sit on hard chair or bench
+- Ball under thigh
+
+**Technique:**
+- Roll slowly up and down
+- Find tender spots, hold
+- Move leg to change pressure
+
+### IT Band (Outer Thigh)
+
+**Position:**
+- Lie on side
+- Ball under outer thigh
+
+**Technique:**
+- Roll slowly from hip to knee
+- Stop on tender spots
+- Use hands to control pressure
+
+**Note:** Very tender area—start light
+
+### Calves
+
+**Position:**
+- Sit with leg extended
+- Ball under calf
+
+**Technique:**
+- Stack other leg on top for more pressure
+- Roll ankle side to side
+- Move ball up and down calf
+
+### Feet (Plantar Fascia)
+
+**Position:**
+- Stand or sit
+- Ball under arch of foot
+
+**Technique:**
+- Roll front to back
+- Focus on arch area
+- 2-3 minutes each foot
+- Good for plantar fasciitis
+
+## When to Use
+
+### Good Times
+
+- Morning to loosen up
+- Before exercise (brief, not too deep)
+- After exercise
+- While watching TV
+- Anytime you feel tight
+
+### How Often
+
+- Daily is fine for most people
+- 5-15 minutes total
+- More isn't always better
+- Listen to your body
+
+## When to Avoid
+
+### Don't Roll Over
+
+- Bones (spine, bony prominences)
+- Joints
+- Open wounds
+- Acute injuries (first 48-72 hours)
+- Swollen areas
+- Bruises
+
+### Medical Cautions
+
+- Blood clotting disorders
+- Recent surgery
+- Nerve conditions
+- When in doubt, ask your healthcare provider
+
+## Complementary Techniques
+
+### Combine With
+
+- Stretching after massage
+- Heat before (loosens tissue)
+- Gentle movement
+- Regular exercise
+
+### Part of a Routine
+
+1. Brief self-massage (5 min)
+2. Stretching (5 min)
+3. Exercise
+4. Post-exercise massage (optional)
+
+## Common Mistakes
+
+### Too Much Pressure
+
+- If you're holding breath, it's too much
+- Should be able to relax into it
+
+### Too Long on One Spot
+
+- 2 minutes max per area
+- Move on if not releasing
+
+### Rolling Too Fast
+
+- Slow is more effective
+- Pause on tight spots
+
+### Ignoring Pain
+
+- Sharp pain = stop
+- Nerve symptoms = stop
+- Bruising = too much pressure
+
+---
+
+Self-massage is a simple, effective tool for muscle tension. A tennis ball costs a few dollars and lasts forever. Spend a few minutes daily on your tight spots, and you'll notice a real difference in how you feel.
+`
+  },
+  'resistance-bands-rehab-exercises': {
+    title: 'Resistance Bands for Rehab: Exercises for Every Body Part',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Why Resistance Bands for Rehab?
+
+Resistance bands are perfect for rehabilitation:
+- Variable resistance (easier at start, harder at end)
+- Low impact on joints
+- Portable and affordable
+- Can target any muscle
+- Easy to adjust difficulty
+
+## Types of Bands
+
+### Loop Bands (Mini Bands)
+
+- Closed loops
+- Best for lower body
+- Hip and glute work
+- Various resistance levels
+
+### Therapy Bands (Flat Bands)
+
+- Flat strips, no handles
+- Can tie to create loops
+- Cut to any length
+- Classic rehab tool
+
+### Tube Bands with Handles
+
+- Handles on each end
+- Good for upper body
+- Can attach to doors
+- More comfortable grip
+
+### Choosing Resistance
+
+- Start lighter than you think
+- You should be able to do 15-20 reps
+- Progress to stronger bands as you improve
+- Have multiple resistances available
+
+## Upper Body Exercises
+
+### External Rotation
+
+**Target:** Rotator cuff
+
+**How:**
+- Elbow at side, bent 90°
+- Band attached to side
+- Rotate forearm outward
+- Keep elbow pinned to side
+- 3 sets of 15
+
+### Internal Rotation
+
+**Target:** Rotator cuff
+
+**How:**
+- Elbow at side, bent 90°
+- Band attached away from body
+- Rotate forearm inward
+- Keep elbow at side
+- 3 sets of 15
+
+### Rows
+
+**Target:** Upper back
+
+**How:**
+- Band attached in front at chest height
+- Pull back, squeezing shoulder blades
+- Keep elbows close to body
+- 3 sets of 15
+
+### Pull-Aparts
+
+**Target:** Upper back, rear shoulders
+
+**How:**
+- Hold band in front at shoulder height
+- Pull hands apart, stretching band
+- Squeeze shoulder blades
+- Return slowly
+- 3 sets of 15
+
+### Bicep Curls
+
+**Target:** Biceps
+
+**How:**
+- Stand on band
+- Curl handles/ends to shoulders
+- Keep elbows at sides
+- 3 sets of 15
+
+### Tricep Press-Down
+
+**Target:** Triceps
+
+**How:**
+- Band attached above
+- Press down, straightening elbows
+- Keep upper arms still
+- 3 sets of 15
+
+## Lower Body Exercises
+
+### Clamshells
+
+**Target:** Hip abductors, glutes
+
+**How:**
+- Loop band around thighs above knees
+- Lie on side, knees bent
+- Keep feet together, lift top knee
+- 3 sets of 15 each side
+
+### Side Steps (Monster Walks)
+
+**Target:** Glutes, hip abductors
+
+**How:**
+- Band around ankles or above knees
+- Quarter squat position
+- Step side to side
+- 10 steps each direction, 3 sets
+
+### Glute Bridges with Band
+
+**Target:** Glutes
+
+**How:**
+- Band above knees
+- Lie on back, knees bent
+- Press knees out against band
+- Lift hips, squeeze glutes
+- 3 sets of 15
+
+### Terminal Knee Extension
+
+**Target:** Quadriceps (VMO)
+
+**How:**
+- Band around back of knee, attached behind
+- Slight knee bend
+- Straighten knee fully against resistance
+- 3 sets of 15
+
+### Ankle Dorsiflexion
+
+**Target:** Tibialis anterior
+
+**How:**
+- Band around foot, attached in front
+- Pull toes toward shin
+- 3 sets of 15
+
+### Ankle Plantarflexion
+
+**Target:** Calves
+
+**How:**
+- Band around foot, hold ends
+- Point toes away
+- 3 sets of 15
+
+### Ankle Inversion/Eversion
+
+**Target:** Ankle stabilizers
+
+**How:**
+- Band around foot, attached to side
+- Turn foot in (inversion) or out (eversion)
+- 3 sets of 15 each direction
+
+## Core Exercises
+
+### Pallof Press
+
+**Target:** Core anti-rotation
+
+**How:**
+- Band attached to side at chest height
+- Press hands forward, resist rotation
+- Hold 5 seconds, return
+- 10 reps each side
+
+### Dead Bug with Band
+
+**Target:** Core stability
+
+**How:**
+- Band in hands, attached above
+- Alternate lowering opposite arm/leg
+- Maintain tension on band
+- 10 each side
+
+## Progressions
+
+### Making It Harder
+
+- Use stronger band
+- Slow down the movement
+- Pause at hardest point
+- Add more reps
+- Combine movements
+
+### Making It Easier
+
+- Use lighter band
+- Shorten the band (less stretch)
+- Reduce range of motion
+- Take more rest
+
+## Tips for Success
+
+### Anchor Safely
+
+- Door anchors for home use
+- Sturdy furniture
+- Check band integrity before each use
+- Never attach to sharp edges
+
+### Control the Movement
+
+- No snapping back
+- Slow eccentric (return) phase
+- Full range of motion
+- Quality over quantity
+
+### Check Your Bands
+
+- Look for tears, wear
+- Replace if damaged
+- Latex can degrade over time
+- Never stretch to maximum length
+
+## Sample Routines
+
+### Shoulder Rehab
+
+1. External rotation - 3x15
+2. Internal rotation - 3x15
+3. Rows - 3x15
+4. Pull-aparts - 3x15
+
+### Hip/Glute Strengthening
+
+1. Clamshells - 3x15 each
+2. Side steps - 3x10 each direction
+3. Glute bridges - 3x15
+4. Monster walks - 3x10 each
+
+### Ankle Stability
+
+1. Dorsiflexion - 3x15
+2. Plantarflexion - 3x15
+3. Inversion - 3x15
+4. Eversion - 3x15
+
+---
+
+Resistance bands are one of the most versatile rehab tools available. They're affordable, portable, and effective. Keep a set at home, at work, and when traveling. Consistent use will help you build strength and recover from injury.
+`
+  },
+  'do-massage-guns-work': {
+    title: 'Do Massage Guns Work? The Evidence and How to Use Them',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## What Are Massage Guns?
+
+Massage guns (percussive therapy devices) deliver rapid pulses of pressure into muscle tissue. They've exploded in popularity, with claims ranging from muscle recovery to pain relief to improved performance.
+
+But do they actually work?
+
+## What the Research Says
+
+### The Evidence (So Far)
+
+Research is still emerging, but here's what we know:
+
+**Short-term effects (likely):**
+- Temporary reduction in muscle soreness
+- Increased range of motion (short-term)
+- Increased blood flow to the area
+- Reduced perception of muscle tightness
+
+**Longer-term effects (less clear):**
+- No strong evidence for faster recovery
+- Performance benefits uncertain
+- Pain relief comparable to other methods
+
+### The Bottom Line
+
+Massage guns probably provide short-term benefits similar to other forms of massage and self-massage. They're not magic, but they're not useless either.
+
+## How They Work
+
+### Proposed Mechanisms
+
+- Increased blood flow to muscles
+- Stimulation of proprioceptors
+- Gate control theory (percussion signals override pain signals)
+- Reduction in muscle tension
+- Possible fascial effects
+
+### What They Don't Do
+
+- Build muscle
+- Replace exercise
+- Fix structural problems
+- Provide long-term solutions to chronic issues
+
+## How to Use a Massage Gun
+
+### Basic Guidelines
+
+**Duration:**
+- 30 seconds to 2 minutes per muscle group
+- Don't overdo it
+
+**Pressure:**
+- Let the gun do the work
+- Don't press hard
+- Should feel good, not painful
+
+**Speed:**
+- Start with lower settings
+- Increase as needed
+- Higher isn't always better
+
+**Movement:**
+- Move slowly over muscle
+- Can hold on tight spots briefly
+- Don't stay in one spot too long
+
+### Good Areas to Target
+
+- Quads and hamstrings
+- Calves
+- Glutes
+- Upper back
+- Chest and shoulders (carefully)
+- Forearms
+
+### Areas to Avoid
+
+- Bones and joints
+- Spine directly
+- Front of neck
+- Face
+- Open wounds or bruises
+- Varicose veins
+- Over nerves (tingling = stop)
+
+## When to Use
+
+### May Help With
+
+- Post-workout soreness
+- Pre-workout warm-up
+- General muscle tightness
+- Desk worker stiffness
+- Recovery between training sessions
+
+### Timing
+
+**Before exercise:**
+- Brief use (30-60 seconds per area)
+- Lower intensity
+- Part of warm-up
+
+**After exercise:**
+- Longer use if desired
+- Focus on worked muscles
+- Can use higher intensity
+
+### Won't Replace
+
+- Proper warm-up
+- Stretching routine
+- Adequate sleep and recovery
+- Good training program
+
+## Choosing a Massage Gun
+
+### Features to Consider
+
+**Speed settings:**
+- Multiple options better
+- Range of intensities
+
+**Attachments:**
+- Different shapes for different areas
+- Ball for large muscles
+- Bullet for targeted work
+
+**Battery life:**
+- Should last multiple sessions
+
+**Noise:**
+- Quieter is better
+- Some are very loud
+
+**Price:**
+- $50-500+ range
+- Mid-range often sufficient
+- Expensive doesn't mean better
+
+## Potential Concerns
+
+### Who Should Be Cautious
+
+- Blood clotting disorders
+- Nerve conditions
+- Pregnancy (certain areas)
+- Recent surgery or injury
+- Osteoporosis
+- On blood thinners
+
+### Side Effects
+
+- Bruising (if too aggressive)
+- Increased soreness (if overdone)
+- Nerve irritation (rare)
+
+### When in Doubt
+
+Ask a healthcare provider if massage gun use is appropriate for you.
+
+## Alternatives
+
+### Other Self-Massage Options
+
+- Tennis/lacrosse ball (free)
+- Foam roller (effective)
+- Massage sticks
+- Manual self-massage
+
+### Professional Options
+
+- Massage therapy
+- Physical therapy
+- Often more effective for specific issues
+
+## The Honest Take
+
+Massage guns are a convenient tool for self-care. They feel good and can help with temporary muscle tension. They're not essential, and they're not magic.
+
+**They're probably worth it if:**
+- You'll actually use them
+- You enjoy the sensation
+- You have muscle tightness you want to address
+- You can afford it
+
+**They're probably not worth it if:**
+- You expect them to solve chronic pain
+- You won't use them consistently
+- Budget is tight (alternatives work fine)
+
+---
+
+Massage guns are a nice-to-have, not a need-to-have. They can be part of a recovery routine, but they're not a substitute for exercise, stretching, and proper training. If you enjoy using one and it makes you feel better, go for it.
+`
+  },
+  'pt-vs-orthopedist-vs-chiropractor': {
+    title: 'PT vs Orthopedist vs Chiropractor: Who Should You See for Pain?',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Basics
+
+When you have pain, knowing who to see can be confusing. Here's a breakdown of what each provider does and when to choose them.
+
+## Physical Therapist (PT)
+
+### What They Do
+
+- Movement specialists
+- Evaluate and treat musculoskeletal problems
+- Exercise prescription
+- Manual therapy
+- Education and prevention
+- Rehabilitation after injury or surgery
+
+### Training
+
+- Doctorate in Physical Therapy (DPT)
+- 7 years post-high school
+- Licensed in each state
+- Many have specializations
+
+### Best For
+
+- Muscle, joint, and movement problems
+- Rehabilitation after injury or surgery
+- Chronic pain management
+- Prevention and wellness
+- Sports injuries
+- Learning exercises for your condition
+
+### What They Don't Do
+
+- Prescribe medications
+- Order advanced imaging (in most states)
+- Perform surgery
+- Provide injections
+
+### Access
+
+- Many states allow direct access (no referral needed)
+- Insurance may require referral
+- Can see without physician order in most cases
+
+## Orthopedic Surgeon (Orthopedist)
+
+### What They Do
+
+- Physicians specializing in bones, joints, muscles
+- Diagnose conditions
+- Order imaging and tests
+- Prescribe medications
+- Perform surgery
+- Provide injections
+
+### Training
+
+- Medical degree (MD or DO)
+- 5-year orthopedic residency
+- Often additional fellowship training
+- 13+ years post-high school
+
+### Best For
+
+- Determining if you need surgery
+- Fractures
+- Severe injuries
+- Conditions requiring imaging or injections
+- When conservative treatment has failed
+- Joint replacement consideration
+
+### What They Don't Do
+
+- Most don't provide ongoing physical therapy
+- May not be first choice for minor issues
+- Often busy with surgical patients
+
+### Access
+
+- Usually need referral or appointment
+- May have longer wait times
+- Often see post-injury or when other treatments fail
+
+## Chiropractor
+
+### What They Do
+
+- Focus on spine and musculoskeletal system
+- Spinal manipulation/adjustments
+- Some soft tissue work
+- Some exercise prescription
+- X-rays (in their office)
+
+### Training
+
+- Doctor of Chiropractic (DC)
+- 4-year chiropractic program
+- Licensed in each state
+- Variable approaches (some more evidence-based than others)
+
+### Best For
+
+- Acute low back pain (good evidence for manipulation)
+- Neck pain
+- Some headaches
+- People who prefer hands-on manual approach
+
+### Considerations
+
+- Quality varies significantly
+- Some make unsupported claims
+- Look for evidence-based practitioners
+- May require ongoing visits
+
+### Access
+
+- Direct access (no referral needed)
+- Often quick availability
+- Insurance coverage varies
+
+## Other Providers to Know
+
+### Primary Care Physician
+
+- Good starting point for most issues
+- Can refer to specialists
+- Manages overall health
+- Prescribes medications
+
+### Sports Medicine Physician
+
+- Non-surgical musculoskeletal specialist
+- Excellent for sports injuries
+- Provides injections
+- Coordinates care
+
+### Pain Management Specialist
+
+- Focuses on chronic pain
+- Provides injections and procedures
+- Medication management
+- For complex or persistent pain
+
+### Physiatrist (PM&R)
+
+- Physical medicine and rehabilitation specialist
+- Non-surgical approach
+- Whole-body function focus
+- Great for complex musculoskeletal issues
+
+## Quick Decision Guide
+
+### See a PT First When
+
+- Muscle or joint pain without trauma
+- Recovery from minor injury
+- Chronic pain you've been dealing with
+- Post-surgical rehabilitation
+- Movement or flexibility problems
+- You want to learn exercises
+
+### See an Orthopedist When
+
+- Significant trauma (possible fracture)
+- Severe or worsening symptoms
+- Obvious deformity
+- PT hasn't helped after 6-8 weeks
+- You think you might need surgery
+- Need advanced imaging or injections
+
+### See a Chiropractor When
+
+- Acute back or neck pain
+- You prefer manual manipulation
+- PT or other options haven't worked
+- Choose an evidence-based practitioner
+
+### Go to Emergency Room When
+
+- Severe injury
+- Possible fracture
+- Symptoms of serious condition (weakness, numbness spreading)
+- Uncontrolled pain
+
+## What About Costs?
+
+### Physical Therapy
+
+- Typically covered by insurance
+- May require copay per visit
+- Usually multiple visits
+
+### Orthopedist
+
+- Office visit covered by insurance
+- Procedures and surgery have varying costs
+- May be single or few visits
+
+### Chiropractor
+
+- Insurance coverage varies
+- Some offer cash pricing
+- May involve multiple visits
+
+## The Common Pathway
+
+For most musculoskeletal pain:
+
+1. Try self-care first (rest, ice/heat, gentle movement)
+2. See PT or primary care
+3. Get imaging if needed
+4. See specialist if not improving
+5. Consider injections or surgery if indicated
+
+## Questions to Ask Any Provider
+
+- What do you think is causing my pain?
+- What are my treatment options?
+- How long will recovery take?
+- What can I do at home?
+- When should I follow up?
+- What would indicate I need to see someone else?
+
+---
+
+There's no single "right" provider for everyone. For most musculoskeletal problems, starting with a physical therapist or primary care physician makes sense. Reserve specialists for when you need specific expertise or when first-line treatment hasn't worked.
+`
+  },
   'best-sleeping-positions-back-pain': {
     title: 'Best Sleeping Positions for Back Pain: How to Wake Up Without Stiffness',
     date: '2026-03-06',
