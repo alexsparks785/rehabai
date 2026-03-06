@@ -13,6 +13,851 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'best-sleeping-positions-back-pain': {
+    title: 'Best Sleeping Positions for Back Pain: How to Wake Up Without Stiffness',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Why Sleep Position Matters
+
+You spend about a third of your life sleeping. If you're in a position that stresses your spine for 6-8 hours every night, it adds up. The right sleep position can reduce morning stiffness and prevent waking up with pain.
+
+## Best Positions for Back Pain
+
+### 1. On Your Back with Knee Support
+
+**How to do it:**
+- Lie on your back
+- Place a pillow under your knees
+- Use a supportive pillow for your head (not too high)
+
+**Why it works:**
+- Distributes weight evenly
+- Maintains natural spine curves
+- Reduces pressure on discs
+- Pillow under knees reduces low back strain
+
+**Best for:**
+- General back pain
+- Disc problems
+- Most people
+
+### 2. On Your Side with Pillow Between Knees
+
+**How to do it:**
+- Lie on your side (either is fine for most)
+- Bend knees slightly
+- Place pillow between knees
+- Use supportive pillow that keeps neck aligned
+
+**Why it works:**
+- Keeps spine in neutral alignment
+- Prevents top leg from pulling spine out of alignment
+- Reduces stress on hips and low back
+
+**Best for:**
+- Low back pain
+- Pregnancy
+- Snoring/sleep apnea
+- Hip pain
+
+### 3. Fetal Position (Modified)
+
+**How to do it:**
+- Lie on side
+- Curl knees toward chest (not too tight)
+- Pillow between knees
+
+**Why it works:**
+- Opens up space between vertebrae
+- Can reduce pressure on nerves
+- Comfortable for many people
+
+**Best for:**
+- Herniated disc
+- Spinal stenosis
+- People who naturally curl up
+
+## Positions to Avoid (Usually)
+
+### Stomach Sleeping
+
+**Problems:**
+- Forces neck to rotate for hours
+- Flattens natural lumbar curve
+- Strains neck and back muscles
+
+**If you must:**
+- Use thin or no pillow for head
+- Place pillow under pelvis
+- Consider transitioning to side sleeping
+
+### Flat on Back Without Support
+
+**Problem:**
+- Puts strain on low back
+- Flattens lumbar curve
+
+**Fix:**
+- Add pillow under knees
+
+## Pillow Recommendations
+
+### For Back Sleepers
+
+- Medium loft (not too high, not too flat)
+- Supports natural neck curve
+- Consider cervical pillow with neck roll
+- Pillow under knees
+
+### For Side Sleepers
+
+- Higher loft (fills space between shoulder and head)
+- Keeps head and neck aligned with spine
+- Firm enough to maintain shape
+- Pillow between knees
+
+### For Neck Pain
+
+- Cervical pillow or contour pillow
+- Memory foam can work well
+- Avoid pillows that push head forward
+
+## Mattress Considerations
+
+### Firmness
+
+**Not too soft:**
+- Allows spine to sag
+- Doesn't support curves
+
+**Not too hard:**
+- Doesn't contour to body
+- Creates pressure points
+
+**Medium-firm:**
+- Best for most people with back pain
+- Supports while still contouring
+
+### When to Replace
+
+- Every 7-10 years
+- When it sags or shows wear
+- When you sleep better in hotels
+
+## Additional Tips
+
+### Getting In and Out of Bed
+
+**Getting up:**
+- Roll to your side
+- Push up with arms while lowering legs
+- Don't sit straight up from flat
+
+**Lying down:**
+- Sit on edge
+- Lower to side while lifting legs
+- Roll to back if desired
+
+### Transitioning Positions
+
+If changing your sleep position:
+- Be patient—takes time to adjust
+- Use pillows to maintain position
+- May take 1-2 weeks to feel natural
+
+### Other Factors
+
+**Pre-sleep routine:**
+- Light stretching can help
+- Avoid heavy lifting before bed
+- Warm shower may relax muscles
+
+**Bedroom setup:**
+- Dark, cool room
+- Avoid screens before bed
+- Consistent sleep schedule helps
+
+## Specific Conditions
+
+### Herniated Disc
+
+- Side with knees bent
+- Fetal position often comfortable
+- Back with knees elevated
+
+### Spinal Stenosis
+
+- Fetal position (opens spinal canal)
+- Back with knees very elevated
+- Avoid back sleeping flat
+
+### Pregnancy
+
+- Left side preferred (circulation)
+- Pillow between knees
+- Pillow supporting belly
+- Pregnancy pillow can help
+
+### Sciatica
+
+- Side with painful side up
+- Pillow between knees
+- Experiment with positions
+
+---
+
+There's no single "best" position for everyone. The right position is one that maintains spinal alignment and lets you wake up without pain. Experiment with these positions and pillow setups to find what works for your body.
+`
+  },
+  'desk-ergonomics-pain-prevention': {
+    title: 'Desk Ergonomics: How to Set Up Your Workspace to Prevent Pain',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Why Ergonomics Matters
+
+Poor workstation setup leads to neck pain, back pain, wrist problems, and headaches. When you spend 40+ hours a week at a desk, small adjustments make a big difference.
+
+Good ergonomics reduces strain, improves comfort, and prevents injury.
+
+## Monitor Setup
+
+### Height
+
+**Goal:** Top of screen at or slightly below eye level
+
+**Why:** Prevents neck flexion (looking down) or extension (looking up)
+
+**How to adjust:**
+- Use monitor stand or arm
+- Stack books under monitor
+- Lower your chair if needed
+
+### Distance
+
+**Goal:** About arm's length away (20-26 inches)
+
+**Test:** Extend arm—fingertips should nearly touch screen
+
+**Why:** Too close = eye strain; too far = leaning forward
+
+### Angle
+
+- Tilt screen slightly back (10-20°)
+- Reduce glare from lights/windows
+- Position perpendicular to windows if possible
+
+### Dual Monitors
+
+- Primary monitor directly in front
+- Secondary angled toward you
+- If used equally, center yourself between them
+
+### Laptop Users
+
+- Use external keyboard and mouse
+- Elevate laptop screen to eye level
+- Or use external monitor
+
+## Chair Setup
+
+### Seat Height
+
+**Goal:** Feet flat on floor, thighs parallel to ground
+
+**How to check:**
+- Knees at approximately 90°
+- No pressure behind knees
+- Use footrest if desk too high
+
+### Seat Depth
+
+- 2-3 finger widths between seat edge and back of knee
+- Avoid seats that are too deep
+- Use cushion if needed
+
+### Backrest
+
+- Support the natural curve of your lower back
+- Lumbar support at low back curve
+- Recline slightly (100-110°) if comfortable
+
+### Armrests
+
+- Shoulders relaxed, not shrugged
+- Elbows at about 90°
+- Forearms parallel to floor
+- Armrests supporting without pushing up
+
+## Keyboard and Mouse
+
+### Keyboard Height
+
+- Elbows at 90° or slightly more
+- Shoulders relaxed
+- Wrists neutral (not bent up or down)
+
+### Keyboard Tilt
+
+- Flat or slightly negative tilt (front higher than back)
+- Keyboard feet often make things worse
+- Consider keyboard tray if desk too high
+
+### Mouse Position
+
+- Next to keyboard, same level
+- Close enough to avoid reaching
+- Use full arm to move, not just wrist
+
+### Wrist Position
+
+- Neutral (straight line from forearm through wrist)
+- Avoid resting wrists while typing
+- Wrist rest for breaks, not active typing
+
+## Desk Setup
+
+### Desk Height
+
+- Standard desks often too high
+- Adjustable desk or keyboard tray helps
+- 25-30 inches for most people sitting
+
+### Standing Desk
+
+- Alternate sitting and standing
+- Same monitor/keyboard principles apply
+- Use anti-fatigue mat
+- Don't stand all day (30-60 min intervals)
+
+### Frequently Used Items
+
+- Keep within easy reach
+- Phone, notepad on desk
+- Minimize reaching and twisting
+
+## Common Problems and Fixes
+
+### Neck Pain
+
+**Likely causes:**
+- Monitor too low or high
+- Looking down at laptop
+- Phone cradled on shoulder
+
+**Fixes:**
+- Adjust monitor height
+- Use laptop stand
+- Use headset for phone
+
+### Low Back Pain
+
+**Likely causes:**
+- Chair too high (feet dangling)
+- No lumbar support
+- Sitting too long without breaks
+
+**Fixes:**
+- Adjust chair height
+- Add lumbar support
+- Take regular breaks
+
+### Wrist/Hand Pain
+
+**Likely causes:**
+- Keyboard too high
+- Wrists bent while typing
+- Mouse too far away
+
+**Fixes:**
+- Lower keyboard or raise chair
+- Keep wrists neutral
+- Move mouse closer
+
+### Shoulder Pain
+
+**Likely causes:**
+- Reaching for mouse
+- Armrests too high
+- Shrugging shoulders
+
+**Fixes:**
+- Bring mouse closer
+- Adjust armrests
+- Consciously relax shoulders
+
+## Movement is Key
+
+Even perfect ergonomics don't prevent all problems. You need to move.
+
+### Break Schedule
+
+- Micro-break every 20-30 minutes
+- Stand, stretch, move eyes
+- Longer break every hour
+
+### Movement Ideas
+
+- Stand for phone calls
+- Walk to colleague instead of emailing
+- Take stairs
+- Walking meetings if possible
+
+### Posture Variation
+
+- No single posture is perfect forever
+- Change positions throughout day
+- Sit, stand, move, repeat
+
+## Quick Checklist
+
+**Monitor:**
+- [ ] Top at eye level
+- [ ] Arm's length away
+- [ ] No glare
+
+**Chair:**
+- [ ] Feet flat on floor
+- [ ] Thighs parallel to ground
+- [ ] Lumbar support
+- [ ] Armrests supporting, not pushing up
+
+**Keyboard/Mouse:**
+- [ ] Elbows at 90°
+- [ ] Wrists neutral
+- [ ] Mouse close to keyboard
+
+**Habits:**
+- [ ] Taking regular breaks
+- [ ] Changing positions
+- [ ] Not cradling phone
+
+---
+
+Perfect ergonomics isn't about buying expensive equipment—it's about positioning what you have correctly. Make these adjustments, take breaks, and move throughout the day. Your body will thank you.
+`
+  },
+  'how-to-sit-properly-posture': {
+    title: 'How to Sit Properly: The Complete Guide to Good Sitting Posture',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Truth About Sitting
+
+Sitting itself isn't evil. Sitting poorly for long periods without moving—that's the problem.
+
+The goal isn't perfect posture held rigidly all day. It's understanding good positioning and changing positions regularly.
+
+## The Basics of Good Sitting Posture
+
+### Your Feet
+
+- Flat on the floor
+- Or on a footrest if desk is high
+- Thighs roughly parallel to floor
+- Not dangling, not tucked under
+
+### Your Hips
+
+- Back in the chair (not perched on edge)
+- Hips at 90-100° angle
+- Weight distributed evenly
+
+### Your Lower Back
+
+- Maintain natural curve (slight arch)
+- Lumbar support helpful
+- Not slumped or excessively arched
+
+### Your Upper Back
+
+- Upright but not rigid
+- Shoulders relaxed, not rounded forward
+- Not perfectly straight—slight rounding is natural
+
+### Your Shoulders
+
+- Relaxed, not shrugged
+- Not pulled back forcefully
+- Not rounded excessively forward
+
+### Your Head
+
+- Balanced over shoulders
+- Not jutting forward
+- Ears roughly over shoulders
+- Chin level (not tucked or jutting)
+
+### Your Arms
+
+- Relaxed at sides
+- Elbows at about 90° when typing
+- Forearms supported or relaxed
+
+## Common Sitting Mistakes
+
+### Perching on Edge
+
+**Problem:** No back support, spine unsupported
+
+**Fix:** Sit back in chair, use backrest
+
+### Slumping
+
+**Problem:** Increases disc pressure, strains muscles
+
+**Fix:** Sit taller, use lumbar support, take breaks
+
+### Crossing Legs
+
+**Problem:** Can create pelvic asymmetry, reduce circulation
+
+**Fix:** Keep feet flat on floor, switch sides if you must cross
+
+### Leaning to One Side
+
+**Problem:** Asymmetrical loading of spine
+
+**Fix:** Center yourself, check armrests are even
+
+### Forward Head
+
+**Problem:** Strains neck muscles, common with screen use
+
+**Fix:** Bring head back over shoulders, check monitor height
+
+## The "Perfect Posture" Myth
+
+There's no single perfect posture. The research is clear:
+
+**What matters more:**
+- Variety of positions
+- Regular movement
+- Not staying in any position too long
+
+**What matters less:**
+- Achieving textbook perfect alignment
+- Holding one position rigidly
+
+Your best posture is your next posture.
+
+## Practical Tips
+
+### Set Up Your Chair
+
+1. Height: feet flat, thighs parallel to floor
+2. Depth: 2-3 fingers behind knee to seat edge
+3. Backrest: supporting lower back
+4. Armrests: supporting arms without shrugging
+
+### Create Reminders
+
+- Set timer for posture/movement breaks
+- Use apps that remind you to move
+- Associate posture check with common activities
+
+### Make It Easy
+
+- Good chair matters
+- Lumbar support if needed
+- Proper desk height
+
+### Strengthen and Stretch
+
+Good posture is easier when muscles are strong and flexible:
+- Core strength helps maintain posture
+- Hip flexibility reduces pulling on low back
+- Upper back strength counters rounding
+
+## Movement is the Key
+
+### Why Movement Matters More Than Position
+
+- No position is good for hours
+- Movement brings nutrients to discs
+- Muscles fatigue in static positions
+- Circulation improves with movement
+
+### How Often to Move
+
+- Micro-break every 20-30 minutes
+- Stand, stretch, or walk briefly
+- Longer break every hour
+
+### Easy Movement Ideas
+
+- Stand when taking calls
+- Walk to refill water
+- Stretch at your desk
+- Take stairs instead of elevator
+
+## Different Situations
+
+### Driving
+
+- Seat not too reclined
+- Knees slightly lower than hips
+- Lumbar support
+- Hands at 9 and 3 (not 10 and 2)
+- Stop and stretch on long drives
+
+### Couch Sitting
+
+- Easy to slump—use pillows
+- Don't sit for hours without moving
+- Consider getting up more often
+
+### Dining
+
+- Sit close to table
+- Feet on floor
+- Avoid hunching over plate
+
+### Working on Laptop
+
+- Worst ergonomic scenario
+- Elevate screen OR use external keyboard
+- Don't hunch over for hours
+
+## Signs Your Sitting Needs Work
+
+- Neck pain
+- Back stiffness
+- Headaches
+- Fatigue
+- Tingling in arms or hands
+- Feeling better on days off
+
+## Bottom Line
+
+Good sitting posture is:
+- Supportive but not rigid
+- Maintained with regular breaks
+- Varied throughout the day
+- Supported by strength and flexibility
+
+Don't obsess over perfect posture. Focus on moving regularly, setting up your workspace well, and listening to your body.
+
+---
+
+The best posture advice? Don't stay in any position too long. Move, stretch, change positions, and your body will handle the rest.
+`
+  },
+  'desk-exercises-office-stretches': {
+    title: 'Desk Exercises: 10 Stretches and Movements You Can Do at Your Desk',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Why Desk Exercises Matter
+
+Sitting for hours creates tension, stiffness, and muscle imbalances. These simple exercises can be done at your desk in minutes, helping you feel better and work better.
+
+## Upper Body Exercises
+
+### 1. Neck Rolls
+
+**How to do it:**
+- Sit tall
+- Slowly drop chin to chest
+- Roll head to one side (ear toward shoulder)
+- Continue around to back, other side, and front
+- Reverse direction
+- 5 circles each way
+
+**Targets:** Neck stiffness and tension
+
+### 2. Chin Tucks
+
+**How to do it:**
+- Sit tall
+- Pull chin straight back (make a "double chin")
+- Hold 5 seconds
+- Release
+- Repeat 10 times
+
+**Targets:** Forward head posture, neck muscles
+
+### 3. Shoulder Shrugs and Rolls
+
+**How to do it:**
+- Shrug shoulders up toward ears
+- Hold 3 seconds
+- Drop and relax
+- Then roll shoulders forward, up, back, down
+- 10 shrugs, 10 rolls each direction
+
+**Targets:** Shoulder and upper trap tension
+
+### 4. Chest Opener
+
+**How to do it:**
+- Clasp hands behind back
+- Squeeze shoulder blades together
+- Lift hands slightly, open chest
+- Hold 15-30 seconds
+- Repeat 2-3 times
+
+**Targets:** Rounded shoulders, tight chest
+
+### 5. Upper Back Stretch
+
+**How to do it:**
+- Clasp hands in front of you
+- Push hands away, rounding upper back
+- Let head drop, stretch between shoulder blades
+- Hold 15-30 seconds
+- Repeat 2-3 times
+
+**Targets:** Upper back tension
+
+## Lower Body and Core
+
+### 6. Seated Spinal Twist
+
+**How to do it:**
+- Sit tall
+- Cross right leg over left (or just feet flat)
+- Place left hand on outside of right knee
+- Twist torso to the right
+- Look over right shoulder
+- Hold 15-30 seconds
+- Switch sides
+
+**Targets:** Spine mobility, low back
+
+### 7. Seated Hip Flexor Stretch
+
+**How to do it:**
+- Sit at edge of chair
+- Slide one foot back under chair
+- Tilt pelvis slightly forward
+- Feel stretch in front of hip
+- Hold 30 seconds each side
+
+**Targets:** Tight hip flexors from sitting
+
+### 8. Seated Figure-4 Stretch
+
+**How to do it:**
+- Sit tall
+- Cross one ankle over opposite knee
+- Gently lean forward with straight back
+- Feel stretch in outer hip/glute
+- Hold 30 seconds each side
+
+**Targets:** Hip and glute tightness
+
+### 9. Seated Cat-Cow
+
+**How to do it:**
+- Sit at edge of chair, feet flat
+- Hands on thighs
+- Arch back, look up, open chest (cow)
+- Round back, tuck chin, pull belly in (cat)
+- Move slowly between positions
+- 10 repetitions
+
+**Targets:** Spine mobility
+
+### 10. Wrist Circles and Stretches
+
+**How to do it:**
+- Circle wrists 10 times each direction
+- Then: extend arm, palm down, pull fingers down
+- Hold 15 seconds
+- Flip palm up, pull fingers toward you
+- Hold 15 seconds each arm
+
+**Targets:** Wrist tension from typing
+
+## Quick Desk Routine (5 Minutes)
+
+Do this 2-3 times throughout your workday:
+
+1. **Chin tucks** - 10 reps
+2. **Shoulder rolls** - 10 each direction
+3. **Chest opener** - 30 seconds
+4. **Seated twist** - 30 seconds each side
+5. **Figure-4 stretch** - 30 seconds each side
+6. **Wrist stretches** - 15 seconds each
+
+## Standing Options (If You Have Room)
+
+### Standing Hip Flexor Stretch
+
+- Step one foot back into lunge
+- Tuck pelvis, feel stretch in front of back hip
+- Hold 30 seconds each side
+
+### Standing Back Extension
+
+- Hands on low back
+- Gently arch backward
+- Hold 5 seconds
+- Repeat 5 times
+
+### Wall Push-Ups
+
+- Hands on wall, arms straight
+- Bend elbows, lower chest toward wall
+- Push back
+- 10-15 reps
+
+### Calf Raises
+
+- Stand behind chair
+- Rise onto toes
+- Lower slowly
+- 15-20 reps
+
+## Tips for Success
+
+### Make It a Habit
+
+- Set timer every hour
+- Do exercises during regular breaks
+- Associate with daily activities (every time you return from bathroom)
+
+### Don't Wait for Pain
+
+- Prevention beats treatment
+- Do exercises before you feel stiff
+
+### Little and Often
+
+- 5 minutes every hour beats 30 minutes once
+- Consistency matters most
+
+### No Excuses Needed
+
+- These are subtle enough for any office
+- No equipment needed
+- Can do in dress clothes
+
+## When Desk Exercises Aren't Enough
+
+If you have:
+- Persistent pain
+- Numbness or tingling
+- Symptoms that don't improve with breaks and stretches
+- Pain that worsens
+
+See a healthcare provider. Desk exercises are great for prevention and minor issues, but some conditions need more.
+
+---
+
+These exercises won't solve everything, but they make a real difference. A few minutes of movement throughout the day prevents hours of discomfort. Your body wasn't designed to sit still—give it the movement it needs.
+`
+  },
   'ice-vs-heat-when-to-use': {
     title: 'Ice vs Heat: When to Use Each for Pain and Injury',
     date: '2026-03-06',

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'best-sleeping-positions-back-pain',
+    title: 'Best Sleeping Positions for Back Pain: How to Wake Up Without Stiffness',
+    excerpt: 'Waking up stiff and sore? Your sleep position might be the problem. Here\'s how to sleep better for your back.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'desk-ergonomics-pain-prevention',
+    title: 'Desk Ergonomics: How to Set Up Your Workspace to Prevent Pain',
+    excerpt: 'Spending hours at a desk? Proper setup prevents neck, back, and wrist pain. Here\'s your complete ergonomic guide.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-to-sit-properly-posture',
+    title: 'How to Sit Properly: The Complete Guide to Good Sitting Posture',
+    excerpt: 'Sitting isn\'t bad—sitting poorly is. Here\'s how to sit in a way that protects your spine and reduces pain.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'desk-exercises-office-stretches',
+    title: 'Desk Exercises: 10 Stretches and Movements You Can Do at Your Desk',
+    excerpt: 'No time for the gym? These exercises take minutes and can be done right at your workspace.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'ice-vs-heat-when-to-use',
     title: 'Ice vs Heat: When to Use Each for Pain and Injury',
     excerpt: 'Should you reach for the ice pack or heating pad? Here\'s the definitive guide to when each works best.',
