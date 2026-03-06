@@ -13,6 +13,1164 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'knee-replacement-recovery-guide': {
+    title: 'Knee Replacement Recovery: Timeline, Exercises, and What to Expect',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read',
+    content: `
+## The Decision That Changes Everything
+
+Total knee replacement (TKA) is one of the most successful surgeries in medicine. Over 90% of people experience significant pain relief and improved function. But the surgery is just the beginning—recovery is where the real work happens.
+
+## Before Surgery: Prehab Matters
+
+### Why Prehab?
+
+Starting exercises before surgery leads to:
+- Faster recovery
+- Better outcomes
+- Shorter hospital stays
+- Less pain medication needed
+
+### Key Prehab Exercises
+
+**Quad sets:**
+- Sit with leg straight
+- Tighten thigh, press knee down
+- Hold 5 seconds
+- 20 reps, 3x daily
+
+**Straight leg raises:**
+- Lie on back, one knee bent
+- Lift straight leg 12 inches
+- Hold 5 seconds, lower slowly
+- 10 reps, 3 sets
+
+**Heel slides:**
+- Lie on back
+- Slide heel toward buttock, bending knee
+- Slide back out
+- 20 reps
+
+**Ankle pumps:**
+- Point toes down, then pull up
+- 20 reps, several times daily
+- Prevents blood clots post-surgery
+
+## The Recovery Timeline
+
+### Day of Surgery (Day 0)
+
+- Surgery takes 1-2 hours
+- Wake up in recovery room
+- Pain management begins
+- May start ankle pumps same day
+
+### Days 1-3: Hospital Stay
+
+**What happens:**
+- Physical therapy begins day 1
+- Learning to use walker
+- Getting in/out of bed
+- Walking short distances
+- Climbing a few stairs (if required for discharge)
+
+**Your job:**
+- Do ankle pumps hourly (blood clot prevention)
+- Ice and elevate frequently
+- Take pain medication on schedule
+- Work with PT daily
+
+### Week 1: Home Recovery
+
+**Goals:**
+- Walk with walker multiple times daily
+- Achieve 70-90° knee bend
+- Manage pain and swelling
+- Prevent complications
+
+**Exercises (3x daily):**
+- Ankle pumps
+- Quad sets
+- Heel slides
+- Straight leg raises (when able)
+- Short walks every 1-2 hours
+
+**Warning signs to call doctor:**
+- Fever over 101°F
+- Increasing redness at incision
+- Calf pain or swelling (blood clot)
+- Chest pain or shortness of breath
+
+### Weeks 2-4: Building Function
+
+**Goals:**
+- Transition from walker to cane
+- Achieve 90-100° bend
+- Walk longer distances
+- Begin outpatient PT
+
+**New exercises:**
+- Seated knee extension
+- Standing hip flexion
+- Mini squats holding counter
+- Stationary bike (when cleared)
+
+### Weeks 4-6: Gaining Independence
+
+**Goals:**
+- Walk without assistive device
+- Achieve 100-110° bend
+- Return to light daily activities
+- Drive (if right knee and off narcotics)
+
+**Progress exercises:**
+- Deeper squats
+- Step-ups
+- Balance work
+- Longer walks
+
+### Weeks 6-12: Strengthening Phase
+
+**Goals:**
+- Full range of motion (115-120°)
+- Normal gait pattern
+- Return to most activities
+- Continue strengthening
+
+**Advanced exercises:**
+- Leg press (light)
+- Stationary bike with resistance
+- Pool exercises
+- Walking longer distances
+
+### 3-6 Months: Return to Life
+
+**What's possible:**
+- Golf, swimming, cycling
+- Hiking on gentle terrain
+- Dancing
+- Travel
+
+**What's typically restricted:**
+- Running, jumping
+- High-impact sports
+- Deep squatting under load
+
+### 1 Year and Beyond
+
+Maximum improvement typically reached by 6-12 months. The knee continues to feel "more normal" over time. Many people say their knee feels best at 1-2 years post-surgery.
+
+## The Essential Exercises
+
+### Range of Motion
+
+**Heel slides:**
+- Most important early exercise
+- Lie on back, slide heel toward buttock
+- Use strap to assist if needed
+- Goal: match opposite knee's bend
+
+**Prone hang:**
+- Lie face down, knee off edge of bed
+- Let gravity straighten knee
+- 10-15 minutes, 2x daily
+- Critical for achieving full extension
+
+### Strengthening
+
+**Quad sets:**
+- Foundation exercise
+- Tighten quad, hold 5 seconds
+- Do throughout the day
+
+**Straight leg raises:**
+- Don't skip these
+- Maintain quad strength
+- 3 sets of 10, 3x daily
+
+**Terminal knee extension:**
+- Roll towel under knee
+- Lift foot, straightening knee
+- Hold 5 seconds
+- 3 sets of 10
+
+**Step-ups:**
+- Start with low step (4-6 inches)
+- Lead with surgical leg going up
+- Lead with non-surgical going down
+- 2-3 sets of 10
+
+### Balance
+
+**Single leg stance:**
+- Hold counter for support
+- Stand on surgical leg
+- Build to 30 seconds
+- Progress to no hands
+
+## Managing Pain and Swelling
+
+### The ICE Protocol
+
+Ice is your friend for the first several weeks:
+- 20 minutes on, 40 minutes off
+- After exercises
+- Before bed
+- Use ice machine if provided
+
+### Elevation
+
+- Keep leg elevated when sitting
+- Above heart level when possible
+- Reduces swelling significantly
+
+### Compression
+
+- Use compression stockings as directed
+- Prevents blood clots
+- Reduces swelling
+
+### Pain Medication
+
+- Take on schedule initially (don't wait for pain)
+- Wean off narcotics as soon as able
+- Transition to over-the-counter as appropriate
+- Pain with exercise is expected; severe pain is not
+
+## Common Concerns
+
+### "My knee is still swollen"
+
+Normal. Swelling can persist for 3-6 months. Ice and elevation help.
+
+### "It clicks/clunks"
+
+Often normal with prosthetic components. Mention to surgeon, but usually not concerning.
+
+### "It feels stiff in the morning"
+
+Common. Gets better with movement. May persist long-term but improves.
+
+### "My opposite knee hurts now"
+
+Common—you've been compensating. May need attention too.
+
+### "When can I drive?"
+
+Usually 4-6 weeks for right knee (need to brake safely), 2-4 weeks for left knee (automatic transmission).
+
+## What Makes Recovery Successful
+
+### Do the exercises
+
+The difference between good and great outcomes is usually exercise compliance.
+
+### Stay patient
+
+This is a marathon, not a sprint. Improvements continue for a full year.
+
+### Communicate with your team
+
+Tell your PT and surgeon about concerns. They can adjust your program.
+
+### Set realistic expectations
+
+Your knee will be different, not "like new." But it will be dramatically better than before surgery.
+
+---
+
+Knee replacement is a big decision, but for the right patient, it's life-changing. The surgery is refined. The outcomes are predictable. Your job is to show up for recovery and do the work. The payoff—years of pain-free activity—is worth it.
+`
+  },
+  'hip-replacement-recovery-guide': {
+    title: 'Hip Replacement Recovery: Week by Week Guide to Getting Back on Your Feet',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read',
+    content: `
+## A New Hip, A New Life
+
+Hip replacement is one of medicine's great success stories. Over 95% of patients experience excellent pain relief and improved mobility. Whether you're getting surgery soon or just exploring options, here's what recovery actually looks like.
+
+## Types of Hip Replacement
+
+### Surgical Approaches
+
+**Posterior approach:**
+- Most common historically
+- Hip precautions required (no bending past 90°, crossing legs, or twisting)
+- Excellent outcomes
+
+**Anterior approach:**
+- Gaining popularity
+- Often fewer restrictions
+- May allow faster early recovery
+- Discuss with your surgeon
+
+**Lateral approach:**
+- Less common
+- Different precaution considerations
+
+Your surgeon's preferred approach depends on their training, your anatomy, and other factors.
+
+## Hip Precautions: Do They Apply to You?
+
+Traditional hip precautions prevent dislocation:
+- Don't bend hip past 90°
+- Don't cross legs
+- Don't twist/rotate hip inward
+- Use raised toilet seat
+- Use special equipment for dressing
+
+**Important:** Many surgeons now use techniques that don't require strict precautions. Ask your surgeon specifically what applies to you.
+
+## The Recovery Timeline
+
+### Day of Surgery (Day 0)
+
+- Surgery takes 1-2 hours
+- General or spinal anesthesia
+- Pain management protocol begins
+- May stand briefly same day
+
+### Days 1-2: Hospital
+
+**What happens:**
+- Physical therapy begins day 1
+- Walking with walker
+- Stair training
+- Learning precautions (if applicable)
+
+**Typical discharge:** Day 1-3 depending on:
+- Pain control
+- Safe mobility
+- Support at home
+
+### Week 1: Home Recovery
+
+**Goals:**
+- Walk short distances with walker
+- Master basic activities safely
+- Manage pain and swelling
+- Prevent blood clots
+
+**Daily routine:**
+- Walk 5-10 minutes, 3-4x daily
+- Ankle pumps hourly
+- Prescribed exercises 2-3x daily
+- Ice after activity
+
+**Exercises:**
+- Ankle pumps (blood clot prevention)
+- Quad sets
+- Glute squeezes
+- Heel slides (if allowed per precautions)
+- Abduction in lying (slide leg out to side)
+
+### Weeks 2-4: Building Independence
+
+**Goals:**
+- Longer walking distances
+- Transition to cane (if stable)
+- Manage most daily activities
+- Begin outpatient PT
+
+**Progress:**
+- Walk 15-20 minutes, multiple times daily
+- Add standing exercises
+- Begin gentle stretching
+- May start driving (left hip, automatic car, off narcotics)
+
+**New exercises:**
+- Standing hip flexion
+- Standing hip abduction
+- Standing hip extension
+- Mini squats
+
+### Weeks 4-6: Gaining Strength
+
+**Goals:**
+- Walk without cane indoors
+- Normal walking pattern
+- Return to light activities
+- Drive (if right hip)
+
+**Exercise focus:**
+- Strengthening all hip muscles
+- Balance training
+- Endurance building
+- Functional movements (getting up from low surfaces)
+
+### Weeks 6-12: Return to Activity
+
+**Goals:**
+- Full independence in daily activities
+- Walk 30+ minutes comfortably
+- Return to work (desk jobs often 4-6 weeks; physical jobs 10-12 weeks)
+- Begin recreational activities
+
+**Advanced exercises:**
+- Resistance training
+- Pool exercises
+- Stationary bike
+- Walking program progression
+
+### 3-6 Months: Active Recovery
+
+**What's typically possible:**
+- Golf, swimming, cycling
+- Hiking
+- Dancing
+- Travel
+- Return to most activities
+
+**Precautions usually lifted** (if they applied):
+- Most activities unrestricted by 3 months
+- Follow surgeon's specific guidance
+
+### 1 Year: Maximum Improvement
+
+Most people achieve full recovery by 6-12 months. The hip continues to feel more natural over time.
+
+## Essential Exercises
+
+### Early Phase (Weeks 1-2)
+
+**Ankle pumps:**
+- Critical for blood clot prevention
+- Point and flex 20x hourly
+
+**Quad sets:**
+- Tighten thigh, flatten knee
+- Hold 5 seconds, 20 reps
+
+**Glute squeezes:**
+- Squeeze buttocks together
+- Hold 5 seconds, 20 reps
+
+**Heel slides:**
+- Lie on back, slide heel toward buttock
+- Stay within precautions if applicable
+- 20 reps
+
+### Intermediate Phase (Weeks 2-6)
+
+**Standing hip flexion:**
+- Hold onto counter
+- Lift knee toward ceiling
+- Don't exceed 90° if precautions apply
+- 10 reps each leg
+
+**Standing hip abduction:**
+- Lift leg out to side
+- Keep toes forward
+- 10 reps each leg
+
+**Standing hip extension:**
+- Kick leg backward
+- Keep back straight
+- 10 reps each leg
+
+**Bridges:**
+- Lie on back, knees bent
+- Lift hips
+- Hold 5 seconds
+- 10 reps
+
+### Advanced Phase (6+ Weeks)
+
+**Single leg stance:**
+- Balance on surgical leg
+- Hold 30 seconds
+- Progress to unstable surfaces
+
+**Step-ups:**
+- Start low (4-6 inches)
+- Lead with surgical leg going up
+- 2 sets of 10
+
+**Clamshells:**
+- Side-lying, knees bent
+- Keep feet together, lift top knee
+- 2 sets of 15
+
+**Resistance band work:**
+- All directions
+- Progressive resistance
+
+## Managing Swelling
+
+### The ICE Protocol
+
+- Ice 20 minutes after exercise
+- Several times daily early on
+- Continue as long as helpful
+
+### Elevation
+
+- Elevate when sitting
+- Don't place pillow directly under knee (can cause flexion contracture)
+
+### Compression
+
+- Compression stockings as directed
+- Usually 2-6 weeks
+- Prevents blood clots, reduces swelling
+
+## Preventing Complications
+
+### Blood Clots (DVT)
+
+**Prevention:**
+- Take prescribed blood thinners
+- Ankle pumps hourly
+- Walk frequently
+- Wear compression stockings
+- Stay hydrated
+
+**Warning signs:**
+- Calf pain or tenderness
+- Leg swelling (one-sided)
+- Warmth or redness
+
+**If symptoms develop:** Call doctor immediately or go to ER.
+
+### Infection
+
+**Prevention:**
+- Keep incision clean and dry
+- Don't soak in bathtub/pool until cleared
+- Take antibiotics as prescribed
+
+**Warning signs:**
+- Increasing redness around incision
+- Fever over 101°F
+- Drainage from incision
+- Increasing pain
+
+### Dislocation
+
+**Prevention:**
+- Follow precautions (if applicable)
+- Don't rush return to activity
+- Use recommended equipment
+
+**Warning signs:**
+- Sudden severe pain
+- Leg appears shorter or rotated
+- Unable to bear weight
+
+## Returning to Activities
+
+### Generally Safe After Recovery
+
+- Walking, hiking
+- Swimming, water aerobics
+- Cycling
+- Golf
+- Dancing
+- Doubles tennis
+- Low-impact aerobics
+
+### Discuss With Surgeon
+
+- Singles tennis
+- Skiing (downhill)
+- Weightlifting
+- High-impact aerobics
+
+### Typically Discouraged
+
+- Running, jogging
+- Contact sports
+- High-impact activities
+- Sports with cutting/pivoting
+
+## What Makes Recovery Successful
+
+### Exercise compliance
+
+Do your exercises. Every day. This is the #1 predictor of good outcomes.
+
+### Progressive walking
+
+Walk more each week. Build endurance gradually.
+
+### Patience
+
+Recovery takes time. Don't rush the process.
+
+### Communication
+
+Report concerns to your team. Adjustments can be made.
+
+---
+
+Hip replacement gives people their lives back. The surgery is refined, outcomes are excellent, and recovery is predictable. Your job is to do the work—the exercises, the walking, the patience. The reward is years of pain-free movement.
+`
+  },
+  'jumpers-knee-patellar-tendonitis': {
+    title: 'Jumper\'s Knee: Why It Happens, How to Treat It, and Getting Back to Sports',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read',
+    content: `
+## What Is Jumper's Knee?
+
+Jumper's knee (patellar tendinopathy) is pain at the bottom of your kneecap where the patellar tendon attaches. It's an overuse injury common in sports involving jumping and landing—basketball, volleyball, track and field.
+
+The tendon doesn't suddenly tear. It gradually breaks down from repeated stress, faster than it can repair itself.
+
+## Who Gets It?
+
+### High-Risk Sports
+
+- Basketball (highest incidence)
+- Volleyball
+- Track and field (jumpers, sprinters)
+- Soccer
+- Tennis
+- Gymnastics
+
+### Risk Factors
+
+**Training factors:**
+- Sudden increase in training volume
+- High jumping/landing volume
+- Hard playing surfaces
+- Inadequate recovery
+
+**Physical factors:**
+- Weak quads or glutes
+- Poor flexibility (quads, hamstrings)
+- Reduced ankle dorsiflexion
+- Higher body weight
+
+## How It Feels
+
+### Classic Presentation
+
+- Pain at bottom of kneecap
+- Worse with jumping, landing, squatting
+- Stiff after sitting
+- May warm up, then hurt again after
+- Point tenderness at tendon
+
+### Severity Stages
+
+**Stage 1:** Pain only after activity
+**Stage 2:** Pain during activity, doesn't limit performance
+**Stage 3:** Pain limits performance
+**Stage 4:** Complete tendon rupture (rare)
+
+## Why It's Stubborn
+
+### Tendon Biology
+
+Tendons heal slowly because:
+- Poor blood supply
+- Load demands continue (hard to rest completely)
+- Degeneration, not inflammation (despite "-itis")
+
+### The Cycle
+
+Activity → Tendon stress → Breakdown exceeds repair → Pain → Rest → Feel better → Return too fast → Repeat
+
+Breaking this cycle requires a different approach than just rest.
+
+## Treatment That Works
+
+### The Key Principle: Progressive Loading
+
+Rest doesn't fix tendinopathy. The tendon needs load to remodel and strengthen—but the right amount.
+
+**Isometrics first:**
+- Load without movement
+- Reduces pain
+- Builds capacity
+
+**Then eccentrics:**
+- Slow, controlled lengthening
+- Stimulates tendon remodeling
+- Gold standard for tendinopathy
+
+**Then heavy slow resistance:**
+- Full range strengthening
+- Builds strength and resilience
+
+### The Exercise Protocol
+
+**Phase 1: Isometrics (Days 1-7)**
+
+Spanish squat hold:
+- Loop band behind knees, around sturdy post
+- Lean back, hold squat position
+- 45-60 second holds
+- 4-5 reps, daily
+
+Wall sit:
+- Back against wall, knees at 60-90°
+- Hold 45 seconds
+- 4-5 reps, daily
+
+**Phase 2: Eccentrics (Weeks 2-4)**
+
+Decline squat eccentric:
+- Stand on decline board (or heels elevated)
+- Single leg (or double if too hard)
+- Lower slowly over 3 seconds
+- Use other leg to help stand up
+- 3 sets of 15, daily
+
+**Phase 3: Heavy Slow Resistance (Weeks 4-12)**
+
+Leg press:
+- Heavy weight, slow tempo
+- 4 seconds down, 3 seconds up
+- 4 sets of 6-8 reps
+- 3x per week
+
+Squat:
+- Barbell or goblet
+- Same slow tempo
+- 4 sets of 6-8
+- 3x per week
+
+Leg extension:
+- If tolerated
+- Slow and controlled
+- 3 sets of 10-12
+
+### Managing Pain During Rehab
+
+**Acceptable pain:** Mild discomfort (3-4/10) during exercise is OK. Should settle within 24 hours.
+
+**Not acceptable:** Severe pain, pain that lingers >24 hours, or worsening symptoms.
+
+### What About Rest?
+
+Complete rest is rarely the answer. Instead:
+- Reduce jumping/impact activities
+- Continue loading exercises
+- Modify sport participation (less volume, lower intensity)
+- Use pain as a guide
+
+## Other Treatments
+
+### Evidence-Supported
+
+**Physical therapy:**
+- Guided exercise progression
+- Manual therapy may help short-term
+- Essential for proper rehab
+
+**Load management:**
+- Reduce jumping volume
+- Periodize training properly
+- Allow adequate recovery
+
+### Mixed Evidence
+
+**Shockwave therapy:**
+- May help some cases
+- Usually after 3+ months of failed exercise therapy
+
+**PRP injections:**
+- Research inconsistent
+- Not first-line treatment
+
+### Poor Evidence
+
+**Cortisone injections:**
+- May provide short-term relief
+- Can weaken tendon
+- Generally not recommended
+
+**Rest alone:**
+- Doesn't address underlying issue
+- Symptoms often return with activity
+
+## Returning to Sport
+
+### When Ready
+
+- Pain-free during daily activities
+- Completed loading progression
+- Strength near equal to other leg
+- Tolerate sport-specific drills
+
+### How to Return
+
+**Week 1-2:**
+- Light sport-specific drills
+- No jumping
+- Low volume
+
+**Week 3-4:**
+- Add jumping (low volume)
+- Sub-maximal intensity
+- Monitor symptoms
+
+**Week 5-6:**
+- Progress intensity
+- Increase volume gradually
+- Practice before games
+
+**Week 7+:**
+- Full return if symptoms allow
+- Continue maintenance exercises
+- Monitor for flares
+
+## Prevention
+
+### Strength Training
+
+- Strong quads and glutes protect tendons
+- Include hip-dominant and knee-dominant exercises
+- Year-round, not just in-season
+
+### Load Management
+
+- Don't spike training volume
+- Plan jumps/impacts per week
+- Include recovery days/weeks
+
+### Landing Mechanics
+
+- Land softly (bend knees)
+- Distribute load (hips, knees, ankles)
+- Two-foot landings when possible
+
+### Address Risk Factors
+
+- Improve ankle mobility if limited
+- Strengthen hips if weak
+- Address flexibility deficits
+
+## Common Questions
+
+### "Should I use a patellar strap?"
+
+Can help reduce pain during activity. Use as a supplement to rehab, not instead of it.
+
+### "How long until I'm better?"
+
+Typically 3-6 months for full recovery. Stubborn cases may take longer.
+
+### "Can I play through it?"
+
+Depends on severity. Stage 1-2 may allow modified participation. Stage 3 usually requires significant reduction.
+
+### "Will it come back?"
+
+Possibly, especially if you don't address strength and load management long-term.
+
+---
+
+Jumper's knee is frustrating because it happens from what you love doing. But tendons respond to the right loading. Progress through the stages, don't rush back, and maintain strength training long-term. Most athletes return to full sport with proper rehab.
+`
+  },
+  'ankle-sprain-recovery-exercises': {
+    title: 'Ankle Sprain Recovery: From Injury to Full Strength',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read',
+    content: `
+## The Most Common Injury in Sports
+
+Ankle sprains affect 2 million people per year in the US alone. They happen in every sport, at every level. Most people think they're minor—ice it, walk it off, get back to it.
+
+That's why up to 40% of ankle sprains develop into chronic ankle instability. The initial injury heals, but the ankle never fully recovers.
+
+## What Actually Happens in a Sprain
+
+### The Mechanism
+
+Most ankle sprains are "inversion" injuries—the foot rolls inward, stretching or tearing ligaments on the outside of the ankle.
+
+### The Anatomy
+
+Three lateral ligaments get damaged:
+- **ATFL (anterior talofibular ligament):** Most commonly injured
+- **CFL (calcaneofibular ligament):** Involved in more severe sprains
+- **PTFL (posterior talofibular ligament):** Rarely injured except in severe sprains
+
+### The Grading System
+
+**Grade 1 (Mild):**
+- Ligament stretched, not torn
+- Mild swelling and tenderness
+- Can still walk
+
+**Grade 2 (Moderate):**
+- Partial ligament tear
+- Significant swelling and bruising
+- Difficulty bearing weight
+
+**Grade 3 (Severe):**
+- Complete ligament tear
+- Severe swelling and bruising
+- Unable to bear weight
+- Joint instability
+
+## The First 72 Hours
+
+### PRICE Protocol (Updated: POLICE)
+
+**Protect:**
+- Use crutches if needed
+- Brace or tape for support
+- Don't push through significant pain
+
+**Optimal Loading:**
+- Early gentle movement is good
+- Weight-bear as tolerated
+- Complete immobilization is outdated
+
+**Ice:**
+- 15-20 minutes, every 2-3 hours
+- Reduces swelling and pain
+- Continue for first 48-72 hours
+
+**Compression:**
+- Elastic bandage
+- Reduces swelling
+- Not too tight
+
+**Elevation:**
+- Above heart level when possible
+- Reduces swelling
+- Especially important first few days
+
+### Do NOT
+
+- Apply heat (first 72 hours)
+- Massage directly on injured area
+- Ignore severe pain or inability to bear weight
+
+### When to See a Doctor
+
+- Unable to bear weight (4 steps)
+- Severe pain directly over bone
+- Significant deformity
+- No improvement after a few days
+- Complete inability to move ankle
+
+These could indicate fracture or severe ligament damage.
+
+## Week 1: Protection and Gentle Motion
+
+### Goals
+
+- Control swelling
+- Maintain some mobility
+- Protect healing tissues
+
+### Exercises
+
+**Ankle ABCs:**
+- Trace the alphabet with your foot
+- Gentle, pain-free range
+- 2-3x daily
+
+**Ankle pumps:**
+- Point toes down, then pull up
+- 20 reps, several times daily
+
+**Gentle circles:**
+- Rotate ankle slowly
+- Both directions
+- 10 each way
+
+## Weeks 2-3: Restoring Motion and Early Strength
+
+### Goals
+
+- Full range of motion
+- Light weight-bearing exercise
+- Begin strengthening
+
+### Exercises
+
+**Resistance band dorsiflexion:**
+- Band around foot, anchored to post
+- Pull toes toward shin against resistance
+- 3 sets of 15
+
+**Resistance band plantarflexion:**
+- Hold band, push foot down
+- 3 sets of 15
+
+**Resistance band inversion/eversion:**
+- Side-to-side resistance
+- Key for lateral ligament strength
+- 3 sets of 15 each direction
+
+**Calf raises:**
+- Double leg, holding support
+- Rise onto toes, lower slowly
+- 3 sets of 15
+
+**Towel scrunches:**
+- Strengthen foot intrinsic muscles
+- 3 sets of 10 scrunches
+
+## Weeks 3-6: Building Strength and Balance
+
+### Goals
+
+- Normal walking pattern
+- Progressive strengthening
+- Balance training (critical)
+
+### Exercises
+
+**Single leg calf raises:**
+- Progress from double to single leg
+- 3 sets of 15
+
+**Single leg stance:**
+- Stand on injured leg
+- 30 seconds, 3 reps
+- Eyes open, then eyes closed
+- Stable surface, then unstable (pillow, balance board)
+
+**Step-ups:**
+- Forward and lateral
+- 2 sets of 10 each direction
+
+**Lunges:**
+- Forward, reverse, lateral
+- 2 sets of 10 each
+
+**4-way ankle with band:**
+- All directions, progressive resistance
+- 3 sets of 15 each direction
+
+### Why Balance Training Is Critical
+
+This is where most people fail. The ligament tear damages nerve receptors that tell your brain where your ankle is in space (proprioception). Without retraining this system, your ankle can't protect itself.
+
+**Progression:**
+1. Two legs, stable surface
+2. Single leg, stable surface
+3. Single leg, eyes closed
+4. Single leg, unstable surface
+5. Single leg, unstable, eyes closed
+6. Single leg, add movement (catching ball, etc.)
+
+## Weeks 6-12: Return to Sport
+
+### Goals
+
+- Full strength
+- Sport-specific movements
+- Gradual return to activity
+
+### Exercises
+
+**Plyometrics (if cleared):**
+- Two-foot hops
+- Progress to single leg
+- Lateral hops
+- Box jumps
+
+**Agility drills:**
+- Ladder drills
+- Cone drills
+- Sport-specific movements
+
+**Running program:**
+- Start with jogging
+- Add cutting and pivoting
+- Progress to full speed
+
+**Sport-specific practice:**
+- Gradual increase in intensity
+- Practice before games
+- Monitor for symptoms
+
+## Bracing and Taping
+
+### When to Use
+
+- During initial recovery (protection)
+- Return to sport (first few months)
+- Higher-risk activities
+- History of multiple sprains
+
+### Options
+
+**Lace-up brace:**
+- Good support
+- Easy to use
+- Fits in most shoes
+
+**Stirrup brace:**
+- Excellent lateral support
+- More rigid
+
+**Athletic tape:**
+- Requires skill to apply
+- Loosens with activity
+- Good for games/practice
+
+### When to Stop
+
+Most people don't need bracing forever. After proper rehab, your ankle should be stable without external support.
+
+## Preventing Future Sprains
+
+### Continue Balance Training
+
+The single best prevention. Make it part of your regular routine.
+
+### Strengthen
+
+Strong muscles protect joints. Continue ankle and hip strengthening.
+
+### Proper Footwear
+
+- Appropriate for your sport
+- Good condition
+- Proper fit
+
+### Warm Up
+
+- Dynamic stretches
+- Ankle circles
+- Light activity before intense sport
+
+### Be Smart on Terrain
+
+- Watch where you step
+- Avoid uneven surfaces when fatigued
+- Don't ignore warning signs
+
+## Chronic Ankle Instability
+
+If you keep spraining your ankle, you may have developed instability. Signs include:
+- Frequent "giving way"
+- Recurring sprains
+- Ongoing pain or swelling
+- Feeling of looseness
+
+**Treatment:**
+- Intensive balance and strength program
+- Bracing for activities
+- Sometimes surgery if conservative treatment fails
+
+---
+
+A sprained ankle shouldn't become a recurring problem. The key is not just healing the ligament, but retraining the balance system and building strength. Skip the balance work, and you're setting yourself up for the next sprain. Do it right, and you'll be stronger than before the injury.
+`
+  },
   'tennis-elbow-lateral-epicondylitis': {
     title: 'Tennis Elbow: Causes, Exercises, and How to Finally Get Rid of It',
     date: '2026-03-06',

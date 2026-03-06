@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'knee-replacement-recovery-guide',
+    title: 'Knee Replacement Recovery: Timeline, Exercises, and What to Expect',
+    excerpt: 'Getting a knee replacement? Here\'s the complete recovery timeline and the exercises that get you walking normally again.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'hip-replacement-recovery-guide',
+    title: 'Hip Replacement Recovery: Week by Week Guide to Getting Back on Your Feet',
+    excerpt: 'Hip replacement surgery is life-changing. Here\'s what to expect during recovery and how to maximize your outcome.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'jumpers-knee-patellar-tendonitis',
+    title: 'Jumper\'s Knee: Why It Happens, How to Treat It, and Getting Back to Sports',
+    excerpt: 'Knee pain below the kneecap? Patellar tendonitis is stubborn but treatable. Here\'s the evidence-based approach.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'ankle-sprain-recovery-exercises',
+    title: 'Ankle Sprain Recovery: From Injury to Full Strength',
+    excerpt: 'Rolled your ankle? Here\'s how to recover properly and prevent the chronic instability that plagues most people.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read'
+  },
+  {
     slug: 'tennis-elbow-lateral-epicondylitis',
     title: 'Tennis Elbow: Causes, Exercises, and How to Finally Get Rid of It',
     excerpt: 'That nagging pain on the outside of your elbow? Here\'s what causes tennis elbow and the proven exercises that heal it.',
