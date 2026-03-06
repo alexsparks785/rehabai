@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'ice-vs-heat-when-to-use',
+    title: 'Ice vs Heat: When to Use Each for Pain and Injury',
+    excerpt: 'Should you reach for the ice pack or heating pad? Here\'s the definitive guide to when each works best.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'what-to-expect-physical-therapy',
+    title: 'What to Expect at Physical Therapy: Your First Visit Guide',
+    excerpt: 'Never been to PT before? Here\'s exactly what happens during your first visit and what to bring.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'how-long-physical-therapy-take',
+    title: 'How Long Does Physical Therapy Take? Timeline Expectations by Condition',
+    excerpt: 'Wondering how many PT sessions you\'ll need? Here\'s what affects duration and typical timelines.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'does-physical-therapy-hurt',
+    title: 'Does Physical Therapy Hurt? What to Expect and When Pain Is Normal',
+    excerpt: 'Worried PT will be painful? Here\'s the truth about discomfort during rehab and when to speak up.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'exercise-during-pregnancy-guide',
     title: 'Exercise During Pregnancy: What\'s Safe, What to Avoid, and Why It Matters',
     excerpt: 'Staying active during pregnancy is good for you and baby. Here\'s what you need to know about exercising safely.',

@@ -13,6 +13,782 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'ice-vs-heat-when-to-use': {
+    title: 'Ice vs Heat: When to Use Each for Pain and Injury',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Quick Answer
+
+**Ice:** Use for acute injuries, inflammation, and swelling (first 48-72 hours)
+**Heat:** Use for muscle tension, stiffness, and chronic pain
+
+But it's more nuanced than that. Let's break it down.
+
+## When to Use Ice
+
+### Best For
+
+- Acute injuries (first 48-72 hours)
+- Swelling and inflammation
+- After exercise to reduce inflammation
+- Acute flare-ups of chronic conditions
+- Bruising
+- Strains and sprains (early phase)
+
+### How Ice Works
+
+- Constricts blood vessels (reduces swelling)
+- Numbs nerve endings (reduces pain)
+- Slows cellular metabolism (limits tissue damage)
+- Reduces muscle spasm
+
+### Examples
+
+- Just twisted your ankle? Ice.
+- Swollen knee after activity? Ice.
+- Acute back pain with inflammation? Ice.
+- After a hard workout? Ice can help.
+- Tendonitis flare-up with swelling? Ice.
+
+### How to Ice
+
+- 15-20 minutes at a time
+- Use barrier between ice and skin (cloth/towel)
+- Repeat every 2-3 hours as needed
+- Don't ice longer than 20 minutes
+
+### Don't Use Ice If
+
+- You have poor circulation
+- Area is already numb
+- Over open wounds
+- You have cold sensitivity
+- Raynaud's disease
+
+## When to Use Heat
+
+### Best For
+
+- Muscle tension and tightness
+- Stiffness
+- Chronic pain (ongoing conditions)
+- Before stretching or exercise
+- Muscle spasms (chronic)
+- Arthritis (often)
+- Menstrual cramps
+
+### How Heat Works
+
+- Dilates blood vessels (increases blood flow)
+- Relaxes muscles
+- Increases tissue elasticity
+- Can reduce pain perception
+- Promotes healing by bringing nutrients
+
+### Examples
+
+- Stiff neck from sleeping wrong? Heat.
+- Chronic low back muscle tension? Heat.
+- Before stretching tight muscles? Heat.
+- Arthritis stiffness in the morning? Heat.
+- Muscle soreness (not acute injury)? Heat can help.
+
+### How to Heat
+
+- 15-20 minutes at a time
+- Warm, not hot (avoid burns)
+- Moist heat often more effective (warm towel, bath)
+- Can use heating pads, warm compresses, warm baths
+
+### Don't Use Heat If
+
+- Acute injury with swelling (first 48-72 hours)
+- Open wound
+- Area is infected
+- You have poor sensation (risk of burns)
+- Deep vein thrombosis (blood clot)
+- Over areas with impaired circulation
+
+## The Tricky Situations
+
+### Back Pain
+
+**Acute (new injury, first few days):** Ice may be better
+**Chronic (ongoing muscle tension):** Heat often preferred
+**After activity:** Ice if inflamed, heat if stiff
+
+Many people with back pain prefer heat—it's often muscle-related.
+
+### Arthritis
+
+**During flare with swelling:** Ice
+**Morning stiffness:** Heat
+**General chronic pain:** Often heat, but individual preference matters
+
+### After Exercise
+
+**Acute injury during exercise:** Ice
+**General muscle soreness:** Either can work; some prefer ice to reduce inflammation, others prefer heat for relaxation
+**Overuse symptoms:** Ice after activity often helpful
+
+### Headaches
+
+**Tension headaches:** Heat on neck/shoulders
+**Migraines:** Ice on head/neck often preferred
+**Individual variation:** Try both, see what works
+
+## Contrast Therapy
+
+Some people benefit from alternating ice and heat:
+- Start with heat (3-4 minutes)
+- Switch to cold (1 minute)
+- Repeat 3-4 cycles
+- End with whichever feels better
+
+This can help with chronic conditions by creating a "pumping" effect in blood vessels.
+
+## The Bottom Line
+
+### When in Doubt
+
+- **New injury with swelling:** Start with ice
+- **Chronic muscle tightness:** Try heat
+- **Not sure:** Try both (at different times) and see what feels better
+
+### Individual Variation
+
+Some people respond better to one or the other. If ice makes your condition feel worse, try heat. And vice versa. Your body often knows what it needs.
+
+### Neither Is Magic
+
+Ice and heat are tools for symptom management. They help with pain and comfort but don't necessarily speed healing. Use them as part of a comprehensive approach that includes movement, exercise, and addressing root causes.
+
+---
+
+The ice vs heat debate doesn't have to be complicated. Ice for acute swelling and inflammation, heat for muscle tension and stiffness. When uncertain, experiment. And remember—movement is usually more important than either one.
+`
+  },
+  'what-to-expect-physical-therapy': {
+    title: 'What to Expect at Physical Therapy: Your First Visit Guide',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Your First PT Visit: What Really Happens
+
+If you've never been to physical therapy before, it's natural to wonder what you're getting into. Here's exactly what to expect so you can walk in confident and prepared.
+
+## Before Your Appointment
+
+### What to Bring
+
+- Insurance card
+- Referral (if required by your insurance)
+- List of current medications
+- Imaging reports or CDs (X-rays, MRIs if you have them)
+- Photo ID
+- Comfortable clothing you can move in
+- Any braces, orthotics, or devices you use
+
+### What to Wear
+
+- Athletic or loose-fitting clothes
+- Shorts if your legs will be examined
+- Tank top or sports bra if shoulders/back involved
+- Supportive shoes (or bring them if foot/ankle issue)
+
+### Paperwork
+
+Most clinics send intake forms in advance. Complete them before arrival to save time. They typically include:
+- Medical history
+- Current symptoms and pain levels
+- Goals for therapy
+- Insurance information
+
+## The Evaluation (First Visit)
+
+Your first visit is an evaluation—usually 45-60 minutes. Here's what happens:
+
+### Medical History Review
+
+Your PT will ask about:
+- Your current problem and how it started
+- Pain levels and location
+- What makes it better or worse
+- Previous injuries or surgeries
+- Medical conditions
+- Medications
+- Your goals (what do you want to get back to?)
+
+**Be honest and thorough.** This information guides your treatment.
+
+### Physical Examination
+
+Your PT will assess:
+
+**Observation:**
+- Posture
+- How you move
+- Swelling, bruising, or visible issues
+
+**Range of motion:**
+- How far can you move the affected area?
+- Active (you move) and passive (they move you)
+
+**Strength testing:**
+- Muscle strength assessment
+- Specific muscle tests
+
+**Special tests:**
+- Specific maneuvers to identify the problem
+- Varies by body part and suspected condition
+
+**Functional tests:**
+- How you perform relevant movements
+- Walking, squatting, reaching, etc.
+
+**Palpation:**
+- Touching to assess tissue, identify tender spots
+
+### Diagnosis and Plan
+
+After the exam, your PT will:
+- Explain what they found
+- Discuss the likely cause of your problem
+- Outline a treatment plan
+- Set goals with you
+- Estimate how many visits you'll need
+
+**Ask questions!** Good PTs welcome them.
+
+### Initial Treatment
+
+Time permitting, you may receive some treatment during your first visit:
+- Exercises to start
+- Manual therapy
+- Education on what to do (and avoid) at home
+
+### Home Exercise Program
+
+You'll likely leave with exercises to do between visits. This is crucial—what you do at home matters as much as what happens in the clinic.
+
+## Follow-Up Visits
+
+Subsequent visits are typically 30-60 minutes and include:
+
+### Check-In
+
+- How are you feeling since last visit?
+- How did home exercises go?
+- Any changes in symptoms?
+
+### Treatment
+
+Various combinations of:
+
+**Exercise:**
+- Stretching
+- Strengthening
+- Balance and coordination
+- Functional training
+
+**Manual therapy:**
+- Joint mobilization
+- Soft tissue work
+- Massage techniques
+
+**Modalities (sometimes):**
+- Ice or heat
+- Electrical stimulation
+- Ultrasound
+- Dry needling (some PTs)
+
+### Progression
+
+As you improve:
+- Exercises get harder
+- Goals are updated
+- Treatment focus shifts
+- Frequency may decrease
+
+## How Often Will You Go?
+
+### Typical Frequency
+
+- Acute issues: 2-3x per week initially
+- Chronic conditions: 1-2x per week
+- Maintenance: 1x per week or less
+
+### Duration
+
+- Varies widely by condition
+- Could be 2-4 weeks for minor issues
+- 6-12 weeks for more complex problems
+- Longer for surgical rehab or chronic conditions
+
+## What Makes PT Effective
+
+### Show up consistently
+
+Missed appointments delay progress.
+
+### Do your home exercises
+
+This is where much of the improvement happens.
+
+### Communicate
+
+Tell your PT what's working, what's not, and how you're feeling.
+
+### Be patient
+
+Progress takes time. Trust the process.
+
+## Questions to Ask Your PT
+
+- What's causing my problem?
+- How long will recovery take?
+- What can I do to speed up recovery?
+- Are there activities I should avoid?
+- What should I do if pain increases?
+- When should I expect to see improvement?
+
+## Red Flags: When to Speak Up
+
+Tell your PT immediately if:
+- Symptoms are getting worse
+- You have new symptoms
+- Something feels wrong during treatment
+- You're not understanding the exercises
+- You can't do the home program as prescribed
+
+---
+
+Physical therapy is a partnership. Your PT brings expertise; you bring commitment and communication. Come prepared, ask questions, do your exercises, and you'll get the most out of your PT experience.
+`
+  },
+  'how-long-physical-therapy-take': {
+    title: 'How Long Does Physical Therapy Take? Timeline Expectations by Condition',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Honest Answer
+
+"It depends." 
+
+That's frustrating to hear, but it's true. Duration varies based on:
+- What condition you have
+- How severe it is
+- How long you've had it
+- Your overall health
+- Your commitment to the process
+- Individual healing rates
+
+That said, here are realistic timelines for common conditions.
+
+## Typical Timelines by Condition
+
+### Acute Injuries
+
+**Ankle sprain (Grade I-II):**
+- 2-6 weeks
+- 4-12 visits
+
+**Muscle strain (mild-moderate):**
+- 2-6 weeks
+- 4-12 visits
+
+**Acute back pain:**
+- 2-6 weeks for most
+- Some resolve in 1-2 visits
+- 4-12 visits typical
+
+### Chronic Conditions
+
+**Chronic low back pain:**
+- 6-12 weeks
+- May need maintenance
+- 12-24 visits
+
+**Chronic neck pain:**
+- 6-12 weeks
+- 12-20 visits
+
+**Plantar fasciitis:**
+- 6-12 weeks
+- Sometimes longer
+- 8-16 visits
+
+**Tendinopathies (tennis elbow, Achilles, etc.):**
+- 8-16 weeks
+- Often longer
+- 12-24 visits
+
+### Post-Surgical
+
+**ACL reconstruction:**
+- 6-9 months
+- 30-50 visits
+- Return to sport may take 9-12 months
+
+**Total knee replacement:**
+- 6-12 weeks of formal PT
+- 15-25 visits
+- Full recovery 6-12 months
+
+**Total hip replacement:**
+- 4-8 weeks
+- 10-20 visits
+- Full recovery 3-6 months
+
+**Rotator cuff repair:**
+- 3-6 months
+- 20-40 visits
+- Full recovery up to 12 months
+
+**Spinal fusion:**
+- 3-6 months
+- 20-36 visits
+- Full recovery 6-12 months
+
+### Other Conditions
+
+**Frozen shoulder:**
+- 6-18 months (condition takes time)
+- PT throughout
+- 30-50+ visits
+
+**Vestibular (dizziness/balance):**
+- 4-8 weeks for BPPV
+- 6-12 weeks for other vestibular
+- Varies widely
+
+**Neurological conditions:**
+- Highly variable
+- Often ongoing
+- Depends on specific condition
+
+## Factors That Affect Duration
+
+### Condition-Related
+
+**Severity:**
+More severe = longer recovery
+
+**Chronicity:**
+Longer you've had it = longer to fix
+
+**Type of tissue:**
+- Muscles heal faster than tendons
+- Tendons heal faster than cartilage
+- Bones have predictable healing times
+
+### Patient-Related
+
+**Overall health:**
+- Better health = faster healing
+- Conditions like diabetes slow healing
+
+**Age:**
+- Older typically = slower recovery
+- But still very achievable
+
+**Compliance:**
+- Doing home exercises = faster progress
+- Skipping sessions = slower progress
+
+**Lifestyle factors:**
+- Sleep, nutrition, stress all matter
+- Smoking slows healing
+
+### Treatment-Related
+
+**Frequency:**
+- More frequent visits (initially) often means faster progress
+- Allows for quicker progression
+
+**Skill of PT:**
+- Experience matters
+- Right treatment approach matters
+
+## Frequency of Visits
+
+### Typical Patterns
+
+**Acute phase:**
+- 2-3x per week
+- Focus on initial improvement
+
+**Recovery phase:**
+- 1-2x per week
+- Building strength and function
+
+**Maintenance/late phase:**
+- 1x per week or every other week
+- Fine-tuning, return to activity
+
+**Discharge:**
+- Home program
+- Follow-up as needed
+
+## When You're Not Progressing
+
+If you're not seeing improvement:
+- Tell your PT
+- May need to adjust treatment
+- May need additional evaluation
+- Different approach may help
+
+## Insurance Considerations
+
+**Reality check:**
+- Insurance may limit visits
+- Doesn't always align with clinical need
+- Discuss with your PT
+- Home program becomes even more important
+
+## How to Speed Up Recovery
+
+### Do your home exercises
+
+This is the single biggest factor you control.
+
+### Attend consistently
+
+Missed appointments delay progress.
+
+### Communicate
+
+Tell your PT what's working and what isn't.
+
+### Sleep well
+
+Recovery happens during sleep.
+
+### Manage stress
+
+Stress affects healing and pain.
+
+### Eat well
+
+Nutrition supports tissue repair.
+
+### Don't overdo it
+
+More isn't always better. Follow guidelines.
+
+## The Takeaway
+
+PT duration varies, but here's the pattern:
+- Simple acute issues: 2-6 weeks
+- More complex or chronic: 6-12 weeks
+- Post-surgical: 3-12 months depending on procedure
+
+What matters most isn't the number of visits—it's achieving your functional goals and learning to manage your condition independently.
+
+---
+
+Ask your PT for an estimate specific to your situation. They know your condition and can give you a realistic timeline. And remember: what you do between sessions matters as much as the sessions themselves.
+`
+  },
+  'does-physical-therapy-hurt': {
+    title: 'Does Physical Therapy Hurt? What to Expect and When Pain Is Normal',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Honest Truth
+
+Physical therapy can be uncomfortable at times, but it shouldn't be agonizing. Some discomfort is often part of the process, but there's a difference between productive discomfort and harmful pain.
+
+Let's break this down.
+
+## Types of Discomfort in PT
+
+### Normal, Expected Discomfort
+
+**Working through stiffness:**
+- Moving a stiff joint isn't comfortable
+- "Stretching" sensation is normal
+- Should ease as tissue warms up
+
+**Muscle work:**
+- Strengthening exercises can be challenging
+- Muscle fatigue and mild burning = normal
+- Similar to a workout
+
+**Manual therapy:**
+- Soft tissue work on tight areas can be tender
+- Joint mobilization may cause brief discomfort
+- Should feel better after
+
+**Post-session soreness:**
+- Like after a workout
+- Peaks 24-48 hours later
+- Should resolve within a day or two
+
+### Not Normal (Red Flags)
+
+**Sharp, severe pain:**
+- Stop and tell your PT immediately
+- This isn't "working through it"
+
+**Pain that lingers:**
+- Soreness lasting more than 48-72 hours
+- Symptoms worse than before session
+
+**Nerve symptoms:**
+- Shooting pain
+- Numbness or tingling
+- Burning sensations
+
+**Joint pain that feels "wrong":**
+- Different from muscle discomfort
+- Trust your instincts
+
+## The "No Pain, No Gain" Myth
+
+This mentality doesn't apply to rehab. Here's the reality:
+
+**Some discomfort:** Often necessary to make progress
+**Severe pain:** Not helpful and potentially harmful
+
+The goal is to work at the edge of your comfort zone, not far beyond it. Progress happens through consistent, appropriate challenge—not through suffering.
+
+## Communication Is Key
+
+### Tell Your PT
+
+**Before treatment:**
+- Current pain levels
+- Any changes since last visit
+- Concerns about exercises
+
+**During treatment:**
+- If something hurts more than expected
+- If you feel a concerning sensation
+- Your comfort level (use a 0-10 scale if helpful)
+
+**After treatment:**
+- How you responded
+- Soreness levels
+- Any problems with home exercises
+
+### Use Clear Language
+
+Instead of just "it hurts," try:
+- "Sharp pain when I do this"
+- "Dull ache that builds"
+- "Uncomfortable but tolerable"
+- "This feels different/wrong"
+
+Good PTs adjust based on your feedback. They want to know.
+
+## What Good Pain Management Looks Like
+
+### Your PT Should
+
+- Check in about your pain regularly
+- Modify exercises if needed
+- Explain why certain things might be uncomfortable
+- Never push you into severe pain
+- Respect your limits while encouraging progress
+
+### You Should
+
+- Speak up when something doesn't feel right
+- Not try to be "tough" at the expense of your recovery
+- Do home exercises as prescribed (not more)
+- Report lasting soreness
+
+## Managing Discomfort
+
+### Before Sessions
+
+- Don't come on an empty stomach
+- Stay hydrated
+- Take prescribed pain medication if appropriate
+- Arrive a few minutes early to relax
+
+### During Sessions
+
+- Breathe (don't hold your breath)
+- Communicate with your PT
+- Ask for breaks if needed
+- Use ice or heat as recommended
+
+### After Sessions
+
+**If sore:**
+- Ice can help
+- Gentle movement better than complete rest
+- Over-the-counter pain relief if appropriate
+- Should improve within 48 hours
+
+## Different Conditions, Different Expectations
+
+### Post-Surgical Rehab
+
+- Often more uncomfortable initially
+- Range of motion work can be challenging
+- Progress is worth the discomfort
+- Gets easier over time
+
+### Chronic Pain Conditions
+
+- May have flare-ups
+- Pacing is important
+- Not every session should be painful
+- Often focuses on graded exposure
+
+### Acute Injuries
+
+- Early phase: minimize aggravation
+- Later phase: more challenge expected
+- Pain guides progression
+
+## When to Raise Concerns
+
+### During Session
+
+- Pain above 6/10 that doesn't ease
+- Feeling something is wrong
+- Nausea or dizziness
+- Sharp or shooting pain
+
+### After Session
+
+- Symptoms significantly worse
+- Pain not improving after 48-72 hours
+- New symptoms appeared
+- Can't do daily activities
+
+### Overall
+
+If you dread going to PT because it's too painful, something may need to change. Discuss this with your therapist.
+
+## The Bottom Line
+
+Physical therapy involves working through discomfort to restore function. Some challenges are necessary. But it shouldn't be an exercise in suffering.
+
+**Productive discomfort:** Working at the edge of your abilities, muscle fatigue, stretching sensations, temporary soreness
+
+**Problematic pain:** Sharp/severe pain, lasting worsening, nerve symptoms, feeling that something is wrong
+
+The difference matters. Communicate with your PT, and don't hesitate to speak up. That's not weakness—it's smart rehabilitation.
+
+---
+
+If you're avoiding PT because you're afraid it will hurt too much, know that good therapists can work within your tolerance while still making progress. The goal is to help you feel better, not to make you suffer.
+`
+  },
   'exercise-during-pregnancy-guide': {
     title: 'Exercise During Pregnancy: What\'s Safe, What to Avoid, and Why It Matters',
     date: '2026-03-06',
