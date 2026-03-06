@@ -13,6 +13,854 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'tailbone-pain-coccydynia-treatment': {
+    title: 'Tailbone Pain: Why Sitting Hurts and How to Find Relief',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '6 min read',
+    content: `
+## What Is Coccydynia?
+
+Coccydynia is pain in or around the coccyx (tailbone)—the small triangular bone at the bottom of your spine. It makes sitting painful, sometimes unbearably so.
+
+The coccyx is small but important. It's an attachment point for muscles and ligaments of the pelvic floor, and it bears weight when you sit.
+
+## What Causes Tailbone Pain?
+
+### Trauma
+
+**Direct injury:**
+- Falling onto tailbone (most common cause)
+- Childbirth (pressure or fracture)
+- Repeated minor trauma (cycling, rowing)
+
+### Non-Traumatic Causes
+
+**Hypermobility:**
+- Coccyx moves too much
+- More common in women
+
+**Hypomobility:**
+- Coccyx is too stiff
+- Can occur after injury healing
+
+**Muscle tension:**
+- Pelvic floor dysfunction
+- Coccyx muscle spasm
+
+### Other Factors
+
+- Prolonged sitting on hard surfaces
+- Poor sitting posture
+- Obesity (changes sitting mechanics)
+- Rapid weight loss (less cushioning)
+- Rare: tumors, infection
+
+## Symptoms
+
+### Classic Presentation
+
+- Pain directly at tailbone
+- Worse when sitting (especially on hard surfaces)
+- Pain when going from sitting to standing
+- Pain during bowel movements
+- Pain with sex (some cases)
+- Relief when standing or lying down
+
+### Duration
+
+- Acute: following injury, often resolves in weeks to months
+- Chronic: persists more than 2 months
+
+## Diagnosis
+
+### Physical Exam
+
+- Tenderness over coccyx
+- Internal exam may be needed to assess mobility and pelvic floor
+
+### Imaging
+
+**X-rays:**
+- Standing and sitting views
+- Can show abnormal movement
+
+**MRI:**
+- If fracture, tumor, or other pathology suspected
+
+## Treatment
+
+### Cushioning (First Line)
+
+**Coccyx cushion (donut pillow):**
+- Cutout at back to reduce pressure on tailbone
+- Use on all sitting surfaces
+- Essential for recovery
+
+**Proper sitting:**
+- Lean slightly forward
+- Weight on thighs, not tailbone
+- Avoid prolonged sitting
+
+### Pain Management
+
+**Ice:**
+- 15-20 minutes after aggravating activities
+- Can help with acute inflammation
+
+**Heat:**
+- May help with muscle relaxation
+- Try both, use what works
+
+**NSAIDs:**
+- Over-the-counter anti-inflammatories
+- Help with pain and swelling
+
+### Pelvic Floor Treatment
+
+**Why it matters:**
+Many cases involve pelvic floor muscle tension or spasm. Treating this is often key.
+
+**Pelvic floor physical therapy:**
+- Internal and external techniques
+- Muscle release
+- Coordination training
+- Often very effective
+
+### Manual Therapy
+
+**Internal coccyx manipulation:**
+- Done by specialist (pelvic PT or physician)
+- Mobilizes restricted coccyx
+- Can provide significant relief
+
+### Exercises
+
+**Pelvic floor relaxation:**
+- Diaphragmatic breathing
+- Reverse Kegels (gentle bearing down)
+- Focus on releasing, not tightening
+
+**Hip stretches:**
+- Piriformis stretch
+- Hip flexor stretch
+- May reduce tension on coccyx attachments
+
+**Gentle core work:**
+- Avoid sit-ups or crunches
+- Stability work in pain-free positions
+
+## Injections
+
+### Corticosteroid Injection
+
+**When used:**
+- Failed 4-8 weeks conservative treatment
+- Significant pain
+
+**How it works:**
+- Injection around coccyx
+- Reduces inflammation
+- Often provides relief
+
+### Ganglion Impar Block
+
+- Blocks the nerve bundle near coccyx
+- For refractory cases
+
+## Surgery (Coccygectomy)
+
+### Rarely Needed
+
+Last resort after all conservative measures fail.
+
+### Indications
+
+- Severe, disabling pain
+- Failed 6+ months conservative treatment
+- Failed injections
+
+### The Procedure
+
+- Removal of part or all of coccyx
+- Outpatient surgery
+- Variable outcomes (60-90% improvement)
+
+### Recovery
+
+- 4-6 weeks before sitting normally
+- Full recovery several months
+- Wound near anus requires careful hygiene
+
+## Sitting Modifications
+
+### Use Cushion Everywhere
+
+- Work
+- Car
+- Home
+- Restaurants
+
+### Sit Properly
+
+- Lean forward slightly
+- Alternate positions
+- Stand frequently
+
+### Standing Desk
+
+Consider for work—reduces sitting time significantly.
+
+## Timeline for Recovery
+
+### Acute Cases
+
+- Most improve within weeks to months
+- Cushioning + time often enough
+
+### Chronic Cases
+
+- May take longer
+- Often need pelvic floor treatment
+- Usually still resolve
+
+### After Childbirth
+
+- Very common
+- Usually resolves within months
+- Pelvic floor PT can help
+
+## When to See a Doctor
+
+- Pain not improving after 2-4 weeks
+- Severe pain
+- Numbness or weakness
+- Bowel or bladder changes
+- Fever
+- Unexplained weight loss
+
+---
+
+Tailbone pain is genuinely miserable—sitting is unavoidable in daily life. The good news is that most cases respond to cushioning, time, and pelvic floor treatment if needed. Get a good coccyx cushion, sit properly, and give it time. If it persists, pelvic floor physical therapy is often the key.
+`
+  },
+  'facet-joint-syndrome-back-pain': {
+    title: 'Facet Joint Syndrome: The Overlooked Cause of Back and Neck Pain',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '6 min read',
+    content: `
+## What Are Facet Joints?
+
+Facet joints (also called zygapophyseal joints) are small joints on either side of each vertebra. They guide and limit spinal motion while providing stability.
+
+You have facet joints throughout your spine—cervical (neck), thoracic (mid-back), and lumbar (low back). The lumbar facets are most commonly symptomatic.
+
+## What Is Facet Joint Syndrome?
+
+Facet joint syndrome is pain originating from one or more facet joints. It's estimated to cause 15-45% of chronic low back pain and 25-65% of chronic neck pain.
+
+Despite being so common, it's often overlooked because symptoms overlap with disc problems and other conditions.
+
+## What Causes Facet Joint Problems?
+
+### Degeneration (Most Common)
+
+- Normal wear and tear
+- Cartilage breakdown
+- Osteoarthritis
+- More common with age
+
+### Other Causes
+
+- Injury or trauma
+- Poor posture
+- Obesity
+- Repetitive stress
+- Disc degeneration (puts more stress on facets)
+- Spondylolisthesis
+
+## Symptoms
+
+### Classic Pattern
+
+**Lumbar facet pain:**
+- Low back pain, often one-sided
+- Pain into buttock or back of thigh (not usually below knee)
+- Worse with extension (bending backward)
+- Worse with twisting
+- Stiffness after rest
+- Better with movement (once warmed up)
+- Better with flexion (bending forward)
+
+**Cervical facet pain:**
+- Neck pain, often one-sided
+- Pain into shoulder or upper back
+- Headaches (especially back of head)
+- Worse looking up or rotating
+- Morning stiffness
+
+### What It's NOT
+
+- Doesn't typically cause true radiculopathy (nerve root compression)
+- Usually doesn't go past knee (lumbar) or past shoulder (cervical)
+- No neurological deficits (weakness, numbness)
+
+## Diagnosis
+
+### Challenge
+
+There's no single test that definitively diagnoses facet pain. Diagnosis is based on:
+- History and symptom pattern
+- Physical exam
+- Response to diagnostic injection
+
+### Physical Exam
+
+- Pain with extension and rotation
+- Tenderness over facet joints
+- Absence of neurological findings
+
+### Imaging
+
+**X-rays:**
+- May show facet arthritis
+- But many people have arthritis without symptoms
+
+**MRI:**
+- Better detail of joints and soft tissue
+- Same caveat—findings don't always correlate with pain
+
+### Diagnostic Injection
+
+**The gold standard:**
+- Numbing medication injected into facet joint or nerve
+- If pain significantly relieved = facet source confirmed
+- Also therapeutic
+
+## Treatment
+
+### Conservative (First Line)
+
+**Activity modification:**
+- Avoid prolonged extension
+- Modify activities that aggravate
+- Don't stay in one position too long
+
+**Physical therapy:**
+- Core stabilization
+- Flexibility work
+- Posture correction
+- Manual therapy
+
+**Medications:**
+- NSAIDs
+- Acetaminophen
+- Topical agents
+
+### Exercise Approach
+
+**What helps:**
+
+Flexion-based exercises:
+- Knee-to-chest stretches
+- Cat stretch (arching back up)
+- Prayer stretch
+
+Core stabilization:
+- Dead bugs
+- Bird dogs
+- Planks
+
+Hip flexibility:
+- Hip flexor stretches
+- Hamstring stretches
+
+**What to limit initially:**
+
+Extension-based exercises:
+- Prone press-ups
+- Cobras
+- Back bends
+
+Heavy loading:
+- Heavy squats and deadlifts
+- Overhead pressing
+
+### Manual Therapy
+
+- Spinal mobilization
+- Soft tissue work
+- Often provides relief
+
+## Injections
+
+### Facet Joint Injections
+
+- Corticosteroid + local anesthetic
+- Directly into joint
+- Diagnostic and therapeutic
+- Relief varies (weeks to months)
+
+### Medial Branch Blocks
+
+- Numbs the nerve supplying the facet
+- More diagnostic than therapeutic
+- Precursor to ablation if effective
+
+### Radiofrequency Ablation (RFA)
+
+**For lasting relief:**
+- Heat lesion to the nerve supplying the facet
+- Done after positive diagnostic blocks
+- Pain relief typically 6-12 months
+- Can be repeated when pain returns
+
+## When Surgery Is Considered
+
+### Rarely
+
+Facet syndrome alone rarely requires surgery.
+
+### Exceptions
+
+- Part of larger degenerative problem
+- Associated instability
+- Failed all other treatments
+
+## Living With Facet Syndrome
+
+### Daily Management
+
+- Avoid sustained extension
+- Maintain movement
+- Core strengthening
+- Regular stretching
+
+### Work Modifications
+
+- Avoid overhead work when possible
+- Take position breaks
+- Ergonomic setup
+
+### Long-Term Outlook
+
+- Usually manageable
+- Flares may occur
+- RFA available if conservative measures insufficient
+
+---
+
+Facet joint pain is common but often missed because there's no definitive test. If your back or neck pain is worse with bending backward and rotating, and better with bending forward and moving, consider facet joints as the source. Exercise, posture, and potentially injections or ablation can provide significant relief.
+`
+  },
+  'bone-spurs-osteophytes-treatment': {
+    title: 'Bone Spurs: What They Are, When They Matter, and What to Do About Them',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## What Are Bone Spurs?
+
+Bone spurs (osteophytes) are bony projections that develop along the edges of bones. They form in response to stress, pressure, or degenerative changes—often near joints or where ligaments and tendons attach to bone.
+
+The name is misleading—they're usually not sharp or pointy. They're more like bony lips or ridges.
+
+## Why Do Bone Spurs Form?
+
+### The Body's Attempt to Stabilize
+
+When a joint experiences stress or instability, the body tries to increase surface area and create more stability by adding bone.
+
+**Common causes:**
+- Osteoarthritis (most common)
+- Degenerative disc disease
+- Repetitive stress
+- Injuries
+- Aging
+- Genetics
+
+### Where They Form
+
+- Spine (vertebrae)
+- Shoulders
+- Hips
+- Knees
+- Feet (especially heels)
+- Hands
+
+## Do They Matter?
+
+### The Important Truth
+
+**Most bone spurs don't cause symptoms.**
+
+It's common to have bone spurs on imaging that cause zero problems. Many people over 60 have them somewhere without knowing.
+
+### When They Cause Problems
+
+Bone spurs may be symptomatic when they:
+- Press on nerves
+- Reduce joint space
+- Limit motion
+- Irritate surrounding tissue
+- Rub against other structures
+
+### Location Matters
+
+**Spine:**
+- Can narrow nerve passages (foraminal stenosis)
+- Can contribute to spinal stenosis
+- May cause radiculopathy
+
+**Shoulder:**
+- Can contribute to impingement
+- May irritate rotator cuff
+
+**Heel:**
+- Associated with plantar fasciitis
+- (But often not the actual pain cause)
+
+**Hip/Knee:**
+- Part of osteoarthritis picture
+- Contribute to stiffness and pain
+
+## Symptoms (When Present)
+
+### Depend on Location
+
+**Spine:**
+- Pain, stiffness
+- Radiating arm or leg pain (if nerve involved)
+- Numbness, tingling
+- Weakness (severe cases)
+
+**Joints:**
+- Pain
+- Stiffness
+- Reduced range of motion
+- Swelling
+
+**Heel:**
+- Heel pain (though often from fascia, not spur)
+
+## Diagnosis
+
+### Imaging
+
+**X-rays:**
+- Show bone spurs clearly
+- First-line imaging
+
+**CT scan:**
+- Better bone detail
+- Useful for surgical planning
+
+**MRI:**
+- Shows soft tissue
+- Evaluates nerve compression
+- Assesses overall joint health
+
+### Remember
+
+Just because imaging shows spurs doesn't mean they're causing your symptoms. Correlation doesn't equal causation.
+
+## Treatment
+
+### No Treatment Needed (Most Cases)
+
+If spurs aren't causing symptoms, leave them alone. They don't need to be removed preventatively.
+
+### Conservative Treatment (When Symptomatic)
+
+**For joint-related spurs:**
+- Activity modification
+- Weight management
+- Physical therapy
+- Strengthening and flexibility
+- NSAIDs for pain
+- Joint injections (if arthritis component)
+
+**For spine-related spurs:**
+- Physical therapy
+- Posture work
+- Core strengthening
+- Epidural injections (if nerve involvement)
+
+**For heel spurs:**
+- Stretching (calf, plantar fascia)
+- Orthotics
+- Night splints
+- Physical therapy
+- Often improves without addressing spur directly
+
+### Surgery (Rarely Needed)
+
+**Indications:**
+- Significant nerve compression
+- Failed conservative treatment (3-6+ months)
+- Progressive neurological deficit
+- Severe symptoms affecting quality of life
+
+**Options:**
+- Spur removal
+- Decompression surgery
+- Joint replacement (if severe arthritis)
+
+## Living With Bone Spurs
+
+### Focus on Function, Not Imaging
+
+- Your symptoms matter more than pictures
+- Many spurs are asymptomatic
+- Don't panic over imaging findings
+
+### Manage the Underlying Condition
+
+- If arthritis is the cause, treat the arthritis
+- Maintain joint health
+- Stay active within your limits
+
+### Prevention
+
+While you can't fully prevent age-related spurs:
+- Maintain healthy weight
+- Stay active
+- Protect joints from injury
+- Address joint problems early
+
+## Common Myths
+
+### "Bone spurs need to be removed"
+
+Most don't. Only symptomatic ones that haven't responded to conservative treatment.
+
+### "They're sharp and poking things"
+
+They're usually smooth and rounded, not spiky.
+
+### "They keep growing forever"
+
+They tend to reach a certain size and stabilize.
+
+### "Nothing can be done"
+
+Many symptomatic spurs respond well to conservative treatment.
+
+## When to See a Doctor
+
+- New or worsening nerve symptoms (numbness, weakness)
+- Pain not responding to home treatment
+- Significant impact on daily activities
+- Concern about a new finding on imaging
+
+---
+
+Bone spurs are often feared more than they should be. They're a common finding as we age, and most don't cause problems. If yours are symptomatic, conservative treatment usually helps. Focus on maintaining joint health, staying active, and addressing symptoms rather than fixating on the imaging report.
+`
+  },
+  'leg-length-discrepancy-treatment': {
+    title: 'Leg Length Discrepancy: Does It Matter and What Should You Do?',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## What Is Leg Length Discrepancy?
+
+Leg length discrepancy (LLD) means one leg is longer than the other. This is extremely common—most people have some asymmetry, often without knowing it.
+
+The question isn't "do you have it?" but "is it significant enough to matter?"
+
+## Types of LLD
+
+### Structural (True) LLD
+
+Actual bone length difference:
+- One femur or tibia shorter than the other
+- From birth, injury, or bone disease
+- Measurable on X-ray
+
+### Functional (Apparent) LLD
+
+Legs are the same length, but appear different due to:
+- Pelvic tilt or rotation
+- Scoliosis
+- Muscle imbalances
+- Joint contractures
+- Foot abnormalities (flat foot vs high arch)
+
+### Why This Matters
+
+**Structural LLD:** May need physical correction (heel lift)
+
+**Functional LLD:** Address the underlying cause, not just add a lift
+
+## How Common Is It?
+
+Studies suggest:
+- Up to 90% of people have some difference
+- Most are less than 1 cm
+- Differences under 2 cm rarely cause problems
+
+## Does It Cause Problems?
+
+### The Complicated Truth
+
+**Small differences (< 1 cm):**
+Most studies show no significant link to pain or injury. The body compensates well.
+
+**Moderate differences (1-2 cm):**
+May or may not cause issues. Individual variation is huge.
+
+**Large differences (> 2 cm):**
+More likely to cause problems, though not guaranteed.
+
+### What Research Shows
+
+- LLD is associated with some conditions (low back pain, hip arthritis)
+- But many people with LLD have no symptoms
+- And many people with pain have no significant LLD
+- Correlation isn't causation
+
+## Symptoms (When Present)
+
+### Common Complaints
+
+- Low back pain (usually on longer leg side)
+- Hip pain
+- Knee pain
+- Pelvic tilt or asymmetry
+- Gait abnormality
+- Postural changes
+
+### Often Asymptomatic
+
+Many significant LLDs cause no symptoms at all. The body is remarkably adaptable.
+
+## Diagnosis
+
+### Clinical Measurement
+
+**Methods:**
+- Measuring tape (ASIS to medial malleolus)
+- Block test (stand on blocks until pelvis level)
+- Visual observation of pelvic height
+
+**Limitations:**
+- Clinical measurements have significant error
+- Can be off by 0.5-1 cm or more
+
+### Imaging
+
+**X-rays:**
+- Standing full-leg X-ray
+- Most accurate for structural LLD
+- Done if considering treatment
+
+### Functional Assessment
+
+If functional LLD suspected:
+- Assess pelvic mobility and position
+- Test hip and ankle flexibility
+- Check for scoliosis
+- Evaluate muscle imbalances
+
+## Treatment
+
+### First: Determine if Treatment Is Needed
+
+Questions to ask:
+- Is the LLD causing symptoms?
+- Is there a functional component to address first?
+- What's the actual measurement?
+
+### Address Functional Issues First
+
+**If pelvic dysfunction:**
+- Manual therapy
+- Stretching tight muscles
+- Strengthening weak muscles
+- May resolve "apparent" LLD
+
+**If joint restrictions:**
+- Mobilization
+- Stretching
+- May equalize leg lengths functionally
+
+### Heel Lifts (For Structural LLD)
+
+**When to use:**
+- Structural LLD greater than 1 cm
+- Associated with symptoms
+- Functional causes ruled out or addressed
+
+**How to use:**
+- Start with half the measured difference
+- Gradually increase if needed
+- Allow weeks to adapt
+- May need full lift eventually
+
+**In-shoe vs shoe build-up:**
+- Small lifts: in-shoe insert
+- Larger lifts: shoe modification
+
+### Physical Therapy
+
+- Address compensatory patterns
+- Strengthen weak areas
+- Stretch tight areas
+- Improve mechanics
+
+### Surgery (Rare)
+
+**Indications:**
+- Large discrepancy (usually > 2-3 cm)
+- Significant functional impact
+- Growing children may benefit from guided growth procedures
+
+**Options:**
+- Bone lengthening
+- Bone shortening
+- Epiphysiodesis (growth plate arrest in children)
+
+## Should You Get Checked?
+
+### Worth Investigating If
+
+- Persistent one-sided pain
+- Visible pelvic tilt
+- Shoe wear asymmetry
+- History of leg fracture or childhood hip problem
+
+### Probably Not Needed If
+
+- No symptoms
+- Normal function
+- No history of leg/hip problems
+
+## Living With LLD
+
+### If You Have It
+
+- Doesn't mean you'll have problems
+- Address it if symptomatic
+- Many athletes perform at high levels with LLD
+
+### Focus on Function
+
+- Symmetry isn't everything
+- Many "perfect" spines and legs have pain
+- Many asymmetric bodies are pain-free
+
+---
+
+Leg length discrepancy is incredibly common and usually unimportant. Small differences are normal variations. If you have symptoms that might be related, get properly assessed—but don't assume a minor LLD is the cause of your problems. Address functional issues first, use lifts judiciously, and remember that the body is remarkably good at adapting to asymmetry.
+`
+  },
   'lordosis-swayback-posture-exercises': {
     title: 'Lordosis: Exercises to Fix Swayback Posture and Reduce Lower Back Pain',
     date: '2026-03-06',

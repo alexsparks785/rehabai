@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'tailbone-pain-coccydynia-treatment',
+    title: 'Tailbone Pain: Why Sitting Hurts and How to Find Relief',
+    excerpt: 'Can\'t sit without pain? Coccydynia is frustrating but treatable. Here\'s what causes tailbone pain and what actually helps.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'facet-joint-syndrome-back-pain',
+    title: 'Facet Joint Syndrome: The Overlooked Cause of Back and Neck Pain',
+    excerpt: 'Back pain that\'s worse with extension and twisting? Your facet joints might be the problem. Here\'s what to do about it.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'bone-spurs-osteophytes-treatment',
+    title: 'Bone Spurs: What They Are, When They Matter, and What to Do About Them',
+    excerpt: 'Diagnosed with bone spurs? Don\'t panic. Here\'s when they cause problems and when they\'re just a normal part of aging.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'leg-length-discrepancy-treatment',
+    title: 'Leg Length Discrepancy: Does It Matter and What Should You Do?',
+    excerpt: 'One leg shorter than the other? Here\'s when it causes problems, when it doesn\'t, and how to address it if needed.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'lordosis-swayback-posture-exercises',
     title: 'Lordosis: Exercises to Fix Swayback Posture and Reduce Lower Back Pain',
     excerpt: 'Standing with an exaggerated curve in your lower back? Here\'s what causes lordosis and the exercises that restore proper alignment.',
