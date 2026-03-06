@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'tennis-elbow-lateral-epicondylitis',
+    title: 'Tennis Elbow: Causes, Exercises, and How to Finally Get Rid of It',
+    excerpt: 'That nagging pain on the outside of your elbow? Here\'s what causes tennis elbow and the proven exercises that heal it.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'sciatica-exercises-relief',
+    title: 'Sciatica: Exercises That Help, Exercises to Avoid, and When to See a Doctor',
+    excerpt: 'Shooting pain down your leg? Here\'s what actually works for sciatica—and what makes it worse.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'frozen-shoulder-exercises-treatment',
+    title: 'Frozen Shoulder: What It Is, How Long It Lasts, and Exercises That Speed Recovery',
+    excerpt: 'Can\'t lift your arm? Frozen shoulder is frustrating but treatable. Here\'s the timeline and what to do at each stage.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'shin-splints-treatment-prevention',
+    title: 'Shin Splints: Why They Happen and How to Get Rid of Them for Good',
+    excerpt: 'Shin pain ruining your runs? Here\'s what causes shin splints and how to fix them—plus prevent them from coming back.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '6 min read'
+  },
+  {
     slug: 'golf-back-pain-prevention',
     title: 'Golf and Back Pain: Why It Happens and How to Play Pain-Free',
     excerpt: 'Back pain ruining your golf game? Here\'s what causes it and how to keep swinging without hurting.',

@@ -13,6 +13,886 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'tennis-elbow-lateral-epicondylitis': {
+    title: 'Tennis Elbow: Causes, Exercises, and How to Finally Get Rid of It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read',
+    content: `
+## What Is Tennis Elbow?
+
+Tennis elbow (lateral epicondylitis) is pain on the outside of your elbow where your forearm muscles attach. Despite the name, most people who get it have never picked up a racket.
+
+It's an overuse injury—repetitive gripping, twisting, and lifting gradually damages the tendons that attach to the lateral epicondyle (the bony bump on the outside of your elbow).
+
+## Who Gets Tennis Elbow?
+
+### Common Culprits
+
+- **Office workers** - mouse use, typing
+- **Tradespeople** - plumbers, painters, carpenters
+- **Tennis/racquet sports** - especially backhand-heavy players
+- **Weightlifters** - heavy pulling movements
+- **Musicians** - guitar, violin
+- **Anyone 35-55** - peak age range
+
+### The Pattern
+
+Usually starts gradually. You notice it gripping things—coffee cups, doorknobs, handshakes. Gets worse with any twisting motion (turning keys, opening jars).
+
+## Why It's So Stubborn
+
+Tennis elbow is notoriously slow to heal. Here's why:
+
+### Poor Blood Supply
+
+The tendon attachment point has limited blood flow. Less blood = fewer healing nutrients.
+
+### Ongoing Stress
+
+Unlike an acute injury you can rest, tennis elbow is triggered by activities you do all day—typing, gripping, carrying.
+
+### Degenerative, Not Inflammatory
+
+Despite the "-itis" suffix (meaning inflammation), tennis elbow is actually a degenerative tendinopathy. The tendon breaks down faster than it rebuilds.
+
+## What Actually Works
+
+### Load Management (Not Complete Rest)
+
+Rest feels intuitive but isn't ideal. Tendons need load to heal—just the right amount.
+
+**The goal:** Stay under the threshold that aggravates symptoms while providing enough stimulus to remodel the tendon.
+
+### Eccentric Exercise (The Gold Standard)
+
+Eccentric exercises—where the muscle lengthens under load—have the strongest evidence for tendinopathy.
+
+**Tyler twist with FlexBar:**
+
+The classic evidence-based exercise:
+- Hold FlexBar vertically
+- Grip with affected hand, wrist extended
+- Grip with other hand, twist the bar by flexing wrist
+- Slowly untwist by letting affected wrist flex
+- 3 sets of 15, twice daily
+
+**Wrist extension eccentric:**
+
+- Hold light dumbbell (1-3 lbs), palm down
+- Support forearm on table, wrist hanging off edge
+- Use other hand to lift weight up
+- Slowly lower over 3-5 seconds
+- 3 sets of 15
+
+### Wrist Strengthening
+
+Beyond eccentrics, build overall forearm strength:
+
+**Wrist curls:**
+- Palm up, curl weight
+- 3 sets of 15
+
+**Reverse wrist curls:**
+- Palm down, lift weight
+- 3 sets of 15
+
+**Grip strengthening:**
+- Squeeze stress ball or hand gripper
+- Focus on slow, controlled squeezes
+
+### Stretching
+
+**Wrist extensor stretch:**
+- Straighten arm, palm facing down
+- Use other hand to gently flex wrist down
+- Keep elbow straight
+- Hold 30 seconds, 3x daily
+
+## What to Avoid
+
+### Activities That Spike Pain
+
+- Heavy gripping or twisting when inflamed
+- Backhand tennis (until healed)
+- Heavy pulling exercises (rows, deadlifts, pull-ups)
+
+### Treatments Without Strong Evidence
+
+- **Cortisone injections:** Provide short-term relief but may worsen long-term outcomes
+- **Shockwave therapy:** Mixed evidence, may help some cases
+- **PRP injections:** Research is inconclusive
+- **Braces alone:** May reduce strain but don't address underlying problem
+
+## The Rehab Timeline
+
+### Weeks 1-2: Relative Rest
+
+- Avoid aggravating activities
+- Ice for pain relief
+- Gentle stretching
+- Consider a counterforce brace
+
+### Weeks 2-6: Loading Phase
+
+- Begin eccentric exercises
+- Start light, progress gradually
+- Expect some discomfort (not sharp pain)
+
+### Weeks 6-12: Strengthening
+
+- Continue eccentrics
+- Add general wrist/grip strengthening
+- Gradually return to aggravating activities
+
+### 3-6 Months: Full Recovery
+
+Most cases resolve with consistent rehab. Some take up to a year.
+
+## Workplace Modifications
+
+### Computer Work
+
+- Use ergonomic mouse/keyboard
+- Keep wrist neutral (not bent up or down)
+- Take micro-breaks every 20-30 minutes
+- Consider vertical mouse
+
+### Manual Labor
+
+- Use tools with larger, padded grips
+- Alternate hands when possible
+- Take breaks before fatigue sets in
+- Strengthen opposing muscles
+
+## When to See a Professional
+
+- No improvement after 6-8 weeks of consistent exercise
+- Significant weakness in grip
+- Pain at rest or at night
+- Numbness or tingling in hand
+- Sudden onset after trauma
+
+## Prevention
+
+### Build Forearm Strength
+
+Strong muscles protect tendons. Consistent training beats reactive treatment.
+
+### Warm Up Before Activity
+
+Whether tennis or typing marathon, prepare the tissue.
+
+### Progress Gradually
+
+Sudden increases in activity volume are the most common trigger.
+
+### Address Root Causes
+
+If it's your workstation, fix your workstation. If it's your backhand technique, get a lesson.
+
+---
+
+Tennis elbow is frustrating because it happens from activities you can't avoid. But with consistent eccentric exercise, load management, and patience, most people recover completely. The key is sticking with rehab even when improvement is slow.
+`
+  },
+  'sciatica-exercises-relief': {
+    title: 'Sciatica: Exercises That Help, Exercises to Avoid, and When to See a Doctor',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '8 min read',
+    content: `
+## What Is Sciatica?
+
+Sciatica is pain that radiates along the sciatic nerve—from your lower back, through your hip and buttock, down the back of your leg. It can feel like an electric shock, burning sensation, or deep ache.
+
+The sciatic nerve is the longest and thickest nerve in your body. When it's irritated, you know it.
+
+## What Causes Sciatica?
+
+### Most Common: Disc Problems
+
+**Herniated disc:**
+The disc's inner gel pushes through its outer layer and presses on the nerve root. This is the classic cause.
+
+**Degenerative disc disease:**
+Discs lose height and may bulge, narrowing the space where nerves exit.
+
+### Also Common
+
+**Spinal stenosis:**
+The spinal canal narrows, putting pressure on nerves. More common over 50.
+
+**Piriformis syndrome:**
+The piriformis muscle in your buttock spasms and compresses the sciatic nerve.
+
+**Spondylolisthesis:**
+One vertebra slips forward over another, pinching nerves.
+
+### Less Common
+
+- Tumors (rare)
+- Infections (rare)
+- Injury/trauma
+
+## Red Flags: See a Doctor Now
+
+Go to urgent care or emergency if you have:
+
+- Loss of bladder or bowel control
+- Sudden, severe weakness in leg
+- Numbness in groin/saddle area
+- Progressive neurological symptoms
+- Sciatica after significant trauma
+
+These could indicate cauda equina syndrome—a medical emergency.
+
+## Exercises That Help
+
+The goal: reduce nerve irritation and improve movement tolerance. What helps depends on your specific cause.
+
+### If Extension Feels Better (Most Disc Problems)
+
+**Prone prop:**
+- Lie face down
+- Prop up on elbows
+- Let low back sag, relax glutes
+- Hold 30-60 seconds
+- Repeat 6-8x through the day
+
+**Press-up (McKenzie extension):**
+- Lie face down
+- Push upper body up, keeping hips on floor
+- Go to comfortable range
+- Let back arch, breathe
+- 10 reps, several times daily
+
+**Why it works:** Extension can help "centralize" the pain (move it from leg toward back) by shifting disc material away from the nerve.
+
+### If Flexion Feels Better (Stenosis, Some Disc Cases)
+
+**Knee-to-chest:**
+- Lie on back
+- Pull one or both knees to chest
+- Hold 20-30 seconds
+- Repeat 5-10x
+
+**Prayer stretch:**
+- Kneel, sit back on heels
+- Reach arms forward, rest forehead on floor
+- Hold 30-60 seconds
+
+### For Piriformis Syndrome
+
+**Figure-4 stretch:**
+- Lie on back
+- Cross ankle over opposite knee
+- Pull bottom leg toward chest
+- Hold 30 seconds each side
+
+**Piriformis stretch seated:**
+- Sit in chair
+- Cross ankle over knee
+- Lean forward with straight back
+- Hold 30 seconds
+
+### Core Stability (Everyone)
+
+**Bird-dog:**
+- On hands and knees
+- Extend opposite arm and leg
+- Keep back flat, don't rotate
+- Hold 5-10 seconds
+- 10 each side
+
+**Dead bug:**
+- Lie on back, knees bent 90°
+- Press low back into floor
+- Slowly lower opposite arm and leg
+- Return, switch sides
+- 10 each side
+
+**Modified plank:**
+- Forearms and knees (or toes if able)
+- Straight line from head to knees/heels
+- Hold 20-30 seconds, build to 60
+
+### Walking
+
+Often the best exercise for sciatica. It's gentle, promotes circulation, and avoids sustained positions. Walk within your pain tolerance, even if that's just a few minutes initially.
+
+## Exercises to Avoid (Initially)
+
+### Heavy Lifting
+
+Especially deadlifts, rows, and anything loading the spine. Wait until symptoms improve.
+
+### High-Impact Activities
+
+Running, jumping, plyometrics—too much jarring.
+
+### Prolonged Sitting
+
+Not exercise, but a common aggravator. Get up every 20-30 minutes.
+
+### Forward Bending Under Load
+
+Picking things up with rounded back is the classic disc-herniation mechanism.
+
+### Stretches That Increase Leg Pain
+
+If stretching makes the pain shoot further down your leg (peripheralization), stop. That's making it worse.
+
+## The Centralization Principle
+
+This is key to understanding what helps your specific sciatica.
+
+**Centralization:** Pain moves from leg toward back/buttock. This is GOOD—it means the nerve is being decompressed.
+
+**Peripheralization:** Pain moves from back down into leg. This is BAD—something's making the nerve more irritated.
+
+Find movements that centralize your pain and do more of them. Avoid movements that peripheralize.
+
+## Positions That Help
+
+### Lying Down
+
+Often the most comfortable. Lie on back with knees supported by pillows, or on side with pillow between knees.
+
+### Standing vs Sitting
+
+Most disc-related sciatica is worse sitting, better standing or walking. If you have stenosis, opposite may be true.
+
+### The 90-90 Position
+
+Lie on back, calves resting on chair seat (knees and hips both at 90°). Takes pressure off discs.
+
+## How Long Does Sciatica Last?
+
+### Typical Timeline
+
+- **Most cases:** Improve significantly within 4-6 weeks
+- **Complete resolution:** 8-12 weeks
+- **Stubborn cases:** May take 3-6 months
+- **Surgery consideration:** Usually not before 6 weeks minimum
+
+### Factors That Affect Recovery
+
+- Cause (disc vs stenosis vs piriformis)
+- Severity of nerve compression
+- How long you've had symptoms
+- Age and overall health
+- Consistency with appropriate exercise
+
+## When to Consider Surgery
+
+Surgery is rarely the first option. Consider it if:
+
+- 6+ weeks of conservative treatment hasn't helped
+- Progressive neurological deficits (weakness, numbness worsening)
+- Intolerable pain affecting quality of life
+- Red flag symptoms (emergency)
+
+Common procedures: microdiscectomy, laminectomy.
+
+## Medications
+
+For short-term relief (discuss with doctor):
+
+- NSAIDs (ibuprofen, naproxen) - reduce inflammation
+- Muscle relaxants - if significant muscle spasm
+- Oral steroids - short course may help acute flare
+- Gabapentin/pregabalin - for nerve pain
+
+Avoid relying on medication alone—exercise is essential.
+
+## Prevention
+
+### Protect Your Back
+
+- Lift with legs, not back
+- Avoid prolonged sitting
+- Maintain healthy weight
+- Quit smoking (impairs disc health)
+
+### Build Core Strength
+
+Strong core = protected spine. Make it a lifelong habit.
+
+### Stay Active
+
+Regular movement keeps discs healthy. They don't have direct blood supply—they rely on movement to receive nutrients.
+
+### Don't Ignore Early Symptoms
+
+Address low back pain before it becomes sciatica.
+
+---
+
+Sciatica is scary when it first hits, but most cases resolve with time and the right exercises. Find what centralizes your symptoms, stay active within your limits, and give it time. If you're not improving after 6-8 weeks, or if symptoms are severe, get professional evaluation.
+`
+  },
+  'frozen-shoulder-exercises-treatment': {
+    title: 'Frozen Shoulder: What It Is, How Long It Lasts, and Exercises That Speed Recovery',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read',
+    content: `
+## What Is Frozen Shoulder?
+
+Frozen shoulder (adhesive capsulitis) is a condition where your shoulder becomes incredibly stiff and painful. The joint capsule—the connective tissue surrounding the shoulder—thickens and tightens, drastically limiting movement.
+
+It's different from most shoulder problems. With rotator cuff injuries, you have weakness. With frozen shoulder, you literally cannot move your arm—even if someone else tries to move it for you.
+
+## Who Gets Frozen Shoulder?
+
+### Risk Factors
+
+- **Age:** Most common between 40-60
+- **Sex:** Women affected more than men
+- **Diabetes:** 10-20% of diabetics develop it
+- **Thyroid disorders:** Both hyper- and hypothyroidism
+- **Recent immobilization:** After surgery, fracture, or stroke
+- **Idiopathic:** Often, there's no clear cause
+
+### The Mystery
+
+One of the frustrating things about frozen shoulder is we don't fully understand why it happens. The capsule becomes inflamed and then fibrotic (scarred), but the trigger is often unknown.
+
+## The Three Stages
+
+Frozen shoulder follows a predictable pattern:
+
+### Stage 1: Freezing (2-9 months)
+
+- Pain comes first, often severe
+- Movement starts to decrease
+- Pain worse at night
+- Can't sleep on affected side
+- This stage is the most painful
+
+### Stage 2: Frozen (4-12 months)
+
+- Pain may actually decrease
+- But stiffness is maximal
+- Significant loss of motion in all directions
+- Daily activities severely limited
+- The "plateau" phase
+
+### Stage 3: Thawing (5-24 months)
+
+- Gradual return of movement
+- Pain continues to decrease
+- Slow but steady improvement
+- May take months to years
+
+### Total Duration
+
+The bad news: frozen shoulder typically lasts 1-3 years total. The good news: it almost always resolves eventually.
+
+## Exercises by Stage
+
+### Freezing Stage: Gentle Motion
+
+The goal is to maintain what movement you have without aggravating inflammation.
+
+**Pendulum exercise:**
+- Lean forward, support yourself with good arm
+- Let affected arm hang
+- Gently swing in small circles
+- 2-3 minutes, several times daily
+
+**Passive external rotation:**
+- Hold stick horizontally
+- Use good arm to push affected arm outward
+- Keep elbow at side, bent 90°
+- Go to mild stretch, not pain
+- Hold 30 seconds, 5-10 reps
+
+**Supine flexion:**
+- Lie on back
+- Use good arm to lift affected arm overhead
+- Go to comfortable range
+- Hold 30 seconds
+
+### Frozen Stage: Progressive Stretching
+
+As pain decreases, you can work more aggressively on mobility.
+
+**Wall climb:**
+- Face wall, fingers on wall
+- "Walk" fingers up as high as possible
+- Hold at top, try to go higher each day
+
+**Cross-body stretch:**
+- Use good arm to pull affected arm across body
+- Hold 30 seconds
+- 3-5 reps
+
+**Sleeper stretch (internal rotation):**
+- Lie on affected side
+- Elbow bent 90°
+- Use good hand to push forearm toward floor
+- Hold 30 seconds
+
+**Doorway stretch:**
+- Stand in doorway
+- Elbow bent 90°, forearm against frame
+- Step forward to feel stretch in chest/front of shoulder
+- Hold 30 seconds
+
+### Thawing Stage: Strengthening
+
+As motion returns, rebuild strength.
+
+**Isometrics:**
+- Press into wall in various directions
+- Hold 10 seconds, no pain
+- External rotation, internal rotation, flexion
+
+**Resistance band exercises:**
+- External rotation
+- Internal rotation
+- Rows
+- 3 sets of 15
+
+**Progress to dumbbells:**
+- Shoulder press
+- Lateral raises
+- Front raises
+- Start very light
+
+## Heat vs Ice
+
+**Heat** is generally more helpful for frozen shoulder:
+- Apply before exercises to improve mobility
+- Relaxes tight tissues
+- 15-20 minutes of heating pad or warm shower
+
+**Ice** can help after exercises or for pain flares:
+- 15-20 minutes
+- Reduces inflammation
+
+## Other Treatments
+
+### Physical Therapy
+
+Strongly recommended. A PT can:
+- Perform manual techniques to improve mobility
+- Progress exercises appropriately
+- Use modalities for pain relief
+- Provide accountability
+
+### Corticosteroid Injections
+
+Can help, especially in the freezing stage:
+- Reduces inflammation and pain
+- Creates window to do more aggressive stretching
+- Usually 1-3 injections over course of condition
+
+### Hydrodilatation
+
+Injection of saline and steroid to stretch the capsule. Mixed evidence but some find it helpful.
+
+### Manipulation Under Anesthesia
+
+For severe, stubborn cases:
+- You're put to sleep
+- Surgeon forcibly moves shoulder through full range
+- Breaks adhesions
+- Followed by aggressive PT
+
+### Surgery
+
+Arthroscopic capsular release—rarely needed. Reserved for cases that don't respond to other treatments.
+
+## What to Expect
+
+### Typical Progression
+
+- First few months: frustrating, painful, decreasing mobility
+- Middle phase: less pain but severe stiffness
+- Final phase: gradual improvement over many months
+- End result: most people regain nearly full motion
+
+### What Helps
+
+- Consistent stretching (the #1 thing you can do)
+- Heat before exercise
+- Staying active (don't baby the whole arm)
+- Patience (this takes time)
+- Professional guidance
+
+### What Doesn't Help
+
+- Complete immobilization (makes it worse)
+- Aggressive stretching during painful freezing stage
+- Expecting quick results
+- Giving up on exercises
+
+## Living With Frozen Shoulder
+
+### Daily Modifications
+
+- Use affected arm for light tasks (keeps it moving)
+- Sleep on opposite side with pillow support
+- Modify activities that cause sharp pain
+- Accept temporary limitations
+
+### Work and Activities
+
+- May need temporary modifications
+- Communicate with employer if needed
+- Don't push through sharp pain
+- Stay as active as possible within limits
+
+## Prevention (Sort Of)
+
+If you have risk factors (diabetes, thyroid issues), you can't fully prevent it. But:
+
+- Keep shoulders moving after any injury or surgery
+- Don't immobilize longer than necessary
+- Address shoulder stiffness early before it becomes frozen
+
+---
+
+Frozen shoulder is one of the most frustrating conditions because it just takes time. There's no quick fix. But with consistent stretching, professional guidance, and patience, nearly everyone recovers. Hang in there.
+`
+  },
+  'shin-splints-treatment-prevention': {
+    title: 'Shin Splints: Why They Happen and How to Get Rid of Them for Good',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Sports',
+    readTime: '6 min read',
+    content: `
+## What Are Shin Splints?
+
+Shin splints (medial tibial stress syndrome) cause pain along the inner edge of your shinbone. It's one of the most common running injuries, affecting up to 35% of runners at some point.
+
+The pain is typically diffuse—spread along several inches of the shin, not one specific point. It usually starts during activity and may ease with warm-up, only to return after.
+
+## Why Do Shin Splints Happen?
+
+### The Mechanism
+
+The muscles that attach to your shinbone pull on the bone's surface (periosteum) with each step. Do this enough times, especially with increased intensity, and the bone gets irritated.
+
+### Common Causes
+
+**Too much, too soon:**
+The #1 cause. Increasing mileage, intensity, or frequency faster than your body can adapt.
+
+**Hard surfaces:**
+Running on concrete versus trails or track.
+
+**Poor footwear:**
+Worn-out shoes (over 300-500 miles) or wrong shoe for your foot type.
+
+**Muscle weakness:**
+Weak calves, weak hips, weak foot intrinsic muscles.
+
+**Biomechanical factors:**
+Overpronation (flat feet), tight calves, limited ankle mobility.
+
+**Running form:**
+Overstriding, heel striking hard.
+
+## Shin Splints vs Stress Fracture
+
+This is an important distinction:
+
+### Shin Splints
+
+- Pain spread over several inches
+- Hurts at start, may warm up
+- Feels better with rest
+- Point tenderness not severe
+
+### Stress Fracture
+
+- Pain at one specific point
+- Gets worse with activity, doesn't warm up
+- Hurts with hopping on affected leg
+- May hurt at rest or at night
+- More severe point tenderness
+
+If you suspect stress fracture, see a doctor. You'll need imaging and potentially a boot.
+
+## Treatment: The First Week
+
+### Relative Rest (Not Complete Rest)
+
+Stop running. But don't stop moving. You can:
+- Swim
+- Bike (if pain-free)
+- Pool running
+- Elliptical (if tolerated)
+
+### Ice
+
+15-20 minutes, several times daily. Ice massage along the shin works well.
+
+### Compression
+
+Compression sleeves can reduce swelling and provide comfort.
+
+### Evaluate Footwear
+
+Are your shoes worn out? Wrong type? This is a good time to assess.
+
+## Rehab Exercises
+
+### Calf Strengthening
+
+Weak calves = more stress on the shin.
+
+**Calf raises:**
+- Stand on step, heels hanging off
+- Rise onto toes, lower slowly below step level
+- 3 sets of 15
+- Progress to single leg
+
+**Seated calf raises:**
+- Sit with weight on knees
+- Rise onto toes
+- Targets soleus muscle
+- 3 sets of 15
+
+### Tibialis Anterior Strengthening
+
+The muscle in front of your shin—often neglected.
+
+**Toe raises:**
+- Stand with back against wall
+- Lift toes off ground, keeping heels down
+- Hold 2 seconds, lower
+- 3 sets of 20
+
+**Heel walks:**
+- Walk on heels, toes off ground
+- 30 seconds at a time
+
+### Hip Strengthening
+
+Weak hips cause poor running mechanics.
+
+**Clamshells:**
+- Side-lying, knees bent
+- Keep feet together, lift top knee
+- 3 sets of 15 each side
+
+**Side-lying leg raises:**
+- Keep leg straight, lift toward ceiling
+- 3 sets of 15
+
+**Single-leg bridges:**
+- Lie on back, one knee bent
+- Lift hips using one leg
+- 3 sets of 10 each side
+
+### Foot Intrinsic Strengthening
+
+**Towel scrunches:**
+- Place towel on floor
+- Scrunch toward you using toes
+- 3 sets of 10 scrunches
+
+**Short foot exercise:**
+- Sitting, try to shorten foot by lifting arch
+- Don't curl toes
+- Hold 10 seconds, 10 reps
+
+### Stretching
+
+**Calf stretch:**
+- Wall stretch, keep back heel down
+- Straight knee (gastrocnemius) and bent knee (soleus)
+- Hold 30 seconds each
+
+**Ankle dorsiflexion:**
+- Kneel with toes pointed
+- Sit back on heels
+- Hold 30 seconds
+
+## Return to Running
+
+### When Ready
+
+- No pain walking
+- No pain with hopping
+- Completed 1-2 weeks of rehab exercises
+- New/appropriate footwear
+
+### How to Return
+
+**Week 1:**
+- Walk 30 min, run 5 min, walk 5 min
+- 3 sessions total
+
+**Week 2:**
+- Run 10 min, walk 5 min, run 10 min
+- 3 sessions
+
+**Week 3:**
+- Run 20 min continuous
+- 3 sessions
+
+**Week 4:**
+- Run 25-30 min
+- Begin adding days/mileage slowly
+
+**The 10% Rule:**
+Never increase weekly mileage by more than 10%.
+
+## Prevention
+
+### Training Smart
+
+- Follow 10% rule for mileage increases
+- Include rest days
+- Vary intensity (not every run hard)
+- Vary surfaces when possible
+
+### Strength Train
+
+- Calf work 2-3x/week
+- Hip strengthening 2-3x/week
+- Core work
+- Make it a permanent habit
+
+### Right Footwear
+
+- Replace shoes every 300-500 miles
+- Get fitted at running store
+- Consider rotation (multiple pairs)
+
+### Running Form
+
+- Increase cadence (steps per minute)
+- Shorter, quicker steps reduce impact
+- Aim for 170-180+ cadence
+- Land with foot under your center of mass
+
+### Gradual Introduction to New Surfaces/Shoes
+
+Don't switch from trails to concrete or old shoes to minimalist overnight.
+
+## When to See a Professional
+
+- Pain doesn't improve with 2 weeks rest
+- Sharp, localized pain (stress fracture concern)
+- Pain at night or at rest
+- Recurring shin splints despite prevention efforts
+
+---
+
+Shin splints are the body's way of saying "slow down." Listen to it. Take a short break, strengthen the weak links, fix your training errors, and you can run pain-free for years. Ignore it, and you might end up with a stress fracture that sidelines you for months.
+`
+  },
   'golf-back-pain-prevention': {
     title: 'Golf and Back Pain: Why It Happens and How to Play Pain-Free',
     date: '2026-03-05',
