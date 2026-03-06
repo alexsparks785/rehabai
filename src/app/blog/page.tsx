@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'calf-strain-recovery-treatment',
+    title: 'Calf Strain: Grades, Recovery Timeline, and Getting Back to Running',
+    excerpt: 'Pulled your calf? Here\'s how to know how bad it is and the rehab that gets you running again without re-injury.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'trigger-finger-treatment-exercises',
+    title: 'Trigger Finger: Causes, Treatment Options, and Exercises That Help',
+    excerpt: 'Finger catching or locking? Trigger finger is common and treatable. Here\'s what works.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'mortons-neuroma-treatment',
+    title: 'Morton\'s Neuroma: Why Your Foot Burns and How to Fix It',
+    excerpt: 'Burning pain between your toes? Morton\'s neuroma is the likely culprit. Here\'s what causes it and what actually helps.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'whiplash-recovery-exercises',
+    title: 'Whiplash: Recovery Timeline, Exercises, and When to Worry',
+    excerpt: 'Neck pain after a car accident or impact? Here\'s what whiplash actually is and how to recover properly.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read'
+  },
+  {
     slug: 'knee-replacement-recovery-guide',
     title: 'Knee Replacement Recovery: Timeline, Exercises, and What to Expect',
     excerpt: 'Getting a knee replacement? Here\'s the complete recovery timeline and the exercises that get you walking normally again.',

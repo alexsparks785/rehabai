@@ -13,6 +13,995 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'calf-strain-recovery-treatment': {
+    title: 'Calf Strain: Grades, Recovery Timeline, and Getting Back to Running',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read',
+    content: `
+## The Dreaded Calf Pop
+
+You're running, jumping, or pushing off hard when you feel it—a sudden pop or sharp pain in your calf. You might think someone kicked you. That's a calf strain, and it's one of the most common muscle injuries in sports.
+
+## Anatomy: Two Muscles, Different Injuries
+
+### Gastrocnemius
+
+The larger, more superficial calf muscle. Two heads that cross both the knee and ankle. Most commonly strained because it's stretched when knee is straight and ankle is flexed.
+
+**Typical injury:** Sprinting, jumping, sudden acceleration
+
+### Soleus
+
+Deeper muscle, only crosses the ankle. Injured less dramatically but can be equally debilitating.
+
+**Typical injury:** Endurance activities, uphill running
+
+## Grading Calf Strains
+
+### Grade 1 (Mild)
+
+- Minor fiber damage
+- Tightness or cramping sensation
+- Can still walk, maybe with slight limp
+- Minimal swelling
+- Recovery: 1-3 weeks
+
+### Grade 2 (Moderate)
+
+- Partial muscle tear
+- Sharp pain during injury
+- Significant pain walking
+- Visible swelling, possibly bruising
+- Recovery: 4-8 weeks
+
+### Grade 3 (Severe)
+
+- Complete or near-complete tear
+- Severe pain, may feel a "pop"
+- Unable to push off or stand on toes
+- Significant swelling and bruising
+- Palpable defect in muscle
+- Recovery: 3-6 months
+
+## The First Week: POLICE Protocol
+
+### Protect
+
+- Use crutches if needed (especially Grade 2-3)
+- Avoid activities that cause pain
+- Consider heel lift to reduce stretch on calf
+
+### Optimal Loading
+
+- Gentle movement is good
+- Weight-bear as tolerated
+- Avoid complete immobilization
+
+### Ice
+
+- 15-20 minutes, every 2-3 hours
+- First 48-72 hours
+- Helps with pain and swelling
+
+### Compression
+
+- Compression sleeve or wrap
+- Reduces swelling
+- Provides support
+
+### Elevation
+
+- Above heart when possible
+- Reduces swelling
+- Important first few days
+
+## Rehab Phases
+
+### Phase 1: Acute (Days 1-7)
+
+**Goals:** Protect healing tissue, maintain mobility, control swelling
+
+**Exercises:**
+- Ankle pumps (pain-free)
+- Gentle ankle circles
+- Seated calf stretch (very gentle)
+- Short walks as tolerated
+
+**Avoid:**
+- Stretching into pain
+- Resisted exercises
+- Walking without support if painful
+
+### Phase 2: Subacute (Weeks 1-3)
+
+**Goals:** Restore range of motion, begin strengthening
+
+**Exercises:**
+
+Seated calf raises:
+- Sit with knee bent 90°
+- Raise heel off ground
+- 3 sets of 15
+- Progress resistance with weight on knee
+
+Standing double-leg calf raises:
+- Hold support
+- Rise onto toes, both feet
+- Lower slowly
+- 3 sets of 15
+
+Wall calf stretch:
+- Back leg straight
+- Lean into wall
+- 30 second holds
+
+Bent-knee calf stretch:
+- Back knee bent
+- Targets soleus
+- 30 second holds
+
+### Phase 3: Strengthening (Weeks 3-6)
+
+**Goals:** Build strength, progress to single-leg work
+
+**Exercises:**
+
+Single-leg calf raises (flat):
+- One foot, holding support
+- Full range of motion
+- 3 sets of 12-15
+
+Eccentric calf lowers:
+- Rise on both feet
+- Lower on injured leg only
+- Slow, controlled (3-4 seconds)
+- 3 sets of 12
+
+Seated calf raises (weighted):
+- Progressive resistance
+- 3 sets of 15
+
+### Phase 4: Return to Running (Weeks 6-12)
+
+**Goals:** Sport-specific preparation, gradual return
+
+**Exercises:**
+
+Single-leg calf raises (off step):
+- Full range below step level
+- 3 sets of 15
+
+Plyometric progression:
+- Double-leg hops → single-leg hops
+- Low intensity → higher intensity
+- Forward → multidirectional
+
+Running progression:
+- Walk → walk/jog → jog → run
+- Flat → inclines
+- Straight → curves → cuts
+
+## Return to Running Protocol
+
+### Criteria to Start
+
+- Pain-free walking
+- 90% strength compared to other side
+- Full range of motion
+- Can do 25 single-leg calf raises without pain
+
+### Week 1
+
+- Walk 5 min, jog 1 min, walk 5 min
+- Repeat 2-3x
+- Every other day
+- Flat surfaces only
+
+### Week 2
+
+- Walk 3 min, jog 3 min
+- 20-25 minutes total
+- Every other day
+
+### Week 3
+
+- Jog 5 min, walk 2 min
+- 25-30 minutes total
+- Can run consecutive days
+
+### Week 4+
+
+- Continuous jogging
+- Gradually add speed
+- Add hills
+- Progress to intervals
+
+## Common Mistakes
+
+### Returning Too Soon
+
+The #1 cause of re-injury. The calf feels better, you run, it tears again—often worse than before.
+
+### Ignoring the Eccentric Phase
+
+Eccentric strength is critical for running and jumping. Don't skip this phase.
+
+### Not Addressing Flexibility
+
+Tight calves are prone to strains. Maintain flexibility long-term.
+
+### Stopping Rehab When Pain Stops
+
+Pain-free doesn't mean fully healed. Complete the full strengthening program.
+
+## Prevention
+
+### Regular Calf Strengthening
+
+- Calf raises 2-3x per week
+- Include single-leg work
+- Full range of motion
+
+### Dynamic Warm-Up
+
+- Don't static stretch cold muscles
+- Warm up with movement first
+- Include calf-specific activation
+
+### Gradual Progression
+
+- Follow 10% rule for mileage
+- Don't suddenly increase speed work
+- Allow recovery between hard sessions
+
+### Address Risk Factors
+
+- Previous calf strain (biggest risk factor)
+- Age over 40
+- Fatigue
+- Tight calves
+
+## When to See a Doctor
+
+- Severe pain or complete inability to walk
+- Large palpable defect
+- Extensive bruising
+- No improvement after 2 weeks
+- Symptoms of DVT (calf pain with swelling, warmth)
+
+---
+
+Calf strains are frustrating because they feel better before they're fully healed. The key is progressive loading—building strength systematically before returning to running. Rush it, and you'll be back to square one. Do it right, and you'll come back stronger.
+`
+  },
+  'trigger-finger-treatment-exercises': {
+    title: 'Trigger Finger: Causes, Treatment Options, and Exercises That Help',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is Trigger Finger?
+
+Trigger finger (stenosing tenosynovitis) causes your finger to catch, lock, or snap when you bend and straighten it. In severe cases, the finger gets stuck in a bent position and you have to manually straighten it with your other hand.
+
+It's named for the triggering or clicking sensation—like pulling and releasing a trigger.
+
+## How It Happens
+
+### The Anatomy
+
+Your finger tendons glide through a series of tunnels (pulleys) that hold them close to the bone. The first pulley at the base of the finger (A1 pulley) is where problems usually occur.
+
+### The Problem
+
+The tendon or its sheath becomes inflamed and swollen. A nodule can form on the tendon. When this swollen section tries to pass through the narrow pulley, it catches—causing the locking and clicking.
+
+## Who Gets Trigger Finger?
+
+### Risk Factors
+
+- **Age:** Most common 40-60
+- **Sex:** Women affected more than men
+- **Diabetes:** Significantly higher risk
+- **Rheumatoid arthritis**
+- **Repetitive gripping:** Tools, instruments, sports
+- **Other hand conditions:** Carpal tunnel, De Quervain's
+
+### Common Fingers
+
+- Thumb, ring, and middle finger most often affected
+- Can occur in multiple fingers
+- May affect both hands
+
+## Symptoms
+
+### Early Stage
+
+- Stiffness, especially in the morning
+- Clicking or popping when bending
+- Tender bump at base of finger (palm side)
+- Mild discomfort
+
+### Progressing
+
+- Catching when straightening
+- Finger locks in bent position momentarily
+- Have to force it straight
+- More pain
+
+### Severe
+
+- Finger stuck in bent position
+- Cannot straighten without other hand
+- Significant pain and limitation
+
+## Treatment Options
+
+### Conservative Treatment
+
+**Activity modification:**
+- Avoid repetitive gripping
+- Take breaks from aggravating activities
+- Use padded handles on tools
+
+**Splinting:**
+- Night splint keeps finger straight
+- Prevents locking during sleep
+- Worn 6+ weeks
+
+**NSAIDs:**
+- Over-the-counter anti-inflammatories
+- May reduce swelling
+- Temporary relief
+
+### Exercises
+
+**Finger stretches:**
+- Gently straighten the affected finger
+- Hold 20-30 seconds
+- Repeat 5-10 times daily
+
+**Tendon gliding:**
+- Make a fist, then straighten fully
+- Bend at middle joints (hook fist)
+- Bend at base joints (table top)
+- Cycle through 10 times
+
+**Finger abduction:**
+- Spread fingers apart, hold 5 seconds
+- Bring together
+- Repeat 10 times
+
+**Grip strengthening (when not acute):**
+- Squeeze soft ball gently
+- 10 repetitions
+- Avoid if increases symptoms
+
+### Massage
+
+**Self-massage:**
+- Gently massage the nodule at base of finger
+- Circular motions
+- 2-3 minutes, several times daily
+- May help break up adhesions
+
+### Corticosteroid Injection
+
+**How it works:**
+- Injected into tendon sheath
+- Reduces inflammation
+- Creates space for tendon to glide
+
+**Success rate:**
+- 50-70% get lasting relief from one injection
+- May need repeat injection
+- Less effective in diabetics
+
+**Considerations:**
+- Relief may be temporary
+- Can cause skin changes if multiple injections
+- Usually try 1-2 before considering surgery
+
+### Surgery (Trigger Finger Release)
+
+**When indicated:**
+- Failed conservative treatment
+- Severe or persistent locking
+- Finger stuck in bent position
+
+**The procedure:**
+- Outpatient surgery, local anesthesia
+- Small incision at base of finger
+- A1 pulley is released (cut)
+- Tendon can now glide freely
+
+**Recovery:**
+- Move finger immediately
+- Most normal use in 2-4 weeks
+- Full recovery 4-6 weeks
+- Success rate >95%
+
+## Home Management
+
+### What to Do
+
+- Rest from aggravating activities
+- Wear splint at night
+- Gentle stretching throughout day
+- Ice if swollen (10 minutes)
+- Massage the nodule
+- Use ergonomic grips
+
+### What to Avoid
+
+- Forceful gripping when symptomatic
+- Repeatedly forcing finger straight
+- Ignoring worsening symptoms
+- Stopping treatment when it feels better
+
+## Natural History
+
+Without treatment:
+- Some cases resolve on their own
+- Many persist or worsen
+- Rarely dangerous, but significantly affects function
+
+With treatment:
+- Most cases resolve with conservative care or injection
+- Surgery highly effective for persistent cases
+
+## Prevention
+
+### If You Do Repetitive Hand Work
+
+- Take frequent breaks
+- Vary your grip and hand positions
+- Use padded, ergonomic handles
+- Stretch hands regularly
+
+### Address Risk Factors
+
+- Manage diabetes well
+- Treat other hand conditions
+- Maintain hand strength and flexibility
+
+## When to See a Doctor
+
+- Finger stuck in bent position
+- Significant pain
+- No improvement after 2-3 weeks of home treatment
+- Symptoms affecting work or daily activities
+
+---
+
+Trigger finger is more annoying than dangerous, but it can significantly impact your daily life. Most people get better with splinting, exercises, and maybe an injection. If those don't work, surgery is straightforward and highly effective. Don't just live with a finger that catches and locks—treatment works.
+`
+  },
+  'mortons-neuroma-treatment': {
+    title: 'Morton\'s Neuroma: Why Your Foot Burns and How to Fix It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '6 min read',
+    content: `
+## That Burning Sensation Between Your Toes
+
+Morton's neuroma causes burning pain, numbness, or the sensation of standing on a pebble in the ball of your foot. It most commonly affects the space between your third and fourth toes.
+
+Despite the name (neuroma suggests tumor), it's not actually a tumor. It's a thickening of the tissue around the nerve due to compression and irritation.
+
+## What Causes Morton's Neuroma?
+
+### Footwear
+
+The biggest culprit:
+- High heels force weight onto the ball of the foot
+- Narrow toe boxes squeeze toes together
+- Both compress the nerve repeatedly
+
+### Foot Mechanics
+
+- High arches concentrate pressure on the ball of foot
+- Flat feet can cause instability and nerve irritation
+- Bunions or hammertoes change foot mechanics
+
+### Activities
+
+- Running (especially on hard surfaces)
+- Court sports with quick stops and starts
+- Any activity with repetitive forefoot loading
+
+### Anatomy
+
+Some people just have nerves that sit in a position prone to compression.
+
+## Symptoms
+
+### Classic Presentation
+
+- Burning pain in ball of foot
+- Numbness or tingling into toes (usually 3rd and 4th)
+- Feeling like you're standing on a stone or folded sock
+- Symptoms worse with activity and tight shoes
+- Relief when removing shoes and rubbing foot
+
+### What Makes It Worse
+
+- Walking or standing long periods
+- Tight, narrow shoes
+- High heels
+- Running or jumping
+
+### What Makes It Better
+
+- Taking shoes off
+- Rubbing the area
+- Wide, cushioned shoes
+- Rest
+
+## Diagnosis
+
+### Physical Exam
+
+**Mulder's click:**
+Squeezing the forefoot while pressing the space between the toes may produce a palpable click and reproduce symptoms.
+
+### Imaging
+
+- Usually diagnosed clinically
+- Ultrasound can confirm and measure size
+- MRI if diagnosis unclear
+
+## Treatment
+
+### Footwear Changes (Start Here)
+
+**This is the most important intervention:**
+
+- Wide toe box (your toes should not touch sides)
+- Low heel (under 2 inches, ideally flat)
+- Good cushioning in forefoot
+- Avoid pointed toes
+
+**Specific recommendations:**
+- Look for shoes designed for foot problems
+- Consider going up a half size
+- Athletic shoes with roomy toe box
+
+### Metatarsal Pads
+
+**How they work:**
+- Placed just behind the ball of foot
+- Spread metatarsal bones apart
+- Create more space for the nerve
+
+**Options:**
+- Stick-on pads for shoes
+- Pads built into insoles
+- Custom orthotics with metatarsal support
+
+### Orthotics
+
+**Custom orthotics may help if you have:**
+- Flat feet or high arches
+- Other foot mechanics issues
+- Need more support than OTC options provide
+
+### Exercises
+
+**Toe spreads:**
+- Spread toes apart as wide as possible
+- Hold 5 seconds
+- Repeat 10 times
+
+**Towel scrunches:**
+- Place towel on floor
+- Scrunch toward you with toes
+- Strengthens intrinsic foot muscles
+
+**Calf stretches:**
+- Tight calves increase forefoot pressure
+- Wall stretch, 30 seconds each leg
+
+**Marble pickups:**
+- Pick up marbles with toes
+- Improves toe dexterity and strength
+
+### Massage
+
+**Self-massage:**
+- Roll foot on golf ball or frozen water bottle
+- Massage between metatarsal heads
+- Can provide temporary relief
+
+### Ice
+
+- Ice the ball of foot after activities
+- 15-20 minutes
+- Reduces inflammation
+
+### Corticosteroid Injection
+
+**When indicated:**
+- Conservative measures haven't worked
+- Moderate to severe symptoms
+
+**Effectiveness:**
+- Provides relief in many patients
+- May be temporary (months)
+- Can be repeated 2-3 times
+
+**Considerations:**
+- Won't fix the underlying cause
+- Best combined with footwear changes
+- Too many injections can damage tissue
+
+### Alcohol Sclerosing Injections
+
+- Series of injections to shrink the nerve
+- Alternative to surgery
+- Mixed results in studies
+
+### Surgery (Neurectomy)
+
+**When indicated:**
+- 6+ months of failed conservative treatment
+- Significant impact on quality of life
+
+**The procedure:**
+- Remove the affected portion of nerve
+- Outpatient surgery
+- Either top or bottom of foot incision
+
+**Recovery:**
+- Walking boot 2-3 weeks
+- Regular shoes 3-4 weeks
+- Full recovery 4-6 weeks
+
+**Success rate:**
+- 80-85% get significant relief
+- 15-20% have persistent or recurrent symptoms
+
+**Side effects:**
+- Permanent numbness in affected toes (expected)
+- Possible stump neuroma (recurrence)
+
+## Living With Morton's Neuroma
+
+### Daily Management
+
+- Wear appropriate footwear always
+- Use metatarsal pads
+- Take breaks from standing
+- Ice after long days
+
+### Activity Modifications
+
+- Choose low-impact exercise when symptomatic
+- Swimming, cycling, elliptical
+- Avoid running on hard surfaces
+- Wear cushioned, wide athletic shoes
+
+### Long-Term Outlook
+
+- Many people manage well with conservative measures
+- Symptoms may wax and wane
+- Surgery is effective for refractory cases
+
+## Prevention
+
+### Footwear Choices
+
+- Prioritize comfort over fashion
+- Wide toe box, low heel
+- Save high heels for short occasions
+- Rotate shoes
+
+### Foot Health
+
+- Maintain healthy weight
+- Strengthen foot muscles
+- Address other foot problems
+- Don't ignore early symptoms
+
+---
+
+Morton's neuroma is common and treatable. The frustrating part is that it often comes down to shoes—and changing footwear habits can be hard. But it beats surgery. Start with wide shoes and metatarsal pads. If those don't work, injections and ultimately surgery are very effective options.
+`
+  },
+  'whiplash-recovery-exercises': {
+    title: 'Whiplash: Recovery Timeline, Exercises, and When to Worry',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read',
+    content: `
+## What Is Whiplash?
+
+Whiplash is a neck injury caused by rapid back-and-forth motion of the head—like the cracking of a whip. It most commonly happens in rear-end car accidents, but can occur in sports, falls, or any sudden impact.
+
+The violent motion strains muscles, ligaments, and other soft tissues in the neck. In some cases, it can also affect discs, nerves, and joints.
+
+## The Mechanism
+
+### What Happens in a Rear-End Collision
+
+1. Your body is pushed forward by the seat
+2. Your head stays stationary momentarily (inertia)
+3. Your neck extends backward rapidly
+4. Then your head whips forward
+5. Your neck flexes forward rapidly
+
+This happens in milliseconds—faster than your muscles can react to protect you.
+
+## Symptoms
+
+### Immediate (Hours to Days)
+
+Not everyone feels symptoms right away. It's common for pain to develop 24-48 hours after injury.
+
+- Neck pain and stiffness
+- Headache (usually at base of skull)
+- Shoulder pain
+- Upper back pain
+- Reduced range of motion
+
+### Additional Symptoms
+
+- Dizziness
+- Fatigue
+- Difficulty concentrating
+- Memory issues
+- Sleep disturbances
+- Irritability
+- Jaw pain (TMJ)
+- Arm pain, numbness, or tingling
+
+### Red Flags (Seek Immediate Care)
+
+- Severe neck pain
+- Weakness in arms or legs
+- Numbness or tingling spreading down arms
+- Loss of bladder or bowel control
+- Severe headache
+- Change in vision
+- Difficulty swallowing or speaking
+
+## Recovery Timeline
+
+### Typical Recovery
+
+**Week 1-2:**
+- Most pain and stiffness
+- Focus on gentle movement, not rest
+- May need pain medication
+
+**Weeks 2-4:**
+- Gradual improvement
+- Increasing mobility
+- Begin structured exercises
+
+**Weeks 4-12:**
+- Most people significantly improved
+- Return to normal activities
+- May have occasional symptoms
+
+**3+ months:**
+- 50% fully recovered by 3 months
+- Most recover by 6-12 months
+- Small percentage develop chronic issues
+
+### Factors That Affect Recovery
+
+**Better prognosis:**
+- Younger age
+- No prior neck problems
+- Low initial pain levels
+- Early return to normal activities
+- Positive expectations
+
+**Longer recovery:**
+- Older age
+- High initial pain
+- Neurological symptoms
+- Previous neck injuries
+- Psychological factors (fear, anxiety, catastrophizing)
+
+## Treatment Approach
+
+### What Doesn't Work: Collars and Complete Rest
+
+Old treatment: wear a cervical collar and rest.
+
+This is now known to be **wrong**. Collars and prolonged rest lead to:
+- Muscle weakening
+- Increased stiffness
+- Longer recovery
+- Higher risk of chronic pain
+
+### What Works: Early Active Movement
+
+Current evidence strongly supports:
+- Gentle movement as soon as possible
+- Avoiding bed rest
+- Returning to normal activities quickly
+- Active exercise
+
+## Exercises
+
+### Phase 1: Gentle Range of Motion (Days 1-14)
+
+Perform slowly, within pain limits. Do not push into sharp pain.
+
+**Chin tucks:**
+- Sit or stand tall
+- Draw chin straight back (make a "double chin")
+- Hold 5 seconds
+- Repeat 10 times
+
+**Gentle rotation:**
+- Slowly turn head to look over each shoulder
+- Go only as far as comfortable
+- Hold 5 seconds each side
+- Repeat 5 times
+
+**Side bending:**
+- Tilt ear toward shoulder
+- Don't raise shoulder
+- Hold 5 seconds
+- Repeat 5 times each side
+
+**Flexion/extension:**
+- Slowly look down (chin to chest)
+- Then look up at ceiling
+- Move smoothly
+- Repeat 5 times
+
+### Phase 2: Strengthening (Weeks 2-6)
+
+**Isometric resistance:**
+- Place hand on forehead
+- Push head forward into hand (hand resists)
+- Hold 5 seconds
+- Repeat with hand on back of head, each side
+- 10 reps each direction
+
+**Scapular squeezes:**
+- Squeeze shoulder blades together
+- Hold 5 seconds
+- Repeat 15 times
+
+**Upper back extension:**
+- Sit in chair
+- Clasp hands behind head
+- Gently arch upper back over chair back
+- Hold 5 seconds
+- Repeat 10 times
+
+### Phase 3: Progressive Strengthening (Weeks 4+)
+
+**Resistance band exercises:**
+- Rows
+- External rotation
+- Face pulls
+
+**Deep neck flexor training:**
+- Lie on back
+- Nod chin gently (like saying "yes")
+- Feel muscles at front of neck engage
+- Hold 5-10 seconds
+- Progress to lifting head slightly
+
+**Postural exercises:**
+- Wall angels
+- Prone Y-T-W raises
+- Chin tuck with resistance
+
+## Managing Symptoms
+
+### Pain
+
+- Over-the-counter pain relievers (as directed)
+- Heat or ice (whichever feels better)
+- Gentle movement
+- Avoid positions that increase pain
+
+### Headaches
+
+- Chin tucks often help
+- Address neck stiffness
+- Hydration
+- Regular sleep
+
+### Dizziness
+
+If significant dizziness, see a provider. May need:
+- Vestibular assessment
+- Specific exercises for balance
+- Rule out inner ear involvement
+
+## Returning to Normal Activities
+
+### Work
+
+- Return as soon as able
+- May need modifications initially
+- Desk setup matters (ergonomics)
+- Take movement breaks
+
+### Driving
+
+- When you can turn head safely to check mirrors
+- When pain doesn't distract from focus
+- Start with short trips
+
+### Exercise
+
+- Walking: immediately
+- Swimming: when comfortable
+- Running: typically 2-4 weeks
+- Contact sports: when fully recovered
+
+## When to See a Professional
+
+### Physical Therapy
+
+Consider PT if:
+- Not improving after 2 weeks
+- Significant pain or limitation
+- Need guidance on exercises
+- Want to speed recovery
+
+### Doctor
+
+See doctor if:
+- Symptoms worsening
+- New neurological symptoms
+- Severe headache
+- Not improving at all after 2-3 weeks
+- Red flag symptoms (see above)
+
+## Chronic Whiplash
+
+About 20-40% of people have symptoms beyond 3 months. Risk factors include:
+
+- Severe initial injury
+- Older age
+- Previous neck problems
+- High pain/disability early on
+- Psychological factors
+
+Treatment for chronic whiplash focuses on:
+- Continued exercise
+- Pain management
+- Addressing psychological factors
+- Gradual return to activities
+- Sometimes specialized pain programs
+
+## Prevention
+
+### In Vehicles
+
+- Headrest positioned properly (top of headrest at top of head)
+- Sit close enough to headrest
+- Wear seatbelt properly
+- Sit upright
+
+### In Sports
+
+- Proper technique
+- Neck strengthening
+- Appropriate protective gear
+- Awareness of surroundings
+
+---
+
+Whiplash is common and usually recovers well. The key insight from research is clear: early movement beats rest. Don't baby your neck—move it. Do the exercises. Return to your normal activities. Most people recover fully within a few months. If you're not improving, get professional help early rather than waiting.
+`
+  },
   'knee-replacement-recovery-guide': {
     title: 'Knee Replacement Recovery: Timeline, Exercises, and What to Expect',
     date: '2026-03-06',
