@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'bunion-treatment-exercises',
+    title: 'Bunions: Do You Need Surgery? Exercises, Footwear, and Treatment Options',
+    excerpt: 'That bony bump on your big toe doesn\'t have to mean surgery. Here\'s what actually helps bunions—and when you do need intervention.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'osgood-schlatter-treatment',
+    title: 'Osgood-Schlatter Disease: Why Your Kid\'s Knee Hurts and What to Do About It',
+    excerpt: 'Knee pain in your active teen? Osgood-Schlatter is common, treatable, and temporary. Here\'s the parent\'s guide.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'stress-fracture-recovery-guide',
+    title: 'Stress Fractures: Signs, Recovery Timeline, and Safe Return to Running',
+    excerpt: 'That nagging pain that won\'t go away might be a stress fracture. Here\'s how to know, how to heal, and how to prevent the next one.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'posterior-tibial-tendon-dysfunction',
+    title: 'Posterior Tibial Tendon Dysfunction: The Hidden Cause of Adult Flat Feet',
+    excerpt: 'Arch collapsing? Ankle rolling in? PTTD is a progressive condition that needs early attention. Here\'s what to do.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read'
+  },
+  {
     slug: 'calf-strain-recovery-treatment',
     title: 'Calf Strain: Grades, Recovery Timeline, and Getting Back to Running',
     excerpt: 'Pulled your calf? Here\'s how to know how bad it is and the rehab that gets you running again without re-injury.',

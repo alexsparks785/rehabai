@@ -13,6 +13,947 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'bunion-treatment-exercises': {
+    title: 'Bunions: Do You Need Surgery? Exercises, Footwear, and Treatment Options',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## What Is a Bunion?
+
+A bunion (hallux valgus) is a bony bump at the base of your big toe. But it's more than just a bump—it's a structural change where the big toe angles toward the second toe and the joint at the base shifts outward.
+
+Bunions are progressive. They start small and gradually worsen over time, especially if the underlying causes aren't addressed.
+
+## What Causes Bunions?
+
+### Genetics (The Main Factor)
+
+You inherit your foot structure. If your parents had bunions, you're more likely to develop them. Specific inherited traits include:
+- Loose ligaments
+- Flat feet
+- Hypermobility
+- Foot shape
+
+### Footwear (Makes It Worse)
+
+Shoes don't cause bunions, but they accelerate progression:
+- Narrow toe boxes squeeze toes together
+- High heels force weight onto forefoot
+- Pointed shoes push big toe inward
+
+### Other Factors
+
+- Rheumatoid arthritis
+- Neuromuscular conditions
+- Injuries to the foot
+- Flat feet or low arches
+
+## Symptoms
+
+### Early Stage
+
+- Visible bump at big toe base
+- Occasional redness or swelling
+- Mild discomfort in tight shoes
+- Toe starting to angle
+
+### Progressive
+
+- Bump enlarges
+- Pain with walking or standing
+- Difficulty finding shoes that fit
+- Calluses where toes rub
+
+### Advanced
+
+- Significant deformity
+- Constant pain
+- Big toe may overlap or underlap second toe
+- Arthritis in the joint
+- Difficulty walking
+
+## Do You Need Surgery?
+
+### Surgery Is NOT Required If:
+
+- Bunion is mild to moderate
+- Pain is manageable with conservative measures
+- You can find comfortable footwear
+- It's not significantly limiting your activities
+
+### Consider Surgery If:
+
+- Severe pain despite conservative treatment
+- Significant deformity affecting function
+- Can't find any shoes that work
+- Quality of life significantly impacted
+- Conservative treatment tried for 6+ months
+
+### Surgery Facts
+
+- Multiple procedures exist depending on severity
+- Recovery typically 6-12 weeks
+- Success rate high but not 100%
+- Bunions can recur (10-15%)
+- Not purely cosmetic—insurance usually covers if symptomatic
+
+## Conservative Treatment
+
+### Footwear (Most Important)
+
+**What to look for:**
+- Wide toe box (toes shouldn't touch sides)
+- Low heel (under 2 inches)
+- Soft, flexible upper material
+- Good arch support
+
+**Specific recommendations:**
+- Look for brands known for wide sizes
+- Consider going up half a size
+- Shop at end of day when feet are largest
+- Stretch tight spots with shoe stretchers
+
+### Toe Spacers and Bunion Splints
+
+**Toe spacers:**
+- Silicone separators worn between toes
+- Can provide comfort
+- May slow progression
+- Wear during activity or overnight
+
+**Bunion splints:**
+- Night splints hold toe straighter
+- Won't reverse bunion but may slow progression
+- Can reduce pain
+- Not worn during walking
+
+### Padding
+
+- Bunion pads cushion the bump
+- Reduce friction in shoes
+- Available at pharmacies
+- Avoid medicated pads (can irritate skin)
+
+### Orthotics
+
+Custom or over-the-counter inserts can:
+- Support arch
+- Distribute pressure more evenly
+- Reduce stress on bunion joint
+- Help with associated flat feet
+
+## Exercises
+
+Exercises won't reverse a bunion, but they can:
+- Maintain joint mobility
+- Strengthen supporting muscles
+- Slow progression
+- Reduce pain
+
+### Toe Stretches
+
+**Big toe stretch:**
+- Sit and cross foot over opposite knee
+- Hold big toe and gently pull it straight
+- Hold 30 seconds
+- Repeat 5 times
+
+**Towel stretch:**
+- Loop towel around big toe
+- Gently pull toe toward you
+- Hold 30 seconds
+
+### Strengthening
+
+**Toe spreads:**
+- Spread all toes apart as wide as possible
+- Hold 5 seconds
+- Repeat 10 times
+
+**Big toe press:**
+- Press big toe into floor
+- Keep it straight (don't let it angle)
+- Hold 5 seconds
+- Repeat 10 times
+
+**Marble pickups:**
+- Pick up marbles with toes
+- Strengthens intrinsic foot muscles
+- 2-3 minutes daily
+
+**Towel scrunches:**
+- Place towel on floor
+- Scrunch toward you with toes
+- 10 scrunches, 3 sets
+
+### Mobility
+
+**Toe circles:**
+- Hold big toe
+- Move it in circles
+- 10 each direction
+
+**Joint mobilization:**
+- Hold the joint with one hand
+- Hold the toe with other hand
+- Gently move toe up and down
+- 30 seconds
+
+### Calf Stretches
+
+Tight calves increase forefoot pressure:
+- Wall stretch, 30 seconds each leg
+- Stretch daily
+
+## When to See a Doctor
+
+- Pain not controlled with conservative measures
+- Difficulty walking
+- Signs of infection (redness, warmth, drainage)
+- Numbness in the toe
+- Rapidly worsening deformity
+
+## Living With Bunions
+
+### Daily Management
+
+- Prioritize comfortable footwear
+- Use toe spacers when helpful
+- Do exercises regularly
+- Ice after long days (15 minutes)
+
+### Activity Modifications
+
+- Choose activities that don't aggravate symptoms
+- Avoid prolonged standing when possible
+- Consider shoe inserts for all shoes
+
+### Long-Term Outlook
+
+Without surgery:
+- Bunions typically progress slowly
+- Good management can minimize symptoms
+- Many people live comfortably with bunions
+- Surgery always remains an option
+
+With surgery:
+- High success rate for pain relief
+- Improved function and footwear options
+- Recovery requires patience
+- Continued attention to footwear important
+
+---
+
+Bunions don't automatically mean surgery. Most people manage well with proper footwear, toe spacers, and exercises. Save surgery for when conservative measures truly fail. And if you do need surgery, know that outcomes are generally excellent.
+`
+  },
+  'osgood-schlatter-treatment': {
+    title: 'Osgood-Schlatter Disease: Why Your Kid\'s Knee Hurts and What to Do About It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## What Is Osgood-Schlatter Disease?
+
+Osgood-Schlatter disease causes pain and swelling just below the knee, at the bony bump where the patellar tendon attaches to the shinbone (tibial tubercle). It's one of the most common causes of knee pain in active adolescents.
+
+Despite the scary name, it's not really a "disease"—it's an overuse condition related to growth. And it's almost always temporary.
+
+## Who Gets It?
+
+### The Typical Patient
+
+- Ages 10-15 (during growth spurts)
+- Active in sports, especially running and jumping
+- More common in boys, but girls are catching up
+- Often affects both knees (20-30% of cases)
+
+### Why It Happens
+
+During growth spurts, bones grow faster than muscles and tendons can adapt. The patellar tendon pulls repeatedly on its attachment point, which is still made of soft cartilage in growing kids. This causes irritation, inflammation, and sometimes small avulsion injuries.
+
+### High-Risk Sports
+
+- Basketball
+- Soccer
+- Volleyball
+- Gymnastics
+- Running
+- Any sport with lots of jumping, running, or kneeling
+
+## Symptoms
+
+### Classic Presentation
+
+- Pain at the bump below the kneecap
+- Swelling over the tibial tubercle
+- Bump may be enlarged and tender
+- Pain worse with running, jumping, kneeling
+- Pain better with rest
+- May limp after activity
+
+### Red Flags (See Doctor)
+
+- Pain at rest or at night
+- Fever
+- Pain not at the tibial tubercle
+- Locking or catching in the knee
+- Significant instability
+
+## Diagnosis
+
+Usually diagnosed by symptoms and physical exam alone:
+- Tender, swollen tibial tubercle
+- Pain with resisted knee extension
+- Tight quadriceps often present
+
+X-rays may show:
+- Irregular or fragmented appearance of tibial tubercle
+- Soft tissue swelling
+- Used mainly to rule out other conditions
+
+## Treatment
+
+### The Good News
+
+Osgood-Schlatter always resolves when growth is complete. The goal of treatment is to manage symptoms while staying as active as possible.
+
+### Activity Modification (Not Complete Rest)
+
+**Reduce, don't eliminate:**
+- Cut back on the most aggravating activities
+- Reduce intensity and duration
+- Take breaks during practice
+- Avoid playing through significant pain
+
+**Continue:**
+- Low-impact activities (swimming, cycling)
+- Sports with modifications
+- Strength training (with modifications)
+
+### Ice
+
+- Ice after activity, 15-20 minutes
+- Reduces pain and swelling
+- Can use ice cup massage directly on bump
+
+### Stretching
+
+Tight muscles contribute to the problem:
+
+**Quadriceps stretch:**
+- Stand on one leg
+- Pull heel toward buttock
+- Keep knees together
+- Hold 30 seconds each leg
+- 3 times daily
+
+**Hip flexor stretch:**
+- Half-kneeling position
+- Push hips forward
+- Hold 30 seconds
+- 3 times daily
+
+### Strengthening
+
+**Eccentric quad exercises:**
+- Wall sits (hold 30-60 seconds)
+- Slow squats (if tolerated)
+- Focus on control, not load
+
+**Hip strengthening:**
+- Clamshells
+- Side-lying leg raises
+- Bridges
+- Strong hips reduce knee stress
+
+### Patellar Straps
+
+- Straps worn below the kneecap
+- Change the pull angle on the tendon
+- May reduce pain during activity
+- Worth trying, inexpensive
+
+### Pain Medication
+
+- Over-the-counter NSAIDs (ibuprofen)
+- Use sparingly
+- Follow dosing guidelines for age/weight
+- Reduces pain and inflammation
+
+## What Doesn't Help
+
+### Complete Rest
+
+Unless pain is severe, complete rest isn't necessary and may:
+- Lead to deconditioning
+- Cause muscle weakness
+- Prolong the condition
+- Affect mental health
+
+### Ignoring It
+
+Playing through severe pain can:
+- Worsen symptoms
+- Prolong recovery
+- Make the bump permanently enlarged
+
+### Surgery
+
+Almost never needed. Reserved for rare cases with persistent symptoms after growth is complete.
+
+## Timeline
+
+### How Long Does It Last?
+
+- Active phase: typically 12-24 months
+- Resolves when growth plate closes
+- Girls: typically done by 14-16
+- Boys: typically done by 16-18
+
+### What to Expect
+
+- Symptoms wax and wane
+- Growth spurts may cause flare-ups
+- Gradual improvement as growth slows
+- Complete resolution expected
+
+### The Bump
+
+The enlarged bump often remains permanently—it's just bone. But it shouldn't be painful after the growth plate closes.
+
+## Return to Sports
+
+### When to Return Fully
+
+- Pain well-controlled with activity modification
+- Can perform sport-specific movements without significant pain
+- Strength and flexibility normalized
+
+### How to Return
+
+- Gradual progression
+- Start with practice, then games
+- Monitor symptoms
+- Maintain stretching and strengthening
+
+## For Parents
+
+### What You Can Do
+
+- Ensure proper warm-up before activities
+- Encourage stretching daily
+- Monitor for limping or worsening symptoms
+- Communicate with coaches
+- Don't push through significant pain
+
+### When to See a Doctor
+
+- Severe pain affecting daily activities
+- Not improving with rest and home treatment
+- Symptoms not consistent with Osgood-Schlatter
+- Concerns about diagnosis
+
+### The Big Picture
+
+This is temporary. Your child will get through it. Most athletes continue their sports throughout treatment with modifications. Complete resolution is expected.
+
+---
+
+Osgood-Schlatter is a rite of passage for many active kids. It hurts, it's frustrating, but it's temporary. Manage activities, stretch religiously, strengthen the right muscles, and wait for growth to finish. The knee will be fine.
+`
+  },
+  'stress-fracture-recovery-guide': {
+    title: 'Stress Fractures: Signs, Recovery Timeline, and Safe Return to Running',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read',
+    content: `
+## What Is a Stress Fracture?
+
+A stress fracture is a small crack in a bone caused by repetitive force—usually from overuse rather than a single injury. Unlike a traumatic fracture from a fall, stress fractures develop gradually when bone remodeling can't keep up with the load you're putting on it.
+
+Think of it like bending a paperclip back and forth. One bend won't break it, but enough bends will.
+
+## Where Do Stress Fractures Happen?
+
+### Most Common Sites (Runners)
+
+1. **Tibia (shin)** - 50% of stress fractures
+2. **Metatarsals (foot)** - 25%
+3. **Fibula (lower leg)**
+4. **Femur (thigh)**
+5. **Pelvis**
+6. **Navicular (foot)** - high-risk
+
+### High-Risk vs Low-Risk
+
+**High-risk (heal poorly, may need surgery):**
+- Navicular (foot)
+- Fifth metatarsal (outside of foot)
+- Anterior tibia
+- Femoral neck (hip)
+
+**Low-risk (usually heal well):**
+- Posterior tibia (most common)
+- Other metatarsals
+- Fibula
+- Pelvis
+
+## Signs and Symptoms
+
+### The Pattern
+
+- Pain develops gradually over days to weeks
+- Worse with activity, better with rest
+- Eventually hurts with walking
+- May hurt at rest or at night (later stage)
+- Pain is localized to one spot
+
+### Key Differences from Shin Splints
+
+**Stress fracture:**
+- Pain at one specific point
+- Tender to press on bone
+- Hurts with hopping on that leg
+- Doesn't warm up and go away
+
+**Shin splints:**
+- Pain spread over several inches
+- May warm up during activity
+- Not as point-tender
+
+## Risk Factors
+
+### Training Errors
+
+- Rapid increase in mileage or intensity
+- Not enough recovery
+- Sudden change in surface or shoes
+- Too much high-impact activity
+
+### Nutrition
+
+- Low energy availability (not eating enough)
+- Vitamin D deficiency
+- Calcium deficiency
+- Female Athlete Triad / RED-S
+
+### Biomechanics
+
+- High arches or flat feet
+- Leg length discrepancy
+- Muscle weakness
+- Poor running form
+
+### Other
+
+- Previous stress fracture
+- Female sex
+- Low bone density
+- Certain medications
+
+## Diagnosis
+
+### Physical Exam
+
+- Point tenderness over bone
+- Pain with hopping
+- Swelling sometimes present
+
+### Imaging
+
+**X-ray:**
+- Often negative early
+- May show healing (callus) after 2-3 weeks
+- First-line imaging, but limited
+
+**MRI:**
+- Gold standard
+- Shows stress reaction before fracture visible on x-ray
+- Confirms diagnosis
+
+**Bone scan:**
+- Very sensitive
+- Less specific than MRI
+- Used less now that MRI is available
+
+## Treatment
+
+### Low-Risk Stress Fractures
+
+**Rest from impact activities:**
+- No running, jumping, or high-impact sports
+- Walking allowed if pain-free
+- Typically 4-8 weeks
+
+**Cross-training:**
+- Swimming
+- Pool running
+- Cycling (if pain-free)
+- Elliptical (sometimes)
+
+**Gradual return:**
+- When pain-free with daily activities
+- When bone healed on imaging (if done)
+- Progressive return to running protocol
+
+### High-Risk Stress Fractures
+
+**More aggressive treatment:**
+- May need boot or crutches
+- Non-weight-bearing sometimes required
+- Longer rest period (8-12+ weeks)
+- Close follow-up with imaging
+- Surgery sometimes needed
+
+## Return to Running
+
+### When to Start
+
+- Pain-free with daily activities for 10-14 days
+- No tenderness at fracture site
+- Can hop without pain
+- Usually 6-8 weeks from diagnosis (low-risk)
+
+### The Protocol
+
+**Week 1:**
+- Walk 30 min, jog 5 min
+- Every other day
+- No pain
+
+**Week 2:**
+- Walk 5 min, jog 10 min, walk 5 min
+- Every other day
+
+**Week 3:**
+- Jog 20 min continuous
+- Monitor symptoms
+
+**Week 4:**
+- Jog 25-30 min
+- Can run consecutive days
+
+**Week 5-8:**
+- Gradual increase in duration
+- Add intensity slowly
+- No more than 10% increase per week
+
+### Red Flags During Return
+
+Stop and consult doctor if:
+- Pain returns at fracture site
+- Pain with impact activities
+- Limping
+- Night pain
+
+## Prevention
+
+### Training Smart
+
+- Follow 10% rule (never increase weekly mileage more than 10%)
+- Include rest days
+- Periodize training (hard weeks, easy weeks)
+- Don't ignore pain
+
+### Nutrition
+
+- Eat enough total calories
+- Adequate calcium (1000-1300mg daily)
+- Vitamin D (check levels, supplement if needed)
+- Protein for bone and muscle health
+
+### Strength Training
+
+- Strong muscles protect bones
+- Include lower body resistance training
+- Don't neglect hip strength
+
+### Running Form
+
+- Increase cadence (reduce impact)
+- Avoid overstriding
+- Consider gait analysis if recurring issues
+
+### Footwear
+
+- Replace shoes every 300-500 miles
+- Appropriate for your foot type
+- Consider rotation (multiple pairs)
+
+## After a Stress Fracture
+
+### Recurrence Risk
+
+Having one stress fracture increases risk for another. Address:
+- What training error led to injury?
+- Are there nutritional deficiencies?
+- Do you need different footwear?
+- Is strength training part of your routine?
+
+### Long-Term
+
+Most stress fractures heal completely with no long-term effects if properly treated. The key is not rushing back and addressing underlying causes.
+
+---
+
+Stress fractures are frustrating because they take you out of what you love. But trying to run through them makes everything worse. Take the time off, cross-train, address the root causes, and come back gradually. You'll run again—and you'll be smarter about training when you do.
+`
+  },
+  'posterior-tibial-tendon-dysfunction': {
+    title: 'Posterior Tibial Tendon Dysfunction: The Hidden Cause of Adult Flat Feet',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '7 min read',
+    content: `
+## What Is PTTD?
+
+Posterior tibial tendon dysfunction (PTTD) is a progressive condition where the tendon that supports your arch becomes inflamed, stretched, or torn. As the tendon fails, the arch collapses—causing adult-acquired flat foot.
+
+The posterior tibial tendon runs from your calf, behind the inner ankle bone, and attaches to bones in the midfoot. It's the main dynamic support for your arch.
+
+## Why It Matters
+
+PTTD is progressive. Without treatment:
+- Stage 1 → Stage 2 → Stage 3 → Stage 4
+- Mild inflammation → Flat foot → Rigid deformity → Arthritis
+- Early treatment is key
+
+## Who Gets PTTD?
+
+### Risk Factors
+
+- **Age:** Most common over 40
+- **Sex:** Women more than men
+- **Obesity:** Increased stress on tendon
+- **Hypertension:** Associated with tendon degeneration
+- **Diabetes:** Affects tendon health
+- **Previous injury:** Ankle sprains, fractures
+- **Inflammatory conditions:** RA, seronegative arthritis
+
+## Stages of PTTD
+
+### Stage 1: Tendinitis
+
+- Tendon inflamed but intact
+- Pain and swelling along inner ankle
+- Arch still present
+- Can still do single-leg heel raise (with pain)
+- **Prognosis:** Excellent with treatment
+
+### Stage 2: Flat Foot (Flexible)
+
+- Tendon stretched or partially torn
+- Arch collapsed but flexible (corrects when non-weight-bearing)
+- "Too many toes" sign (visible from behind)
+- Heel tilts outward
+- Difficulty with single-leg heel raise
+- **Prognosis:** Good with aggressive treatment
+
+### Stage 3: Flat Foot (Rigid)
+
+- Significant tendon damage
+- Arch collapsed and fixed
+- Doesn't correct with manipulation
+- Arthritis developing in hindfoot
+- **Prognosis:** May need surgery
+
+### Stage 4: Ankle Involvement
+
+- Arthritis extends to ankle joint
+- Ankle tilts outward
+- Significant disability
+- **Prognosis:** Often requires surgical reconstruction
+
+## Symptoms
+
+### Early
+
+- Pain along inner ankle, behind ankle bone
+- Swelling in same area
+- Pain worse with activity
+- May notice arch lowering
+
+### Progressive
+
+- Arch collapse obvious
+- Pain moves to outside of ankle (impingement)
+- Difficulty walking, especially on uneven surfaces
+- Can't rise onto toes on affected foot
+- Fatigue with walking/standing
+
+## Diagnosis
+
+### Physical Exam
+
+**Single-leg heel raise:**
+- Stand on one foot, rise onto toes
+- PTTD makes this weak or impossible
+
+**Too many toes sign:**
+- Look at feet from behind
+- More toes visible on affected side (foot turns out)
+
+**Flexible vs rigid:**
+- Does the arch correct when not bearing weight?
+
+### Imaging
+
+**X-rays:**
+- Standing views show arch collapse
+- Show arthritis in later stages
+
+**MRI:**
+- Shows tendon damage directly
+- Helps with staging
+
+## Treatment by Stage
+
+### Stage 1: Conservative
+
+**Rest and activity modification:**
+- Reduce high-impact activities
+- Avoid prolonged standing
+
+**Orthotics:**
+- Custom orthotics with arch support
+- May need ankle brace (AFO) initially
+
+**Physical therapy:**
+- Strengthen posterior tibial tendon
+- Eccentric exercises
+- Calf stretching
+
+**NSAIDs:**
+- Reduce inflammation
+- Short-term use
+
+**Immobilization:**
+- Walking boot for 2-4 weeks if severe
+- Rest the tendon
+
+### Stage 2: Aggressive Conservative
+
+**Custom orthotics (essential):**
+- Rigid arch support
+- Medial heel post
+- May need UCBL (rigid plastic orthotic)
+
+**Bracing:**
+- Ankle-foot orthosis (AFO)
+- Arizona brace
+- Provides significant support
+
+**Physical therapy (intensive):**
+- Posterior tibial strengthening
+- Calf stretches
+- Balance and proprioception
+- 3-6 months
+
+**Consider surgery if:**
+- No improvement with 3-6 months aggressive treatment
+- Progressive deformity
+- Significant limitation
+
+### Stage 3-4: Often Surgical
+
+**Surgical options:**
+- Tendon transfer (FDL to PT)
+- Calcaneal osteotomy
+- Fusion procedures
+- Depends on specific deformity and arthritis
+
+**Post-surgical:**
+- Non-weight-bearing 6-8 weeks
+- Transition to boot, then orthotics
+- Long rehabilitation
+
+## Exercises
+
+### Posterior Tibial Strengthening
+
+**Resisted inversion:**
+- Resistance band around forefoot
+- Turn foot inward against resistance
+- 3 sets of 15
+
+**Heel raises:**
+- Double-leg first, progress to single
+- Rise onto toes, lower slowly
+- 3 sets of 15
+
+**Eccentric heel raises:**
+- Rise on both feet
+- Lower on affected foot only
+- Slow and controlled
+
+### Calf Stretching
+
+**Wall stretch:**
+- Gastrocnemius (straight knee)
+- Soleus (bent knee)
+- 30 seconds each, 3 times
+
+### Intrinsic Foot Strengthening
+
+**Towel scrunches:**
+- Scrunch towel with toes
+- 3 sets of 10
+
+**Short foot exercise:**
+- Lift arch without curling toes
+- Hold 10 seconds
+- 10 reps
+
+### Balance
+
+**Single-leg stance:**
+- Progress from eyes open to closed
+- Add unstable surfaces
+
+## Footwear
+
+### What Helps
+
+- Motion control or stability shoes
+- Firm heel counter
+- Good arch support
+- Wide enough for orthotics
+
+### What Hurts
+
+- Flat shoes (flip-flops, ballet flats)
+- Worn-out shoes
+- High heels
+- Minimalist shoes
+
+## Living With PTTD
+
+### Long-Term Management
+
+- Orthotics likely lifelong
+- Continue strengthening exercises
+- Appropriate footwear always
+- Monitor for progression
+
+### Activity Modifications
+
+- Low-impact exercise preferred
+- Avoid prolonged barefoot walking
+- Swimming, cycling, elliptical good options
+- May need to modify running
+
+---
+
+PTTD is a sneaky condition that progressively gets worse if ignored. The key is catching it early—Stage 1 and 2 respond well to conservative treatment. If your arch is collapsing or you can't do a single-leg heel raise, get evaluated. The earlier you intervene, the better your long-term outcome.
+`
+  },
   'calf-strain-recovery-treatment': {
     title: 'Calf Strain: Grades, Recovery Timeline, and Getting Back to Running',
     date: '2026-03-06',
