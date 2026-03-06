@@ -13,6 +13,839 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'reduce-inflammation-naturally': {
+    title: 'How to Reduce Inflammation Naturally: Diet, Exercise, and Lifestyle',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## What Is Inflammation?
+
+Inflammation is your body's response to injury, infection, or irritation. Acute inflammation is helpful—it's part of healing. But chronic, low-grade inflammation contributes to pain, disease, and aging.
+
+## Acute vs Chronic Inflammation
+
+### Acute Inflammation
+
+- Short-term response
+- Redness, swelling, heat, pain
+- Part of healing process
+- Resolves as you heal
+
+### Chronic Inflammation
+
+- Persistent, low-grade
+- Often no obvious symptoms
+- Contributes to disease
+- Linked to pain conditions
+
+## Diet and Inflammation
+
+### Anti-Inflammatory Foods
+
+**Fatty fish:**
+- Salmon, mackerel, sardines
+- High in omega-3 fatty acids
+- Aim for 2-3 servings per week
+
+**Fruits and vegetables:**
+- Berries (blueberries, strawberries)
+- Leafy greens (spinach, kale)
+- Tomatoes
+- Colorful vegetables
+
+**Nuts:**
+- Almonds, walnuts
+- Healthy fats and antioxidants
+
+**Olive oil:**
+- Extra virgin
+- Contains oleocanthal (anti-inflammatory)
+- Use for cooking and dressings
+
+**Whole grains:**
+- Oats, brown rice, quinoa
+- Fiber feeds healthy gut bacteria
+
+**Spices:**
+- Turmeric (curcumin)
+- Ginger
+- Garlic
+
+### Pro-Inflammatory Foods (Limit)
+
+**Processed foods:**
+- Packaged snacks
+- Fast food
+- High in unhealthy fats and additives
+
+**Added sugars:**
+- Soda, candy
+- Baked goods
+- Excess sugar promotes inflammation
+
+**Refined carbohydrates:**
+- White bread, pastries
+- Spike blood sugar
+
+**Processed meats:**
+- Hot dogs, sausage
+- Associated with inflammation
+
+**Excessive alcohol:**
+- Moderate = okay for most
+- Excess promotes inflammation
+
+**Trans fats:**
+- Partially hydrogenated oils
+- Found in some fried and processed foods
+
+## Exercise and Inflammation
+
+### Regular Exercise Reduces Inflammation
+
+- Moderate exercise has anti-inflammatory effects
+- Releases anti-inflammatory cytokines
+- Improves insulin sensitivity
+- Helps maintain healthy weight
+
+### How Much?
+
+- 150 minutes moderate activity per week
+- Or 75 minutes vigorous
+- Plus strength training 2x per week
+
+### Don't Overdo It
+
+- Excessive exercise can increase inflammation
+- Recovery is important
+- Balance hard workouts with easy days
+
+## Sleep and Inflammation
+
+### Poor Sleep Increases Inflammation
+
+- Less than 7 hours linked to higher inflammation
+- Sleep deprivation affects immune function
+- Chronic sleep issues worsen inflammation
+
+### Improve Sleep
+
+- Aim for 7-9 hours
+- Consistent sleep schedule
+- Dark, cool room
+- Limit screens before bed
+- Avoid caffeine late in day
+
+## Stress and Inflammation
+
+### Chronic Stress Promotes Inflammation
+
+- Stress hormones trigger inflammatory responses
+- Prolonged stress = prolonged inflammation
+- Mind-body connection is real
+
+### Stress Management
+
+- Regular exercise
+- Meditation or mindfulness
+- Deep breathing
+- Time in nature
+- Social connection
+- Adequate rest
+
+## Weight Management
+
+### Excess Weight Increases Inflammation
+
+- Fat tissue produces inflammatory chemicals
+- Especially abdominal fat
+- Weight loss reduces inflammatory markers
+
+### Approach
+
+- Sustainable diet changes
+- Regular physical activity
+- Focus on overall health, not just scale
+
+## Supplements (With Caution)
+
+### Potentially Helpful
+
+**Fish oil (omega-3):**
+- Anti-inflammatory effects
+- May help if not eating enough fish
+
+**Turmeric/curcumin:**
+- Some evidence for anti-inflammatory effects
+- Absorption is limited
+- Look for formulations with black pepper (piperine)
+
+**Vitamin D:**
+- If deficient (get tested)
+- Linked to inflammation when low
+
+### Reality Check
+
+- Supplements aren't magic
+- Food sources are generally better
+- Talk to doctor before starting
+- Quality varies widely
+
+## What Doesn't Help
+
+### Fad Diets
+
+- Extreme elimination diets
+- Most aren't necessary
+- Sustainability matters more
+
+### Quick Fixes
+
+- No single food cures inflammation
+- It's overall pattern that matters
+
+## Practical Action Plan
+
+### Start With
+
+1. Add more vegetables to every meal
+2. Eat fatty fish twice a week
+3. Switch to olive oil
+4. Reduce processed food and sugar
+5. Move your body daily
+6. Prioritize sleep
+7. Manage stress
+
+### Be Patient
+
+- Changes take time
+- Weeks to months for effects
+- Consistency matters most
+
+---
+
+Reducing inflammation naturally isn't about any single food or supplement—it's about an overall healthy lifestyle. Eat whole foods, move regularly, sleep well, and manage stress. These basics have more impact than any trendy anti-inflammatory hack.
+`
+  },
+  'weight-loss-joint-pain-relief': {
+    title: 'Weight Loss and Joint Pain: How Losing Weight Helps Your Joints',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Weight-Joint Connection
+
+Every pound of body weight puts 3-6 pounds of pressure on your knees when walking. When climbing stairs, it's even more. Excess weight dramatically increases stress on your joints—and losing weight can dramatically reduce pain.
+
+## The Science
+
+### Mechanical Stress
+
+**Knees:**
+- 10 lbs overweight = 30-60 lbs extra force on knees
+- Multiplied with every step
+- Thousands of steps per day = massive cumulative stress
+
+**Hips:**
+- Similar multiplier effect
+- Especially during single-leg stance
+
+**Spine:**
+- Extra abdominal weight pulls on lower back
+- Changes posture and loading
+
+**Ankles and feet:**
+- Support entire body weight
+- Extra load with every step
+
+### Inflammation
+
+Fat tissue isn't just storage—it produces inflammatory chemicals (cytokines). Extra fat = more systemic inflammation = more joint pain and faster cartilage breakdown.
+
+## How Much Does Weight Loss Help?
+
+### Research Shows
+
+- Losing just 10 lbs can reduce knee pain significantly
+- 1 lb lost = 4 lbs less force on knees
+- Even modest weight loss improves function
+- Slows progression of arthritis
+
+### Real-World Impact
+
+- Easier to move
+- Less pain with daily activities
+- Better exercise tolerance
+- Improved quality of life
+
+## Which Joints Benefit Most?
+
+### Weight-Bearing Joints
+
+**Knees:** Most affected by weight, most improved by weight loss
+
+**Hips:** Significant benefit
+
+**Lower back:** Reduced stress, better posture
+
+**Ankles and feet:** Less load, less pain
+
+### Even Non-Weight-Bearing
+
+Hand osteoarthritis improves with weight loss too—likely due to reduced inflammation.
+
+## Challenges
+
+### The Catch-22
+
+Joint pain makes exercise harder, which makes weight loss harder, which makes joint pain worse.
+
+### Breaking the Cycle
+
+- Start with low-impact activities
+- Focus on diet first if needed
+- Any movement counts
+- Gradual progress
+
+## Exercise Options for Sore Joints
+
+### Low-Impact Cardio
+
+**Swimming/water aerobics:**
+- Buoyancy supports weight
+- Excellent for sore joints
+- Still builds fitness
+
+**Cycling:**
+- Non-weight-bearing
+- Easy on knees (usually)
+- Stationary or outdoor
+
+**Elliptical:**
+- Lower impact than running
+- Good calorie burn
+- Most people tolerate well
+
+**Walking:**
+- Start slow
+- Use supportive shoes
+- Build gradually
+
+### Strength Training
+
+- Important for joint support
+- Start with machines (more control)
+- Focus on form
+- Work within pain-free range
+
+## Diet for Weight Loss
+
+### Principles
+
+- Calorie deficit (eat less than you burn)
+- Sustainable changes
+- Adequate protein
+- Whole foods focus
+
+### What Works
+
+- Portion control
+- More vegetables
+- Less processed food
+- Mindful eating
+- Consistent habits
+
+### What Doesn't Work
+
+- Extreme diets
+- Rapid weight loss
+- Unsustainable restrictions
+- Ignoring hunger cues
+
+## How Fast to Lose Weight?
+
+### Recommended Pace
+
+- 1-2 lbs per week
+- Slow and steady
+- More sustainable
+- Less muscle loss
+
+### Why Not Faster?
+
+- Extreme restriction backfires
+- Lose muscle, not just fat
+- Metabolic adaptation
+- Rebound weight gain
+
+## Realistic Expectations
+
+### What Weight Loss Can Do
+
+- Reduce pain
+- Improve function
+- Slow arthritis progression
+- Improve overall health
+
+### What It Can't Do
+
+- Reverse severe arthritis
+- Rebuild lost cartilage
+- Fix structural problems
+- Replace surgery when needed
+
+## Getting Started
+
+### If Very Overweight or Deconditioned
+
+1. Talk to doctor
+2. Start with diet changes
+3. Add water exercise or walking
+4. Progress gradually
+5. Consider physical therapy
+
+### If Moderately Overweight
+
+1. Combine diet and exercise
+2. Mix cardio and strength
+3. Prioritize consistency
+4. Track progress
+
+## Support
+
+### Consider
+
+- Registered dietitian for nutrition guidance
+- Physical therapist for exercise planning
+- Support groups
+- Medical supervision if needed
+
+### Helpful Resources
+
+- Food tracking apps
+- Structured programs
+- Accountability partners
+
+---
+
+Weight loss is one of the most effective treatments for joint pain—and it's in your control. You don't need to reach ideal weight to see benefits. Losing even 5-10% of your body weight can make a real difference in how your joints feel and function.
+`
+  },
+  'should-you-exercise-when-sore': {
+    title: 'Should You Exercise When Sore? When to Push Through and When to Rest',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Understanding Muscle Soreness
+
+That achy feeling 24-48 hours after a hard workout is called DOMS (Delayed Onset Muscle Soreness). It's normal, it's not dangerous, and it doesn't necessarily mean you should skip your next workout.
+
+## What Causes DOMS?
+
+- Eccentric muscle contractions (lengthening under load)
+- Microscopic muscle fiber damage
+- Inflammatory response
+- Part of the adaptation process
+
+This is how muscles get stronger—stress, damage, repair, growth.
+
+## Soreness vs. Injury
+
+### Muscle Soreness (DOMS)
+
+- Dull, achy feeling
+- Affects whole muscle group
+- Peaks 24-48 hours after exercise
+- Improves with light movement
+- Goes away in 3-5 days
+- No sharp pain
+
+### Possible Injury
+
+- Sharp, localized pain
+- Hurts with specific movements
+- Doesn't improve or worsens
+- Affects joint or specific spot
+- Came on suddenly during exercise
+- Swelling or bruising
+
+**When in doubt:** Rest and see a professional if pain persists.
+
+## When to Exercise Through Soreness
+
+### It's Usually Fine If
+
+- Soreness is mild to moderate (3-5/10)
+- It's general muscle achiness
+- Pain improves with warm-up
+- You can move normally
+- No sharp or localized pain
+- It's been more than 24 hours since workout
+
+### Benefits of Light Exercise
+
+- Increases blood flow to muscles
+- May speed recovery
+- Maintains training routine
+- Psychologically helpful
+
+## When to Rest
+
+### Take a Day Off If
+
+- Soreness is severe (7+/10)
+- Movement is significantly limited
+- Pain doesn't improve with warm-up
+- You're exhausted
+- You've had several hard days in a row
+- Sharp or concerning pain
+
+### Listen to Your Body
+
+Your body knows. If everything is screaming "no," that's important information.
+
+## Smart Strategies
+
+### Active Recovery
+
+- Light walking
+- Easy swimming
+- Gentle cycling
+- Yoga or stretching
+- Low intensity, 20-30 minutes
+
+### Modify Your Workout
+
+**If legs are sore:**
+- Train upper body
+- Do mobility work
+- Light cardio only
+
+**If upper body is sore:**
+- Train legs
+- Go for a walk
+- Lower body focus
+
+### Reduce Intensity
+
+- Lighter weights
+- Fewer sets
+- Longer rest periods
+- Focus on form
+
+## What Helps Recovery?
+
+### Sleep
+
+- Most important recovery tool
+- Aim for 7-9 hours
+- When muscles repair and grow
+
+### Nutrition
+
+- Adequate protein (helps repair)
+- Hydration
+- Overall balanced diet
+
+### Light Movement
+
+- Gentle activity promotes blood flow
+- Better than complete rest for most
+
+### Time
+
+- DOMS peaks at 24-48 hours
+- Usually resolves in 3-5 days
+- Patience is part of the process
+
+## What Doesn't Help Much
+
+### Ice Baths/Cold Therapy
+
+- May slightly reduce soreness
+- May also blunt training adaptations
+- Not necessary for most
+
+### NSAIDs (Ibuprofen, etc.)
+
+- Can reduce soreness
+- May interfere with adaptation
+- Reserve for when really needed
+
+### Stretching (for Soreness)
+
+- Doesn't speed recovery
+- Can feel good temporarily
+- Fine to do, just not a cure
+
+### Massage
+
+- Feels good
+- May modestly reduce soreness
+- Not essential
+
+## Preventing Excessive Soreness
+
+### Progress Gradually
+
+- Don't do too much too soon
+- Follow 10% rule
+- Build up intensity over weeks
+
+### Warm Up
+
+- Prepare muscles for work
+- Dynamic movement
+- Gradual intensity increase
+
+### Cool Down
+
+- Easy movement to end
+- Doesn't prevent DOMS but helps transition
+
+### Stay Consistent
+
+- Regular training = less soreness over time
+- Body adapts to familiar exercises
+
+## The Repeated Bout Effect
+
+Here's good news: The same workout causes less soreness the second time. Your muscles adapt. First time doing squats = very sore. Fifth time = much less sore.
+
+Consistency is the cure for chronic soreness.
+
+## Bottom Line
+
+Mild to moderate soreness? You can usually train, especially if you modify intensity or work different muscles.
+
+Severe soreness or sharp pain? Rest and recover.
+
+When in doubt? Light movement (active recovery) is usually better than complete rest.
+
+---
+
+Soreness is part of training, not a reason to stop. Learn to distinguish normal muscle soreness from injury, and train smart. Your body is more resilient than you think.
+`
+  },
+  'prevent-injury-starting-exercise': {
+    title: 'How to Prevent Injury When Starting to Exercise: A Beginner\'s Guide',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Beginner's Injury Problem
+
+New exercisers get injured because they do too much, too soon, with too little preparation. Enthusiasm outpaces the body's ability to adapt. Here's how to avoid that trap.
+
+## The Most Important Rule
+
+**Start slower than you think you need to.**
+
+If your first workout feels too easy, perfect. That means you can come back and do it again. If your first workout wrecks you for a week, you've already set yourself back.
+
+## Common Beginner Mistakes
+
+### Too Much Volume
+
+- Running 5 miles on day one
+- Hour-long workouts immediately
+- Daily intense exercise right away
+
+**Fix:** Start with 15-20 minutes. Build from there.
+
+### Too Much Intensity
+
+- Going all-out every session
+- Heavy weights with new movements
+- High-impact before body is ready
+
+**Fix:** Easy to moderate intensity for first weeks.
+
+### No Progression Plan
+
+- Random workouts
+- No structure
+- Inconsistent effort
+
+**Fix:** Follow a beginner program with built-in progression.
+
+### Poor Form
+
+- Learning from YouTube without feedback
+- Ego lifting
+- Not understanding the movements
+
+**Fix:** Learn properly. Consider a few sessions with a trainer.
+
+### Ignoring Pain
+
+- Pushing through warning signals
+- "No pain, no gain" mentality
+- Exercising on injury
+
+**Fix:** Pain is information. Listen to it.
+
+## Principles for Safe Starting
+
+### The 10% Rule
+
+Never increase weekly volume (time, distance, weight) by more than 10% per week. This gives your body time to adapt.
+
+### Consistency Over Intensity
+
+Three easy workouts per week beats one brutal session. Build the habit first.
+
+### Recovery Is Training
+
+Rest days are when adaptation happens. Don't skip them.
+
+### Warm Up Every Time
+
+5-10 minutes of light movement before your workout. Prepares muscles, joints, and nervous system.
+
+## Type-Specific Advice
+
+### Starting Running
+
+**Common injuries:** Shin splints, knee pain, Achilles issues
+
+**Prevention:**
+- Start with walk/run intervals
+- Proper shoes (get fitted)
+- Soft surfaces when possible
+- No more than 3-4 runs per week initially
+- Build mileage slowly
+
+### Starting Strength Training
+
+**Common injuries:** Low back strain, shoulder issues, joint pain
+
+**Prevention:**
+- Learn form before adding weight
+- Start with bodyweight or light weights
+- Don't max out early
+- Full range of motion
+- Balance pushing and pulling
+
+### Starting Group Classes
+
+**Common injuries:** Overexertion, form breakdown
+
+**Prevention:**
+- Tell instructor you're new
+- Modify when needed
+- Don't try to keep up with veterans
+- It's okay to rest during class
+
+### Starting Sports
+
+**Common injuries:** Sprains, strains, overuse
+
+**Prevention:**
+- Get in baseline fitness first
+- Learn proper technique
+- Don't play when exhausted
+- Cross-train for balance
+
+## The First Month
+
+### Week 1
+
+- 2-3 sessions
+- 15-20 minutes each
+- Light intensity
+- Focus on showing up
+
+### Week 2
+
+- 3 sessions
+- 20-25 minutes
+- Still light-moderate
+- Start learning movements
+
+### Week 3
+
+- 3-4 sessions
+- 25-30 minutes
+- Moderate intensity
+- Building routine
+
+### Week 4
+
+- Maintain or slightly increase
+- Evaluate how you feel
+- Adjust based on response
+
+## Warning Signs
+
+### Stop and Reassess If
+
+- Sharp pain during exercise
+- Pain that doesn't go away
+- Joint pain (vs. muscle soreness)
+- Feeling exhausted (not just tired)
+- Dreading every workout
+
+### Normal Beginner Experiences
+
+- Muscle soreness (DOMS)
+- Feeling tired after workouts
+- Some discomfort with effort
+- Needing recovery days
+
+## Setting Yourself Up for Success
+
+### Get Proper Gear
+
+- Good shoes for your activity
+- Comfortable clothing
+- Don't need expensive stuff
+
+### Find Your Starting Point
+
+- Be honest about current fitness
+- No shame in starting at zero
+- Everyone begins somewhere
+
+### Have a Plan
+
+- Know what you're doing each session
+- Beginner programs exist—use them
+- Progression built in
+
+### Build Support
+
+- Workout buddy
+- Coach or trainer (even a few sessions)
+- Supportive community
+
+## If You Do Get Hurt
+
+### Minor Issues
+
+- Rest a few days
+- Ice if inflamed
+- Return gradually
+- Learn from it
+
+### More Serious
+
+- See a professional
+- Get proper diagnosis
+- Follow rehab protocol
+- Don't rush back
+
+---
+
+The best exercise program is one you can sustain without getting hurt. Start conservative, progress gradually, and listen to your body. Slow and steady doesn't just win the race—it keeps you in the race.
+`
+  },
   'self-massage-tennis-ball-techniques': {
     title: 'Self-Massage with a Tennis Ball: Target Tight Muscles at Home',
     date: '2026-03-06',

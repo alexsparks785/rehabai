@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'reduce-inflammation-naturally',
+    title: 'How to Reduce Inflammation Naturally: Diet, Exercise, and Lifestyle',
+    excerpt: 'Chronic inflammation contributes to pain and disease. Here\'s what actually helps reduce it naturally.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'weight-loss-joint-pain-relief',
+    title: 'Weight Loss and Joint Pain: How Losing Weight Helps Your Joints',
+    excerpt: 'Extra weight means extra stress on your joints. Here\'s the science and practical advice for relief.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'should-you-exercise-when-sore',
+    title: 'Should You Exercise When Sore? When to Push Through and When to Rest',
+    excerpt: 'Muscle soreness after a workout is normal. But should you train anyway? Here\'s how to decide.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'prevent-injury-starting-exercise',
+    title: 'How to Prevent Injury When Starting to Exercise: A Beginner\'s Guide',
+    excerpt: 'New to exercise? Avoid the common mistakes that lead to injury. Here\'s how to start safely.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'self-massage-tennis-ball-techniques',
     title: 'Self-Massage with a Tennis Ball: Target Tight Muscles at Home',
     excerpt: 'No massage therapist needed. Here\'s how to release tight muscles with just a tennis ball or lacrosse ball.',
