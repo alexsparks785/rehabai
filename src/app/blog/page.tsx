@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'mcl-sprain-treatment-recovery',
+    title: 'MCL Sprain: Grades, Treatment, and Return to Activity',
+    excerpt: 'Injured the inside of your knee? MCL sprains are common and usually heal well without surgery. Here\'s what to expect.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'bakers-cyst-treatment',
+    title: 'Baker\'s Cyst: What That Lump Behind Your Knee Really Is',
+    excerpt: 'Noticed swelling behind your knee? A Baker\'s cyst is usually a sign of something else going on. Here\'s what to know.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'pes-anserine-bursitis-treatment',
+    title: 'Pes Anserine Bursitis: The Common Cause of Inner Knee Pain',
+    excerpt: 'Pain on the inside of your knee, below the joint line? Pes anserine bursitis might be the culprit. Here\'s how to treat it.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exertional-compartment-syndrome',
+    title: 'Chronic Exertional Compartment Syndrome: When Running Makes Your Legs Feel Like They\'ll Explode',
+    excerpt: 'Severe leg tightness and pain during exercise that goes away with rest? CECS is often misdiagnosed. Here\'s what it is.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
     slug: 'snapping-hip-syndrome-treatment',
     title: 'Snapping Hip Syndrome: Why Your Hip Pops and What to Do About It',
     excerpt: 'Hip clicking or popping with movement? Snapping hip is common in dancers and athletes. Here\'s what causes it and when it needs treatment.',

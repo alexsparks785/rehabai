@@ -13,6 +13,910 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'mcl-sprain-treatment-recovery': {
+    title: 'MCL Sprain: Grades, Treatment, and Return to Activity',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is the MCL?
+
+The medial collateral ligament (MCL) runs along the inside of your knee, connecting the femur (thigh bone) to the tibia (shin bone). It's the primary stabilizer against forces that push the knee inward (valgus stress).
+
+MCL injuries are one of the most common knee ligament injuries, especially in contact sports.
+
+## How MCL Injuries Happen
+
+### Common Mechanisms
+
+- Direct blow to outside of knee (pushes knee inward)
+- Cutting or pivoting with foot planted
+- Landing awkwardly
+- Skiing (common "snowplow" injury)
+
+### Sports at Risk
+
+- Football
+- Soccer
+- Hockey
+- Basketball
+- Skiing
+
+## Grading MCL Sprains
+
+### Grade I (Mild)
+
+- Ligament stretched but intact
+- Mild tenderness and swelling
+- No instability
+- Full or near-full range of motion
+- Recovery: 1-3 weeks
+
+### Grade II (Moderate)
+
+- Partial tear of ligament
+- Moderate tenderness and swelling
+- Some instability with testing
+- Pain with movement
+- Recovery: 3-6 weeks
+
+### Grade III (Severe)
+
+- Complete tear
+- Significant swelling and tenderness
+- Joint opens with stress testing
+- May have associated injuries (ACL, meniscus)
+- Recovery: 6-12 weeks (still often non-surgical)
+
+## Symptoms
+
+### Immediate
+
+- Pain on inside of knee
+- Popping or tearing sensation
+- Swelling (develops over hours)
+- Difficulty bearing weight (moderate-severe)
+
+### Ongoing
+
+- Tenderness along MCL
+- Instability or giving way sensation
+- Stiffness
+- Pain with bending knee
+
+## Diagnosis
+
+### Physical Exam
+
+**Valgus stress test:**
+- Pressure applied to outside of knee
+- Assesses how much the inside opens
+- Done at 0° and 30° flexion
+
+**Palpation:**
+- Tenderness along MCL path
+
+### Imaging
+
+**X-rays:**
+- Rule out fracture
+- Usually normal in isolated MCL injury
+
+**MRI:**
+- Confirms diagnosis
+- Shows tear location and severity
+- Evaluates for associated injuries
+
+## The Good News: MCL Heals Well
+
+Unlike ACL injuries, isolated MCL sprains almost always heal without surgery. The MCL has good blood supply and heals well with conservative treatment.
+
+## Treatment by Grade
+
+### Grade I
+
+**Initial:**
+- RICE (rest, ice, compression, elevation)
+- Weight-bearing as tolerated
+- May not need brace
+
+**Progression:**
+- Early range of motion
+- Strengthening when pain allows
+- Return to activity: 1-3 weeks
+
+### Grade II
+
+**Initial:**
+- Hinged knee brace
+- Protected weight-bearing
+- Crutches for comfort
+
+**Progression:**
+- Progressive range of motion
+- Strengthening protocol
+- Return to activity: 3-6 weeks
+
+### Grade III
+
+**Initial:**
+- Hinged brace (locked or limited motion initially)
+- Crutches
+- Protected weight-bearing
+
+**Progression:**
+- Gradual range of motion
+- Progressive strengthening
+- Return to activity: 6-12 weeks
+
+## Rehabilitation Phases
+
+### Phase 1: Acute (Week 1-2)
+
+**Goals:** Protect healing, control swelling, maintain mobility
+
+- Gentle range of motion (pain-free)
+- Quad sets, straight leg raises
+- Ice and compression
+- Gait training with crutches if needed
+
+### Phase 2: Intermediate (Weeks 2-4)
+
+**Goals:** Restore range of motion, begin strengthening
+
+- Full range of motion
+- Stationary bike
+- Progressive strengthening (leg press, squats)
+- Balance training
+
+### Phase 3: Advanced (Weeks 4-8)
+
+**Goals:** Return to function, sport-specific training
+
+- Running progression
+- Agility drills
+- Sport-specific movements
+- Plyometrics
+
+### Phase 4: Return to Sport (Weeks 6-12)
+
+**Criteria:**
+- Full range of motion
+- Strength equal to other leg
+- Pass functional tests
+- No pain or instability
+- Sport-specific activities tolerated
+
+## Exercises
+
+### Early Stage
+
+**Quad sets:**
+- Tighten thigh, press knee down
+- Hold 5 seconds
+- 20 reps
+
+**Straight leg raises:**
+- Lie on back, knee straight
+- Lift leg 12 inches
+- 3 sets of 10
+
+**Heel slides:**
+- Lie on back, slide heel toward buttock
+- 20 reps
+
+### Progressive Stage
+
+**Mini squats:**
+- Partial range initially
+- Progress depth as tolerated
+- 3 sets of 15
+
+**Step-ups:**
+- Start low (4 inches)
+- Progress height
+- 3 sets of 10
+
+**Single-leg balance:**
+- Progress to unstable surfaces
+- 30 seconds each leg
+
+### Advanced Stage
+
+**Single-leg squats:**
+- Control is key
+- 3 sets of 10
+
+**Lateral movements:**
+- Side shuffles
+- Carioca
+- Lateral bounds
+
+## When Surgery Is Needed
+
+### Indications
+
+- Complete tear with persistent instability despite bracing
+- Combined ligament injuries (MCL + ACL)
+- Avulsion fracture (bone pulled off)
+- High-level athlete with specific needs
+
+### Surgical Options
+
+- MCL repair (acute injuries)
+- MCL reconstruction (chronic cases)
+- Often combined with ACL reconstruction if both injured
+
+## Prevention
+
+### Strengthening
+
+- Strong quadriceps and hamstrings
+- Hip strengthening
+- Core stability
+
+### Technique
+
+- Proper landing mechanics
+- Avoid valgus knee collapse
+- Sport-specific training
+
+### Equipment
+
+- Appropriate footwear
+- Consider bracing for high-risk sports
+
+---
+
+MCL sprains are painful but heal well. Even complete tears usually don't need surgery. Follow the rehab protocol, protect the knee early, and gradually return to activity. Most people return to full sport with no long-term issues.
+`
+  },
+  'bakers-cyst-treatment': {
+    title: 'Baker\'s Cyst: What That Lump Behind Your Knee Really Is',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## What Is a Baker's Cyst?
+
+A Baker's cyst (popliteal cyst) is a fluid-filled swelling behind the knee. It forms when excess fluid from the knee joint pushes into a small sac (bursa) at the back of the knee.
+
+It's named after the surgeon who first described it, Dr. William Morrant Baker.
+
+## What Causes It?
+
+### The Underlying Problem
+
+A Baker's cyst is almost always secondary to something else:
+
+**Arthritis:**
+- Osteoarthritis (most common)
+- Rheumatoid arthritis
+- Gout
+
+**Meniscus tears:**
+- Damaged cartilage causes inflammation
+- Excess fluid production
+
+**Other knee problems:**
+- Ligament injuries
+- Cartilage damage
+- Any cause of joint effusion (swelling)
+
+### The Mechanism
+
+The knee joint produces extra fluid in response to irritation or injury. This fluid can push through a weak spot into the bursa at the back of the knee, creating the cyst.
+
+## Symptoms
+
+### The Cyst Itself
+
+- Visible or palpable lump behind knee
+- Feels like a water balloon
+- May change size (larger when knee is inflamed)
+- Tightness or fullness behind knee
+
+### May Be Asymptomatic
+
+Many Baker's cysts cause no symptoms and are found incidentally.
+
+### When Symptomatic
+
+- Stiffness in knee
+- Limited bending
+- Discomfort with prolonged standing
+- Pain behind knee
+
+### If Cyst Ruptures
+
+- Sudden sharp pain behind knee
+- Swelling and redness in calf
+- Can mimic DVT (blood clot)—important to rule out
+
+## Diagnosis
+
+### Physical Exam
+
+- Palpable mass behind knee
+- May transilluminate (light shines through)
+- Usually non-tender unless inflamed
+
+### Imaging
+
+**Ultrasound:**
+- Confirms cyst
+- Rules out DVT
+- Shows communication with joint
+
+**MRI:**
+- Detailed view
+- Shows underlying knee pathology
+- Meniscus, cartilage evaluation
+
+**X-rays:**
+- Don't show the cyst
+- May show arthritis
+
+## Treatment
+
+### Treat the Underlying Cause
+
+This is the key. The cyst is a symptom, not the primary problem.
+
+**If arthritis:**
+- Manage arthritis (exercise, weight loss, medications)
+- Address inflammation
+
+**If meniscus tear:**
+- May need surgical repair
+- Conservative management if appropriate
+
+### Conservative Treatment
+
+**Activity modification:**
+- Avoid aggravating activities
+- Low-impact exercise
+
+**Ice:**
+- After activity
+- 15-20 minutes
+
+**Compression:**
+- Can help with discomfort
+
+**NSAIDs:**
+- Reduce inflammation
+
+**Physical therapy:**
+- Strengthen knee
+- Maintain range of motion
+- Address underlying mechanics
+
+### Aspiration
+
+**When considered:**
+- Large, symptomatic cyst
+- Not responding to conservative care
+
+**How it works:**
+- Needle inserted to drain fluid
+- Often combined with corticosteroid injection
+- Often recurs because underlying cause persists
+
+### Surgery
+
+**Rarely needed for the cyst itself**
+
+May be indicated when:
+- Underlying cause requires surgery (meniscus repair)
+- Cyst is very large and causing nerve compression
+- Recurrent after aspiration
+
+## If the Cyst Ruptures
+
+### What Happens
+
+- Fluid leaks into calf
+- Sudden pain and swelling
+- Looks like DVT
+
+### What to Do
+
+- Rest and elevation
+- Ice
+- Compression bandage
+- See doctor to rule out DVT (blood clot)
+- Usually resolves on its own
+
+### Rule Out DVT
+
+Ruptured Baker's cyst and DVT can look identical. Ultrasound can differentiate. Don't ignore calf swelling—get it checked.
+
+## Living With a Baker's Cyst
+
+### Many People Do Fine
+
+- Small asymptomatic cysts can be left alone
+- Monitor for changes
+- Address if becomes bothersome
+
+### Self-Care
+
+- Maintain knee health
+- Stay active (low impact)
+- Manage weight
+- Treat underlying conditions
+
+### When to Seek Care
+
+- Sudden severe pain (rupture or DVT)
+- Progressive swelling
+- Numbness or weakness
+- Significant functional limitation
+
+## Prognosis
+
+### Outcomes
+
+- Cyst may resolve if underlying cause treated
+- May persist but remain asymptomatic
+- Rarely dangerous
+- Recurrence common if underlying cause not addressed
+
+---
+
+A Baker's cyst is a signal that something's going on in your knee. Don't ignore it, but also don't panic. Treat the underlying problem—arthritis, meniscus tear, whatever it is—and the cyst often takes care of itself. Draining it without addressing the root cause usually means it comes back.
+`
+  },
+  'pes-anserine-bursitis-treatment': {
+    title: 'Pes Anserine Bursitis: The Common Cause of Inner Knee Pain',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '5 min read',
+    content: `
+## What Is Pes Anserine Bursitis?
+
+Pes anserine bursitis is inflammation of the bursa (fluid-filled sac) located on the inner side of your knee, about 2-3 inches below the joint line. The pes anserinus ("goose's foot" in Latin) is where three tendons attach to the tibia in a fan shape.
+
+## Anatomy
+
+The pes anserine is formed by the tendons of three muscles:
+- Sartorius
+- Gracilis
+- Semitendinosus
+
+A bursa sits between these tendons and the bone, reducing friction. When it becomes inflamed, that's pes anserine bursitis.
+
+## Who Gets It?
+
+### Common in
+
+- Runners
+- Cyclists
+- Swimmers (breaststroke)
+- Middle-aged and older adults
+- People with knee osteoarthritis
+- Overweight individuals
+- Women (more than men)
+
+### Risk Factors
+
+- Obesity
+- Knee osteoarthritis
+- Tight hamstrings
+- Overpronation of feet
+- Diabetes
+- Medial meniscus tear
+
+## Symptoms
+
+### Classic Presentation
+
+- Pain on inner knee, below joint line
+- Tender to touch at pes anserine
+- Pain going up or down stairs
+- Pain with activity
+- Stiffness, especially in morning
+- May have slight swelling
+
+### What Makes It Worse
+
+- Stairs (especially going down)
+- Walking uphill
+- Running
+- Deep knee bending
+- Getting up from seated position
+
+### Different From Medial Meniscus
+
+- Meniscus pain is at the joint line
+- Pes anserine pain is below the joint line
+- Can coexist with meniscus problems
+
+## Diagnosis
+
+### Physical Exam
+
+- Point tenderness at pes anserine
+- Pain with resisted knee flexion and internal rotation
+- No instability
+
+### Imaging
+
+**X-rays:**
+- Usually normal
+- May show associated arthritis
+
+**MRI:**
+- Shows bursal inflammation if significant
+- Rules out other pathology
+- Often not needed for diagnosis
+
+**Ultrasound:**
+- Can show fluid in bursa
+- Good for injection guidance
+
+## Treatment
+
+### Rest and Activity Modification
+
+- Reduce aggravating activities temporarily
+- Avoid stairs when possible
+- Modify training (reduce mileage, avoid hills)
+
+### Ice
+
+- 15-20 minutes, several times daily
+- After activity
+- Reduces inflammation
+
+### Stretching
+
+**Hamstring stretching:**
+- Lying hamstring stretch with strap
+- Seated hamstring stretch
+- Hold 30 seconds, 3x daily
+
+**Hip adductor stretching:**
+- Butterfly stretch
+- Side lunge stretch
+- 30 seconds, 3x daily
+
+### Strengthening
+
+**Quadriceps:**
+- Straight leg raises
+- Wall sits
+- Short arc quads
+
+**Hip strengthening:**
+- Clamshells
+- Side-lying leg raises
+- Bridges
+
+### Addressing Contributing Factors
+
+**If overweight:**
+- Weight loss reduces knee stress
+- Significant impact on symptoms
+
+**If overpronation:**
+- Consider orthotics
+- Appropriate footwear
+
+**If osteoarthritis:**
+- Manage arthritis comprehensively
+
+### Medications
+
+**NSAIDs:**
+- Oral anti-inflammatories help
+- Topical NSAIDs can be effective
+- Follow dosing guidelines
+
+### Physical Therapy
+
+- Guided stretching and strengthening
+- Manual therapy
+- Modalities for pain relief
+- Address biomechanics
+
+## Injections
+
+### Corticosteroid Injection
+
+**When indicated:**
+- Failed 4-6 weeks conservative treatment
+- Significant pain
+
+**What to expect:**
+- Local anesthetic + corticosteroid
+- Relief often within days
+- May last weeks to months
+- Can be repeated if needed (limit of 3-4)
+
+### Effectiveness
+
+- High success rate
+- Often provides lasting relief when combined with exercise
+
+## Surgery
+
+### Very Rarely Needed
+
+Almost all cases resolve with conservative treatment or injection.
+
+### When Considered
+
+- Refractory cases despite extensive treatment
+- Typically involves bursa removal (bursectomy)
+
+## Prevention
+
+### Stretching
+
+- Regular hamstring and adductor stretching
+- Before and after activity
+
+### Strengthening
+
+- Hip and quad strengthening
+- Core stability
+
+### Training Modifications
+
+- Gradual increases in activity
+- Avoid sudden mileage spikes
+- Cross-training
+
+### Footwear
+
+- Appropriate for your activity
+- Address overpronation if present
+
+## Timeline
+
+### Typical Recovery
+
+- Mild cases: 2-4 weeks
+- Moderate cases: 4-8 weeks
+- With injection: often rapid improvement
+- Chronic cases: may take longer
+
+---
+
+Pes anserine bursitis is common and very treatable. Stretch the hamstrings, strengthen the hips and quads, address contributing factors, and it usually resolves. If not, a corticosteroid injection often does the trick. Surgery is almost never needed.
+`
+  },
+  'exertional-compartment-syndrome': {
+    title: 'Chronic Exertional Compartment Syndrome: When Running Makes Your Legs Feel Like They\'ll Explode',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is Chronic Exertional Compartment Syndrome?
+
+Chronic exertional compartment syndrome (CECS) is a condition where exercise causes increased pressure within muscle compartments in the lower leg, leading to pain, tightness, and sometimes neurological symptoms.
+
+Unlike acute compartment syndrome (a medical emergency), CECS is chronic and symptoms resolve with rest.
+
+## Anatomy: Understanding Compartments
+
+Your lower leg has four compartments, each surrounded by tough fascia (connective tissue):
+- Anterior (front)
+- Lateral (outside)
+- Deep posterior (deep back)
+- Superficial posterior (calf)
+
+During exercise, muscles swell with blood. If the fascia can't expand enough, pressure builds.
+
+## Who Gets It?
+
+### Common in
+
+- Runners (most common)
+- Military personnel
+- Soccer players
+- Basketball players
+- Athletes with repetitive impact activities
+- Young, active adults (20s-30s)
+
+### Characteristics
+
+- Often affects both legs
+- More common in anterior and lateral compartments
+- May have started training intensely
+
+## Symptoms
+
+### The Classic Pattern
+
+**During exercise:**
+- Tightness and pressure in affected compartment
+- Aching, squeezing pain
+- Feels like muscles will "explode"
+- May have numbness or tingling
+- Possible foot drop (anterior compartment)
+
+**After exercise:**
+- Symptoms resolve within 15-30 minutes of stopping
+- Legs feel completely normal at rest
+- No symptoms with daily activities
+
+### Key Features
+
+- Predictable onset (same time/distance each run)
+- Reproducible symptoms
+- Complete resolution with rest
+- Bilateral in many cases
+
+## What It's NOT
+
+### Shin Splints
+
+- Pain along shin bone
+- Tender to touch
+- Doesn't resolve as quickly with rest
+- Different location
+
+### Stress Fracture
+
+- Point tenderness
+- Pain may persist after exercise
+- Pain with hopping
+
+### Vascular Issues
+
+- Less common in young athletes
+- May have claudication pattern but different cause
+
+## Diagnosis
+
+### Clinical Diagnosis
+
+History is very suggestive—the classic pattern of exertional symptoms with complete rest relief.
+
+### Compartment Pressure Testing
+
+**The gold standard:**
+- Measures pressure inside compartments
+- Done at rest, during exercise, and after
+- Elevated post-exercise pressure confirms diagnosis
+
+**Criteria:**
+- Resting pressure >15 mmHg
+- 1-minute post-exercise >30 mmHg
+- 5-minute post-exercise >20 mmHg
+
+### Other Tests
+
+**MRI:**
+- May show muscle edema
+- Rules out other pathology
+
+**Doppler/Vascular studies:**
+- Rules out vascular causes
+
+## Conservative Treatment
+
+### Activity Modification
+
+- Reduce running volume and intensity
+- Switch to lower-impact activities
+- May reduce symptoms but often not curative
+
+### Running Modifications
+
+**Gait retraining:**
+- Forefoot or midfoot striking
+- Increased cadence
+- May reduce anterior compartment loading
+
+**Technique changes:**
+- Some success with specific modifications
+
+### Stretching and Soft Tissue Work
+
+- May provide temporary relief
+- Massage, foam rolling
+- Limited evidence for cure
+
+### Orthotics
+
+- If biomechanical factors contribute
+- Mixed results
+
+### Reality Check
+
+Conservative treatment has limited success for true CECS. Many athletes cannot return to desired activity level without surgery.
+
+## Surgical Treatment
+
+### Fasciotomy
+
+**The procedure:**
+- Release of the tight fascia
+- Can be open or endoscopic
+- Allows compartment to expand during exercise
+
+**Success rate:**
+- 80-90% good to excellent outcomes
+- Higher success in anterior compartment
+- Lower success in deep posterior
+
+### Recovery
+
+- Walking immediately
+- Jogging 3-4 weeks
+- Full activity 6-8 weeks
+- Faster than you might expect
+
+### Complications
+
+- Wound healing issues
+- Nerve injury (rare)
+- Incomplete relief
+- Recurrence (uncommon)
+
+## Return to Running Post-Surgery
+
+### Timeline
+
+**Week 1-2:**
+- Walking, gentle ROM
+
+**Week 3-4:**
+- Light jogging, pool running
+
+**Week 5-6:**
+- Progressive running
+
+**Week 6-8:**
+- Return to full training
+
+### Monitoring
+
+- Gradual progression
+- Monitor for symptom recurrence
+- Typically successful return
+
+## When to Suspect CECS
+
+### Red Flags for Diagnosis
+
+- Reproducible symptoms at consistent exercise point
+- Complete relief with rest
+- Young, active person
+- Bilateral symptoms
+- Tight feeling rather than bone pain
+
+### Getting Diagnosed
+
+Many cases are initially misdiagnosed as shin splints. If you have the classic pattern, advocate for compartment pressure testing.
+
+## Acute Compartment Syndrome (Emergency!)
+
+### This Is Different
+
+Acute compartment syndrome is a surgical emergency:
+- Usually after trauma or fracture
+- Severe, unrelenting pain
+- Pain with passive stretch
+- Paresthesias (numbness)
+- Paralysis (late)
+- Pulselessness (very late, not reliable sign)
+
+**If suspected:** Go to emergency room immediately.
+
+---
+
+CECS is frustrating because rest "fixes" it temporarily, but you can't rest forever if you want to run. If conservative measures don't work—and they often don't—fasciotomy has high success rates and quick recovery. Don't suffer for years misdiagnosed with shin splints. Get compartment pressure testing if the pattern fits.
+`
+  },
   'snapping-hip-syndrome-treatment': {
     title: 'Snapping Hip Syndrome: Why Your Hip Pops and What to Do About It',
     date: '2026-03-06',
