@@ -25443,6 +25443,166 @@ IT band syndrome is a hip problem, not a knee problem. Stop torturing yourself w
 The exercises work—but only if you do them consistently. Make hip strengthening a permanent part of your routine, not just something you do when injured.
     `
   },
+  'tennis-elbow-lateral-epicondylitis': {
+    title: 'Tennis Elbow: Why It Happens and How to Actually Fix It',
+    date: '2026-03-04',
+    author: 'Foundational Rehab',
+    category: 'Arms',
+    readTime: '7 min read',
+    content: `
+## What Is Tennis Elbow?
+
+Tennis elbow (lateral epicondylitis) is pain on the outside of your elbow where the forearm extensor tendons attach to the bone. Despite the name, most people who get it have never picked up a tennis racket.
+
+It's caused by repetitive gripping, twisting, and lifting motions—typing, using a mouse, turning screwdrivers, carrying bags, even shaking hands. Anything that overloads the forearm extensor muscles can trigger it.
+
+## Why It's So Stubborn
+
+Tennis elbow has a reputation for being difficult to treat, and there's a reason: tendon injuries heal slowly.
+
+Unlike muscles, tendons have limited blood supply. The repetitive strain causes microscopic tears and degenerative changes in the tendon—not inflammation, despite the "-itis" name. This is why anti-inflammatory treatments often fail.
+
+The condition is more accurately called lateral epicondylalgia or tendinopathy. The tissue isn't inflamed; it's degenerating from overuse.
+
+## Symptoms
+
+- Pain on the outside of the elbow
+- Weakness in grip strength
+- Pain when lifting objects, especially with palm facing down
+- Pain when shaking hands or turning doorknobs
+- Tenderness at the bony bump on the outside of elbow
+- Pain that may radiate into the forearm
+
+## What Doesn't Work
+
+Before we get to what helps, let's address common treatments that don't:
+
+**Rest alone**
+Complete rest allows pain to subside but doesn't address the underlying tendon degeneration. Pain returns when you resume activities.
+
+**Cortisone injections**
+Studies show cortisone provides short-term relief but worse long-term outcomes. It actually impairs tendon healing.
+
+**Anti-inflammatories**
+Since tendinopathy isn't an inflammatory condition, anti-inflammatories don't address the root cause.
+
+**Braces and straps (alone)**
+These can reduce pain during activities but don't heal the tendon.
+
+## What Actually Works
+
+### 1. Load Management
+
+The key insight: tendons need load to heal, but the right amount.
+
+**Identify aggravating activities**
+What makes your pain worse? Typing? Gripping? Lifting? These need to be modified, not eliminated.
+
+**Modify, don't stop**
+- Take more frequent breaks
+- Use lighter grip pressure
+- Change your technique
+- Use ergonomic equipment
+
+**Relative rest**
+Reduce provocative activities to a level where pain stays below 3-4/10, but don't stop using the arm entirely.
+
+### 2. Progressive Tendon Loading
+
+This is the cornerstone of treatment. Tendons respond to progressive loading by remodeling and getting stronger.
+
+**Phase 1: Isometric exercises (Weeks 1-2)**
+Hold positions without movement. These reduce pain and start tendon adaptation.
+
+Wrist extension hold:
+1. Rest forearm on table, wrist hanging off edge
+2. Make a fist, palm facing down
+3. Use other hand to lift wrist into extension
+4. Hold for 30-45 seconds
+5. Repeat 3-5 times, 3x daily
+
+**Phase 2: Eccentric exercises (Weeks 2-6)**
+The lowering phase of movement. This is where tendon healing happens.
+
+Eccentric wrist extension:
+1. Hold a light weight (1-2 lb), palm down, forearm supported
+2. Use other hand to lift wrist up
+3. Slowly lower wrist down over 3-4 seconds (this is the key part)
+4. 3 sets of 15, once daily
+
+Tyler Twist with FlexBar:
+1. Hold FlexBar vertically, affected arm on top
+2. Extend affected wrist back while twisting the bar
+3. Keep twist while bringing arms in front of you
+4. Slowly release the twist using affected wrist
+5. 3 sets of 15, once daily
+
+**Phase 3: Full strengthening (Weeks 6+)**
+Add concentric (lifting) phases and increase load progressively.
+
+- Wrist curls and reverse wrist curls
+- Forearm pronation/supination with weight
+- Grip strengthening
+- Gradual return to normal activities
+
+### 3. Proximal Strengthening
+
+Weakness in the shoulder and upper back often contributes to elbow overload.
+
+Include:
+- Rotator cuff strengthening
+- Scapular exercises (rows, face pulls)
+- Shoulder stability work
+
+### 4. Manual Therapy (Adjunct)
+
+Massage and soft tissue work can reduce pain and improve short-term function:
+- Cross-friction massage to the tendon
+- Forearm extensor massage
+- Trigger point release
+
+These don't heal the tendon but can make exercises more tolerable.
+
+## Timeline
+
+Tennis elbow is notoriously slow to heal:
+- Mild cases: 6-12 weeks
+- Moderate cases: 3-6 months
+- Chronic/severe: 6-12 months
+
+The key is consistency. Tendon adaptation takes time, and there are no shortcuts.
+
+## When to Get Help
+
+See a healthcare provider if:
+- Pain is severe or worsening despite treatment
+- You have significant weakness
+- Symptoms persist beyond 3 months of consistent exercise
+- Pain affects sleep or daily function significantly
+
+Options include:
+- Physical therapy for guided rehabilitation
+- Shockwave therapy (some evidence of benefit)
+- PRP injections (mixed evidence, may help in some cases)
+- Surgery (last resort, only after 6-12 months of failed conservative treatment)
+
+## Prevention
+
+Once you've had tennis elbow, you're at risk for recurrence:
+
+- Maintain forearm and grip strength
+- Use proper ergonomics (neutral wrist position)
+- Warm up before repetitive activities
+- Take regular breaks during prolonged gripping tasks
+- Address upper body weaknesses
+
+## The Bottom Line
+
+Tennis elbow is a tendon problem that requires tendon loading to fix. Rest, injections, and anti-inflammatories don't work long-term. Progressive strengthening—starting with isometrics, progressing through eccentrics, and building to full strength—is the evidence-based approach.
+
+It takes patience. Expect 3-6 months for full recovery. But with consistent exercise, most people recover completely without surgery.
+    `
+  },
   'achilles-tendonitis-treatment': {
     title: 'Achilles Tendonitis: The Complete Recovery Guide',
     date: '2026-03-04',
@@ -28086,6 +28246,241 @@ Your Achilles can handle tremendous forces—it just needs the right stimulus to
 *Achilles pain limiting your running? The Foundational Rehab app includes progressive tendon loading programs—evidence-based protocols to get you back on the road.*
 `
   },
+  'shin-splints-treatment-prevention': {
+    title: 'Shin Splints: Why They Happen and How to Fix Them for Good',
+    date: '2026-02-28',
+    author: 'Foundational Rehab',
+    category: 'Running',
+    readTime: '7 min read',
+    content: `
+## The Runner's Rite of Passage
+
+You started running. Maybe you're training for your first 5K, getting back into shape, or ramping up mileage for a race. Then it hits—that aching, burning pain along your shinbone that makes every step miserable.
+
+Welcome to shin splints, the most common running injury. Up to **35% of runners** will experience shin splints at some point. For new runners, that number is even higher.
+
+The good news: shin splints are preventable and treatable. The bad news: most people handle them wrong and end up in a frustrating cycle of pain, rest, return, pain.
+
+## What Are Shin Splints?
+
+"Shin splints" is a catch-all term for pain along the tibia (shinbone). The medical term is **medial tibial stress syndrome (MTSS)**.
+
+What's actually happening: the muscles, tendons, and bone tissue along the inner shin become overloaded and irritated. It's a stress reaction—not quite a stress fracture, but on the spectrum toward one if you ignore it.
+
+## Shin Splints vs Stress Fracture
+
+This distinction matters. A lot.
+
+**Shin Splints (MTSS)**
+- Diffuse pain along a larger area (usually 5+ cm)
+- Pain with activity, eases with rest
+- Tender to touch along the bone
+- Can often "warm up" out of it initially
+- No pain with single-leg hopping (usually)
+
+**Stress Fracture**
+- Focal point tenderness (can point to exact spot)
+- Pain persists after stopping activity
+- May hurt with walking or at rest
+- Pain with single-leg hopping on affected leg
+- Requires imaging to confirm
+
+**If you suspect a stress fracture, stop running and get evaluated.** Continuing to run on a stress fracture can lead to a complete break.
+
+## Why Shin Splints Happen
+
+### 1. Too Much, Too Soon
+The most common cause. Bone and soft tissue need time to adapt to running stress. When you increase mileage or intensity faster than your body can adapt, shin splints result.
+
+**The 10% Rule:** Don't increase weekly mileage by more than 10% per week. Even this can be too aggressive for new runners.
+
+### 2. Running Surface and Terrain
+Hard surfaces (concrete, asphalt) and cambered roads increase tibial stress. Hills, especially downhill, add additional load.
+
+### 3. Footwear Issues
+Worn-out shoes lose their cushioning. Shoes that don't match your foot type or gait can alter load distribution.
+
+### 4. Biomechanical Factors
+- Overpronation (foot rolling inward excessively)
+- Weak hip stabilizers leading to poor leg alignment
+- Limited ankle mobility
+- Tight calves
+
+### 5. Training Errors
+- All running, no cross-training
+- No strength work
+- Insufficient recovery between hard sessions
+- Running on tired legs
+
+### 6. Anatomical Factors
+- Low bone density
+- Higher body weight
+- Previous history of shin splints
+- Female sex (higher incidence)
+
+## The Recovery Protocol
+
+### Phase 1: Reduce Load (Immediately)
+
+You cannot run through shin splints and expect them to improve. The tissue is overloaded and needs relative rest.
+
+**Options:**
+- **Complete rest** — If pain is severe or present during walking
+- **Reduced running** — Cut volume by 50%+, run only on soft surfaces
+- **Cross-training** — Pool running, cycling, elliptical (if pain-free)
+
+**Pain Rule:** If shin pain exceeds 3/10 during or after activity, you're doing too much.
+
+### Phase 2: Address Contributing Factors (Weeks 1-4)
+
+While reducing running load, fix what caused the problem.
+
+**Calf Flexibility**
+Tight calves increase tibial stress.
+
+*Standing Calf Stretch*
+Step one foot back, keep heel down, lean into wall. Hold 30 seconds. Do with knee straight (gastrocnemius) and knee bent (soleus).
+- 3 reps each position, both legs, 2x daily
+
+*Foam Roll Calves*
+Roll slowly from ankle to knee. Pause on tender spots.
+- 60-90 seconds per leg
+
+**Ankle Mobility**
+Limited ankle dorsiflexion changes running mechanics.
+
+*Knee-to-Wall Test*
+Kneel with one foot forward, knee toward wall. See how far your knee can travel over your toes while keeping heel down. Goal: 4-5 inches.
+
+*Half-Kneeling Ankle Mobilization*
+Same position as test. Rock knee forward over toes, hold 2 seconds, return. Add weight on knee for more intensity.
+- 15 reps per ankle
+
+**Tibialis Posterior Strengthening**
+This muscle is often the primary tissue involved in shin splints.
+
+*Single-Leg Calf Raise with Inversion*
+Stand on one foot. Rise onto toes while slightly inverting foot (rolling to outside edge). Lower with control.
+- 15 reps per side, 3 sets
+
+*Towel Scrunches*
+Sit with foot on towel. Scrunch towel toward you using toes.
+- 2 minutes per foot
+
+**Hip and Glute Strengthening**
+Weak hips lead to poor leg alignment and increased shin stress.
+
+*Clamshells*
+Side-lying, knees bent. Open top knee while keeping feet together.
+- 20 reps per side, 3 sets
+
+*Side-Lying Leg Raises*
+Side-lying, bottom leg bent, top leg straight. Lift and lower with control.
+- 15 reps per side, 3 sets
+
+*Single-Leg Bridges*
+Lie on back, one leg extended. Bridge up on single leg, keep hips level.
+- 12 reps per side, 3 sets
+
+*Single-Leg Deadlifts*
+Stand on one leg, hinge forward. Feel glute on standing leg.
+- 10 reps per leg, 3 sets
+
+### Phase 3: Graduated Return to Running (Weeks 4-8)
+
+Don't rush back. Gradual return is essential for tissue adaptation.
+
+**Sample Return Protocol:**
+
+*Week 1:* Walk/run intervals. Run 1 minute, walk 2 minutes. Total 15 minutes. Do 3x this week on soft surface.
+
+*Week 2:* Run 2 minutes, walk 1 minute. Total 20 minutes. 3x this week.
+
+*Week 3:* Run 3 minutes, walk 1 minute. Total 20-25 minutes. 3x this week.
+
+*Week 4:* Continuous easy running 15 minutes. 3x this week.
+
+*Week 5:* Continuous running 20 minutes. 3x this week.
+
+*Week 6+:* Gradually increase duration by 10% per week.
+
+**Rules during return:**
+- Any shin pain above 2/10 = walk the rest
+- Pain next day = take an extra rest day
+- Soft surfaces only initially
+- Continue all strengthening work
+
+### Phase 4: Prevention (Ongoing)
+
+**Maintain Strength Work**
+Hip and calf strengthening 2-3x per week indefinitely. This is non-negotiable for injury prevention.
+
+**Progress Gradually**
+Respect the 10% rule. When adding intensity (hills, speed), reduce volume.
+
+**Vary Surfaces**
+Mix concrete, asphalt, trails, track. Don't do all mileage on hardest surfaces.
+
+**Monitor Shoes**
+Replace running shoes every 300-500 miles. If you're not tracking, look for worn treads or compressed midsoles.
+
+**Listen to Early Warnings**
+Slight shin discomfort that comes and goes is a warning. Respond by reducing load immediately, not after it becomes constant.
+
+## What About...
+
+**Ice?**
+Can help with pain in acute phase. 15-20 minutes after activity. Not a treatment, just symptom management.
+
+**Compression sleeves?**
+May provide comfort during activity. Not a fix, but can help some people run with less pain during return.
+
+**Orthotics?**
+If overpronation is a significant factor, custom or over-the-counter orthotics may help. But strength work is more important.
+
+**Gait retraining?**
+Increasing cadence (steps per minute) by 5-10% can reduce tibial loading. A running coach or PT can help with form changes.
+
+## Timeline Expectations
+
+**Mild shin splints:** 2-4 weeks with proper management
+
+**Moderate shin splints:** 4-8 weeks
+
+**Severe/chronic shin splints:** 8-12 weeks or longer
+
+**Key insight:** The longer you ran through pain before addressing it, the longer recovery takes.
+
+## When to See a Professional
+
+Get evaluated if:
+- Pain is focal (single point tenderness)
+- Pain persists at rest or during walking
+- No improvement after 4 weeks of proper management
+- Pain with hopping on one leg
+- Swelling or visible changes to the shin
+
+A sports medicine physician can rule out stress fracture with imaging. A physical therapist can assess biomechanics and guide return to running.
+
+## The Bottom Line
+
+Shin splints are telling you something: your training load exceeded your tissue capacity.
+
+The fix isn't complicated:
+1. Reduce load immediately
+2. Address calf tightness, ankle mobility, hip strength
+3. Return gradually with a structured plan
+4. Maintain prevention work forever
+
+Every runner who takes shin splints seriously comes back stronger. Every runner who ignores them ends up with a stress fracture or chronic issues.
+
+Listen to your shins.
+
+---
+
+*Shin splints keeping you off the road? The Foundational Rehab app includes a complete lower leg program—build the strength and mobility to run pain-free.*
+`
+  },
   'core-stability-back-pain': {
     title: 'Core Stability for Back Pain: What Actually Works',
     date: '2026-02-28',
@@ -29687,6 +30082,121 @@ Think of it as maintenance, not treatment. Bodies need consistent input to stay 
 ---
 
 *Foundational Rehab offers targeted programs for knee pain recovery. Our AI-guided approach adapts to your progress and keeps you moving toward pain-free squatting.*
+    `
+  },
+  'sciatica-exercises-relief': {
+    title: 'Sciatica Exercises: Evidence-Based Moves for Lasting Relief',
+    date: '2026-02-26',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '9 min read',
+    content: `
+## What Is Sciatica?
+
+Sciatica refers to pain that radiates along the path of the sciatic nerve—from your lower back, through your hip and buttock, and down each leg. Typically, sciatica affects only one side of your body.
+
+The pain can range from a mild ache to a sharp, burning sensation or excruciating discomfort. Sometimes it feels like a jolt or electric shock. It can be worse when you cough or sneeze, and prolonged sitting can aggravate symptoms.
+
+## Common Causes
+
+### Herniated Disc
+The most frequent cause. When the soft inner material of a spinal disc pushes through the outer ring, it can press on the sciatic nerve roots.
+
+### Spinal Stenosis
+Narrowing of the spinal canal in the lower back can compress the nerves.
+
+### Piriformis Syndrome
+The piriformis muscle in the buttock can sometimes irritate or compress the sciatic nerve.
+
+### Degenerative Disc Disease
+Age-related changes in the discs can lead to nerve irritation.
+
+## The Good News
+
+Here's what most people don't realize: **90% of sciatica cases resolve within 6-12 weeks** with conservative treatment. Surgery is rarely needed.
+
+The key is staying active with appropriate exercises while avoiding movements that aggravate symptoms.
+
+## Exercises That Help
+
+### Phase 1: Acute Pain Relief (Week 1-2)
+
+**Prone Press-Ups (McKenzie Extension)**
+Lie face down. Place hands under shoulders and gently press up, keeping hips on the floor. Hold 2-3 seconds, lower down. This can help "centralize" pain (move it from leg toward back—a good sign).
+- 10 reps, every 2-3 hours
+
+**Knee-to-Chest Stretch**
+Lie on back. Gently pull one knee toward chest, hold 20-30 seconds. Keep opposite leg straight or bent.
+- 3 reps each side, 2-3 times daily
+
+**Sciatic Nerve Glides**
+Lie on back with affected leg raised, knee bent. Slowly straighten knee while flexing ankle, then bend knee while pointing toes. This "flosses" the nerve gently.
+- 10-15 slow reps, 2-3 times daily
+
+### Phase 2: Building Tolerance (Week 2-4)
+
+**Cat-Cow Stretches**
+On hands and knees, alternate between arching back up (cat) and letting belly drop (cow). Move slowly and smoothly.
+- 10-15 cycles, twice daily
+
+**Bird-Dog**
+From hands and knees, extend opposite arm and leg. Hold 5 seconds, return, switch sides. Builds core stability without loading the spine.
+- 10 reps each side, twice daily
+
+**Piriformis Stretch**
+Lie on back, cross affected leg over opposite thigh. Pull uncrossed leg toward chest until you feel a stretch in the buttock.
+- Hold 30 seconds, 3 reps, twice daily
+
+### Phase 3: Strengthening (Week 4+)
+
+**Bridges**
+Lie on back, knees bent, feet flat. Lift hips toward ceiling, squeezing glutes at top. Lower slowly.
+- 15-20 reps, 3 sets
+
+**Clamshells**
+Lie on side, knees bent 90 degrees. Keep feet together, lift top knee. Add resistance band as you get stronger.
+- 15-20 reps each side, 3 sets
+
+**Dead Bug**
+Lie on back, arms reaching toward ceiling, knees bent 90 degrees. Slowly lower opposite arm and leg toward floor while keeping back flat.
+- 10 reps each side, 3 sets
+
+## Exercises to Avoid (Initially)
+
+- **Heavy lifting** — especially with poor form
+- **Deep forward bending** — reaching for toes, sit-ups
+- **High-impact activities** — running, jumping
+- **Prolonged sitting** — take breaks every 30-45 minutes
+
+## Movement Tips
+
+**Walking is excellent.** It's low-impact and keeps things moving without aggravating most sciatica cases. Start with short walks (10-15 minutes) and gradually increase.
+
+**Swimming or water walking** can be helpful because buoyancy reduces spinal load.
+
+**Listen to your body.** Some discomfort during exercise is okay, but sharp or increasing pain means back off.
+
+## Red Flags: When to See a Doctor
+
+Seek immediate medical attention if you experience:
+- Loss of bladder or bowel control
+- Progressive weakness in the leg
+- Numbness in the groin area
+- Severe pain that doesn't improve with rest
+- Pain after a significant injury
+
+## The Recovery Timeline
+
+- **Week 1-2:** Focus on pain relief and gentle movement
+- **Week 2-4:** Gradually increase activity, add gentle strengthening
+- **Week 4-8:** Progressive loading, return to normal activities
+- **Week 8-12:** Full strengthening program, preventing recurrence
+
+Most people see significant improvement by 4-6 weeks. Be patient—nerves heal slowly, but they do heal.
+
+---
+
+*Foundational Rehab offers personalized sciatica recovery programs. Our AI-guided approach adapts to your progress and ensures safe, effective progression.*
     `
   },
   'shoulder-pain-rotator-cuff': {
