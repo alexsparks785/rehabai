@@ -13,6 +13,1019 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'cubital-tunnel-syndrome-treatment': {
+    title: 'Cubital Tunnel Syndrome: Why Your Pinky Goes Numb and How to Fix It',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read',
+    content: `
+## What Is Cubital Tunnel Syndrome?
+
+Cubital tunnel syndrome is compression of the ulnar nerve at the elbow—the same nerve you hit when you bump your "funny bone." When this nerve gets compressed or irritated, you feel numbness and tingling in your ring and pinky fingers.
+
+It's the second most common nerve compression in the arm, after carpal tunnel syndrome.
+
+## Anatomy
+
+The ulnar nerve runs from your neck, down your arm, through a tunnel at the inside of your elbow (the cubital tunnel), and into your hand. At the elbow, the nerve sits in a groove behind the bony bump (medial epicondyle)—right at the surface, with minimal protection.
+
+## What Causes It?
+
+### Prolonged Elbow Bending
+
+- Sleeping with elbows bent
+- Holding phone to ear
+- Typing with bent elbows
+- Driving
+
+### Pressure on the Nerve
+
+- Leaning on elbows
+- Armrests pressing on inner elbow
+- Prolonged desk work
+
+### Anatomy Issues
+
+- Nerve slips out of groove (subluxation)
+- Tight muscles or bands compressing nerve
+- Bone spurs or arthritis
+
+### Repetitive Motion
+
+- Throwing athletes (baseball pitchers)
+- Repetitive elbow flexion/extension
+
+## Symptoms
+
+### Classic Pattern
+
+- Numbness/tingling in ring and pinky fingers
+- May affect palm on pinky side
+- Worse at night (sleep with elbows bent)
+- Worse with prolonged elbow bending
+- Aching at inner elbow
+
+### Progression
+
+- Weakness in grip
+- Difficulty with fine motor tasks
+- Muscle wasting in hand (severe cases)
+- Clumsiness with fingers
+
+### Pattern Recognition
+
+**Cubital tunnel (ulnar nerve):**
+- Ring and pinky fingers affected
+- Inner forearm may be involved
+- Symptoms at elbow
+
+**Carpal tunnel (median nerve):**
+- Thumb, index, middle fingers
+- No forearm symptoms
+- Symptoms at wrist
+
+## Diagnosis
+
+### Physical Exam
+
+**Tinel's sign:**
+Tapping the nerve at the elbow reproduces symptoms.
+
+**Elbow flexion test:**
+Holding elbow fully bent for 60 seconds brings on symptoms.
+
+**Froment's sign:**
+Weakness pinching paper between thumb and index finger (advanced cases).
+
+### Nerve Testing
+
+**EMG/NCS (electromyography/nerve conduction study):**
+- Confirms diagnosis
+- Determines severity
+- Rules out other conditions
+
+## Conservative Treatment
+
+### Behavior Modification (Most Important)
+
+**Stop irritating the nerve:**
+
+- Don't lean on elbows
+- Keep elbows straighter when possible
+- Avoid prolonged bending
+- Use headset instead of holding phone
+- Modify desk ergonomics
+
+**At night:**
+- Don't sleep with elbows bent
+- Wear elbow pad backwards (bulky part over bend)
+- Use towel wrapped around elbow to limit bending
+- Consider night splint
+
+### Elbow Padding
+
+- Wear elbow pad during day
+- Protects nerve from direct pressure
+- Cushions when leaning
+
+### Nerve Gliding Exercises
+
+**Ulnar nerve glide:**
+- Stand with arm at side
+- Bend wrist back, fingers toward ceiling
+- Bend elbow, bringing hand toward shoulder
+- Straighten elbow, bringing hand away
+- Repeat 10 times, 3x daily
+
+**Gentle version:**
+- Just move through range without tension
+- Progress to sustained stretches
+
+### Stretching
+
+**Wrist flexor stretch:**
+- Straighten arm, palm up
+- Pull fingers back with other hand
+- Hold 30 seconds
+
+**Forearm pronation/supination:**
+- Move through full rotation range
+- Maintains mobility
+
+## Ergonomic Changes
+
+### At Desk
+
+- Keep elbows at 90° or slightly straighter
+- Avoid resting elbows on hard surfaces
+- Use padded armrests
+- Keyboard at proper height
+
+### Sleeping
+
+- Start on back or position that keeps elbows straighter
+- Use pillow to prevent rolling onto side with bent elbow
+- Night splint if needed
+
+### Phone Use
+
+- Use speaker or headset
+- Don't hold phone to ear for long periods
+
+## When Surgery Is Needed
+
+### Consider Surgery If
+
+- 3-6 months conservative treatment fails
+- Progressive weakness
+- Significant muscle wasting
+- Severe symptoms affecting function
+- EMG shows significant nerve damage
+
+### Surgical Options
+
+**In situ decompression:**
+- Release the tissue compressing the nerve
+- Leave nerve in place
+- Minimally invasive
+
+**Ulnar nerve transposition:**
+- Move nerve to front of elbow
+- Removes it from vulnerable position
+- Different techniques (subcutaneous, submuscular)
+
+### Recovery
+
+- Splint 1-2 weeks
+- Therapy for 4-8 weeks
+- Full recovery 3-6 months
+- Numbness may take months to resolve
+
+## Prognosis
+
+### With Early Treatment
+
+- Most improve with conservative measures
+- Catching it early is key
+- Full recovery expected
+
+### With Delayed Treatment
+
+- Weakness may be permanent
+- Muscle wasting may not fully reverse
+- Numbness may persist
+
+---
+
+Cubital tunnel syndrome is very treatable, especially when caught early. The key is stopping the behaviors that irritate the nerve—particularly sleeping with bent elbows and leaning on the elbow. Make those changes, do the nerve glides, and most people improve significantly without surgery.
+`
+  },
+  'cervical-radiculopathy-pinched-nerve-neck': {
+    title: 'Cervical Radiculopathy: When a Pinched Nerve in Your Neck Causes Arm Pain',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '7 min read',
+    content: `
+## What Is Cervical Radiculopathy?
+
+Cervical radiculopathy is a pinched nerve in your neck that causes pain, numbness, tingling, or weakness radiating into your shoulder, arm, or hand. The compression happens where the nerve exits the spine.
+
+It's the neck equivalent of sciatica (which affects leg nerves from the lower back).
+
+## What Causes It?
+
+### Disc Herniation
+
+The most common cause in younger people (under 50). The disc's inner gel pushes out and compresses the nerve root.
+
+### Degenerative Changes
+
+More common over 50:
+- Bone spurs (osteophytes)
+- Disc space narrowing
+- Facet joint arthritis
+- Foraminal stenosis (narrowing of nerve exit tunnel)
+
+### Other Causes
+
+- Trauma
+- Tumors (rare)
+- Infection (rare)
+
+## Symptoms by Nerve Root
+
+Each nerve root affects different areas:
+
+### C5 (C4-C5 level)
+
+- Shoulder pain
+- Deltoid weakness (can't raise arm to side)
+- Numbness over outer shoulder
+- Biceps reflex may be diminished
+
+### C6 (C5-C6 level)
+
+- Pain to thumb and index finger
+- Bicep weakness
+- Numbness in thumb and index finger
+- Brachioradialis reflex affected
+
+### C7 (C6-C7 level)
+
+- Pain to middle finger
+- Triceps weakness (can't straighten elbow against resistance)
+- Numbness in middle finger
+- Triceps reflex affected
+
+### C8 (C7-T1 level)
+
+- Pain to pinky and ring finger
+- Hand grip weakness
+- Numbness in pinky and ring finger
+
+## Red Flags (Seek Immediate Care)
+
+- Progressive weakness
+- Difficulty walking or balance problems
+- Bladder or bowel changes
+- Weakness in both arms or legs
+- Severe, unrelenting pain
+
+These could indicate spinal cord compression (myelopathy), which is a medical emergency.
+
+## Diagnosis
+
+### Physical Exam
+
+**Spurling's test:**
+Turn head toward painful side, extend neck, apply downward pressure. Reproduces arm symptoms if positive.
+
+**Shoulder abduction test:**
+Raising hand to rest on head relieves symptoms (takes tension off nerve).
+
+### Imaging
+
+**X-ray:**
+- Shows bone alignment, disc space narrowing
+- Doesn't show soft tissue well
+
+**MRI:**
+- Gold standard
+- Shows disc herniation, nerve compression
+- Rules out other pathology
+
+**EMG/NCS:**
+- Confirms nerve involvement
+- Determines severity
+- Done if diagnosis unclear or surgery considered
+
+## Conservative Treatment
+
+### The Good News
+
+Most cervical radiculopathy improves without surgery. Studies show:
+- 75-90% improve with conservative care
+- Improvement typically within 4-6 weeks
+- Complete resolution in 2-3 months for most
+
+### Initial Management
+
+**Activity modification:**
+- Avoid positions that worsen symptoms
+- Avoid heavy lifting
+- Ergonomic adjustments
+
+**Pain management:**
+- NSAIDs (ibuprofen, naproxen)
+- Acetaminophen
+- Short course of oral steroids (sometimes)
+- Ice or heat (whichever helps)
+
+**Cervical collar:**
+- Short-term use only (few days to 2 weeks)
+- Provides rest
+- Prolonged use weakens muscles
+
+### Physical Therapy
+
+**Cervical traction:**
+- Manual or mechanical
+- Opens up nerve space
+- Often very helpful
+
+**McKenzie exercises:**
+- Chin tucks
+- Cervical retraction
+- Extension if tolerated
+
+**Nerve glides:**
+- Gentle tensioning and releasing of the nerve
+- Improves nerve mobility
+
+**Strengthening:**
+- Deep neck flexors
+- Scapular stabilizers
+- Postural muscles
+
+### Injections
+
+**Epidural steroid injection:**
+- Anti-inflammatory medication at nerve root
+- Can provide significant relief
+- Diagnostic and therapeutic
+- May be repeated 2-3 times
+
+## Exercises
+
+### Chin Tucks
+
+- Sit or stand tall
+- Draw chin straight back (make double chin)
+- Hold 5 seconds
+- Repeat 10 times
+- Several times daily
+
+### Cervical Retraction with Extension
+
+- Start with chin tuck
+- Then gently look up
+- Only if it doesn't increase arm symptoms
+- 10 reps
+
+### Nerve Glides (Median Nerve Example)
+
+- Arm at side
+- Extend wrist and fingers
+- Abduct arm while tilting head away
+- Move gently in and out of tension
+- 10 reps, 3x daily
+
+### Scapular Squeezes
+
+- Squeeze shoulder blades together
+- Hold 5 seconds
+- 15 reps
+
+### Deep Neck Flexor Activation
+
+- Lie on back
+- Gently nod chin (like saying "yes")
+- Feel muscles at front of neck engage
+- Hold 10 seconds
+- 10 reps
+
+## When to Consider Surgery
+
+### Indications
+
+- 6-12 weeks of failed conservative treatment
+- Progressive neurological deficit
+- Significant weakness
+- Intolerable pain affecting quality of life
+- Myelopathy (spinal cord compression)
+
+### Surgical Options
+
+**ACDF (anterior cervical discectomy and fusion):**
+- Most common
+- Removes disc, fuses vertebrae
+- Excellent outcomes
+
+**Posterior foraminotomy:**
+- Opens up nerve tunnel from back
+- Preserves motion
+- Good for certain cases
+
+**Disc replacement:**
+- Removes disc, replaces with artificial
+- Preserves motion
+- Specific indications
+
+### Recovery
+
+- Most go home same day or next
+- Collar for 2-6 weeks
+- Physical therapy 6-12 weeks
+- Full recovery 3-6 months
+
+## Prognosis
+
+### Natural History
+
+- Most improve significantly within 6 weeks
+- 85-90% have good outcomes with conservative care
+- Surgery highly effective for appropriate cases
+
+### Recurrence
+
+- Possible at same or different level
+- Maintaining strength and posture helps prevent
+- Address risk factors
+
+---
+
+A pinched nerve in the neck is painful and scary, but most cases resolve without surgery. Give conservative treatment a solid 6-8 weeks before considering intervention. Chin tucks, traction, nerve glides, and time work for the majority. If you have progressive weakness or severe symptoms not responding to treatment, surgery is effective.
+`
+  },
+  'spondylolisthesis-treatment-exercises': {
+    title: 'Spondylolisthesis: When One Vertebra Slips on Another',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## What Is Spondylolisthesis?
+
+Spondylolisthesis is a condition where one vertebra slips forward over the one below it. The word comes from Greek: "spondylo" (vertebra) + "olisthesis" (slipping).
+
+It most commonly occurs in the lower back (lumbar spine), usually at L4-L5 or L5-S1.
+
+## Types of Spondylolisthesis
+
+### Isthmic
+
+- Most common in younger people
+- Caused by a defect or fracture in the pars interarticularis (a bony bridge in the vertebra)
+- Often from repetitive extension/rotation (gymnastics, football linemen, dancers)
+- May have been present since adolescence
+
+### Degenerative
+
+- Most common in older adults
+- Results from wear and tear on discs and facet joints
+- More common in women
+- Usually L4-L5
+
+### Other Types
+
+- Congenital (born with abnormal vertebra)
+- Traumatic (from significant injury)
+- Pathologic (from bone disease)
+
+## Grading
+
+Based on how far the vertebra has slipped:
+
+- **Grade I:** 0-25% slip (most common, often asymptomatic)
+- **Grade II:** 25-50% slip
+- **Grade III:** 50-75% slip
+- **Grade IV:** 75-100% slip
+- **Grade V:** >100% slip (spondyloptosis)
+
+Most people have Grade I or II, which typically respond well to conservative treatment.
+
+## Symptoms
+
+### May Have No Symptoms
+
+Many people with spondylolisthesis have no idea—it's found incidentally on imaging.
+
+### Common Symptoms
+
+- Low back pain (worse with extension, standing, walking)
+- Stiffness
+- Tight hamstrings (very common)
+- Muscle spasms
+
+### If Nerves Are Compressed
+
+- Pain radiating into legs
+- Numbness or tingling
+- Weakness
+- Symptoms worse with standing/walking, better sitting (neurogenic claudication)
+
+### In Adolescents
+
+- May present during growth spurt
+- Pain with sports, especially extension activities
+- Hamstring tightness
+
+## Diagnosis
+
+### X-rays
+
+- Standing flexion/extension views show slip
+- Oblique views show pars defect (in isthmic type)
+- First-line imaging
+
+### MRI
+
+- Shows soft tissue, discs, nerves
+- Evaluates nerve compression
+- Done if neurological symptoms or surgery considered
+
+### CT
+
+- Best for bone detail
+- Shows pars defect clearly
+- Used for surgical planning
+
+## Conservative Treatment
+
+### Most People Do Well Without Surgery
+
+Grade I and II spondylolisthesis usually respond well to:
+- Activity modification
+- Physical therapy
+- Core stabilization
+- Time
+
+### Activity Modification
+
+**Avoid:**
+- Repetitive extension (back bends)
+- Heavy lifting
+- High-impact activities (when symptomatic)
+- Prolonged standing
+
+**Encouraged:**
+- Walking (within tolerance)
+- Swimming
+- Cycling
+- Low-impact exercise
+
+### Physical Therapy Goals
+
+1. Core stabilization
+2. Hip flexibility (especially flexors)
+3. Hamstring flexibility
+4. Lumbar spine stability, not mobility
+5. Postural education
+
+## Exercises
+
+### Core Stabilization (Essential)
+
+**Dead bug:**
+- Lie on back, knees bent 90°
+- Press low back into floor
+- Slowly lower opposite arm and leg
+- Maintain spine position
+- 10 each side
+
+**Bird-dog:**
+- Hands and knees
+- Extend opposite arm and leg
+- Keep spine neutral, don't arch
+- Hold 5 seconds
+- 10 each side
+
+**Plank (modified if needed):**
+- Forearms and toes (or knees)
+- Straight line from head to heels
+- Don't let back sag or arch
+- Hold 20-60 seconds
+
+**Side plank:**
+- Forearm and feet (or knees)
+- Straight line from head to feet
+- Hold 20-30 seconds each side
+
+### Hip Flexor Stretching
+
+**Half-kneeling stretch:**
+- One knee down, other foot forward
+- Tuck pelvis under (flatten low back)
+- Lean forward slightly
+- Hold 30 seconds
+- Critical for reducing lumbar extension stress
+
+### Hamstring Stretching
+
+**Supine hamstring stretch:**
+- Lie on back
+- Use strap around foot
+- Straighten knee, keep back flat
+- Hold 30 seconds
+
+Tight hamstrings increase stress on the lower back. Flexibility here is important.
+
+### Glute Strengthening
+
+**Bridges:**
+- Lie on back, knees bent
+- Squeeze glutes, lift hips
+- Hold 5 seconds
+- 15 reps
+
+**Clamshells:**
+- Side-lying, knees bent
+- Lift top knee, keeping feet together
+- 15 reps each side
+
+### What to Avoid
+
+**Lumbar extension exercises:**
+- Prone press-ups
+- Cobras
+- Back bends
+- These can worsen slippage
+
+**Heavy spinal loading:**
+- Heavy squats and deadlifts
+- Overhead pressing with heavy weight
+- Modify or avoid when symptomatic
+
+## Bracing
+
+### When Used
+
+- Adolescents with pars fracture (to allow healing)
+- Acute flare-ups
+- After activity
+
+### Types
+
+- Lumbosacral orthosis (LSO)
+- Anti-lordotic brace (prevents extension)
+
+### Duration
+
+- Variable, typically 3-6 months for healing in adolescents
+- Intermittent use in adults
+
+## When Surgery Is Considered
+
+### Indications
+
+- Progressive slip
+- Significant neurological deficit
+- Severe, disabling symptoms despite 3-6 months conservative treatment
+- High-grade slip (III-V)
+- Cauda equina syndrome (emergency)
+
+### Surgical Options
+
+**Decompression:**
+- Removes pressure on nerves
+- Sometimes done alone for stenosis
+
+**Fusion:**
+- Stabilizes the segment
+- Prevents further slipping
+- Often combined with decompression
+
+### Outcomes
+
+- Surgery effective for appropriate cases
+- Fusion rates high
+- Recovery 3-6 months
+
+## Living With Spondylolisthesis
+
+### Long-Term Management
+
+- Maintain core strength (lifelong)
+- Keep hips and hamstrings flexible
+- Avoid aggravating activities when symptomatic
+- Return to most activities when stable
+
+### What's Possible
+
+Many people with spondylolisthesis:
+- Live active, pain-free lives
+- Participate in sports
+- Do physical jobs
+
+The key is building stability and avoiding movements that stress the slip.
+
+---
+
+Spondylolisthesis sounds scary, but most cases are manageable. Low-grade slips usually do well with core strengthening and flexibility work. Avoid extension, build stability, stay active within your limits. Surgery is effective when needed, but most people never get there.
+`
+  },
+  'thoracic-outlet-syndrome-exercises': {
+    title: 'Thoracic Outlet Syndrome: The Overlooked Cause of Arm Pain and Numbness',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '7 min read',
+    content: `
+## What Is Thoracic Outlet Syndrome?
+
+Thoracic outlet syndrome (TOS) is compression of nerves and/or blood vessels in the space between your collarbone and first rib (the thoracic outlet). This causes pain, numbness, tingling, or weakness in the arm and hand.
+
+TOS is often missed or misdiagnosed because symptoms overlap with many other conditions—carpal tunnel, cervical radiculopathy, rotator cuff problems.
+
+## Types of TOS
+
+### Neurogenic TOS (95%)
+
+Compression of the brachial plexus (nerve bundle):
+- Most common type by far
+- Causes pain, numbness, weakness
+- Affects arm and hand
+
+### Venous TOS (3-5%)
+
+Compression of the subclavian vein:
+- Arm swelling
+- Bluish discoloration
+- Feeling of heaviness
+- May lead to blood clots
+
+### Arterial TOS (1%)
+
+Compression of the subclavian artery:
+- Coldness, pallor in arm
+- Weak or absent pulse
+- Risk of blood clots
+- Medical emergency if acute
+
+## What Causes TOS?
+
+### Anatomical Variations
+
+- Cervical rib (extra rib)
+- Abnormal muscle bands
+- Enlarged scalene muscles
+- Abnormal first rib
+
+### Posture
+
+- Forward head posture
+- Rounded shoulders
+- Drooping shoulders
+- Prolonged poor posture
+
+### Repetitive Movements
+
+- Overhead work
+- Typing
+- Assembly line work
+- Throwing athletes
+
+### Trauma
+
+- Whiplash injury
+- Clavicle fracture
+- Repetitive strain
+
+## Symptoms
+
+### Neurogenic TOS Symptoms
+
+**Pain:**
+- Neck, shoulder, arm, hand
+- Often vague and diffuse
+- May be worse at night
+
+**Numbness/tingling:**
+- Usually in ring and pinky fingers (ulnar distribution)
+- May affect entire hand
+- Worse with arm elevation
+
+**Weakness:**
+- Grip weakness
+- Difficulty with fine motor tasks
+- Dropping things
+
+**Aggravating factors:**
+- Arms overhead
+- Carrying heavy bags
+- Working at computer
+- Sleeping
+
+### Vascular TOS Symptoms
+
+**Venous:**
+- Arm swelling
+- Blue discoloration
+- Visible veins on chest
+
+**Arterial:**
+- Cold, pale arm
+- Weak pulse
+- Fatigue with arm use
+
+## Diagnosis
+
+### Why It's Tricky
+
+- Symptoms overlap with many conditions
+- No single definitive test
+- Often a diagnosis of exclusion
+
+### Physical Exam Tests
+
+**Adson's test:**
+- Turn head toward affected arm
+- Extend neck, take deep breath
+- Positive if pulse decreases or symptoms occur
+
+**Roos test (EAST):**
+- Arms up in "stick-up" position
+- Open and close fists for 3 minutes
+- Positive if reproduces symptoms or can't complete
+
+**Wright's test:**
+- Arm overhead and externally rotated
+- Positive if pulse decreases or symptoms occur
+
+### Imaging
+
+- X-ray (cervical rib, first rib abnormality)
+- MRI (rule out disc herniation, see soft tissues)
+- MRA/venography (if vascular type suspected)
+
+### Nerve Testing
+
+- EMG/NCS often normal in neurogenic TOS
+- May help rule out carpal tunnel, cervical radiculopathy
+
+## Conservative Treatment
+
+### Posture Correction (Essential)
+
+**Goals:**
+- Reduce forward head posture
+- Lift and retract shoulders
+- Open up thoracic outlet space
+
+**Key changes:**
+- Chin tucks throughout day
+- Shoulder blade squeezes
+- Avoid forward slouching
+- Ergonomic workstation
+
+### Physical Therapy
+
+**First-line treatment:**
+- 70-80% improve with PT
+- Requires consistency (3-6 months)
+
+**Focus areas:**
+- Posture correction
+- Stretching tight structures
+- Strengthening stabilizers
+- Nerve gliding
+
+### Stretching
+
+**Scalene stretch:**
+- Sit, hold onto seat with one hand
+- Tilt head away and slightly back
+- Hold 30 seconds
+- 3 reps each side
+
+**Pec stretch (doorway):**
+- Forearm against doorframe
+- Step through doorway
+- Hold 30 seconds
+- Vary elbow height
+
+**First rib mobilization:**
+- Can be done by PT
+- Self-technique: reach over head, side bend away, take deep breath
+
+### Strengthening
+
+**Middle and lower trapezius:**
+- Prone Y raises
+- Prone T raises
+- Rows with scapular retraction
+
+**Serratus anterior:**
+- Push-up plus
+- Wall slides
+
+**Deep neck flexors:**
+- Chin tucks
+- Head lift from supine
+
+### Nerve Gliding
+
+**Ulnar nerve glide:**
+- Arm at side
+- Bend wrist back
+- Bend elbow, then straighten
+- Gentle tension only
+- 10 reps
+
+### Activity Modification
+
+- Avoid prolonged overhead work
+- Take breaks from computer
+- Don't carry heavy bags on shoulder
+- Use good posture always
+
+## Exercises
+
+### Corner Stretch
+
+- Stand in corner
+- Forearms on walls, elbows at 90°
+- Lean in
+- Hold 30 seconds
+- Opens chest, stretches pecs
+
+### Chin Tucks
+
+- Pull chin straight back
+- Create double chin
+- Hold 5 seconds
+- 10 reps, multiple times daily
+
+### Scapular Squeezes
+
+- Squeeze shoulder blades together and down
+- Hold 5 seconds
+- 15 reps
+
+### Shoulder Shrugs with Relaxation
+
+- Shrug shoulders to ears
+- Hold 3 seconds
+- Drop and relax
+- Feel difference between tension and relaxation
+- 10 reps
+
+## When Surgery Is Needed
+
+### Indications
+
+- Failed 3-6 months conservative treatment
+- Vascular TOS with clot or significant compression
+- Severe, disabling symptoms
+- Objective muscle wasting
+
+### Surgical Options
+
+- First rib resection
+- Scalenectomy
+- Cervical rib removal (if present)
+
+### Outcomes
+
+- Variable depending on type
+- Vascular TOS: surgery often urgent and effective
+- Neurogenic TOS: surgery more controversial, outcomes mixed
+
+## Prognosis
+
+### With Conservative Treatment
+
+Most neurogenic TOS improves with:
+- Consistent posture work
+- Stretching and strengthening
+- Lifestyle modifications
+- Time (3-6 months)
+
+### Key to Success
+
+**Consistency is everything:**
+- Daily stretching
+- Postural awareness all day
+- Ergonomic changes
+- Patient commitment
+
+---
+
+TOS is frustrating because it's often missed and takes time to improve. But most people get better with dedicated conservative treatment—posture correction, stretching, strengthening. If you've had vague arm symptoms that don't fit other diagnoses, TOS might be the answer. Give physical therapy a solid 3-6 months before considering surgery.
+`
+  },
   'bunion-treatment-exercises': {
     title: 'Bunions: Do You Need Surgery? Exercises, Footwear, and Treatment Options',
     date: '2026-03-06',

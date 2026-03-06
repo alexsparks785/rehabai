@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'cubital-tunnel-syndrome-treatment',
+    title: 'Cubital Tunnel Syndrome: Why Your Pinky Goes Numb and How to Fix It',
+    excerpt: 'Tingling in your ring and pinky fingers? Cubital tunnel syndrome is the second most common nerve compression. Here\'s what helps.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Injury',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'cervical-radiculopathy-pinched-nerve-neck',
+    title: 'Cervical Radiculopathy: When a Pinched Nerve in Your Neck Causes Arm Pain',
+    excerpt: 'Pain, numbness, or weakness shooting down your arm? A pinched nerve in your neck might be the cause. Here\'s what to do.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'spondylolisthesis-treatment-exercises',
+    title: 'Spondylolisthesis: When One Vertebra Slips on Another',
+    excerpt: 'Diagnosed with spondylolisthesis? Here\'s what it means, when it\'s serious, and the exercises that help stabilize your spine.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'thoracic-outlet-syndrome-exercises',
+    title: 'Thoracic Outlet Syndrome: The Overlooked Cause of Arm Pain and Numbness',
+    excerpt: 'Arm symptoms that don\'t fit carpal tunnel or a pinched neck nerve? TOS might be the answer. Here\'s how to identify and treat it.',
+    date: '2026-03-06',
+    author: 'Foundational Rehab',
+    category: 'Pain',
+    readTime: '7 min read'
+  },
+  {
     slug: 'bunion-treatment-exercises',
     title: 'Bunions: Do You Need Surgery? Exercises, Footwear, and Treatment Options',
     excerpt: 'That bony bump on your big toe doesn\'t have to mean surgery. Here\'s what actually helps bunions—and when you do need intervention.',
