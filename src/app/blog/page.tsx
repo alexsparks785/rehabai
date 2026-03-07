@@ -2453,6 +2453,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-for-anxiety-depression',
+    title: 'Exercise for Anxiety and Depression: How Movement Helps Mental Health',
+    excerpt: 'Exercise can be as effective as medication for some people. Learn how to use movement as a mental health tool.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-during-cancer-treatment',
+    title: 'Exercise During Cancer Treatment: Safe Movement for Recovery',
+    excerpt: 'Exercise during and after cancer treatment improves outcomes. Here\'s how to stay active safely through your journey.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'chronic-pain-exercises',
+    title: 'Exercise for Chronic Pain: Why Movement Is Medicine',
+    excerpt: 'When everything hurts, exercise seems impossible. But the right approach can reduce pain and restore function.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'return-to-exercise-after-illness',
+    title: 'Return to Exercise After Illness: How to Rebuild Safely',
+    excerpt: 'Been sick and lost fitness? Here\'s how to restart exercise without overdoing it or risking relapse.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
   }
 ];
 

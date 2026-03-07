@@ -61176,6 +61176,991 @@ Better sleep means better exercise recovery. Better exercise means better sleep.
 
 *Foundational Rehab provides programs that support overall health, including better sleep through appropriate movement.*
     \`
+  },
+  'exercise-for-anxiety-depression': {
+    title: 'Exercise for Anxiety and Depression: How Movement Helps Mental Health',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## The Mental Health Benefits of Exercise
+
+Exercise is one of the most powerful tools for mental health:
+
+- Reduces symptoms of depression (comparable to medication in some studies)
+- Decreases anxiety
+- Improves mood
+- Reduces stress
+- Boosts self-esteem
+- Improves cognitive function
+- Enhances sleep
+
+This isn't just "feel good" advice—it's backed by robust research.
+
+## How Exercise Helps
+
+### Neurochemical Changes
+
+**Endorphins:** Natural mood-elevating chemicals released during exercise.
+
+**Serotonin and Norepinephrine:** Neurotransmitters involved in mood regulation, increased with regular exercise.
+
+**BDNF (Brain-Derived Neurotrophic Factor):** Supports brain health and may have antidepressant effects.
+
+### Psychological Mechanisms
+
+**Distraction:** Exercise provides a break from rumination.
+
+**Self-Efficacy:** Accomplishing exercise goals builds confidence.
+
+**Social Connection:** Group exercise reduces isolation.
+
+**Routine:** Regular exercise creates structure.
+
+### Physiological Effects
+
+**Reduced Inflammation:** Chronic inflammation is linked to depression; exercise is anti-inflammatory.
+
+**Improved Sleep:** Better sleep supports mental health.
+
+**Stress Response:** Exercise trains the body to handle stress.
+
+## What the Research Shows
+
+### For Depression
+
+- Exercise is as effective as antidepants for mild-to-moderate depression in many studies
+- Works best as part of comprehensive treatment
+- Benefits increase with consistency
+- Both aerobic and resistance training help
+
+### For Anxiety
+
+- Reduces symptoms of generalized anxiety
+- Helps with panic disorder
+- Beneficial for social anxiety
+- Acute anxiety relief after single sessions
+
+### Dose
+
+- Most benefits seen with 30-60 minutes of moderate exercise
+- 3-5 sessions per week
+- Benefits appear within weeks
+- More isn't always better (overtraining can increase stress)
+
+## The Challenge: Starting When You're Struggling
+
+Depression and anxiety make exercise harder:
+
+- Low energy and motivation
+- Negative thoughts ("what's the point?")
+- Difficulty making decisions
+- Social avoidance
+- Sleep disruption affecting energy
+
+**This is the cruelest irony:** The thing that could help most feels impossible to do.
+
+## Strategies for Starting
+
+### 1. Start Ridiculously Small
+
+Don't aim for "exercise." Aim for movement.
+
+- Walk to the mailbox
+- Do 5 minutes of stretching
+- Walk around the block once
+
+**The goal isn't fitness—it's breaking inertia.**
+
+### 2. Lower the Bar
+
+- Any movement counts
+- 5 minutes is enough
+- Walking is exercise
+- You don't need to be sweating or breathless
+
+### 3. Connect It to Something
+
+**Habit stacking:**
+- "After I brush my teeth, I'll do 5 minutes of stretching"
+- "After lunch, I'll walk for 10 minutes"
+
+### 4. Prepare the Night Before
+
+- Lay out exercise clothes
+- Put shoes by the door
+- Reduce friction to starting
+
+### 5. Use the "5-Minute Rule"
+
+Commit to just 5 minutes. If you want to stop after that, you can. Often, starting is the hardest part—once you're moving, you'll continue.
+
+### 6. Don't Rely on Motivation
+
+Motivation follows action, not the other way around. Start moving; motivation catches up.
+
+## Best Types of Exercise for Mental Health
+
+### Aerobic Exercise
+
+Most studied for mental health benefits:
+
+- Walking (accessible and effective)
+- Running or jogging
+- Swimming
+- Cycling
+- Dancing
+
+**Target:** 30 minutes of moderate intensity, most days.
+
+### Strength Training
+
+Also effective:
+
+- Reduces depression symptoms
+- Improves self-esteem
+- Builds sense of accomplishment
+
+**Target:** 2-3 sessions per week.
+
+### Yoga
+
+Particularly good for anxiety:
+
+- Combines movement with breath work
+- Activates relaxation response
+- Mindfulness component
+- Reduces cortisol
+
+### Walking in Nature
+
+"Green exercise" has additional benefits:
+
+- Natural environment reduces stress hormones
+- Attention restoration
+- Reduced rumination
+- Accessible and free
+
+### Social Exercise
+
+Group activities add connection:
+
+- Exercise classes
+- Team sports
+- Walking with a friend
+- Running groups
+
+## Sample Starting Plans
+
+### If You're Barely Moving
+
+**Week 1:**
+- Walk 5 minutes, 3 days
+
+**Week 2:**
+- Walk 10 minutes, 3 days
+
+**Week 3:**
+- Walk 10 minutes, 4-5 days
+
+**Week 4:**
+- Walk 15 minutes, 4-5 days
+
+Continue progressing by 5 minutes per week.
+
+### If You Have Some Energy
+
+**Daily:**
+- 20-30 minute walk or equivalent
+
+**2-3x/Week:**
+- 20-30 minutes of something more challenging (strength training, yoga, swimming)
+
+### If You're Ready for More
+
+**5x/Week:**
+- 30-45 minutes aerobic exercise
+
+**2-3x/Week:**
+- Strength training
+
+**Daily:**
+- Stretching or yoga
+
+## During Acute Episodes
+
+When symptoms are severe:
+
+- Keep moving, but reduce expectations
+- Walking is enough
+- Gentle yoga or stretching
+- Don't add guilt about exercise on top of symptoms
+- Something is always better than nothing
+
+## Exercise Is Part of Treatment, Not a Replacement
+
+Exercise complements but doesn't replace other treatments:
+
+- Medication (when prescribed)
+- Therapy
+- Social support
+- Sleep hygiene
+- Professional care
+
+If symptoms are severe, seek professional help. Exercise alone isn't sufficient for everyone.
+
+## Troubleshooting
+
+### "I don't have energy"
+
+Start with 5 minutes. Energy often appears once you start.
+
+### "I don't have time"
+
+10 minutes counts. Break it into smaller chunks throughout the day.
+
+### "I can't get myself to do it"
+
+Pair with something you enjoy (music, podcast). Walk with someone. Lower the bar until you can do it.
+
+### "I start but can't maintain"
+
+Focus on consistency over intensity. Track your exercise. Celebrate small wins.
+
+## The Bottom Line
+
+Exercise is powerful medicine for mental health:
+
+1. Start smaller than you think necessary
+2. Consistency matters more than intensity
+3. Any movement counts
+4. Aerobic exercise has the most evidence
+5. Don't wait for motivation—action creates motivation
+6. Use exercise as part of comprehensive care
+
+The hardest part is starting. But once you do, the benefits build on themselves.
+
+---
+
+*Foundational Rehab provides gentle, accessible programs to help you start moving—wherever you are.*
+    \`
+  },
+  'exercise-during-cancer-treatment': {
+    title: 'Exercise During Cancer Treatment: Safe Movement for Recovery',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Exercise and Cancer: What We Know
+
+The old advice to "rest and take it easy" during cancer treatment has been replaced by strong evidence:
+
+- Exercise is safe during most cancer treatments
+- It reduces fatigue (counterintuitively)
+- It improves quality of life
+- It may improve treatment outcomes
+- It helps manage side effects
+- It's recommended by major cancer organizations
+
+**Bottom line:** If you can move, you probably should.
+
+## Benefits of Exercise During Treatment
+
+### Physical Benefits
+
+- **Reduced fatigue:** The most common benefit reported
+- **Maintained strength:** Treatment causes muscle loss; exercise fights it
+- **Better physical function:** Ability to do daily activities
+- **Less nausea:** For some people
+- **Improved sleep**
+- **Better appetite**
+
+### Psychological Benefits
+
+- **Reduced anxiety and depression**
+- **Improved self-esteem**
+- **Sense of control**
+- **Better body image**
+- **Reduced stress**
+
+### Treatment-Related Benefits
+
+- **Better tolerance of treatment**
+- **Fewer treatment delays**
+- **Possibly improved treatment effectiveness**
+- **Reduced some treatment side effects**
+
+## Safety Considerations
+
+### When to Avoid Exercise
+
+**Don't exercise if:**
+- Severe anemia (hemoglobin <8 g/dL)—check with your oncologist
+- Very low platelet count (<50,000)—bleeding risk
+- Fever or active infection
+- Severe nausea, vomiting, or diarrhea
+- Uncontrolled pain
+- New or unusual symptoms (check with your team first)
+- Just had certain surgeries (follow restrictions)
+
+### When to Modify
+
+**Be cautious with:**
+- Low white blood cell count—avoid gyms, pools (infection risk)
+- Bone metastases—avoid high-impact activities
+- Peripheral neuropathy—balance work needs modification
+- Port or PICC line—protect the site
+- Lymphedema risk—wear compression, progress gradually
+
+### Always Check First
+
+Before starting or changing exercise, consult your oncology team. Most will encourage exercise, but they know your specific situation.
+
+## Getting Started
+
+### General Guidelines
+
+- **Start low, go slow**
+- **Listen to your body**
+- **Expect fluctuations**—good days and bad days are normal
+- **Adapt to treatment schedule**—you may feel worse on certain days
+- **Something is always better than nothing**
+
+### Timing Around Treatment
+
+- Many people feel worst 24-72 hours after chemotherapy
+- Schedule harder exercise on better days
+- Gentle movement may help on harder days
+- Radiation fatigue often accumulates over weeks
+
+## Types of Exercise
+
+### Walking
+
+The most accessible and well-studied option:
+
+- Start with what you can do (even 5 minutes)
+- Progress gradually
+- Can be done almost anywhere
+- Easy to modify intensity
+
+**Starting goal:** 10-15 minutes at comfortable pace, most days.
+
+### Resistance Training
+
+Especially important to counter muscle loss:
+
+- Bodyweight exercises initially
+- Light weights or resistance bands
+- Major muscle groups
+- 2-3 days per week when possible
+
+**Sample exercises:**
+- Wall push-ups
+- Seated rows with band
+- Chair squats (sit-to-stand)
+- Standing hip exercises
+
+### Stretching and Flexibility
+
+- Maintain range of motion
+- Reduce stiffness
+- Gentle and relaxing
+- Daily if possible
+
+### Yoga and Mind-Body Exercise
+
+- Reduces anxiety and improves sleep
+- Gentle yoga appropriate during treatment
+- Tai chi is also excellent
+- Avoid hot yoga; choose gentle styles
+
+## Sample Weekly Plan
+
+**Daily (5-10 minutes):**
+- Gentle stretching
+- Walking (even just around the house on bad days)
+
+**3-5 days/week (when able):**
+- Walking 15-30 minutes (or whatever you can manage)
+
+**2 days/week (when able):**
+- Light strengthening exercises (10-20 minutes)
+
+**As desired:**
+- Gentle yoga or tai chi
+
+**Adjust based on:**
+- How you feel
+- Where you are in treatment cycle
+- Energy levels
+
+## Managing Fatigue
+
+Cancer-related fatigue is different from normal tiredness. Exercise helps, but pacing matters:
+
+### The Paradox
+
+Moving when exhausted feels wrong, but:
+- Too much rest increases fatigue
+- Light activity reduces fatigue over time
+- Start very gently
+
+### Pacing Strategies
+
+- Break activity into small chunks
+- Rest between activities
+- Don't push through exhaustion
+- Accept that capacity varies day to day
+- Something small is always valuable
+
+### On Bad Days
+
+- Gentle stretching in bed or chair
+- Walk around the house
+- 5 minutes of anything
+- Give yourself permission to do less
+
+## After Treatment Ends
+
+Recovery continues after treatment ends:
+
+- Fatigue may persist for months
+- Rebuild gradually
+- Don't compare to pre-cancer fitness
+- Progress may be slow—that's normal
+- Celebrate what you can do
+
+## Long-Term Benefits
+
+Regular exercise after cancer treatment:
+
+- Reduces recurrence risk for some cancers
+- Improves survival
+- Helps with long-term side effects
+- Supports return to normal life
+- Maintains physical function
+
+## Working with Professionals
+
+Consider working with:
+
+- **Oncology-certified exercise specialist**
+- **Physical therapist** (especially if mobility issues)
+- **Cancer exercise programs** (many hospitals offer these)
+
+They can design programs appropriate for your specific situation.
+
+## The Bottom Line
+
+Exercise during cancer treatment:
+
+1. Is safe for most people (with appropriate precautions)
+2. Reduces fatigue (even though it seems paradoxical)
+3. Improves quality of life
+4. Can start very gently
+5. Should adapt to how you feel
+6. Is one of the best things you can do for yourself
+
+Check with your oncology team, then start moving—however you can.
+
+---
+
+*Foundational Rehab provides gentle, adaptable programs suitable for recovery during and after cancer treatment.*
+    \`
+  },
+  'chronic-pain-exercises': {
+    title: 'Exercise for Chronic Pain: Why Movement Is Medicine',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## The Exercise-Pain Paradox
+
+When you hurt, the last thing you want to do is move. Yet exercise is one of the most effective treatments for chronic pain.
+
+**The evidence is clear:**
+- Exercise reduces pain intensity
+- Improves physical function
+- Decreases disability
+- Works for many chronic pain conditions
+- Has benefits beyond pain reduction (mood, sleep, energy)
+
+But it has to be done right.
+
+## Why Exercise Helps Chronic Pain
+
+### Nervous System Effects
+
+Chronic pain involves a sensitized nervous system. Exercise can:
+- Reduce central sensitization
+- Activate pain-inhibiting pathways
+- Release endogenous opioids (your body's painkillers)
+- Improve pain modulation
+
+### Physical Effects
+
+- Reduces inflammation
+- Improves blood flow
+- Maintains muscle strength
+- Preserves joint mobility
+- Prevents deconditioning
+
+### Psychological Effects
+
+- Reduces fear of movement
+- Builds self-efficacy
+- Improves mood
+- Provides sense of control
+- Breaks the pain-fear-avoidance cycle
+
+## The Fear-Avoidance Trap
+
+Many people with chronic pain fall into a harmful pattern:
+
+1. **Pain occurs**
+2. **Fear of more pain** develops
+3. **Activity avoidance** begins
+4. **Deconditioning** happens
+5. **Increased pain and disability** results
+6. **More avoidance** follows
+
+Exercise breaks this cycle, but it requires understanding that:
+- Some pain with activity doesn't mean damage
+- Hurt doesn't always equal harm
+- Gradual exposure reduces fear over time
+
+## Starting Principles
+
+### 1. Start Below Your Pain Threshold
+
+Don't exercise until it hurts. Find a level that produces minimal or no increase in pain.
+
+### 2. Progress Very Gradually
+
+Increase by tiny amounts. Give your nervous system time to adapt.
+
+### 3. Stay Consistent
+
+Daily gentle movement beats occasional harder sessions.
+
+### 4. Expect Fluctuations
+
+Good days and bad days are normal. Adjust accordingly.
+
+### 5. Focus on Function, Not Pain
+
+Track what you can do, not just how you feel.
+
+## Types of Exercise for Chronic Pain
+
+### Walking
+
+- Accessible and effective
+- Start with tolerable duration (even 5 minutes)
+- Progress duration before intensity
+- Consistent daily walking helps
+
+### Aquatic Exercise
+
+- Water reduces joint load
+- Warmth soothes muscles
+- Easier movement
+- Excellent for many pain conditions
+
+### Gentle Yoga
+
+- Combines movement with breath work
+- Improves flexibility
+- Reduces stress
+- Modifications available for all abilities
+
+### Tai Chi
+
+- Slow, flowing movements
+- Improves balance and coordination
+- Mindful and meditative
+- Strong evidence for chronic pain
+
+### Cycling
+
+- Low impact
+- Controlled movement
+- Stationary or outdoor
+
+### Strength Training
+
+- Maintains muscle mass
+- Supports joints
+- Start with bodyweight or light resistance
+- Avoid pushing through pain
+
+## Pacing: The Essential Skill
+
+Pacing means balancing activity and rest to avoid boom-bust cycles:
+
+### The Boom-Bust Pattern
+
+- Good day → overdo it → crash → extended rest → repeat
+
+### Better Approach
+
+- Consistent moderate activity regardless of pain level
+- Stop before exhaustion
+- Break activities into chunks
+- Plan rest periods
+- Don't use all your energy on good days
+
+### Time-Based Pacing
+
+Instead of stopping when pain increases:
+- Set a time limit
+- Stop when time is up (even if you could do more)
+- Increase time gradually
+
+## Building an Exercise Program
+
+### Week 1-2: Baseline
+
+- Find what you can do without significant pain increase
+- Maybe 5-10 minutes of walking
+- Maybe gentle stretching only
+- This is your starting point
+
+### Week 3-4: Small Increases
+
+- Add 1-2 minutes to walking
+- Or add one exercise
+- Or slightly increase repetitions
+- Progress one thing at a time
+
+### Ongoing: Gradual Progression
+
+- 5-10% increase per week maximum
+- If pain increases significantly, go back a step
+- Be patient—progress takes months, not weeks
+
+## Sample Starting Program
+
+**Daily:**
+- 5-10 minutes walking (or what you can tolerate)
+- 5-10 minutes gentle stretching
+
+**3x/Week:**
+- 10-15 minutes of additional exercise
+- Options: yoga, aquatics, strengthening, cycling
+
+**Progress by:**
+- Adding 1-2 minutes per week
+- Adding one exercise
+- Never rushing
+
+## Managing Flare-Ups
+
+When pain increases:
+
+**Don't:**
+- Stop all activity
+- Rest completely for days
+- Catastrophize
+
+**Do:**
+- Reduce intensity/duration
+- Continue gentle movement if possible
+- Maintain daily walking if tolerable
+- Return to normal program as pain settles
+
+## When Exercise Increases Pain
+
+Some pain increase is normal when starting. But distinguish:
+
+**Normal:**
+- Mild increase during or after exercise
+- Settles within 24-48 hours
+- Overall trend is improvement
+
+**Concerning:**
+- Significant, lasting pain increase
+- Pain worse for days after exercise
+- Decreasing function over time
+
+If concerning, reassess your program. You may be doing too much too fast.
+
+## Cognitive Strategies
+
+Your mindset affects your pain experience:
+
+### Helpful Thoughts
+
+- "Some discomfort during exercise is normal"
+- "I'm building my capacity gradually"
+- "Movement is good for me"
+- "I'm in control of my recovery"
+
+### Unhelpful Thoughts
+
+- "If it hurts, I'm damaging myself"
+- "I'll never get better"
+- "Exercise makes everything worse"
+- "I can't do anything"
+
+## Getting Professional Help
+
+Consider working with:
+
+- **Physical therapist** experienced in chronic pain
+- **Pain psychologist** for fear-avoidance and coping
+- **Pain management physician** for comprehensive care
+
+Multidisciplinary approaches work best for chronic pain.
+
+## The Bottom Line
+
+Exercise is essential for chronic pain management:
+
+1. Start well below your pain threshold
+2. Progress very gradually
+3. Stay consistent (daily gentle movement)
+4. Pace yourself
+5. Expect fluctuations
+6. Focus on function over pain
+7. Get professional guidance if needed
+
+Movement is medicine. The right dose, at the right time, makes all the difference.
+
+---
+
+*Foundational Rehab provides gentle, progressive programs designed for chronic pain management.*
+    \`
+  },
+  'return-to-exercise-after-illness': {
+    title: 'Return to Exercise After Illness: How to Rebuild Safely',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: \`
+## The Comeback After Being Sick
+
+Whether you had the flu, COVID, a surgery, or another illness that kept you down, coming back to exercise requires patience. Push too hard, and you risk:
+
+- Prolonged recovery
+- Relapse of illness
+- Injury from deconditioned muscles
+- Discouragement and frustration
+
+But the right approach gets you back safely.
+
+## How Quickly Does Fitness Decline?
+
+The reality is sobering:
+
+- **Cardiovascular fitness:** Noticeable decline in 2-4 weeks
+- **Muscle strength:** Begins declining after 2-3 weeks
+- **Flexibility:** Can decrease within days to weeks
+- **Neuromuscular coordination:** Changes with inactivity
+
+**The longer the break, the longer the comeback.**
+
+## Before You Start Back
+
+### Make Sure You're Ready
+
+**Don't exercise yet if you have:**
+- Fever
+- Active infection
+- Severe fatigue
+- Ongoing symptoms (especially respiratory or cardiac)
+- Doctor's orders to rest
+
+**Generally safe to start when:**
+- Fever-free for at least 24-48 hours
+- Symptoms significantly improved
+- Energy is returning
+- You're eating and sleeping better
+
+### The "Neck Check"
+
+A traditional guideline:
+- **Symptoms above the neck** (runny nose, mild sore throat): Light exercise usually okay
+- **Symptoms below the neck** (chest congestion, body aches, fever): Rest
+
+This is a rough guide—use judgment and listen to your body.
+
+## The 50% Rule
+
+**Start at 50% of your pre-illness level.**
+
+If you were running 30 minutes, start with 15.
+If you were lifting 100 lbs, start with 50.
+If you were doing 5 workouts per week, do 2-3.
+
+This feels too easy at first—that's the point.
+
+## Sample Return-to-Exercise Timeline
+
+### After Minor Illness (3-7 Days Off)
+
+**Week 1:**
+- 50% of normal volume and intensity
+- Mostly easy aerobic exercise
+- Light strength training
+
+**Week 2:**
+- 75% of normal
+- Begin adding intensity
+
+**Week 3:**
+- Return to normal if feeling good
+
+### After Moderate Illness (1-2 Weeks Off)
+
+**Week 1:**
+- 30-50% of normal
+- Walking, gentle movement
+- Stop if fatigue increases significantly
+
+**Week 2:**
+- 50-60% of normal
+- Add more variety
+
+**Week 3:**
+- 70-80% of normal
+
+**Week 4:**
+- Return to normal
+
+### After Significant Illness (3+ Weeks Off)
+
+**Week 1-2:**
+- 25-30% of normal
+- Short walks, gentle stretching
+- Focus on daily movement, not workouts
+
+**Week 3-4:**
+- 40-50% of normal
+- Add light strengthening
+
+**Week 5-6:**
+- 60-75% of normal
+- Begin increasing intensity
+
+**Week 7+:**
+- Progress toward normal
+
+**Rule of thumb:** It takes about as long to rebuild as you were out.
+
+## Starting Exercises
+
+### First Few Days
+
+**Walking**
+- Start with 10-15 minutes at easy pace
+- Increase by 5 minutes every few days
+- Keep conversation comfortable
+
+**Gentle Stretching**
+- All major muscle groups
+- 10-15 minutes
+- Feels good, not challenging
+
+### First Week
+
+**Add:**
+- Bodyweight exercises (squats, push-ups, lunges)
+- Very light resistance training
+- Longer walks or easy cycling
+
+### Second Week
+
+**Progress to:**
+- Normal exercise variety at reduced intensity
+- Longer duration
+- Light-moderate resistance training
+
+## Warning Signs to Stop or Back Off
+
+**Stop exercising if:**
+- Fever returns
+- Symptoms worsen
+- Unusual fatigue (beyond normal exercise tiredness)
+- Lightheadedness or dizziness
+- Chest discomfort
+- Palpitations
+- Any concerning symptoms
+
+**Back off if:**
+- You feel wiped out after easy exercise
+- Recovery takes longer than expected
+- Sleep is disrupted
+- Appetite decreases
+
+## Special Considerations
+
+### After Respiratory Illness
+
+- Breathing may feel harder initially
+- Reduce intensity more than usual
+- Progress cardiovascular work slowly
+- Watch for unusual breathlessness
+
+### After COVID-19
+
+- Follow medical guidance (varies by severity)
+- Post-COVID symptoms may require special pacing
+- Heart involvement possible—get cleared if symptoms were significant
+- Some people need much longer recovery
+
+### After Surgery
+
+- Follow surgeon's specific restrictions
+- Get cleared before starting
+- Some surgeries have specific timelines
+- Work with physical therapist if indicated
+
+### After Prolonged Illness (Months)
+
+- Treat this as starting from scratch
+- Work with healthcare providers
+- Progress very slowly
+- Celebrate small wins
+
+## Psychological Factors
+
+Returning from illness can be frustrating:
+
+**Common feelings:**
+- Impatience with slow progress
+- Disappointment at lost fitness
+- Anxiety about pushing too hard
+- Frustration with what you can't do
+
+**Helpful mindset:**
+- "My body is healing and adapting"
+- "Progress will come with patience"
+- "Some fitness is better than none"
+- "I've rebuilt before; I can do it again"
+
+## The Bottom Line
+
+Coming back after illness requires patience:
+
+1. Make sure you're truly ready
+2. Start at 50% or less
+3. Progress gradually (10-20% per week)
+4. Listen to your body
+5. Stop if symptoms return
+6. Allow as much time to rebuild as you were out
+
+The fitness will return. Your job is to let it happen without rushing the process.
+
+---
+
+*Foundational Rehab provides gentle, progressive programs suitable for rebuilding after illness or injury.*
+    \`
   }
 };
 
