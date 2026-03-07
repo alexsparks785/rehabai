@@ -67320,6 +67320,934 @@ Listening to your body is a skill. Develop it to train safely for life.
 
 *Foundational Rehab helps you understand your body's signals and exercise appropriately.*
     \`
+  },
+  'progressive-overload-guide': {
+    title: 'Progressive Overload: The Key Principle for Getting Stronger',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## What Is Progressive Overload?
+
+Progressive overload is the gradual increase of stress placed on the body during training. It's the fundamental principle behind all physical adaptation.
+
+**Simple concept:** To keep getting stronger, you must keep challenging your body with more than it's currently used to.
+
+Without progressive overload, you maintain—you don't improve.
+
+## Why It Works
+
+Your body adapts to demands:
+
+1. You stress the body (exercise)
+2. Body recovers and adapts
+3. Same stress is now easier
+4. To progress further, increase the stress
+
+This applies to:
+- Muscle strength
+- Muscle size
+- Cardiovascular fitness
+- Endurance
+- Flexibility
+
+## Ways to Apply Progressive Overload
+
+### 1. Increase Weight (Intensity)
+
+The most straightforward method:
+- Lift heavier weights
+- Add 2.5-5 lbs when current weight feels easy
+- Small increments are fine
+
+**Example:** Squat 100 lbs for 3x10 → Squat 105 lbs for 3x10
+
+### 2. Increase Reps (Volume)
+
+Do more repetitions with the same weight:
+- When you can do more than target reps, add weight
+- Or progressively add reps over time
+
+**Example:** Squat 100 lbs for 3x8 → 3x9 → 3x10 → increase weight
+
+### 3. Increase Sets (Volume)
+
+Add more sets to your workout:
+- More total work
+- Especially useful when rep/weight progression stalls
+
+**Example:** 3 sets → 4 sets → 5 sets
+
+### 4. Increase Frequency
+
+Train the muscle or movement more often:
+- 2x/week → 3x/week
+- More practice, more stimulus
+
+### 5. Increase Range of Motion
+
+Move through greater range:
+- Deeper squats
+- Full stretch on rows
+- More complete movement
+
+### 6. Decrease Rest Time
+
+Less rest between sets:
+- More metabolic stress
+- Same work in less time
+- Good for endurance/conditioning
+
+### 7. Improve Technique
+
+Better form = more effective stimulus:
+- More muscle engagement
+- Safer, more efficient
+- Often overlooked form of progression
+
+### 8. Slow Down (Time Under Tension)
+
+Longer reps = more time under load:
+- 3 seconds down, pause, 3 seconds up
+- Increases difficulty without adding weight
+
+## Practical Progression Strategies
+
+### Double Progression
+
+Most practical for most people:
+
+1. Start with a rep range (e.g., 8-12)
+2. Add reps until you hit the top (12)
+3. Increase weight
+4. Drop back to bottom of range (8)
+5. Build reps again
+
+**Example:**
+- Week 1: 50 lbs x 8 reps
+- Week 2: 50 lbs x 9 reps
+- Week 3: 50 lbs x 10 reps
+- Week 4: 50 lbs x 11 reps
+- Week 5: 50 lbs x 12 reps
+- Week 6: 55 lbs x 8 reps (reset)
+
+### Linear Progression
+
+Add weight every session (works for beginners):
+- Add 5 lbs to lower body lifts each workout
+- Add 2.5 lbs to upper body lifts each workout
+- Works until it doesn't, then switch methods
+
+### Weekly Progression
+
+Add weight each week:
+- More sustainable for intermediate lifters
+- Smaller jumps acceptable
+
+## How Much to Increase
+
+### Beginners
+- Can progress quickly
+- 5-10 lbs per week on major lifts (initially)
+- Eventually slows
+
+### Intermediate
+- 2.5-5 lbs per week (if possible)
+- May need longer between increases
+- Focus on reps or other variables
+
+### Advanced
+- Very slow progress
+- Monthly increases may be realistic
+- Requires sophisticated programming
+
+## When Progress Stalls
+
+Eventually, progress slows. Options:
+
+### Deload
+- Reduce volume/intensity for a week
+- Allow full recovery
+- Return stronger
+
+### Change Exercises
+- Different variation of same movement
+- New stimulus
+
+### Adjust Variables
+- If weight stalled, try more reps
+- If reps stalled, try more sets
+- Different rep ranges
+
+### Check Recovery
+- Sleep enough?
+- Eating enough?
+- Too much stress?
+
+## Common Mistakes
+
+### 1. Progressing Too Fast
+
+Adding too much too soon leads to:
+- Injury
+- Form breakdown
+- Burnout
+
+**Solution:** Small, sustainable increases
+
+### 2. Not Tracking
+
+If you don't track, you don't know if you're progressing.
+
+**Solution:** Log workouts (weights, reps, sets)
+
+### 3. Changing Everything at Once
+
+Can't tell what's working if you change multiple things.
+
+**Solution:** Change one variable at a time
+
+### 4. Ignoring Form
+
+Progressing weight with bad form isn't progress—it's injury risk.
+
+**Solution:** Form first, always
+
+### 5. Expecting Linear Progress Forever
+
+Progress naturally slows. That's normal.
+
+**Solution:** Adjust expectations, use different strategies
+
+## Tracking Progress
+
+What to record:
+- Exercise
+- Weight
+- Sets x reps
+- How it felt (easy/hard)
+- Date
+
+Review regularly to ensure you're progressing over time.
+
+## The Bottom Line
+
+Progressive overload is simple but essential:
+
+1. Gradually increase demands over time
+2. Multiple ways to progress (not just weight)
+3. Small increases add up
+4. Track your workouts
+5. Be patient—progress takes time
+6. Form always comes first
+
+Without progressive overload, you're just maintaining. To improve, you must progressively challenge yourself.
+
+---
+
+*Foundational Rehab programs incorporate progressive overload principles for continuous improvement.*
+    \`
+  },
+  'daily-mobility-routine': {
+    title: 'Daily Mobility Routine: 10 Minutes to Move Better',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: \`
+## Why Daily Mobility Matters
+
+Modern life creates stiffness:
+- Hours of sitting
+- Repetitive movements
+- Limited range of motion used
+
+Daily mobility practice counteracts this:
+- Maintains joint health
+- Prevents stiffness from accumulating
+- Improves movement quality
+- Reduces injury risk
+- Enhances performance
+
+**10 minutes daily beats 60 minutes weekly.**
+
+## Mobility vs. Stretching
+
+**Stretching:** Lengthening muscles passively
+**Mobility:** Active movement through range of motion
+
+Mobility includes:
+- Joint circles
+- Dynamic movements
+- Controlled end-range positions
+- Active flexibility
+
+Both have value; mobility is often more functional.
+
+## The 10-Minute Routine
+
+Perform each movement fluidly, controlled, without forcing.
+
+### Neck (1 minute)
+
+**Neck Circles**
+- Gentle circles in each direction
+- 5 each way
+
+**Chin Tucks**
+- Draw chin back
+- Hold 3 seconds
+- 5 reps
+
+**Neck Rotation**
+- Look over each shoulder
+- 5 each side
+
+### Shoulders (2 minutes)
+
+**Arm Circles**
+- Small to large circles
+- Forward and backward
+- 10 each direction
+
+**Wall Slides**
+- Back against wall
+- Arms in "goalpost" position
+- Slide up and down
+- 10 reps
+
+**Cross-Body Reach**
+- Reach arm across body
+- Other hand gently pulls
+- 5 seconds each side
+
+### Thoracic Spine (2 minutes)
+
+**Cat-Cow**
+- On hands and knees
+- Arch and round spine
+- 10 cycles
+
+**Thoracic Rotation**
+- On hands and knees
+- Hand behind head
+- Rotate toward ceiling
+- 8 each side
+
+**Thread the Needle**
+- On hands and knees
+- Reach arm under body
+- Then reach toward ceiling
+- 5 each side
+
+### Hips (3 minutes)
+
+**Hip Circles**
+- Standing, circle one hip
+- Both directions
+- 10 each direction, each leg
+
+**90/90 Position**
+- Sit with legs in 90/90 position
+- Front leg 90°, back leg 90°
+- Shift forward over front hip
+- Hold 30 seconds, switch
+
+**Deep Squat Hold**
+- Drop into deep squat
+- Hold position, shift weight
+- 30-60 seconds
+
+**Hip Flexor Stretch**
+- Half-kneeling position
+- Push hips forward
+- 30 seconds each side
+
+### Ankles (1 minute)
+
+**Ankle Circles**
+- Circle each ankle
+- Both directions
+- 10 each direction
+
+**Calf Stretch**
+- Against wall
+- Straight and bent knee
+- 20 seconds each position
+
+### Full Body Flow (1 minute)
+
+**World's Greatest Stretch**
+1. Lunge forward
+2. Place same-side elbow toward ground
+3. Rotate and reach arm to ceiling
+4. Return, switch sides
+5. 3 each side
+
+## When to Do It
+
+### Morning
+- Counteracts sleep stiffness
+- Prepares body for day
+- Sets positive tone
+
+### Before Exercise
+- Part of warm-up
+- Prepares joints for movement
+- Improves workout quality
+
+### During Work
+- Breaks up sitting
+- Prevents accumulation of stiffness
+- Can do at desk (partial routine)
+
+### Evening
+- Releases day's tension
+- Helps relaxation
+- Can improve sleep
+
+**Best practice:** Morning + evening, or any consistent time.
+
+## Making It a Habit
+
+### Anchor to Existing Routine
+- "After my morning coffee, I do mobility"
+- "Before shower, I do mobility"
+
+### Same Time, Same Place
+- Consistency builds habit
+- Designated space helps
+
+### Start Shorter
+- 5 minutes is fine at first
+- Build to 10 minutes
+
+### Have a Video/Guide
+- Follow along initially
+- Remove decision fatigue
+
+## Modifications
+
+### If Tight
+- Stay within comfortable range
+- Don't force
+- Progress gradually
+
+### If Painful
+- Skip that movement
+- Modify position
+- Consult professional if persistent
+
+### If Limited Time
+- Pick 3-4 movements
+- Hit the stiffest areas
+- Something beats nothing
+
+## Beyond 10 Minutes
+
+If you want more:
+- Add specific areas that need work
+- Hold positions longer
+- Add foam rolling before
+- Include more strengthening at end ranges
+
+## Desk Mobility (Quick Breaks)
+
+Can't do full routine? Try:
+- Neck rotations
+- Shoulder rolls
+- Seated spinal twist
+- Ankle circles
+- Wrist circles
+
+**2 minutes every hour** prevents significant stiffness.
+
+## The Bottom Line
+
+Daily mobility is:
+
+1. Essential for joint health
+2. Better in small daily doses
+3. Active, not just passive stretching
+4. Adaptable to your needs and time
+5. A habit worth building
+
+10 minutes a day keeps stiffness away.
+
+---
+
+*Foundational Rehab provides daily mobility routines as part of comprehensive movement programs.*
+    \`
+  },
+  'exercise-recovery-techniques': {
+    title: 'Exercise Recovery: Techniques That Actually Work',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: \`
+## Why Recovery Matters
+
+You don't get stronger during workouts—you get stronger during recovery.
+
+Training creates stress and breakdown. Recovery is when:
+- Muscles repair and grow
+- Energy stores replenish
+- Nervous system recovers
+- Adaptations occur
+
+**Without adequate recovery:**
+- Progress stalls
+- Injury risk increases
+- Performance declines
+- Burnout happens
+
+## The Most Important Recovery Factor: Sleep
+
+Nothing replaces sleep. During sleep:
+- Growth hormone releases
+- Muscle protein synthesis peaks
+- Nervous system recovers
+- Memory consolidates (including motor learning)
+
+### Sleep Recommendations
+
+- **7-9 hours** per night for most adults
+- **Consistent schedule** (same bedtime/wake time)
+- **Quality matters** (dark, cool, quiet room)
+
+### Signs of Poor Sleep Recovery
+- Persistent fatigue
+- Decreased performance
+- Increased injuries
+- Mood changes
+- Slow recovery
+
+**Bottom line:** Prioritize sleep above all other recovery methods.
+
+## Nutrition for Recovery
+
+### Protein
+
+Essential for muscle repair:
+- **0.7-1g per pound of bodyweight** daily
+- Spread throughout day (20-40g per meal)
+- Post-workout protein helps (but total daily intake matters more)
+
+### Carbohydrates
+
+Replenish glycogen stores:
+- Important after long/intense workouts
+- Especially for endurance athletes
+- Don't fear carbs for recovery
+
+### Hydration
+
+- Dehydration impairs recovery
+- Drink throughout day
+- More needed if you sweat heavily
+- Urine should be light yellow
+
+### Overall Calories
+
+- Undereating impairs recovery
+- Can't build muscle in deficit
+- Adequate fuel = better recovery
+
+## Active Recovery
+
+Light movement on rest days:
+
+### Benefits
+- Increases blood flow
+- Reduces stiffness
+- May speed recovery
+- Maintains habit
+
+### Examples
+- Easy walking
+- Light cycling
+- Swimming
+- Gentle yoga
+- Mobility work
+
+### Guidelines
+- Very low intensity
+- 20-30 minutes
+- Should feel good, not taxing
+- Not every rest day needs it
+
+## Rest Days
+
+Complete rest is also valuable:
+
+- **1-2 rest days per week** minimum
+- More if training hard
+- Listen to fatigue signals
+- Recovery is productive
+
+## Evidence-Based Recovery Techniques
+
+### What Works
+
+**Sleep:** The most important (discussed above)
+
+**Nutrition:** Adequate protein, carbs, and calories
+
+**Hydration:** Stay well-hydrated
+
+**Active Recovery:** Light movement aids recovery
+
+**Massage:** May reduce soreness, improve relaxation
+
+**Foam Rolling:** Can reduce soreness and improve mobility
+
+**Cold Water Immersion:** May reduce soreness (but might blunt some adaptations if used constantly)
+
+**Compression Garments:** Modest evidence for reducing soreness
+
+### What Has Limited Evidence
+
+**Stretching post-workout:** Doesn't clearly reduce soreness or speed recovery (but not harmful)
+
+**BCAAs:** Unnecessary if protein intake is adequate
+
+**Most supplements:** Limited evidence for most
+
+**Expensive gadgets:** Often marketing over science
+
+### What Doesn't Work
+
+**"Detoxes" and cleanses:** No evidence, potentially harmful
+
+**Extreme restriction:** Undereating impairs recovery
+
+## Managing Soreness (DOMS)
+
+Delayed onset muscle soreness is normal. To manage:
+
+### What Helps
+- Light movement (walking, mobility)
+- Gentle massage or foam rolling
+- Adequate sleep
+- Time (it resolves in 2-5 days)
+
+### What Doesn't Help Much
+- Static stretching
+- More intense exercise
+- Complete immobility
+
+### Prevention
+- Progress gradually (avoid huge jumps)
+- Consistent training (soreness decreases over time)
+- Adequate warm-up
+
+## Signs You Need More Recovery
+
+### Acute Signs
+- Persistent fatigue
+- Decreased performance
+- Increased resting heart rate
+- Poor sleep
+- Mood changes
+- Frequent illness
+
+### What to Do
+- Take extra rest days
+- Reduce training volume
+- Prioritize sleep
+- Evaluate nutrition
+- Deload week if needed
+
+## Sample Recovery Week
+
+### Training Days
+- Adequate sleep (7-9 hours)
+- Proper nutrition (protein at each meal)
+- Hydration throughout day
+- Post-workout: protein + carbs
+
+### Rest/Active Recovery Days
+- Sleep in if needed
+- Light activity (walk, mobility)
+- Continue good nutrition
+- Relaxation activities
+
+### Weekly Structure Example
+- 4 training days
+- 2 active recovery days
+- 1 complete rest day
+
+## Deload Weeks
+
+Periodic reductions in training volume:
+
+### What Is a Deload?
+- Reduced volume (fewer sets/reps) or intensity (lighter weights)
+- Typically 50-70% of normal training
+- 1 week duration
+
+### When to Deload
+- Every 4-8 weeks of hard training
+- When fatigue accumulates
+- When performance declines
+- After competition or peak
+
+### Benefits
+- Full recovery
+- Return stronger
+- Injury prevention
+- Mental refresh
+
+## The Bottom Line
+
+Effective recovery comes down to:
+
+1. **Sleep:** 7-9 hours, non-negotiable
+2. **Nutrition:** Adequate protein and calories
+3. **Rest days:** Include them in your program
+4. **Active recovery:** Light movement helps
+5. **Listen to your body:** Fatigue signals matter
+6. **Don't overcomplicate:** Basics beat gadgets
+
+Recovery is when you improve. Treat it as seriously as your training.
+
+---
+
+*Foundational Rehab programs include recovery guidance to support your progress.*
+    \`
+  },
+  'setting-fitness-goals': {
+    title: 'How to Set Fitness Goals That Actually Stick',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Why Most Fitness Goals Fail
+
+Common reasons goals fail:
+- Too vague ("get in shape")
+- Too ambitious too fast
+- No clear plan to achieve them
+- Focus on outcomes instead of behaviors
+- No accountability or tracking
+
+Setting goals correctly makes success far more likely.
+
+## The SMART Framework
+
+Goals should be:
+
+### Specific
+Not: "Get stronger"
+Better: "Squat my bodyweight for 5 reps"
+
+### Measurable
+Not: "Exercise more"
+Better: "Exercise 4 days per week"
+
+### Achievable
+Not: "Run a marathon next month" (if you don't run)
+Better: "Run a 5K in 3 months"
+
+### Relevant
+Goals should matter to YOU, not someone else's priorities.
+
+### Time-Bound
+Not: "Eventually lose weight"
+Better: "Lose 10 lbs in 12 weeks"
+
+## Process Goals vs. Outcome Goals
+
+### Outcome Goals
+What you want to achieve:
+- Lose 20 lbs
+- Run a marathon
+- Squat 300 lbs
+
+**Problem:** You don't fully control outcomes.
+
+### Process Goals
+The behaviors that lead to outcomes:
+- Work out 4x per week
+- Eat protein at every meal
+- Follow training program
+
+**Advantage:** You control your actions.
+
+### Best Approach
+Set outcome goals for direction, but focus daily energy on process goals.
+
+**Example:**
+- Outcome: Lose 15 lbs in 4 months
+- Process: Exercise 4x/week, track food, hit protein target daily
+
+## Breaking Down Big Goals
+
+Large goals feel overwhelming. Break them down:
+
+### Annual Goal
+"Lose 40 lbs this year"
+
+### Quarterly Goal
+"Lose 10 lbs this quarter"
+
+### Monthly Goal
+"Lose 3-4 lbs this month"
+
+### Weekly Goal
+"Exercise 4 times, stay in calorie target 6/7 days"
+
+### Daily Goal
+"Today: go to gym, eat planned meals, drink enough water"
+
+**Focus on daily and weekly actions.** The rest follows.
+
+## Types of Fitness Goals
+
+### Performance Goals
+- Run a specific time
+- Lift a specific weight
+- Complete a specific event
+
+### Body Composition Goals
+- Lose fat
+- Gain muscle
+- Reach a certain weight or measurement
+
+### Habit/Behavior Goals
+- Exercise consistently
+- Eat certain way
+- Sleep better
+
+### Health Goals
+- Lower blood pressure
+- Improve blood sugar
+- Reduce pain
+
+**All are valid.** Choose what motivates YOU.
+
+## Setting Realistic Timelines
+
+### Weight Loss
+- 0.5-1% of bodyweight per week is sustainable
+- 1-2 lbs/week for most people
+- Faster is possible but harder to maintain
+
+### Muscle Gain
+- 1-2 lbs of muscle per month (beginners)
+- Slower for advanced
+- Takes years to build significant muscle
+
+### Strength
+- Beginners: Can add weight weekly
+- Intermediate: Weekly or monthly progression
+- Advanced: Very slow progress
+
+### Habit Formation
+- 2-3 months for a habit to feel automatic
+- Longer for complex habits
+
+**Be patient.** Real change takes time.
+
+## Common Goal-Setting Mistakes
+
+### 1. Too Many Goals at Once
+Pick 1-3 priorities. Focus beats fragmentation.
+
+### 2. All-or-Nothing Thinking
+"I missed Monday, week is ruined" → No, just continue.
+
+### 3. Comparing to Others
+Your journey is yours. Compare to past you.
+
+### 4. No Plan
+A goal without a plan is a wish. Know HOW you'll achieve it.
+
+### 5. Not Tracking
+What gets measured gets managed. Track progress.
+
+### 6. Giving Up Too Soon
+Results take time. Commit to the process.
+
+## Creating Your Action Plan
+
+### Step 1: Define Your Goal (SMART)
+Write it clearly. Be specific.
+
+### Step 2: Identify Key Behaviors
+What actions lead to this goal?
+
+### Step 3: Remove Barriers
+What could stop you? Plan solutions.
+
+### Step 4: Set Up Tracking
+How will you measure progress?
+
+### Step 5: Schedule It
+When will you do the key behaviors?
+
+### Step 6: Build Accountability
+Tell someone, join a group, hire a coach.
+
+### Step 7: Plan for Setbacks
+What will you do when (not if) you struggle?
+
+## Staying Motivated
+
+### Internal Motivation
+- Connect goal to your values
+- Remember WHY it matters
+- Visualize success
+
+### External Motivation
+- Tell others your goal
+- Find accountability partner
+- Reward milestones
+
+### When Motivation Fades
+- Action creates motivation (start anyway)
+- Lower the bar temporarily
+- Review your why
+- Adjust if needed
+
+## Reviewing and Adjusting Goals
+
+### Weekly Review
+- Did I hit my process goals?
+- What worked? What didn't?
+- What do I need to adjust?
+
+### Monthly Review
+- Am I progressing toward outcome goal?
+- Are my behaviors consistent?
+- Do I need to change anything?
+
+### If You're Not Progressing
+- Be honest about adherence
+- Adjust approach if needed
+- Consider if goal is realistic
+- Get help if stuck
+
+## The Bottom Line
+
+Effective goal setting:
+
+1. Be specific (SMART goals)
+2. Focus on process over outcome
+3. Break big goals into small steps
+4. Track your progress
+5. Plan for obstacles
+6. Be patient and persistent
+
+The right goals, pursued consistently, lead to real results.
+
+---
+
+*Foundational Rehab helps you set and achieve meaningful fitness goals with structured programs.*
+    \`
   }
 };
 

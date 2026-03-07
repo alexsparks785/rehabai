@@ -2669,6 +2669,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read'
+  },
+  {
+    slug: 'progressive-overload-guide',
+    title: 'Progressive Overload: The Key Principle for Getting Stronger',
+    excerpt: 'To keep getting results, you need to keep challenging your body. Here\'s how to apply progressive overload correctly.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'daily-mobility-routine',
+    title: 'Daily Mobility Routine: 10 Minutes to Move Better',
+    excerpt: 'A simple daily mobility practice keeps your joints healthy and your body moving freely. Here\'s a routine you can do anywhere.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-recovery-techniques',
+    title: 'Exercise Recovery: Techniques That Actually Work',
+    excerpt: 'Recovery is when adaptation happens. Learn evidence-based recovery strategies to get the most from your training.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'setting-fitness-goals',
+    title: 'How to Set Fitness Goals That Actually Stick',
+    excerpt: 'Most fitness goals fail. Here\'s how to set goals that motivate you and lead to lasting results.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
   }
 ];
 
