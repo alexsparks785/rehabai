@@ -13,6 +13,1041 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'how-to-improve-posture-exercises-habits': {
+    title: 'How to Improve Posture: Exercises and Daily Habits That Actually Work',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read',
+    content: `
+## Why Posture Matters
+
+Poor posture isn't just about appearance—it causes real problems:
+
+- Neck and back pain
+- Headaches
+- Reduced breathing capacity
+- Decreased energy
+- Increased injury risk
+- Premature joint wear
+
+The good news: posture is changeable at any age. It takes consistent effort, but the results are worth it.
+
+## Understanding Your Posture
+
+### Common Posture Problems
+
+**Forward head posture:**
+- Head juts forward of shoulders
+- Common from phone/computer use
+- Strains neck muscles
+
+**Rounded shoulders:**
+- Shoulders roll forward
+- Tight chest, weak upper back
+- Often accompanies forward head
+
+**Kyphosis (hunched upper back):**
+- Excessive rounding of thoracic spine
+- Common in desk workers and older adults
+
+**Anterior pelvic tilt (swayback):**
+- Pelvis tips forward
+- Excessive low back arch
+- Tight hip flexors, weak glutes
+
+**Flat back:**
+- Loss of natural spinal curves
+- Pelvis tucked under
+- Tight hamstrings
+
+### Self-Assessment
+
+**Wall test:**
+1. Stand with heels 2 inches from wall
+2. Touch butt and shoulder blades to wall
+3. Where is your head? Should touch easily
+4. How much space behind low back? Should fit flat hand
+
+If your head doesn't touch or you have excessive low back space, you have work to do.
+
+## The Truth About Posture
+
+### It's Not About "Perfect" Position
+
+There's no single perfect posture. The best posture is:
+- Your next posture (movement beats static positions)
+- One you can maintain without strain
+- Aligned but relaxed
+
+### Strength + Flexibility + Awareness
+
+Fixing posture requires all three:
+- Strengthen weak muscles
+- Stretch tight muscles
+- Build body awareness
+
+## Exercises for Better Posture
+
+### For Forward Head
+
+**Chin tucks:**
+1. Pull chin straight back (make double chin)
+2. Hold 5 seconds
+3. 10 reps, multiple times daily
+
+**Deep neck flexor activation:**
+1. Lie on back, small towel under neck
+2. Gently nod chin (look at chest)
+3. Hold 10 seconds
+4. 10 reps
+
+### For Rounded Shoulders
+
+**Chest stretch (doorway):**
+1. Arm on door frame at 90 degrees
+2. Step through, feel chest stretch
+3. Hold 30 seconds each side
+
+**Wall angels:**
+1. Back against wall
+2. Arms in "goal post" position against wall
+3. Slide arms up and down
+4. Keep contact with wall
+5. 15 reps
+
+**Band pull-aparts:**
+1. Hold resistance band, arms straight ahead
+2. Pull band apart, squeeze shoulder blades
+3. 15-20 reps
+
+### For Hunched Upper Back
+
+**Thoracic extension over foam roller:**
+1. Foam roller across upper back
+2. Hands behind head
+3. Extend back over roller
+4. Move roller to different segments
+5. 10 reps at each position
+
+**Cat-cow:**
+1. On hands and knees
+2. Round back up, then arch
+3. Focus on upper back movement
+4. 15 reps
+
+**Prone Y raises:**
+1. Lie face down
+2. Arms in Y position overhead
+3. Lift arms, squeeze between shoulder blades
+4. Hold 5 seconds
+5. 10 reps
+
+### For Anterior Pelvic Tilt
+
+**Hip flexor stretch:**
+1. Half-kneeling position
+2. Tuck pelvis under (flatten low back)
+3. Lean forward
+4. Hold 30 seconds each side
+
+**Glute bridges:**
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Don't arch back—use glutes
+4. 15 reps
+
+**Dead bugs:**
+1. On back, arms up, knees bent 90 degrees
+2. Lower opposite arm and leg
+3. Keep back flat on floor
+4. 10 each side
+
+### For Overall Posture
+
+**Plank:**
+Teaches core alignment and engagement
+
+**Rows:**
+Strengthen upper back
+
+**Farmer's carry:**
+Walk with weights at sides, perfect posture
+
+## Daily Habits That Matter
+
+### At Your Desk
+
+- Monitor at eye level
+- Keyboard at elbow height
+- Feet flat on floor
+- Take breaks every 30 minutes
+- Stand or walk when possible
+
+### With Your Phone
+
+- Bring phone to eye level
+- Avoid "text neck" (looking down)
+- Limit prolonged phone use
+
+### While Sleeping
+
+- Side sleeping: pillow between knees
+- Back sleeping: pillow under knees
+- Avoid stomach sleeping
+- Supportive pillow for neck
+
+### When Sitting
+
+- Sit bones under you (not behind)
+- Weight even on both sides
+- Shoulders over hips
+- Change positions frequently
+
+### Standing
+
+- Weight even on both feet
+- Soft knees (not locked)
+- Core gently engaged
+- Shoulders back and down
+
+## Building Awareness
+
+### Body Scans
+
+Throughout the day, check in:
+- Where is my head? (should be over shoulders)
+- Are my shoulders rounded? (roll back)
+- Am I slouching? (lengthen spine)
+
+### Set Reminders
+
+- Phone alerts every hour
+- Sticky notes at desk
+- Tie to existing habits
+
+### Use Mirrors
+
+- Check posture when passing mirrors
+- Gives immediate feedback
+- Helps build awareness
+
+## The Posture Routine
+
+### Morning (5 minutes)
+
+1. Chin tucks: 10 reps
+2. Cat-cow: 10 reps
+3. Wall angels: 10 reps
+4. Hip flexor stretch: 30 sec each side
+
+### Workday (Every Hour)
+
+1. Stand and move
+2. Chin tucks: 5 reps
+3. Shoulder rolls: 10 circles
+4. Quick body scan
+
+### Evening (10 minutes)
+
+1. Thoracic extension: 2 minutes
+2. Chest stretch: 30 sec each side
+3. Glute bridges: 15 reps
+4. Prone Y raises: 10 reps
+5. Plank: 30 seconds
+
+## Progress Takes Time
+
+Posture doesn't change overnight. Expect:
+
+- **Week 1-2:** Increased awareness, some muscle fatigue
+- **Week 3-4:** Easier to catch yourself slouching
+- **Month 2-3:** New positions start feeling natural
+- **Month 3-6:** Significant lasting change
+
+The habits that created poor posture took years. Undoing them takes months, but it happens.
+
+## When to Seek Help
+
+See a professional if:
+- Pain persists despite exercises
+- Numbness or tingling
+- Posture dramatically uneven
+- History of spine conditions
+
+A physical therapist can assess your specific issues and create a targeted plan.
+
+## The Bottom Line
+
+Better posture isn't about forcing yourself into a position—it's about building the strength, flexibility, and awareness to move well naturally. Focus on consistency over perfection, move frequently, and be patient. Your spine will thank you.
+`
+  },
+  'pool-exercises-joint-pain-aquatic-therapy': {
+    title: 'Pool Exercises for Joint Pain: Aquatic Therapy You Can Do Yourself',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Water Works
+
+Water is magic for painful joints. When you're submerged:
+
+- **Chest-deep:** 60-75% less weight on joints
+- **Waist-deep:** 50% less weight
+- **Neck-deep:** 90% less weight
+
+This means you can exercise with far less pain while still building strength and endurance.
+
+## Benefits of Aquatic Exercise
+
+- Reduced joint stress and pain
+- Improved strength (water provides resistance)
+- Better cardiovascular fitness
+- Increased flexibility
+- Improved balance
+- Decreased swelling (hydrostatic pressure)
+- Pain relief (warm water relaxes muscles)
+
+## Who Benefits Most
+
+- Arthritis (osteoarthritis and rheumatoid)
+- Back pain
+- Hip and knee replacements (post-surgery)
+- Fibromyalgia
+- Obesity (low-impact option)
+- Balance problems
+- Anyone with joint pain during land exercise
+
+## Getting Started
+
+### Finding a Pool
+
+- YMCA or community centers
+- Therapy pools (warmer, 92-96°F)
+- Hotel pools
+- Lap pools at gyms
+
+### Ideal Water Temperature
+
+- **Therapy pools:** 92-96°F (best for arthritis)
+- **Standard pools:** 78-84°F (fine for most exercise)
+- Warmer = more relaxing, better for pain
+- Cooler = better for vigorous exercise
+
+### Equipment (Optional)
+
+- Pool noodles
+- Foam dumbbells (water weights)
+- Kickboard
+- Aqua jogger belt (for deep water)
+
+## Pool Exercises
+
+### Warm-Up (5 minutes)
+
+**Walking forward and backward:**
+- Walk across pool, arms swinging
+- Walk backward to return
+- 2 minutes
+
+**Side stepping:**
+- Face pool wall
+- Step sideways along pool
+- 1 minute each direction
+
+**Arm circles:**
+- Arms out to sides underwater
+- Circle forward, then backward
+- 30 seconds each direction
+
+### Lower Body Exercises
+
+**Leg swings:**
+1. Hold pool edge
+2. Swing one leg forward and back
+3. 15 swings each leg
+4. Then swing side to side
+
+**Knee lifts:**
+1. Stand in chest-deep water
+2. Lift knee to hip height
+3. Lower and switch
+4. 20 reps (10 each leg)
+5. Add marching arms
+
+**Hip circles:**
+1. Stand on one leg (hold wall)
+2. Circle other leg in water
+3. 10 circles each direction, each leg
+
+**Squats:**
+1. Feet shoulder-width apart
+2. Squat down, arms forward
+3. Stand back up
+4. Water makes this gentle on knees
+5. 15 reps
+
+**Calf raises:**
+1. Hold pool edge
+2. Rise onto toes
+3. Lower heels below starting position (on a step if available)
+4. 20 reps
+
+**Leg kicks:**
+1. Hold pool edge, body horizontal
+2. Flutter kick gently
+3. 30 seconds
+4. Or use kickboard across pool
+
+### Upper Body Exercises
+
+**Arm sweeps:**
+1. Arms at sides, palms facing forward
+2. Sweep arms forward until hands meet
+3. Turn palms back, sweep arms back
+4. 15 reps
+
+**Chest press:**
+1. Arms bent at chest level
+2. Push arms forward against water
+3. Pull back
+4. 15 reps
+
+**Arm curls:**
+1. Elbows at sides
+2. Palms up, curl hands toward shoulders
+3. Palms down, press back down
+4. 15 reps
+5. Use foam dumbbells for more resistance
+
+**Shoulder raises:**
+1. Arms at sides
+2. Lift arms out to sides (underwater)
+3. Lower back down
+4. 15 reps
+
+### Core Exercises
+
+**Noodle plank:**
+1. Hold pool noodle in front of you
+2. Press noodle down, lean forward
+3. Body straight, feet on pool floor
+4. Hold 20-30 seconds
+
+**Bicycle kicks:**
+1. Back against pool wall
+2. Arms on edge for support
+3. Bicycle legs in front of you
+4. 30 seconds
+
+**Standing crunch:**
+1. Stand in water
+2. Bring one knee up while crunching torso down
+3. Alternate sides
+4. 20 reps
+
+**Trunk rotation:**
+1. Stand with arms forward
+2. Rotate torso side to side
+3. Keep hips stable
+4. 20 rotations
+
+### Deep Water Exercises (With Belt)
+
+**Water jogging:**
+- Jog in place without touching bottom
+- 2-3 minutes
+- Great cardio with zero impact
+
+**Cross-country skiing:**
+- Opposite arm and leg forward
+- Switch in flowing motion
+- 2 minutes
+
+**Treading:**
+- Keep yourself afloat
+- Vary leg movements
+- 1-2 minutes
+
+## Sample Workouts
+
+### Arthritis-Friendly (30 minutes)
+
+1. Warm-up walking: 5 min
+2. Leg swings: 15 each leg
+3. Knee lifts: 20 total
+4. Squats: 15 reps
+5. Arm sweeps: 15 reps
+6. Side stepping: 2 min
+7. Hip circles: 10 each direction
+8. Arm curls: 15 reps
+9. Walking backward: 3 min
+10. Gentle stretching: 5 min
+
+### Back Pain Relief (25 minutes)
+
+1. Walking warm-up: 5 min
+2. Pelvic tilts (standing): 15 reps
+3. Knee to chest (hold wall): 30 sec each
+4. Trunk rotation: 20 reps
+5. Bicycle kicks: 1 min
+6. Walking with exaggerated arm swing: 3 min
+7. Hip circles: 10 each
+8. Side stepping: 2 min each direction
+9. Cool-down walking: 3 min
+
+### Post-Knee Replacement (20 minutes)
+
+1. Walking forward/backward: 5 min
+2. Knee extensions (hold wall): 15 each
+3. Mini squats: 10 reps
+4. Straight leg raises: 10 each
+5. Side stepping: 2 min each way
+6. Calf raises: 15 reps
+7. Gentle range of motion: 3 min
+
+## Tips for Success
+
+### Start Slow
+
+- First session: 15-20 minutes
+- Build up gradually
+- Some muscle soreness is normal
+- Joint pain during exercise is not
+
+### Stay Hydrated
+
+- You still sweat in water
+- Drink before and after
+- Have water poolside
+
+### Mind Your Form
+
+- Use good posture (don't slouch)
+- Move through full range of motion
+- Control movements, don't just flail
+
+### Increase Intensity
+
+- Move faster (more resistance)
+- Use larger range of motion
+- Add equipment (foam dumbbells)
+- Progress to deeper water
+
+## Safety Considerations
+
+- Don't exercise alone if balance is poor
+- Use pool railings/edges for support
+- Avoid if open wounds
+- Check with doctor if heart condition
+- Be aware of slippery pool decks
+
+## Finding Classes
+
+- Aqua aerobics at gyms
+- Arthritis Foundation programs
+- Physical therapy clinics with pools
+- Hospital wellness centers
+
+Group classes provide instruction, motivation, and social connection.
+
+## The Bottom Line
+
+Water exercise lets you build strength and fitness with minimal joint stress. It's one of the best options for anyone with arthritis, back pain, or recovering from surgery. Find a pool, start gentle, and let the water do the work. Your joints will thank you.
+`
+  },
+  'warm-up-before-exercise-guide': {
+    title: 'How to Warm Up Before Exercise: The Complete Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Why Warming Up Matters
+
+Skipping the warm-up is one of the most common exercise mistakes. A proper warm-up:
+
+- Increases blood flow to muscles
+- Raises muscle temperature (muscles work better warm)
+- Improves joint mobility
+- Activates the nervous system
+- Mentally prepares you for exercise
+- Significantly reduces injury risk
+
+Research shows warming up decreases muscle strains, joint injuries, and even improves performance.
+
+## What a Warm-Up Should Do
+
+### Increase Heart Rate
+
+Get blood pumping to working muscles. This delivers oxygen and nutrients.
+
+### Raise Muscle Temperature
+
+Warm muscles contract faster and more powerfully. Cold muscles are more prone to strain.
+
+### Improve Range of Motion
+
+Dynamic movements prepare joints for exercise demands.
+
+### Activate Key Muscles
+
+Wake up the muscles you're about to use so they fire properly.
+
+## The Warm-Up Formula
+
+### General Warm-Up (3-5 minutes)
+
+Light cardio to raise heart rate and body temperature.
+
+**Options:**
+- Brisk walking
+- Light jogging
+- Jumping jacks
+- Cycling
+- Rowing
+- Marching in place
+
+**Intensity:** Easy to moderate. You should be able to hold a conversation. Light sweat is good.
+
+### Dynamic Stretching (5-7 minutes)
+
+Moving stretches that take joints through full range of motion.
+
+**Key principle:** Movement, not holding.
+
+### Movement Preparation (2-3 minutes)
+
+Activity-specific movements that rehearse what you're about to do.
+
+## Dynamic Stretches (The Full Menu)
+
+### Lower Body
+
+**Leg swings (front to back):**
+1. Hold wall or stable object
+2. Swing one leg forward and back
+3. Start small, gradually increase range
+4. 10-15 swings each leg
+
+**Leg swings (side to side):**
+1. Face wall, hands on it
+2. Swing leg across body and out
+3. 10-15 swings each leg
+
+**Walking lunges:**
+1. Step forward into lunge
+2. Push off, step into next lunge
+3. 10 total (5 each leg)
+
+**Walking knee hugs:**
+1. Pull one knee to chest while walking
+2. Alternate legs
+3. 10 total
+
+**Butt kicks:**
+1. Walk or jog while kicking heels to glutes
+2. 20 total
+
+**High knees:**
+1. March or jog, lifting knees high
+2. 20 total
+
+**Hip circles:**
+1. Stand on one leg
+2. Circle other leg from hip
+3. 10 circles each direction, each leg
+
+**Walking quad stretch:**
+1. Grab ankle behind you while walking
+2. Brief stretch, then step
+3. 10 total
+
+### Upper Body
+
+**Arm circles:**
+1. Arms out to sides
+2. Small circles, gradually larger
+3. 15 forward, 15 backward
+
+**Arm swings:**
+1. Swing arms across chest
+2. Alternate which arm is on top
+3. 15-20 swings
+
+**Shoulder rotations:**
+1. Roll shoulders forward 10 times
+2. Roll backward 10 times
+
+**Wall slides:**
+1. Back against wall
+2. Arms in goalpost position
+3. Slide up and down
+4. 10 reps
+
+**Thoracic rotation:**
+1. On hands and knees
+2. Place one hand behind head
+3. Rotate elbow toward ceiling
+4. 10 each side
+
+### Full Body
+
+**Inchworms:**
+1. Bend forward, hands to floor
+2. Walk hands out to plank
+3. Walk hands back to feet
+4. Stand up
+5. 5-8 reps
+
+**World's greatest stretch:**
+1. Step into lunge
+2. Rotate torso, reach toward ceiling
+3. Hand to floor, drive hips forward
+4. 3-5 each side
+
+**Cat-cow:**
+1. On hands and knees
+2. Round back up, then arch
+3. 10 reps
+
+## Sport-Specific Warm-Ups
+
+### For Running
+
+1. Walk 2 minutes
+2. Light jog 3 minutes
+3. Leg swings (both directions)
+4. Walking lunges
+5. High knees
+6. Butt kicks
+7. A-skips
+8. Build-up sprints (50%, 75%, 90%)
+
+### For Weightlifting
+
+1. Light cardio 5 minutes
+2. Dynamic stretches for muscles being trained
+3. Light sets of exercises you're about to do
+4. Gradually add weight (warm-up sets)
+
+Example for squats:
+- Bodyweight squats: 10
+- Empty bar: 10
+- 50% of working weight: 5
+- 75%: 3
+- 90%: 1-2
+
+### For Sports (Tennis, Basketball, etc.)
+
+1. Light jog 3-5 minutes
+2. Dynamic stretching head to toe
+3. Sport-specific movements (shuffling, cutting, jumping)
+4. Skill practice at lower intensity
+
+### For Swimming
+
+1. Light swim 200-400m
+2. Arm circles and shoulder movements
+3. Gradual intensity build
+4. Drill work
+
+## Common Mistakes
+
+### Skipping It Entirely
+
+"I'm short on time" = higher injury risk and worse performance.
+
+### Static Stretching Before Exercise
+
+Holding stretches reduces power and doesn't prevent injury. Save static stretching for after.
+
+### Too Short
+
+90 seconds of arm circles isn't enough. Commit to 10+ minutes.
+
+### Same Warm-Up for Everything
+
+Your warm-up should match your workout. Running prep differs from lifting prep.
+
+### Going Too Hard
+
+A warm-up isn't a workout. If you're exhausted before starting, you went too hard.
+
+## How Long?
+
+**Minimum:** 10 minutes
+**Ideal:** 15-20 minutes
+**Cold weather or morning:** Add 5 minutes
+
+Older adults, those with injuries, or early morning exercisers need longer warm-ups.
+
+## Signs of a Good Warm-Up
+
+- Light sweat
+- Elevated heart rate
+- Muscles feel loose
+- Joints move freely
+- You feel ready to work
+
+## The Bottom Line
+
+A proper warm-up takes 10-15 minutes but prevents injuries that can sideline you for weeks or months. It also improves your workout performance. Make it non-negotiable. Your body will perform better and thank you with fewer injuries.
+`
+  },
+  'rest-day-recovery-what-to-do': {
+    title: 'Rest Days: What to Do on Recovery Days for Better Results',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Rest Days Aren't Optional
+
+You don't get stronger during workouts—you get stronger recovering from them. Exercise creates stress and micro-damage. Rest allows repair and adaptation.
+
+Without adequate rest:
+- Performance plateaus or declines
+- Injury risk increases
+- Mood and motivation suffer
+- Immune function weakens
+- Results stall
+
+Rest is where the magic happens.
+
+## How Many Rest Days?
+
+**General guideline:** 1-3 rest days per week, depending on:
+
+- Workout intensity and volume
+- Training experience (beginners need more rest)
+- Age (recovery slows with age)
+- Sleep quality
+- Life stress
+- Goals
+
+**Signs you need more rest:**
+- Persistent fatigue
+- Declining performance
+- Difficulty sleeping
+- Irritability
+- Getting sick often
+- Nagging injuries
+- Dreading workouts
+
+## Active Recovery vs. Complete Rest
+
+### Complete Rest
+
+Doing nothing physically demanding. Best when:
+- You're very sore
+- Coming back from injury
+- Feeling exhausted or sick
+- Having a mentally demanding week
+
+### Active Recovery
+
+Light movement that promotes recovery without creating new stress. Benefits:
+- Increases blood flow (delivers nutrients)
+- Reduces muscle stiffness
+- Maintains movement habit
+- Improves mood
+
+This is usually the better choice for most rest days.
+
+## Active Recovery Options
+
+### Light Cardio (20-30 minutes)
+
+- Walking (the gold standard)
+- Easy cycling
+- Swimming
+- Light elliptical
+- Leisurely hiking
+
+**Intensity:** Very easy. You should be able to chat comfortably. Heart rate stays low.
+
+### Mobility Work (15-20 minutes)
+
+- Dynamic stretching
+- Foam rolling
+- Joint circles
+- Yoga flows (gentle)
+
+Focus on moving joints through full range without strain.
+
+### Stretching (15-30 minutes)
+
+- Hold stretches 30-60 seconds
+- Focus on tight areas
+- Breathe and relax into positions
+- Great for flexibility improvement
+
+### Yoga
+
+- Gentle or restorative styles
+- Not power yoga or hot yoga
+- Focus on breathing and relaxation
+- Yin yoga is excellent for recovery
+
+### Swimming or Pool Walking
+
+- Zero impact
+- Compression from water helps
+- Relaxing and low stress
+
+## Recovery Strategies That Help
+
+### Sleep
+
+The most important recovery tool. During sleep:
+- Growth hormone releases
+- Tissues repair
+- Memory consolidates
+
+**Aim for:** 7-9 hours
+**Tip:** Keep consistent sleep/wake times
+
+### Nutrition
+
+Recovery requires building blocks.
+
+**Priorities:**
+- Protein: Supports muscle repair (0.7-1g per pound bodyweight daily)
+- Carbs: Replenish glycogen stores
+- Healthy fats: Support inflammation control
+- Fruits/vegetables: Antioxidants and micronutrients
+- Hydration: Water for all cellular processes
+
+### Hydration
+
+Dehydration slows recovery and increases soreness. Drink:
+- At least half your bodyweight in ounces
+- More if you sweat heavily
+- Spread throughout the day
+
+### Stress Management
+
+Physical training is a stressor. If life stress is high, your body has less recovery capacity.
+
+**Help yourself recover:**
+- Meditation or deep breathing
+- Time in nature
+- Social connection
+- Hobbies you enjoy
+- Limiting screen time
+
+## What About Sore Muscles?
+
+Soreness (DOMS) doesn't mean you need complete rest.
+
+**What helps:**
+- Light movement (walk, swim)
+- Foam rolling (gently)
+- Heat (bath, sauna)
+- Massage
+- Time
+
+**What doesn't help:**
+- Sitting still all day
+- Heavy training on sore muscles
+- Ignoring severe pain (different from soreness)
+
+## Sample Rest Day Schedules
+
+### Active Recovery Day
+
+**Morning:**
+- 20-minute walk
+- 10-minute stretching routine
+
+**Evening:**
+- Foam rolling while watching TV
+- Early bedtime
+
+### Complete Rest Day
+
+- Sleep in
+- Light walking as needed
+- Focus on nutrition and hydration
+- Mental recharge activities
+- Extra sleep
+
+### Recovery-Focused Day
+
+**Morning:**
+- 30-minute gentle yoga
+
+**Midday:**
+- 20-minute walk
+
+**Evening:**
+- Epsom salt bath
+- Stretching
+- Foam rolling
+- Early bed
+
+## Scheduling Rest Days
+
+### Fixed vs. Flexible
+
+**Fixed:** Same days each week (e.g., Wednesday and Sunday)
+- Pro: Predictable, easy to plan
+- Con: May not match when you actually need rest
+
+**Flexible:** Based on how you feel
+- Pro: Rest when you need it
+- Con: Easy to skip or take too many
+
+**Best approach:** Plan rest days but adjust based on body signals.
+
+### After Hard Days
+
+Rest or easy days after:
+- Heavy lifting sessions
+- Long runs or rides
+- Intense competitions
+- New or unusual activities
+
+### Deload Weeks
+
+Every 4-8 weeks, take an easier week:
+- Reduce volume (fewer sets)
+- Reduce intensity (lighter weights)
+- More rest days
+
+This prevents accumulated fatigue and allows full recovery.
+
+## Common Rest Day Mistakes
+
+### Doing Nothing Movement
+
+Unless injured or sick, some light activity beats total inactivity.
+
+### Going Too Hard
+
+"Active recovery" should feel easy. If you're sweating hard, it's not recovery.
+
+### Feeling Guilty
+
+Rest is part of training, not avoiding training. It's productive.
+
+### Inconsistent Recovery Practices
+
+Recovery works best as a consistent practice, not occasional.
+
+### Ignoring Warning Signs
+
+If you need more rest, take it. Don't push through warning signs into injury.
+
+## The Bottom Line
+
+Rest days are when you actually adapt and get stronger. Treat them as seriously as workout days. Use active recovery to promote blood flow without creating new stress. Prioritize sleep, nutrition, and stress management. Listen to your body and take more rest when you need it.
+
+The fittest people know when to train hard and when to recover hard. Both matter equally.
+`
+  },
   'balance-exercises-seniors-fall-prevention': {
     title: 'Balance Exercises for Seniors: Prevent Falls and Stay Independent',
     date: '2026-03-07',

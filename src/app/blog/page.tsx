@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'how-to-improve-posture-exercises-habits',
+    title: 'How to Improve Posture: Exercises and Daily Habits That Actually Work',
+    excerpt: 'Poor posture causes pain and affects how you look and feel. Here\'s how to actually fix it with targeted exercises and habit changes.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'pool-exercises-joint-pain-aquatic-therapy',
+    title: 'Pool Exercises for Joint Pain: Aquatic Therapy You Can Do Yourself',
+    excerpt: 'Water reduces joint stress by 90%. Here are the best pool exercises for arthritis, back pain, and injury recovery.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'warm-up-before-exercise-guide',
+    title: 'How to Warm Up Before Exercise: The Complete Guide',
+    excerpt: 'Skipping warm-up increases injury risk and hurts performance. Here\'s exactly what to do before any workout.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'rest-day-recovery-what-to-do',
+    title: 'Rest Days: What to Do on Recovery Days for Better Results',
+    excerpt: 'Rest days aren\'t about doing nothing. Here\'s how to optimize recovery and come back stronger.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
     slug: 'balance-exercises-seniors-fall-prevention',
     title: 'Balance Exercises for Seniors: Prevent Falls and Stay Independent',
     excerpt: 'Falls are the leading cause of injury for older adults. These balance exercises can reduce your risk and keep you moving confidently.',
