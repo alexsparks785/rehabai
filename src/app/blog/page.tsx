@@ -2525,6 +2525,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read'
+  },
+  {
+    slug: 'rotator-cuff-surgery-recovery-exercises',
+    title: 'Rotator Cuff Surgery Recovery: Week-by-Week Exercise Guide',
+    excerpt: 'A complete guide to recovering from rotator cuff repair with exercises for each phase of rehabilitation.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'postpartum-exercise-guide',
+    title: 'Postpartum Exercise: How to Safely Return to Fitness After Baby',
+    excerpt: 'Your body changed during pregnancy. Here\'s how to rebuild strength and fitness safely after giving birth.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-blood-sugar-control',
+    title: 'Exercise for Blood Sugar Control: A Guide for Diabetes and Prediabetes',
+    excerpt: 'Exercise is powerful medicine for blood sugar. Learn the best types, timing, and safety considerations.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'resistance-band-exercises-full-body',
+    title: 'Resistance Band Exercises: Complete Full-Body Workout Guide',
+    excerpt: 'Bands are versatile, portable, and effective. Here\'s how to use them for a complete strength program.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
   }
 ];
 

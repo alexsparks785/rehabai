@@ -63205,6 +63205,1061 @@ Your hands do so much—give them the care they need.
 
 *Foundational Rehab provides hand and upper extremity programs for maintaining function and reducing pain.*
     \`
+  },
+  'rotator-cuff-surgery-recovery-exercises': {
+    title: 'Rotator Cuff Surgery Recovery: Week-by-Week Exercise Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: \`
+## Understanding Rotator Cuff Repair
+
+Rotator cuff surgery repairs torn tendons in your shoulder. Recovery is long—typically 4-6 months for basic function, up to a year for full recovery.
+
+**Key points:**
+- The repair needs time to heal before stressing it
+- Early motion prevents stiffness
+- Strengthening comes later
+- Patience is essential
+
+**Protocols vary** based on tear size, repair quality, and surgeon preference. Always follow your surgeon's specific instructions.
+
+## The Recovery Timeline
+
+### Phase 1: Protection (Weeks 0-6)
+- Sling use (typically 4-6 weeks)
+- Passive motion only
+- No active shoulder movement
+- Focus: protect the repair
+
+### Phase 2: Early Motion (Weeks 6-12)
+- Sling discontinued
+- Active-assisted motion begins
+- Gentle active motion starts
+- Focus: restore range of motion
+
+### Phase 3: Strengthening (Weeks 12-20)
+- Progressive strengthening
+- Rotator cuff exercises begin
+- Focus: build strength
+
+### Phase 4: Advanced Strengthening (Weeks 20+)
+- Heavier resistance
+- Sport/activity-specific training
+- Focus: return to full function
+
+## Phase 1: Protection (Weeks 0-6)
+
+### Goals
+- Protect the repair
+- Prevent stiffness
+- Control pain and swelling
+- Maintain hand/wrist/elbow motion
+
+### Exercises
+
+**Pendulum Exercises (Codman's)**
+1. Lean forward, supporting yourself with good arm
+2. Let affected arm hang relaxed
+3. Gently swing arm in small circles
+4. Clockwise and counterclockwise
+5. Forward/back, side to side
+6. 2-3 minutes, 3-4 times daily
+
+**Elbow Flexion/Extension**
+1. Out of sling
+2. Bend and straighten elbow
+3. 10-15 repetitions, several times daily
+
+**Wrist and Hand Exercises**
+1. Make a fist, open hand
+2. Wrist circles
+3. Finger movements
+4. Prevents stiffness, promotes circulation
+
+**Passive External Rotation** (with therapist or per protocol)
+1. Lie on back
+2. Elbow at side, bent 90°
+3. Use stick or other arm to rotate forearm outward
+4. Only as directed by your surgeon/PT
+
+**Passive Forward Flexion** (supine)
+1. Lie on back
+2. Use other arm or stick to lift affected arm overhead
+3. Only to range allowed by surgeon
+4. No active lifting
+
+### Precautions
+- No active shoulder movement
+- No lifting
+- Keep sling on except for exercises and bathing
+- Sleep in sling or reclined position
+- No driving (usually)
+
+## Phase 2: Early Motion (Weeks 6-12)
+
+### Goals
+- Discontinue sling
+- Achieve full passive range of motion
+- Begin active-assisted motion
+- Start gentle active motion
+
+### Exercises
+
+**Active-Assisted Flexion**
+1. Use pulley system or other arm to help
+2. Raise arm overhead with assistance
+3. Progress to less assistance over time
+4. 10-15 repetitions, 2-3 times daily
+
+**Active-Assisted External Rotation**
+1. Hold stick with both hands
+2. Push affected arm outward using good arm
+3. 10-15 repetitions
+
+**Wall Walks (Flexion)**
+1. Face wall
+2. Walk fingers up wall, raising arm
+3. Use fingers to assist, not just shoulder muscles
+4. Progress higher over time
+
+**Wall Walks (Abduction)**
+1. Stand sideways to wall
+2. Walk fingers up wall to side
+3. Progress range over time
+
+**Supine Active Flexion**
+1. Lie on back
+2. Raise arm toward ceiling (gravity eliminated)
+3. Progress range over time
+
+**Isometrics** (if approved)
+Gentle muscle activation without movement:
+1. External rotation against wall
+2. Internal rotation against wall
+3. Hold 5-10 seconds, low intensity
+
+## Phase 3: Strengthening (Weeks 12-20)
+
+### Goals
+- Full active range of motion
+- Begin rotator cuff strengthening
+- Progress to resistance exercises
+
+### Exercises
+
+**Active Range of Motion**
+All directions without assistance:
+- Flexion (arm forward/overhead)
+- Abduction (arm to side)
+- External rotation
+- Internal rotation
+
+**Rotator Cuff Strengthening**
+
+**External Rotation with Band**
+1. Elbow at side, bent 90°
+2. Hold band
+3. Rotate forearm outward against resistance
+4. 15 repetitions, 2-3 sets
+
+**Internal Rotation with Band**
+1. Elbow at side, bent 90°
+2. Hold band anchored to side
+3. Rotate forearm inward against resistance
+4. 15 repetitions, 2-3 sets
+
+**Side-Lying External Rotation**
+1. Lie on uninvolved side
+2. Affected arm on top, elbow bent
+3. Hold light weight
+4. Rotate forearm toward ceiling
+5. 15 repetitions, 2-3 sets
+
+**Prone Y-T-W**
+1. Lie face down on bench or bed
+2. Y: Raise arms at 45° angle, thumbs up
+3. T: Raise arms straight to sides
+4. W: Elbows bent, squeeze shoulder blades
+5. 10 repetitions each position
+
+**Rows**
+1. Band or cable
+2. Pull elbows back
+3. Squeeze shoulder blades
+4. 15 repetitions, 2-3 sets
+
+**Scapular Exercises**
+- Scapular squeezes
+- Shrugs
+- Serratus punches
+
+## Phase 4: Advanced Strengthening (Weeks 20+)
+
+### Goals
+- Build strength toward pre-injury level
+- Sport/activity-specific training
+- Return to full function
+
+### Exercises
+
+**Progress resistance** on all previous exercises
+
+**Shoulder Press** (when cleared)
+1. Light weight initially
+2. Press overhead
+3. Progress weight gradually
+
+**Lat Pulldowns**
+1. Light weight
+2. Progress range and weight
+
+**Push-Ups** (progression)
+1. Wall push-ups
+2. Incline push-ups
+3. Knee push-ups
+4. Full push-ups (much later)
+
+**Sport-Specific Training**
+- Throwing progression (if applicable)
+- Swimming progression
+- Overhead sport preparation
+
+## Common Mistakes to Avoid
+
+1. **Progressing too fast** — The repair can re-tear
+2. **Skipping exercises** — Stiffness is hard to reverse
+3. **Using arm to push up from chair/bed** — Stresses repair
+4. **Sleeping on surgical side** — Wait until cleared
+5. **Lifting too early** — Follow weight restrictions strictly
+6. **Ignoring pain** — Some discomfort is normal; sharp pain is not
+
+## What to Expect
+
+### Pain
+- Significant initially, improves over weeks
+- Managed with medication initially
+- Night pain common early on
+
+### Stiffness
+- Expected, especially in morning
+- Improves with exercises
+- Some patients prone to frozen shoulder
+
+### Timeline to Activities
+- Driving: 6-8 weeks (when off narcotics, sling discontinued)
+- Desk work: 1-2 weeks (with sling)
+- Light lifting (<5 lbs): 12 weeks
+- Full lifting: 6 months
+- Return to sport: 6-12 months
+
+## When to Call Your Surgeon
+
+- Fever
+- Increasing redness, warmth, or drainage
+- Severe pain not controlled by medication
+- Numbness or tingling in hand
+- Any concerns about your recovery
+
+## The Bottom Line
+
+Rotator cuff recovery requires patience:
+
+1. Protect the repair early (Phase 1)
+2. Restore motion before strength (Phase 2)
+3. Strengthen progressively (Phases 3-4)
+4. Follow your surgeon's specific protocol
+5. Work with a physical therapist
+6. Don't rush—re-tears happen when you do too much too soon
+
+Full recovery takes time, but most people return to their activities.
+
+---
+
+*Foundational Rehab provides shoulder rehabilitation programs aligned with post-surgical protocols.*
+    \`
+  },
+  'postpartum-exercise-guide': {
+    title: 'Postpartum Exercise: How to Safely Return to Fitness After Baby',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Your Body After Pregnancy
+
+Pregnancy changes your body significantly:
+
+- Abdominal muscles stretched (possible diastasis recti)
+- Pelvic floor weakened
+- Joints more lax (relaxin hormone)
+- Posture shifted
+- Core stability reduced
+- Cardiovascular fitness decreased
+
+Returning to exercise requires rebuilding from the inside out.
+
+## When Can You Start?
+
+### Vaginal Delivery
+- Gentle walking: Usually within days
+- Core reconnection: Often by 2 weeks
+- Structured exercise: Typically 4-6 weeks (after provider clearance)
+
+### Cesarean Section
+- Walking: When comfortable (days to weeks)
+- Core work: After incision heals (typically 6-8 weeks)
+- Full exercise: 8-12 weeks (after provider clearance)
+
+**Always get clearance** at your postpartum checkup before progressing beyond gentle walking.
+
+## Start with the Foundation
+
+Before returning to regular exercise, rebuild your foundation:
+
+### 1. Diaphragmatic Breathing
+
+1. Lie on back, knees bent
+2. Place hand on belly
+3. Inhale—belly rises
+4. Exhale—belly falls
+5. 5-10 minutes daily
+
+This reconnects your breath, diaphragm, and core.
+
+### 2. Pelvic Floor Activation
+
+1. Gently contract pelvic floor (like stopping urine)
+2. Don't squeeze buttocks or hold breath
+3. Hold 3-5 seconds
+4. Fully relax
+5. 10 repetitions, 3x daily
+
+### 3. Transverse Abdominis Activation
+
+1. Lie on back, knees bent
+2. Exhale and gently draw lower belly toward spine
+3. Don't flatten back or hold breath
+4. Hold 5-10 seconds
+5. 10 repetitions
+
+### 4. Check for Diastasis Recti
+
+1. Lie on back, knees bent
+2. Lift head slightly
+3. Feel above and below belly button for gap
+4. More than 2 finger-widths with poor tension = diastasis
+
+If significant diastasis, see our article on diastasis recti exercises.
+
+## Week-by-Week Progression
+
+### Weeks 1-2 (After Clearance)
+
+**Daily:**
+- Short walks (10-15 minutes)
+- Diaphragmatic breathing
+- Pelvic floor exercises
+- Gentle stretching
+
+### Weeks 3-4
+
+**Add:**
+- Longer walks (20-30 minutes)
+- Heel slides
+- Supine marching
+- Glute bridges (if no doming)
+
+### Weeks 5-6
+
+**Add:**
+- Bird dogs
+- Side-lying exercises
+- Standing hip exercises
+- Light upper body (avoid heavy lifting)
+
+### Weeks 7-8+
+
+**Progress to:**
+- More challenging core (if no diastasis/doming)
+- Squats and lunges
+- Light resistance training
+- Low-impact cardio
+
+## Core Exercises (Postpartum-Safe)
+
+### Heal First, Strengthen Second
+
+**Avoid initially:**
+- Crunches and sit-ups
+- Planks (until core reconnected)
+- Leg raises
+- Any exercise causing doming
+
+**Start with:**
+
+**Supine Marching**
+1. Lie on back, knees bent
+2. Exhale, engage core
+3. Lift one foot slightly
+4. Lower, repeat other side
+5. 10 each side
+
+**Heel Slides**
+1. Lie on back, knees bent
+2. Exhale, engage core
+3. Slide one heel out, maintaining core connection
+4. Slide back
+5. 10 each side
+
+**Glute Bridges**
+1. Lie on back, knees bent
+2. Exhale, engage core
+3. Lift hips
+4. Hold 3-5 seconds
+5. Lower slowly
+6. 10-15 repetitions
+
+**Bird Dog**
+1. On hands and knees
+2. Exhale, engage core
+3. Extend opposite arm and leg
+4. Hold 3 seconds
+5. 10 each side
+
+## Pelvic Floor Considerations
+
+Pelvic floor problems are common postpartum:
+
+**Signs of pelvic floor dysfunction:**
+- Leaking urine with coughing, sneezing, jumping
+- Urgency
+- Heaviness or bulging sensation
+- Pain with intercourse
+
+**If these occur:**
+- See a pelvic floor physical therapist
+- Avoid high-impact activities
+- Strengthen before stressing
+
+**Exercises to avoid until cleared:**
+- Running
+- Jumping
+- Heavy lifting
+- High-impact aerobics
+
+## Cardiovascular Exercise
+
+### Early Postpartum
+- Walking is excellent
+- Start with 10-15 minutes
+- Gradually increase duration
+
+### Once Cleared (6+ Weeks)
+- Swimming (once bleeding stops and any incisions heal)
+- Cycling
+- Elliptical
+- Low-impact aerobics
+
+### Higher Impact (When Ready)
+- Running (only when pelvic floor is ready)
+- Start with walk/jog intervals
+- Stop if leaking occurs
+- May take 3-6+ months
+
+## Strength Training
+
+### Guidelines
+- Start with bodyweight
+- Progress to light weights
+- Avoid breath-holding
+- Exhale during exertion
+- Watch for doming
+
+### Safe Exercises
+- Squats (bodyweight → weighted)
+- Lunges
+- Rows
+- Shoulder press (light)
+- Modified planks (when ready)
+
+### Exercises to Modify/Avoid Initially
+- Heavy deadlifts
+- Full planks
+- Overhead pressing (heavy)
+- Any exercise causing symptoms
+
+## Breastfeeding Considerations
+
+- Wear supportive bra
+- Feed or pump before exercise (comfort)
+- Stay hydrated
+- Moderate exercise doesn't affect milk supply
+- Intense exercise may temporarily affect taste (lactic acid)
+
+## C-Section Specific
+
+- Wait longer before core/abdominal work
+- Incision must be fully healed
+- Avoid direct pressure on incision
+- Progress very gradually
+- Scar massage may help (once healed)
+
+## Common Mistakes
+
+1. **Rushing back too fast** — Risks injury and pelvic floor problems
+2. **Skipping foundation work** — Core and pelvic floor first
+3. **Comparing to pre-pregnancy** — Your body is different now
+4. **Ignoring symptoms** — Leaking isn't normal, even after pregnancy
+5. **Doing crunches too early** — Can worsen diastasis
+
+## When to Seek Help
+
+See a pelvic floor PT or provider if:
+- Urinary or fecal incontinence
+- Pelvic pain
+- Heaviness or bulging sensation
+- Diastasis not improving
+- Pain with exercise
+- General concerns about returning to exercise
+
+## The Bottom Line
+
+Postpartum exercise is about rebuilding:
+
+1. Start with breath and pelvic floor
+2. Rebuild core from deep layers outward
+3. Progress gradually over months
+4. Listen to your body
+5. Get professional help if needed
+6. Be patient—you grew a human!
+
+Your fitness will return. Give your body the time and care it needs.
+
+---
+
+*Foundational Rehab provides postpartum-specific programs to help you rebuild safely.*
+    \`
+  },
+  'exercise-for-blood-sugar-control': {
+    title: 'Exercise for Blood Sugar Control: A Guide for Diabetes and Prediabetes',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Exercise as Medicine for Blood Sugar
+
+Exercise is one of the most powerful tools for blood sugar control:
+
+- Muscles use glucose for fuel, lowering blood sugar
+- Improves insulin sensitivity (cells respond better to insulin)
+- Effects last 24-72 hours after exercise
+- Can reduce A1C by 0.5-0.7% (comparable to some medications)
+- Helps with weight management
+- Reduces cardiovascular risk
+
+**Both Type 2 diabetes and prediabetes** respond significantly to exercise.
+
+## How Exercise Affects Blood Sugar
+
+### During Exercise
+- Muscles take up glucose without needing insulin
+- Blood sugar typically drops
+- May drop significantly with longer/harder exercise
+
+### After Exercise
+- Insulin sensitivity improves for 24-72 hours
+- Muscles replenish glycogen stores
+- Blood sugar may continue to drop
+- Effect is cumulative with regular exercise
+
+### Long-Term
+- Improved insulin sensitivity
+- Better glucose regulation
+- Possible medication reduction
+- Reduced complications risk
+
+## Best Types of Exercise
+
+### Aerobic Exercise
+
+Most studied for blood sugar benefits:
+
+**Walking**
+- Accessible and effective
+- 30 minutes daily has significant effects
+- After-meal walks particularly helpful
+
+**Cycling**
+- Low impact
+- Can be done indoors
+- Easy to control intensity
+
+**Swimming**
+- Full body
+- Easy on joints
+- Excellent option for those with complications
+
+**Recommended:** 150 minutes/week of moderate aerobic activity
+
+### Resistance Training
+
+Also lowers blood sugar and improves insulin sensitivity:
+
+- Builds muscle mass (muscle uses more glucose)
+- Improves metabolism
+- Benefits independent of aerobic exercise
+
+**Recommended:** 2-3 sessions per week targeting all major muscle groups
+
+### Combination Is Best
+
+Research shows combining aerobic and resistance training produces greater A1C reductions than either alone.
+
+## Timing Your Exercise
+
+### After Meals
+Walking after meals (15-30 minutes) blunts blood sugar spikes:
+- Muscles use glucose from the meal
+- Particularly effective after dinner
+- Even short walks help
+
+### Morning vs. Evening
+Both work. Some considerations:
+- Morning exercise may raise blood sugar initially (dawn phenomenon)
+- Evening exercise may help with overnight blood sugar
+- Consistency matters more than timing
+
+### Before Insulin or Medications
+Discuss timing with your healthcare provider, especially if:
+- You take insulin
+- You take medications that can cause low blood sugar
+- You exercise for extended periods
+
+## Blood Sugar Monitoring
+
+### Before Exercise
+- Check blood sugar
+- If below 100 mg/dL: Have a snack
+- If above 250 mg/dL with ketones: Don't exercise (Type 1)
+- If above 300 mg/dL: Exercise with caution (Type 2)
+
+### During Exercise
+- Monitor for symptoms of low blood sugar
+- For long workouts (>60 min): Check periodically
+
+### After Exercise
+- Blood sugar may drop for hours after
+- Monitor, especially initially
+- May need to adjust food or medication
+
+### Signs of Low Blood Sugar (Hypoglycemia)
+- Shakiness
+- Sweating
+- Confusion
+- Dizziness
+- Rapid heartbeat
+- Hunger
+
+**If symptoms occur:** Stop, check blood sugar, treat with fast-acting carbs (glucose tabs, juice).
+
+## Exercise Safety
+
+### Precautions
+- Carry glucose tablets or fast-acting carbs
+- Wear medical ID
+- Stay hydrated
+- Check feet before and after exercise
+- Wear proper footwear
+- Avoid exercise if blood sugar is very high or low
+
+### If You Have Complications
+
+**Neuropathy:**
+- Check feet daily
+- Wear proper shoes
+- May need to avoid high-impact activities
+- Balance exercises important (fall prevention)
+
+**Retinopathy:**
+- Avoid very high-intensity exercise
+- Avoid activities with jarring or straining
+- Get clearance from eye doctor
+
+**Nephropathy:**
+- Exercise is still beneficial
+- May need modifications based on severity
+- Discuss with your healthcare team
+
+**Cardiovascular Disease:**
+- Get clearance before starting
+- May need supervised exercise initially
+- Monitor intensity
+
+## Starting an Exercise Program
+
+### If You're Currently Inactive
+
+**Week 1-2:**
+- 10-minute walks after meals
+- Daily if possible
+
+**Week 3-4:**
+- Increase to 15-20 minutes
+- Add second daily walk if able
+
+**Week 5-6:**
+- 20-30 minutes daily
+- Add light resistance training (bodyweight exercises)
+
+**Ongoing:**
+- Progress to 150+ minutes aerobic weekly
+- 2-3 resistance sessions weekly
+
+### Sample Weekly Program
+
+**Daily:**
+- Post-meal walks (10-30 minutes)
+
+**3x/Week:**
+- Longer aerobic session (30-45 minutes)
+- Walking, cycling, swimming, or elliptical
+
+**2x/Week:**
+- Resistance training (20-30 minutes)
+- Major muscle groups
+
+## Exercise Snacks
+
+Short bouts of activity ("exercise snacks") also help:
+
+- 2-3 minutes of walking every 30 minutes
+- Stair climbing breaks
+- Standing and moving during TV commercials
+- Short resistance exercises throughout day
+
+Research shows breaking up sitting is beneficial for blood sugar.
+
+## Working with Your Healthcare Team
+
+**Discuss:**
+- Any limitations or precautions
+- Medication adjustments (may be needed as fitness improves)
+- Blood sugar targets during exercise
+- Signs to stop exercise
+
+**As you progress:**
+- A1C may improve
+- Medications may be reduced
+- Continue monitoring
+
+## The Bottom Line
+
+Exercise is powerful medicine for blood sugar:
+
+1. Both aerobic and resistance training help
+2. After-meal walks are particularly effective
+3. Monitor blood sugar, especially when starting
+4. Carry fast-acting carbs for lows
+5. Combine exercise with diet and medication as prescribed
+6. Work with your healthcare team
+
+Consistent exercise can significantly improve your blood sugar control and reduce your risk of complications.
+
+---
+
+*Foundational Rehab provides exercise programs suitable for diabetes management.*
+    \`
+  },
+  'resistance-band-exercises-full-body': {
+    title: 'Resistance Band Exercises: Complete Full-Body Workout Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Why Resistance Bands?
+
+Resistance bands offer unique advantages:
+
+- **Portable:** Take anywhere
+- **Affordable:** Much cheaper than weights
+- **Versatile:** Hundreds of exercises possible
+- **Joint-friendly:** Variable resistance throughout range
+- **Progressive:** Different band tensions available
+- **Effective:** Research-proven for building strength
+
+Whether you're traveling, rehabbing, or building a home gym, bands deliver.
+
+## Types of Bands
+
+### Loop Bands (Mini Bands)
+- Flat continuous loop
+- Great for lower body, glutes
+- Often used for warm-ups
+
+### Therapy Bands (Flat Bands)
+- Flat strips without handles
+- Cut to desired length
+- Most versatile; can wrap, tie, hold various ways
+- Color-coded by resistance
+
+### Tube Bands with Handles
+- Tubes with handles attached
+- Easy grip for upper body exercises
+- Often sold in sets
+
+### Pull-Up Assist Bands
+- Large, heavy-duty loops
+- Used for pull-up assistance
+- Also great for heavy resistance exercises
+
+## Upper Body Exercises
+
+### Chest
+
+**Band Push-Up**
+1. Loop band across upper back, hold ends under hands
+2. Perform push-up
+3. Band adds resistance at top
+4. 10-15 repetitions
+
+**Standing Chest Press**
+1. Anchor band behind you
+2. Press arms forward
+3. Control return
+4. 12-15 repetitions
+
+**Band Fly**
+1. Anchor band behind, arms out to sides
+2. Bring arms together in front
+3. Control return
+4. 12-15 repetitions
+
+### Back
+
+**Seated Row**
+1. Sit with legs extended
+2. Loop band around feet
+3. Pull handles to ribs
+4. Squeeze shoulder blades
+5. 12-15 repetitions
+
+**Lat Pulldown (Anchored)**
+1. Anchor band overhead
+2. Pull down to shoulders
+3. Control return
+4. 12-15 repetitions
+
+**Face Pull**
+1. Anchor band at face height
+2. Pull toward face, elbows high
+3. Squeeze shoulder blades
+4. 15 repetitions
+
+### Shoulders
+
+**Shoulder Press**
+1. Stand on band
+2. Press handles overhead
+3. Lower with control
+4. 10-12 repetitions
+
+**Lateral Raise**
+1. Stand on band
+2. Raise arms to sides (shoulder height)
+3. Lower slowly
+4. 12-15 repetitions
+
+**Front Raise**
+1. Stand on band
+2. Raise arms in front
+3. Lower slowly
+4. 12-15 repetitions
+
+**External Rotation**
+1. Elbow at side, bent 90°
+2. Rotate forearm outward against band
+3. 15 repetitions each arm
+
+### Arms
+
+**Bicep Curl**
+1. Stand on band
+2. Curl handles toward shoulders
+3. Lower with control
+4. 12-15 repetitions
+
+**Tricep Pushdown**
+1. Anchor band overhead
+2. Press down, straightening elbows
+3. 12-15 repetitions
+
+**Overhead Tricep Extension**
+1. Hold band behind back
+2. Top hand presses up, straightening elbow
+3. 12 repetitions each arm
+
+## Lower Body Exercises
+
+### Quadriceps
+
+**Banded Squat**
+1. Loop band just above knees
+2. Push knees out against band during squat
+3. 15 repetitions
+
+**Leg Extension**
+1. Loop band around ankle and chair leg
+2. Extend knee against resistance
+3. 15 repetitions each leg
+
+### Hamstrings
+
+**Leg Curl (Prone)**
+1. Anchor band low, loop around ankle
+2. Lie face down
+3. Curl heel toward buttock
+4. 15 repetitions each leg
+
+**Romanian Deadlift**
+1. Stand on band
+2. Hold handles, hinge at hips
+3. Keep back straight
+4. 12 repetitions
+
+### Glutes
+
+**Banded Glute Bridge**
+1. Loop band above knees
+2. Lie on back, knees bent
+3. Push knees out, lift hips
+4. 15 repetitions
+
+**Clamshell**
+1. Loop band above knees
+2. Lie on side, knees bent
+3. Open top knee against band
+4. 20 repetitions each side
+
+**Standing Hip Abduction**
+1. Loop band around ankles
+2. Stand on one leg (hold support)
+3. Lift other leg to side
+4. 15 repetitions each side
+
+**Monster Walks**
+1. Loop band above knees (and optionally ankles)
+2. Quarter squat position
+3. Walk sideways maintaining tension
+4. 10 steps each direction
+
+### Calves
+
+**Standing Calf Raise**
+1. Stand on band, handles at shoulders
+2. Rise onto toes
+3. Lower slowly
+4. 15-20 repetitions
+
+## Core Exercises
+
+**Pallof Press**
+1. Anchor band to side
+2. Hold at chest, facing perpendicular to anchor
+3. Press arms straight, resist rotation
+4. Hold 5 seconds, 10 repetitions each side
+
+**Band-Resisted Dead Bug**
+1. Anchor band, hold with arm extended
+2. Perform dead bug while resisting band pull
+3. 10 repetitions each side
+
+**Woodchop**
+1. Anchor band high
+2. Pull diagonally across body
+3. Rotate through trunk
+4. 12 repetitions each side
+
+**Reverse Woodchop**
+1. Anchor band low
+2. Pull diagonally upward across body
+3. 12 repetitions each side
+
+## Sample Full-Body Routine
+
+### Workout A (Upper Focus)
+
+1. Seated Row — 3x12
+2. Standing Chest Press — 3x12
+3. Shoulder Press — 3x10
+4. Face Pull — 3x15
+5. Bicep Curl — 2x15
+6. Tricep Pushdown — 2x15
+7. Pallof Press — 2x10 each side
+
+### Workout B (Lower Focus)
+
+1. Banded Squat — 3x15
+2. Romanian Deadlift — 3x12
+3. Clamshell — 3x20 each side
+4. Monster Walks — 3x10 steps each direction
+5. Leg Curl — 3x15 each leg
+6. Glute Bridge — 3x15
+7. Standing Calf Raise — 2x20
+
+### Weekly Schedule
+
+**Option 1 (3 days):**
+- Monday: Workout A
+- Wednesday: Workout B
+- Friday: Full body (mix of both)
+
+**Option 2 (4 days):**
+- Monday: Upper (Workout A)
+- Tuesday: Lower (Workout B)
+- Thursday: Upper
+- Friday: Lower
+
+## Progressing with Bands
+
+### Increase Resistance
+- Use heavier band
+- Use multiple bands together
+- Shorten the band (choke up)
+
+### Increase Difficulty
+- Add repetitions
+- Slow down the movement
+- Add pauses at challenging points
+- Progress to single-leg/arm variations
+
+## Tips for Effectiveness
+
+1. **Control both directions** — Don't let band snap back
+2. **Maintain tension** — Don't let band go slack
+3. **Full range of motion** — Use complete movement
+4. **Mind-muscle connection** — Focus on target muscles
+5. **Check band condition** — Replace worn bands (can snap)
+
+## The Bottom Line
+
+Resistance bands are a complete training system:
+
+1. Work every muscle group
+2. Progress by changing bands or techniques
+3. Perfect for travel, home, or gym
+4. Joint-friendly option
+5. Combine with other training methods
+
+Don't underestimate bands—they can build real strength.
+
+---
+
+*Foundational Rehab incorporates resistance band exercises into many of our strengthening programs.*
+    \`
   }
 };
 
