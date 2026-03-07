@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hamstring-stretches-flexibility',
+    title: 'Hamstring Stretches: Relieve Tightness and Improve Flexibility',
+    excerpt: 'Tight hamstrings affect your back, hips, and knees. These stretches restore flexibility and prevent injury.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'calf-stretches-tight-calves',
+    title: 'Calf Stretches: Loosen Tight Calves and Improve Ankle Mobility',
+    excerpt: 'Tight calves limit ankle mobility and cause problems up the chain. Here are the best stretches for relief.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'quad-stretches-tight-thighs',
+    title: 'Quad Stretches: Exercises for Tight Thigh Muscles',
+    excerpt: 'Tight quads pull on your knees and hips. These stretches restore flexibility to the front of your thighs.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'glute-stretches-tight-buttocks',
+    title: 'Glute Stretches: Release Tight Buttock Muscles',
+    excerpt: 'Tight glutes contribute to back and hip pain. These stretches target all three gluteal muscles for relief.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
     slug: 'groin-strain-exercises-recovery',
     title: 'Groin Strain Exercises: Recovery and Prevention',
     excerpt: 'Groin strains are painful and slow to heal. These exercises help you recover properly and prevent re-injury.',

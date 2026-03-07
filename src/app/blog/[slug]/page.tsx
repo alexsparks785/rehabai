@@ -13,6 +13,927 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'hamstring-stretches-flexibility': {
+    title: 'Hamstring Stretches: Relieve Tightness and Improve Flexibility',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Hamstrings Get Tight
+
+The hamstrings run down the back of your thigh from your pelvis to below your knee. They get tight from:
+
+- Prolonged sitting
+- Running and cycling
+- Weak glutes (hamstrings compensate)
+- Anterior pelvic tilt
+- Lack of stretching
+- Nerve tension (feels like tightness)
+
+Tight hamstrings affect your low back, hips, and knees—loosening them has widespread benefits.
+
+## Standing Stretches
+
+### Standing Hamstring Stretch
+
+1. Place one foot on low step or curb
+2. Keep both legs straight
+3. Hinge forward at hips with flat back
+4. Feel stretch in back of raised leg
+5. Hold 30-60 seconds each side
+
+### Standing Toe Touch (Modified)
+
+1. Cross one foot in front of the other
+2. Bend forward toward toes
+3. Keep back leg straight
+4. Hold 30 seconds
+5. Switch legs
+
+### Forward Fold with Bent Knee
+
+1. Stand with feet hip-width
+2. Bend one knee slightly
+3. Fold forward
+4. Straight leg gets the stretch
+5. 30 seconds each side
+
+## Floor Stretches
+
+### Lying Hamstring Stretch
+
+1. Lie on back
+2. Lift one leg toward ceiling
+3. Keep knee straight (or slightly bent)
+4. Use hands behind thigh, strap, or towel to assist
+5. Hold 30-60 seconds each side
+
+This is the safest hamstring stretch for those with back issues.
+
+### Lying Hamstring Stretch with Strap
+
+1. Loop strap around ball of foot
+2. Lie on back, hold strap ends
+3. Straighten leg toward ceiling
+4. Adjust strap for appropriate tension
+5. Hold 60 seconds each side
+
+### Figure-4 Hamstring Stretch
+
+1. Lie on back, both knees bent
+2. Cross one ankle over opposite thigh
+3. Straighten the bottom leg toward ceiling
+4. Feel stretch in hamstring of straight leg
+5. Hold 30 seconds each side
+
+### Seated Hamstring Stretch
+
+1. Sit with one leg extended, other bent
+2. Reach toward toes of extended leg
+3. Keep back straight (don't round)
+4. Hold 30-60 seconds each side
+
+### Seated Straddle Stretch
+
+1. Sit with legs wide apart
+2. Reach toward one foot
+3. Keep back flat
+4. Hold 30 seconds
+5. Reach center, then other side
+
+## Dynamic Stretches
+
+Do these before activity.
+
+### Leg Swings (Front to Back)
+
+1. Hold wall for support
+2. Swing leg forward and back
+3. Keep torso stable
+4. 15-20 swings each leg
+
+### Walking Kicks
+
+1. Walk forward, kicking leg up
+2. Reach opposite hand toward foot
+3. Alternate legs
+4. 10 each leg
+
+### Inchworms
+
+1. Stand, bend forward, hands to floor
+2. Walk hands out to plank
+3. Walk hands back to feet
+4. Stand up
+5. 8-10 reps
+
+## Nerve Tension vs. Muscle Tightness
+
+Sometimes what feels like tight hamstrings is actually sciatic nerve tension. Signs of nerve involvement:
+
+- Stretching doesn't seem to help
+- Tingling or numbness with stretch
+- Pain that shoots down leg
+- One side much tighter than other
+
+If nerve tension is suspected, try:
+
+### Nerve Glide (Not Stretch)
+
+1. Sit on edge of chair
+2. Extend one leg, point toes up
+3. Slump posture, look down
+4. Then look up while pointing toes down
+5. Alternate smoothly
+6. 10-15 reps
+
+This moves the nerve rather than stretching it.
+
+## When to Stretch
+
+### Best Times
+
+- After a warm-up (muscles warm)
+- Post-workout
+- After sitting for long periods
+- Before bed
+- NOT cold, first thing in morning
+
+### Frequency
+
+- Mild tightness: Daily stretching
+- Significant tightness: 2-3 times daily
+- Maintenance: 3-4 times per week
+
+## Tips for Better Hamstring Stretches
+
+### Breathe
+
+- Deep breaths help muscles relax
+- Exhale as you deepen stretch
+- Never hold breath
+
+### Don't Bounce
+
+- Hold steady positions
+- Bouncing triggers protective reflex
+- Slow and sustained wins
+
+### Hinge at Hips
+
+- Don't round your back to touch toes
+- Hinge at hip joint
+- Keep spine neutral for safer stretch
+
+### Both Sides
+
+- Don't neglect the less tight side
+- Imbalances cause problems
+- Work on symmetry
+
+## Sample Routine
+
+### Daily (5 minutes)
+
+1. Lying hamstring stretch: 45 sec each side
+2. Seated hamstring stretch: 30 sec each side
+3. Standing hamstring stretch: 30 sec each side
+
+### Pre-Workout
+
+1. Leg swings: 15 each leg
+2. Walking kicks: 10 each leg
+3. Inchworms: 8 reps
+
+### Post-Workout
+
+1. All static stretches
+2. Hold longer: 60 seconds each
+3. Include nerve glides if needed
+
+## Beyond Stretching
+
+If hamstrings stay tight despite stretching:
+
+### Strengthen Your Glutes
+
+Weak glutes make hamstrings work harder. Add:
+- Glute bridges
+- Clamshells
+- Hip thrusts
+
+### Address Hip Flexors
+
+Tight hip flexors cause anterior pelvic tilt, stretching hamstrings constantly. Stretch hip flexors too.
+
+### Check Your Posture
+
+- Sitting posture
+- Standing posture
+- How you sleep
+
+### Consider Nerve Involvement
+
+If stretching makes no difference, the issue may be neural, not muscular.
+
+## The Bottom Line
+
+Hamstring flexibility improves with consistent, proper stretching. Stretch after warming up, don't bounce, breathe deeply, and address underlying issues like weak glutes or nerve tension. Most people see noticeable improvement within 2-4 weeks of daily stretching.
+`
+  },
+  'calf-stretches-tight-calves': {
+    title: 'Calf Stretches: Loosen Tight Calves and Improve Ankle Mobility',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Calves Get Tight
+
+Your calves work constantly—every step, every stair, every time you stand. They get tight from:
+
+- Running and walking
+- Wearing high heels
+- Sitting with feet pointed (under desk)
+- Dehydration
+- Overuse
+- Weak ankle mobility
+
+Tight calves affect your ankles, knees, and even your back. They're also a major contributor to plantar fasciitis.
+
+## Anatomy Basics
+
+You have two main calf muscles:
+
+**Gastrocnemius:** The visible calf muscle. Crosses the knee—stretched with a straight knee.
+
+**Soleus:** Deeper muscle. Doesn't cross the knee—stretched with a bent knee.
+
+Stretch both for complete calf flexibility.
+
+## Standing Stretches
+
+### Wall Calf Stretch (Gastrocnemius)
+
+1. Face wall, hands on wall
+2. Step back with one leg, keep it straight
+3. Bend front knee, lean toward wall
+4. Keep back heel on ground
+5. Hold 30-60 seconds each side
+
+### Wall Calf Stretch (Soleus)
+
+1. Same starting position
+2. Bend BOTH knees
+3. Keep back heel on ground
+4. Feel stretch lower in calf
+5. Hold 30-60 seconds each side
+
+### Step Stretch
+
+1. Stand on step, heels hanging off
+2. Lower heels below step level
+3. Hold 30-60 seconds
+4. Can do one leg at a time
+
+### Leaning Calf Stretch
+
+1. Stand arm's length from wall
+2. Lean forward, keeping body straight
+3. Heels stay on ground
+4. Feel stretch in both calves
+5. Hold 30 seconds
+
+## Floor Stretches
+
+### Seated Calf Stretch with Strap
+
+1. Sit with legs extended
+2. Loop strap around ball of one foot
+3. Pull foot toward you, keeping knee straight
+4. Hold 30-60 seconds each side
+
+### Downward Dog
+
+1. Start on hands and knees
+2. Lift hips up and back
+3. Press heels toward floor
+4. Alternate bending one knee to stretch each calf
+5. Hold 30-60 seconds
+
+### Kneeling Calf Stretch
+
+1. Kneel on one knee
+2. Place other foot in front, knee bent
+3. Lean forward, keeping heel down
+4. Feel stretch in front calf
+5. Hold 30 seconds each side
+
+## Dynamic Stretches
+
+### Ankle Circles
+
+1. Lift one foot off floor
+2. Circle ankle slowly
+3. 10 circles each direction
+4. Both ankles
+
+### Heel Walks
+
+1. Walk on heels only
+2. Toes pointed up
+3. 30-60 seconds
+
+### Calf Raises with Stretch
+
+1. Rise up on toes
+2. Lower slowly, dropping heels below neutral
+3. Feel stretch at bottom
+4. 15-20 reps
+
+## Ankle Mobility Work
+
+### Wall Ankle Mobilization
+
+1. Face wall, one foot a few inches away
+2. Drive knee toward wall, keeping heel down
+3. Hold 2 seconds at end range
+4. Return
+5. 15-20 reps each side
+6. Move foot farther from wall to increase difficulty
+
+### Half-Kneeling Ankle Mobilization
+
+1. Half-kneeling position
+2. Drive front knee forward over toes
+3. Keep heel on ground
+4. 15-20 reps each side
+
+This improves dorsiflexion—crucial for squatting and running.
+
+## Self-Massage
+
+### Foam Roller Calves
+
+1. Sit with calf on foam roller
+2. Cross other leg on top for pressure
+3. Roll from ankle to below knee
+4. Stop on tight spots
+5. 1-2 minutes each leg
+
+### Tennis Ball or Lacrosse Ball
+
+1. Sit with calf on ball
+2. Roll around to find tight spots
+3. Hold on tender points
+4. 1-2 minutes each leg
+
+### Hands-On Massage
+
+1. Use thumbs to work through calf muscles
+2. Move from ankle toward knee
+3. Focus on tight areas
+4. 2-3 minutes each leg
+
+## Sample Routine
+
+### Morning (3 minutes)
+
+1. Ankle circles: 10 each direction
+2. Wall calf stretch (straight leg): 30 sec each
+3. Wall calf stretch (bent knee): 30 sec each
+
+### Pre-Workout
+
+1. Ankle circles: 10 each
+2. Heel walks: 30 seconds
+3. Wall ankle mobilizations: 10 each side
+4. Calf raises: 15 reps
+
+### Post-Workout
+
+1. Step stretch: 45 sec each
+2. Wall stretches (both types): 30 sec each
+3. Foam roll calves: 1 min each
+
+### Before Bed
+
+1. Seated calf stretch: 45 sec each
+2. Self-massage: 2 minutes
+3. All static stretches: 30 sec each
+
+## Special Considerations
+
+### For Runners
+
+- Stretch after every run
+- Include eccentric calf work
+- Address Achilles tightness
+
+### For Plantar Fasciitis
+
+- Stretch calves multiple times daily
+- Essential part of treatment
+- Night splints keep calves stretched
+
+### For Squat Mobility
+
+- Focus on ankle dorsiflexion
+- Wall mobilizations are key
+- Consider heel elevation if needed
+
+## Tips for Success
+
+### Consistency
+
+- Daily stretching for tight calves
+- Brief sessions multiple times > one long session
+
+### Warm Up First
+
+- Stretching warm muscles is more effective
+- Even a few minutes of walking helps
+
+### Both Muscles
+
+- Always stretch both gastrocnemius AND soleus
+- Straight leg AND bent knee stretches
+
+### Stay Hydrated
+
+- Dehydration contributes to tightness
+- Drink water throughout day
+
+## The Bottom Line
+
+Calf flexibility affects your entire lower body. Stretch both calf muscles (straight and bent knee stretches), work on ankle mobility, and be consistent. Most people feel significant improvement within 1-2 weeks of daily stretching.
+`
+  },
+  'quad-stretches-tight-thighs': {
+    title: 'Quad Stretches: Exercises for Tight Thigh Muscles',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Quads Get Tight
+
+The quadriceps are four muscles on the front of your thigh. They extend your knee and flex your hip. They get tight from:
+
+- Prolonged sitting (shortened position)
+- Running and cycling
+- Squatting and lunging
+- Overuse
+- Weak opposing muscles (hamstrings, glutes)
+
+Tight quads pull on your kneecap and pelvis, contributing to knee pain and low back pain.
+
+## Standing Stretches
+
+### Standing Quad Stretch
+
+1. Stand on one leg (hold wall for balance)
+2. Grab opposite ankle behind you
+3. Pull heel toward buttock
+4. Keep knees together
+5. Stand tall, don't lean forward
+6. Hold 30-60 seconds each side
+
+The classic quad stretch—but form matters.
+
+### Wall-Assisted Quad Stretch
+
+1. Stand facing away from wall
+2. Place top of foot on wall behind you
+3. Keep torso upright
+4. Feel stretch in front of thigh
+5. Hold 30-60 seconds each side
+
+### Standing with Chair
+
+1. Place top of foot on chair behind you
+2. Stand tall
+3. Bend standing knee slightly to increase stretch
+4. Hold 30-60 seconds each side
+
+## Floor Stretches
+
+### Side-Lying Quad Stretch
+
+1. Lie on your side
+2. Grab top ankle, pull toward buttock
+3. Keep bottom leg straight or bent for stability
+4. Keep top knee in line with body (don't let it drift forward)
+5. Hold 30-60 seconds each side
+
+Great option if balance is an issue.
+
+### Prone Quad Stretch
+
+1. Lie face down
+2. Reach back, grab one ankle
+3. Pull heel toward buttock
+4. Keep hips on floor
+5. Hold 30-60 seconds each side
+
+### Half-Kneeling Quad Stretch
+
+1. Half-kneeling position
+2. Reach back, grab rear foot
+3. Pull heel toward buttock
+4. Stay upright
+5. Hold 30-60 seconds each side
+
+This combines hip flexor and quad stretch.
+
+### Couch Stretch
+
+1. Kneel facing away from couch or wall
+2. Place one foot up on couch behind you
+3. Other foot forward in lunge position
+4. Stay upright, squeeze glute of back leg
+5. Hold 60-120 seconds each side
+
+Intense stretch for quad and hip flexor. Start gently.
+
+## Lying Stretches
+
+### Lying Quad Stretch with Strap
+
+1. Lie on your side
+2. Loop strap around top ankle
+3. Use strap to pull heel toward buttock
+4. Hold 30-60 seconds each side
+
+Good for those who can't grab their ankle.
+
+### Figure-4 Prone Stretch
+
+1. Lie face down
+2. Bend one knee, use strap around ankle
+3. Pull heel toward buttock
+4. Keep hips on floor
+5. Hold 30-60 seconds each side
+
+## Dynamic Stretches
+
+### Walking Quad Pulls
+
+1. Walk forward
+2. With each step, grab ankle behind you
+3. Brief stretch, then step
+4. 10 each leg
+
+### Butt Kicks
+
+1. Walk or jog
+2. Kick heels toward buttocks
+3. 20-30 kicks
+
+### Lunge with Quad Stretch
+
+1. Step into forward lunge
+2. Grab rear ankle
+3. Brief hold
+4. Step forward, alternate
+5. 8-10 each leg
+
+## The Rectus Femoris
+
+One of your quad muscles—the rectus femoris—crosses both the hip and knee. To fully stretch it:
+
+### Full Rectus Femoris Stretch
+
+1. Half-kneeling position
+2. Grab rear foot
+3. Tuck tailbone under
+4. Stay tall
+5. This stretches across both joints
+6. Hold 60 seconds each side
+
+If you only stretch with standing quad stretch, you're missing this important muscle.
+
+## Sample Routine
+
+### Daily (5 minutes)
+
+1. Standing quad stretch: 30 sec each side
+2. Half-kneeling quad stretch: 30 sec each side
+3. Couch stretch (if tolerable): 30 sec each side
+
+### Pre-Workout
+
+1. Walking quad pulls: 10 each leg
+2. Butt kicks: 20 reps
+3. Leg swings (front to back): 15 each leg
+
+### Post-Workout
+
+1. All static stretches: 45-60 seconds each
+2. Side-lying quad stretch: 45 sec each
+3. Foam roll quads: 1-2 minutes each
+
+## Self-Massage
+
+### Foam Roller Quads
+
+1. Lie face down, foam roller under thighs
+2. Roll from hip to just above knee
+3. Stop on tight spots
+4. 1-2 minutes each leg
+5. Turn to roll inner and outer quad too
+
+### Massage Gun
+
+1. Work along entire quad
+2. Spend extra time on tight areas
+3. Avoid the kneecap
+4. 1-2 minutes each leg
+
+## Common Mistakes
+
+### Arching the Back
+
+When stretching, don't let your low back arch excessively. Tuck your tailbone under to keep pelvis neutral.
+
+### Letting Knee Drift
+
+In standing stretch, keep knees together. Letting the stretching knee drift forward or out reduces the stretch.
+
+### Holding Breath
+
+Breathe normally. Deep exhales help muscles relax.
+
+### Forgetting the Hip Flexor
+
+The rectus femoris is both a quad and a hip flexor. Stretch with hip extension (couch stretch, half-kneeling) to address both functions.
+
+## When to Stretch
+
+### Best Times
+
+- After warming up
+- Post-workout
+- After prolonged sitting
+- Before bed
+
+### Not Ideal
+
+- First thing in morning (muscles are cold)
+- Before explosive activity (static stretching may reduce power temporarily)
+
+## The Bottom Line
+
+Quad flexibility improves with consistent stretching—especially stretches that address the rectus femoris across the hip. Include both standing and hip-extended stretches, use foam rolling for additional release, and stretch after activity when muscles are warm. Most people see improvement within 2-3 weeks of daily practice.
+`
+  },
+  'glute-stretches-tight-buttocks': {
+    title: 'Glute Stretches: Release Tight Buttock Muscles',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Glutes Get Tight
+
+Your glutes are three muscles: gluteus maximus, medius, and minimus. They get tight from:
+
+- Prolonged sitting (weakens and tightens)
+- Running and climbing
+- Heavy squatting and deadlifting
+- Compensating for weak core or hips
+- Stress (many people hold tension in glutes)
+
+Tight glutes contribute to low back pain, hip pain, and sciatica-like symptoms.
+
+## Figure-4 Stretches
+
+### Figure-4 (Supine)
+
+1. Lie on back
+2. Cross right ankle over left knee
+3. Pull left thigh toward chest
+4. Feel stretch deep in right buttock
+5. Hold 30-60 seconds each side
+
+The go-to glute stretch.
+
+### Figure-4 (Seated)
+
+1. Sit in chair
+2. Cross right ankle over left knee
+3. Lean forward with straight back
+4. Feel stretch in right glute
+5. Hold 30-60 seconds each side
+
+Office-friendly version.
+
+### Figure-4 (Standing)
+
+1. Stand on one leg
+2. Cross other ankle over standing knee
+3. Sit back into a mini squat
+4. Use wall or chair for balance
+5. Hold 30 seconds each side
+
+## Pigeon Pose Variations
+
+### Pigeon Pose
+
+1. Start on hands and knees
+2. Bring right knee forward, shin angled across body
+3. Extend left leg straight behind
+4. Lower body toward floor
+5. Hold 30-60 seconds each side
+
+Intense glute stretch—go slowly.
+
+### Modified Pigeon (on Table or Bed)
+
+1. Place bent leg on table
+2. Other foot on floor
+3. Lean forward
+4. Hold 30-60 seconds each side
+
+Easier on hips than floor version.
+
+### Supine Pigeon
+
+1. Lie on back
+2. Cross one ankle over opposite thigh
+3. Let knee fall out to side
+4. Pull crossed leg toward chest
+5. Hold 30-60 seconds each side
+
+Same stretch, less intense position.
+
+## Floor Stretches
+
+### Knee to Opposite Shoulder
+
+1. Lie on back
+2. Pull right knee toward left shoulder
+3. Keep left leg flat on floor
+4. Hold 30-60 seconds each side
+
+Targets gluteus maximus.
+
+### Seated Twist
+
+1. Sit with legs extended
+2. Cross right foot over left knee
+3. Twist torso to right
+4. Use left elbow against right knee
+5. Hold 30 seconds each side
+
+Stretches glutes with rotation.
+
+### 90-90 Stretch
+
+1. Sit with front leg bent 90 degrees in front
+2. Back leg bent 90 degrees to side
+3. Sit tall
+4. Lean forward over front leg
+5. Hold 30-60 seconds each side
+
+Excellent for overall hip and glute mobility.
+
+### Child's Pose with Knees Wide
+
+1. Kneel, knees wide apart
+2. Sit back toward heels
+3. Reach arms forward
+4. Rest forehead on floor
+5. Hold 60 seconds
+
+## Standing Stretches
+
+### Standing Figure-4
+
+1. Cross ankle over opposite knee
+2. Sit back (like sitting in chair)
+3. Hold balance or use support
+4. 30 seconds each side
+
+### Standing Cross-Leg Stretch
+
+1. Cross one leg behind the other
+2. Bend forward
+3. Feel stretch in glute of rear leg
+4. Hold 30 seconds each side
+
+## Dynamic Stretches
+
+### Leg Swings (Side to Side)
+
+1. Hold support
+2. Swing leg across body, then out
+3. 15-20 swings each leg
+
+### Hip Circles on All Fours
+
+1. On hands and knees
+2. Circle knee in large circles
+3. 10 circles each direction
+4. Each leg
+
+### Walking Lunges with Twist
+
+1. Step into lunge
+2. Twist torso toward front leg
+3. Alternate sides
+4. 10 each leg
+
+## Self-Massage
+
+### Foam Roller
+
+1. Sit on foam roller
+2. Cross one leg over opposite knee
+3. Roll the glute of the crossed leg
+4. Find tight spots, hold
+5. 1-2 minutes each side
+
+### Tennis Ball or Lacrosse Ball
+
+1. Sit on ball, targeting glute
+2. Move to find tight spots
+3. Hold on tender points
+4. 1-2 minutes each side
+
+More precise than foam roller for deep work.
+
+### Massage Gun
+
+1. Work through entire glute area
+2. Avoid bony areas
+3. Spend extra time on tight spots
+4. 1-2 minutes each side
+
+## Sample Routine
+
+### Daily (5 minutes)
+
+1. Figure-4 supine: 45 sec each side
+2. Knee to opposite shoulder: 30 sec each side
+3. 90-90: 30 sec each side
+
+### Pre-Workout
+
+1. Leg swings (side to side): 15 each leg
+2. Hip circles: 10 each direction
+3. Walking lunges with twist: 8 each leg
+
+### Post-Workout
+
+1. Pigeon pose: 60 sec each side
+2. Figure-4: 45 sec each side
+3. Foam roll glutes: 1-2 min each side
+
+### Before Bed
+
+1. All stretches: 45-60 seconds each
+2. Tennis ball release if needed
+3. Deep breathing to relax
+
+## Special Considerations
+
+### Piriformis Focus
+
+The piriformis is a small muscle deep to the gluteus maximus. The figure-4 and pigeon stretches target it well. If you have sciatica-like symptoms, spend extra time on these.
+
+### After Heavy Lifting
+
+Glutes work hard during squats and deadlifts. Stretch after these sessions to prevent excessive tightness.
+
+### Desk Workers
+
+Sitting tightens hip flexors AND glutes (paradoxically). Stretch both throughout the day.
+
+## Tips for Success
+
+### Breathe
+
+Deep breaths help muscles release. Exhale as you deepen the stretch.
+
+### Hold Long Enough
+
+Glutes are big muscles—hold stretches 45-60 seconds for best results.
+
+### Both Sides
+
+Even if one side is tighter, stretch both to maintain balance.
+
+### Combine with Strengthening
+
+Tight glutes often need strengthening too. Stretching alone isn't enough for complete hip health.
+
+## The Bottom Line
+
+Glute flexibility improves with consistent stretching—figure-4 and pigeon variations are your primary tools. Include self-massage for deeper release, and don't neglect the piriformis. Most people notice improvement within 1-2 weeks of daily stretching.
+`
+  },
   'groin-strain-exercises-recovery': {
     title: 'Groin Strain Exercises: Recovery and Prevention',
     date: '2026-03-07',
