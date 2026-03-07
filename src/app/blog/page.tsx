@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'golfers-elbow-exercises-treatment',
+    title: 'Golfer\'s Elbow Exercises: How to Treat Medial Epicondylitis',
+    excerpt: 'Pain on the inside of your elbow? Golfer\'s elbow responds well to the right exercises. Here\'s what actually works.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Elbow Pain',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'carpal-tunnel-exercises-relief',
+    title: 'Carpal Tunnel Exercises: Relieve Hand Numbness and Tingling',
+    excerpt: 'Carpal tunnel syndrome causes hand pain and numbness. These exercises and stretches can provide significant relief.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hand & Wrist',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'gluteus-medius-exercises-hip-strength',
+    title: 'Gluteus Medius Exercises: Strengthen Your Hip Stabilizers',
+    excerpt: 'The gluteus medius is key to hip stability and pain-free movement. These exercises target this often-neglected muscle.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hip Pain',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'si-joint-pain-exercises-relief',
+    title: 'SI Joint Pain Exercises: Sacroiliac Joint Relief',
+    excerpt: 'SI joint dysfunction causes low back and buttock pain. These exercises stabilize the joint and reduce discomfort.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read'
+  },
+  {
     slug: 'rotator-cuff-exercises-shoulder-strength',
     title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulder',
     excerpt: 'The rotator cuff is key to shoulder health. These exercises build strength and prevent common injuries.',
