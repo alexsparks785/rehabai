@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hip-flexor-stretches-psoas',
+    title: 'Hip Flexor Stretches: Release Tight Psoas and Improve Mobility',
+    excerpt: 'Tight hip flexors from sitting cause back pain and hip problems. These stretches release the psoas and restore mobility.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'chest-stretches-pec-muscles',
+    title: 'Chest Stretches: Open Up Tight Pec Muscles and Improve Posture',
+    excerpt: 'Tight chest muscles pull your shoulders forward. These stretches open up your chest and improve posture.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'lat-stretches-back-muscles',
+    title: 'Lat Stretches: Release Tight Latissimus Dorsi Muscles',
+    excerpt: 'Tight lats affect shoulder mobility and posture. These stretches release the largest muscles in your back.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'trapezius-stretches-neck-shoulders',
+    title: 'Trapezius Stretches: Release Neck and Shoulder Tension',
+    excerpt: 'Tight traps cause neck pain and headaches. These stretches release tension in your upper back and shoulders.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read'
+  },
+  {
     slug: 'hamstring-stretches-flexibility',
     title: 'Hamstring Stretches: Relieve Tightness and Improve Flexibility',
     excerpt: 'Tight hamstrings affect your back, hips, and knees. These stretches restore flexibility and prevent injury.',

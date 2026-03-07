@@ -13,6 +13,979 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'hip-flexor-stretches-psoas': {
+    title: 'Hip Flexor Stretches: Release Tight Psoas and Improve Mobility',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Hip Flexors Get Tight
+
+The hip flexors—primarily the psoas and iliacus—connect your spine to your legs. They're responsible for lifting your knee toward your chest. They get tight from:
+
+- Sitting for long periods (shortened position)
+- Running and cycling
+- Excessive ab exercises (especially sit-ups)
+- Weak glutes (hip flexors compensate)
+- Stress (psoas holds emotional tension)
+
+Tight hip flexors tilt your pelvis forward, causing low back pain, hip pain, and poor posture.
+
+## The Key Muscles
+
+### Psoas Major
+
+Runs from your lower spine through your pelvis to your thigh bone. The deepest hip flexor.
+
+### Iliacus
+
+Lines the inside of your pelvis, joining the psoas to form the iliopsoas.
+
+### Rectus Femoris
+
+Part of your quadriceps, also flexes the hip. Crosses both hip and knee.
+
+## Kneeling Stretches
+
+### Half-Kneeling Hip Flexor Stretch
+
+1. Kneel on one knee, other foot forward
+2. Tuck your tailbone under (flatten low back)
+3. Squeeze the glute of the kneeling leg
+4. Shift weight forward
+5. Feel stretch in front of kneeling hip
+6. Hold 30-60 seconds each side
+
+The key is the posterior pelvic tilt—without it, you're not stretching the psoas effectively.
+
+### Half-Kneeling with Reach
+
+1. Same starting position
+2. Reach same-side arm overhead
+3. Lean slightly away from kneeling leg
+4. Adds side body stretch
+5. Hold 30-45 seconds each side
+
+### Couch Stretch
+
+1. Kneel facing away from wall or couch
+2. Place rear foot up on couch/wall
+3. Other foot forward in lunge position
+4. Stay upright, tuck tailbone
+5. Hold 60-120 seconds each side
+
+Intense stretch—approach gradually.
+
+## Standing Stretches
+
+### Standing Hip Flexor Stretch
+
+1. Stand in split stance
+2. Tuck tailbone under
+3. Squeeze rear glute
+4. Shift forward slightly
+5. Hold 30 seconds each side
+
+### Standing Lunge Stretch
+
+1. Deep lunge position
+2. Rear knee hovers above floor
+3. Tuck tailbone, squeeze rear glute
+4. Hold 30-45 seconds each side
+
+## Floor Stretches
+
+### Supine Hip Flexor Stretch
+
+1. Lie on back at edge of bed or table
+2. Pull one knee to chest
+3. Let other leg hang off edge
+4. Feel stretch in hanging leg's hip flexor
+5. Hold 30-60 seconds each side
+
+Also known as the Thomas stretch position.
+
+### Prone Hip Flexor Stretch
+
+1. Lie face down
+2. Bring one leg out to side, knee bent 90 degrees
+3. Press hips into floor
+4. Feel stretch in front of hip
+5. Hold 30-45 seconds each side
+
+### Low Lunge (Yoga)
+
+1. Step one foot forward into lunge
+2. Lower rear knee to floor
+3. Sink hips forward and down
+4. Arms can reach overhead
+5. Hold 30-60 seconds each side
+
+## Dynamic Stretches
+
+### Walking Lunges
+
+1. Step into deep lunge
+2. Drive up and forward
+3. Alternate legs
+4. 10 each side
+
+### Leg Swings (Front to Back)
+
+1. Hold support
+2. Swing leg forward and back
+3. Gradually increase range
+4. 15-20 swings each leg
+
+### Spiderman Stretch
+
+1. Start in push-up position
+2. Step one foot outside same-side hand
+3. Drop hips, hold briefly
+4. Return, switch sides
+5. 8-10 each side
+
+## Psoas Release
+
+The psoas can also be released through positioning and gentle pressure.
+
+### Constructive Rest Position
+
+1. Lie on back
+2. Feet on floor, knees bent
+3. Knees together or slightly apart
+4. Arms relaxed at sides
+5. Simply rest 5-10 minutes
+
+This position allows the psoas to release without stretching.
+
+### Psoas Release with Ball
+
+1. Lie face down
+2. Place soft ball (not hard) just inside hip bone
+3. Relax into the ball
+4. Hold 60-120 seconds each side
+5. Don't push too hard—gentle pressure only
+
+This requires caution—the psoas is deep, and there are blood vessels and nerves nearby.
+
+## The Importance of Pelvic Tilt
+
+Most hip flexor stretches fail because people arch their back instead of stretching the psoas.
+
+### Posterior Pelvic Tilt
+
+1. Think of tucking your tailbone under
+2. Like bringing your belt buckle up toward your chin
+3. Flatten your low back
+4. Then shift forward into stretch
+
+Without this tilt, you're just arching your back, not stretching the hip flexor.
+
+## Sample Routine
+
+### Daily (5 minutes)
+
+1. Half-kneeling stretch: 45 sec each side
+2. Half-kneeling with reach: 30 sec each side
+3. Standing stretch: 30 sec each side
+
+### Pre-Workout
+
+1. Leg swings: 15 each leg
+2. Walking lunges: 10 each leg
+3. Spiderman stretch: 8 each side
+
+### Post-Workout
+
+1. All kneeling stretches: 45-60 sec each
+2. Couch stretch: 60 sec each side (if tolerable)
+
+### Before Bed
+
+1. Supine hip flexor stretch: 60 sec each side
+2. Constructive rest: 5 minutes
+
+## Beyond Stretching
+
+### Strengthen Your Glutes
+
+Weak glutes make hip flexors work overtime. Strong glutes reduce hip flexor tightness.
+
+### Don't Sit All Day
+
+- Get up every 30 minutes
+- Standing desk if possible
+- Walk breaks
+
+### Watch Your Ab Training
+
+Excessive sit-ups and crunches shorten hip flexors. Choose planks and other exercises instead.
+
+### Address the Nervous System
+
+The psoas is connected to your fight-or-flight response. Chronic stress = chronic psoas tightness. Relaxation helps.
+
+## Tips for Success
+
+### Tuck Before You Shift
+
+Always establish pelvic tilt before moving into the stretch.
+
+### Squeeze the Glute
+
+Contracting the glute of the leg being stretched helps the hip flexor release.
+
+### Hold Longer
+
+Hip flexors respond well to longer holds—45-60+ seconds.
+
+### Multiple Times Daily
+
+If you sit a lot, stretch hip flexors several times per day.
+
+## The Bottom Line
+
+Hip flexor flexibility is crucial for back health and good posture. The key is proper technique—posterior pelvic tilt makes all the difference. Stretch daily, strengthen your glutes, and don't sit for hours without breaks. Most people see significant improvement within 2-3 weeks of consistent practice.
+`
+  },
+  'chest-stretches-pec-muscles': {
+    title: 'Chest Stretches: Open Up Tight Pec Muscles and Improve Posture',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Chest Muscles Get Tight
+
+The pectoralis major and minor—your chest muscles—get tight from:
+
+- Sitting hunched over a desk
+- Phone and computer use
+- Driving
+- Heavy chest workouts
+- Emotional protection posture (shoulders rolled forward)
+
+Tight chest muscles pull your shoulders forward, causing rounded posture, neck pain, shoulder problems, and breathing restrictions.
+
+## The Key Muscles
+
+### Pectoralis Major
+
+The large chest muscle with two parts:
+- **Clavicular (upper):** Fibers run from collarbone to upper arm
+- **Sternal (lower):** Fibers run from sternum to upper arm
+
+Different arm positions target different parts.
+
+### Pectoralis Minor
+
+Smaller muscle underneath pec major. Runs from ribs to shoulder blade. Often the tighter and more problematic muscle.
+
+## Doorway Stretches
+
+### Doorway Pec Stretch
+
+1. Stand in doorway
+2. Place forearm on door frame, elbow at shoulder height
+3. Step forward with one foot
+4. Lean through doorway
+5. Feel stretch in chest and front of shoulder
+6. Hold 30-45 seconds each side
+
+### Doorway Stretch (Low Position)
+
+1. Same setup, but arm lower (45 degrees)
+2. Targets lower pec fibers
+3. Hold 30-45 seconds each side
+
+### Doorway Stretch (High Position)
+
+1. Same setup, but arm higher (135 degrees)
+2. Targets upper pec fibers
+3. Hold 30-45 seconds each side
+
+Do all three positions for complete stretch.
+
+### Double Doorway Stretch
+
+1. Both arms on door frame
+2. Step through doorway
+3. Stretches both sides simultaneously
+4. Hold 30-60 seconds
+
+## Floor Stretches
+
+### Supine Floor Stretch
+
+1. Lie on back
+2. Arms out to sides, elbows bent 90 degrees
+3. Let arms drop toward floor
+4. Gravity provides the stretch
+5. Hold 60-120 seconds
+
+Relaxing way to stretch chest.
+
+### Foam Roller Chest Opener
+
+1. Lie lengthwise on foam roller (head to tailbone)
+2. Arms out to sides
+3. Let arms drop toward floor
+4. Hold 60-120 seconds
+5. Excellent for both pec and posture
+
+### Prone Chest Stretch
+
+1. Lie face down
+2. Extend one arm out to side (90 degrees)
+3. Roll toward that side
+4. Feel stretch in chest
+5. Hold 30-45 seconds each side
+
+## Standing Stretches
+
+### Corner Stretch
+
+1. Stand facing corner
+2. Both hands on walls at shoulder height
+3. Lean into corner
+4. Feel stretch across chest
+5. Hold 30-45 seconds
+
+### Hands Behind Back Stretch
+
+1. Stand tall
+2. Clasp hands behind back
+3. Lift hands up and away
+4. Keep chest lifted
+5. Hold 30 seconds
+
+### Towel Stretch
+
+1. Hold towel behind back
+2. One hand high, one low
+3. Gently pull to stretch
+4. Switch hand positions
+5. 30 seconds each position
+
+## Dynamic Stretches
+
+### Arm Circles
+
+1. Large arm circles
+2. Gradually increase size
+3. 10 forward, 10 backward
+
+### Chest Opener with Breathing
+
+1. Interlace fingers behind back
+2. Inhale, lift chest and hands
+3. Exhale, relax
+4. 10 breaths
+
+### Wall Slides with Reach
+
+1. Back against wall
+2. Arms in goalpost position on wall
+3. Slide arms up, reaching overhead
+4. Return
+5. 15 reps
+
+## Pec Minor Release
+
+The pec minor is often tighter and harder to stretch.
+
+### Corner Pec Minor Stretch
+
+1. Stand in corner
+2. Forearms on walls, elbows above shoulders
+3. Lean in, allowing shoulder blades to squeeze together
+4. Hold 30-45 seconds
+
+### Ball Release
+
+1. Place tennis ball between pec minor (below collarbone, toward shoulder) and wall
+2. Lean into ball
+3. Find tender spots
+4. Hold 30-60 seconds each side
+
+## Sample Routine
+
+### Daily (5 minutes)
+
+1. Doorway stretch (all three positions): 30 sec each, each side
+2. Hands behind back: 30 seconds
+3. Foam roller chest opener: 60 seconds
+
+### Pre-Workout
+
+1. Arm circles: 10 each direction
+2. Chest opener with breathing: 10 breaths
+3. Wall slides: 10 reps
+
+### Post-Workout (Chest Day)
+
+1. All doorway stretches: 45 sec each position, each side
+2. Floor stretch: 60-90 seconds
+3. Ball release for pec minor: 60 sec each side
+
+### Before Bed
+
+1. Foam roller chest opener: 2 minutes
+2. Supine floor stretch: 2 minutes
+
+## The Posture Connection
+
+Tight chest muscles cause:
+- Rounded shoulders
+- Forward head posture
+- Upper back pain
+- Shoulder impingement
+- Breathing restrictions
+
+Stretching the chest is only half the fix. You also need to strengthen the upper back to pull shoulders back.
+
+### Pair Chest Stretches With
+
+- Rows
+- Reverse flies
+- Face pulls
+- Y-T-W raises
+- Scapular squeezes
+
+## Tips for Success
+
+### Breathe Deeply
+
+Deep breaths help the stretch and improve rib mobility. Inhale to expand chest, exhale to deepen stretch.
+
+### Don't Force
+
+Especially in doorway—shoulder should feel stretched, not strained.
+
+### Multiple Times Daily
+
+If you sit at a desk, stretch chest every hour or two.
+
+### Address Both Muscles
+
+Don't forget the pec minor—it's often the tighter one.
+
+### Strengthen Upper Back
+
+Stretching alone isn't enough. Balance with strengthening.
+
+## Common Mistakes
+
+### Pushing Too Hard
+
+The shoulder joint is vulnerable. Stretch to tension, not pain.
+
+### Only One Position
+
+Different arm angles target different fibers. Use variety.
+
+### Forgetting Pec Minor
+
+The small muscle causes big problems. Use corner stretch and ball release.
+
+### Not Addressing Posture
+
+Stretching without behavior change = temporary relief. Address sitting habits.
+
+## The Bottom Line
+
+Chest flexibility is essential for good posture and shoulder health. Doorway stretches at multiple angles, foam roller work, and pec minor release address the tight muscles. Combine with upper back strengthening and posture awareness for lasting improvement. Most people feel significant relief within 1-2 weeks of daily stretching.
+`
+  },
+  'lat-stretches-back-muscles': {
+    title: 'Lat Stretches: Release Tight Latissimus Dorsi Muscles',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Lats Get Tight
+
+The latissimus dorsi—your "lats"—are the largest muscles in your back, running from your low back and pelvis to your upper arm. They get tight from:
+
+- Pulling exercises (pull-ups, rows)
+- Swimming
+- Climbing
+- Sitting with poor posture
+- Stress (pulling shoulders down and in)
+
+Tight lats limit shoulder mobility, affect breathing, and contribute to poor posture and back pain.
+
+## What Tight Lats Feel Like
+
+- Limited overhead reach
+- Difficulty raising arms fully
+- Tightness when reaching up and to the side
+- Restricted shoulder rotation
+- Low back and shoulder blade discomfort
+
+## Standing Stretches
+
+### Standing Lat Stretch
+
+1. Stand facing a wall or sturdy surface
+2. Place both hands on wall overhead
+3. Walk feet back, hinging at hips
+4. Let chest drop toward floor
+5. Feel stretch along sides of back
+6. Hold 30-60 seconds
+
+### Single Arm Lat Stretch
+
+1. Stand sideways to wall
+2. Place one hand on wall overhead
+3. Cross opposite foot behind
+4. Lean away from wall
+5. Feel stretch along the side with hand on wall
+6. Hold 30-45 seconds each side
+
+### Hanging Stretch
+
+1. Hang from pull-up bar (feet can touch floor)
+2. Relax and let body weight stretch lats
+3. Hold 20-30 seconds
+4. Repeat 2-3 times
+
+If full hang is too intense, keep feet on floor.
+
+### Wall Slide Stretch
+
+1. Stand facing wall
+2. Place forearms on wall, elbows at shoulder height
+3. Slide arms up the wall
+4. Keep forearms on wall
+5. Feel stretch in lats
+6. Hold at top for 10-15 seconds
+7. 10 reps
+
+## Floor Stretches
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward on floor
+3. Let chest sink toward floor
+4. Hold 30-60 seconds
+
+### Child's Pose with Side Reach
+
+1. Same starting position
+2. Walk hands to the right
+3. Feel stretch on left side
+4. Hold 30-45 seconds
+5. Switch sides
+
+Adds lateral lat stretch.
+
+### Prayer Stretch
+
+1. On knees, sit back toward heels
+2. Arms extended forward on floor
+3. Lower chest toward floor
+4. Reach arms as far forward as possible
+5. Hold 30-60 seconds
+
+### Thread the Needle
+
+1. Start on hands and knees
+2. Slide one arm under body
+3. Lower shoulder and head to floor
+4. Feel stretch in lat and upper back
+5. Hold 30 seconds each side
+
+## Lying Stretches
+
+### Supine Lat Stretch
+
+1. Lie on back
+2. Reach both arms overhead on floor
+3. Extend body long
+4. Hold 30-60 seconds
+
+### Supine Lat Stretch with Roll
+
+1. Lie on back, foam roller under upper back
+2. Reach arms overhead
+3. Roll slightly side to side
+4. 30-60 seconds
+
+### Side-Lying Stretch
+
+1. Lie on one side
+2. Bottom arm extended overhead on floor
+3. Top arm reaches overhead
+4. Hold 30 seconds each side
+
+## Dynamic Stretches
+
+### Cat-Cow with Lat Focus
+
+1. On hands and knees
+2. Round back (cat), letting shoulders protract
+3. Arch back (cow), squeezing shoulder blades
+4. 15 reps
+
+### World's Greatest Stretch
+
+1. Lunge position
+2. Place same-side hand inside front foot
+3. Rotate torso, reach other arm toward ceiling
+4. 5-8 each side
+
+### Arm Circles
+
+1. Large arm circles overhead
+2. Feel stretch at end range
+3. 10 each direction
+
+## Self-Massage
+
+### Foam Roller Lats
+
+1. Lie on side, foam roller under armpit area
+2. Roll from armpit toward waist
+3. Stop on tender spots
+4. 1-2 minutes each side
+
+### Tennis/Lacrosse Ball
+
+1. Place ball between lat and wall
+2. Roll around to find tight spots
+3. Hold on tender points
+4. 1-2 minutes each side
+
+More precise than foam roller.
+
+## Sample Routine
+
+### Daily (5 minutes)
+
+1. Standing lat stretch: 45 seconds
+2. Single arm stretch: 30 sec each side
+3. Child's pose with side reach: 30 sec each side
+
+### Pre-Workout (Pulling Day)
+
+1. Arm circles: 10 each direction
+2. Cat-cow: 10 reps
+3. World's greatest stretch: 5 each side
+4. Hanging stretch: 20 seconds
+
+### Post-Workout
+
+1. All stretches: 45-60 sec each
+2. Foam roller lats: 1-2 min each side
+
+### Before Bed
+
+1. Child's pose: 60 seconds
+2. Supine lat stretch: 60 seconds
+3. Side-lying stretch: 30 sec each side
+
+## The Shoulder Mobility Connection
+
+Tight lats restrict:
+- Overhead reaching (shoulder flexion)
+- Shoulder rotation
+- Deep squat position (arms overhead)
+
+If you struggle with overhead movements or deep squats, lat flexibility may be the issue.
+
+## For Overhead Athletes
+
+Swimmers, throwers, CrossFitters, and overhead athletes need especially flexible lats. Stretch after every training session.
+
+## Tips for Success
+
+### Breathe
+
+Deep breaths help the stretch. Lats attach to ribs—breathing expands the ribcage and enhances the stretch.
+
+### Both Sides
+
+Even if one side feels tighter, stretch both for balance.
+
+### Hold Long Enough
+
+Lats are large muscles—hold stretches 45-60 seconds for best results.
+
+### Foam Roll First
+
+Rolling before stretching can release trigger points and improve stretch effectiveness.
+
+## Common Mistakes
+
+### Compensating with Spine
+
+Don't arch your back to get arms overhead—this bypasses the lat stretch. Keep spine neutral.
+
+### Rushing
+
+Take time to relax into stretches. Rushing doesn't allow the muscle to release.
+
+### Ignoring One Side
+
+Most people have one tighter lat. Address the imbalance.
+
+## The Bottom Line
+
+Lat flexibility is crucial for overhead mobility and healthy shoulders. Child's pose, standing reaches, and single-arm stretches are your main tools. Combine with foam rolling and be consistent. Most people see noticeable improvement in overhead reach within 2-3 weeks of daily stretching.
+`
+  },
+  'trapezius-stretches-neck-shoulders': {
+    title: 'Trapezius Stretches: Release Neck and Shoulder Tension',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## Why Trapezius Gets Tight
+
+The trapezius is a large, diamond-shaped muscle running from the base of your skull down to your mid-back and out to your shoulders. It gets tight from:
+
+- Stress (shoulder shrugging)
+- Desk work and computer use
+- Phone use (looking down)
+- Carrying bags on one shoulder
+- Poor posture
+- Heavy lifting
+
+Tight traps cause neck pain, headaches, shoulder tension, and limited neck mobility.
+
+## Anatomy of the Trapezius
+
+### Upper Trapezius
+
+Runs from skull and neck to outer shoulder. When tight, causes neck pain, headaches, and elevated shoulders.
+
+### Middle Trapezius
+
+Runs from spine to shoulder blade. Helps squeeze shoulder blades together.
+
+### Lower Trapezius
+
+Runs from spine to shoulder blade. Pulls shoulder blades down and back.
+
+The upper trapezius is usually the problem—tight and overactive.
+
+## Upper Trap Stretches
+
+### Ear to Shoulder Stretch
+
+1. Sit or stand tall
+2. Drop right ear toward right shoulder
+3. Let weight of head create stretch
+4. Optionally, place right hand gently on left side of head
+5. Hold 30-45 seconds each side
+
+### Ear to Shoulder with Arm Reach
+
+1. Same stretch as above
+2. Reach opposite arm toward floor
+3. Increases the stretch
+4. Hold 30-45 seconds each side
+
+### Levator Scapulae Stretch
+
+1. Turn head 45 degrees to right
+2. Look down toward armpit
+3. Gently pull head down with right hand
+4. Hold 30-45 seconds each side
+
+This targets the levator scapulae, often tight with the upper trap.
+
+## Neck Stretches for Trap Relief
+
+### Chin Tuck
+
+1. Pull chin straight back (make double chin)
+2. Hold 5-10 seconds
+3. Repeat 15-20 times
+
+Relieves tension at base of skull.
+
+### Neck Rotation
+
+1. Slowly turn head to look over right shoulder
+2. Hold 20-30 seconds
+3. Repeat left side
+
+### Neck Flexion
+
+1. Drop chin toward chest
+2. Clasp hands behind head
+3. Gentle pressure from hands
+4. Hold 20-30 seconds
+
+## Middle and Lower Trap
+
+### Cat Stretch
+
+1. On hands and knees
+2. Round upper back toward ceiling
+3. Let shoulder blades spread apart
+4. Hold 20-30 seconds
+
+### Thread the Needle
+
+1. On hands and knees
+2. Slide one arm under body, palm up
+3. Lower shoulder to floor
+4. Hold 30 seconds each side
+
+### Eagle Arms
+
+1. Cross right arm under left
+2. Wrap forearms, palms together if possible
+3. Lift elbows, drop shoulders down
+4. Hold 30 seconds
+5. Switch arm position
+
+## Shoulder Movements
+
+### Shoulder Rolls
+
+1. Roll shoulders forward 10 times
+2. Roll backward 10 times
+3. Full, slow circles
+
+### Shoulder Shrug and Release
+
+1. Shrug shoulders up toward ears
+2. Hold 5 seconds
+3. Drop and completely relax
+4. Feel the release
+5. 5-10 reps
+
+### Shoulder Blade Squeezes
+
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. Release
+4. 15-20 reps
+
+Strengthens middle/lower traps, which helps balance overactive upper traps.
+
+## Self-Massage
+
+### Tennis Ball Trap Release
+
+1. Place tennis ball between trap and wall
+2. Position at tender spot in upper trap
+3. Apply body weight
+4. Hold 30-60 seconds
+5. Move ball to find other tight spots
+
+### Fingertip Massage
+
+1. Reach opposite hand to trap
+2. Use fingertips to apply pressure
+3. Make small circles
+4. Work from neck to shoulder
+5. 2-3 minutes each side
+
+### Hook with Fingers
+
+1. Hook fingers over upper trap muscle
+2. Squeeze and hold
+3. Move fingers along muscle
+4. 2-3 minutes each side
+
+## Sample Routine
+
+### Morning (3 minutes)
+
+1. Ear to shoulder: 30 sec each side
+2. Shoulder rolls: 10 each direction
+3. Chin tucks: 10 reps
+
+### During Work (Every Hour)
+
+1. Shoulder shrug and release: 5 reps
+2. Ear to shoulder: 15 sec each side
+3. Shoulder rolls: 5 each direction
+
+### Evening (10 minutes)
+
+1. All stretches: 30-45 sec each
+2. Tennis ball release: 1-2 min each side
+3. Cat stretch: 30 seconds
+4. Shoulder blade squeezes: 15 reps
+
+### When Stress Hits
+
+1. Shoulder shrug and release: 10 reps
+2. Deep breathing with shoulder drops
+3. Ear to shoulder stretches
+4. Self-massage
+
+## The Stress Connection
+
+The upper trapezius is a "stress muscle." When you're stressed or anxious:
+- Shoulders creep up toward ears
+- Neck tightens
+- Headaches develop
+
+Stress management is part of trap treatment:
+- Awareness of shoulder position
+- Regular breathing breaks
+- Relaxation techniques
+- Address underlying stress
+
+## Beyond Stretching
+
+### Strengthen Lower and Middle Traps
+
+Balance the overactive upper trap with:
+- Prone Y raises
+- Prone T raises
+- Prone W raises
+- Face pulls
+- Rows with squeeze
+
+### Fix Your Posture
+
+- Computer screen at eye level
+- Phone at eye level
+- Don't carry bags on one shoulder
+- Awareness of shoulder position
+
+### Heat
+
+- Moist heat relaxes tight traps
+- Warm shower on neck and shoulders
+- Heating pad before stretching
+
+## Tips for Success
+
+### Gentle Pressure
+
+The neck area is sensitive. Use gentle pressure, never force.
+
+### Breathe
+
+Deep breaths help muscles relax. Exhale as you stretch.
+
+### Multiple Times Daily
+
+If stressed or desk-bound, stretch traps several times per day.
+
+### Notice Your Shoulders
+
+Build awareness of shoulder position. When you catch them creeping up, drop them.
+
+## The Bottom Line
+
+Upper trap tightness is extremely common in our screen-heavy, stress-filled world. Regular stretching, self-massage, and posture awareness provide relief. Strengthen the lower and middle traps to balance the overactive upper traps. Most people feel significant improvement within 1-2 weeks of daily attention to these muscles.
+`
+  },
   'hamstring-stretches-flexibility': {
     title: 'Hamstring Stretches: Relieve Tightness and Improve Flexibility',
     date: '2026-03-07',
