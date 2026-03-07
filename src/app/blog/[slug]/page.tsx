@@ -62161,6 +62161,1050 @@ The fitness will return. Your job is to let it happen without rushing the proces
 
 *Foundational Rehab provides gentle, progressive programs suitable for rebuilding after illness or injury.*
     \`
+  },
+  'vestibular-rehabilitation-exercises': {
+    title: 'Vestibular Rehabilitation: Exercises for Dizziness and Balance Problems',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: \`
+## What Is Vestibular Rehabilitation?
+
+Vestibular rehabilitation (VR) is exercise-based therapy for dizziness and balance problems caused by inner ear dysfunction. It works by:
+
+- Promoting compensation (brain adapts to vestibular loss)
+- Reducing dizziness through habituation
+- Improving balance and gaze stability
+- Reducing fall risk
+
+**Common conditions treated:**
+- Vestibular neuritis/labyrinthitis
+- BPPV (after repositioning)
+- Ménière's disease
+- Acoustic neuroma
+- Vestibular migraine
+- Concussion-related dizziness
+- Age-related vestibular decline
+- Unilateral vestibular loss
+
+## How Vestibular Rehab Works
+
+### Habituation
+
+Repeated exposure to movements that provoke dizziness—symptoms gradually decrease as the brain learns to ignore abnormal signals.
+
+### Gaze Stabilization
+
+Exercises that improve the vestibulo-ocular reflex (VOR), which keeps vision stable during head movement.
+
+### Balance Training
+
+Challenges the balance system to improve stability and reduce fall risk.
+
+## Gaze Stabilization Exercises (VOR)
+
+These are foundational vestibular exercises:
+
+### VOR x1 (Basic)
+
+1. Hold a target (business card, letter) at arm's length
+2. Focus on the target
+3. Turn your head side to side while keeping the target in focus
+4. Start slow (1 second per direction)
+5. Progress to faster movements
+6. 1-2 minutes, 3-5 times daily
+
+**Variations:**
+- Side to side
+- Up and down
+- Diagonals
+
+### VOR x2 (Advanced)
+
+1. Hold target at arm's length
+2. Move head AND target in opposite directions
+3. Keep target in focus
+4. More challenging than VOR x1
+5. 1-2 minutes, 3-5 times daily
+
+### Near-Far Focus
+
+1. Hold finger at arm's length
+2. Focus on finger
+3. Quickly shift focus to a distant target
+4. Shift back to finger
+5. 10-20 shifts, 2-3 times daily
+
+## Habituation Exercises
+
+These reduce sensitivity to movements that cause dizziness:
+
+### General Principle
+
+- Identify movements that provoke symptoms
+- Repeat those movements
+- Symptoms should decrease over days/weeks
+- Stop if severe nausea or vomiting
+
+### Sample Habituation Exercises
+
+**Horizontal Head Turns**
+1. Sit in chair
+2. Turn head left and right
+3. 10-20 repetitions
+4. Rest until dizziness settles
+5. Repeat 2-3 times daily
+
+**Vertical Head Movements**
+1. Sit in chair
+2. Look up and down
+3. 10-20 repetitions
+4. Rest until dizziness settles
+
+**Bending Over**
+1. Stand (hold support if needed)
+2. Bend forward as if picking something up
+3. Return to standing
+4. 10 repetitions
+
+**Turning in Place**
+1. Stand safely
+2. Turn 180 degrees
+3. Turn back
+4. 5-10 turns each direction
+
+### Brandt-Daroff Exercises
+
+If residual BPPV symptoms after repositioning:
+
+1. Sit on edge of bed
+2. Quickly lie down on one side (nose pointing slightly up)
+3. Stay 30 seconds or until dizziness stops
+4. Return to sitting, wait 30 seconds
+5. Quickly lie down on other side
+6. 5 repetitions, 3 times daily for 2 weeks
+
+## Balance Exercises
+
+Progress through levels based on ability:
+
+### Level 1: Basic Standing
+
+**Feet Together**
+1. Stand with feet together
+2. Hold support if needed
+3. Progress: reduce support, close eyes
+4. Hold 30 seconds
+
+**Tandem Stance**
+1. Stand heel-to-toe
+2. Hold 30 seconds
+3. Switch feet
+4. Progress: reduce support, close eyes
+
+### Level 2: Dynamic Standing
+
+**Weight Shifts**
+1. Stand with feet hip-width
+2. Shift weight side to side
+3. Shift forward and back
+4. 10 each direction
+
+**Head Turns While Standing**
+1. Stand in tandem or feet together
+2. Turn head side to side
+3. Maintain balance
+4. 10-20 turns
+
+### Level 3: Walking Variations
+
+**Tandem Walking**
+1. Walk heel-to-toe in a line
+2. 10-20 steps
+3. Progress: with head turns
+
+**Walking with Head Turns**
+1. Walk while turning head side to side
+2. 20-30 steps
+3. May increase dizziness—this is therapeutic
+
+**Walking and Stopping**
+1. Walk, then stop suddenly
+2. Maintain balance
+3. 10 repetitions
+
+### Level 4: Challenging Surfaces
+
+**Foam Standing**
+1. Stand on foam pad
+2. Progress through balance positions
+3. Add head movements
+
+**Pillow Standing**
+1. Stand on firm pillow
+2. Challenges proprioception
+
+## Visual Dependence Exercises
+
+Some people become overly dependent on vision for balance. These exercises reduce that:
+
+**Standing with Eyes Closed**
+1. Stand safely (near support)
+2. Close eyes
+3. Hold 30 seconds
+4. Progress positions (feet together, tandem)
+
+**Busy Visual Environments**
+Practice walking in grocery stores, malls, or other visually busy environments.
+
+## Sample Daily Program
+
+**Morning (10-15 minutes):**
+- VOR x1 exercises (2 minutes each direction)
+- Habituation exercises specific to your triggers
+- Standing balance (30 seconds x 3)
+
+**Midday (5-10 minutes):**
+- VOR exercises
+- Walking balance challenges
+
+**Evening (10-15 minutes):**
+- VOR x1 or x2
+- Balance progression
+- Habituation exercises
+
+**Total:** 3-5 sessions daily is typical for vestibular rehab
+
+## What to Expect
+
+### Initial Response
+
+- Exercises may increase dizziness temporarily
+- This is expected and necessary for habituation
+- Symptoms should settle within minutes
+- If severe nausea/vomiting, reduce intensity
+
+### Progress Timeline
+
+- Some improvement: 2-4 weeks
+- Significant improvement: 6-8 weeks
+- Maximum benefit: 3-6 months
+- Consistency is essential
+
+### Signs of Progress
+
+- Dizziness intensity decreasing
+- Dizziness duration shortening
+- Balance improving
+- Confidence increasing
+- Fewer symptoms with daily activities
+
+## When to Stop or Modify
+
+**Stop and rest if:**
+- Severe nausea or vomiting
+- Symptoms don't settle within 15-20 minutes
+- Any new neurological symptoms
+
+**Consult your provider if:**
+- No improvement after 4-6 weeks of consistent exercise
+- Symptoms worsening overall
+- New symptoms develop
+- Falls occur
+
+## Working with Professionals
+
+Vestibular rehabilitation is most effective with:
+- Vestibular physical therapist
+- Audiologist specializing in vestibular disorders
+- Neurologist or ENT if diagnosis unclear
+
+Assessment identifies your specific deficits and customizes exercises.
+
+## The Bottom Line
+
+Vestibular rehabilitation works—but requires:
+
+1. Correct diagnosis (exercises differ by condition)
+2. Consistent practice (multiple times daily)
+3. Patience (improvement takes weeks to months)
+4. Acceptance that exercises may temporarily increase symptoms
+5. Professional guidance when possible
+
+Your brain can adapt. Give it the right signals through consistent exercise.
+
+---
+
+*Foundational Rehab provides balance programs that complement vestibular rehabilitation.*
+    \`
+  },
+  'exercises-for-headaches-migraines': {
+    title: 'Exercises for Headaches and Migraines: Movement That Helps, Not Hurts',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: \`
+## Exercise and Headaches: A Complicated Relationship
+
+Exercise can both help and trigger headaches:
+
+**Exercise helps by:**
+- Reducing headache frequency (for many people)
+- Decreasing migraine days per month
+- Releasing natural pain-relieving endorphins
+- Reducing stress and tension
+- Improving sleep
+- Decreasing overall inflammation
+
+**Exercise can trigger headaches by:**
+- Increasing blood pressure suddenly
+- Causing dehydration
+- Triggering migraines in sensitive individuals
+- Straining neck muscles (poor form)
+
+The goal: find the right type, intensity, and approach that helps rather than hurts.
+
+## Evidence for Exercise as Prevention
+
+Research shows:
+- Regular aerobic exercise reduces migraine frequency
+- 30-45 minutes of moderate exercise, 3-5x/week is effective
+- Benefits comparable to some preventive medications
+- Works for tension-type headaches too
+
+## Neck and Shoulder Exercises
+
+Many headaches involve neck tension. Target these areas:
+
+### Chin Tucks
+
+1. Sit or stand tall
+2. Draw chin straight back (make a double chin)
+3. Hold 5 seconds
+4. Repeat 10 times
+5. Do several times daily
+
+### Neck Rotation
+
+1. Slowly turn head to look over one shoulder
+2. Hold 15-30 seconds
+3. Return to center
+4. Repeat other side
+5. 3 repetitions each side
+
+### Neck Lateral Flexion
+
+1. Tilt ear toward shoulder
+2. Don't raise shoulder
+3. Hold 15-30 seconds
+4. Repeat other side
+5. 3 repetitions each side
+
+### Upper Trapezius Stretch
+
+1. Sit, hold bottom of chair with one hand
+2. Tilt head away from that side
+3. Gently pull head further with other hand
+4. Hold 30 seconds
+5. Repeat other side
+
+### Levator Scapulae Stretch
+
+1. Turn head 45 degrees to one side
+2. Look down toward armpit
+3. Use hand to gently increase stretch
+4. Hold 30 seconds
+5. Repeat other side
+
+### Shoulder Rolls
+
+1. Roll shoulders forward 10 times
+2. Roll shoulders backward 10 times
+3. Repeat several times daily
+
+### Scapular Squeezes
+
+1. Sit or stand tall
+2. Squeeze shoulder blades together
+3. Hold 5 seconds
+4. 10 repetitions
+
+## Aerobic Exercise for Prevention
+
+### Best Types
+
+**Walking**
+- Low intensity, low risk
+- 30-45 minutes
+- Most accessible option
+
+**Swimming**
+- No impact
+- Full body
+- Cool water may help
+
+**Cycling**
+- Low impact
+- Can control intensity precisely
+- Indoor cycling avoids weather triggers
+
+**Elliptical**
+- Low impact
+- Can monitor intensity
+
+### Intensity Matters
+
+- **Moderate intensity is best** (can talk but slightly breathless)
+- **High intensity may trigger headaches** in sensitive individuals
+- **Build up gradually** if you're not currently exercising
+
+### Avoiding Exercise-Triggered Headaches
+
+- **Warm up gradually** (5-10 minutes easy movement)
+- **Stay hydrated** (drink before, during, after)
+- **Avoid exercising in heat**
+- **Don't skip meals before exercise**
+- **Cool down gradually**
+- **Avoid breath-holding during strength training**
+
+## Relaxation and Breathing
+
+### Diaphragmatic Breathing
+
+1. Sit or lie comfortably
+2. Hand on belly
+3. Breathe in—belly rises
+4. Breathe out slowly—belly falls
+5. 5-10 minutes, 1-2 times daily
+
+**Useful during headache** and for prevention.
+
+### Progressive Muscle Relaxation
+
+1. Tense muscle group for 5 seconds
+2. Release and relax for 30 seconds
+3. Work through body: feet, legs, abdomen, hands, arms, shoulders, face
+4. 10-15 minutes
+
+### Gentle Yoga
+
+- Child's pose
+- Cat-cow
+- Seated forward fold
+- Legs up the wall
+- Avoid inversions if they trigger headaches
+
+## During a Headache
+
+**If mild:**
+- Gentle stretching may help
+- Walking at easy pace
+- Neck stretches
+
+**If moderate to severe:**
+- Rest is usually best
+- Avoid intense exercise
+- May worsen symptoms
+
+**Individual variation:** Some people find exercise helps during a headache; others find it makes things worse. Know your pattern.
+
+## Sample Prevention Program
+
+**Daily (5-10 minutes):**
+- Neck stretches (chin tucks, rotation, lateral flexion)
+- Shoulder rolls and scapular squeezes
+- Diaphragmatic breathing (5 minutes)
+
+**3-5x/Week (30-45 minutes):**
+- Moderate aerobic exercise
+- Walking, swimming, cycling, or elliptical
+- Include warm-up and cool-down
+
+**2x/Week:**
+- Longer relaxation practice (progressive muscle relaxation, yoga)
+
+## Special Considerations
+
+### Migraine with Aura
+
+- Exercise during aura is generally not recommended
+- Wait until aura resolves
+- Light walking may be okay
+- Know your personal triggers
+
+### Exercise as a Trigger
+
+If exercise triggers your headaches:
+- Try lower intensity
+- Ensure adequate hydration
+- Avoid exercising in heat
+- Try different types of exercise
+- Gradually increase over weeks
+
+### Medication Considerations
+
+- Beta-blockers (common migraine preventives) may affect exercise heart rate
+- Discuss with your doctor
+- Monitor how you feel rather than heart rate alone
+
+## The Bottom Line
+
+Exercise is a legitimate headache prevention tool:
+
+1. Regular aerobic exercise reduces headache frequency
+2. Target neck and shoulder tension
+3. Use proper warm-up and hydration
+4. Moderate intensity is usually best
+5. Avoid triggers (heat, dehydration, skipped meals)
+6. Relaxation techniques complement exercise
+
+The right movement routine can significantly reduce headache burden—without medication.
+
+---
+
+*Foundational Rehab provides gentle programs including neck and shoulder mobility routines.*
+    \`
+  },
+  'foot-pain-exercises': {
+    title: 'Foot Pain Exercises: Strengthen and Stretch for Healthier Feet',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Why Foot Exercises Matter
+
+Your feet contain 26 bones, 33 joints, and over 100 muscles, tendons, and ligaments each. They're the foundation of your body, yet often neglected.
+
+**Common foot problems helped by exercise:**
+- Plantar fasciitis
+- Flat feet
+- High arches
+- Bunions
+- Hammertoes
+- General foot pain
+- Weak ankles
+- Poor balance
+
+## Stretching Exercises
+
+### Plantar Fascia Stretch
+
+1. Sit and cross affected foot over opposite knee
+2. Pull toes back toward shin
+3. Feel stretch along arch
+4. Hold 30-60 seconds
+5. 3 repetitions, especially first thing in morning
+
+### Calf Stretches
+
+Tight calves contribute to many foot problems:
+
+**Gastrocnemius Stretch (Straight Knee)**
+1. Stand facing wall
+2. Step back with affected leg
+3. Keep heel down, knee straight
+4. Lean forward
+5. Hold 30 seconds, 3 times each leg
+
+**Soleus Stretch (Bent Knee)**
+1. Same position but bend back knee
+2. Keep heel down
+3. Feel stretch lower in calf
+4. Hold 30 seconds, 3 times each leg
+
+### Toe Stretches
+
+**Toe Extension**
+1. Sit with foot flat on floor
+2. Lift all toes while keeping ball of foot down
+3. Hold 5 seconds
+4. 10 repetitions
+
+**Toe Splay**
+1. Spread toes as wide as possible
+2. Hold 5 seconds
+3. Relax
+4. 10 repetitions
+
+### Achilles Stretch
+
+1. Stand on step with heels off edge
+2. Lower heels below step level
+3. Hold 30 seconds
+4. 3 repetitions
+
+## Strengthening Exercises
+
+### Towel Scrunches
+
+1. Place towel on floor
+2. Sit with foot on towel
+3. Scrunch towel toward you using only toes
+4. Spread it back out
+5. 2-3 repetitions of full towel
+
+### Marble Pickups
+
+1. Place marbles (or small objects) on floor
+2. Pick up one at a time using toes
+3. Place in a cup
+4. 10-20 marbles
+5. Repeat with other foot
+
+### Short Foot Exercise
+
+Strengthens arch muscles (intrinsics):
+
+1. Sit with foot flat on floor
+2. Without curling toes, draw ball of foot toward heel
+3. Arch should lift slightly
+4. Hold 5-10 seconds
+5. 10 repetitions
+6. Progress to standing
+
+### Toe Yoga
+
+**Big Toe Independence:**
+1. Lift big toe while keeping other toes down
+2. Then lift other toes while keeping big toe down
+3. 10 repetitions each
+
+### Heel Raises
+
+1. Stand with feet hip-width (hold support if needed)
+2. Rise onto toes
+3. Lower slowly
+4. 15-20 repetitions
+5. Progress: single leg, off step
+
+### Toe Raises
+
+1. Stand with weight on heels
+2. Lift toes and forefoot off ground
+3. Lower with control
+4. 15-20 repetitions
+
+### Ankle Circles
+
+1. Sit with leg extended
+2. Circle ankle clockwise
+3. Then counterclockwise
+4. 10 circles each direction
+
+### Resisted Ankle Exercises
+
+Using resistance band:
+
+**Dorsiflexion**
+1. Loop band around foot, anchor to fixed object
+2. Pull foot toward shin against resistance
+3. 15 repetitions
+
+**Plantarflexion**
+1. Loop band around foot, hold ends
+2. Point foot against resistance
+3. 15 repetitions
+
+**Inversion/Eversion**
+1. Anchor band appropriately
+2. Turn foot in/out against resistance
+3. 15 repetitions each direction
+
+## Balance Exercises
+
+Good for ankle stability and foot strength:
+
+**Single Leg Stand**
+1. Stand on one foot
+2. Hold support if needed
+3. Progress: no support, eyes closed, unstable surface
+4. 30 seconds each foot
+
+**Tandem Walking**
+1. Walk heel-to-toe in a line
+2. 20 steps
+
+## Exercises by Condition
+
+### Plantar Fasciitis
+
+**Priority exercises:**
+- Plantar fascia stretch (especially morning)
+- Calf stretches (both muscles)
+- Towel scrunches
+- Achilles eccentric lowering
+
+### Flat Feet
+
+**Priority exercises:**
+- Short foot exercise
+- Heel raises
+- Toe yoga
+- Arch strengthening with band
+
+### High Arches
+
+**Priority exercises:**
+- Calf stretches
+- Plantar fascia stretch
+- Ankle mobility circles
+- Toe stretches
+
+### Bunions
+
+**Priority exercises:**
+- Toe splay
+- Big toe stretches
+- Toe spacer wearing
+- Short foot exercise
+
+## Self-Massage
+
+### Tennis Ball Roll
+
+1. Stand or sit
+2. Place tennis ball under foot
+3. Roll ball along arch, heel to toe
+4. Apply comfortable pressure
+5. 2-3 minutes per foot
+
+### Frozen Water Bottle
+
+For plantar fasciitis:
+1. Freeze water bottle
+2. Roll under foot
+3. Combines massage and ice
+4. 10 minutes
+
+## Footwear Considerations
+
+Exercise works best with supportive footwear choices:
+
+- Avoid flat, unsupportive shoes
+- Consider arch support if needed
+- Toe box should allow toe spread
+- Replace worn shoes
+- Gradually transition to minimalist shoes (if desired)
+
+## Sample Daily Routine
+
+**Morning (5 minutes):**
+- Plantar fascia stretch before getting up
+- Calf stretches
+- Ankle circles
+
+**Anytime (5 minutes):**
+- Towel scrunches or marble pickups
+- Short foot exercise
+- Toe yoga
+
+**Evening (5 minutes):**
+- Tennis ball roll
+- All stretches
+- Balance work
+
+## When to Seek Help
+
+See a podiatrist or physical therapist if:
+- Pain persists despite 4-6 weeks of exercise
+- Numbness or tingling
+- Visible deformity worsening
+- Unable to bear weight
+- Signs of infection
+
+## The Bottom Line
+
+Healthy feet require attention:
+
+1. Stretch calves and plantar fascia daily
+2. Strengthen intrinsic foot muscles
+3. Work on balance and ankle stability
+4. Self-massage helps
+5. Choose appropriate footwear
+6. Consistency matters
+
+Your feet carry you everywhere. Take care of them.
+
+---
+
+*Foundational Rehab provides foot and ankle programs to build a stronger foundation.*
+    \`
+  },
+  'hand-finger-exercises-pain-stiffness': {
+    title: 'Hand and Finger Exercises: Relieve Pain, Stiffness, and Weakness',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: \`
+## Why Hand Exercises Matter
+
+Your hands perform thousands of movements daily. Problems arise from:
+
+- Arthritis (osteoarthritis, rheumatoid)
+- Overuse (typing, gripping, repetitive tasks)
+- Injury
+- Carpal tunnel syndrome
+- Trigger finger
+- Tendinitis
+- General stiffness and weakness
+
+Exercise maintains function, reduces pain, and can slow progression of some conditions.
+
+## Range of Motion Exercises
+
+### Finger Bends
+
+**Full Fist**
+1. Start with fingers straight
+2. Curl into a full fist
+3. Open fully
+4. 10 repetitions
+
+**Hook Fist**
+1. Start with fingers straight
+2. Bend fingers at middle and end joints (not knuckles)
+3. Return to straight
+4. 10 repetitions
+
+**Straight Fist**
+1. Start with fingers straight
+2. Bend at knuckles only (fingers stay straight)
+3. Return
+4. 10 repetitions
+
+### Finger Spreads
+
+1. Start with fingers together
+2. Spread fingers as wide as possible
+3. Bring back together
+4. 10 repetitions
+
+### Thumb Exercises
+
+**Thumb Opposition**
+1. Touch thumb to each fingertip
+2. Make an "O" shape each time
+3. 10 cycles
+
+**Thumb Extension**
+1. Start with thumb tucked across palm
+2. Extend thumb out and away
+3. 10 repetitions
+
+**Thumb Circles**
+1. Circle thumb in both directions
+2. 10 circles each way
+
+### Wrist Exercises
+
+**Wrist Flexion/Extension**
+1. Rest forearm on table, hand over edge
+2. Bend wrist down (flexion)
+3. Bend wrist up (extension)
+4. 10 repetitions each direction
+
+**Wrist Circles**
+1. Circle wrist clockwise
+2. Circle counterclockwise
+3. 10 circles each direction
+
+**Wrist Deviation**
+1. Rest forearm on table, thumb up
+2. Move hand toward thumb side (radial deviation)
+3. Move hand toward pinky side (ulnar deviation)
+4. 10 repetitions
+
+## Stretching Exercises
+
+### Finger Stretches
+
+**Prayer Stretch**
+1. Press palms together in front of chest
+2. Lower hands while keeping palms together
+3. Feel stretch in wrists and fingers
+4. Hold 30 seconds
+
+**Reverse Prayer**
+1. Press backs of hands together
+2. Raise hands while keeping contact
+3. Feel stretch on top of wrists
+4. Hold 30 seconds
+
+**Individual Finger Stretch**
+1. Use other hand to gently pull each finger back
+2. Hold 10-15 seconds each
+3. Don't force into pain
+
+### Wrist Stretches
+
+**Wrist Flexor Stretch**
+1. Extend arm, palm up
+2. Use other hand to pull fingers down
+3. Hold 30 seconds
+4. Repeat other side
+
+**Wrist Extensor Stretch**
+1. Extend arm, palm down
+2. Use other hand to bend wrist down
+3. Hold 30 seconds
+4. Repeat other side
+
+## Strengthening Exercises
+
+### Grip Strengthening
+
+**Ball Squeeze**
+1. Hold stress ball or soft ball
+2. Squeeze firmly
+3. Hold 3-5 seconds
+4. Release
+5. 10-15 repetitions
+6. Avoid if joints are inflamed
+
+**Putty Exercises**
+Therapy putty allows various resistance levels:
+- Pinching
+- Finger extension
+- Grip strengthening
+
+### Finger Strengthening
+
+**Rubber Band Extension**
+1. Place rubber band around all fingers
+2. Spread fingers against resistance
+3. 15-20 repetitions
+
+**Finger Pinch**
+1. Pinch putty or soft ball between fingers
+2. Each finger against thumb
+3. 10 pinches each finger
+
+### Wrist Strengthening
+
+**Wrist Curls**
+1. Hold light weight (1-3 lbs)
+2. Rest forearm on table, palm up
+3. Curl wrist up
+4. Lower slowly
+5. 10-15 repetitions
+
+**Reverse Wrist Curls**
+1. Same position, palm down
+2. Lift wrist up
+3. Lower slowly
+4. 10-15 repetitions
+
+## Exercises by Condition
+
+### Arthritis
+
+**Focus on:**
+- Gentle range of motion daily
+- Avoid gripping exercises during flares
+- Warm up hands before exercise (warm water)
+- Strengthening when joints calm
+
+### Carpal Tunnel
+
+**Focus on:**
+- Nerve gliding exercises
+- Wrist stretches
+- Tendon gliding
+- Avoid aggravating grip work
+
+**Nerve Glides (Median):**
+1. Start with elbow bent, wrist neutral, fingers in fist
+2. Extend fingers and wrist
+3. Extend elbow
+4. Turn palm up
+5. Gently extend wrist further
+6. Move smoothly through sequence
+7. 10 repetitions
+
+### Trigger Finger
+
+**Focus on:**
+- Tendon gliding exercises
+- Gentle finger bends
+- Avoid sustained gripping
+
+**Tendon Glides:**
+1. Straight fingers
+2. Hook fist
+3. Full fist
+4. Straight fist
+5. Move through sequence smoothly
+6. 10 cycles
+
+### Overuse/Typing
+
+**Focus on:**
+- Frequent stretch breaks
+- Wrist stretches
+- Finger spreads
+- Ergonomic improvements
+
+## Heat and Cold
+
+**Heat before exercise:**
+- Warm water soak (5-10 minutes)
+- Paraffin wax bath
+- Warm pack
+- Reduces stiffness, improves mobility
+
+**Cold after exercise:**
+- If joints are warm or swollen
+- Ice pack (10-15 minutes)
+- Reduces inflammation
+
+## Sample Daily Routine
+
+**Morning (5 minutes):**
+- Warm up hands (warm water or simply rubbing together)
+- All range of motion exercises
+- Stretches
+
+**Work breaks (2-3 minutes):**
+- Finger spreads
+- Wrist circles
+- Prayer stretch and reverse
+
+**Evening (5 minutes):**
+- Full range of motion routine
+- Strengthening (if not flared)
+- Stretches
+
+## When to See a Professional
+
+Consult a hand therapist or doctor if:
+- Significant persistent pain
+- Numbness or tingling that doesn't resolve
+- Visible deformity
+- Locking or catching
+- Weakness affecting function
+- No improvement with 4-6 weeks of exercise
+
+## The Bottom Line
+
+Hand health requires daily attention:
+
+1. Move through full range of motion daily
+2. Stretch wrists and fingers
+3. Strengthen gradually
+4. Use heat to warm up
+5. Take breaks during repetitive tasks
+6. Seek help if problems persist
+
+Your hands do so much—give them the care they need.
+
+---
+
+*Foundational Rehab provides hand and upper extremity programs for maintaining function and reducing pain.*
+    \`
   }
 };
 

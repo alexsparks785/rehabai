@@ -2489,6 +2489,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read'
+  },
+  {
+    slug: 'vestibular-rehabilitation-exercises',
+    title: 'Vestibular Rehabilitation: Exercises for Dizziness and Balance Problems',
+    excerpt: 'Dizziness from inner ear problems? Vestibular rehab exercises can retrain your balance system and reduce symptoms.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-headaches-migraines',
+    title: 'Exercises for Headaches and Migraines: Movement That Helps, Not Hurts',
+    excerpt: 'The right exercise can reduce headache frequency. Learn which movements help and how to exercise without triggering pain.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'foot-pain-exercises',
+    title: 'Foot Pain Exercises: Strengthen and Stretch for Healthier Feet',
+    excerpt: 'From arch pain to toe problems, these exercises address common foot issues and build a stronger foundation.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'hand-finger-exercises-pain-stiffness',
+    title: 'Hand and Finger Exercises: Relieve Pain, Stiffness, and Weakness',
+    excerpt: 'Whether from arthritis, overuse, or injury, these hand exercises restore mobility and reduce discomfort.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
   }
 ];
 
