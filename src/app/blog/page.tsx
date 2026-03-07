@@ -2309,6 +2309,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read'
+  },
+  {
+    slug: 'scoliosis-exercises-spinal-curvature',
+    title: 'Scoliosis Exercises: Can You Improve Spinal Curvature?',
+    excerpt: 'While exercise can\'t reverse scoliosis, the right approach can reduce pain, improve function, and prevent progression.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'osteoporosis-exercises-bone-health',
+    title: 'Osteoporosis Exercises: Build Bone Strength and Reduce Fracture Risk',
+    excerpt: 'Weight-bearing exercise is essential for bone health. Learn which exercises help—and which to avoid with osteoporosis.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'spinal-stenosis-exercises-relief',
+    title: 'Spinal Stenosis Exercises: Relieve Nerve Compression Naturally',
+    excerpt: 'Spinal stenosis responds well to the right exercises. Learn flexion-based movements that open the spinal canal and reduce symptoms.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'kyphosis-exercises-rounded-upper-back',
+    title: 'Kyphosis Exercises: Fix Rounded Upper Back and Improve Posture',
+    excerpt: 'Excessive upper back rounding affects posture, breathing, and shoulder function. These exercises can help straighten your spine.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '5 min read'
   }
 ];
 

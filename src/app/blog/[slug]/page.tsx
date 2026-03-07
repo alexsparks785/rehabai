@@ -57166,6 +57166,819 @@ The spinning may be terrifying, but BPPV is benign. With the right maneuver, rel
 
 *Foundational Rehab provides guidance for balance and vestibular conditions alongside our musculoskeletal programs.*
     \`
+  },
+  'scoliosis-exercises-spinal-curvature': {
+    title: 'Scoliosis Exercises: Can You Improve Spinal Curvature?',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '6 min read',
+    content: \`
+## What Is Scoliosis?
+
+Scoliosis is a lateral (sideways) curvature of the spine greater than 10 degrees, often with rotation. It can appear as:
+
+- Uneven shoulders or hips
+- One shoulder blade more prominent
+- Uneven waist
+- Leaning to one side
+
+**Types:**
+- **Idiopathic:** Most common (80%), unknown cause, typically develops in adolescence
+- **Congenital:** Present at birth due to vertebral malformation
+- **Neuromuscular:** Due to conditions like cerebral palsy or muscular dystrophy
+- **Degenerative:** Develops in adults due to disc and joint wear
+
+## Can Exercise Fix Scoliosis?
+
+Let's be honest: **Exercise cannot reverse structural scoliosis in adults.**
+
+However, exercise CAN:
+- Reduce pain and muscle tension
+- Improve posture and appearance
+- Strengthen supporting muscles
+- Increase flexibility
+- Slow progression (especially in adolescents)
+- Improve breathing capacity
+- Enhance quality of life
+
+For adolescents with curves 25-45°, specific exercises like Schroth therapy may help prevent progression.
+
+## General Exercise Principles
+
+### 1. Strengthen Both Sides
+
+Don't just work the "weak" side. Build balanced strength throughout your trunk.
+
+### 2. Focus on Core Stability
+
+A strong core supports your spine regardless of curvature.
+
+### 3. Improve Flexibility
+
+Tight muscles can worsen asymmetry. Stretch both sides.
+
+### 4. Maintain Good Posture
+
+Be aware of your alignment during daily activities.
+
+### 5. Stay Active
+
+General fitness matters. Swim, walk, cycle—movement is good.
+
+## Core Strengthening Exercises
+
+**Dead Bug**
+1. Lie on back, arms toward ceiling, knees at 90°
+2. Lower opposite arm and leg toward floor
+3. Keep lower back pressed down
+4. Return, repeat other side
+5. 10 reps each side, 3 sets
+
+**Bird Dog**
+1. On hands and knees, spine neutral
+2. Extend opposite arm and leg
+3. Hold 5 seconds
+4. Return, repeat other side
+5. 10 reps each side, 3 sets
+
+**Side Plank**
+1. Lie on side, elbow under shoulder
+2. Lift hips, body in straight line
+3. Hold 20-30 seconds
+4. 3 reps each side
+
+**Pallof Press**
+1. Stand sideways to cable/band
+2. Hold at chest, press arms straight
+3. Resist rotation
+4. Hold 5 seconds, 10 reps each side
+
+## Stretching Exercises
+
+**Cat-Cow**
+1. On hands and knees
+2. Arch back up (cat), then drop belly down (cow)
+3. Move slowly through full range
+4. 10 repetitions
+
+**Child's Pose**
+1. Kneel, sit back on heels
+2. Reach arms forward on floor
+3. Hold 30-60 seconds
+4. Walk hands to each side for lateral stretch
+
+**Thoracic Rotation**
+1. On hands and knees
+2. Place one hand behind head
+3. Rotate toward ceiling, opening chest
+4. Return, repeat 10 times each side
+
+**Latissimus Stretch**
+1. Hold doorway or pole overhead
+2. Step back, hinge at hips
+3. Feel stretch along side
+4. Hold 30 seconds each side
+
+## Schroth Method Basics
+
+The Schroth method is a specialized scoliosis exercise approach developed in Germany. It uses:
+
+- **Three-dimensional correction:** Addresses the curve in all planes
+- **Rotational breathing:** Uses breath to de-rotate the spine
+- **Postural awareness:** Daily positioning strategies
+- **Muscle activation:** Specific to your curve pattern
+
+If you have moderate scoliosis (20°+), consider working with a Schroth-certified therapist.
+
+### Simple Schroth-Inspired Exercise
+
+**Wall Elongation**
+1. Stand with back against wall
+2. Imagine a string pulling you up from the crown of your head
+3. Actively elongate your spine
+4. Breathe into your concave (compressed) side
+5. Hold 30 seconds, repeat 5 times
+
+## Swimming for Scoliosis
+
+Swimming is often recommended for scoliosis because:
+
+- No impact on the spine
+- Symmetrical muscle use
+- Core engagement
+- Breathing work
+- Full-body exercise
+
+**Best strokes:** Backstroke and freestyle (avoid breaststroke if it causes pain)
+
+## What to Avoid
+
+**High-impact activities** that compress the spine may aggravate symptoms:
+- Heavy overhead lifting (with poor form)
+- High-impact running (on hard surfaces)
+- Contact sports (depending on severity)
+
+But don't avoid all activity. Most sports are fine with proper conditioning.
+
+**Avoid:**
+- One-sided exercises that increase asymmetry
+- Hyperextension movements if painful
+- Sleeping on your stomach
+
+## When to See a Specialist
+
+- Curves greater than 25° (especially in growing adolescents)
+- Rapidly progressing curves
+- Significant pain or functional limitation
+- Breathing difficulties
+- Neurological symptoms
+
+An orthopedic spine specialist or physical therapist experienced in scoliosis can provide individualized guidance.
+
+## The Bottom Line
+
+Exercise is valuable for scoliosis management, even if it can't reverse structural curves. Focus on:
+
+1. Core stability
+2. Balanced strength
+3. Flexibility
+4. Postural awareness
+5. General fitness
+
+For significant curves, specialized approaches like Schroth therapy can provide more targeted correction. Work with professionals who understand scoliosis.
+
+---
+
+*Foundational Rehab provides core and posture programs that support spinal health.*
+    \`
+  },
+  'osteoporosis-exercises-bone-health': {
+    title: 'Osteoporosis Exercises: Build Bone Strength and Reduce Fracture Risk',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Understanding Osteoporosis
+
+Osteoporosis means "porous bone." It's a condition where bones become weak and brittle, increasing fracture risk. Common fracture sites:
+
+- Spine (compression fractures)
+- Hip
+- Wrist
+- Shoulder
+
+You may not know you have it until a fracture occurs. That's why prevention through exercise and nutrition matters.
+
+## How Exercise Builds Bone
+
+Bones respond to stress by getting stronger. This is called **Wolff's Law**—bone adapts to the loads placed on it.
+
+**What stimulates bone:**
+- Weight-bearing activities (gravity)
+- Resistance training (muscle pulling on bone)
+- Impact forces (stepping, jumping)
+
+**What doesn't help bone:**
+- Swimming (no gravity load)
+- Cycling (non-weight bearing)
+- Stretching alone
+
+Note: Swimming and cycling are still great for overall health—just add weight-bearing work too.
+
+## Best Exercises for Bone Health
+
+### Weight-Bearing Aerobic Exercise
+
+Activities where you support your body weight:
+
+**Walking**
+- Simple and effective
+- 30+ minutes most days
+- Progress to brisk pace and hills
+
+**Hiking**
+- Varied terrain increases bone stress
+- Uneven surfaces build balance too
+
+**Stair Climbing**
+- Higher impact than flat walking
+- Use at home or gym
+
+**Dancing**
+- Fun and social
+- Multidirectional movement
+- Various impact levels
+
+**Low-Impact Options** (if higher impact causes pain):
+- Elliptical trainer
+- Low-impact aerobics
+
+### Resistance Training
+
+**Why it works:** Muscles pull on bones, stimulating growth at attachment points.
+
+**Key principles:**
+- Target major muscle groups
+- Use challenging weights (not just light weights)
+- Progress over time
+- 2-3 sessions per week
+
+**Essential Exercises:**
+
+**Squats**
+1. Stand with feet shoulder-width
+2. Sit back and down, keeping chest up
+3. Go to comfortable depth
+4. Stand back up
+5. 2-3 sets of 10-12
+
+**Deadlifts/Hip Hinge**
+1. Hold weight in front of thighs
+2. Hinge at hips, pushing buttocks back
+3. Keep back straight, slight knee bend
+4. Return to standing
+5. 2-3 sets of 10-12
+
+**Lunges**
+1. Step forward into lunge
+2. Lower back knee toward floor
+3. Push back to start
+4. 2-3 sets of 10 each leg
+
+**Standing Row**
+1. Hold band or cable
+2. Pull elbows back, squeeze shoulder blades
+3. Return with control
+4. 2-3 sets of 12-15
+
+**Overhead Press**
+1. Hold weights at shoulders
+2. Press overhead
+3. Lower with control
+4. 2-3 sets of 10-12
+
+### Balance Training
+
+Falls cause fractures. Better balance = fewer falls.
+
+**Single-Leg Stand**
+1. Stand on one leg
+2. Hold 30 seconds
+3. Progress: eyes closed, unstable surface
+
+**Tandem Walking**
+1. Walk heel-to-toe in a line
+2. 20 steps forward and back
+
+**Tai Chi**
+- Excellent for balance
+- Studies show reduced fall risk
+- Low impact, meditative
+
+## Exercises to Avoid (or Modify)
+
+With osteoporosis, avoid:
+
+### Spinal Flexion Under Load
+- Crunches and sit-ups
+- Toe touches
+- Loaded forward bending
+
+These compress the front of vertebrae, risking compression fractures.
+
+### High Twisting Forces
+- Golf swings (unless modified)
+- Aggressive rotation exercises
+
+### High-Impact Activities (if severe osteoporosis)
+- Running on hard surfaces
+- Jumping (may be okay with milder osteoporosis)
+- Contact sports
+
+**Note:** If you have osteopenia (mild bone loss) rather than osteoporosis, you may tolerate more activities. Discuss with your doctor.
+
+## Sample Weekly Program
+
+**Monday:** Resistance training (full body)
+- Squats, deadlifts, rows, overhead press
+- 30-40 minutes
+
+**Tuesday:** Weight-bearing cardio
+- Brisk walking or dancing
+- 30-45 minutes
+- Add balance exercises (5-10 minutes)
+
+**Wednesday:** Rest or gentle yoga (avoid forward folds)
+
+**Thursday:** Resistance training
+- Different exercises or same routine
+- 30-40 minutes
+
+**Friday:** Weight-bearing cardio
+- Hiking, stair climbing, or aerobics
+- 30-45 minutes
+- Balance exercises (5-10 minutes)
+
+**Weekend:** Active recreation
+- Walking, gardening, dancing
+- Stay moving
+
+## How Much Is Enough?
+
+Research suggests:
+- **Resistance training:** 2-3x/week, targeting all major muscle groups
+- **Weight-bearing cardio:** Most days, 30+ minutes
+- **Balance training:** Daily if high fall risk, 3x/week otherwise
+
+**Key:** Consistency matters more than intensity. Build gradually.
+
+## Beyond Exercise
+
+Exercise is crucial, but also address:
+
+- **Calcium:** 1000-1200mg daily (food first, then supplements)
+- **Vitamin D:** 800-1000 IU daily (get levels checked)
+- **Protein:** Adequate intake supports muscle and bone
+- **Fall prevention:** Remove home hazards, use night lights
+- **Medications:** Discuss with doctor if indicated
+
+## The Bottom Line
+
+Exercise can't reverse osteoporosis, but it can:
+- Slow bone loss
+- Build some bone density
+- Reduce fracture risk (through strength and balance)
+- Improve quality of life
+
+Focus on:
+1. Weight-bearing activities
+2. Progressive resistance training
+3. Balance exercises
+4. Avoiding high-risk movements
+
+Start where you are, progress gradually, and stay consistent.
+
+---
+
+*Foundational Rehab offers bone-safe strengthening programs designed for osteoporosis management.*
+    \`
+  },
+  'spinal-stenosis-exercises-relief': {
+    title: 'Spinal Stenosis Exercises: Relieve Nerve Compression Naturally',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '6 min read',
+    content: \`
+## What Is Spinal Stenosis?
+
+Spinal stenosis is narrowing of the spinal canal or neural foramina (the openings where nerves exit). This narrowing compresses nerves, causing:
+
+- Back or neck pain
+- Leg or arm pain
+- Numbness or tingling
+- Weakness
+- Difficulty walking (lumbar stenosis)
+
+**Lumbar stenosis** (lower back) is most common, especially after age 50.
+
+## The Classic Symptom Pattern
+
+Lumbar spinal stenosis has a characteristic pattern called **neurogenic claudication:**
+
+- Leg pain, heaviness, or fatigue with walking or standing
+- Relief when sitting or bending forward
+- Better walking uphill than downhill
+- Better pushing a shopping cart (leaning forward)
+
+Why? Flexion (bending forward) opens the spinal canal. Extension (standing straight or arching back) closes it.
+
+## Why Exercise Helps
+
+Exercise can't reverse stenosis, but it can:
+
+- Strengthen supporting muscles
+- Improve posture
+- Increase walking tolerance
+- Reduce pain
+- Maintain function
+- Delay or prevent surgery
+
+Many people with stenosis manage well with conservative treatment.
+
+## The Key Principle: Flexion-Based Exercise
+
+Since flexion opens the spinal canal and extension closes it:
+
+**Emphasize:**
+- Forward bending movements
+- Flexion stretches
+- Core exercises in flexed positions
+
+**Avoid or limit:**
+- Backward bending (extension)
+- Prolonged standing
+- Walking long distances without breaks
+
+## Best Exercises for Spinal Stenosis
+
+### Flexion Stretches
+
+**Knee-to-Chest**
+1. Lie on back
+2. Pull one knee toward chest
+3. Hold 30 seconds
+4. Repeat other side
+5. Then both knees together
+
+**Pelvic Tilt**
+1. Lie on back, knees bent
+2. Flatten lower back into floor
+3. Hold 5-10 seconds
+4. 10-15 repetitions
+
+**Child's Pose**
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor
+4. Hold 30-60 seconds
+
+**Seated Forward Bend**
+1. Sit on chair
+2. Slowly fold forward
+3. Let arms hang toward floor
+4. Hold 20-30 seconds
+
+### Core Strengthening (Flexion-Biased)
+
+**Partial Curl-Up**
+1. Lie on back, knees bent
+2. Tuck chin, lift head and shoulders slightly
+3. Reach hands toward knees
+4. Hold 3-5 seconds
+5. 10-15 reps
+
+**Dead Bug (Modified)**
+1. Lie on back, knees bent, feet flat
+2. Flatten lower back into floor
+3. Lift one foot slightly, maintain flat back
+4. Lower, repeat other side
+5. 10 reps each side
+
+**Posterior Pelvic Tilt Marching**
+1. Lie on back, knees bent
+2. Flatten lower back (pelvic tilt)
+3. March feet alternately
+4. Maintain flat back throughout
+5. 20 marches total
+
+### Walking Program
+
+Walking is important but may need modification:
+
+**Strategies:**
+- Use a shopping cart or walker if needed (allows forward lean)
+- Take breaks when symptoms start
+- Walk shorter distances more frequently
+- Try treadmill with slight incline (forward lean)
+- Recumbent bike as alternative
+
+**Interval approach:**
+- Walk until symptoms begin (not until severe)
+- Sit and rest until symptoms resolve
+- Walk again
+- Gradually increase walking intervals
+
+### Stationary Cycling
+
+Recumbent or upright cycling is excellent because:
+- Seated position keeps spine flexed
+- No impact
+- Good cardiovascular exercise
+- Symptom-free for most stenosis patients
+
+Aim for 20-30 minutes most days.
+
+### Aquatic Exercise
+
+Water supports body weight and allows movement in comfortable positions:
+
+- Water walking
+- Aqua aerobics
+- Swimming (avoid breaststroke which extends spine)
+
+## Exercises to Avoid or Modify
+
+**Limit or avoid:**
+- Standing for long periods
+- Walking long distances without rest
+- Back extension exercises (cobra, prone press-ups)
+- Overhead reaching with back arched
+- Sleeping on stomach
+- High-impact activities
+
+**Modify:**
+- Standing tasks: use a footstool to rest one foot
+- Walking: use a cane or walker if helpful
+- Sleeping: lie on side with knees bent
+
+## Posture Tips
+
+**Standing:**
+- Avoid prolonged standing
+- If you must stand, place one foot on a low stool
+- Take sitting breaks frequently
+
+**Sitting:**
+- Generally comfortable—use this to your advantage
+- Supportive chair with good lumbar support
+
+**Sleeping:**
+- Side-lying with pillow between knees
+- Or on back with pillow under knees
+- Avoid stomach sleeping
+
+## Sample Daily Routine
+
+**Morning (10 minutes):**
+- Knee-to-chest stretches (both sides, then both)
+- Pelvic tilts x 15
+- Partial curl-ups x 10
+- Child's pose x 1 minute
+
+**Midday:**
+- Stationary bike or walking intervals
+- 20-30 minutes
+
+**Evening (10 minutes):**
+- Repeat morning routine
+- Seated forward bend
+- Any additional stretching as needed
+
+## When to See a Doctor
+
+Seek evaluation if:
+- Severe or worsening leg weakness
+- Bowel or bladder changes (emergency)
+- Symptoms not improving with 6-8 weeks of exercise
+- Pain preventing daily activities
+- Considering surgical options
+
+## The Bottom Line
+
+Spinal stenosis responds well to flexion-based exercise. The key is working WITH your anatomy:
+
+1. Emphasize forward bending
+2. Strengthen core in flexed positions
+3. Stay active with modifications
+4. Use cycling and aquatics
+5. Avoid prolonged extension
+
+Many people manage stenosis successfully without surgery through consistent, appropriate exercise.
+
+---
+
+*Foundational Rehab provides flexion-based back programs designed for spinal stenosis management.*
+    \`
+  },
+  'kyphosis-exercises-rounded-upper-back': {
+    title: 'Kyphosis Exercises: Fix Rounded Upper Back and Improve Posture',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '5 min read',
+    content: \`
+## What Is Kyphosis?
+
+Kyphosis is excessive forward curvature of the upper back (thoracic spine). Some curve is normal (20-45°), but beyond that it becomes problematic.
+
+**Types:**
+- **Postural kyphosis:** Most common, caused by poor posture. Flexible and correctable.
+- **Scheuermann's kyphosis:** Structural, develops in adolescence. More rigid.
+- **Age-related kyphosis:** Due to disc degeneration, compression fractures, or muscle weakness.
+
+## Signs of Excessive Kyphosis
+
+- Rounded upper back (hunchback appearance)
+- Forward head posture
+- Shoulders rolled forward
+- Reduced overhead mobility
+- Neck pain
+- Upper back pain or stiffness
+- Breathing difficulties (severe cases)
+
+## Can Exercise Fix Kyphosis?
+
+**Postural kyphosis:** Yes! Very responsive to exercise.
+
+**Structural kyphosis:** Exercise can improve flexibility, strength, and symptoms, but may not fully correct the curve.
+
+**Age-related kyphosis:** Exercise can slow progression and improve function, especially important for preventing falls.
+
+## The Exercise Approach
+
+To correct kyphosis, you need to:
+
+1. **Stretch** tight muscles (pecs, front shoulders)
+2. **Strengthen** weak muscles (mid-back, rear shoulders)
+3. **Mobilize** the thoracic spine
+4. **Build awareness** of proper posture
+
+## Stretching Exercises
+
+### Doorway Pec Stretch
+1. Stand in doorway
+2. Place forearms on door frame (elbows at shoulder height)
+3. Step forward until stretch felt in chest
+4. Hold 30 seconds
+5. Repeat at different angles (arms higher, then lower)
+
+### Corner Stretch
+1. Face corner of room
+2. Place forearms on each wall
+3. Lean into corner
+4. Hold 30 seconds
+
+### Chin Tuck Stretch
+1. Sit or stand tall
+2. Draw chin straight back (making a double chin)
+3. Hold 5 seconds
+4. 10 repetitions
+
+### Child's Pose with Reach
+1. Kneel, sit back on heels
+2. Reach arms forward on floor
+3. Focus on extending through upper back
+4. Hold 30-60 seconds
+
+## Strengthening Exercises
+
+### Prone Y-T-W Raises
+1. Lie face down on floor or bench
+2. **Y:** Lift arms at 45° angle, thumbs up
+3. **T:** Lift arms straight out to sides
+4. **W:** Arms at 45°, elbows bent, squeeze shoulder blades
+5. Hold each position 5 seconds, 10 reps each
+
+### Face Pulls (with band)
+1. Anchor band at face height
+2. Pull toward face, elbows high
+3. Squeeze shoulder blades at end
+4. 3 sets of 15
+
+### Rows (any variation)
+1. Pull weights or band toward chest
+2. Lead with elbows, squeeze back muscles
+3. Avoid shrugging shoulders
+4. 3 sets of 12-15
+
+### Reverse Fly
+1. Bend forward at hips
+2. Hold weights, arms hanging
+3. Lift arms out to sides
+4. Squeeze shoulder blades together
+5. 3 sets of 12-15
+
+### Wall Angels
+1. Stand with back against wall
+2. Arms in "goalpost" position against wall
+3. Slide arms up and down while maintaining contact
+4. 10-15 repetitions
+
+## Thoracic Mobility Exercises
+
+### Foam Roller Extension
+1. Lie on foam roller placed horizontally under upper back
+2. Support head with hands
+3. Gently extend over roller
+4. Move roller to different segments
+5. 1-2 minutes
+
+### Thoracic Rotation (Quadruped)
+1. On hands and knees
+2. Place one hand behind head
+3. Rotate, bringing elbow toward opposite arm
+4. Then rotate up toward ceiling
+5. 10 reps each side
+
+### Cat-Cow
+1. On hands and knees
+2. Arch back up (cat)
+3. Drop belly, lift head (cow)
+4. Emphasize upper back movement
+5. 10-15 repetitions
+
+### Thread the Needle
+1. On hands and knees
+2. Reach one arm under body, rotating upper back
+3. Return and reach same arm toward ceiling
+4. 10 reps each side
+
+## Posture Awareness
+
+### Postural Resets (Throughout Day)
+1. Stand tall, imagine string pulling up from head
+2. Draw shoulders back and down
+3. Engage core slightly
+4. Hold for 10 seconds
+5. Repeat every 30 minutes
+
+### Seated Posture
+- Sit back in chair
+- Feet flat on floor
+- Shoulders over hips
+- Screen at eye level
+- Take standing breaks frequently
+
+### Sleeping Position
+- Avoid stomach sleeping
+- Side sleeping: pillow supporting neck
+- Back sleeping: thin pillow, avoid propping head too high
+
+## Sample Daily Routine
+
+**Morning (10 minutes):**
+- Foam roller extension (2 minutes)
+- Cat-cow (10 reps)
+- Doorway pec stretch (30 sec each position)
+- Chin tucks (10 reps)
+
+**During Day:**
+- Postural resets every 30-60 minutes
+- Wall angels at lunch (10 reps)
+
+**Evening (10 minutes):**
+- Prone Y-T-W raises (10 each)
+- Face pulls or rows (2 sets of 15)
+- Thread the needle (10 each side)
+- Child's pose (1 minute)
+
+## How Long Until Results?
+
+- **Postural changes:** Noticeable within 2-4 weeks
+- **Pain reduction:** Often within 2-4 weeks
+- **Structural changes:** 3-6+ months of consistent work
+- **Full correction (postural kyphosis):** 3-12 months depending on severity
+
+Consistency is key—daily work beats occasional intense sessions.
+
+## The Bottom Line
+
+Kyphosis—especially the postural type—responds well to targeted exercise:
+
+1. Stretch tight chest and front shoulder muscles
+2. Strengthen weak upper back muscles
+3. Mobilize the thoracic spine
+4. Build postural awareness throughout the day
+
+Your posture developed over years; give it months to change. But improvements often come faster than you expect.
+
+---
+
+*Foundational Rehab provides posture correction programs targeting rounded upper back and forward head posture.*
+    \`
   }
 };
 
