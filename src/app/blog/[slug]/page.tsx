@@ -13,6 +13,785 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'stretching-for-golfers': {
+    title: 'Stretching for Golfers: Improve Your Swing and Prevent Injury',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Flexibility Matters for Golf
+
+Golf may look leisurely, but the swing demands significant flexibility:
+
+- Thoracic (upper back) rotation
+- Hip mobility
+- Shoulder flexibility
+- Core stability
+
+Limited flexibility reduces power, causes compensations, and leads to injury. Golfers commonly suffer from low back pain, shoulder problems, and elbow issues—often related to poor mobility.
+
+## Key Areas for Golfers
+
+### Thoracic Spine
+
+Rotation for the backswing and follow-through comes primarily from here. Limited thoracic mobility forces the lower back to compensate.
+
+### Hips
+
+Hip rotation is essential for power. Tight hips limit swing mechanics.
+
+### Shoulders
+
+The shoulder moves through large ranges during the swing. Tightness limits the backswing.
+
+### Lats
+
+Tight lats restrict overhead movement and rotation.
+
+### Hip Flexors
+
+Tight from sitting, they limit hip extension in the swing.
+
+## Pre-Round Dynamic Warm-Up (10 min)
+
+Do this before playing or practicing.
+
+### Arm Circles
+
+1. Large circles, 15 each direction
+2. Progressively increase speed
+
+### Torso Rotations
+
+1. Arms at shoulder height
+2. Rotate side to side
+3. 20 total rotations
+4. Gradually increase range
+
+### Hip Circles
+
+1. Hands on hips
+2. Circle hips 10 each direction
+
+### Leg Swings
+
+1. Hold club for balance
+2. Swing leg front to back: 15 each
+3. Swing leg side to side: 15 each
+
+### Club Behind Back Rotations
+
+1. Hold club behind back in elbows
+2. Rotate torso fully left, then right
+3. 15 rotations each direction
+
+### Practice Swings
+
+1. Start with half swings
+2. Gradually increase to full swings
+3. 10-15 practice swings
+
+## Post-Round Static Stretches (15 min)
+
+After playing, hold these stretches to maintain flexibility.
+
+### Thoracic Rotation
+
+**Seated Twist:**
+1. Sit cross-legged or in chair
+2. Place right hand on left knee
+3. Rotate torso left
+4. Hold 45 seconds each side
+
+**Thread the Needle:**
+1. On hands and knees
+2. Slide right arm under body
+3. Lower shoulder to floor
+4. Hold 45 seconds each side
+
+### Hip Stretches
+
+**Figure-4 Stretch:**
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull thigh toward chest
+4. Hold 45 seconds each side
+
+**Hip Flexor Stretch:**
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Hold 45 seconds each side
+
+**90-90 Stretch:**
+1. Front leg bent 90° in front
+2. Back leg bent 90° to side
+3. Hold 45 seconds each position
+
+### Shoulder and Lat Stretches
+
+**Cross-Body Stretch:**
+1. Pull arm across chest
+2. Hold 30 seconds each side
+
+**Lat Stretch:**
+1. Hold onto something sturdy
+2. Sit back, extending arm
+3. Feel stretch along side
+4. Hold 45 seconds each side
+
+**Sleeper Stretch:**
+1. Lie on side, arm out, elbow bent
+2. Push hand toward floor
+3. Hold 30 seconds each side
+
+### Back Stretches
+
+**Cat-Cow:**
+1. On hands and knees
+2. Round and arch back
+3. 15 reps
+
+**Child's Pose:**
+1. Kneel, sit back, reach forward
+2. Hold 1 minute
+
+**Supine Twist:**
+1. Lie on back, knees bent
+2. Drop knees to side
+3. Hold 45 seconds each side
+
+## Exercises for Golf-Specific Mobility
+
+### Thoracic Spine Rotation (Open Books)
+
+1. Lie on side, knees bent
+2. Arms together in front
+3. Rotate top arm open, following with eyes
+4. Return
+5. 15 reps each side
+
+### Hip Rotations (90-90 Transitions)
+
+1. Sit with both legs bent 90 degrees
+2. Rotate hips to switch leg positions
+3. 10 transitions
+
+### Shoulder Rotation with Club
+
+1. Hold club behind back vertically
+2. One hand high, one low
+3. Switch hand positions
+4. 10 switches
+
+## Common Golf Injuries and Prevention
+
+### Low Back Pain
+
+**Cause:** Rotational stress, poor mechanics
+**Prevention:** Thoracic mobility, hip flexibility, core strength
+
+### Golfer's Elbow
+
+**Cause:** Repetitive stress on forearm
+**Prevention:** Forearm stretches, grip modifications
+
+### Shoulder Pain
+
+**Cause:** Repetitive overhead motion
+**Prevention:** Rotator cuff exercises, lat and pec stretching
+
+### Knee Pain
+
+**Cause:** Rotational stress during swing
+**Prevention:** Hip mobility (reduces knee compensation)
+
+## The Bottom Line
+
+Golf performance depends on flexibility, especially in the thoracic spine and hips. A dynamic warm-up before playing and static stretching after keeps you flexible and injury-free. Invest the time—your swing and your body will thank you.
+`
+  },
+  'stretching-for-cyclists': {
+    title: 'Stretching for Cyclists: Essential Flexibility for Riders',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## The Cyclist's Flexibility Problem
+
+Cycling keeps you in a fixed position for hours:
+
+- Hips flexed (tight hip flexors)
+- Back rounded (tight chest, weak upper back)
+- Neck extended (tight neck)
+- Hamstrings shortened (at top of pedal stroke)
+- Shoulders forward (tight pecs)
+
+This creates predictable tightness patterns that affect both cycling performance and daily life.
+
+## Key Areas for Cyclists
+
+### Hip Flexors
+
+Constantly shortened while pedaling. Creates low back issues off the bike.
+
+### Quadriceps
+
+Work hard but in limited range. Need lengthening.
+
+### Hamstrings
+
+Shortened position at top of stroke. Often tight.
+
+### Glutes and Piriformis
+
+Deep muscles get tight from sustained hip position.
+
+### Lower Back
+
+Rounded position creates stiffness.
+
+### Chest and Shoulders
+
+Forward position tightens chest, weakens upper back.
+
+### Neck
+
+Extended position causes tightness.
+
+## Post-Ride Stretching Routine (15 min)
+
+Do this after every ride when muscles are warm.
+
+### Hip Flexors (2 min)
+
+**Half-Kneeling Stretch:**
+1. One knee down, other foot forward
+2. Tuck tailbone under
+3. Lean forward
+4. Hold 45-60 seconds each side
+
+### Quadriceps (2 min)
+
+**Standing or Side-Lying Quad Stretch:**
+1. Pull heel toward buttock
+2. Keep knees together
+3. Hold 45-60 seconds each side
+
+### Hamstrings (2 min)
+
+**Standing or Seated Stretch:**
+1. Leg extended, reach toward foot
+2. Keep back straight
+3. Hold 45-60 seconds each side
+
+### Glutes and Piriformis (2 min)
+
+**Figure-4 Stretch:**
+1. Cross ankle over knee
+2. Pull toward chest (lying) or lean forward (seated)
+3. Hold 45-60 seconds each side
+
+### Lower Back (2 min)
+
+**Child's Pose:**
+1. Kneel, sit back, reach forward
+2. Hold 1 minute
+
+**Supine Twist:**
+1. Knees bent, drop to side
+2. Hold 30 seconds each side
+
+### Chest and Shoulders (2 min)
+
+**Doorway Stretch:**
+1. Arm on door frame
+2. Step through
+3. Hold 30-45 seconds each side
+
+**Hands Behind Back:**
+1. Clasp hands behind
+2. Lift and open chest
+3. Hold 30 seconds
+
+### Neck (1 min)
+
+**Ear to Shoulder:**
+1. Drop ear toward shoulder
+2. Hold 20-30 seconds each side
+
+**Chin Tucks:**
+1. Pull chin back
+2. 10 reps
+
+## Pre-Ride Dynamic Warm-Up (5 min)
+
+### Leg Swings
+
+1. Front to back: 15 each leg
+2. Side to side: 15 each leg
+
+### Hip Circles
+
+1. Large circles: 10 each direction
+
+### Arm Circles
+
+1. 15 each direction
+
+### Torso Rotations
+
+1. Arms at shoulder height
+2. Rotate side to side: 15 each
+
+### Light Spinning
+
+1. Start ride with easy spinning
+2. Gradually build intensity over 5-10 minutes
+
+## Off-Bike Flexibility Work
+
+### Foam Rolling
+
+Pre-stretch foam rolling helps:
+- IT band area
+- Quads
+- Glutes
+- Upper back
+
+### Yoga for Cyclists
+
+Beneficial poses:
+- Pigeon (hip opener)
+- Low lunge (hip flexor)
+- Camel or cobra (chest opener)
+- Seated twist (spine mobility)
+
+### Strength to Balance Flexibility
+
+Cyclists should also strengthen:
+- Glutes (often weak despite tightness)
+- Upper back (counter rounded position)
+- Core (stability on bike)
+
+## Tips for Cyclist Flexibility
+
+### Stretch After Every Ride
+
+Warm muscles respond best. Make it routine.
+
+### Bike Fit
+
+Proper fit reduces excessive strain. Consider professional fitting.
+
+### Break Position on Long Rides
+
+Stand, stretch, change hand position regularly.
+
+### Regular Yoga or Stretching Class
+
+Weekly dedicated flexibility work helps.
+
+### Address Issues Early
+
+Tightness builds over time. Stay on top of it.
+
+## The Bottom Line
+
+Cycling creates predictable tightness. Post-ride stretching targeting hip flexors, quads, hamstrings, glutes, and chest keeps you flexible and prevents pain. Make stretching as routine as checking tire pressure—it's essential maintenance for your body.
+`
+  },
+  'stretching-for-swimmers': {
+    title: 'Stretching for Swimmers: Flexibility for Better Performance',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Why Swimmers Need Flexibility
+
+Swimming requires exceptional range of motion:
+
+- Shoulder flexibility for efficient strokes
+- Ankle flexibility for effective kick
+- Hip mobility for all strokes
+- Thoracic extension for streamlined position
+- Lat flexibility for overhead reach
+
+Flexible swimmers are faster and more efficient in the water.
+
+## Key Areas for Swimmers
+
+### Shoulders
+
+The most critical area. Swimming demands extreme shoulder range, and shoulder injuries are common.
+
+### Lats
+
+Tight lats limit overhead reach and stroke length.
+
+### Chest
+
+Tight chest pulls shoulders forward, limiting stroke mechanics.
+
+### Ankles
+
+Ankle plantarflexion (pointing) is essential for an effective kick.
+
+### Hips
+
+Hip mobility affects kick power and body rotation.
+
+### Thoracic Spine
+
+Extension and rotation for streamlining and breathing.
+
+## Pre-Swim Dynamic Warm-Up (10 min)
+
+### Arm Circles
+
+1. Large circles: 15 each direction
+2. Small circles: 15 each direction
+3. Both forward and backward
+
+### Arm Swings
+
+1. Swing arms across chest, alternating
+2. 20 total swings
+
+### Shoulder Rotations
+
+1. Arms at sides, rotate shoulders
+2. Forward and backward: 15 each
+
+### Torso Rotations
+
+1. Rotate upper body side to side
+2. 15 each direction
+
+### Hip Circles
+
+1. Large circles: 10 each direction
+
+### Leg Swings
+
+1. Front to back: 15 each leg
+2. Side to side: 15 each leg
+
+### Ankle Circles
+
+1. 15 each direction, each ankle
+
+### Swim-Specific Arm Movements
+
+1. Mimic stroke movements on deck
+2. Freestyle, backstroke, breaststroke, butterfly
+3. 10-15 strokes each
+
+## Post-Swim Static Stretches (15 min)
+
+### Shoulder Stretches
+
+**Cross-Body Stretch:**
+1. Pull arm across chest
+2. Hold 30-45 seconds each side
+
+**Overhead Tricep/Lat Stretch:**
+1. Arm overhead, bend elbow
+2. Pull elbow with other hand
+3. Lean to side
+4. Hold 30-45 seconds each side
+
+**Doorway/Wall Pec Stretch:**
+1. Arm on frame at 90 degrees
+2. Step through
+3. Hold 30-45 seconds each side
+
+**Shoulder Dislocates (with band):**
+1. Hold band wide
+2. Lift overhead and behind body
+3. 10-15 reps (post-swim mobility)
+
+### Lat Stretch
+
+**Child's Pose Reach:**
+1. Kneel, reach forward
+2. Walk hands to each side
+3. Hold 30-45 seconds each position
+
+**Hanging Stretch:**
+1. Hang from bar (feet can touch floor)
+2. Let body weight stretch
+3. 20-30 seconds
+
+### Chest Opener
+
+**Hands Behind Back:**
+1. Clasp hands behind
+2. Lift arms, open chest
+3. Hold 30-45 seconds
+
+### Ankle Stretches
+
+**Kneeling Ankle Stretch:**
+1. Kneel, sitting on heels
+2. Lean back slightly
+3. Feel stretch in top of foot/ankle
+4. Hold 30-45 seconds
+
+**Toe Point Practice:**
+1. Sitting, point toes as far as possible
+2. Hold 10 seconds, repeat 10 times
+
+### Hip Stretches
+
+**Butterfly:**
+1. Soles of feet together
+2. Lean forward
+3. Hold 45-60 seconds
+
+**Frog Pose:**
+1. Wide knees, hips back
+2. Forearms on floor
+3. Hold 45-60 seconds
+
+### Back Stretches
+
+**Cat-Cow:**
+1. Round and arch
+2. 15 reps
+
+**Thoracic Extension:**
+1. Foam roller under upper back
+2. Extend back over roller
+3. Arms overhead
+4. 10 reps at different positions
+
+## Swimmer-Specific Flexibility Goals
+
+### Streamline Position
+
+Test: Arms overhead, biceps by ears, hands stacked
+- Lats, shoulders, and thoracic spine must allow this
+
+### Ankle Plantarflexion
+
+Test: Sitting with legs extended, point toes toward floor
+- Goal: Toes should reach near the floor
+
+### Internal/External Shoulder Rotation
+
+Both are needed for different stroke phases. Test and stretch both.
+
+## Injury Prevention
+
+### Swimmer's Shoulder
+
+**Cause:** Repetitive overhead motion, muscle imbalances
+**Prevention:**
+- Rotator cuff strengthening
+- Pec and lat stretching
+- Scapular stability exercises
+
+### Lower Back Pain
+
+**Cause:** Hyperextension (butterfly, breaststroke)
+**Prevention:**
+- Core strengthening
+- Hip flexor stretching
+- Thoracic mobility (so lumbar doesn't over-rotate)
+
+## The Bottom Line
+
+Swimming demands exceptional flexibility, especially in shoulders, lats, and ankles. Dynamic warm-up before and static stretching after every swim maintains the mobility needed for fast, efficient, injury-free swimming. Make flexibility work as important as the swim itself.
+`
+  },
+  'stretching-at-work-office': {
+    title: 'Stretching at Work: Quick Exercises You Can Do at the Office',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Why Stretch at Work?
+
+The average office worker sits 8+ hours daily. This leads to:
+
+- Tight hip flexors and hamstrings
+- Rounded shoulders and forward head
+- Neck and upper back tension
+- Lower back stiffness
+- Reduced energy and focus
+
+Brief stretching breaks counteract these effects and boost productivity.
+
+## At-Desk Stretches (No Standing)
+
+### Neck Stretches
+
+**Chin Tucks:**
+1. Pull chin straight back
+2. Hold 5 seconds
+3. 10 reps
+
+**Ear to Shoulder:**
+1. Drop ear toward shoulder
+2. Hold 15-20 seconds each side
+
+**Neck Turns:**
+1. Turn to look over each shoulder
+2. Hold 15 seconds each side
+
+### Shoulder and Upper Back
+
+**Shoulder Rolls:**
+1. Roll forward 5 times
+2. Roll backward 5 times
+
+**Shoulder Shrugs:**
+1. Raise shoulders to ears
+2. Hold 3 seconds
+3. Drop and relax
+4. 5 reps
+
+**Seated Chest Opener:**
+1. Clasp hands behind head
+2. Push elbows back
+3. Squeeze shoulder blades
+4. Hold 15-20 seconds
+
+### Back
+
+**Seated Twist:**
+1. Right hand on left knee
+2. Twist torso left
+3. Hold 20 seconds each side
+
+**Seated Cat-Cow:**
+1. Hands on knees
+2. Round back (cat)
+3. Arch back (cow)
+4. 10 reps
+
+### Hips and Legs
+
+**Seated Figure-4:**
+1. Cross ankle over opposite knee
+2. Sit tall, lean forward slightly
+3. Hold 20-30 seconds each side
+
+**Seated Hamstring Stretch:**
+1. Extend one leg, heel on floor
+2. Lean forward with straight back
+3. Hold 20-30 seconds each side
+
+### Wrists and Hands
+
+**Wrist Circles:**
+1. Circle wrists 10 times each direction
+
+**Prayer Stretch:**
+1. Palms together in front of chest
+2. Lower hands, keeping palms together
+3. Hold 15 seconds
+
+**Reverse Prayer:**
+1. Backs of hands together
+2. Hold 15 seconds
+
+## Standing Desk Stretches
+
+### Calf Stretch
+
+1. Step back with one leg
+2. Keep heel down
+3. Hold 20 seconds each side
+
+### Standing Hip Flexor Stretch
+
+1. Step one foot back
+2. Tuck tailbone
+3. Hold 20 seconds each side
+
+### Standing Quad Stretch
+
+1. Hold desk for balance
+2. Pull heel to buttock
+3. Hold 20 seconds each side
+
+### Forward Fold
+
+1. Let upper body hang
+2. Bend knees if needed
+3. Hold 30 seconds
+
+## Quick Routines by Time
+
+### 1-Minute Reset
+
+1. Chin tucks: 5 reps
+2. Shoulder rolls: 5 each direction
+3. Seated twist: 10 seconds each side
+
+### 3-Minute Refresh
+
+1. Neck stretches: 15 sec each direction
+2. Shoulder rolls: 5 each direction
+3. Chest opener: 15 seconds
+4. Seated twist: 15 sec each side
+5. Figure-4: 15 sec each side
+6. Wrist circles: 10 each direction
+
+### 5-Minute Recharge
+
+1. All neck stretches: 15 sec each
+2. Shoulder shrugs: 5 reps
+3. Chest opener: 20 seconds
+4. Seated cat-cow: 10 reps
+5. Seated twist: 20 sec each side
+6. Figure-4: 20 sec each side
+7. Hamstring stretch: 20 sec each side
+8. Wrist stretches: 15 seconds each
+
+## Building the Habit
+
+### Set Reminders
+
+- Phone alarm every hour
+- Computer popup
+- Calendar blocks
+
+### Link to Existing Habits
+
+- After every meeting
+- Before lunch
+- After bathroom breaks
+
+### Start Small
+
+- 1-minute routine is better than nothing
+- Build up over time
+
+### No Excuses
+
+- Can be done in work clothes
+- No equipment needed
+- No one will notice subtle stretches
+
+## Desk Ergonomics (Prevention)
+
+- Monitor at eye level
+- Keyboard at elbow height
+- Feet flat on floor
+- Chair supporting lower back
+- Take movement breaks hourly
+
+## The Bottom Line
+
+You don't need a gym or special time to stretch. Brief stretches at your desk, done regularly throughout the day, keep you feeling better and more productive. Set a reminder, pick a routine, and make it a habit. Your body will thank you.
+`
+  },
   'standing-all-day-stretches': {
     title: 'Stretches for Standing All Day: Relief for Tired Legs and Feet',
     date: '2026-03-07',

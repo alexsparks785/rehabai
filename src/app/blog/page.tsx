@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'stretching-for-golfers',
+    title: 'Stretching for Golfers: Improve Your Swing and Prevent Injury',
+    excerpt: 'Golf demands flexibility. These stretches improve your rotation, increase power, and keep you injury-free.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'stretching-for-cyclists',
+    title: 'Stretching for Cyclists: Essential Flexibility for Riders',
+    excerpt: 'Cycling creates specific tightness patterns. These stretches counteract the effects of time in the saddle.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'stretching-for-swimmers',
+    title: 'Stretching for Swimmers: Flexibility for Better Performance',
+    excerpt: 'Swimming requires exceptional flexibility. These stretches improve your stroke and protect your shoulders.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'stretching-at-work-office',
+    title: 'Stretching at Work: Quick Exercises You Can Do at the Office',
+    excerpt: 'No time for the gym? These stretches can be done at your desk or in a meeting room in just minutes.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
     slug: 'standing-all-day-stretches',
     title: 'Stretches for Standing All Day: Relief for Tired Legs and Feet',
     excerpt: 'Jobs that require standing take a toll on your body. These stretches provide relief after a long day on your feet.',
