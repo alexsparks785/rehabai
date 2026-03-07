@@ -2273,6 +2273,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '7 min read'
+  },
+  {
+    slug: 'diastasis-recti-exercises-core-healing',
+    title: 'Diastasis Recti: Exercises to Heal Your Core After Pregnancy',
+    excerpt: 'Ab separation after pregnancy is common and fixable. Learn safe exercises to close the gap and rebuild core strength.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'acl-tear-recovery-exercises',
+    title: 'ACL Tear Recovery: Exercises for Before and After Surgery',
+    excerpt: 'Recovering from an ACL tear? This guide covers prehab, post-surgical rehab phases, and return-to-sport criteria.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'meniscus-tear-exercises-recovery',
+    title: 'Meniscus Tear: Exercises for Recovery (With or Without Surgery)',
+    excerpt: 'Many meniscus tears heal with conservative treatment. Here are exercises to reduce pain and restore knee function.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'vertigo-bppv-exercises',
+    title: 'Vertigo and BPPV: Exercises That Actually Stop the Spinning',
+    excerpt: 'Benign positional vertigo causes dizziness when you move your head. These repositioning maneuvers can fix it in minutes.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
   }
 ];
 

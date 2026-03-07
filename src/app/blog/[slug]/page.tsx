@@ -56315,6 +56315,857 @@ The foam roller is a tool. A useful one. But still just a tool.
 
 *Foundational Rehab programs integrate self-care techniques like foam rolling with strengthening and mobility work for comprehensive recovery.*
     `
+  },
+  'diastasis-recti-exercises-core-healing': {
+    title: 'Diastasis Recti: Exercises to Heal Your Core After Pregnancy',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## What Is Diastasis Recti?
+
+Diastasis recti is a separation of the left and right sides of the rectus abdominis (the "six-pack" muscle) along the linea alba—the connective tissue running down your midline.
+
+This separation is **normal during pregnancy** and affects nearly all women by the third trimester. For most, it resolves naturally within the first year postpartum. But for some, it persists and requires intentional rehabilitation.
+
+## Signs You May Have Diastasis Recti
+
+- A visible "doming" or "coning" along the midline when you do a crunch or sit up
+- A gap wider than 2 finger-widths when you palpate above or below your navel
+- Feeling like your core isn't working properly
+- Lower back pain with core activities
+- Pelvic floor dysfunction (incontinence, prolapse symptoms)
+- Poor posture, especially swayback
+
+## How to Check for Diastasis Recti
+
+1. Lie on your back with knees bent
+2. Lift your head slightly (not a full crunch)
+3. Place fingers horizontally just above your belly button
+4. Feel for a gap or soft spot between the two muscle bellies
+5. Measure the width (in finger-widths) and depth
+
+**Normal:** Less than 2 finger-widths with tension felt when you lift your head  
+**Diastasis:** 2+ finger-widths, especially if the gap feels soft and doesn't generate tension
+
+## What NOT to Do
+
+### Avoid Exercises That Increase Intra-Abdominal Pressure
+
+Until your core is reconnected:
+
+- Traditional crunches and sit-ups
+- Front planks (start with modifications)
+- Heavy lifting with poor form
+- Leg raises lying flat
+- Any movement that causes doming
+
+### Don't Just "Suck It In"
+
+Constantly drawing in your belly doesn't help and may worsen dysfunction by creating more pressure.
+
+## The Foundation: Reconnect Your Core
+
+Before strengthening, you need to **reconnect** with your deep core system:
+
+### 1. Diaphragmatic Breathing
+
+Your core starts with your breath.
+
+1. Lie on your back with knees bent
+2. Place one hand on chest, one on belly
+3. Inhale through nose—belly should rise, chest stays still
+4. Exhale slowly through mouth—belly falls
+5. Practice 3-5 minutes daily
+
+### 2. Pelvic Floor Connection
+
+Your pelvic floor and deep core work together.
+
+1. During exhale, gently lift your pelvic floor (like stopping urine or passing gas)
+2. Don't squeeze your glutes or hold your breath
+3. Release completely on inhale
+4. Practice 10-15 reps, 3x daily
+
+### 3. Transverse Abdominis Activation
+
+The deepest abdominal layer that wraps around your trunk.
+
+1. Lie on back with knees bent
+2. Find your hip bones, then move your fingers slightly inward and down
+3. Exhale and gently draw your lower belly toward your spine
+4. You should feel a gentle tightening under your fingers
+5. Maintain normal breathing while holding
+6. Hold 10 seconds, 10 reps
+
+## Progressive Core Exercises
+
+Once you can activate your deep core without doming:
+
+### Level 1: Foundational (Weeks 1-4)
+
+**Dead Bug Prep**
+1. Lie on back, knees bent, feet flat
+2. Exhale and engage core
+3. Lift one foot slightly off ground, maintain neutral spine
+4. Lower, repeat other side
+5. 10 reps each side
+
+**Heel Slides**
+1. Lie on back, knees bent
+2. Exhale, engage core
+3. Slide one heel along floor, extending leg
+4. Return, repeat other side
+5. 10 reps each side
+
+### Level 2: Building (Weeks 4-8)
+
+**Full Dead Bug**
+1. Lie on back, arms toward ceiling, knees at 90°
+2. Exhale and engage core
+3. Lower opposite arm and leg toward floor
+4. Return, repeat other side
+5. 10 reps each side
+
+**Bird Dog**
+1. On hands and knees, spine neutral
+2. Exhale and engage core
+3. Extend opposite arm and leg
+4. Hold 3 seconds, return
+5. 10 reps each side
+
+**Modified Side Plank**
+1. Lie on side, knees bent, elbow under shoulder
+2. Exhale and lift hips
+3. Hold 15-30 seconds
+4. 3 reps each side
+
+### Level 3: Strengthening (Weeks 8-12+)
+
+**Pallof Press**
+1. Stand sideways to cable or band anchor
+2. Hold handle at chest
+3. Press arms straight, resist rotation
+4. Hold 3 seconds, return
+5. 10 reps each side
+
+**Full Side Plank**
+1. Progress from modified version
+2. Straight legs, stacked feet
+3. Hold 20-30 seconds
+4. 3 reps each side
+
+**Front Plank (when ready)**
+1. Only when no doming occurs
+2. Start from knees if needed
+3. Focus on core engagement, not just holding
+4. 20-30 seconds, 3 reps
+
+## How Long Does Healing Take?
+
+- **Mild separation:** 6-12 weeks with consistent work
+- **Moderate separation:** 3-6 months
+- **Significant separation:** 6-12+ months
+
+**Progress markers:**
+- Gap width decreasing
+- Better tension in the linea alba
+- No doming with exercises
+- Improved core function in daily life
+
+## When to See a Professional
+
+- Gap wider than 3 finger-widths
+- No improvement after 8-12 weeks of consistent work
+- Pelvic floor symptoms (incontinence, heaviness, prolapse)
+- Severe separation affecting function
+- Umbilical hernia (bulge through belly button)
+
+A pelvic floor physical therapist is the gold standard for diastasis recti assessment and treatment.
+
+## The Bottom Line
+
+Diastasis recti is common, treatable, and not a reason for surgery in most cases. The key is:
+
+1. Reconnect with your deep core before strengthening
+2. Avoid exercises that cause doming
+3. Progress gradually through levels
+4. Be patient—healing takes months, not weeks
+
+Your core can absolutely heal. It just needs the right approach.
+
+---
+
+*Foundational Rehab provides progressive core programs designed to rebuild strength safely after pregnancy.*
+    \`
+  },
+  'acl-tear-recovery-exercises': {
+    title: 'ACL Tear Recovery: Exercises for Before and After Surgery',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee',
+    readTime: '7 min read',
+    content: \`
+## Understanding ACL Injuries
+
+The anterior cruciate ligament (ACL) prevents your shin bone from sliding forward under your thigh bone and provides rotational stability. It's most commonly torn during:
+
+- Sudden stops or direction changes
+- Landing from jumps incorrectly
+- Pivoting with a planted foot
+- Direct contact to the knee
+
+You'll often hear or feel a "pop," followed by rapid swelling and instability.
+
+## Do You Need Surgery?
+
+Not everyone with an ACL tear needs surgery. Consider:
+
+**Surgery is typically recommended if:**
+- You're young and active
+- You play pivoting sports (soccer, basketball, skiing)
+- Your knee gives way during daily activities
+- You have multiple ligament injuries
+- You want to return to high-demand activities
+
+**Conservative treatment may work if:**
+- You're less active or older
+- Your activities don't involve pivoting
+- Your knee feels stable with rehab
+- You're willing to modify activities
+
+Discuss your lifestyle, goals, and preferences with an orthopedic surgeon.
+
+## Prehab: Before Surgery
+
+If you're having surgery, "prehab" significantly improves outcomes. Goals:
+
+1. Reduce swelling
+2. Restore full range of motion
+3. Rebuild quad strength
+4. Improve walking pattern
+
+### Week 1-2 Post-Injury
+
+**RICE Protocol**
+- Rest from aggravating activities
+- Ice 20 minutes, multiple times daily
+- Compression with wrap or brace
+- Elevation above heart level
+
+**Quad Sets**
+1. Sit with leg straight
+2. Push the back of your knee into the floor
+3. Tighten your quad muscle
+4. Hold 5 seconds, 20 reps, hourly if possible
+
+**Heel Slides**
+1. Sit with leg straight
+2. Slowly slide heel toward buttocks
+3. Use a strap if needed for assistance
+4. Hold 5 seconds at end range
+5. 20 reps, 3x daily
+
+**Straight Leg Raises**
+1. Lie on back, uninvolved knee bent
+2. Tighten quad (knee straight)
+3. Lift leg 12 inches, hold 3 seconds
+4. Lower slowly
+5. 3 sets of 10
+
+### Weeks 2-6 (Until Surgery)
+
+**Goals:**
+- Full extension (straighten completely—crucial!)
+- Flexion to at least 120°
+- Walk without a limp
+- Good quad function
+
+**Mini Squats**
+1. Stand with feet shoulder-width
+2. Squat to 45-60°
+3. Keep weight on heels
+4. 3 sets of 15
+
+**Step-Ups**
+1. Use a 4-6 inch step
+2. Step up, fully straighten knee at top
+3. Control the descent
+4. 3 sets of 10 each leg
+
+**Stationary Bike**
+Start with high seat, low resistance. Great for range of motion.
+
+## Post-Surgical Rehabilitation
+
+ACL reconstruction rehab is a marathon, not a sprint. Most protocols span 9-12 months.
+
+### Phase 1: Protection (Weeks 0-2)
+
+**Goals:**
+- Protect the graft
+- Manage swelling
+- Restore extension (CRITICAL)
+- Begin quad activation
+
+**Extension Focus**
+Loss of extension is the #1 complication. Prioritize:
+- Prone hangs (lie face down, knee off edge of bed)
+- Towel under heel, push knee down
+- Multiple times daily
+
+**Exercises:**
+- Quad sets (start day 1)
+- Heel slides
+- Straight leg raises (once quad control returns)
+- Ankle pumps
+
+**Weight bearing:** As tolerated with crutches and brace.
+
+### Phase 2: Early Rehab (Weeks 2-6)
+
+**Goals:**
+- Full extension (equal to other side)
+- Flexion to 120°
+- Good quad function
+- Walk without crutches
+
+**Exercises:**
+- Continue extension work
+- Mini squats to 60°
+- Leg press (limited range)
+- Standing hip exercises (all directions)
+- Stationary bike (when flexion allows)
+- Pool walking (when incision heals)
+
+**Milestone:** Walk without a limp before progressing.
+
+### Phase 3: Strengthening (Weeks 6-12)
+
+**Goals:**
+- Full range of motion
+- Progressive strengthening
+- Improve balance and proprioception
+- Normal walking and stairs
+
+**Exercises:**
+- Squats to 90°
+- Leg press (increasing range)
+- Romanian deadlifts
+- Step-ups and step-downs
+- Single-leg balance exercises
+- Elliptical, swimming, cycling
+
+**Balance Work:**
+- Single-leg stands (eyes open → closed)
+- Unstable surfaces (pillow, balance board)
+- Perturbation training
+
+### Phase 4: Running Prep (Months 3-5)
+
+**Goals:**
+- Quad strength >80% of other side
+- No swelling with activity
+- Good single-leg control
+
+**Exercises:**
+- Heavier leg press and squats
+- Single-leg press and squats
+- Lunges (forward, lateral, reverse)
+- Deadlifts
+- Sport cord exercises
+- More advanced balance
+
+**Running Initiation:**
+- Usually begins around 12-16 weeks
+- Start with walk-jog intervals
+- Must have >80% quad strength
+- No pain or swelling
+- Good running mechanics
+
+### Phase 5: Sport-Specific (Months 5-9+)
+
+**Goals:**
+- Quad strength >90% of other side
+- Passed hop tests (>90% of other side)
+- Sport-specific movement patterns
+- Psychological readiness
+
+**Exercises:**
+- Plyometrics (jumping, hopping)
+- Agility (cones, ladder)
+- Cutting and pivoting progression
+- Sport-specific drills
+- Scrimmage simulation
+
+## Return-to-Sport Criteria
+
+Don't return based on time alone. You should have:
+
+1. **Full range of motion**
+2. **Strength:** Quad and hamstring >90% of other side
+3. **Hop tests:** >90% of other side
+   - Single hop
+   - Triple hop
+   - Crossover hop
+   - Timed hop
+4. **Functional movement:** Good landing mechanics, no compensations
+5. **Psychological readiness:** Confidence in your knee
+
+Most athletes reach these criteria at 9-12 months, though full recovery may take 2 years.
+
+## Common Mistakes
+
+1. **Rushing the timeline** — The graft is weakest at 6-12 weeks
+2. **Neglecting extension** — Must be addressed early and aggressively
+3. **Skipping prehab** — Better pre-op function = better post-op outcomes
+4. **Ignoring the hip** — Hip weakness affects knee mechanics
+5. **Poor landing mechanics** — Address before returning to sport
+6. **Psychological factors** — Fear of re-injury affects performance
+
+## The Bottom Line
+
+ACL recovery is long but predictable. Success depends on:
+
+- Getting full extension early
+- Progressive, consistent strengthening
+- Patience with the timeline
+- Meeting objective return criteria
+- Addressing biomechanics and psychology
+
+Follow your protocol, hit your milestones, and give yourself the full time to heal.
+
+---
+
+*Foundational Rehab offers progressive knee programs aligned with evidence-based ACL rehabilitation protocols.*
+    \`
+  },
+  'meniscus-tear-exercises-recovery': {
+    title: 'Meniscus Tear: Exercises for Recovery (With or Without Surgery)',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee',
+    readTime: '6 min read',
+    content: \`
+## What Is a Meniscus Tear?
+
+Your knee has two C-shaped pieces of cartilage called menisci—one on the inner side (medial) and one on the outer side (lateral). They act as shock absorbers and help stabilize the joint.
+
+Meniscus tears are extremely common. They happen from:
+
+- **Traumatic:** Twisting or pivoting with a planted foot
+- **Degenerative:** Gradual wear over time (often seen after 40)
+
+Symptoms include:
+- Pain along the joint line
+- Swelling
+- Catching, locking, or giving way
+- Difficulty squatting or twisting
+
+## Do You Need Surgery?
+
+Here's the reality: **Many meniscus tears do well without surgery.**
+
+Research shows that for degenerative tears in people over 40, physical therapy is often as effective as surgery. Even younger people with certain tear types can recover conservatively.
+
+**Surgery may be needed if:**
+- Your knee locks and won't straighten
+- Significant mechanical symptoms (catching)
+- Large, unstable tears
+- Young athlete with acute tear
+- Conservative treatment fails after 6-8 weeks
+
+**Conservative treatment often works for:**
+- Degenerative tears
+- Stable tear patterns
+- Tears in the outer (vascular) zone
+- People willing to try rehab first
+
+Discuss options with your doctor based on your specific tear pattern, symptoms, and goals.
+
+## Conservative Treatment Protocol
+
+### Phase 1: Acute (Weeks 0-2)
+
+**Goals:**
+- Reduce swelling and pain
+- Restore range of motion
+- Begin quad activation
+
+**PRICE Protocol:**
+- Protect: Avoid aggravating activities
+- Rest: Relative rest (not total)
+- Ice: 20 minutes, several times daily
+- Compression: Wrap or sleeve
+- Elevation: Above heart when possible
+
+**Exercises:**
+
+**Quad Sets**
+1. Sit with leg straight
+2. Press knee into floor/bed
+3. Tighten quad, hold 5 seconds
+4. 20 reps, multiple times daily
+
+**Heel Slides**
+1. Sit with leg straight
+2. Slide heel toward buttocks
+3. Go to comfortable range
+4. 20 reps, 3x daily
+
+**Straight Leg Raises**
+1. Lie on back, other knee bent
+2. Tighten quad, lift leg 12 inches
+3. Hold 3 seconds, lower slowly
+4. 3 sets of 10
+
+### Phase 2: Subacute (Weeks 2-6)
+
+**Goals:**
+- Progress range of motion
+- Build strength without aggravation
+- Return to normal walking
+
+**Exercises:**
+
+**Mini Squats**
+1. Feet shoulder-width
+2. Squat to 45-60° (comfortable range)
+3. Don't go so deep it hurts
+4. 3 sets of 15
+
+**Standing Hip Exercises**
+All directions (flexion, extension, abduction, adduction) with resistance band or ankle weights. Build hip strength to reduce knee stress.
+
+**Step-Ups**
+1. Use 4-6 inch step
+2. Step up, control the descent
+3. 3 sets of 10 each leg
+
+**Stationary Bike**
+Low resistance, comfortable range. Excellent for range of motion and low-impact exercise.
+
+**Leg Press**
+Limited range at first, progress as tolerated.
+
+### Phase 3: Strengthening (Weeks 6-12)
+
+**Goals:**
+- Full strength recovery
+- Return to activities
+- Address any movement deficits
+
+**Exercises:**
+
+**Full Squats** (as tolerated)
+Progress depth gradually. Stop before pain.
+
+**Romanian Deadlifts**
+Build posterior chain strength.
+
+**Lunges**
+Forward, lateral, reverse. Build in multiple directions.
+
+**Single-Leg Exercises**
+Single-leg squats, single-leg deadlifts. Important for function.
+
+**Balance Work**
+Single-leg stands, unstable surfaces. Improves knee stability.
+
+## Post-Surgical Rehabilitation
+
+If you have surgery (meniscectomy or repair), rehab differs:
+
+### After Meniscectomy (Removal)
+
+Recovery is faster because nothing needs to heal.
+
+- **Week 1:** Quad sets, heel slides, gentle ROM
+- **Weeks 2-4:** Progress to mini squats, bike, normal walking
+- **Weeks 4-8:** Full strengthening, return to activities
+- **Full recovery:** Often 6-8 weeks
+
+### After Meniscus Repair (Stitches)
+
+The repair needs time to heal, so progression is slower.
+
+- **Weeks 0-4:** Protected weight bearing, limited ROM, brace
+- **Weeks 4-8:** Progress ROM and weight bearing
+- **Weeks 8-12:** Begin strengthening
+- **Months 3-6:** Full strengthening, gradual return to activities
+- **Full recovery:** 4-6 months
+
+Follow your surgeon's specific protocol—restrictions vary based on repair type and location.
+
+## Important Exercises for Meniscus Health
+
+### 1. Quad Strengthening
+
+Strong quads reduce stress on the meniscus.
+
+- Quad sets
+- Straight leg raises
+- Leg press
+- Squats
+- Step-ups
+
+### 2. Hamstring Strengthening
+
+Balance the muscles around your knee.
+
+- Hamstring curls
+- Romanian deadlifts
+- Bridges
+
+### 3. Hip Strengthening
+
+Hip weakness increases knee stress.
+
+- Clamshells
+- Side-lying leg raises
+- Monster walks with band
+- Hip thrusts
+
+### 4. Balance and Proprioception
+
+Improve joint stability.
+
+- Single-leg stands
+- Balance board work
+- Perturbation training
+
+## Activity Modifications
+
+While recovering, consider:
+
+- **Swimming:** Excellent low-impact option
+- **Cycling:** Great for ROM and fitness
+- **Elliptical:** Lower impact than running
+- **Walking:** Progress distance and speed gradually
+
+**Avoid or modify:**
+- Deep squatting
+- Kneeling
+- Pivoting sports
+- High-impact jumping
+
+Until cleared by your provider.
+
+## When to Worry
+
+See your doctor if:
+
+- Knee locks and won't straighten
+- Significant instability (giving way)
+- Severe swelling
+- No improvement with 6-8 weeks of rehab
+- Worsening symptoms
+
+## The Bottom Line
+
+Meniscus tears are common, but many respond well to conservative treatment. The keys are:
+
+1. Control initial pain and swelling
+2. Restore range of motion early
+3. Build quad and hip strength progressively
+4. Improve balance and stability
+5. Modify activities as needed during recovery
+
+Whether you have surgery or not, the rehab principles are similar—just the timeline differs.
+
+---
+
+*Foundational Rehab provides progressive knee programs for meniscus recovery, whether you're treating conservatively or rehabbing after surgery.*
+    \`
+  },
+  'vertigo-bppv-exercises': {
+    title: 'Vertigo and BPPV: Exercises That Actually Stop the Spinning',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: \`
+## What Is BPPV?
+
+Benign Paroxysmal Positional Vertigo (BPPV) is the most common cause of vertigo. It causes brief spinning sensations triggered by head movements like:
+
+- Looking up
+- Rolling over in bed
+- Getting out of bed
+- Bending down
+
+Each episode typically lasts less than a minute but feels much longer. It's frightening but not dangerous.
+
+## What Causes BPPV?
+
+Your inner ear contains tiny calcium crystals called otoconia. In BPPV, these crystals become dislodged and float into the semicircular canals—fluid-filled tubes that sense rotation.
+
+When you move your head, the floating crystals trigger false rotation signals, causing vertigo.
+
+**Risk factors:**
+- Aging (most common over 50)
+- Head injury
+- Prolonged bed rest
+- Prior inner ear problems
+- Osteoporosis
+
+## How to Know If It's BPPV
+
+BPPV has distinctive features:
+
+- **Triggered by head movement** (not constant)
+- **Brief episodes** (usually <60 seconds)
+- **Spinning sensation** (the room rotates)
+- **Nausea** (common during episodes)
+- **Nystagmus** (eyes jump during episode)
+
+It does NOT cause:
+- Hearing loss
+- Ear fullness
+- Continuous dizziness
+- Fainting
+
+If you have these other symptoms, see a doctor for other causes.
+
+## The Dix-Hallpike Test
+
+This test identifies BPPV and determines which ear is affected.
+
+**How it's done:**
+1. Sit on a bed with legs extended
+2. Turn head 45° to one side
+3. Lie back quickly with head hanging over edge
+4. Watch for vertigo and eye movements
+5. Repeat on other side
+
+**Positive test:** Vertigo and rotational nystagmus (eyes beating toward the ground or toward the affected ear).
+
+Note which side triggers symptoms—you'll treat that ear.
+
+## The Epley Maneuver (Posterior Canal)
+
+The most common type of BPPV affects the posterior canal. The Epley maneuver repositions the crystals.
+
+**Steps (for RIGHT ear):**
+
+1. **Start:** Sit on bed with legs extended
+
+2. **Position 1:** Turn head 45° to the RIGHT
+   - Lie back quickly so head hangs over edge
+   - Wait 30 seconds (vertigo may occur—this is normal)
+
+3. **Position 2:** Turn head 90° to the LEFT (now facing 45° left)
+   - Wait 30 seconds
+
+4. **Position 3:** Roll body onto LEFT side while turning head another 90° (now facing down at 45°)
+   - Wait 30 seconds
+
+5. **Position 4:** Sit up slowly while keeping head tilted down
+   - Wait 1 minute
+
+For LEFT ear, reverse all directions.
+
+**Success rate:** 80% resolve with 1-3 treatments.
+
+## Semont Maneuver (Alternative)
+
+Another effective technique for posterior canal BPPV.
+
+**Steps (for RIGHT ear):**
+
+1. Sit on edge of bed
+2. Turn head 45° to the LEFT
+3. Quickly lie down on RIGHT side (affected ear down)
+   - Wait 30 seconds
+4. Quickly move to lying on LEFT side (don't change head position)
+   - Your nose should now face the bed
+   - Wait 30 seconds
+5. Slowly sit up
+
+For LEFT ear, reverse all directions.
+
+## BBQ Roll (Horizontal Canal)
+
+About 10% of BPPV affects the horizontal (lateral) canal. This type causes symptoms when lying down and turning side to side.
+
+**Steps (for RIGHT ear):**
+
+1. Lie on your back, head neutral
+2. Turn head 90° to the LEFT (away from affected ear)
+   - Wait 30 seconds
+3. Roll body to the LEFT (onto left side), keeping head turned
+   - Wait 30 seconds
+4. Turn head 90° more (now facing down)
+   - Wait 30 seconds
+5. Roll onto your stomach with head turned
+   - Wait 30 seconds
+6. Continue rolling and return to starting position
+
+Essentially: Roll 360° toward the unaffected ear in 90° increments.
+
+## Brandt-Daroff Exercises
+
+If maneuvers don't fully resolve symptoms, or for maintenance:
+
+1. Start sitting on edge of bed
+2. Quickly lie on one side (nose pointing slightly up)
+3. Wait 30 seconds or until dizziness stops
+4. Return to sitting, wait 30 seconds
+5. Quickly lie on other side
+6. Wait 30 seconds or until dizziness stops
+7. Return to sitting
+
+**Do:** 5 repetitions, 3 times daily, for 2 weeks.
+
+These work through habituation—teaching your brain to ignore the abnormal signals.
+
+## After Treatment
+
+**24-48 hours after Epley:**
+- Sleep propped at 45° (some providers recommend this)
+- Avoid looking up or bending down
+- Don't lie on the affected side
+
+**Note:** Some research suggests these precautions aren't necessary, but many clinicians still recommend them.
+
+## What If It Comes Back?
+
+BPPV recurs in about 50% of people within 5 years. If it returns:
+
+- Repeat the appropriate maneuver
+- You can do these at home once you know how
+- See a provider if symptoms don't resolve
+
+## When to See a Doctor
+
+Get evaluated if:
+
+- First episode (to confirm BPPV vs. other causes)
+- Symptoms don't improve with maneuvers
+- Hearing loss, tinnitus, or ear fullness
+- Constant dizziness (not just positional)
+- Neurological symptoms (weakness, numbness, speech changes)
+- Severe nausea/vomiting preventing eating/drinking
+
+A vestibular therapist or ENT specialist can perform maneuvers more precisely and identify less common canal variants.
+
+## The Bottom Line
+
+BPPV is the most common cause of vertigo and is very treatable. The repositioning maneuvers (Epley, Semont, BBQ Roll) work by moving displaced crystals out of the semicircular canals.
+
+Key points:
+- Identify which ear is affected (Dix-Hallpike test)
+- Perform the appropriate maneuver
+- It may take 1-3 treatments
+- Recurrence is common—know how to treat yourself
+
+The spinning may be terrifying, but BPPV is benign. With the right maneuver, relief often comes within minutes.
+
+---
+
+*Foundational Rehab provides guidance for balance and vestibular conditions alongside our musculoskeletal programs.*
+    \`
   }
 };
 
