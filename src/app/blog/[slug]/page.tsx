@@ -13,6 +13,487 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'how-to-get-more-flexible': {
+    title: 'How to Get More Flexible: The Complete Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read',
+    content: `
+## Can Anyone Become Flexible?
+
+Yes. While genetics play a role in your baseline flexibility, almost everyone can significantly improve their range of motion with consistent practice.
+
+Some people are naturally more flexible, but:
+- Tight people can become flexible
+- It takes time and consistency
+- Age is not a barrier (you can improve at any age)
+- The body adapts to what you consistently do
+
+## What Limits Flexibility?
+
+### Muscle Tightness
+
+Muscles shorten when not regularly lengthened. Sitting, repetitive activities, and lack of stretching create tightness.
+
+### Fascia Restrictions
+
+Connective tissue (fascia) can become stiff and restrict movement.
+
+### Joint Structures
+
+Bone shape, cartilage, and joint capsules set absolute limits (but most people never reach these limits).
+
+### Nervous System
+
+Your nervous system limits range to protect you. It can be trained to allow more range.
+
+### Lack of Use
+
+"Use it or lose it" applies. Ranges not used are gradually lost.
+
+## The Flexibility Formula
+
+### Consistency
+
+This is the most important factor. Daily or near-daily practice beats occasional intense sessions.
+
+### Duration
+
+Hold stretches long enough to create change (30-60+ seconds).
+
+### Progressive Overload
+
+Gradually increase range and time as you improve.
+
+### Patience
+
+Flexibility improves over weeks and months, not days.
+
+## How to Structure Your Practice
+
+### Daily Stretching
+
+- 15-30 minutes ideal
+- Minimum 10 minutes
+- Focus on tight areas plus full body maintenance
+
+### Frequency
+
+- Daily for fastest improvement
+- 5-7 days per week ideal
+- 3-4 days minimum for progress
+
+### Timing
+
+- After warm-up or exercise (muscles warm)
+- Or after hot shower
+- Morning or evening (consistency matters more than timing)
+
+### Hold Duration
+
+- 30-60 seconds per stretch for improvement
+- Can go longer (2+ minutes) for stubborn areas
+- Multiple sets help
+
+## Stretching Methods
+
+### Static Stretching
+
+Hold positions for 30-60+ seconds. The foundation of flexibility training.
+
+### PNF Stretching
+
+Contract-relax techniques. Very effective for faster gains.
+
+**Example:**
+1. Stretch to end range
+2. Contract the stretched muscle (6-10 seconds)
+3. Relax and stretch deeper
+4. Repeat 2-4 times
+
+### Dynamic Stretching
+
+Movement-based stretching. Good for warm-ups and maintaining mobility.
+
+### Active Stretching
+
+Use muscle strength to hold stretched positions. Builds strength in new ranges.
+
+### Loaded Stretching
+
+Add light weight or resistance to stretches. Advanced technique.
+
+## Progressive Approach
+
+### Weeks 1-2
+
+- Establish routine
+- Learn proper form
+- 30-second holds
+- Focus on consistency
+
+### Weeks 3-4
+
+- Increase hold times (45-60 seconds)
+- Add second set to tight areas
+- Notice improvements
+
+### Weeks 5-8
+
+- 60-second holds
+- Introduce PNF techniques
+- Deeper stretches as range allows
+
+### Ongoing
+
+- Maintain gains
+- Continue progressing tight areas
+- Vary techniques
+
+## Focus Areas by Goal
+
+### For General Flexibility
+
+- Hamstrings
+- Hip flexors
+- Shoulders
+- Upper back
+- Calves
+
+### For Lower Back Health
+
+- Hip flexors
+- Hamstrings
+- Glutes
+- Thoracic spine
+
+### For Upper Body
+
+- Chest
+- Lats
+- Shoulders (all directions)
+- Neck
+
+### For Athletes
+
+- Sport-specific requirements
+- Common tight areas for your activity
+- Injury prevention focus
+
+## Common Mistakes to Avoid
+
+### Inconsistency
+
+Stretching once a week won't improve flexibility. Daily practice is key.
+
+### Not Holding Long Enough
+
+15 seconds isn't enough for change. Hold 30-60+ seconds.
+
+### Pushing Too Hard
+
+Stretching should be uncomfortable, not painful. Aggressive stretching can cause injury.
+
+### Only Stretching When Tight
+
+Consistent practice prevents tightness. Don't wait until you're stiff.
+
+### Neglecting Strengthening
+
+Flexibility without strength can be problematic. Balance both.
+
+### Expecting Quick Results
+
+Significant flexibility takes months, not days. Be patient.
+
+## Enhancing Your Practice
+
+### Warm Up First
+
+Warm muscles stretch better and safer. Walk, move, or hot shower first.
+
+### Breathe Deeply
+
+Deep breaths help muscles relax. Exhale as you deepen stretches.
+
+### Foam Roll Before Stretching
+
+Rolling releases tension, allowing deeper stretches.
+
+### Be Present
+
+Pay attention to your body. Notice where you're tight.
+
+### Track Progress
+
+Measure periodically. Progress motivates continued practice.
+
+## Sample Weekly Schedule
+
+### Beginner
+
+- **Daily:** 15 minutes full body stretching
+- **Focus:** Establishing habit, learning positions
+
+### Intermediate
+
+- **Daily:** 20-30 minutes stretching
+- **2-3x week:** Extra time for problem areas
+- **Include:** Some PNF techniques
+
+### Advanced
+
+- **Daily:** 30+ minutes dedicated practice
+- **Include:** PNF, longer holds, active stretching
+- **Add:** Yoga classes, mobility work
+
+## The Bottom Line
+
+Flexibility improves with consistent, patient practice. Stretch daily or near-daily, hold long enough (30-60+ seconds), progress gradually, and give it time. Almost anyone can become significantly more flexible with the right approach. Start today, stay consistent, and you'll see results.
+`
+  },
+  'flexibility-tests-measure': {
+    title: 'Flexibility Tests: How to Measure Your Range of Motion',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Why Test Your Flexibility?
+
+Testing your flexibility helps you:
+
+- Identify tight areas
+- Set improvement goals
+- Track progress over time
+- Stay motivated
+- Notice imbalances (left vs. right)
+
+You don't need equipment. These simple tests assess major areas.
+
+## Lower Body Tests
+
+### Sit and Reach (Hamstrings)
+
+**How to test:**
+1. Sit with legs extended, feet against wall
+2. Reach toward toes
+3. Note where fingertips reach
+
+**Results:**
+- Can't reach toes: Tight hamstrings
+- Touch toes: Average
+- Palms on floor: Good flexibility
+
+### Straight Leg Raise (Hamstrings)
+
+**How to test:**
+1. Lie on back, one leg flat
+2. Lift other leg straight up
+3. Measure angle from floor
+
+**Results:**
+- Less than 70°: Tight
+- 70-90°: Average
+- Above 90°: Good
+
+### Thomas Test (Hip Flexors)
+
+**How to test:**
+1. Lie on back at edge of table/bed
+2. Pull one knee to chest
+3. Let other leg hang off edge
+4. Observe hanging leg
+
+**Results:**
+- Thigh rises above horizontal: Tight hip flexors
+- Thigh at horizontal: Normal
+- Knee bends up: Tight quad (rectus femoris)
+
+### Figure-4 Test (Piriformis/Hip External Rotation)
+
+**How to test:**
+1. Lie on back, knees bent
+2. Cross one ankle over opposite knee
+3. Let knee fall outward
+4. Compare sides
+
+**Results:**
+- Knee high/doesn't fall: Tight piriformis/hip
+- Knee at level of opposite knee: Good
+- Compare left and right
+
+### Knee to Chest (Hip Flexion)
+
+**How to test:**
+1. Lie on back
+2. Pull one knee toward chest
+3. Keep other leg flat
+
+**Results:**
+- Knee reaches chest easily: Good
+- Limited range or other leg rises: Tight
+
+## Upper Body Tests
+
+### Shoulder Flexibility (Apley Scratch Test)
+
+**How to test:**
+1. Reach one hand over same shoulder
+2. Reach other hand up behind back
+3. Try to touch fingers
+4. Test both directions
+
+**Results:**
+- Fingers touch: Good
+- Gap between fingers: Measure gap
+- Compare sides
+
+### Chest/Shoulder (Wall Test)
+
+**How to test:**
+1. Stand back against wall
+2. Arms at 90°, elbows and wrists against wall
+3. Slide arms up overhead
+4. Keep contact with wall
+
+**Results:**
+- Maintain wall contact: Good
+- Arms come off wall: Tight chest/shoulders
+
+### Lat Flexibility
+
+**How to test:**
+1. Lie on back
+2. Arms overhead on floor
+3. Try to flatten arms to floor
+
+**Results:**
+- Arms flat on floor: Good
+- Arms raised or back arches: Tight lats
+
+## Spine Tests
+
+### Spinal Rotation
+
+**How to test:**
+1. Sit upright
+2. Cross arms over chest
+3. Rotate torso one direction
+4. Note how far you can see behind you
+
+**Results:**
+- Can see past 90°: Good
+- Limited rotation: Tight
+- Compare sides
+
+### Thoracic Extension
+
+**How to test:**
+1. Sit against wall, knees bent
+2. Try to flatten upper back against wall
+3. Raise arms overhead against wall
+
+**Results:**
+- Upper back and arms touch: Good
+- Gap behind upper back: Limited extension
+
+### Forward Bend (Overall Spine/Hamstrings)
+
+**How to test:**
+1. Stand, feet together
+2. Bend forward, reaching toward floor
+3. Note where fingertips reach
+
+**Results:**
+- Can't reach shins: Very tight
+- Touch shins: Tight
+- Touch floor: Average
+- Palms flat: Flexible
+
+## Ankle and Calf Tests
+
+### Ankle Dorsiflexion (Wall Test)
+
+**How to test:**
+1. Face wall, one foot a few inches away
+2. Knee touches wall while heel stays down
+3. Measure distance from toes to wall
+
+**Results:**
+- Less than 4 inches: Limited
+- 4-5 inches: Average
+- More than 5 inches: Good
+
+### Calf Flexibility
+
+**How to test:**
+1. Wall stretch position
+2. Note how far back you can step while keeping heel down
+
+**Results:**
+- Very limited step back: Tight
+- Moderate range: Average
+- Large step back, heel down: Good
+
+## Creating Your Baseline
+
+### Test All Areas
+
+Work through each test. Note your results.
+
+### Identify Priorities
+
+Which areas are tightest? These need the most attention.
+
+### Compare Sides
+
+Significant differences indicate imbalances to address.
+
+### Record Results
+
+Write down or photograph your positions for comparison later.
+
+## Tracking Progress
+
+### Retest Regularly
+
+- Every 4-6 weeks
+- Same conditions (time of day, warm-up status)
+- Same positions and measurements
+
+### Celebrate Progress
+
+Even small improvements show your work is paying off.
+
+### Adjust Focus
+
+As tight areas improve, shift attention to other areas.
+
+## Interpreting Results
+
+### "Tight" Doesn't Mean Injured
+
+Limited flexibility is common and improvable.
+
+### Compare to Function
+
+Can you do what you need to do? That matters most.
+
+### Avoid Over-Comparing
+
+Everyone's baseline is different. Compare to yourself, not others.
+
+### Context Matters
+
+Some activities require more flexibility than others.
+
+## The Bottom Line
+
+Simple flexibility tests identify tight areas and track your progress. Test yourself, identify priorities, work consistently on tight areas, and retest periodically. Watching your numbers improve keeps you motivated on your flexibility journey.
+`
+  },
   'stretching-for-golfers': {
     title: 'Stretching for Golfers: Improve Your Swing and Prevent Injury',
     date: '2026-03-07',

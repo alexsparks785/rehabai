@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'how-to-get-more-flexible',
+    title: 'How to Get More Flexible: The Complete Guide',
+    excerpt: 'Want to improve your flexibility? This comprehensive guide covers everything you need to know to become more flexible.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'flexibility-tests-measure',
+    title: 'Flexibility Tests: How to Measure Your Range of Motion',
+    excerpt: 'How flexible are you? These simple tests assess your flexibility and track your progress over time.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'stretching-for-golfers',
     title: 'Stretching for Golfers: Improve Your Swing and Prevent Injury',
     excerpt: 'Golf demands flexibility. These stretches improve your rotation, increase power, and keep you injury-free.',
