@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'standing-all-day-stretches',
+    title: 'Stretches for Standing All Day: Relief for Tired Legs and Feet',
+    excerpt: 'Jobs that require standing take a toll on your body. These stretches provide relief after a long day on your feet.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'post-surgery-stretching-guide',
+    title: 'Stretching After Surgery: When and How to Start Safely',
+    excerpt: 'Returning to stretching after surgery requires careful progression. Here\'s how to do it safely.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'travel-stretches-airplane',
+    title: 'Travel Stretches: Exercises for Long Flights and Road Trips',
+    excerpt: 'Long travel leaves you stiff and sore. These stretches can be done in tight spaces to keep you comfortable.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'stretching-for-stress-relief',
+    title: 'Stretching for Stress Relief: Exercises to Release Tension',
+    excerpt: 'Stress creates physical tension. These stretches target the areas where stress accumulates most.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
     slug: 'yoga-poses-flexibility',
     title: 'Yoga Poses for Flexibility: The Best Stretches from Yoga',
     excerpt: 'Yoga is renowned for building flexibility. These poses offer the best stretches for every major muscle group.',

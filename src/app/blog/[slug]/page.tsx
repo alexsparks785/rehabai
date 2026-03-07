@@ -13,6 +13,778 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'standing-all-day-stretches': {
+    title: 'Stretches for Standing All Day: Relief for Tired Legs and Feet',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## The Toll of Standing All Day
+
+Nurses, teachers, retail workers, chefs—millions of people stand for hours daily. This causes:
+
+- Tired, aching legs
+- Sore feet
+- Tight calves and hip flexors
+- Lower back pain
+- Swollen ankles
+- Overall fatigue
+
+Regular stretching helps relieve these symptoms and prevents long-term problems.
+
+## Foot and Ankle Stretches
+
+### Calf Stretch
+
+1. Face wall, hands on wall
+2. Step one foot back, keep it straight
+3. Bend front knee, lean forward
+4. Keep back heel on floor
+5. Hold 30-45 seconds each side
+6. Then bend back knee for soleus stretch
+
+### Plantar Fascia Stretch
+
+1. Sit down, cross one ankle over knee
+2. Pull toes back toward shin
+3. Feel stretch in arch
+4. Hold 30 seconds each foot
+
+### Tennis Ball Foot Roll
+
+1. Stand or sit with tennis ball under foot
+2. Roll ball along arch
+3. Pause on tender spots
+4. 1-2 minutes each foot
+
+### Ankle Circles
+
+1. Sit or stand on one foot
+2. Circle ankle slowly
+3. 10 circles each direction, each foot
+
+## Leg Stretches
+
+### Standing Quad Stretch
+
+1. Hold wall or chair for balance
+2. Grab ankle, pull heel to buttock
+3. Keep knees together
+4. Hold 30-45 seconds each side
+
+### Standing Hamstring Stretch
+
+1. Place heel on low surface
+2. Keep both legs straight
+3. Hinge forward at hips
+4. Hold 30-45 seconds each side
+
+### Hip Flexor Stretch
+
+1. Step one foot back into lunge
+2. Tuck tailbone under
+3. Feel stretch in front of back hip
+4. Hold 30-45 seconds each side
+
+### IT Band Stretch
+
+1. Cross one leg behind the other
+2. Lean away from back leg
+3. Push hip out
+4. Hold 30 seconds each side
+
+## Lower Back Relief
+
+### Standing Back Extension
+
+1. Hands on lower back
+2. Gently arch backward
+3. Hold 5 seconds
+4. Repeat 5-10 times
+
+### Forward Fold
+
+1. Let upper body hang forward
+2. Grab elbows, let head hang
+3. Sway gently side to side
+4. Hold 30-60 seconds
+
+### Standing Cat-Cow
+
+1. Hands on thighs, slight bend at knees
+2. Round back up, tuck chin
+3. Then arch back, lift chest
+4. Repeat 10 times
+
+## Hip Stretches
+
+### Figure-4 Stretch (Against Wall)
+
+1. Stand near wall
+2. Cross one ankle over opposite knee
+3. Sit back, using wall for balance
+4. Hold 30 seconds each side
+
+### Standing Hip Circles
+
+1. Hands on hips
+2. Circle hips 10 times each direction
+3. Opens up the hip joints
+
+## On-Break Quick Routine (5 minutes)
+
+Do this during breaks:
+
+1. Calf stretch: 30 sec each
+2. Quad stretch: 30 sec each
+3. Hip flexor stretch: 30 sec each
+4. Forward fold: 30 seconds
+5. Standing back extension: 5 reps
+6. Ankle circles: 10 each
+
+## After-Work Relief Routine (15 minutes)
+
+### Feet and Calves (5 min)
+
+1. Tennis ball foot roll: 1 min each
+2. Calf stretch (both positions): 45 sec each
+3. Ankle circles: 10 each direction
+
+### Legs and Hips (5 min)
+
+1. Quad stretch: 45 sec each
+2. Hamstring stretch: 45 sec each
+3. Hip flexor stretch: 45 sec each
+
+### Back (5 min)
+
+1. Forward fold: 1 minute
+2. Lying knee to chest: 45 sec each
+3. Supine twist: 45 sec each side
+4. Child's pose: 1 minute
+
+## Prevention Tips
+
+### During the Day
+
+- Shift weight frequently
+- Walk when possible
+- Use anti-fatigue mat
+- Wear supportive shoes
+- Take sitting breaks when you can
+- Mini stretches throughout day
+
+### Footwear
+
+- Supportive, cushioned shoes
+- Replace worn shoes
+- Consider insoles or orthotics
+- Avoid flat, unsupportive shoes
+
+### After Work
+
+- Elevate legs
+- Complete stretching routine
+- Epsom salt bath can help
+- Stay hydrated
+
+## The Bottom Line
+
+Standing all day stresses your body differently than sitting, but stretching helps both. Focus on feet, calves, hip flexors, and lower back. Quick stretches during breaks plus a complete routine after work keeps you feeling better and prevents chronic problems.
+`
+  },
+  'post-surgery-stretching-guide': {
+    title: 'Stretching After Surgery: When and How to Start Safely',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Returning to Movement After Surgery
+
+Surgery is stressful on your body, and returning to normal movement requires careful progression. Done right, stretching aids recovery. Done wrong, it can cause complications.
+
+**Important:** Always follow your surgeon's and physical therapist's specific instructions. This guide provides general principles.
+
+## General Principles
+
+### Wait for Clearance
+
+Never start stretching around a surgical site without medical clearance. Timing varies by surgery type.
+
+### Start Gentle
+
+Post-surgical tissues are healing. Begin with gentle movements, not aggressive stretching.
+
+### Pain Is a Signal
+
+Some discomfort is normal, but sharp pain or significant increase in pain means stop.
+
+### Progress Slowly
+
+Healing takes time. Gradual progression is safer than rushing.
+
+### Follow the Protocol
+
+If you have a physical therapy protocol, follow it. It's designed for your specific surgery.
+
+## Typical Timelines by Surgery Type
+
+**Note:** These are general guidelines. Your surgeon's instructions take priority.
+
+### Joint Replacement (Hip/Knee)
+
+- **Week 1-2:** Gentle range of motion as directed
+- **Week 2-6:** Progressive range of motion, light stretching
+- **Week 6-12:** Increasing intensity as cleared
+- **Month 3+:** Near-normal stretching
+
+### ACL Reconstruction
+
+- **Week 1-2:** Protected motion, focus on extension
+- **Week 2-6:** Progressive range of motion
+- **Week 6-12:** Increasing flexibility work
+- **Month 3-6:** Return to full flexibility
+
+### Rotator Cuff Repair
+
+- **Week 1-6:** Passive motion only (therapist moves arm)
+- **Week 6-12:** Active-assisted motion
+- **Month 3-4:** Active stretching begins
+- **Month 6+:** Full stretching as tolerated
+
+### Spinal Surgery
+
+- **Varies greatly** by procedure
+- Some movement restrictions may be permanent
+- Always follow specific spinal precautions
+- Typically very gradual return to flexibility
+
+### Abdominal Surgery
+
+- **Week 1-2:** Gentle walking, no stretching abdomen
+- **Week 2-4:** Light activity
+- **Week 4-6:** Gradual return to normal stretching
+- **Week 6+:** Resume full stretching as tolerated
+
+## How to Progress
+
+### Phase 1: Range of Motion
+
+Goal: Restore normal joint movement
+- Gentle, pain-free motion
+- May be passive (assisted) initially
+- Multiple times daily, brief sessions
+
+### Phase 2: Light Stretching
+
+Goal: Regain flexibility
+- Shorter holds (15-30 seconds)
+- Low intensity
+- Focus on areas not directly affected by surgery
+
+### Phase 3: Normal Stretching
+
+Goal: Return to pre-surgery flexibility
+- Normal hold durations
+- Gradually include surgical area
+- Progress based on how you feel
+
+## What to Avoid
+
+### Too Soon
+
+Don't stretch before your surgeon clears you. Healing tissues need time.
+
+### Too Aggressive
+
+Post-surgical stretching should be gentler than normal. Don't push hard.
+
+### Stretching Incisions
+
+Avoid pulling on or stretching across healing incisions until fully healed.
+
+### Ignoring Pain
+
+Sharp pain, increased swelling, or unusual symptoms need medical attention.
+
+### Skipping PT
+
+If physical therapy is recommended, do it. Home stretching supplements but doesn't replace professional guidance.
+
+## Supporting Recovery
+
+### Stay Hydrated
+
+Healing requires adequate hydration.
+
+### Nutrition
+
+Protein and nutrients support tissue repair.
+
+### Sleep
+
+Healing happens during sleep. Prioritize rest.
+
+### Manage Swelling
+
+Ice, elevation, and compression as directed reduce swelling that limits mobility.
+
+### Stay Positive
+
+Recovery takes time. Celebrate small progress.
+
+## When to Contact Your Doctor
+
+- Sudden increase in pain
+- New numbness or tingling
+- Signs of infection (fever, redness, discharge)
+- Feeling that something is wrong
+- No progress despite following instructions
+
+## Working with Physical Therapy
+
+If you have PT:
+- Attend all sessions
+- Do home exercises as prescribed
+- Communicate about pain and progress
+- Ask questions
+- Don't add exercises without discussing
+
+## The Bottom Line
+
+Stretching after surgery requires patience and proper guidance. Wait for clearance, start gentle, progress gradually, and follow your medical team's instructions. Done right, stretching is an important part of recovery. Rushing or overdoing it can set you back.
+`
+  },
+  'travel-stretches-airplane': {
+    title: 'Travel Stretches: Exercises for Long Flights and Road Trips',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Why Travel Is Hard on Your Body
+
+Hours of sitting in cramped spaces causes:
+
+- Stiff muscles and joints
+- Poor circulation
+- Swollen feet and ankles
+- Back and neck pain
+- Increased risk of blood clots (DVT)
+
+Regular movement and stretching during travel reduces these risks and keeps you comfortable.
+
+## In-Seat Stretches
+
+### Neck Stretches
+
+**Neck Rolls:**
+1. Drop chin to chest
+2. Roll head slowly to right, back, left, and down
+3. 3 circles each direction
+
+**Ear to Shoulder:**
+1. Drop right ear toward right shoulder
+2. Hold 15-20 seconds each side
+
+### Shoulder Stretches
+
+**Shoulder Rolls:**
+1. Roll shoulders forward 5 times
+2. Roll backward 5 times
+
+**Shoulder Shrugs:**
+1. Raise shoulders toward ears
+2. Hold 3 seconds
+3. Drop and relax
+4. Repeat 5 times
+
+**Cross-Body Stretch:**
+1. Pull one arm across chest
+2. Hold 15-20 seconds each side
+
+### Back Stretches
+
+**Seated Twist:**
+1. Place right hand on left knee
+2. Twist torso to left
+3. Hold 20 seconds each side
+
+**Seated Cat-Cow:**
+1. Hands on knees
+2. Round back, drop chin (cat)
+3. Arch back, lift chest (cow)
+4. Repeat 10 times
+
+### Hip and Leg Stretches
+
+**Seated Figure-4:**
+1. Cross right ankle over left knee
+2. Sit tall, gentle lean forward
+3. Hold 20-30 seconds each side
+
+**Knee to Chest:**
+1. Lift one knee, pull toward chest
+2. Hold 15-20 seconds each side
+
+**Ankle Circles:**
+1. Lift feet slightly
+2. Circle ankles 10 times each direction
+
+**Ankle Pumps:**
+1. Point toes down, then flex up
+2. 20 repetitions
+3. Helps circulation
+
+### Hand and Wrist
+
+**Wrist Circles:**
+1. Circle wrists 10 times each direction
+
+**Finger Stretches:**
+1. Spread fingers wide
+2. Make fists
+3. Repeat 10 times
+
+## Standing Stretches (Aisle/Rest Stop)
+
+### Calf Raises
+
+1. Stand, hold seat back
+2. Rise on toes
+3. Lower slowly
+4. 15-20 reps
+
+### Standing Quad Stretch
+
+1. Hold seat or wall
+2. Pull heel to buttock
+3. 20-30 seconds each side
+
+### Standing Hip Flexor Stretch
+
+1. Step one foot back
+2. Tuck tailbone
+3. 20-30 seconds each side
+
+### Forward Fold
+
+1. Let upper body hang
+2. Hold 30 seconds
+3. Great back release
+
+### Standing Twist
+
+1. Feet hip-width
+2. Rotate torso, looking behind
+3. 15-20 seconds each side
+
+## Hourly Movement Routine
+
+Every hour during travel:
+
+1. Ankle pumps: 20 reps
+2. Ankle circles: 10 each direction
+3. Knee lifts: 10 each leg
+4. Shoulder rolls: 10 total
+5. Neck stretches: 15 sec each side
+6. Seated twist: 15 sec each side
+
+**Total time:** 2-3 minutes
+
+## Blood Clot Prevention
+
+Long travel increases DVT (deep vein thrombosis) risk. To reduce risk:
+
+- Move legs frequently
+- Ankle pumps every 30 minutes
+- Walk when possible
+- Stay hydrated
+- Avoid alcohol (dehydrating)
+- Consider compression socks
+- Don't cross legs for long periods
+
+**Seek medical attention if you notice:** Leg pain, swelling, warmth, or redness after travel.
+
+## Before Travel Routine (5 min)
+
+Before you sit for hours:
+
+1. Hip flexor stretch: 30 sec each
+2. Hamstring stretch: 30 sec each
+3. Calf stretch: 30 sec each
+4. Chest stretch: 30 seconds
+5. Full body stretch
+
+## After Travel Routine (10 min)
+
+When you arrive:
+
+1. Forward fold: 1 minute
+2. Hip flexor stretch: 45 sec each
+3. Quad stretch: 45 sec each
+4. Calf stretch: 30 sec each
+5. Chest opener: 30 seconds
+6. Lying knee to chest: 30 sec each
+7. Supine twist: 30 sec each side
+8. Child's pose: 1 minute
+
+## Tips for Comfortable Travel
+
+- Choose aisle seat when possible
+- Walk during layovers
+- Stay hydrated
+- Wear loose clothing
+- Compression socks for long flights
+- Neck pillow for sleeping
+- Get up at least every 2 hours
+
+## The Bottom Line
+
+Long travel doesn't have to leave you stiff and sore. Regular in-seat stretches, hourly movement, and proper routines before and after travel keep you comfortable and reduce health risks. Make stretching part of your travel routine.
+`
+  },
+  'stretching-for-stress-relief': {
+    title: 'Stretching for Stress Relief: Exercises to Release Tension',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## How Stress Affects Your Body
+
+Stress isn't just mental—it manifests physically:
+
+- Tense neck and shoulders
+- Clenched jaw
+- Tight chest (shallow breathing)
+- Tension headaches
+- Lower back tightness
+- Clenched fists
+
+Stretching releases this physical tension, which in turn reduces mental stress.
+
+## Why Stretching Helps Stress
+
+- Activates parasympathetic nervous system (relaxation)
+- Releases muscle tension
+- Promotes deeper breathing
+- Provides mindful focus
+- Interrupts stress cycle
+- Releases endorphins
+
+## Key Areas Where Stress Accumulates
+
+### Neck and Shoulders
+
+The most common stress holding area. Shoulders creep up, neck tightens.
+
+### Jaw (TMJ)
+
+Stress causes clenching and grinding. Jaw muscles tighten.
+
+### Chest and Breathing Muscles
+
+Shallow stress breathing tightens chest and rib muscles.
+
+### Lower Back and Hips
+
+The psoas muscle connects stress response to physical tension.
+
+### Hands and Forearms
+
+Gripping and clenching creates hand and forearm tension.
+
+## Neck and Shoulder Release
+
+### Ear to Shoulder
+
+1. Drop right ear toward right shoulder
+2. Let gravity do the work
+3. Place right hand gently on left side of head
+4. Breathe deeply
+5. Hold 30-60 seconds each side
+
+### Neck Rolls
+
+1. Drop chin to chest
+2. Roll head slowly in circles
+3. 3 circles each direction
+4. Very slow and controlled
+
+### Shoulder Shrugs and Drops
+
+1. Inhale: raise shoulders to ears
+2. Hold 5 seconds (feel the tension)
+3. Exhale: drop shoulders completely
+4. Feel the release
+5. Repeat 5-10 times
+
+### Upper Trap Stretch
+
+1. Reach right arm behind back
+2. Tilt head left, ear to shoulder
+3. Feel stretch in right upper trap
+4. Hold 30-60 seconds each side
+
+## Chest and Breathing
+
+### Chest Opener
+
+1. Stand in doorway
+2. Arms on frame at 90 degrees
+3. Step through, opening chest
+4. Breathe deeply into chest expansion
+5. Hold 30-60 seconds
+
+### Rib Stretch
+
+1. Reach one arm overhead
+2. Lean to opposite side
+3. Breathe into the stretched side
+4. Feel ribs expand
+5. Hold 30 seconds each side
+
+### Deep Breathing with Arm Movement
+
+1. Inhale: raise arms overhead
+2. Exhale: lower arms
+3. Focus on full breaths
+4. 10 breaths
+
+## Jaw Release
+
+### Jaw Stretch
+
+1. Place fingers on chin
+2. Gently open mouth against resistance
+3. Hold 10 seconds
+4. Repeat 5 times
+
+### Masseter Massage
+
+1. Place fingers on jaw muscles (cheeks)
+2. Gentle circular pressure
+3. 30-60 seconds
+
+### Relaxed Jaw Position
+
+1. Let teeth part slightly
+2. Tongue rests on roof of mouth
+3. Lips closed
+4. Practice this awareness throughout day
+
+## Back and Hip Release
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor
+4. Breathe deeply into back
+5. Hold 1-2 minutes
+
+### Supine Twist
+
+1. Lie on back, knees bent
+2. Drop knees to one side
+3. Arms out, look opposite direction
+4. Breathe deeply
+5. Hold 1-2 minutes each side
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone
+3. The psoas connects to stress response
+4. Deep breathing while stretching
+5. Hold 45-60 seconds each side
+
+### Cat-Cow
+
+1. On hands and knees
+2. Round back up (cat), exhale
+3. Arch back (cow), inhale
+4. Coordinate with breath
+5. 15-20 cycles
+
+## Quick Stress-Relief Routine (5 minutes)
+
+When stress hits:
+
+1. Deep breaths: 5 full breaths
+2. Shoulder shrugs and drops: 5 reps
+3. Ear to shoulder: 30 sec each
+4. Chest opener: 30 seconds
+5. Forward fold with ragdoll arms: 30 seconds
+6. Deep breaths: 5 full breaths
+
+## Complete Stress-Relief Routine (15 minutes)
+
+### Breathing (2 min)
+
+1. Sit comfortably
+2. Deep belly breaths
+3. Inhale 4 counts, exhale 6 counts
+4. 10 breaths
+
+### Upper Body (5 min)
+
+1. Neck rolls: 3 each direction
+2. Ear to shoulder: 45 sec each
+3. Shoulder shrugs: 10 reps
+4. Upper trap stretch: 45 sec each
+5. Chest opener: 45 seconds
+
+### Jaw and Face (2 min)
+
+1. Jaw circles
+2. Masseter massage: 30 seconds
+3. Lion's breath: 3 reps (open mouth wide, stick out tongue, exhale forcefully)
+
+### Lower Body (4 min)
+
+1. Cat-cow: 15 reps
+2. Child's pose: 1 minute
+3. Hip flexor stretch: 45 sec each
+
+### Final Relaxation (2 min)
+
+1. Lie on back
+2. Arms at sides, palms up
+3. Close eyes
+4. Body scan: release tension from feet to head
+5. Deep breathing
+
+## Integrating Stretching with Stress Management
+
+### Morning
+
+- Start day with stretching
+- Sets calm tone
+
+### During Stressful Moments
+
+- Quick stretches at desk
+- Breathing breaks
+
+### Evening
+
+- Stress-relief routine
+- Helps transition out of work mode
+
+### Before Bed
+
+- Gentle stretching aids sleep
+- Releases day's accumulated tension
+
+## The Bottom Line
+
+Stress lives in your body. Stretching releases physical tension, which reduces mental stress. Focus on neck, shoulders, chest, and hips—where stress accumulates most. Combine stretching with deep breathing for maximum effect. Even a few minutes of stretching can shift your state from stressed to calm.
+`
+  },
   'yoga-poses-flexibility': {
     title: 'Yoga Poses for Flexibility: The Best Stretches from Yoga',
     date: '2026-03-07',
