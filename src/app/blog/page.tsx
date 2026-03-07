@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'yoga-poses-flexibility',
+    title: 'Yoga Poses for Flexibility: The Best Stretches from Yoga',
+    excerpt: 'Yoga is renowned for building flexibility. These poses offer the best stretches for every major muscle group.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'stretching-vs-yoga-difference',
+    title: 'Stretching vs Yoga: What\'s the Difference and Which Is Better?',
+    excerpt: 'Both improve flexibility, but they\'re not the same. Here\'s how to choose the right approach for your goals.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'how-long-hold-stretch',
+    title: 'How Long to Hold a Stretch: The Complete Guide',
+    excerpt: 'Is 10 seconds enough? Should you hold for 2 minutes? Here\'s what research says about stretch duration.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'stretching-equipment-tools',
+    title: 'Stretching Equipment: Tools to Improve Your Flexibility',
+    excerpt: 'From foam rollers to yoga blocks, these tools can enhance your stretching routine.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'stretching-for-runners',
     title: 'Stretching for Runners: Complete Pre and Post Run Routines',
     excerpt: 'Running demands flexibility. These stretches prepare you for runs and speed recovery afterward.',

@@ -13,6 +13,888 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'yoga-poses-flexibility': {
+    title: 'Yoga Poses for Flexibility: The Best Stretches from Yoga',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Yoga Works for Flexibility
+
+Yoga has been building flexibility for thousands of years. What makes it effective:
+
+- Long holds (often 30+ seconds)
+- Full-body approach
+- Breath integration helps muscles relax
+- Progressive deepening over time
+- Mind-body connection
+
+You don't need to practice full yoga to benefit. These poses can be incorporated into any stretching routine.
+
+## Hip Openers
+
+### Pigeon Pose (Eka Pada Rajakapotasana)
+
+**Targets:** Glutes, piriformis, hip flexors
+
+1. Start on hands and knees
+2. Bring right knee forward behind right wrist
+3. Right foot moves toward left hip
+4. Extend left leg straight back
+5. Square hips toward floor
+6. Fold forward for deeper stretch
+7. Hold 1-2 minutes each side
+
+**Modification:** Place a block under the hip if it doesn't reach the floor.
+
+### Lizard Pose (Utthan Pristhasana)
+
+**Targets:** Hip flexors, inner thighs, hamstrings
+
+1. Low lunge position
+2. Bring both hands inside front foot
+3. Lower to forearms if possible
+4. Let hip sink toward floor
+5. Hold 1-2 minutes each side
+
+### Frog Pose (Mandukasana)
+
+**Targets:** Inner thighs, groin
+
+1. Start on hands and knees
+2. Widen knees apart (flex feet, turn toes out)
+3. Lower to forearms
+4. Push hips back toward heels
+5. Hold 1-2 minutes
+
+**Caution:** Intense for inner thighs. Go slowly.
+
+### Butterfly/Bound Angle (Baddha Konasana)
+
+**Targets:** Inner thighs, groin
+
+1. Sit with soles of feet together
+2. Let knees drop open
+3. Hold feet or ankles
+4. Lengthen spine
+5. Fold forward for deeper stretch
+6. Hold 1-2 minutes
+
+## Hamstring Stretches
+
+### Standing Forward Fold (Uttanasana)
+
+**Targets:** Hamstrings, calves, lower back
+
+1. Stand with feet hip-width
+2. Hinge at hips, fold forward
+3. Let head hang heavy
+4. Grab elbows or let arms dangle
+5. Bend knees slightly if needed
+6. Hold 30-60 seconds
+
+### Seated Forward Fold (Paschimottanasana)
+
+**Targets:** Hamstrings, calves, lower back
+
+1. Sit with legs extended
+2. Flex feet (toes toward you)
+3. Lengthen spine, hinge forward
+4. Reach toward feet (don't round back)
+5. Hold 1-2 minutes
+
+### Pyramid Pose (Parsvottanasana)
+
+**Targets:** Hamstrings, calves
+
+1. Step one foot back, feet 3-4 feet apart
+2. Both feet pointing forward
+3. Square hips to front
+4. Fold over front leg
+5. Hold 30-60 seconds each side
+
+## Spine and Back
+
+### Cat-Cow (Marjaryasana-Bitilasana)
+
+**Targets:** Entire spine
+
+1. On hands and knees
+2. Cow: Arch back, lift head and tailbone
+3. Cat: Round back, tuck chin and tailbone
+4. Flow with breath: inhale cow, exhale cat
+5. 10-15 cycles
+
+### Child's Pose (Balasana)
+
+**Targets:** Lower back, hips, shoulders
+
+1. Kneel, sit back on heels
+2. Fold forward, arms extended
+3. Rest forehead on floor
+4. Hold 1-3 minutes
+
+### Thread the Needle
+
+**Targets:** Upper back, shoulders
+
+1. Start on hands and knees
+2. Slide right arm under body, palm up
+3. Lower right shoulder and head to floor
+4. Hold 30-60 seconds each side
+
+### Supine Twist (Supta Matsyendrasana)
+
+**Targets:** Spine, lower back, hips
+
+1. Lie on back
+2. Hug one knee to chest
+3. Drop knee across body to opposite side
+4. Extend arm toward direction you came from
+5. Look away from bent knee
+6. Hold 1-2 minutes each side
+
+## Shoulders and Chest
+
+### Cow Face Arms (Gomukhasana Arms)
+
+**Targets:** Shoulders, triceps
+
+1. Reach right arm up, bend elbow, hand down back
+2. Reach left arm behind back, hand up between shoulder blades
+3. Try to clasp hands (use strap if needed)
+4. Hold 30-60 seconds, switch sides
+
+### Eagle Arms (Garudasana Arms)
+
+**Targets:** Upper back, shoulders
+
+1. Extend arms forward
+2. Cross right arm under left
+3. Wrap forearms, palms together if possible
+4. Lift elbows, press palms away
+5. Hold 30 seconds, switch sides
+
+### Puppy Pose (Uttana Shishosana)
+
+**Targets:** Shoulders, chest, upper back
+
+1. Start on hands and knees
+2. Walk hands forward
+3. Lower chest toward floor
+4. Keep hips over knees
+5. Hold 30-60 seconds
+
+## Full Body
+
+### Downward Dog (Adho Mukha Svanasana)
+
+**Targets:** Hamstrings, calves, shoulders, back
+
+1. Start on hands and knees
+2. Lift hips up and back
+3. Press heels toward floor
+4. Push chest toward thighs
+5. Hold 30-60 seconds
+
+### Low Lunge (Anjaneyasana)
+
+**Targets:** Hip flexors, quads
+
+1. Step one foot forward into lunge
+2. Lower back knee to floor
+3. Sink hips forward and down
+4. Reach arms overhead
+5. Hold 30-60 seconds each side
+
+### Half Splits (Ardha Hanumanasana)
+
+**Targets:** Hamstrings
+
+1. Low lunge position
+2. Straighten front leg, pull hips back
+3. Flex front foot
+4. Fold forward over straight leg
+5. Hold 30-60 seconds each side
+
+## Sample Yoga-for-Flexibility Routine (20 minutes)
+
+1. Cat-cow: 10 cycles
+2. Downward dog: 30 seconds
+3. Low lunge (right): 45 seconds
+4. Half splits (right): 45 seconds
+5. Pigeon (right): 90 seconds
+6. Downward dog: 30 seconds
+7. Low lunge (left): 45 seconds
+8. Half splits (left): 45 seconds
+9. Pigeon (left): 90 seconds
+10. Seated forward fold: 60 seconds
+11. Supine twist: 60 seconds each side
+12. Child's pose: 60 seconds
+
+## The Bottom Line
+
+Yoga poses offer excellent stretches for every part of your body. The combination of long holds, breathwork, and progressive deepening makes yoga especially effective for flexibility. Incorporate these poses into your routine—you don't need to do a full yoga class to benefit.
+`
+  },
+  'stretching-vs-yoga-difference': {
+    title: 'Stretching vs Yoga: What\'s the Difference and Which Is Better?',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Stretching and Yoga: Related but Different
+
+Both stretching and yoga improve flexibility, but they're not the same thing. Understanding the differences helps you choose the right approach.
+
+## What Is Stretching?
+
+Stretching is the physical act of lengthening muscles and connective tissue to improve flexibility and range of motion.
+
+**Key characteristics:**
+- Focus: Physical flexibility
+- Duration: Typically 15-60 seconds per stretch
+- Approach: Isolated muscle targeting
+- Goal: Increase range of motion, reduce tightness
+- Setting: Anywhere, anytime
+- Learning curve: Minimal
+
+## What Is Yoga?
+
+Yoga is a comprehensive practice that originated in ancient India, combining physical postures (asanas), breathing techniques (pranayama), and meditation.
+
+**Key characteristics:**
+- Focus: Mind-body-spirit integration
+- Duration: Classes typically 30-90 minutes
+- Approach: Whole-body, holistic
+- Goal: Physical, mental, and spiritual well-being
+- Setting: Often in classes or dedicated spaces
+- Learning curve: Steeper (proper alignment matters)
+
+## Key Differences
+
+### Scope
+
+**Stretching:** Purely physical. Focus on muscle length.
+
+**Yoga:** Physical, mental, and spiritual. Stretching is one component.
+
+### Breath
+
+**Stretching:** Breathing helps but isn't central.
+
+**Yoga:** Breath is integral. Specific breathing techniques are practiced.
+
+### Movement Flow
+
+**Stretching:** Often static positions, held independently.
+
+**Yoga:** Often flowing sequences connecting poses.
+
+### Mindfulness
+
+**Stretching:** Can be mindful but often done while watching TV, etc.
+
+**Yoga:** Mindfulness is essential to practice.
+
+### Time Commitment
+
+**Stretching:** Can be done in 5-15 minutes.
+
+**Yoga:** Classes typically 30-90 minutes (though short practices exist).
+
+### Strength Component
+
+**Stretching:** Minimal strength work.
+
+**Yoga:** Many poses build significant strength.
+
+### Philosophy
+
+**Stretching:** No philosophical component.
+
+**Yoga:** Rooted in ancient philosophy and spiritual tradition.
+
+## Which Is Better?
+
+Neither is universally "better." It depends on your goals.
+
+### Choose Stretching If You Want:
+
+- Quick flexibility maintenance
+- Targeted muscle work
+- No learning curve
+- Time efficiency
+- To combine with other exercise
+- Simple, physical focus
+
+### Choose Yoga If You Want:
+
+- Mind-body connection
+- Stress reduction and relaxation
+- Community (classes)
+- Comprehensive practice
+- Strength and flexibility together
+- Spiritual or meditative component
+
+### Choose Both If You Want:
+
+- Maximum flexibility
+- Variety in your routine
+- Different benefits at different times
+
+## Practical Recommendations
+
+### For Pure Flexibility
+
+Either works. Stretching may be more time-efficient. Yoga provides deeper holds and breath integration.
+
+### For Stress Relief
+
+Yoga has the edge due to breathing practices, mindfulness, and meditative components.
+
+### For Busy Schedules
+
+Stretching fits into small time windows more easily.
+
+### For Beginners
+
+Both are accessible. Stretching has a gentler learning curve. Yoga classes provide guidance.
+
+### For Athletes
+
+Both are valuable. Stretching targets specific tight areas. Yoga provides recovery and body awareness.
+
+### For Rehabilitation
+
+Both can help under professional guidance. Yoga may need modification.
+
+## Can You Do Both?
+
+Absolutely. Many people:
+- Do yoga classes 2-3x per week
+- Stretch on other days
+- Use stretching before/after workouts
+- Use yoga for recovery and stress relief
+
+They complement each other.
+
+## Yoga Styles for Flexibility
+
+If you choose yoga for flexibility:
+
+**Yin Yoga:** Long holds (3-5 minutes), very flexibility-focused
+**Hatha Yoga:** Slower pace, good for beginners
+**Restorative Yoga:** Deeply relaxing, supported poses
+**Vinyasa:** More flowing, includes flexibility
+
+**Not ideal for pure flexibility:**
+- Power yoga (more strength-focused)
+- Hot yoga (careful with overstretching)
+
+## Stretching Approaches
+
+If you choose stretching:
+
+**Static stretching:** Hold positions 30-60 seconds
+**Dynamic stretching:** Movement-based (pre-workout)
+**PNF stretching:** Contract-relax for faster gains
+**Active stretching:** Use muscle strength to hold positions
+
+## The Bottom Line
+
+Stretching is a physical activity to improve flexibility. Yoga is a comprehensive practice that includes stretching but offers much more. Neither is better—choose based on your goals, time, and preferences. Or do both to get the benefits of each.
+`
+  },
+  'how-long-hold-stretch': {
+    title: 'How Long to Hold a Stretch: The Complete Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Short Answer
+
+For most people, most of the time: **30-60 seconds per stretch**.
+
+But the complete answer depends on your goals, the type of stretching, and what you're trying to achieve.
+
+## What Research Says
+
+### The Science
+
+Studies show:
+- **Under 15 seconds:** Minimal flexibility benefit
+- **15-30 seconds:** Some benefit, good for maintenance
+- **30-60 seconds:** Optimal for most people
+- **60+ seconds:** May provide additional benefit, especially for tight areas
+- **Longer holds (2-5 min):** Targets connective tissue (yin yoga approach)
+
+### The Key Finding
+
+Most research suggests 30 seconds is the minimum effective dose, with 60 seconds providing near-maximum benefit for a single stretch.
+
+## Hold Times by Goal
+
+### For Maintenance
+
+**Duration:** 15-30 seconds
+**Sets:** 1-2 per stretch
+**Frequency:** 3-4 times per week
+
+If you're already flexible and just maintaining, shorter holds are sufficient.
+
+### For Improvement
+
+**Duration:** 30-60 seconds
+**Sets:** 2-4 per stretch
+**Frequency:** 5-7 days per week
+
+To actually gain flexibility, hold longer and stretch more often.
+
+### For Significant Tightness
+
+**Duration:** 60-90 seconds
+**Sets:** 2-3 per stretch
+**Frequency:** Daily, possibly multiple times
+
+Very tight muscles need more time and frequency.
+
+### For Connective Tissue (Yin Approach)
+
+**Duration:** 2-5 minutes
+**Sets:** 1 per position
+**Frequency:** 2-4 times per week
+
+Long holds target fascia and deep connective tissue, not just muscles.
+
+## Hold Times by Stretch Type
+
+### Static Stretching
+
+**Recommended:** 30-60 seconds
+- This is what most research is based on
+- Can go longer for tight areas
+
+### Dynamic Stretching
+
+**Recommended:** No holding (continuous movement)
+- 10-15 repetitions per movement
+- Movement-based, not position-based
+
+### PNF Stretching
+
+**Recommended:** 
+- 6-10 second contraction
+- Then 30 second stretch
+- More advanced technique
+
+### Active Stretching
+
+**Recommended:** 10-15 seconds
+- Using muscle strength to hold position
+- Fatiguing to hold longer
+
+## Multiple Sets vs. Longer Holds
+
+Both work. Research suggests:
+- 3 x 30 seconds ≈ 1 x 90 seconds
+- Multiple sets may be more sustainable
+- Choose based on preference
+
+### Option A: Multiple Short Holds
+
+30 seconds → rest → 30 seconds → rest → 30 seconds
+
+### Option B: One Long Hold
+
+90 seconds continuous
+
+Both produce similar flexibility gains.
+
+## Timing Within Your Routine
+
+### Before Exercise
+
+**Hold time:** Brief (if at all) for static stretches
+- Dynamic stretching preferred
+- If static stretching, under 30 seconds
+- Longer holds may reduce performance
+
+### After Exercise
+
+**Hold time:** 30-60+ seconds
+- Muscles are warm
+- Ideal time for flexibility gains
+- Longer holds are appropriate
+
+### Separate Flexibility Session
+
+**Hold time:** 45-90+ seconds
+- Dedicated time for stretching
+- Can use longer holds
+- Include warm-up first
+
+## Signs You're Holding Long Enough
+
+### Good Signs
+
+- Initial tension decreases during hold
+- Able to go slightly deeper after 20-30 seconds
+- Muscle feels released afterward
+- Breathing remains calm
+
+### Signs to Hold Longer
+
+- No change in tension during hold
+- Chronically tight area
+- Haven't reached end range
+
+### Signs to Stop
+
+- Sharp pain (stop immediately)
+- Increasing pain (back off)
+- Shaking excessively
+- Unable to breathe normally
+
+## Common Mistakes
+
+### Too Short
+
+Holding for 5-10 seconds doesn't produce significant change. Commit to at least 30 seconds.
+
+### Bouncing
+
+Bouncing makes the muscle tighten. Hold steady instead.
+
+### Not Breathing
+
+Holding breath increases tension. Breathe deeply throughout.
+
+### Rushing
+
+Watching the clock anxiously doesn't help. Relax into the stretch.
+
+### Inconsistent
+
+One 60-second stretch doesn't change flexibility. Consistent practice over time does.
+
+## Practical Recommendations
+
+### Beginner
+
+- 30 seconds per stretch
+- 2 sets per muscle
+- Focus on form and breathing
+
+### Intermediate
+
+- 45-60 seconds per stretch
+- 2-3 sets or continuous hold
+- Increase for problem areas
+
+### Advanced
+
+- 60-90+ seconds for target areas
+- Include long-hold sessions (yin style)
+- May use PNF techniques
+
+### Time-Crunched
+
+- 30 seconds minimum
+- 1 set is better than skipping
+- Focus on tightest areas
+
+## Sample Timing Plans
+
+### Quick Session (10 min)
+
+- 30 seconds per stretch
+- 1 set each
+- Cover major muscle groups
+
+### Standard Session (20 min)
+
+- 45-60 seconds per stretch
+- 1-2 sets each
+- Full body coverage
+
+### Deep Flexibility Session (30+ min)
+
+- 60-90+ seconds per stretch
+- Include yin-style long holds
+- Focus on problem areas
+
+## The Bottom Line
+
+Hold each stretch for at least 30 seconds, ideally 45-60 seconds for improvement. Longer holds (up to several minutes) can be beneficial for very tight areas or connective tissue work. Consistency matters more than any single session—regular practice over weeks produces lasting change.
+`
+  },
+  'stretching-equipment-tools': {
+    title: 'Stretching Equipment: Tools to Improve Your Flexibility',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Do You Need Equipment?
+
+You can stretch effectively with no equipment at all. But the right tools can:
+
+- Make stretches more accessible
+- Allow deeper stretches
+- Improve comfort
+- Target muscles more effectively
+- Add variety to your routine
+
+Here's what's worth considering.
+
+## Essential Tools
+
+### Yoga Mat
+
+**What it is:** Cushioned, non-slip surface for floor work
+
+**Why it helps:**
+- Comfort for knees, spine, etc.
+- Non-slip surface for stability
+- Defines your stretching space
+
+**What to look for:**
+- Thickness: 4-6mm for most people
+- Non-slip surface
+- Easy to clean
+- Appropriate length for your height
+
+**Price range:** $15-100+
+
+### Yoga Strap / Stretching Strap
+
+**What it is:** Fabric strap with loops or buckle
+
+**Why it helps:**
+- Extends your reach
+- Allows deeper stretches without forcing
+- Essential for tight hamstrings, shoulders
+- Provides gentle assistance
+
+**How to use:**
+- Loop around foot for hamstring stretches
+- Use for shoulder stretches when hands can't reach
+- Gradually work toward no-strap version
+
+**Price range:** $5-20
+
+### Foam Roller
+
+**What it is:** Cylindrical foam tool for self-massage
+
+**Why it helps:**
+- Releases muscle tension
+- Improves mobility before stretching
+- Reduces soreness
+- Targets trigger points
+
+**Types:**
+- Soft: Beginners
+- Medium: Most people
+- Firm: Experienced users
+- Textured: More intense
+
+**Key uses:**
+- IT band area and quads
+- Upper back
+- Hamstrings
+- Calves
+
+**Price range:** $15-50
+
+## Helpful Additions
+
+### Yoga Blocks
+
+**What they are:** Foam or cork blocks for support and modification
+
+**Why they help:**
+- Bring the floor closer to you
+- Support in challenging positions
+- Allow proper alignment when flexibility is limited
+- Make poses accessible
+
+**How to use:**
+- Sit on for hip openers
+- Place under hands in forward folds
+- Support knee in pigeon pose
+- Rest head on during restorative poses
+
+**Price range:** $8-25 (for a pair)
+
+### Tennis Ball / Lacrosse Ball
+
+**What they are:** Small balls for targeted self-massage
+
+**Why they help:**
+- More precise than foam roller
+- Reach small, specific areas
+- Great for feet, glutes, upper back
+- Inexpensive and portable
+
+**Tennis vs Lacrosse:**
+- Tennis ball: Softer, good for beginners
+- Lacrosse ball: Firmer, deeper pressure
+
+**Price range:** $3-15
+
+### Massage Stick / Roller Stick
+
+**What it is:** Handled roller for self-massage
+
+**Why it helps:**
+- Control pressure precisely
+- Reach areas hard to foam roll
+- More portable than foam roller
+- Good for calves, quads, IT band
+
+**Price range:** $15-40
+
+## Optional Tools
+
+### Resistance Bands
+
+**What they are:** Elastic bands providing resistance
+
+**Why they help:**
+- Active stretching (stretch plus strengthen)
+- Assisted stretches
+- Mobility drills
+- Add challenge to stretches
+
+**Types:**
+- Loop bands: Good for legs/hips
+- Tube bands: Good for upper body
+- Flat bands: Versatile
+
+**Price range:** $10-30 (set)
+
+### Yoga Bolster
+
+**What it is:** Large, firm cushion
+
+**Why it helps:**
+- Support in restorative poses
+- Allows passive stretching
+- Increases comfort in long holds
+- Great for supported backbends
+
+**Price range:** $30-80
+
+### Yoga Wheel
+
+**What it is:** Circular prop for backbends and stretching
+
+**Why it helps:**
+- Deep chest and shoulder opening
+- Supported backbends
+- Rolling for massage
+- Core strengthening
+
+**Price range:** $25-60
+
+### Massage Gun
+
+**What it is:** Percussive therapy device
+
+**Why it helps:**
+- Quick muscle relaxation
+- Pre-stretch preparation
+- Recovery aid
+- Reaches deep tissue
+
+**Price range:** $50-400+
+
+## What You Actually Need
+
+### Beginner
+
+**Essential:**
+- Yoga mat (or carpet/towel)
+- Stretching strap
+
+**Total cost:** ~$20-40
+
+### Intermediate
+
+**Add:**
+- Foam roller
+- Yoga blocks (pair)
+- Tennis ball
+
+**Total cost:** ~$60-100
+
+### Advanced/Enthusiast
+
+**Add:**
+- Massage stick
+- Resistance bands
+- Bolster or wheel
+- Quality foam roller
+- Possibly massage gun
+
+**Total cost:** ~$150-300+
+
+## DIY Alternatives
+
+### Instead of yoga strap:
+
+- Belt
+- Tie
+- Towel
+- Resistance band
+
+### Instead of yoga blocks:
+
+- Thick books
+- Firm pillows
+- Rolled towels
+
+### Instead of foam roller:
+
+- PVC pipe wrapped in towel
+- Rolling pin
+- Water bottle (frozen for calves)
+
+### Instead of bolster:
+
+- Firm pillow
+- Rolled blankets
+
+## Tips for Buying
+
+### Start Simple
+
+Buy basics first. Add tools as you identify specific needs.
+
+### Quality Matters for Some Items
+
+- Foam rollers: Better quality lasts longer
+- Mats: Cheap mats slip and deteriorate quickly
+- Straps/blocks: Quality matters less
+
+### Consider Your Space
+
+If you're tight on space, prioritize portable items (strap, balls) over bulky ones (bolster).
+
+### Read Reviews
+
+Equipment quality varies widely. Research before purchasing.
+
+## The Bottom Line
+
+You can stretch effectively with nothing but your body. A mat, strap, and foam roller cover most needs. Add other tools based on your specific goals and challenges. Don't let lack of equipment stop you—start stretching with what you have.
+`
+  },
   'stretching-for-runners': {
     title: 'Stretching for Runners: Complete Pre and Post Run Routines',
     date: '2026-03-07',
