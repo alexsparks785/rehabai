@@ -2345,6 +2345,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '5 min read'
+  },
+  {
+    slug: 'fibromyalgia-exercises-pain-management',
+    title: 'Fibromyalgia Exercises: How to Move When Everything Hurts',
+    excerpt: 'Exercise helps fibromyalgia, but starting is hard. Learn how to begin gently and progress without flaring symptoms.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'pelvic-floor-exercises-complete-guide',
+    title: 'Pelvic Floor Exercises: The Complete Guide for All Genders',
+    excerpt: 'Pelvic floor problems affect everyone. Learn proper Kegel technique, when to strengthen vs relax, and exercises that actually work.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'stroke-recovery-exercises',
+    title: 'Stroke Recovery Exercises: Rebuilding Movement and Function',
+    excerpt: 'Recovery after stroke requires targeted exercise. These techniques help restore mobility, strength, and independence.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'ankylosing-spondylitis-exercises',
+    title: 'Ankylosing Spondylitis Exercises: Stay Mobile and Reduce Stiffness',
+    excerpt: 'Movement is medicine for AS. These exercises maintain spinal mobility, improve posture, and reduce pain and stiffness.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '6 min read'
   }
 ];
 

@@ -57979,6 +57979,1053 @@ Your posture developed over years; give it months to change. But improvements of
 
 *Foundational Rehab provides posture correction programs targeting rounded upper back and forward head posture.*
     \`
+  },
+  'fibromyalgia-exercises-pain-management': {
+    title: 'Fibromyalgia Exercises: How to Move When Everything Hurts',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## The Exercise Paradox
+
+Fibromyalgia creates a cruel paradox: exercise is one of the most effective treatments, yet movement often feels impossible when you're in pain, exhausted, and flaring.
+
+Here's the truth: **Exercise helps fibromyalgia.** Research consistently shows it reduces pain, improves sleep, decreases fatigue, and enhances quality of life.
+
+But how you start matters enormously.
+
+## Why Exercise Helps
+
+Fibromyalgia involves central sensitization—your nervous system amplifies pain signals. Exercise can help by:
+
+- Reducing pain sensitivity over time
+- Improving sleep quality
+- Decreasing depression and anxiety
+- Building strength and endurance
+- Releasing endorphins
+- Improving cardiovascular health
+
+The catch: you have to start gently and progress slowly.
+
+## The Starting Principles
+
+### 1. Start Ridiculously Low
+
+Whatever you think you can do, start at 50% of that. You can always do more tomorrow. You can't undo a flare.
+
+### 2. Progress Slowly
+
+Add no more than 10% per week. Patience is essential.
+
+### 3. Consistency Over Intensity
+
+Three gentle 10-minute sessions beat one exhausting 30-minute session.
+
+### 4. Listen, But Don't Obey Every Signal
+
+Some discomfort is normal when starting. But sharp pain, significant increase in symptoms, or crashes mean you've done too much.
+
+### 5. Expect Setbacks
+
+Bad days happen. They don't mean exercise isn't working. Adjust intensity, don't quit.
+
+## Week 1-2: The Gentlest Start
+
+**Goal:** Move daily without triggering flares.
+
+**Walking**
+- Start with 5 minutes at a comfortable pace
+- Flat terrain
+- Can be broken into smaller chunks
+- Do daily if possible
+
+**Gentle Stretching**
+- 5-10 minutes
+- Neck rolls, shoulder shrugs
+- Seated spinal twist
+- Gentle hamstring stretch
+- No forcing, no pain
+
+**Warm Water Exercise** (if available)
+- Walk in pool
+- Gentle arm movements
+- Water reduces joint stress
+- Often better tolerated initially
+
+## Week 3-4: Building Gradually
+
+**Walking**
+- Increase by 2-3 minutes
+- Goal: 10-15 minutes
+- Add slight incline or varied terrain
+
+**Add Light Strengthening**
+
+**Wall Push-Ups**
+1. Stand facing wall
+2. Place hands shoulder-width
+3. Lean in, push back
+4. 5-10 reps
+
+**Seated Leg Extensions**
+1. Sit in chair
+2. Slowly straighten one leg
+3. Hold 3 seconds, lower
+4. 5-10 each leg
+
+**Standing Hip Abduction**
+1. Hold chair for balance
+2. Lift leg to side
+3. 5-10 each side
+
+## Month 2: Establishing Routine
+
+**Aerobic Exercise**
+- Walking, cycling, or aquatics
+- 15-20 minutes
+- 3-4 times per week
+- Moderate intensity (can talk but slightly breathless)
+
+**Strengthening**
+- 2 times per week
+- Add exercises gradually:
+  - Bridges
+  - Seated rows with light band
+  - Standing hip exercises
+  - Gentle squats (partial range)
+
+**Stretching**
+- Daily
+- All major muscle groups
+- 15-20 minutes
+
+## Best Exercise Types for Fibromyalgia
+
+### Aquatic Exercise
+Water is often the best starting point:
+- Buoyancy reduces joint stress
+- Warm water soothes muscles
+- Resistance in all directions
+- Studies show significant benefits
+
+### Tai Chi
+- Gentle, flowing movements
+- Improves balance and coordination
+- Meditative component helps pain
+- Research supports benefits for fibromyalgia
+
+### Yoga (Gentle/Restorative)
+- Modified poses
+- Focus on breathing
+- Stress reduction
+- Avoid hot yoga or intense styles initially
+
+### Walking
+- Free and accessible
+- Easy to modify intensity
+- Social if done with others
+- Outdoors provides additional benefits
+
+### Cycling (Stationary or Outdoor)
+- Low impact
+- Controlled intensity
+- Indoor option for bad weather days
+- Recumbent may be more comfortable
+
+## Managing Flares
+
+Flares will happen. Here's how to handle them:
+
+**During a Flare:**
+- Reduce intensity by 50% or more
+- Shorter duration
+- Gentler movements
+- Water exercise if possible
+- Don't stop completely if you can help it
+
+**After a Flare:**
+- Return to exercise gradually
+- Start at lower level than before flare
+- Build back over 1-2 weeks
+- Identify possible triggers
+
+## Pacing Strategies
+
+**The Boom-Bust Cycle**
+- Bad pattern: Feel good → overdo it → crash → rest → repeat
+- Better pattern: Consistent moderate activity regardless of how you feel
+
+**Activity Pacing:**
+- Plan activities in advance
+- Include rest periods
+- Don't pack good days with activity
+- Stop before exhaustion, not after
+
+## What to Avoid (Initially)
+
+- High-impact activities (running, jumping)
+- Heavy weight lifting
+- Intense group fitness classes
+- Competitive sports
+- Exercising when exhausted
+- Hot yoga or extreme temperatures
+
+These may be possible later, but not when starting.
+
+## Signs You're Doing Too Much
+
+- Symptoms significantly worse for >24 hours after exercise
+- Increased fatigue lasting days
+- Sleep worsening
+- Unable to function the next day
+- Dreading exercise sessions
+
+**Adjust by:** Reducing duration, intensity, or frequency.
+
+## Signs You're on Track
+
+- Gradual improvement in symptoms over weeks
+- Better sleep (even if subtle)
+- Increased energy overall
+- Able to do more over time
+- Exercise feels manageable
+
+## The Bottom Line
+
+Exercise is medicine for fibromyalgia—but dose matters. The key is:
+
+1. Start gentler than you think necessary
+2. Progress slower than you want
+3. Stay consistent
+4. Adjust for flares
+5. Be patient with yourself
+
+Movement won't cure fibromyalgia, but it's one of the most powerful tools you have.
+
+---
+
+*Foundational Rehab provides gentle, progressive programs suitable for chronic pain conditions.*
+    \`
+  },
+  'pelvic-floor-exercises-complete-guide': {
+    title: 'Pelvic Floor Exercises: The Complete Guide for All Genders',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '7 min read',
+    content: \`
+## What Is the Pelvic Floor?
+
+The pelvic floor is a group of muscles spanning the bottom of your pelvis—like a hammock supporting your bladder, bowel, and reproductive organs.
+
+These muscles:
+- Control urination and bowel movements
+- Support pelvic organs
+- Contribute to sexual function
+- Stabilize the spine and pelvis
+- Work with your core and breathing
+
+**Everyone has a pelvic floor.** While often discussed for women, pelvic floor health matters for all genders.
+
+## Signs of Pelvic Floor Problems
+
+### Weakness (Hypotonic)
+- Urinary leakage (coughing, sneezing, jumping)
+- Difficulty holding urine or stool
+- Pelvic organ prolapse (heaviness, bulging)
+- Reduced sexual sensation
+
+### Tightness (Hypertonic)
+- Pelvic pain
+- Painful intercourse
+- Difficulty emptying bladder or bowels
+- Constipation
+- Pain with sitting
+
+**Important:** Not all pelvic floor problems need strengthening. Tight pelvic floors need relaxation, not Kegels.
+
+## Finding Your Pelvic Floor
+
+### For Everyone
+Imagine you're:
+- Stopping the flow of urine midstream (don't actually do this regularly)
+- Holding back gas
+- Lifting your pelvic floor up and in
+
+You should feel a gentle squeeze and lift deep in your pelvis—not your abs, buttocks, or thighs.
+
+### Check Your Technique
+- Place a hand on your abdomen—it should stay relaxed
+- Your buttocks should not clench
+- You should not hold your breath
+- The movement is internal, not visible
+
+## Basic Kegel Exercise
+
+**The Foundation:**
+
+1. **Find the muscles** (as described above)
+2. **Contract** and lift the pelvic floor
+3. **Hold** for 3-5 seconds
+4. **Relax** completely for 3-5 seconds
+5. **Repeat** 10 times
+
+**Progress over time:**
+- Increase hold time (up to 10 seconds)
+- Add more repetitions (up to 3 sets of 10)
+- Practice daily
+
+## Beyond Basic Kegels
+
+### Quick Flicks
+For quick muscle response (stopping a sneeze leak):
+1. Contract pelvic floor quickly
+2. Release immediately
+3. Repeat 10-15 times quickly
+4. Rest, then repeat
+
+### Elevator Exercise
+For strength and control through range:
+1. Imagine your pelvic floor as an elevator
+2. Contract to "first floor"
+3. Lift higher to "second floor"
+4. Go to "third floor" (maximum)
+5. Slowly lower back down, floor by floor
+6. Repeat 5-10 times
+
+### The Knack
+For preventing leaks during activities:
+1. Before coughing, sneezing, or lifting
+2. Contract pelvic floor firmly
+3. Hold during the activity
+4. Release after
+
+Practice until it becomes automatic.
+
+## Pelvic Floor Relaxation
+
+**For tight/overactive pelvic floor:**
+
+### Diaphragmatic Breathing
+1. Lie on back, knees bent
+2. Place hand on belly
+3. Inhale—belly rises, pelvic floor naturally descends
+4. Exhale—belly falls gently
+5. Focus on complete relaxation on inhale
+6. 5-10 minutes daily
+
+### Happy Baby Pose
+1. Lie on back
+2. Bring knees toward armpits
+3. Hold feet or ankles
+4. Gently rock side to side
+5. Focus on relaxing pelvic floor
+6. Hold 1-2 minutes
+
+### Child's Pose with Breathing
+1. Kneel, sit back on heels
+2. Fold forward, arms extended
+3. Breathe deeply into belly and back
+4. Feel pelvic floor release with each inhale
+5. Hold 2-3 minutes
+
+### Butterfly Stretch
+1. Sit, soles of feet together
+2. Let knees fall open
+3. Gentle forward fold
+4. Breathe and release
+5. Hold 1-2 minutes
+
+## Pelvic Floor + Core Integration
+
+The pelvic floor works with your deep core. Train them together:
+
+### Breathing Coordination
+1. Inhale: pelvic floor and belly relax
+2. Exhale: pelvic floor gently lifts, deep core engages
+
+### Bridge with Pelvic Floor
+1. Lie on back, knees bent
+2. Exhale, engage pelvic floor
+3. Lift hips into bridge
+4. Hold 5 seconds
+5. Lower, relax completely
+6. 10 repetitions
+
+### Dead Bug with Pelvic Floor
+1. Lie on back, knees at 90°
+2. Exhale, engage pelvic floor
+3. Lower opposite arm and leg
+4. Return, relax
+5. Repeat other side
+6. 10 each side
+
+## For Specific Populations
+
+### Postpartum
+- Wait for provider clearance (usually 6 weeks)
+- Start gently—muscles are stretched and weakened
+- Focus on connection before strength
+- See a pelvic floor PT if problems persist
+
+### Prostate Issues (Prostatitis, Post-Surgery)
+- Kegels help before and after prostate surgery
+- Can improve urinary control
+- May help with erectile function
+- Relaxation important for chronic prostatitis
+
+### Pregnancy
+- Safe throughout pregnancy
+- Helps prepare for delivery
+- May reduce incontinence risk
+- Balance strengthening with relaxation
+
+### Menopause
+- Hormonal changes affect pelvic floor
+- Continued exercise maintains function
+- May need more focus on relaxation
+- Discuss options with provider
+
+## Common Mistakes
+
+1. **Bearing down instead of lifting** — Wrong direction!
+2. **Clenching buttocks or thighs** — Isolate the pelvic floor
+3. **Holding breath** — Breathe normally
+4. **Only doing quick contractions** — Need sustained holds too
+5. **Doing Kegels with tight pelvic floor** — Relax first
+6. **Forgetting to fully relax** — Relaxation is half the exercise
+
+## When to See a Specialist
+
+A pelvic floor physical therapist can help if:
+- You can't find your pelvic floor muscles
+- Symptoms aren't improving after 8-12 weeks
+- You have pelvic pain
+- You're unsure if you need strengthening or relaxation
+- You've had pelvic surgery
+- You have prolapse symptoms
+- Problems are significantly affecting your life
+
+## Sample Daily Routine
+
+**Morning (5 minutes):**
+- Diaphragmatic breathing (2 minutes)
+- Kegels: 10 holds (5 seconds each)
+- Quick flicks: 15 reps
+
+**Midday (2 minutes):**
+- 10 Kegels while sitting at desk
+- Practice "the knack" before sneezing/coughing
+
+**Evening (5 minutes):**
+- Happy baby pose (1 minute)
+- Bridges with pelvic floor (10 reps)
+- Diaphragmatic breathing (2 minutes)
+
+## The Bottom Line
+
+Pelvic floor health is:
+- Important for everyone
+- Not just about Kegels
+- A balance of strength AND relaxation
+- Connected to breathing and core
+- Addressable with consistent practice
+
+If you're experiencing pelvic floor dysfunction, don't suffer in silence. These are common, treatable problems.
+
+---
+
+*Foundational Rehab offers core and pelvic floor programs to support your foundation from the inside out.*
+    \`
+  },
+  'stroke-recovery-exercises': {
+    title: 'Stroke Recovery Exercises: Rebuilding Movement and Function',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: \`
+## Understanding Stroke Recovery
+
+A stroke damages brain tissue, affecting movement, sensation, speech, and cognition. Recovery depends on:
+
+- Stroke location and size
+- Time to treatment
+- Rehabilitation intensity
+- Individual factors
+
+**Neuroplasticity**—the brain's ability to reorganize—makes recovery possible. Exercise drives this adaptation.
+
+## The Recovery Timeline
+
+### Acute Phase (First Days-Weeks)
+- Medical stabilization
+- Rehabilitation begins in hospital
+- Focus: preventing complications, early mobilization
+
+### Subacute Phase (Weeks 1-3 Months)
+- Most rapid recovery occurs here
+- Intensive rehabilitation
+- High potential for gains
+
+### Chronic Phase (3+ Months)
+- Recovery continues but slows
+- Ongoing exercise maintains and improves function
+- Adaptation strategies become important
+
+**Key point:** Recovery can continue for years. Don't give up.
+
+## Principles of Stroke Rehabilitation
+
+### Repetition
+The brain learns through repetition. High numbers of movement repetitions drive neuroplasticity.
+
+### Task-Specific Practice
+Practice the movements you want to improve. Walking practice improves walking. Reaching practice improves reaching.
+
+### Intensity
+More therapy generally leads to better outcomes. Aim for as much practice as you can safely do.
+
+### Challenge
+Exercises should be challenging but achievable. Too easy doesn't drive change; too hard leads to frustration.
+
+### Consistency
+Daily practice beats occasional intense sessions.
+
+## Upper Extremity Exercises
+
+### Passive Range of Motion
+If you can't move your arm actively, maintain flexibility with assisted movement:
+
+1. Use your unaffected arm to move the affected arm
+2. Move through all directions: shoulder, elbow, wrist, fingers
+3. 10 repetitions each direction
+4. 2-3 times daily
+
+### Supported Reaching
+1. Sit at table with affected arm on surface
+2. Slide arm forward along table
+3. Use unaffected arm to assist if needed
+4. 10-20 repetitions
+
+### Weight Bearing
+1. Place affected hand on table
+2. Lean body weight through arm
+3. Hold 10-30 seconds
+4. Helps activate muscles and improve awareness
+
+### Grasp and Release
+1. Pick up objects (start large, progress to small)
+2. Move to different locations
+3. Release deliberately
+4. Practice with various objects: balls, cups, pegs
+
+### Finger Exercises
+1. Touch thumb to each fingertip
+2. Spread fingers apart, squeeze together
+3. Make a fist, open fully
+4. Piano playing motions
+
+## Lower Extremity Exercises
+
+### Supine Exercises (Lying Down)
+
+**Hip Flexion**
+1. Lie on back
+2. Slide affected heel toward buttock (bending knee)
+3. Return to straight
+4. Assist with hands if needed
+5. 10-20 repetitions
+
+**Hip Abduction**
+1. Lie on back
+2. Slide affected leg out to side
+3. Return to center
+4. 10-20 repetitions
+
+**Bridges**
+1. Lie on back, knees bent
+2. Push through feet to lift hips
+3. Hold 3-5 seconds
+4. Lower slowly
+5. 10 repetitions
+
+### Seated Exercises
+
+**Sit-to-Stand**
+1. Sit in sturdy chair
+2. Lean forward, nose over toes
+3. Push through both feet to stand
+4. Sit slowly with control
+5. Use armrests or walker if needed
+6. 10 repetitions, multiple times daily
+
+**Marching**
+1. Sit in chair
+2. Lift one knee, lower
+3. Alternate sides
+4. 20-30 marches
+
+**Weight Shifts**
+1. Sit on edge of chair
+2. Shift weight to affected side
+3. Hold 5 seconds
+4. Return to center
+5. 10 repetitions
+
+### Standing Exercises
+
+**Weight Shifts**
+1. Stand with support available
+2. Shift weight side to side
+3. Shift weight forward and back
+4. 10 each direction
+
+**Single Leg Stance**
+1. Hold support
+2. Lift unaffected foot
+3. Stand on affected leg
+4. Progress: less support, longer holds
+5. Goal: 30 seconds
+
+**Step-Ups**
+1. Step up with affected leg
+2. Bring other foot up
+3. Step down
+4. Use railing for support
+5. 10 repetitions
+
+## Walking Practice
+
+### Fundamentals
+- Practice daily, as much as safely possible
+- Use appropriate assistive device (walker, cane)
+- Focus on heel strike, weight through foot, push-off
+- Quality over quantity initially
+
+### Progression
+1. Parallel bars or walker with assistance
+2. Walker independently
+3. Quad cane
+4. Single-point cane
+5. No device (if appropriate)
+
+### Variations
+- Walk backward
+- Walk sideways
+- Walk on varied surfaces
+- Obstacle negotiation
+- Stair climbing
+
+## Balance Training
+
+Poor balance is common after stroke. Practice daily:
+
+**Static Balance**
+- Stand with feet together
+- Stand with feet in tandem (heel-to-toe)
+- Stand on affected leg
+
+**Dynamic Balance**
+- Reach in various directions while standing
+- Turn head while standing
+- Catch/throw a ball while standing
+
+**Perturbation Training**
+With supervision: gentle pushes in different directions while maintaining balance.
+
+## Constraint-Induced Movement Therapy (CIMT)
+
+A specialized approach for those with some arm movement:
+
+- Restrain the unaffected arm
+- Intensively use the affected arm
+- Hours of daily practice
+- Drives neuroplasticity
+
+Typically done in structured programs, but principles can be applied at home: **use your affected arm as much as possible.**
+
+## Mental Practice
+
+Imagining movements activates similar brain areas as actual movement:
+
+1. Close your eyes
+2. Vividly imagine performing a movement
+3. Feel the muscles contracting
+4. Practice 10-15 minutes daily
+
+Research supports combining mental and physical practice.
+
+## Spasticity Management
+
+If muscles are stiff and tight:
+
+- Daily stretching
+- Positioning to prevent contractures
+- Weight bearing through affected limbs
+- Splinting as recommended
+- Discuss medications or injections with your doctor
+
+## Daily Practice Structure
+
+**Morning (30+ minutes):**
+- Range of motion exercises
+- Upper extremity exercises
+- Standing balance
+
+**Midday (20+ minutes):**
+- Walking practice
+- Sit-to-stand repetitions
+- Functional tasks (dressing, eating)
+
+**Evening (20+ minutes):**
+- Lower extremity exercises
+- Stretching
+- Mental practice
+
+**Throughout Day:**
+- Use affected arm/hand as much as possible
+- Practice standing and walking
+- Challenge yourself with daily activities
+
+## When to Get Professional Help
+
+Work with rehabilitation professionals:
+- Physical therapists (mobility, strength, balance)
+- Occupational therapists (daily activities, arm function)
+- Speech therapists (communication, swallowing)
+
+Seek guidance if:
+- Unsure about safety
+- Not seeing progress
+- New symptoms develop
+- Questions about technique
+
+## The Bottom Line
+
+Stroke recovery is hard work, but improvement is possible at any stage. The keys:
+
+1. Start early and continue long-term
+2. High repetitions of meaningful movements
+3. Challenge yourself appropriately
+4. Practice consistently, daily
+5. Use your affected side as much as possible
+
+Every repetition counts. Keep going.
+
+---
+
+*Foundational Rehab provides progressive exercise programs suitable for neurological recovery.*
+    \`
+  },
+  'ankylosing-spondylitis-exercises': {
+    title: 'Ankylosing Spondylitis Exercises: Stay Mobile and Reduce Stiffness',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back',
+    readTime: '6 min read',
+    content: \`
+## What Is Ankylosing Spondylitis?
+
+Ankylosing spondylitis (AS) is an inflammatory arthritis primarily affecting the spine. Over time, inflammation can lead to new bone formation, potentially fusing vertebrae together.
+
+Symptoms include:
+- Back pain and stiffness (worse in morning, better with movement)
+- Reduced spinal mobility
+- Fatigue
+- Can affect other joints, eyes, and organs
+
+**Key principle:** Movement is medicine for AS. Regular exercise is one of the most important treatments.
+
+## Why Exercise Is Essential
+
+For AS specifically, exercise:
+
+- Maintains spinal mobility (critical before fusion occurs)
+- Reduces pain and stiffness
+- Improves posture
+- Preserves chest expansion (breathing)
+- Maintains function
+- Improves quality of life
+- May slow disease progression
+
+Skipping exercise accelerates the very problems AS causes.
+
+## The Exercise Prescription
+
+### Daily Non-Negotiables
+
+**1. Spinal Mobility (10-15 minutes)**
+Every direction, every day.
+
+**2. Stretching (5-10 minutes)**
+Focus on tight areas.
+
+**3. Posture Awareness**
+Throughout the day.
+
+### Regular Addition
+
+**4. Strengthening (2-3x/week)**
+Back extensors, core, hips.
+
+**5. Cardiovascular Exercise (Most days)**
+Swimming, walking, cycling.
+
+## Spinal Mobility Exercises
+
+### Cervical Spine (Neck)
+
+**Chin Tucks**
+1. Sit tall
+2. Draw chin straight back
+3. Hold 5 seconds
+4. 10 repetitions
+
+**Neck Rotation**
+1. Turn head to look over shoulder
+2. Hold 5 seconds
+3. Return, repeat other side
+4. 10 each side
+
+**Neck Lateral Flexion**
+1. Tilt ear toward shoulder
+2. Don't raise shoulder
+3. Hold 5 seconds
+4. 10 each side
+
+### Thoracic Spine (Mid-Back)
+
+**Thoracic Extension**
+1. Sit in chair
+2. Clasp hands behind head
+3. Arch upper back over chair back
+4. Return to neutral
+5. 10 repetitions
+
+**Thoracic Rotation**
+1. Sit with arms crossed
+2. Rotate upper body to one side
+3. Hold 5 seconds
+4. Return, repeat other side
+5. 10 each side
+
+**Cat-Cow**
+1. On hands and knees
+2. Arch back up (cat)
+3. Drop belly, lift head (cow)
+4. Slowly alternate
+5. 10 cycles
+
+### Lumbar Spine (Lower Back)
+
+**Pelvic Tilts**
+1. Lie on back, knees bent
+2. Flatten lower back into floor
+3. Then arch lower back
+4. Alternate between positions
+5. 10 cycles
+
+**Knee Rolls**
+1. Lie on back, knees bent together
+2. Let knees fall to one side
+3. Return to center
+4. Repeat other side
+5. 10 each side
+
+**Prone Press-Ups**
+1. Lie face down
+2. Place hands under shoulders
+3. Press chest up, keeping hips down
+4. Only go to comfortable range
+5. 5-10 repetitions
+
+## Chest Expansion
+
+AS can restrict rib movement, affecting breathing. Practice daily:
+
+**Deep Breathing**
+1. Stand tall
+2. Inhale deeply, expanding ribs in all directions
+3. Hold 3 seconds
+4. Exhale completely
+5. 10 breaths
+
+**Corner Stretch**
+1. Stand facing corner
+2. Forearms on walls
+3. Lean into corner
+4. Breathe deeply while stretching
+5. Hold 30 seconds
+
+**Doorway Stretch**
+1. Stand in doorway
+2. Arms on frame at 90°
+3. Step forward to stretch chest
+4. Hold 30 seconds
+
+## Posture Exercises
+
+AS tends to pull the spine into flexion. Counteract this:
+
+**Wall Stand**
+1. Stand with back against wall
+2. Try to touch head, shoulders, buttocks, heels to wall
+3. Hold 30 seconds
+4. Practice 3x daily
+
+**Prone Lying**
+1. Lie face down on firm surface
+2. Rest 10-20 minutes
+3. Daily if possible
+4. Counteracts forward posture
+
+**Scapular Squeezes**
+1. Stand or sit tall
+2. Squeeze shoulder blades together
+3. Hold 5 seconds
+4. 10 repetitions
+
+## Strengthening Exercises
+
+### Back Extensors
+
+**Bird Dog**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Hold 5 seconds
+4. Return, repeat other side
+5. 10 each side
+
+**Prone Back Extension**
+1. Lie face down, hands at sides
+2. Lift chest slightly off floor
+3. Hold 5 seconds
+4. 10 repetitions
+
+### Core
+
+**Dead Bug**
+1. Lie on back, arms up, knees at 90°
+2. Lower opposite arm and leg
+3. Keep back flat
+4. Return, repeat other side
+5. 10 each side
+
+**Side Plank (Modified)**
+1. Lie on side, knees bent
+2. Lift hips, supporting on elbow
+3. Hold 15-30 seconds
+4. 3 each side
+
+### Hips
+
+**Bridges**
+1. Lie on back, knees bent
+2. Lift hips toward ceiling
+3. Hold 5 seconds
+4. 10 repetitions
+
+**Clamshells**
+1. Lie on side, knees bent
+2. Keep feet together, open top knee
+3. 15 repetitions each side
+
+## Cardiovascular Exercise
+
+### Swimming
+- Excellent for AS
+- No impact
+- Works entire body
+- Backstroke especially good for posture
+
+### Walking
+- Simple and accessible
+- Maintain upright posture
+- 30+ minutes most days
+
+### Cycling
+- Upright bike preferred over racing position
+- Low impact
+- Good cardio option
+
+### Aquatic Exercise
+- Warm water soothes stiffness
+- Buoyancy allows free movement
+- Group classes available
+
+**Avoid or modify:** High-impact activities may stress spine. Discuss with your rheumatologist.
+
+## Managing Morning Stiffness
+
+AS stiffness is typically worst in the morning. Strategies:
+
+1. **Before getting up:** Gentle bed stretches
+2. **Hot shower:** Heat loosens stiffness
+3. **Morning exercise:** Move early
+4. **Stay warm:** Cold increases stiffness
+
+**Bed Mobility Routine (5 minutes):**
+- Knee rolls
+- Pelvic tilts
+- Single knee to chest
+- Ankle circles
+- Deep breaths
+
+## Sample Daily Routine
+
+**Morning (15-20 minutes):**
+- Bed stretches before rising
+- Hot shower
+- Full spinal mobility routine
+- Chest expansion exercises
+
+**Midday:**
+- Walk or swim (30 minutes)
+- Posture check
+
+**Evening (10-15 minutes):**
+- Strengthening exercises
+- Stretching
+- Prone lying (10-20 minutes)
+
+**Throughout Day:**
+- Posture awareness
+- Regular movement (avoid prolonged sitting)
+- Stretch breaks
+
+## When to Modify
+
+During flares:
+- Reduce intensity
+- Focus on gentle mobility
+- Aquatic exercise if possible
+- Don't stop completely
+
+See your rheumatologist if:
+- Significant increase in symptoms
+- New joint involvement
+- Eye symptoms (redness, pain)
+- Difficulty breathing
+
+## The Bottom Line
+
+With AS, exercise is not optional—it's essential treatment. The disease wants to stiffen you; exercise keeps you mobile.
+
+Focus on:
+1. Daily spinal mobility in all directions
+2. Chest expansion for breathing
+3. Posture exercises against flexion tendency
+4. Regular strengthening and cardio
+5. Never stop moving
+
+Your spine's future mobility depends on what you do today.
+
+---
+
+*Foundational Rehab provides mobility and posture programs to help maintain function with spinal conditions.*
+    \`
   }
 };
 
