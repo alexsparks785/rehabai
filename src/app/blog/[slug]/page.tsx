@@ -13,6 +13,960 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'groin-strain-exercises-recovery': {
+    title: 'Groin Strain Exercises: Recovery and Prevention',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hip Pain',
+    readTime: '5 min read',
+    content: `
+## What Is a Groin Strain?
+
+A groin strain is an injury to the adductor muscles—the muscles on the inside of your thigh that pull your leg inward. These injuries are common in sports involving:
+
+- Quick direction changes
+- Kicking
+- Sprinting
+- Skating
+
+**Symptoms:**
+- Pain in inner thigh or groin
+- Pain with squeezing legs together
+- Pain with running or kicking
+- Possible bruising or swelling
+- Weakness in the leg
+
+## Grading Groin Strains
+
+**Grade 1 (Mild):**
+- Minor discomfort
+- No significant loss of strength
+- Can continue activity with some pain
+
+**Grade 2 (Moderate):**
+- Moderate pain
+- Some strength loss
+- Difficulty with running/cutting
+
+**Grade 3 (Severe):**
+- Severe pain
+- Significant weakness
+- Unable to squeeze legs together
+- May have visible bruising
+
+## Phase 1: Acute (Days 1-7)
+
+### Goals
+
+- Control pain and swelling
+- Maintain range of motion
+- Allow initial healing
+
+### What to Do
+
+**RICE:**
+- Rest from aggravating activities
+- Ice 15-20 minutes several times daily
+- Compression if swelling
+- Elevation when possible
+
+**Gentle Movement:**
+
+### Adductor Stretch (Gentle)
+
+1. Sit with soles of feet together
+2. Let knees drop outward
+3. Gentle stretch only—no forcing
+4. Hold 20-30 seconds
+
+### Hip Circles
+
+1. Lie on back
+2. Small circles with knee bent
+3. 10 circles each direction
+
+### Isometric Adduction
+
+1. Lie on back, knees bent
+2. Place pillow between knees
+3. Gently squeeze pillow
+4. Hold 5 seconds
+5. 10 reps (pain-free only)
+
+## Phase 2: Subacute (Weeks 1-3)
+
+### Goals
+
+- Restore range of motion
+- Begin strengthening
+- Progress loading gradually
+
+### Stretches
+
+### Side-Lying Adductor Stretch
+
+1. Lie on unaffected side
+2. Bend bottom leg for stability
+3. Top leg extends straight
+4. Let top leg drop behind you
+5. Hold 30 seconds
+
+### Kneeling Adductor Stretch
+
+1. Kneel on one knee
+2. Extend affected leg out to side, foot flat
+3. Gently shift weight toward extended leg
+4. Hold 30 seconds
+
+### Strengthening
+
+### Side-Lying Adduction
+
+1. Lie on affected side
+2. Top leg crosses over, foot on floor
+3. Lift bottom leg toward ceiling
+4. 15-20 reps
+
+### Seated Ball Squeeze
+
+1. Sit with ball between knees
+2. Squeeze ball
+3. Hold 5 seconds
+4. 15 reps
+5. Progress to harder squeezes
+
+### Straight Leg Adduction
+
+1. Lie on side, legs straight
+2. Lift bottom leg
+3. 15 reps
+
+## Phase 3: Strengthening (Weeks 3-6)
+
+### Copenhagen Adduction (Modified)
+
+1. Side-lying, top leg on bench/chair
+2. Lift bottom leg to meet top leg
+3. 10-15 reps each side
+4. Progress to full Copenhagen plank
+
+### Copenhagen Plank (Advanced)
+
+1. Side plank position
+2. Top foot on bench
+3. Lift bottom leg and hips
+4. Hold 15-30 seconds
+5. Excellent for adductor strength
+
+### Sumo Squat
+
+1. Wide stance, toes out
+2. Squat down, knees track over toes
+3. 15 reps
+4. Add weight as tolerated
+
+### Lateral Lunge
+
+1. Wide stance
+2. Shift weight to one side, bending knee
+3. Other leg stays straight
+4. Push back to center
+5. 10 each side
+
+### Cable Adduction
+
+1. Ankle strap attached to cable
+2. Stand perpendicular
+3. Pull leg across body
+4. 15 reps each side
+
+## Phase 4: Return to Sport (Weeks 6+)
+
+### Criteria for Progress
+
+- Full, pain-free range of motion
+- Strength equal to other side
+- No pain with sport-specific movements
+
+### Progressive Activities
+
+1. Light jogging
+2. Lateral shuffles
+3. Gradual acceleration
+4. Cutting at 50%, 75%, then 100%
+5. Sport-specific drills
+6. Full practice
+7. Return to competition
+
+## Sample Weekly Program
+
+### Daily
+
+1. Gentle stretching: 2-3 minutes
+2. Isometrics (early) or strengthening (later)
+
+### 3x Per Week
+
+1. All stretches: 30 sec each
+2. Side-lying adduction: 2 x 15
+3. Ball squeeze: 2 x 15
+4. Sumo squats: 2 x 15
+5. Copenhagen (modified): 2 x 10
+
+### Sport Progression (When Ready)
+
+1. Day 1: Light jogging
+2. Day 2: Shuffles
+3. Day 3: 50% cutting
+4. Day 4: 75% cutting
+5. Day 5: Full speed movements
+
+## Prevention
+
+### Strengthen Regularly
+
+- Copenhagen exercises 2x/week
+- Sumo squats
+- Lateral lunges
+
+### Warm Up Properly
+
+- Dynamic stretches before activity
+- Gradual intensity increase
+- Sport-specific movements
+
+### Address Risk Factors
+
+- Previous groin strain
+- Weak adductors
+- Tight hip flexors
+- Poor hip mobility
+
+## When to See a Doctor
+
+Get evaluated if:
+- Severe pain or inability to walk
+- Significant swelling or bruising
+- No improvement after 2 weeks
+- Recurring strains
+- Pain in groin area (may indicate hernia)
+
+## The Bottom Line
+
+Groin strains require patience—rushing return often leads to re-injury. Progress through phases based on symptoms, not timelines. Strengthen the adductors to prevent future injuries. With proper rehabilitation, most athletes return to full activity within 4-8 weeks.
+`
+  },
+  'knee-pain-squatting-fixes': {
+    title: 'Knee Pain When Squatting: Causes, Fixes, and Modifications',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee Pain',
+    readTime: '6 min read',
+    content: `
+## Why Squatting Hurts Your Knees
+
+Squatting is a fundamental movement, but knee pain during squats is common. The good news: it's usually fixable. Common causes include:
+
+- Knee caving inward
+- Heels lifting off floor
+- Too much forward lean
+- Weak glutes and hips
+- Tight ankles
+- Poor motor control
+- Going too heavy too soon
+
+## Identifying Your Problem
+
+### Where Does It Hurt?
+
+**Front of knee (patellofemoral):**
+- Often form-related
+- Weak quads or glutes
+- Poor kneecap tracking
+
+**Inside of knee:**
+- Knee caving inward
+- Weak hip muscles
+
+**Outside of knee:**
+- IT band tightness
+- Hip weakness
+
+**Below kneecap:**
+- Patellar tendinitis
+- Loading issues
+
+## Form Fixes
+
+### The Basics
+
+**Feet:**
+- Shoulder-width or slightly wider
+- Toes out 10-30 degrees
+- Weight in full foot (not just toes)
+
+**Knees:**
+- Track over toes (same angle as feet)
+- Push out, not in
+- Don't let them collapse
+
+**Hips:**
+- Initiate with hips, not knees
+- "Sit back" into the squat
+- Keep hip crease at or below knee (if mobility allows)
+
+**Torso:**
+- Chest up
+- Neutral spine
+- Core engaged
+
+### Common Fixes
+
+### If Knees Cave In
+
+**The fix:** Push knees out over pinky toes
+
+**Exercises:**
+- Lateral band walks
+- Clamshells
+- Goblet squats with pause at bottom
+- "Spread the floor" cue
+
+### If Heels Rise
+
+**The fix:** Improve ankle mobility or elevate heels
+
+**Quick fixes:**
+- Squat with heels on small plates
+- Squat shoes (raised heel)
+- Widen stance
+
+**Mobility work:**
+- Ankle dorsiflexion stretches
+- Wall ankle mobilizations
+
+### If You Lean Too Far Forward
+
+**The fix:** Strengthen core and improve hip mobility
+
+**Exercises:**
+- Goblet squats (weight in front)
+- Box squats
+- Hip flexor stretches
+- Core strengthening
+
+## Mobility Exercises
+
+### Ankle Mobility
+
+**Wall Ankle Stretch:**
+1. Face wall, foot a few inches away
+2. Drive knee toward wall, keeping heel down
+3. Hold 30 seconds
+4. Progress by moving foot farther from wall
+
+**Half-Kneeling Ankle Mobilization:**
+1. Half-kneeling position
+2. Drive knee forward over toes
+3. Keep heel down
+4. 10-15 reps each side
+
+### Hip Mobility
+
+**90-90 Stretch:**
+1. Front leg bent 90 degrees in front
+2. Back leg bent 90 degrees to side
+3. Sit tall, shift between positions
+4. 30-60 seconds each side
+
+**Pigeon Pose:**
+1. Front shin across body
+2. Back leg extended
+3. Fold forward as able
+4. 30-60 seconds each side
+
+**Hip Flexor Stretch:**
+1. Half-kneeling
+2. Tuck tailbone under
+3. Lean forward
+4. 30-60 seconds each side
+
+## Strengthening for Knee Pain
+
+### Quadriceps Strengthening
+
+**Terminal Knee Extension:**
+1. Band around knee, anchored behind
+2. From slightly bent, straighten knee
+3. Hold 2 seconds
+4. 15-20 reps
+
+**Step Downs:**
+1. Stand on small step
+2. Lower other foot slowly to floor
+3. Return
+4. 10-15 each leg
+
+### Glute Strengthening
+
+**Glute Bridges:**
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Hold 3 seconds
+4. 15-20 reps
+
+**Single Leg Glute Bridge:**
+1. One leg extended
+2. Bridge on single leg
+3. 10-12 each side
+
+**Clamshells:**
+1. Side-lying, knees bent
+2. Lift top knee
+3. 20-25 each side
+
+## Squat Modifications
+
+### Box Squat
+
+1. Squat to box or bench
+2. Sit down completely
+3. Stand back up
+4. Great for learning proper depth and form
+
+### Goblet Squat
+
+1. Hold weight at chest
+2. Elbows inside knees at bottom
+3. Forces upright torso
+4. Easier on knees for many
+
+### Heels Elevated Squat
+
+1. Place heels on small plates or wedge
+2. Reduces ankle mobility demands
+3. Often reduces knee pain immediately
+
+### Partial Range Squat
+
+1. Only go as deep as pain-free
+2. Gradually increase depth
+3. Build tolerance over time
+
+### Split Squat or Lunge
+
+1. Different loading pattern
+2. May be better tolerated
+3. Still builds leg strength
+
+## Progressive Return
+
+### Week 1-2
+
+- Mobility work daily
+- Bodyweight partial squats
+- Strengthening exercises
+- No weighted squats
+
+### Week 3-4
+
+- Goblet squats (light)
+- Box squats
+- Continue mobility and strengthening
+
+### Week 5-6
+
+- Progress weight gradually
+- Full range if pain-free
+- Monitor symptoms
+
+### Ongoing
+
+- Maintain mobility
+- Continue hip strengthening
+- Proper warm-up
+
+## When to Stop and Reassess
+
+### Red Flags
+
+- Sharp pain during squat
+- Pain that worsens with continued exercise
+- Swelling after squatting
+- Locking or catching
+- Pain at rest
+
+### Yellow Flags
+
+- Mild discomfort that doesn't worsen
+- Stiffness that improves with movement
+- Soreness the next day (normal)
+
+## When to See a Doctor
+
+Get evaluated if:
+- Significant pain or swelling
+- Unable to squat even with modifications
+- Symptoms worsening over time
+- History of knee injury
+- Mechanical symptoms (locking, catching)
+
+## The Bottom Line
+
+Knee pain during squats is usually a technique or mobility issue, not a reason to stop squatting forever. Fix your form, improve ankle and hip mobility, strengthen your glutes, and modify the movement as needed. Most people can squat pain-free with the right adjustments.
+`
+  },
+  'text-neck-exercises-posture': {
+    title: 'Text Neck Exercises: Fix Forward Head Posture from Phone Use',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Neck Pain',
+    readTime: '5 min read',
+    content: `
+## What Is Text Neck?
+
+Text neck refers to the neck pain and postural problems caused by looking down at phones, tablets, and other devices. The human head weighs 10-12 pounds—but for every inch it moves forward, the effective weight on your neck doubles.
+
+At a 60-degree angle (typical phone-looking position), your neck is supporting the equivalent of 60 pounds.
+
+## Symptoms of Text Neck
+
+- Neck pain and stiffness
+- Upper back pain
+- Shoulder pain
+- Headaches
+- Reduced neck mobility
+- Muscle weakness
+- Rounded shoulders
+
+## The Posture Problem
+
+Chronic phone use creates:
+- Forward head posture
+- Rounded upper back (kyphosis)
+- Rounded shoulders
+- Weak deep neck flexors
+- Tight chest muscles
+- Weak upper back muscles
+
+## Exercises to Fix Text Neck
+
+### Chin Tucks
+
+The most important exercise for text neck.
+
+1. Sit or stand tall
+2. Pull chin straight back (make a double chin)
+3. Hold 5 seconds
+4. Relax
+5. 15-20 reps
+
+Do this multiple times throughout the day—every hour if possible.
+
+### Chin Tuck with Resistance
+
+1. Place fingers on chin
+2. Push chin back against finger resistance
+3. Hold 5 seconds
+4. 10-15 reps
+
+### Deep Neck Flexor Activation
+
+1. Lie on back, small towel under neck
+2. Gently nod chin down (look at chest)
+3. Feel muscles in front of neck activate
+4. Hold 10 seconds
+5. 10-15 reps
+
+### Wall Angels
+
+1. Stand with back against wall
+2. Arms in "goalpost" position, against wall
+3. Slowly slide arms up and down
+4. Keep back of head, upper back, and arms on wall
+5. 15 reps
+
+### Thoracic Extension
+
+**Over Foam Roller:**
+1. Foam roller across upper back
+2. Hands behind head
+3. Extend back over roller
+4. Move roller to different segments
+5. 10 reps at each position
+
+**Over Chair:**
+1. Sit in chair with back support at mid-back
+2. Hands behind head
+3. Extend back over chair
+4. 10-15 reps
+
+### Doorway Chest Stretch
+
+1. Stand in doorway
+2. Forearms on door frame
+3. Step through with one foot
+4. Feel stretch in chest
+5. Hold 30-45 seconds
+6. Do at different arm heights
+
+### Prone Y Raises
+
+1. Lie face down
+2. Arms overhead in Y position
+3. Lift arms, thumbs toward ceiling
+4. Squeeze between shoulder blades
+5. Hold 5 seconds
+6. 10-15 reps
+
+### Prone T Raises
+
+1. Lie face down
+2. Arms straight out to sides
+3. Lift arms, squeeze shoulder blades
+4. Hold 5 seconds
+5. 10-15 reps
+
+### Band Pull-Aparts
+
+1. Hold resistance band in front, arms straight
+2. Pull band apart, squeezing shoulder blades
+3. 15-20 reps
+
+### Scapular Squeezes
+
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. 15-20 reps
+
+## Neck Stretches
+
+### Upper Trapezius Stretch
+
+1. Tilt ear toward shoulder
+2. Hand on head for gentle pressure
+3. Hold 30 seconds each side
+
+### Levator Scapulae Stretch
+
+1. Turn head 45 degrees
+2. Look down toward armpit
+3. Gentle pressure with hand
+4. Hold 30 seconds each side
+
+### Scalene Stretch
+
+1. Look up and to the side
+2. Reach opposite hand behind back
+3. Hold 30 seconds each side
+
+## Daily Routine
+
+### Morning (5 minutes)
+
+1. Chin tucks: 15 reps
+2. Thoracic extension: 10 reps
+3. Wall angels: 10 reps
+4. Chest stretch: 30 sec
+
+### Every Hour (1 minute)
+
+1. Posture check
+2. Chin tucks: 5 reps
+3. Shoulder rolls: 5 each direction
+
+### Evening (10 minutes)
+
+1. All stretches: 30 sec each
+2. Chin tucks: 20 reps
+3. Deep neck flexor activation: 10 reps
+4. Prone Y-T raises: 10 each
+5. Band pull-aparts: 15 reps
+6. Foam roller thoracic extension
+
+## Habit Changes
+
+### Phone Use
+
+- Hold phone at eye level
+- Take breaks every 10-15 minutes
+- Use voice features when possible
+- Set time limits on phone use
+
+### General Screens
+
+- Monitor at eye level
+- Keyboard at elbow height
+- Take breaks every 30 minutes
+- Use standing desk if available
+
+### Awareness
+
+- Notice when you're looking down
+- Set posture reminders
+- Catch yourself and correct
+- The more aware, the faster you improve
+
+## Prevention Tips
+
+- Build the exercises into daily routine
+- Use phone less
+- Hold phone higher
+- Regular breaks
+- Strengthen upper back continuously
+- Stretch chest regularly
+
+## How Long to See Results?
+
+With consistent effort:
+- **Week 1-2:** Increased awareness, some relief
+- **Week 2-4:** Noticeable posture improvement
+- **Month 2-3:** Significant lasting change
+
+The damage happened over years—give yourself months to reverse it.
+
+## When to See a Professional
+
+Get help if:
+- Numbness or tingling in arms
+- Severe pain
+- Headaches not improving
+- Limited range of motion
+- Symptoms worsening despite exercises
+
+## The Bottom Line
+
+Text neck is reversible, but it requires consistent effort. Chin tucks and upper back strengthening are your main tools. Build awareness, use your phone less (or differently), and do the exercises daily. Your neck will thank you.
+`
+  },
+  'shoulder-blade-pain-exercises': {
+    title: 'Shoulder Blade Pain Exercises: Relief for Rhomboid and Mid-Back Pain',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '5 min read',
+    content: `
+## What Causes Shoulder Blade Pain?
+
+Pain between or around the shoulder blades is extremely common. The usual culprits:
+
+- Poor posture (rounded shoulders, forward head)
+- Weak rhomboids and mid-back muscles
+- Tight chest muscles
+- Prolonged sitting
+- Stress and tension
+- Overuse from repetitive movements
+
+Less commonly, shoulder blade pain can come from the neck (referred pain) or internal organs. If pain is severe, sudden, or accompanied by other symptoms, seek medical attention.
+
+## Key Muscles
+
+### Rhomboids
+
+Muscles between spine and shoulder blade that squeeze shoulder blades together.
+
+### Middle Trapezius
+
+Also pulls shoulder blades together and back.
+
+### Lower Trapezius
+
+Pulls shoulder blades down and back.
+
+### Serratus Anterior
+
+Holds shoulder blade against rib cage.
+
+When these are weak and chest muscles are tight, shoulder blade pain follows.
+
+## Stretches
+
+### Cross-Body Shoulder Stretch
+
+1. Pull one arm across chest
+2. Use other hand to hold
+3. Feel stretch in back of shoulder and shoulder blade area
+4. Hold 30 seconds each side
+
+### Thread the Needle
+
+1. Start on hands and knees
+2. Slide right arm under body, toward left
+3. Let right shoulder and head rest on floor
+4. Hold 30 seconds each side
+
+Excellent for mid-back rotation and stretch.
+
+### Doorway Chest Stretch
+
+1. Forearm on door frame
+2. Step through doorway
+3. Stretch chest and front of shoulder
+4. Hold 30 seconds each side
+5. Try different arm heights
+
+Tight chest contributes to shoulder blade pain.
+
+### Cat Stretch
+
+1. On hands and knees
+2. Round back up toward ceiling
+3. Let head drop
+4. Hold 15-20 seconds
+
+### Prayer Stretch with Side Reach
+
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Walk hands to right, stretching left side
+4. Hold 30 seconds
+5. Switch sides
+
+## Strengthening Exercises
+
+### Scapular Squeezes
+
+1. Sit or stand tall
+2. Squeeze shoulder blades together
+3. Hold 5 seconds
+4. 15-20 reps
+
+### Band Pull-Aparts
+
+1. Hold band in front, arms straight
+2. Pull band apart
+3. Squeeze shoulder blades at end
+4. 15-20 reps
+
+### Prone Y Raises
+
+1. Lie face down
+2. Arms in Y position overhead
+3. Lift arms, thumbs up
+4. Squeeze between shoulder blades
+5. Hold 5 seconds
+6. 10-15 reps
+
+### Prone T Raises
+
+1. Lie face down
+2. Arms straight out to sides
+3. Lift arms, squeeze shoulder blades
+4. Hold 5 seconds
+5. 10-15 reps
+
+### Prone W Raises
+
+1. Lie face down
+2. Elbows bent, arms in W position
+3. Lift and squeeze shoulder blades
+4. Hold 5 seconds
+5. 10-15 reps
+
+### Rows
+
+**Bent-Over Row:**
+1. Hinge at hips, slight knee bend
+2. Pull weights toward hips
+3. Squeeze shoulder blades at top
+4. 15 reps
+
+**Seated Row (band or cable):**
+1. Pull toward torso
+2. Squeeze shoulder blades
+3. Control the return
+4. 15 reps
+
+### Reverse Fly
+
+1. Bent over or face down on bench
+2. Arms hanging down
+3. Lift arms out to sides
+4. Squeeze shoulder blades
+5. 12-15 reps
+
+### Wall Angels
+
+1. Back against wall
+2. Arms in goalpost position on wall
+3. Slide arms up and down
+4. Keep contact with wall
+5. 15 reps
+
+## Self-Massage
+
+### Tennis Ball Release
+
+1. Place tennis ball between shoulder blade and wall
+2. Apply body weight
+3. Roll around to find tender spots
+4. Hold on tight spots 30-60 seconds
+
+### Foam Roller Upper Back
+
+1. Lie on foam roller across upper back
+2. Cross arms over chest
+3. Roll up and down
+4. Spend time on tight areas
+5. 2-3 minutes
+
+## Daily Routine
+
+### Morning (5 minutes)
+
+1. Cat stretch: 30 seconds
+2. Thread the needle: 30 sec each side
+3. Scapular squeezes: 15 reps
+4. Wall angels: 10 reps
+
+### During Work (Every Hour)
+
+1. Posture check
+2. Scapular squeezes: 5 reps
+3. Shoulder rolls: 5 each direction
+4. Quick stretch
+
+### Evening (10 minutes)
+
+1. All stretches: 30 sec each
+2. Tennis ball release: 2 minutes each side
+3. Prone Y-T-W: 10 each
+4. Rows: 15 reps
+5. Band pull-aparts: 15 reps
+
+## Posture Correction
+
+### At Your Desk
+
+- Monitor at eye level
+- Shoulders back and down
+- Elbows at 90 degrees
+- Feet flat on floor
+- Take breaks every 30 minutes
+
+### General Posture
+
+- Imagine string pulling you up from head
+- Shoulders back and down
+- Chin tucked slightly
+- Core engaged
+- Check yourself frequently
+
+## When to See a Doctor
+
+Seek evaluation if:
+- Pain radiates down arm
+- Numbness or tingling
+- Pain with breathing
+- Pain after injury
+- Severe or worsening pain
+- Pain on left side with chest pain or shortness of breath (emergency)
+
+## The Bottom Line
+
+Shoulder blade pain usually comes from muscle imbalances—weak upper back and tight chest from poor posture and sitting. The fix is consistent stretching of the chest and strengthening of the rhomboids and mid-trapezius. Daily exercise and posture awareness resolve most cases within a few weeks.
+`
+  },
   'golfers-elbow-exercises-treatment': {
     title: 'Golfer\'s Elbow Exercises: How to Treat Medial Epicondylitis',
     date: '2026-03-07',

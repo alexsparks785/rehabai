@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'groin-strain-exercises-recovery',
+    title: 'Groin Strain Exercises: Recovery and Prevention',
+    excerpt: 'Groin strains are painful and slow to heal. These exercises help you recover properly and prevent re-injury.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hip Pain',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'knee-pain-squatting-fixes',
+    title: 'Knee Pain When Squatting: Causes, Fixes, and Modifications',
+    excerpt: 'Knee pain during squats doesn\'t mean you have to stop. Here\'s how to fix the problem and squat pain-free.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'text-neck-exercises-posture',
+    title: 'Text Neck Exercises: Fix Forward Head Posture from Phone Use',
+    excerpt: 'Looking at your phone strains your neck. These exercises reverse the damage and prevent future problems.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Neck Pain',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'shoulder-blade-pain-exercises',
+    title: 'Shoulder Blade Pain Exercises: Relief for Rhomboid and Mid-Back Pain',
+    excerpt: 'Pain between your shoulder blades? These exercises target the muscles that cause mid-back discomfort.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '5 min read'
+  },
+  {
     slug: 'golfers-elbow-exercises-treatment',
     title: 'Golfer\'s Elbow Exercises: How to Treat Medial Epicondylitis',
     excerpt: 'Pain on the inside of your elbow? Golfer\'s elbow responds well to the right exercises. Here\'s what actually works.',
