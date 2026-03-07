@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'rotator-cuff-exercises-shoulder-strength',
+    title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulder',
+    excerpt: 'The rotator cuff is key to shoulder health. These exercises build strength and prevent common injuries.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Shoulder Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'ankle-strengthening-exercises-stability',
+    title: 'Ankle Strengthening Exercises: Build Stability and Prevent Sprains',
+    excerpt: 'Weak ankles lead to sprains and instability. Build bulletproof ankles with these exercises.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Ankle Pain',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'herniated-disc-exercises-relief',
+    title: 'Herniated Disc Exercises: What Helps and What to Avoid',
+    excerpt: 'A herniated disc can be terrifying, but the right exercises often help more than rest. Here\'s what works.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'piriformis-syndrome-exercises-relief',
+    title: 'Piriformis Syndrome Exercises: Relieve Deep Buttock Pain',
+    excerpt: 'That deep pain in your buttock might be piriformis syndrome. These stretches and exercises provide relief.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hip Pain',
+    readTime: '5 min read'
+  },
+  {
     slug: 'plantar-fasciitis-exercises-heel-pain',
     title: 'Plantar Fasciitis Exercises: How to Finally Get Rid of Heel Pain',
     excerpt: 'That stabbing heel pain in the morning? Plantar fasciitis responds well to the right exercises. Here\'s what actually works.',

@@ -13,6 +13,903 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'rotator-cuff-exercises-shoulder-strength': {
+    title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulder',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Shoulder Pain',
+    readTime: '6 min read',
+    content: `
+## What Is the Rotator Cuff?
+
+The rotator cuff is a group of four muscles and their tendons that stabilize your shoulder and allow rotation:
+
+- **Supraspinatus:** Lifts arm to the side
+- **Infraspinatus:** Rotates arm outward
+- **Teres Minor:** Also rotates arm outward
+- **Subscapularis:** Rotates arm inward
+
+These muscles are small but critical. When they're weak or injured, shoulder pain and dysfunction follow.
+
+## Why Rotator Cuff Strength Matters
+
+- Prevents impingement (pinching)
+- Protects against tears
+- Improves shoulder function
+- Reduces pain
+- Essential for overhead activities
+
+## External Rotation Exercises
+
+External rotation strengthens the infraspinatus and teres minor—often the weakest rotator cuff muscles.
+
+### Side-Lying External Rotation
+
+1. Lie on non-exercising side
+2. Top arm at side, elbow bent 90°
+3. Hold light weight (2-5 lbs)
+4. Rotate forearm toward ceiling
+5. Keep elbow at side
+6. Lower slowly
+7. 15-20 reps each side
+
+### Standing External Rotation (Band)
+
+1. Anchor band at elbow height
+2. Stand perpendicular to anchor
+3. Elbow at side, bent 90°
+4. Rotate forearm away from body
+5. Keep elbow at side
+6. 15-20 reps each side
+
+### 90/90 External Rotation
+
+1. Arm out to side, elbow bent 90° (goal post position)
+2. Hold band or light weight
+3. Rotate forearm up toward ceiling
+4. Control the return
+5. 12-15 reps each side
+
+## Internal Rotation Exercises
+
+### Standing Internal Rotation (Band)
+
+1. Band anchored at elbow height
+2. Stand perpendicular, band on outside
+3. Elbow at side, bent 90°
+4. Rotate forearm across body
+5. 15-20 reps each side
+
+### Side-Lying Internal Rotation
+
+1. Lie on exercising side
+2. Bottom arm bent 90°
+3. Light weight in hand
+4. Lift weight toward ceiling
+5. 15-20 reps each side
+
+## Supraspinatus Exercises
+
+### Full Can Exercise
+
+1. Arms at sides, thumbs up
+2. Lift arms forward and out (30° from front)
+3. Stop at shoulder height
+4. Lower slowly
+5. 15 reps
+
+Better than "empty can" which can cause impingement.
+
+### Prone Y Raise
+
+1. Lie face down on bench or floor
+2. Arms in Y position, thumbs up
+3. Lift arms toward ceiling
+4. Squeeze between shoulder blades
+5. 12-15 reps
+
+## Scapular Stabilization
+
+The shoulder blade must move properly for the rotator cuff to work well.
+
+### Scapular Squeezes
+
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. Relax
+4. 15-20 reps
+
+### Wall Push-Up Plus
+
+1. Hands on wall
+2. Push up, then push further
+3. Round upper back at end (push shoulder blades apart)
+4. Return to start
+5. 15 reps
+
+### Prone T Raise
+
+1. Lie face down
+2. Arms straight out to sides
+3. Lift arms, thumbs toward ceiling
+4. Squeeze shoulder blades
+5. 12-15 reps
+
+### Prone W Raise
+
+1. Lie face down
+2. Elbows bent, arms in W position
+3. Lift, squeezing shoulder blades together
+4. 12-15 reps
+
+## Complete Rotator Cuff Program
+
+### Beginner (3x/week)
+
+1. Side-lying external rotation: 2 x 15 each
+2. Standing internal rotation: 2 x 15 each
+3. Full can raises: 2 x 15
+4. Scapular squeezes: 2 x 15
+
+### Intermediate (3x/week)
+
+1. Side-lying external rotation: 3 x 15 each
+2. Standing internal/external rotation: 3 x 15 each
+3. 90/90 external rotation: 2 x 12 each
+4. Prone Y-T-W: 2 x 10 each position
+5. Wall push-up plus: 2 x 15
+
+### Maintenance (2x/week)
+
+Continue intermediate program to maintain strength and prevent future problems.
+
+## Weight Guidelines
+
+- Start light: 1-3 lbs or light band
+- Progress slowly: Add weight when 15 reps are easy
+- Never sacrifice form for weight
+- Feel the muscles working, not straining
+
+## Common Mistakes
+
+- **Using too much weight:** These are small muscles
+- **Going too fast:** Control beats speed
+- **Shrugging shoulders:** Keep shoulders down
+- **Neglecting scapular muscles:** Shoulder blade stability matters
+- **Only working when injured:** Prevention is key
+
+## For Rotator Cuff Injuries
+
+If you have an injury or significant pain:
+
+### Start with Isometrics
+
+1. Position arm for exercise
+2. Push against immovable resistance
+3. Hold 10 seconds
+4. No movement, just muscle activation
+5. Progress to movement when pain allows
+
+### Progress Slowly
+
+- Pain should not increase during exercise
+- Some discomfort OK, sharp pain is not
+- Reduce weight/reps if needed
+- Consistency beats intensity
+
+### Consider Physical Therapy
+
+For rotator cuff tears or significant pain, professional guidance ensures safe progression.
+
+## Stretches (After Strengthening)
+
+### Cross-Body Stretch
+
+1. Pull arm across chest
+2. Keep shoulder down
+3. Hold 30 seconds each side
+
+### Sleeper Stretch
+
+1. Lie on affected side
+2. Arm straight, elbow bent 90°
+3. Push hand toward floor
+4. Hold 30 seconds
+
+### Doorway Stretch
+
+1. Forearm on door frame
+2. Step through
+3. Stretch chest and front of shoulder
+4. Hold 30 seconds
+
+## Prevention Tips
+
+- Warm up before overhead activities
+- Maintain strength year-round
+- Use proper form for lifting and reaching
+- Don't ignore early symptoms
+- Balance pushing and pulling exercises
+
+## When to See a Doctor
+
+Get evaluated if:
+- Unable to lift arm
+- Night pain that disrupts sleep
+- Weakness in arm
+- Pain after injury
+- No improvement after 4-6 weeks
+
+## The Bottom Line
+
+The rotator cuff responds well to consistent, targeted exercise. Focus on external rotation (often weakest), include scapular stabilization, and progress gradually. A few minutes of rotator cuff work 2-3x per week prevents most shoulder problems and helps resolve existing issues.
+`
+  },
+  'ankle-strengthening-exercises-stability': {
+    title: 'Ankle Strengthening Exercises: Build Stability and Prevent Sprains',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Ankle Pain',
+    readTime: '5 min read',
+    content: `
+## Why Ankle Strength Matters
+
+Your ankles support your entire body weight with every step. Weak ankles lead to:
+
+- Recurring sprains
+- Instability and "giving way"
+- Balance problems
+- Compensation injuries (knee, hip)
+- Reduced athletic performance
+
+After a sprain, ankle strength and balance often don't return automatically—you need to rebuild them.
+
+## Range of Motion Exercises
+
+Start here, especially after injury.
+
+### Ankle Circles
+
+1. Lift foot off floor
+2. Circle ankle slowly
+3. 10 circles clockwise
+4. 10 circles counterclockwise
+5. Both ankles
+
+### Ankle Alphabet
+
+1. Lift foot
+2. "Write" the alphabet with your toes
+3. Move from ankle, not knee
+4. Great for mobility in all directions
+
+### Towel Stretches
+
+1. Sit with leg extended
+2. Loop towel around ball of foot
+3. Pull foot toward you
+4. Hold 30 seconds
+5. Stretches calf, improves ankle mobility
+
+## Strengthening Exercises
+
+### Calf Raises (Both Legs)
+
+1. Stand near wall for balance
+2. Rise up on toes
+3. Hold 2 seconds
+4. Lower slowly
+5. 20 reps
+6. Progress to single leg
+
+### Single Leg Calf Raises
+
+1. Stand on one leg
+2. Rise up on toes
+3. Lower slowly (3 seconds)
+4. 15 reps each leg
+5. Eccentric lowering is key
+
+### Heel Raises (Off Step)
+
+1. Stand on step, heels hanging off
+2. Rise up on toes
+3. Lower heels below step level
+4. 15 reps
+5. Progress to single leg
+
+### Resistance Band Exercises
+
+**Dorsiflexion:**
+1. Band around ball of foot, anchored
+2. Pull foot toward shin
+3. 15-20 reps each foot
+
+**Plantarflexion:**
+1. Band around ball of foot, held in hands
+2. Point foot down against resistance
+3. 15-20 reps each foot
+
+**Inversion:**
+1. Band around inside of foot
+2. Turn sole inward against resistance
+3. 15-20 reps each foot
+
+**Eversion:**
+1. Band around outside of foot
+2. Turn sole outward against resistance
+3. 15-20 reps each foot
+
+### Toe Raises (Anterior Tibialis)
+
+1. Stand with back against wall
+2. Lift toes off ground, keeping heels down
+3. Hold 3 seconds
+4. 15-20 reps
+
+## Balance Exercises
+
+Balance training is critical—often more important than strength alone.
+
+### Single Leg Stand
+
+1. Stand on one leg
+2. Hold 30-60 seconds
+3. Use wall for support initially
+4. Eyes open first, then progress to eyes closed
+
+### Single Leg Stand on Pillow/Foam
+
+1. Stand on pillow or foam pad
+2. This challenges proprioception
+3. 30-60 seconds each leg
+4. Progress to eyes closed
+
+### Single Leg with Movement
+
+1. Stand on one leg
+2. Move arms around
+3. Turn head side to side
+4. Reach in different directions
+5. 30 seconds each leg
+
+### Tandem Stance
+
+1. Stand heel-to-toe
+2. Hold 30 seconds
+3. Switch which foot is forward
+4. Progress to eyes closed
+
+### Single Leg Hops
+
+1. Hop side to side on one leg
+2. Hop forward and back
+3. Hop and stick the landing
+4. 10-15 hops each direction
+5. Advanced exercise—make sure foundation is solid first
+
+## Sport-Specific Exercises
+
+### Ladder Drills
+
+Quick feet drills through agility ladder challenge ankle stability dynamically.
+
+### Lateral Shuffles
+
+Side-to-side movement with quick direction changes.
+
+### Cutting and Pivoting
+
+Sport-specific movements that challenge the ankle in all directions.
+
+### Jump Landing
+
+1. Jump and land on both feet
+2. Stick the landing, knees bent
+3. Progress to single leg landings
+
+## Sample Ankle Program
+
+### Daily (5 minutes)
+
+1. Ankle circles: 10 each direction, each ankle
+2. Calf raises: 15 reps
+3. Single leg balance: 30 sec each leg
+
+### 3x Per Week (15 minutes)
+
+1. Ankle circles and alphabet: warm-up
+2. Single leg calf raises: 2 x 15 each
+3. Resistance band (all 4 directions): 2 x 15 each
+4. Toe raises: 2 x 15
+5. Single leg balance on foam: 2 x 30 sec each
+6. Single leg with movement: 2 x 30 sec each
+
+### After Sprain
+
+Add balance work progressively:
+- Flat surface → foam → eyes closed → movement
+
+## After an Ankle Sprain
+
+### Phase 1 (Days 1-7)
+
+- Rest, ice, compression, elevation (RICE)
+- Gentle range of motion (pain-free)
+- Ankle circles, alphabet
+
+### Phase 2 (Weeks 1-2)
+
+- Resume walking
+- Resistance band exercises
+- Double leg calf raises
+- Single leg balance (flat surface)
+
+### Phase 3 (Weeks 2-4)
+
+- Single leg calf raises
+- Balance on foam
+- Light sport-specific activity
+
+### Phase 4 (Weeks 4+)
+
+- Full strength program
+- Sport-specific drills
+- Return to activity with support if needed
+
+## Prevention
+
+Once healed:
+- Continue strengthening 2-3x per week
+- Balance work before sports
+- Proper warm-up
+- Consider ankle support for high-risk activities
+- Address early symptoms immediately
+
+## When to See a Doctor
+
+Get evaluated if:
+- Unable to bear weight
+- Significant swelling or bruising
+- Deformity
+- Numbness
+- No improvement after 2-3 weeks
+- Repeated sprains
+
+Chronic instability may need physical therapy or, rarely, surgery.
+
+## The Bottom Line
+
+Strong, stable ankles prevent sprains and improve performance. The combination of strength exercises (especially calf work and resistance bands) and balance training creates bulletproof ankles. After a sprain, rehabilitation is essential—the ankle doesn't automatically return to normal. Invest the time in rebuilding, and you'll prevent future injuries.
+`
+  },
+  'herniated-disc-exercises-relief': {
+    title: 'Herniated Disc Exercises: What Helps and What to Avoid',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read',
+    content: `
+## What Is a Herniated Disc?
+
+A herniated (or "slipped") disc occurs when the soft inner material of a spinal disc pushes through the outer layer. This can press on nearby nerves, causing:
+
+- Back pain
+- Pain radiating down leg (sciatica) or arm
+- Numbness or tingling
+- Weakness
+
+Scary as it sounds, most herniated discs heal with conservative treatment—and the right exercises often help more than rest.
+
+## The Good News
+
+- 90% of herniated discs improve without surgery
+- Many herniations shrink on their own over time
+- Exercise speeds healing and reduces pain
+- Staying active is better than bed rest
+
+## Understanding Your Pain Pattern
+
+### Centralization
+
+When exercises cause leg pain to move toward the back (centralization), that's typically a good sign—the nerve irritation is decreasing.
+
+### Peripheralization
+
+When exercises cause pain to move further down the leg (peripheralization), that's typically a warning—stop and try a different approach.
+
+Pay attention to where your pain goes, not just whether you feel some discomfort during exercise.
+
+## Extension Exercises (Often Helpful)
+
+Many herniated discs respond well to extension (backward bending) exercises. These are based on the McKenzie method.
+
+### Prone Lying
+
+1. Lie face down, arms at sides
+2. Simply rest in this position
+3. 5-10 minutes
+4. Allows disc material to shift forward
+
+### Prone on Elbows
+
+1. Lie face down
+2. Prop up on elbows
+3. Let back sag
+4. Hold 2-5 minutes
+5. Progress when comfortable
+
+### Press-Ups
+
+1. Lie face down, hands under shoulders
+2. Press upper body up, keeping hips on floor
+3. Let back arch
+4. Hold 2 seconds, lower
+5. 10 reps, multiple times daily
+
+If these cause centralization (leg pain moves toward back), continue. If they cause peripheralization (pain moves down leg), try different exercises.
+
+## Core Stabilization
+
+### Bird Dog
+
+1. On hands and knees, spine neutral
+2. Extend opposite arm and leg
+3. Don't arch or twist
+4. Hold 5 seconds
+5. 10 reps each side
+
+### Dead Bug
+
+1. On back, arms up, knees bent 90°
+2. Lower opposite arm and leg
+3. Keep back flat on floor
+4. 10 reps each side
+
+### Partial Curl (Modified)
+
+1. Lie on back, knees bent
+2. Flatten low back to floor
+3. Lift head and shoulders slightly
+4. Hold 5 seconds
+5. 10 reps
+
+### Plank (When Ready)
+
+1. On forearms and toes
+2. Body straight, core engaged
+3. Don't let back sag
+4. Hold 20-60 seconds
+
+Progress to plank when other core exercises are easy and pain-free.
+
+## Walking
+
+Walking is often the best activity for herniated discs:
+
+- Natural disc nutrition
+- Gentle movement without loading
+- Promotes healing
+- Start with short walks, increase gradually
+
+## Stretches (Carefully)
+
+### Knee to Chest (May Help Some)
+
+1. Lie on back
+2. Pull one knee to chest
+3. Hold 20-30 seconds
+4. If it helps, continue; if worse, skip
+
+### Piriformis Stretch
+
+1. Lie on back
+2. Cross affected leg over opposite knee
+3. Pull thigh toward chest
+4. Hold 30 seconds
+5. Helps if piriformis is tight/contributing
+
+### Nerve Glides (With Caution)
+
+Only if directed by a professional—these can irritate if done incorrectly.
+
+## What to Avoid
+
+### Early Phase
+
+- Heavy lifting
+- Deep forward bending
+- Twisting under load
+- Prolonged sitting
+- High-impact activities
+
+### Generally
+
+- Exercises that peripheralize pain
+- Sit-ups and full crunches
+- Toe touches
+- Excessive rotation
+
+### Positions That Increase Pressure
+
+Sitting puts more pressure on discs than standing or lying. If sitting is painful:
+- Limit sitting time
+- Use lumbar support
+- Stand or walk frequently
+
+## Daily Protocol
+
+### Morning
+
+1. Prone lying: 5 minutes
+2. Press-ups: 10 reps
+3. Short walk: 10-15 minutes
+
+### Throughout Day
+
+1. Avoid prolonged sitting
+2. Press-ups every 1-2 hours
+3. Walking breaks
+4. Maintain good posture
+
+### Evening
+
+1. Prone lying or press-ups
+2. Bird dog: 10 each side
+3. Dead bug: 10 each side
+4. Gentle walking
+
+## Recovery Timeline
+
+- **Week 1-2:** Pain management, gentle exercise
+- **Week 2-4:** Increased activity, core work
+- **Week 4-8:** Progressive strengthening
+- **Week 8+:** Return to normal activities
+
+Most people see significant improvement within 6-12 weeks.
+
+## Red Flags (See Doctor Immediately)
+
+- Loss of bladder or bowel control
+- Progressive weakness in legs
+- Saddle numbness (around groin)
+- Severe, worsening symptoms
+
+These may indicate cauda equina syndrome—a surgical emergency.
+
+## When Surgery Is Needed
+
+Surgery is typically for:
+- Red flag symptoms
+- Progressive neurological deficit
+- Severe symptoms not responding to 6-8 weeks of conservative care
+- Significant functional limitation
+
+Most people never need surgery.
+
+## The Bottom Line
+
+Herniated discs are scary but usually heal well with conservative treatment. Extension exercises (press-ups) help many people, but pay attention to your pain pattern—centralization is good, peripheralization means try something else. Stay active, avoid prolonged sitting, strengthen your core, and be patient. Most herniated discs resolve within a few months.
+`
+  },
+  'piriformis-syndrome-exercises-relief': {
+    title: 'Piriformis Syndrome Exercises: Relieve Deep Buttock Pain',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hip Pain',
+    readTime: '5 min read',
+    content: `
+## What Is Piriformis Syndrome?
+
+The piriformis is a small muscle deep in your buttock, running from your sacrum to your hip. The sciatic nerve runs beneath (or sometimes through) this muscle. When the piriformis is tight or spasming, it can irritate the sciatic nerve, causing:
+
+- Deep buttock pain
+- Pain radiating down the back of the leg
+- Symptoms similar to sciatica
+- Pain with sitting, especially on hard surfaces
+- Pain climbing stairs or hills
+
+## Piriformis vs. True Sciatica
+
+Both cause similar symptoms. Piriformis syndrome is often characterized by:
+
+- Pain that starts in the buttock (not low back)
+- Tenderness when pressing deep in buttock
+- Pain worse with sitting
+- Relief with walking (usually)
+- Negative MRI for disc herniation
+
+A professional can help distinguish between the two.
+
+## Stretching Exercises
+
+### Figure-4 Stretch (Supine)
+
+1. Lie on back
+2. Cross right ankle over left knee
+3. Pull left thigh toward chest
+4. Feel stretch deep in right buttock
+5. Hold 30-60 seconds
+6. 3-4 times each side
+
+This is the primary piriformis stretch.
+
+### Figure-4 Stretch (Seated)
+
+1. Sit in chair
+2. Cross right ankle over left knee
+3. Lean forward with straight back
+4. Hold 30-60 seconds each side
+
+Good for office or travel.
+
+### Knee to Opposite Shoulder
+
+1. Lie on back
+2. Pull right knee toward left shoulder
+3. Hold 30 seconds
+4. Each side, 3 reps
+
+### Pigeon Pose
+
+1. Start on hands and knees
+2. Bring right knee forward, shin angled across body
+3. Extend left leg straight behind
+4. Lower body toward floor
+5. Hold 30-60 seconds each side
+
+More intense stretch—only if figure-4 is comfortable.
+
+### Seated Spinal Twist
+
+1. Sit with legs extended
+2. Cross right foot over left knee
+3. Twist torso to right
+4. Left elbow outside right knee
+5. Hold 30 seconds each side
+
+## Self-Massage
+
+### Tennis Ball Release
+
+1. Sit on tennis ball (or lacrosse ball)
+2. Position ball under sore spot in buttock
+3. Apply body weight gradually
+4. Hold 30-60 seconds
+5. Move ball to find all tender spots
+
+### Foam Roller
+
+1. Sit on foam roller
+2. Cross one ankle over opposite knee
+3. Roll the side of the buttock
+4. 1-2 minutes each side
+
+## Strengthening Exercises
+
+Weakness often contributes to piriformis overwork.
+
+### Clamshells
+
+1. Side-lying, knees bent 45°
+2. Keep feet together
+3. Lift top knee
+4. Don't rotate pelvis
+5. 20 reps each side
+6. Add band for resistance
+
+### Glute Bridges
+
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Hold 5 seconds
+4. 15-20 reps
+
+### Side-Lying Hip Abduction
+
+1. Side-lying, legs straight
+2. Lift top leg toward ceiling
+3. 15-20 reps each side
+
+### Single Leg Deadlift
+
+1. Stand on one leg
+2. Hinge at hip, reaching toward floor
+3. Keep back flat
+4. 10-12 reps each side
+
+## Hip Mobility
+
+### Hip Circles
+
+1. On hands and knees
+2. Circle knee in large circles
+3. 10 circles each direction
+4. Each leg
+
+### 90-90 Stretch
+
+1. Front leg bent 90° in front
+2. Back leg bent 90° to side
+3. Sit tall, rotate between sides
+4. Hold each side 30-60 seconds
+
+## Daily Protocol
+
+### Morning (5 minutes)
+
+1. Figure-4 stretch: 30 sec each side
+2. Knee to opposite shoulder: 3 each side
+3. Hip circles: 10 each direction, each leg
+
+### Throughout Day
+
+1. Avoid prolonged sitting
+2. Quick figure-4 stretches hourly
+3. Walk and move frequently
+
+### Evening (10 minutes)
+
+1. Tennis ball release: 2-3 minutes each side
+2. All stretches: hold 60 seconds each
+3. Clamshells: 20 each side
+4. Glute bridges: 15 reps
+5. Side-lying abduction: 15 each side
+
+## Tips for Relief
+
+### Sitting
+
+- Avoid sitting on hard surfaces
+- Use cushion if needed
+- Don't sit with wallet in back pocket
+- Get up frequently
+- Avoid crossing legs
+
+### Activity
+
+- Warm up before exercise
+- Stretch after activity
+- Don't overdo stairs or hills
+- Consider temporary reduction in aggravating activities
+
+### Sleep
+
+- Avoid sleeping on the affected side
+- Pillow between knees if side sleeping
+- Stretch before bed
+
+## When to See a Doctor
+
+Get evaluated if:
+
+- Symptoms worsen despite stretching
+- Numbness or weakness in leg
+- Bladder or bowel changes
+- Pain at rest or at night
+- No improvement after 4-6 weeks
+
+True sciatica from a disc may need different treatment.
+
+## Heat vs. Ice
+
+**Heat:**
+- Before stretching
+- Relaxes the muscle
+- 15-20 minutes
+
+**Ice:**
+- After flare-ups
+- If inflammation present
+- 15-20 minutes
+
+Most people with piriformis syndrome prefer heat.
+
+## The Bottom Line
+
+Piriformis syndrome is very treatable with consistent stretching, self-massage, and hip strengthening. The figure-4 stretch and tennis ball release are your main tools. Address sitting habits, strengthen weak glutes, and be patient—most cases resolve within a few weeks of dedicated treatment.
+`
+  },
   'plantar-fasciitis-exercises-heel-pain': {
     title: 'Plantar Fasciitis Exercises: How to Finally Get Rid of Heel Pain',
     date: '2026-03-07',
