@@ -2417,6 +2417,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read'
+  },
+  {
+    slug: 'multiple-sclerosis-exercises',
+    title: 'Multiple Sclerosis Exercises: Stay Active and Manage Symptoms',
+    excerpt: 'Exercise benefits MS without triggering relapses. Learn how to build strength, improve balance, and manage fatigue.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'copd-breathing-exercises',
+    title: 'COPD Exercises: Breathing Techniques and Physical Activity Guide',
+    excerpt: 'Breathlessness doesn\'t mean you can\'t exercise. These techniques improve lung function and build the endurance you need.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'lymphedema-exercises-swelling',
+    title: 'Lymphedema Exercises: Reduce Swelling and Improve Circulation',
+    excerpt: 'Safe exercises can reduce lymphedema symptoms. Learn proper techniques for arms, legs, and whole-body fitness.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-better-sleep',
+    title: 'Exercise for Better Sleep: What Works and When to Do It',
+    excerpt: 'Can\'t sleep? The right exercise routine can dramatically improve your sleep quality. Here\'s the evidence-based approach.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
   }
 ];
 

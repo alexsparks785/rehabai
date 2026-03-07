@@ -60091,6 +60091,1091 @@ Movement is medicine—the right dose, at the right time.
 
 *Foundational Rehab offers joint-friendly strengthening and mobility programs for arthritis management.*
     \`
+  },
+  'multiple-sclerosis-exercises': {
+    title: 'Multiple Sclerosis Exercises: Stay Active and Manage Symptoms',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Exercise and Multiple Sclerosis
+
+For years, people with MS were told to avoid exercise. We now know the opposite is true:
+
+- Exercise is safe and doesn't trigger relapses
+- It improves strength, balance, and mobility
+- It reduces fatigue (counterintuitive but true)
+- It may have neuroprotective effects
+- It improves mood and quality of life
+
+The key is exercising appropriately for your symptoms and energy levels.
+
+## Common MS Challenges
+
+Understanding these helps target your program:
+
+- **Fatigue:** The most common symptom
+- **Weakness:** Especially in legs
+- **Balance problems:** Due to sensory and motor changes
+- **Spasticity:** Muscle stiffness and spasms
+- **Heat sensitivity:** Symptoms worsen when body temperature rises
+- **Coordination issues:** Affecting movement quality
+
+## Managing Heat Sensitivity
+
+Many people with MS have heat sensitivity (Uhthoff's phenomenon):
+
+**Cooling Strategies:**
+- Exercise in air conditioning
+- Use cooling vests
+- Exercise in water
+- Morning exercise (cooler body temperature)
+- Pre-cooling with cold drinks
+- Avoid hot showers immediately before
+
+**Know the difference:** Heat temporarily worsens symptoms but doesn't cause damage. Symptoms improve when you cool down.
+
+## Fatigue Management
+
+MS fatigue is different from normal tiredness:
+
+**Exercise Timing:**
+- Exercise when energy is highest (often morning)
+- Avoid exercise during typical low-energy times
+- Don't exercise when already exhausted
+
+**Pacing:**
+- Shorter sessions may work better than long ones
+- Rest between exercises
+- Interval training approaches
+- Listen to your body
+
+**Paradox:** Regular exercise actually reduces overall fatigue, even though individual sessions may tire you.
+
+## Strengthening Exercises
+
+### Lower Body (Priority for Mobility)
+
+**Seated Leg Extensions**
+1. Sit in sturdy chair
+2. Straighten one leg
+3. Hold 3 seconds
+4. Lower slowly
+5. 10-15 each leg
+
+**Bridges**
+1. Lie on back, knees bent
+2. Lift hips toward ceiling
+3. Hold 5 seconds
+4. Lower slowly
+5. 10-15 repetitions
+
+**Standing Hip Exercises** (hold support)
+1. Leg lifts to side (abduction)
+2. Leg lifts backward (extension)
+3. 10-15 each direction
+
+**Squats** (modified as needed)
+1. Use chair for support or sit-to-stand
+2. Lower to comfortable depth
+3. 10-15 repetitions
+
+### Upper Body
+
+**Seated Rows** (resistance band)
+1. Sit tall, band around feet
+2. Pull elbows back
+3. Squeeze shoulder blades
+4. 10-15 repetitions
+
+**Wall Push-Ups**
+1. Stand facing wall
+2. Hands shoulder-width
+3. Lean in, push back
+4. 10-15 repetitions
+
+**Arm Raises**
+1. Sit or stand
+2. Raise arms to shoulder height
+3. Lower slowly
+4. 10-15 repetitions
+
+## Balance Training
+
+Balance problems are common. Train daily:
+
+### Seated Balance
+
+**Weight Shifts**
+1. Sit on edge of chair (no back support)
+2. Shift weight side to side
+3. Maintain control
+4. 10 each direction
+
+**Reaching**
+1. Sit without back support
+2. Reach in various directions
+3. Maintain sitting balance
+4. 10 reaches
+
+### Standing Balance (Use Support as Needed)
+
+**Narrow Stance**
+1. Stand with feet close together
+2. Hold 30 seconds
+3. Progress: reduce support
+
+**Tandem Stance**
+1. Stand heel-to-toe
+2. Hold 30 seconds
+3. Switch feet
+
+**Single Leg Stance**
+1. Lift one foot
+2. Hold 10-30 seconds
+3. Progress as able
+
+### Dynamic Balance
+
+**Weight Shifts**
+1. Stand with support available
+2. Shift weight side to side
+3. Shift forward and back
+4. 10 each direction
+
+**Stepping**
+1. Step in place
+2. Step forward/back
+3. Step side to side
+4. 10 each direction
+
+## Stretching for Spasticity
+
+Stretching helps manage stiffness:
+
+**Hamstring Stretch**
+1. Lie on back
+2. Lift one leg, use strap if needed
+3. Hold 30-60 seconds
+4. Repeat each leg
+
+**Calf Stretch**
+1. Stand facing wall
+2. Step back with one leg
+3. Keep heel down
+4. Hold 30-60 seconds each
+
+**Hip Flexor Stretch**
+1. Kneeling lunge or standing
+2. Push hips forward
+3. Hold 30-60 seconds each
+
+**Adductor Stretch**
+1. Sit with soles of feet together
+2. Gently press knees down
+3. Hold 30-60 seconds
+
+## Aerobic Exercise
+
+Cardiovascular fitness matters:
+
+### Best Options
+
+**Aquatic Exercise**
+- Water cools the body
+- Buoyancy supports movement
+- Excellent for MS
+- Pool temperature 80-84°F ideal
+
+**Stationary Cycling**
+- Seated (less balance demand)
+- Can use fan for cooling
+- Adjustable intensity
+- Recumbent if needed
+
+**Walking**
+- Use assistive device if needed
+- Indoor for temperature control
+- Treadmill with harness if balance poor
+
+### Guidelines
+
+- Start with 10-15 minutes
+- Progress to 30 minutes, 3-5 days/week
+- Moderate intensity (can talk)
+- Stop if symptoms worsen significantly
+- Cool down and rest after
+
+## Yoga and Tai Chi
+
+Both offer benefits for MS:
+
+**Benefits:**
+- Improves balance
+- Reduces spasticity
+- Manages stress
+- Adaptable to abilities
+
+**Modifications:**
+- Chair yoga for balance issues
+- Seated tai chi
+- Props for support
+- Shorter sessions
+
+## Sample Weekly Program
+
+**Daily (10-15 minutes):**
+- Stretching routine
+- Balance exercises
+
+**3x/Week:**
+- Strengthening exercises (20-30 minutes)
+- Alternate upper/lower body or full body
+
+**3-5x/Week:**
+- Aerobic exercise (15-30 minutes)
+- Aquatic, cycling, or walking
+
+## During Relapses
+
+If you're having a relapse:
+- Reduce or stop intense exercise
+- Gentle stretching may continue
+- Rest is appropriate
+- Resume gradually as you recover
+- Consult your neurologist
+
+## Working with Professionals
+
+Consider:
+- Physical therapist experienced with MS
+- Exercise physiologist
+- MS-specific exercise programs
+- Aquatic therapy
+
+## The Bottom Line
+
+Exercise is one of the best things you can do for MS:
+
+1. Start where you are
+2. Manage heat and fatigue
+3. Build strength, especially legs
+4. Train balance daily
+5. Stretch for spasticity
+6. Stay aerobically active
+
+Your body can adapt and improve, regardless of your current level.
+
+---
+
+*Foundational Rehab provides adaptable programs suitable for neurological conditions including MS.*
+    \`
+  },
+  'copd-breathing-exercises': {
+    title: 'COPD Exercises: Breathing Techniques and Physical Activity Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Why Exercise Matters in COPD
+
+If you have COPD, shortness of breath might make exercise seem impossible. But here's the truth:
+
+- Exercise reduces breathlessness over time
+- It improves quality of life
+- It increases exercise tolerance
+- It reduces hospitalizations
+- It's one of the most effective COPD treatments
+
+Breathlessness during exercise is expected—but it's safe and it gets better.
+
+## Breathing Techniques
+
+Master these before increasing activity:
+
+### Pursed Lip Breathing
+
+The most important technique for COPD:
+
+1. Inhale slowly through your nose (2 counts)
+2. Purse your lips like you're blowing out a candle
+3. Exhale slowly through pursed lips (4 counts)
+4. Exhale should be twice as long as inhale
+
+**When to use:**
+- During exercise
+- When short of breath
+- During daily activities
+- As a regular practice
+
+### Diaphragmatic Breathing
+
+Engage your diaphragm for more efficient breathing:
+
+1. Lie on back or sit comfortably
+2. Place one hand on chest, one on belly
+3. Inhale through nose—belly should rise, chest stays still
+4. Exhale through pursed lips—belly falls
+5. Practice 5-10 minutes, several times daily
+
+### Coordinating Breath with Movement
+
+**General rule:** Exhale during exertion
+
+- Exhale when standing up
+- Exhale when lifting
+- Exhale when climbing stairs
+- Exhale when bending
+
+This reduces the work of breathing during effort.
+
+## Starting an Exercise Program
+
+### Preparation
+
+- Use bronchodilator before exercise if prescribed
+- Warm up 5-10 minutes
+- Have rescue inhaler available
+- Check oxygen levels if you use supplemental O2
+
+### Setting Intensity
+
+**Talk Test:**
+- You should be able to talk (short phrases) during exercise
+- If you can't speak at all, slow down
+- If you can easily have a conversation, increase intensity
+
+**Rating of Perceived Exertion:**
+- Target 3-4 out of 10
+- Some breathlessness is expected
+- Severe breathlessness (7+) means slow down
+
+### When to Stop
+
+- Severe shortness of breath that doesn't improve with rest
+- Chest pain
+- Dizziness
+- Unusual fatigue
+
+## Aerobic Exercise
+
+Cardiovascular training is essential:
+
+### Walking
+
+**Starting program:**
+- Walk at comfortable pace
+- Use pursed lip breathing
+- Start with 5-10 minutes
+- Rest as needed (standing or sitting)
+- Progress by adding 1-2 minutes per week
+
+**Interval approach:**
+- Walk 2-3 minutes
+- Rest 1-2 minutes
+- Repeat 3-5 times
+- Progress by extending walk intervals
+
+### Stationary Cycling
+
+- Good option for breathlessness
+- Start with no resistance
+- 5-10 minutes initially
+- Progress duration before intensity
+
+### Arm Ergometer
+
+- Upper body cardio
+- Especially important since arm activities often cause breathlessness
+- Start with 5 minutes, low resistance
+
+### Water Exercise
+
+- Excellent for COPD
+- Chest-deep water supports breathing muscles
+- Temperature should be comfortable (not hot)
+- Buoyancy allows easier movement
+
+## Strength Training
+
+Strong muscles use oxygen more efficiently:
+
+### Upper Body (Important for Breathing)
+
+**Seated Rows**
+1. Use resistance band
+2. Pull elbows back
+3. Exhale during pull
+4. 10-12 repetitions
+
+**Shoulder Shrugs**
+1. Hold light weights
+2. Raise shoulders toward ears
+3. Lower slowly
+4. 10-12 repetitions
+
+**Wall Push-Ups**
+1. Stand facing wall
+2. Exhale as you push away
+3. 10-12 repetitions
+
+### Lower Body
+
+**Sit-to-Stand**
+1. Sit in chair
+2. Exhale as you stand
+3. Sit slowly
+4. 10-12 repetitions
+
+**Heel Raises**
+1. Hold support
+2. Rise onto toes
+3. Lower slowly
+4. 10-12 repetitions
+
+**Seated Leg Extensions**
+1. Sit in chair
+2. Extend one leg
+3. Lower slowly
+4. 10-12 each leg
+
+### Guidelines
+
+- 2-3 sessions per week
+- Light to moderate weights
+- Higher reps (12-15)
+- Exhale during effort
+- Rest between exercises
+
+## Flexibility Exercises
+
+Maintain chest wall mobility:
+
+**Chest Stretch**
+1. Stand in doorway
+2. Arms on frame
+3. Lean forward
+4. Hold 30 seconds
+
+**Trunk Rotation**
+1. Sit or stand
+2. Rotate upper body each direction
+3. Hold 15-20 seconds each
+
+**Side Bending**
+1. Sit or stand
+2. Reach one arm overhead, lean to opposite side
+3. Hold 15-20 seconds each side
+
+**Shoulder Rolls**
+1. Roll shoulders forward, then backward
+2. 10 each direction
+
+## Managing Breathlessness Positions
+
+When you get short of breath:
+
+**Standing:**
+- Lean forward slightly
+- Rest hands on thighs or surface
+- Use pursed lip breathing
+
+**Sitting:**
+- Lean forward
+- Rest elbows on knees
+- Or lean back with arms supported
+
+**High Side-Lying:**
+- Lie on side
+- Prop up with pillows
+- Good for nighttime breathlessness
+
+## Daily Activity Tips
+
+**Pacing:**
+- Break activities into smaller tasks
+- Rest between activities
+- Don't rush
+
+**Energy Conservation:**
+- Sit when possible
+- Use rolling cart for carrying items
+- Keep frequently used items accessible
+
+**Breathing During ADLs:**
+- Exhale during bending, lifting, reaching
+- Use pursed lip breathing
+- Take rest breaks
+
+## Sample Weekly Program
+
+**Daily:**
+- Breathing exercises (10 minutes)
+- Stretching (5-10 minutes)
+
+**3-5x/Week:**
+- Aerobic exercise (15-30 minutes)
+- Progress as tolerated
+
+**2-3x/Week:**
+- Strength training (20 minutes)
+
+## Pulmonary Rehabilitation
+
+If available, pulmonary rehab programs provide:
+- Supervised exercise
+- Education
+- Breathing techniques
+- Nutritional guidance
+- Psychological support
+
+Research shows significant benefits. Ask your doctor for a referral.
+
+## The Bottom Line
+
+COPD doesn't mean you can't exercise—it means you must exercise:
+
+1. Master breathing techniques first
+2. Start low, progress slow
+3. Some breathlessness is expected and safe
+4. Strength training helps breathing muscles
+5. Maintain flexibility in chest wall
+6. Consider pulmonary rehabilitation
+
+Exercise is one of the best treatments for COPD. Your breathing can get better.
+
+---
+
+*Foundational Rehab offers gentle, progressive programs suitable for respiratory conditions.*
+    \`
+  },
+  'lymphedema-exercises-swelling': {
+    title: 'Lymphedema Exercises: Reduce Swelling and Improve Circulation',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## What Is Lymphedema?
+
+Lymphedema is swelling caused by lymphatic system dysfunction. Fluid accumulates in tissues, most commonly affecting arms or legs.
+
+**Types:**
+- **Primary:** Born with lymphatic abnormality
+- **Secondary:** Caused by damage (surgery, radiation, infection, injury)
+
+Breast cancer treatment is a common cause of arm lymphedema. Pelvic surgery or radiation often causes leg lymphedema.
+
+## How Exercise Helps
+
+Proper exercise:
+- Promotes lymphatic flow
+- Reduces swelling
+- Maintains range of motion
+- Improves strength
+- Doesn't worsen lymphedema (when done correctly)
+
+**Key insight:** Movement helps the lymphatic system work. The lymphatic system has no pump—it relies on muscle contractions and breathing.
+
+## Exercise Principles for Lymphedema
+
+### 1. Wear Compression
+
+- Exercise with compression garments on
+- Bandaging may be used instead
+- Compression supports fluid movement
+- Don't skip this step
+
+### 2. Progress Gradually
+
+- Increase intensity slowly
+- Monitor limb response
+- Increase one variable at a time
+- Allow recovery between sessions
+
+### 3. Monitor Your Limb
+
+- Check for increased swelling after exercise
+- Note heaviness, aching, or tightness
+- Adjust if symptoms increase
+- Keep a log
+
+### 4. Include Breathing
+
+Deep breathing promotes lymphatic flow:
+- Start and end sessions with deep breaths
+- Diaphragmatic breathing engages lymphatics
+
+## Decongestive Exercises (Lymphatic Drainage)
+
+These gentle movements encourage lymph flow:
+
+### For Arm Lymphedema
+
+**Deep Breathing**
+1. Sit or lie comfortably
+2. Breathe deeply into belly
+3. Exhale slowly
+4. 5-10 breaths to start and end
+
+**Neck Exercises**
+1. Turn head side to side
+2. Tilt ear to shoulder
+3. Gentle, slow movements
+4. 5 repetitions each direction
+
+**Shoulder Circles**
+1. Roll shoulders forward
+2. Then backward
+3. 10 circles each direction
+
+**Arm Pumping**
+1. Raise affected arm
+2. Make a fist
+3. Open hand wide
+4. Repeat 10-15 times
+
+**Wrist Circles**
+1. Circle wrist in both directions
+2. 10 circles each way
+
+**Elbow Bends**
+1. Straighten and bend elbow
+2. 10-15 repetitions
+
+### For Leg Lymphedema
+
+**Deep Breathing**
+Same as above—essential for all lymphedema.
+
+**Ankle Pumps**
+1. Lie down or sit with leg elevated
+2. Point toes, then pull back
+3. 20-30 repetitions
+
+**Ankle Circles**
+1. Circle ankle in both directions
+2. 10-15 circles each way
+
+**Knee Bends**
+1. Lying down: slide heel toward buttock
+2. Seated: straighten and bend knee
+3. 10-15 repetitions
+
+**Hip Exercises**
+1. Lying down: slide leg out to side
+2. 10-15 repetitions each leg
+
+**Marching**
+1. Seated: lift knees alternately
+2. 20-30 marches
+
+## Strengthening Exercises
+
+Strength training is safe with lymphedema:
+
+### Guidelines
+- Start with light resistance
+- Progress slowly (over weeks)
+- Wear compression
+- Stop if limb feels worse
+
+### For Arm Lymphedema
+
+**Bicep Curls**
+1. Light weight or resistance band
+2. Full range of motion
+3. 12-15 repetitions
+4. Start with minimal resistance
+
+**Shoulder Press**
+1. Light weight or band
+2. Press overhead
+3. 12-15 repetitions
+
+**Rows**
+1. Pull band or weight toward body
+2. Squeeze shoulder blades
+3. 12-15 repetitions
+
+### For Leg Lymphedema
+
+**Squats**
+1. Bodyweight or holding support
+2. Comfortable depth
+3. 10-15 repetitions
+
+**Step-Ups**
+1. Onto low step
+2. Alternate legs
+3. 10 each leg
+
+**Calf Raises**
+1. Hold support
+2. Rise onto toes
+3. 15-20 repetitions
+
+## Aerobic Exercise
+
+Cardiovascular exercise is beneficial:
+
+### Best Options
+
+**Walking**
+- Start with short distances
+- Flat terrain initially
+- Progress gradually
+- Wear compression
+
+**Swimming/Water Exercise**
+- Water provides natural compression
+- Excellent for lymphedema
+- Full-body movement
+- Stay in comfortable temperature water
+
+**Cycling**
+- Stationary or outdoor
+- Low impact
+- Good for leg lymphedema
+
+**Elliptical**
+- Low impact
+- Full-body movement
+
+### Guidelines
+
+- Start with 10-15 minutes
+- Progress to 30 minutes, 5 days/week
+- Moderate intensity
+- Always wear compression
+- Monitor limb response
+
+## Flexibility Exercises
+
+Maintain range of motion:
+
+**Gentle stretching of affected limb:**
+- Hold stretches 20-30 seconds
+- No aggressive stretching
+- Include all directions of movement
+
+**Whole-body flexibility:**
+- General stretching program
+- Yoga (modified as needed)
+- Tai chi
+
+## Activities to Approach Carefully
+
+**Not prohibited, but need precautions:**
+
+- Heavy weight lifting (progress very gradually)
+- Hot environments (heat can increase swelling)
+- Repetitive movements (watch for overuse)
+- Contact sports (risk of injury to affected limb)
+- Flying (wear compression, move frequently)
+
+**Always:**
+- Wear compression during activity
+- Start conservatively
+- Progress slowly
+- Monitor your limb
+
+## Warning Signs
+
+Stop and consult your therapist if:
+- Significant increase in swelling
+- Pain in affected limb
+- Redness or warmth (may indicate infection)
+- Skin changes
+- Limb feels heavier for more than a day
+
+## Sample Daily Routine
+
+**Morning:**
+- Deep breathing (2 minutes)
+- Decongestive exercises (10 minutes)
+- Don compression garment
+
+**Midday:**
+- Aerobic exercise with compression (20-30 minutes)
+
+**Evening:**
+- Strengthening exercises (2-3x/week, 15-20 minutes)
+- Stretching (10 minutes)
+- Deep breathing (2 minutes)
+- Elevate limb if possible
+
+## Professional Support
+
+Work with:
+- Certified lymphedema therapist (CLT)
+- Physical or occupational therapist trained in lymphedema
+- Your oncology team (if cancer-related)
+
+Complete decongestive therapy (CDT) is the gold standard treatment. Exercise complements this, but doesn't replace it.
+
+## The Bottom Line
+
+Exercise is safe and beneficial for lymphedema when done correctly:
+
+1. Always wear compression during exercise
+2. Start with gentle decongestive movements
+3. Progress strength and cardio gradually
+4. Monitor your limb's response
+5. Include deep breathing
+6. Work with a lymphedema specialist
+
+Movement helps your lymphatic system work—don't let fear of exercise stop you.
+
+---
+
+*Foundational Rehab provides gentle, adaptable programs that can complement lymphedema management.*
+    \`
+  },
+  'exercise-for-better-sleep': {
+    title: 'Exercise for Better Sleep: What Works and When to Do It',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: \`
+## The Sleep-Exercise Connection
+
+Exercise is one of the most effective natural sleep aids:
+
+- Reduces time to fall asleep
+- Increases total sleep time
+- Improves sleep quality
+- Increases deep sleep
+- Reduces nighttime awakenings
+
+The effects can be profound—comparable to some sleep medications, without the side effects.
+
+## How Exercise Improves Sleep
+
+**Temperature Regulation:**
+Exercise raises body temperature. The subsequent drop signals sleepiness.
+
+**Anxiety Reduction:**
+Exercise reduces stress and anxiety—common sleep disruptors.
+
+**Circadian Rhythm:**
+Physical activity helps regulate your body clock.
+
+**Adenosine Build-Up:**
+Activity increases sleep pressure naturally.
+
+**Mood Improvement:**
+Better mood = better sleep.
+
+## When to Exercise
+
+### Best Times for Sleep
+
+**Morning Exercise:**
+- Helps establish circadian rhythm
+- May improve deep sleep most
+- No interference with nighttime sleep
+- Good for larks (morning people)
+
+**Afternoon Exercise (4-5 hours before bed):**
+- Body temperature peaks and falls by bedtime
+- Often ideal timing
+- May be most effective for sleep
+
+**Early Evening (finishing 3+ hours before bed):**
+- Still effective
+- Allows time for body to cool down
+- Allows time for alertness to decrease
+
+### When to Avoid
+
+**Close to Bedtime (within 1-2 hours):**
+- May interfere with sleep for some people
+- Raises body temperature and alertness
+- But not everyone is affected—experiment
+
+**Individual variation matters.** Some people sleep fine after evening exercise. Track your own response.
+
+## Best Types of Exercise for Sleep
+
+### Aerobic Exercise
+
+Most studied for sleep benefits:
+
+- Walking
+- Jogging
+- Swimming
+- Cycling
+- Dancing
+
+**Recommendation:** 30 minutes of moderate aerobic exercise most days.
+
+### Resistance Training
+
+Also improves sleep:
+
+- Weight lifting
+- Bodyweight exercises
+- Resistance bands
+
+**Recommendation:** 2-3 sessions per week.
+
+### Yoga
+
+Specifically beneficial for sleep:
+
+- Reduces stress and anxiety
+- Gentle movement
+- Breath work promotes relaxation
+- Some styles more activating (avoid hot/power yoga before bed)
+
+**Best for sleep:** Gentle, restorative, or bedtime yoga.
+
+### Stretching
+
+Evening stretching may help:
+
+- Releases muscle tension
+- Promotes relaxation
+- Can be part of bedtime routine
+
+## Building a Sleep-Promoting Exercise Routine
+
+### Daily Movement
+
+- Walk at least 30 minutes
+- Take stairs, park far, stay active throughout day
+- Avoid prolonged sitting
+
+### Structured Exercise
+
+- Most days: Moderate aerobic exercise (30+ minutes)
+- 2-3 days: Strength training
+- Daily: Light stretching
+
+### Timing
+
+- Morning or afternoon for intense exercise
+- Evening gentle movement is fine
+- Finish vigorous exercise 3+ hours before bed
+
+## Evening Wind-Down Routine
+
+### 2-3 Hours Before Bed
+
+- Finish any vigorous exercise
+- Begin transition to relaxation
+
+### 1 Hour Before Bed
+
+**Gentle Yoga Sequence:**
+
+*Child's Pose*
+1. Kneel, sit back on heels
+2. Fold forward, arms extended
+3. Hold 1-2 minutes
+
+*Supine Twist*
+1. Lie on back
+2. Draw one knee across body
+3. Hold 1-2 minutes each side
+
+*Legs Up the Wall*
+1. Lie with legs extended up wall
+2. Arms at sides, relaxed
+3. Stay 5-10 minutes
+
+*Reclined Butterfly*
+1. Lie on back
+2. Soles of feet together, knees out
+3. Support knees with pillows if needed
+4. Stay 3-5 minutes
+
+### 30 Minutes Before Bed
+
+**Gentle Stretching:**
+
+- Neck rolls
+- Shoulder shrugs
+- Gentle forward fold
+- Hip stretches
+- Anything that feels good
+
+**Breathing:**
+
+*4-7-8 Breathing*
+1. Inhale through nose for 4 counts
+2. Hold for 7 counts
+3. Exhale through mouth for 8 counts
+4. Repeat 4 cycles
+
+## How Much Exercise?
+
+**For sleep benefits:**
+- Minimum: 30 minutes moderate activity, most days
+- Better: 150+ minutes per week of moderate exercise
+- Or: 75+ minutes per week of vigorous exercise
+
+**Acute vs. Chronic Effects:**
+- Even single exercise sessions improve that night's sleep
+- Regular exercise has cumulative benefits
+- Consistency matters most
+
+## If Evening Exercise Keeps You Awake
+
+**Strategies:**
+- Move workout earlier in day
+- Reduce intensity of evening sessions
+- Allow more time before bed
+- Follow exercise with cooling shower
+- Do relaxation routine after
+
+**Try low-intensity evening options:**
+- Walking
+- Gentle yoga
+- Swimming (not vigorous)
+- Easy stretching
+
+## Exercise + Sleep Hygiene
+
+Exercise works best with good sleep habits:
+
+- Consistent sleep/wake times
+- Dark, cool, quiet bedroom
+- Limit caffeine (especially afternoon)
+- Reduce alcohol (disrupts sleep quality)
+- Limit screens before bed
+- Relaxation routine
+
+## When Sleep Doesn't Improve
+
+If regular exercise doesn't help after 4-8 weeks:
+
+- Evaluate sleep hygiene
+- Consider timing adjustments
+- Rule out sleep disorders
+- Consult a healthcare provider
+
+## The Bottom Line
+
+Exercise is powerful sleep medicine:
+
+1. Move every day (walking counts)
+2. Include aerobic and strength training
+3. Time intense exercise earlier in day
+4. Use gentle movement as part of bedtime routine
+5. Be consistent
+6. Combine with good sleep hygiene
+
+Better sleep means better exercise recovery. Better exercise means better sleep. The cycle works in your favor.
+
+---
+
+*Foundational Rehab provides programs that support overall health, including better sleep through appropriate movement.*
+    \`
   }
 };
 
