@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hip-pain-exercises-stretches-relief',
+    title: 'Hip Pain Exercises: Stretches and Strengthening for Relief',
+    excerpt: 'Hip pain limits walking, sitting, and sleeping. These exercises address tight muscles and weak stabilizers for lasting relief.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hip Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'arthritis-exercises-joint-friendly',
+    title: 'Arthritis Exercises: Joint-Friendly Workouts That Actually Help',
+    excerpt: 'Exercise is one of the best treatments for arthritis. Here are safe, effective workouts that reduce pain and improve function.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Arthritis',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'back-strengthening-exercises-spine',
+    title: 'How to Strengthen Your Back: Exercises for a Pain-Free Spine',
+    excerpt: 'A strong back is a healthy back. These exercises build the muscles that protect and support your spine.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'wrist-pain-exercises-stretches',
+    title: 'Wrist Pain Exercises: Stretches and Strengthening for Relief',
+    excerpt: 'Wrist pain from typing, gripping, or overuse? These exercises restore mobility and build strength for pain-free wrists.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hand & Wrist',
+    readTime: '5 min read'
+  },
+  {
     slug: 'knee-strengthening-exercises-weak-knees',
     title: 'Exercises for Weak Knees: Build Strength and Reduce Pain',
     excerpt: 'Weak knees lead to pain and instability. These exercises strengthen the muscles around your knee to protect the joint.',

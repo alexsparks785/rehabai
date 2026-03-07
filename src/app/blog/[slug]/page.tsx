@@ -13,6 +13,1018 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'hip-pain-exercises-stretches-relief': {
+    title: 'Hip Pain Exercises: Stretches and Strengthening for Relief',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hip Pain',
+    readTime: '6 min read',
+    content: `
+## Why Hips Get Painful
+
+Your hips are workhorses—supporting your body weight, powering walking, and connecting your upper and lower body. Hip pain commonly comes from:
+
+- Tight hip flexors (from sitting)
+- Weak glutes
+- Bursitis (inflammation)
+- Arthritis
+- Muscle strains
+- Referred pain from the back
+
+The good news: most hip pain responds well to the right exercises.
+
+## Understanding Your Hip Pain
+
+### Front of Hip
+
+Often: Tight/weak hip flexors, labral issues, arthritis
+Focus on: Hip flexor stretching, core stability, glute strengthening
+
+### Side of Hip
+
+Often: Bursitis, IT band tightness, gluteus medius weakness
+Focus on: Glute strengthening (especially side-lying), IT band stretching
+
+### Back of Hip/Deep in Buttock
+
+Often: Piriformis tightness, sciatica, SI joint
+Focus on: Piriformis stretching, gentle rotation stretches, core stability
+
+### Groin
+
+Often: Adductor strain, hip joint issues
+Focus on: Gentle adductor stretches, hip mobility
+
+## Hip Stretches
+
+### Hip Flexor Stretch (Half-Kneeling)
+
+1. Kneel on right knee, left foot forward
+2. Tuck tailbone under (flatten low back)
+3. Shift weight forward
+4. Feel stretch in front of right hip
+5. Hold 30-60 seconds each side
+
+This is crucial if you sit a lot.
+
+### Figure-4 Stretch (Piriformis)
+
+1. Lie on back
+2. Cross right ankle over left knee
+3. Pull left thigh toward chest
+4. Feel stretch deep in right buttock
+5. Hold 30-60 seconds each side
+
+### 90-90 Stretch
+
+1. Sit with front leg bent 90° in front
+2. Back leg bent 90° to the side
+3. Sit tall, lean forward slightly
+4. Hold 30-60 seconds
+5. Switch sides
+
+Great for overall hip mobility.
+
+### Butterfly Stretch
+
+1. Sit with soles of feet together
+2. Let knees drop outward
+3. Gently press down on knees
+4. Keep back straight
+5. Hold 60 seconds
+
+### IT Band Stretch
+
+1. Stand and cross right leg behind left
+2. Lean torso to left
+3. Push right hip out
+4. Hold 30 seconds each side
+
+### Adductor Stretch
+
+1. Wide stance
+2. Shift weight to right, bending right knee
+3. Keep left leg straight
+4. Feel stretch in left inner thigh
+5. Hold 30 seconds each side
+
+## Hip Strengthening
+
+### Glute Bridges
+
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes, lift hips
+3. Don't arch low back
+4. Hold 5 seconds at top
+5. 15-20 reps
+
+### Single Leg Glute Bridge
+
+1. Same position, extend one leg
+2. Lift hips using one leg
+3. 10-12 reps each side
+
+### Clamshells
+
+1. Lie on side, knees bent 45°
+2. Keep feet together
+3. Lift top knee, don't roll back
+4. 20 reps each side
+5. Add band for resistance
+
+### Side-Lying Hip Abduction
+
+1. Lie on side, legs straight
+2. Lift top leg toward ceiling
+3. Keep toes forward (don't rotate)
+4. 15-20 reps each side
+
+### Fire Hydrants
+
+1. On hands and knees
+2. Lift knee out to side (like a dog at a hydrant)
+3. Keep back stable
+4. 15 reps each side
+
+### Standing Hip Circles
+
+1. Stand on one leg
+2. Circle other leg from hip
+3. Small controlled circles
+4. 10 each direction, each leg
+
+### Lateral Band Walks
+
+1. Mini band above knees or around ankles
+2. Athletic stance, knees slightly bent
+3. Step sideways, maintaining tension
+4. 15 steps each direction
+
+### Hip Hinge (Romanian Deadlift)
+
+1. Stand on one leg (or both to start)
+2. Hinge at hip, reaching toward floor
+3. Keep back flat
+4. Return to standing
+5. 10-12 reps each leg
+
+## Sample Hip Program
+
+### Daily Quick Routine (5 minutes)
+
+1. Hip flexor stretch: 30 sec each side
+2. Figure-4 stretch: 30 sec each side
+3. Glute bridges: 15 reps
+4. Clamshells: 15 each side
+
+### Complete Hip Workout (15 minutes, 3x/week)
+
+**Stretches:**
+1. Hip flexor: 45 sec each side
+2. Figure-4: 45 sec each side
+3. Butterfly: 60 sec
+4. 90-90: 30 sec each side
+
+**Strengthening:**
+1. Glute bridges: 2 x 15
+2. Clamshells: 2 x 20 each side
+3. Side-lying abduction: 2 x 15 each side
+4. Fire hydrants: 2 x 12 each side
+5. Lateral band walks: 2 x 15 each direction
+
+## Tips for Hip Pain
+
+### Keep Moving
+
+- Don't stay still for hours
+- Change positions frequently
+- Walking often helps (start with short distances)
+
+### Sleep Position
+
+- Side sleepers: pillow between knees
+- Back sleepers: pillow under knees
+- Avoid sleeping on the painful side
+
+### Sitting
+
+- Don't sit on wallet
+- Sit on firm surfaces
+- Get up every 30 minutes
+- Consider cushion if bursitis
+
+### Activity Modification
+
+During flare-ups:
+- Reduce high-impact activities
+- Avoid deep squats and lunges
+- Shorter walking distances
+- Pool exercise if available
+
+## When to See a Doctor
+
+Get evaluated if:
+- Severe pain or inability to walk
+- Pain after a fall or injury
+- Night pain that wakes you
+- Groin pain with fever
+- No improvement after 4-6 weeks
+- Catching, locking, or giving way
+
+## The Bottom Line
+
+Hip pain usually responds well to a combination of stretching tight muscles (especially hip flexors) and strengthening weak ones (especially glutes). Consistency matters more than intensity. Stretch daily, strengthen 3x per week, keep moving, and most hip pain improves significantly within a few weeks.
+`
+  },
+  'arthritis-exercises-joint-friendly': {
+    title: 'Arthritis Exercises: Joint-Friendly Workouts That Actually Help',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Arthritis',
+    readTime: '7 min read',
+    content: `
+## Exercise Is Medicine for Arthritis
+
+It seems counterintuitive: your joints hurt, so why move them? But exercise is one of the most effective treatments for arthritis:
+
+- Reduces pain (often as well as medication)
+- Decreases stiffness
+- Builds strength to protect joints
+- Improves function and mobility
+- Helps maintain healthy weight
+- Boosts mood and energy
+
+The key is choosing the right exercises and starting gradually.
+
+## Types of Arthritis Exercise
+
+### Range of Motion (Flexibility)
+
+Moving joints through their full range to maintain mobility and reduce stiffness.
+
+### Strengthening
+
+Building muscle to support and protect joints.
+
+### Aerobic (Cardio)
+
+Low-impact activities that improve endurance, heart health, and help with weight management.
+
+### Balance
+
+Reducing fall risk, especially important with lower body arthritis.
+
+A complete program includes all four types.
+
+## Range of Motion Exercises
+
+Do these daily to maintain flexibility.
+
+### Neck
+
+- Slowly turn head side to side
+- Tilt ear to shoulder each side
+- Tuck chin, then look up
+- 5-10 reps each direction
+
+### Shoulders
+
+- Arm circles (forward and backward)
+- Reach overhead
+- Reach behind back
+- 10 reps each
+
+### Hands and Wrists
+
+- Make fists, then spread fingers wide
+- Circle wrists
+- Touch thumb to each fingertip
+- 10 reps each
+
+### Hips
+
+- Lying or seated knee to chest
+- Hip circles (standing on one leg)
+- 5-10 reps each
+
+### Knees
+
+- Seated knee extensions
+- Heel slides (lying down)
+- 10-15 reps each
+
+### Ankles
+
+- Ankle circles
+- Point and flex feet
+- 10 each direction
+
+## Strengthening Exercises
+
+Build up muscles that support arthritic joints. 2-3x per week.
+
+### For Knee Arthritis
+
+**Quad sets:**
+- Sitting or lying, tighten thigh, push knee down
+- Hold 5 seconds, 15 reps
+
+**Straight leg raises:**
+- Lying, lift straight leg 6 inches
+- Hold 3 seconds, 15 reps each leg
+
+**Partial squats (wall support):**
+- Back against wall, slide down 45°
+- Hold or repeat for reps
+
+**Step-ups:**
+- Low step (4-6 inches)
+- Step up and down slowly
+- 10-15 each leg
+
+### For Hip Arthritis
+
+**Glute bridges:**
+- Lying, lift hips
+- Hold 5 seconds, 15 reps
+
+**Clamshells:**
+- Side-lying, lift top knee
+- 20 reps each side
+
+**Standing hip extension:**
+- Hold chair, extend leg backward
+- 15 reps each leg
+
+### For Hand Arthritis
+
+**Finger spreads:**
+- Spread fingers apart, hold, relax
+- 10 reps
+
+**Grip strengthening:**
+- Squeeze soft ball or putty
+- Hold 5 seconds, 10 reps
+
+**Finger walks:**
+- Place hand flat, "walk" fingers toward palm
+- Then spread back out
+
+### For Shoulder Arthritis
+
+**Wall push-ups:**
+- Hands on wall, lean in and push back
+- 10-15 reps
+
+**Resistance band rows:**
+- Pull band toward body, squeeze shoulder blades
+- 15 reps
+
+**External rotation:**
+- Elbow at side, rotate forearm outward
+- 15 reps
+
+## Low-Impact Cardio Options
+
+Aim for 150 minutes per week of moderate activity.
+
+### Walking
+
+The simplest option. Start with what you can do, add gradually.
+- Use supportive shoes
+- Flat surfaces easier than hills
+- Can break into shorter bouts
+
+### Swimming/Water Exercise
+
+Excellent for arthritis—water supports joints.
+- Nearly eliminates joint impact
+- Warm water especially soothing
+- Provides resistance for strengthening
+
+### Cycling
+
+Low impact on knees and hips.
+- Stationary bike often best
+- Adjust seat height properly
+- Start with low resistance
+
+### Elliptical
+
+Smooth motion, low impact.
+- Easier on joints than treadmill
+- Can go backward for variety
+
+### Tai Chi
+
+Combines movement, balance, and relaxation.
+- Specifically studied for arthritis
+- Reduces pain and improves function
+- Group classes available
+
+### Yoga
+
+Gentle styles appropriate for arthritis.
+- Chair yoga if floor difficult
+- Avoid extreme positions
+- Focus on gentle stretching
+
+## Balance Exercises
+
+Important for fall prevention.
+
+- Single leg stands (use support)
+- Heel-to-toe walking
+- Standing on foam surface
+- Tai chi movements
+
+Aim for balance work 3x per week.
+
+## Managing Flare-Ups
+
+When arthritis flares:
+
+### Modify, Don't Stop
+
+- Reduce intensity, not all activity
+- Focus on gentle range of motion
+- Pool exercise if available
+
+### Listen to Pain
+
+- Some discomfort OK
+- Sharp or worsening pain = back off
+- Two-hour rule: if pain worse 2 hours after exercise, you did too much
+
+### Use Heat and Ice
+
+- Heat before exercise (loosens joints)
+- Ice after if swollen
+
+## Starting an Arthritis Exercise Program
+
+### Week 1-2
+
+- Daily range of motion exercises
+- Short walks (10-15 minutes)
+- Focus on form and consistency
+
+### Week 3-4
+
+- Add basic strengthening (bodyweight)
+- Increase walk duration
+- Try pool exercise if available
+
+### Week 5-8
+
+- Progress strengthening (add resistance)
+- Add balance exercises
+- Build to 30+ minute cardio sessions
+
+### Ongoing
+
+- Continue all four exercise types
+- Progress gradually
+- Adjust based on how joints feel
+
+## Tips for Success
+
+### Best Time to Exercise
+
+- When you typically feel best
+- After morning stiffness subsides
+- Not when exhausted
+
+### Start Low, Go Slow
+
+- Easier to add than recover from overdoing
+- Gradual progression prevents flares
+- Consistency beats intensity
+
+### Protect Your Joints
+
+- Avoid high-impact activities
+- Use good body mechanics
+- Don't push through sharp pain
+
+### Stay Consistent
+
+- Some exercise daily
+- Missing one day is OK
+- Getting back on track is what matters
+
+## When to Seek Help
+
+See a professional if:
+- New or significantly worse joint pain
+- Joint is hot, red, or very swollen
+- Unsure which exercises are safe
+- Not improving after 6-8 weeks
+- Need help creating a program
+
+A physical therapist can design a safe, effective program for your specific joints and limitations.
+
+## The Bottom Line
+
+Exercise is essential for managing arthritis. The right program—combining flexibility, strengthening, cardio, and balance—reduces pain, improves function, and helps you stay active. Start gently, progress gradually, and make it a lifelong habit. Your joints will thank you.
+`
+  },
+  'back-strengthening-exercises-spine': {
+    title: 'How to Strengthen Your Back: Exercises for a Pain-Free Spine',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read',
+    content: `
+## Why Back Strength Matters
+
+Your back muscles do more than you realize:
+
+- Support your spine all day
+- Control bending and lifting
+- Maintain posture
+- Protect against injury
+- Work with core muscles for stability
+
+Weak back muscles lead to pain, poor posture, and injury risk. Strong back muscles protect your spine for life.
+
+## The Key Back Muscles
+
+### Erector Spinae
+
+The main back extensors running along your spine. They keep you upright and control forward bending.
+
+### Latissimus Dorsi
+
+Large muscles on the sides of your back. Important for pulling and shoulder function.
+
+### Trapezius
+
+Upper back and neck. Controls shoulder blade movement and head position.
+
+### Rhomboids
+
+Between shoulder blades. Pull shoulder blades together and control posture.
+
+### Multifidus
+
+Small deep muscles along spine. Critical for stability and often weak after back pain.
+
+## Beginner Back Exercises
+
+Start here if you have back pain or are new to exercise.
+
+### Bird Dog
+
+1. On hands and knees, spine neutral
+2. Extend right arm forward, left leg back
+3. Keep back flat, don't rotate
+4. Hold 5 seconds
+5. Return, switch sides
+6. 10 reps each side
+
+Builds deep spinal stability.
+
+### Cat-Cow
+
+1. On hands and knees
+2. Round back up (cat), tuck chin
+3. Arch back, lift head (cow)
+4. Flow slowly between positions
+5. 15 reps
+
+Promotes mobility and muscle activation.
+
+### Prone Back Extension (Small)
+
+1. Lie face down, arms at sides
+2. Lift head and chest slightly
+3. Don't overextend
+4. Hold 5 seconds
+5. 10-15 reps
+
+### Glute Bridge
+
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Keep back neutral (don't arch)
+4. Hold 5 seconds
+5. 15 reps
+
+Glutes support the lower back.
+
+### Wall Slides
+
+1. Back against wall
+2. Arms in goalpost position against wall
+3. Slide arms up and down
+4. Keep contact with wall
+5. 15 reps
+
+Strengthens upper back and posture muscles.
+
+## Intermediate Exercises
+
+Progress here when beginner exercises are easy.
+
+### Superman
+
+1. Lie face down, arms overhead
+2. Lift arms, chest, and legs simultaneously
+3. Hold 3-5 seconds
+4. Lower with control
+5. 10-12 reps
+
+### Swimming (Alternating Superman)
+
+1. Lie face down, arms overhead
+2. Lift right arm and left leg
+3. Switch to left arm and right leg
+4. Continuous alternating motion
+5. 20 reps total
+
+### Reverse Snow Angels
+
+1. Lie face down, arms at sides
+2. Lift chest slightly
+3. Sweep arms overhead (like making snow angel)
+4. Return to sides
+5. 10-12 reps
+
+### Prone Y-T-W Raises
+
+**Y Raise:**
+- Arms overhead in Y, lift thumbs toward ceiling
+
+**T Raise:**
+- Arms out to sides, lift
+
+**W Raise:**
+- Elbows bent, lift and squeeze shoulder blades
+
+10 reps each position.
+
+### Rows (Band or Light Weight)
+
+1. Slight bend at hips, back flat
+2. Pull elbows back, squeezing shoulder blades
+3. Control the return
+4. 15 reps
+
+## Advanced Exercises
+
+For those with good baseline strength.
+
+### Deadlifts (Bodyweight or Weighted)
+
+1. Stand with feet hip-width
+2. Hinge at hips, reaching toward floor
+3. Keep back flat, knees slightly bent
+4. Return to standing using glutes
+5. 10-12 reps
+
+### Single Leg Romanian Deadlift
+
+1. Stand on one leg
+2. Hinge forward, other leg extends back
+3. Keep back flat
+4. Return to standing
+5. 10 reps each leg
+
+### Plank Row (Renegade Row)
+
+1. Plank position with weights
+2. Row one weight up, elbow to ceiling
+3. Keep hips stable
+4. Alternate sides
+5. 8-10 each side
+
+### Back Extension Machine (if available)
+
+1. Pad at hip level
+2. Lower torso down
+3. Extend back to straight position
+4. Don't hyperextend
+5. 12-15 reps
+
+### Pull-Ups or Lat Pulldowns
+
+1. Wide or neutral grip
+2. Pull shoulder blades down and back
+3. Pull until chin over bar / bar to chest
+4. Control the lowering
+5. As many reps as able
+
+## The Complete Back Program
+
+### Daily Maintenance (5 minutes)
+
+1. Cat-cow: 10 reps
+2. Bird dog: 8 each side
+3. Glute bridge: 15 reps
+
+### Full Back Workout (15-20 minutes, 2-3x/week)
+
+**Warm-up:**
+- Cat-cow: 10 reps
+- Bird dog: 8 each side
+
+**Strengthening:**
+- Prone Y-T-W: 10 each position
+- Superman: 2 x 10
+- Rows: 2 x 15
+- Glute bridges: 2 x 15
+- Wall slides: 2 x 12
+
+**Cool-down:**
+- Child's pose: 30 seconds
+- Knee to chest: 20 seconds each leg
+
+## Important Principles
+
+### Form Over Weight
+
+- Bad form = injury risk
+- Master bodyweight before adding resistance
+- Quality reps beat quantity
+
+### Balance Front and Back
+
+- Don't just train back
+- Core (front) strength equally important
+- Full body balance prevents problems
+
+### Endurance Matters
+
+- Back muscles work all day
+- Build muscular endurance, not just strength
+- Higher reps, controlled movements
+
+### Don't Rush
+
+- Strength builds over weeks and months
+- Progressive overload (gradual increase)
+- Patience prevents setbacks
+
+## Common Mistakes
+
+- Hyperextending (overarching) during exercises
+- Ignoring core and glute strength
+- Lifting too heavy too soon
+- Neglecting the upper back
+- Only training when it hurts
+
+## When Back Strengthening Isn't Enough
+
+See a professional if:
+- Pain worsens with exercise
+- Radiating pain down legs
+- Numbness or weakness
+- No improvement after 6-8 weeks
+- Acute injury
+
+A physical therapist can identify specific weaknesses and create a targeted program.
+
+## The Bottom Line
+
+A strong back is your best defense against pain and injury. Start with basic exercises that build stability, progress gradually to more challenging movements, and stay consistent. Combined with core strengthening, back exercises create the muscular support your spine needs for a lifetime of pain-free movement.
+`
+  },
+  'wrist-pain-exercises-stretches': {
+    title: 'Wrist Pain Exercises: Stretches and Strengthening for Relief',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Hand & Wrist',
+    readTime: '5 min read',
+    content: `
+## Why Wrists Hurt
+
+Your wrists handle constant stress—typing, gripping, lifting, scrolling. Common causes of wrist pain:
+
+- Repetitive strain (typing, mouse use)
+- Carpal tunnel syndrome
+- Tendinitis
+- Arthritis
+- Sprains
+- Poor ergonomics
+
+Most wrist pain responds well to stretching, strengthening, and addressing repetitive stress.
+
+## Quick Wrist Stretches
+
+### Prayer Stretch
+
+1. Press palms together in front of chest
+2. Lower hands toward waist, keeping palms pressed
+3. Feel stretch in wrists and forearms
+4. Hold 15-30 seconds
+
+### Reverse Prayer
+
+1. Press backs of hands together
+2. Lower hands toward waist
+3. Hold 15-30 seconds
+
+### Wrist Flexor Stretch
+
+1. Extend right arm, palm up
+2. Use left hand to pull fingers down and back
+3. Keep elbow straight
+4. Hold 20-30 seconds each side
+
+### Wrist Extensor Stretch
+
+1. Extend right arm, palm down
+2. Use left hand to pull hand down
+3. Feel stretch on top of forearm
+4. Hold 20-30 seconds each side
+
+### Wrist Circles
+
+1. Make gentle fists
+2. Circle wrists slowly
+3. 10 circles each direction
+
+### Finger Spread
+
+1. Start with fingers together
+2. Spread fingers wide apart
+3. Hold 5 seconds
+4. Relax and repeat 10 times
+
+## Strengthening Exercises
+
+### Wrist Curls
+
+1. Rest forearm on table, hand hanging over edge
+2. Hold light weight (1-3 lbs) or water bottle
+3. Curl wrist up
+4. Lower slowly
+5. 15 reps, palm up and palm down
+
+### Grip Strengthening
+
+1. Squeeze stress ball or tennis ball
+2. Hold 5 seconds
+3. Relax
+4. 15-20 reps
+
+### Finger Extensions with Rubber Band
+
+1. Place rubber band around all fingers
+2. Spread fingers apart against resistance
+3. 15-20 reps
+
+### Wrist Radial/Ulnar Deviation
+
+1. Hold weight vertically (like hammer)
+2. Move wrist side to side (keeping arm still)
+3. 10-15 reps each direction
+
+### Pronation/Supination
+
+1. Hold weight vertically
+2. Rotate forearm palm up, then palm down
+3. Keep elbow at side
+4. 15 reps
+
+### Towel Wringing
+
+1. Hold towel with both hands
+2. Wring in one direction, then other
+3. Excellent functional strengthening
+
+## Nerve Gliding Exercises
+
+Important for carpal tunnel symptoms.
+
+### Median Nerve Glide
+
+1. Start with elbow bent, wrist neutral, fingers curled
+2. Straighten fingers
+3. Extend wrist back
+4. Straighten elbow
+5. Turn palm up
+6. Gently pull fingers back with other hand
+7. Move smoothly through positions
+8. 10-15 reps
+
+### Tendon Gliding
+
+1. Start with fingers straight
+2. Make hook fist (bend at middle joints only)
+3. Make full fist
+4. Make flat fist (fingers to palm base)
+5. Open to straight
+6. 10 cycles
+
+## Complete Wrist Routine
+
+### Morning (3 minutes)
+
+1. Wrist circles: 10 each direction
+2. Prayer stretch: 20 seconds
+3. Flexor stretch: 15 seconds each side
+4. Extensor stretch: 15 seconds each side
+5. Finger spreads: 10 reps
+
+### During Work (Hourly, 1 minute)
+
+1. Wrist circles: 5 each way
+2. Finger spreads: 5 reps
+3. Shake out hands
+4. Quick prayer/reverse prayer: 10 seconds each
+
+### Evening (5 minutes)
+
+1. All stretches: 30 seconds each
+2. Wrist curls: 15 each direction
+3. Grip squeezes: 15 reps
+4. Rubber band finger extensions: 15 reps
+5. Nerve glides if carpal tunnel symptoms: 10 reps
+
+## Ergonomic Tips
+
+### Keyboard
+
+- Keep wrists neutral (not bent up or down)
+- Float hands while typing when possible
+- Use keyboard tray at correct height
+- Consider ergonomic keyboard
+
+### Mouse
+
+- Keep wrist straight
+- Move from shoulder, not just wrist
+- Consider vertical mouse
+- Switch sides occasionally
+
+### General
+
+- Take breaks every 30 minutes
+- Vary tasks
+- Avoid gripping too tightly
+- Use larger muscles when possible (lift with whole arm, not just wrist)
+
+## When Bracing Helps
+
+Wrist splints can help:
+- At night (keeps wrist neutral during sleep)
+- During flare-ups
+- For carpal tunnel symptoms
+
+Don't wear all day unless directed—muscles can weaken.
+
+## Heat vs Ice
+
+**Heat:**
+- Before exercise
+- For stiffness and chronic pain
+- Warm water or heat pad
+
+**Ice:**
+- After activity
+- For inflammation and swelling
+- 15-20 minutes
+
+## Specific Conditions
+
+### Carpal Tunnel Syndrome
+
+- Nerve gliding exercises essential
+- Night splinting helps many
+- Avoid wrist flexion
+- Modify activities causing symptoms
+
+### Tendinitis
+
+- Rest from aggravating activities
+- Ice after use
+- Gentle stretching
+- Gradual strengthening as pain allows
+
+### Arthritis
+
+- Focus on range of motion
+- Heat before exercise
+- Gentle strengthening
+- Joint protection principles
+
+## When to See a Doctor
+
+Get evaluated if:
+- Numbness or tingling persists
+- Weakness in grip or fingers
+- Significant swelling
+- Pain after injury
+- No improvement after 2-3 weeks
+- Night pain that wakes you
+
+## The Bottom Line
+
+Wrist pain usually responds well to consistent stretching, strengthening, and ergonomic changes. The key is addressing both the symptoms (with exercises) and the cause (often repetitive stress or poor ergonomics). A few minutes of daily maintenance goes a long way toward keeping your wrists healthy and pain-free.
+`
+  },
   'knee-strengthening-exercises-weak-knees': {
     title: 'Exercises for Weak Knees: Build Strength and Reduce Pain',
     date: '2026-03-07',
