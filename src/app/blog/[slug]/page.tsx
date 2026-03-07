@@ -13,6 +13,869 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'sports-injury-prevention-guide': {
+    title: 'Sports Injury Prevention: How to Stay Injury-Free',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Best Injury Is the One That Never Happens
+
+Sports injuries aren't just bad luck. While accidents happen, most injuries are preventable with the right approach. Understanding injury prevention keeps you playing and performing.
+
+## Why Injuries Happen
+
+### Intrinsic Factors (Your Body)
+
+- Muscle weakness
+- Muscle imbalances
+- Poor flexibility
+- Previous injury (biggest risk factor)
+- Fatigue
+- Poor movement patterns
+- Inadequate conditioning
+
+### Extrinsic Factors (External)
+
+- Training errors (too much, too fast)
+- Poor equipment
+- Playing surface
+- Weather conditions
+- Insufficient recovery
+- Inadequate warmup
+
+Most injuries result from a combination of factors, many of which are controllable.
+
+## The Foundation: Proper Training
+
+### Progressive Overload
+
+Increase training demands gradually:
+- No more than 10% increase per week in volume
+- Allow adaptation time
+- Build base before intensity
+
+### Periodization
+
+Vary training throughout the year:
+- Build phases
+- Peak phases
+- Recovery phases
+- Avoid constant high intensity
+
+### Sport-Specific Preparation
+
+Train for the demands of your sport:
+- Movement patterns
+- Energy systems
+- Common injury areas
+
+## Warmup: Non-Negotiable
+
+### Why Warmup Works
+
+- Increases muscle temperature
+- Improves muscle elasticity
+- Enhances nervous system activation
+- Prepares joints for activity
+- Mentally prepares for performance
+
+### Effective Warmup Structure
+
+1. **General movement (5 min):** Light cardio to raise heart rate
+2. **Dynamic stretching (5 min):** Movement-based stretching
+3. **Sport-specific movement (5 min):** Mimic activity patterns
+4. **Gradual intensity build:** Progress to activity speed
+
+### Skip Static Stretching Before Activity
+
+Static stretching before exercise may reduce power and doesn't prevent injury as well as dynamic warmup.
+
+## Strength Training for Injury Prevention
+
+### Key Areas to Strengthen
+
+**Core:**
+- Protects spine
+- Transfers power efficiently
+- Foundation for all movement
+
+**Hip Stabilizers:**
+- Gluteus medius especially
+- Prevents knee and ankle problems
+- Critical for running and cutting
+
+**Rotator Cuff:**
+- Protects shoulder joint
+- Essential for overhead athletes
+
+**Ankle Stabilizers:**
+- Prevents sprains
+- Critical after previous sprain
+
+### Eccentric Training
+
+Eccentric exercises (controlling lengthening) are particularly protective:
+- Nordic hamstring curls for hamstrings
+- Eccentric calf raises for Achilles
+- Builds strength in vulnerable positions
+
+## Flexibility and Mobility
+
+### Maintain Adequate Range
+
+- Sport-specific mobility requirements
+- Joint-by-joint approach
+- Address individual limitations
+
+### But Don't Overstretch
+
+- Excessive flexibility can reduce stability
+- Balance flexibility with strength
+- Hypermobile athletes need stability work, not more stretching
+
+## Recovery Is Training
+
+### Sleep
+
+- 7-9 hours for most adults
+- Growth hormone release during sleep
+- Tissue repair occurs during rest
+- Sleep deprivation increases injury risk
+
+### Nutrition
+
+- Adequate protein for tissue repair
+- Carbohydrates for energy
+- Hydration for all body functions
+- Anti-inflammatory foods
+
+### Rest Days
+
+- Allow adaptation
+- Prevent overtraining
+- Active recovery can help
+- Listen to your body
+
+### Managing Training Load
+
+- Track volume and intensity
+- Note how you feel
+- Back off when warning signs appear
+- Fatigue accumulates over time
+
+## Listen to Your Body
+
+### Warning Signs
+
+- Persistent soreness (beyond normal)
+- Pain during activity
+- Decreased performance
+- Excessive fatigue
+- Sleep disturbances
+- Mood changes
+
+### Early Intervention
+
+Address small problems before they become big ones:
+- Mild tightness → Stretch and foam roll
+- Minor ache → Reduce volume, address cause
+- Persistent issue → See a professional
+
+## Sport-Specific Considerations
+
+### Running
+
+- Gradual mileage increases
+- Strength training (especially hips)
+- Proper footwear
+- Vary surfaces and routes
+- Address running form issues
+
+### Team Sports (Soccer, Basketball, etc.)
+
+- Neuromuscular training programs
+- Cutting and landing technique
+- Strength and conditioning
+- Proper warmup before games
+- Manage game and practice load
+
+### Overhead Sports (Baseball, Tennis, etc.)
+
+- Rotator cuff and scapular strengthening
+- Pitch/stroke counts
+- Proper technique
+- Off-season rest
+
+### Weight Training
+
+- Proper form (always)
+- Progressive loading
+- Adequate warmup sets
+- Don't ego lift
+- Balanced programming
+
+## After an Injury
+
+### Complete Rehabilitation
+
+- Finish the full rehab program
+- Don't return early
+- Address the cause, not just symptoms
+- Rebuild strength and confidence
+
+### Prevent Recurrence
+
+Previous injury is the top risk factor for future injury:
+- Continue maintenance exercises
+- Stay aware of the area
+- Modify training if warning signs appear
+
+## Injury Prevention Programs
+
+Research-validated programs exist:
+
+### FIFA 11+
+
+For soccer players—reduces injuries significantly.
+
+### PEP Program
+
+ACL prevention for female athletes.
+
+### Nordic Hamstring Protocol
+
+Reduces hamstring injuries in field sports.
+
+Ask coaches or sports medicine professionals about sport-specific programs.
+
+## The Bottom Line
+
+Most injuries are preventable with proper training, adequate warmup, appropriate recovery, and listening to your body. Build strength, maintain flexibility, progress gradually, and address small problems early. The time invested in prevention is far less than the time lost to injury.
+`
+  },
+  'stretching-mistakes-to-avoid': {
+    title: 'Stretching Mistakes: 10 Common Errors and How to Fix Them',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Are You Stretching Wrong?
+
+Stretching seems simple, but common mistakes limit your progress and may even cause injury. Here are the errors people make and how to fix them.
+
+## Mistake #1: Stretching Cold Muscles
+
+### The Problem
+
+Stretching muscles when they're cold is less effective and increases injury risk. Cold muscles don't lengthen as easily and are more prone to strain.
+
+### The Fix
+
+Warm up before stretching:
+- 5-10 minutes of light cardio
+- Dynamic movement
+- Or stretch after your workout when muscles are warm
+
+## Mistake #2: Bouncing (Ballistic Stretching)
+
+### The Problem
+
+Bouncing into a stretch triggers the stretch reflex—your muscles actually tighten to protect themselves. This is counterproductive and risks muscle strains.
+
+### The Fix
+
+Hold steady positions. Move into the stretch slowly, find your end point, and hold without bouncing. Let the muscle gradually relax and lengthen.
+
+## Mistake #3: Holding Your Breath
+
+### The Problem
+
+Holding your breath increases muscle tension. Your body interprets breath-holding as a sign of stress or danger.
+
+### The Fix
+
+Breathe deeply and continuously:
+- Inhale to prepare
+- Exhale as you move into the stretch
+- Continue breathing throughout
+- Try to relax more with each exhale
+
+## Mistake #4: Pushing Through Pain
+
+### The Problem
+
+Pain is a warning signal. Pushing through it can cause muscle tears, joint damage, or other injuries. "No pain, no gain" doesn't apply to stretching.
+
+### The Fix
+
+Stretch to mild tension, not pain:
+- You should feel the stretch but be able to relax
+- If it hurts, you've gone too far
+- Ease off until you find the right intensity
+
+## Mistake #5: Not Holding Long Enough
+
+### The Problem
+
+Brief stretches (5-10 seconds) don't produce significant flexibility changes. The muscle needs time to relax and lengthen.
+
+### The Fix
+
+Hold stretches for at least 30 seconds:
+- 30-60 seconds for maintenance
+- 60+ seconds for improvement
+- Multiple sets can help
+
+## Mistake #6: Static Stretching Before Exercise
+
+### The Problem
+
+Static stretching before activity can temporarily reduce strength and power. It may also increase injury risk in explosive sports.
+
+### The Fix
+
+Before exercise, use dynamic stretching:
+- Movement-based warmup
+- Sport-specific preparation
+- Save static stretching for after
+
+## Mistake #7: Only Stretching What's Tight
+
+### The Problem
+
+Focusing only on tight areas can create or worsen imbalances. The whole body is connected—tightness in one area affects others.
+
+### The Fix
+
+Stretch your whole body:
+- Include all major muscle groups
+- Spend extra time on tight areas
+- Maintain balance
+
+## Mistake #8: Inconsistency
+
+### The Problem
+
+Stretching occasionally doesn't produce lasting change. Flexibility gains require consistent practice and are lost without maintenance.
+
+### The Fix
+
+Stretch regularly:
+- 3-5 times per week minimum
+- Daily for best results
+- Brief daily sessions beat occasional long sessions
+- Make it a habit
+
+## Mistake #9: Comparing to Others
+
+### The Problem
+
+Everyone's flexibility is different due to anatomy, training history, and genetics. Trying to match someone else can lead to injury.
+
+### The Fix
+
+Focus on your own progress:
+- Work within your range
+- Compare to yourself over time
+- Celebrate your improvements
+- Don't force positions your body isn't ready for
+
+## Mistake #10: Neglecting Strengthening
+
+### The Problem
+
+Stretching alone doesn't fix everything. Very flexible muscles can be weak and unstable. Flexibility without strength is dysfunction.
+
+### The Fix
+
+Balance stretching with strengthening:
+- Stretch tight muscles
+- Strengthen weak muscles
+- Build control in new ranges
+- Combine flexibility and mobility work
+
+## Bonus Mistakes
+
+### Poor Positioning
+
+Wrong positioning means you're not stretching what you think you're stretching. Learn proper form for each stretch.
+
+### Stretching Injured Muscles
+
+Stretching a strained or injured muscle can worsen the injury. Let it heal first, then gently restore flexibility.
+
+### Expecting Instant Results
+
+Flexibility improves over weeks and months, not days. Patience and consistency are required.
+
+### Same Routine Forever
+
+Your body adapts. Vary your stretches, try new positions, and continue challenging yourself.
+
+## How to Stretch Right
+
+### The Checklist
+
+1. ✓ Warm up first
+2. ✓ Move slowly into position
+3. ✓ Hold steady (no bouncing)
+4. ✓ Breathe continuously
+5. ✓ Stretch to tension, not pain
+6. ✓ Hold 30-60 seconds
+7. ✓ Do both sides
+8. ✓ Be consistent
+9. ✓ Include your whole body
+10. ✓ Combine with strengthening
+
+## The Bottom Line
+
+Avoiding these common mistakes makes your stretching more effective and safer. Warm up, don't bounce, breathe, hold long enough, and be consistent. Small changes in technique lead to much better results.
+`
+  },
+  'benefits-of-stretching-science': {
+    title: 'Benefits of Stretching: What the Science Actually Says',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Stretching: Hype vs. Reality
+
+Stretching has been recommended for almost everything, from injury prevention to performance enhancement. But what does the research actually show? Let's separate fact from myth.
+
+## Proven Benefits
+
+### Increased Flexibility
+
+**The evidence:** Strong and consistent
+
+Regular stretching increases range of motion. This is well-established:
+- Static stretching increases muscle length
+- Gains are proportional to frequency and duration
+- 30-60 second holds are most effective
+- Effects are specific to the muscles stretched
+
+**The caveat:** Flexibility gains require maintenance. Stop stretching, and flexibility decreases.
+
+### Improved Range of Motion
+
+**The evidence:** Strong
+
+Stretching improves how much you can move a joint through its range. This matters for:
+- Daily activities (reaching, bending)
+- Athletic performance (sports-specific movements)
+- Functional independence (especially as we age)
+
+### Reduced Muscle Tension
+
+**The evidence:** Moderate
+
+Stretching helps relax tight muscles:
+- Activates relaxation response
+- Reduces resting muscle tone
+- Provides relief from tightness
+
+**The caveat:** Effects may be temporary without consistent practice.
+
+### Increased Blood Flow
+
+**The evidence:** Moderate
+
+Stretching increases blood flow to stretched muscles:
+- Enhanced nutrient delivery
+- Better waste removal
+- May aid recovery
+
+### Improved Posture
+
+**The evidence:** Moderate
+
+Stretching tight muscles (chest, hip flexors) while strengthening weak ones can improve posture:
+- Addresses muscle imbalances
+- Must be combined with strengthening
+- Requires consistent practice
+
+### Stress Relief and Relaxation
+
+**The evidence:** Moderate
+
+Stretching promotes relaxation:
+- Activates parasympathetic nervous system
+- Reduces cortisol levels
+- Deep breathing enhances effect
+- Similar benefits to other relaxation practices
+
+### Reduced Muscle Soreness
+
+**The evidence:** Mixed
+
+Post-exercise stretching may slightly reduce delayed onset muscle soreness (DOMS):
+- Effects are small
+- Not a cure for soreness
+- Some studies show no effect
+
+## Debated Benefits
+
+### Injury Prevention
+
+**The evidence:** Mixed and nuanced
+
+This is where things get complicated:
+
+**Static stretching before exercise:** Does NOT reduce injury risk. May actually impair performance.
+
+**Dynamic warmup:** DOES reduce injury risk. Better than static stretching.
+
+**Overall flexibility:** Having adequate (not excessive) flexibility MAY reduce some injuries.
+
+**Stretching programs (like FIFA 11+):** Combined with strengthening, reduce injuries significantly.
+
+**The bottom line:** Stretching alone isn't the injury prevention tool we once thought. Combined with strength training and proper warmup, it helps.
+
+### Performance Enhancement
+
+**The evidence:** Mixed
+
+**Static stretching before activity:** Temporarily REDUCES power and strength (about 5-10%). Not recommended before explosive activities.
+
+**Dynamic stretching before activity:** May IMPROVE performance. Recommended as part of warmup.
+
+**Long-term flexibility:** Adequate flexibility supports performance. Too much flexibility without strength may harm it.
+
+## What Stretching Doesn't Do
+
+### Prevent All Injuries
+
+Stretching alone isn't sufficient. Proper training, adequate recovery, and strength training matter more.
+
+### Make You Stronger
+
+Stretching doesn't build strength. Strengthening exercises do.
+
+### Fix All Pain
+
+Some pain requires different treatment—strengthening, medical care, or other interventions.
+
+### Change Muscle Length Permanently (Quickly)
+
+Lasting flexibility changes require consistent practice over time.
+
+## The Optimal Approach
+
+### For Health and Function
+
+- Maintain adequate flexibility in all major muscle groups
+- Stretch regularly (3-5 times per week)
+- Combine with strength training
+- Address individual limitations
+
+### For Athletes
+
+- Dynamic warmup before activity
+- Static stretching after activity
+- Maintain sport-specific flexibility
+- Integrate into overall training program
+
+### For Pain and Tightness
+
+- Identify tight muscles
+- Stretch consistently
+- Address underlying causes (posture, weakness, etc.)
+- Combine with other treatments as needed
+
+## How Much Flexibility Do You Need?
+
+### The Goldilocks Zone
+
+- Too little: Limits movement, increases injury risk
+- Too much: Reduces stability, may increase injury risk
+- Just right: Adequate for your activities and life
+
+### Sport-Specific
+
+Different activities require different flexibility levels:
+- Gymnastics: Very high
+- Running: Moderate
+- Powerlifting: Moderate to low
+
+## The Bottom Line
+
+Stretching provides real benefits: increased flexibility, improved range of motion, reduced muscle tension, and relaxation. But it's not a cure-all. It doesn't prevent all injuries, doesn't build strength, and shouldn't be done statically before explosive activity.
+
+For best results: stretch regularly, combine with strengthening, use dynamic warmups before activity, and maintain adequate (not excessive) flexibility for your needs.
+`
+  },
+  'stretching-for-desk-workers': {
+    title: 'Stretching for Desk Workers: The Complete Office-Friendly Routine',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## The Problem With Sitting
+
+The average office worker sits 8+ hours per day. This causes:
+
+- Tight hip flexors
+- Tight chest muscles
+- Weak glutes
+- Tight hamstrings
+- Neck and shoulder tension
+- Poor posture
+- Back pain
+- Increased disease risk
+
+Regular stretching breaks help counter these effects.
+
+## At-Your-Desk Stretches
+
+These can be done without leaving your chair or attracting too much attention.
+
+### Seated Neck Stretches
+
+**Ear to Shoulder:**
+1. Drop right ear toward right shoulder
+2. Keep shoulders relaxed
+3. Hold 20 seconds
+4. Switch sides
+
+**Chin Tuck:**
+1. Pull chin straight back (make double chin)
+2. Hold 5 seconds
+3. Repeat 10 times
+
+**Neck Rotation:**
+1. Slowly turn to look over each shoulder
+2. Hold each side 15 seconds
+
+### Seated Shoulder Stretches
+
+**Shoulder Shrugs:**
+1. Shrug shoulders up
+2. Hold 3 seconds
+3. Drop and relax
+4. Repeat 5-10 times
+
+**Shoulder Rolls:**
+1. Roll shoulders forward 5 times
+2. Roll backward 5 times
+3. Full, slow circles
+
+**Cross-Body Stretch:**
+1. Pull one arm across chest
+2. Hold 20 seconds each side
+
+### Seated Chest Opener
+
+1. Clasp hands behind head
+2. Push elbows back
+3. Squeeze shoulder blades together
+4. Hold 20 seconds
+
+### Seated Spinal Twist
+
+1. Sit tall
+2. Place right hand on outside of left knee
+3. Twist torso to left
+4. Hold 20 seconds each side
+
+### Seated Hip Stretch
+
+**Figure-4:**
+1. Cross one ankle over opposite knee
+2. Sit tall
+3. Lean forward slightly
+4. Hold 30 seconds each side
+
+### Wrist and Hand Stretches
+
+**Prayer Stretch:**
+1. Palms together in front of chest
+2. Lower hands toward waist
+3. Hold 20 seconds
+
+**Reverse Prayer:**
+1. Backs of hands together
+2. Lower toward waist
+3. Hold 20 seconds
+
+**Wrist Circles:**
+1. Circle wrists slowly
+2. 10 each direction
+
+## Standing Stretch Break
+
+Take these breaks every 1-2 hours. Step away from your desk.
+
+### Standing Hip Flexor Stretch
+
+1. Step back with one leg
+2. Tuck tailbone under
+3. Feel stretch in front of back hip
+4. Hold 30 seconds each side
+
+### Standing Chest Stretch
+
+1. Clasp hands behind back
+2. Lift arms and chest
+3. Hold 30 seconds
+
+### Standing Hamstring Stretch
+
+1. Place heel on low surface
+2. Keep back straight
+3. Lean forward at hips
+4. Hold 30 seconds each side
+
+### Standing Quad Stretch
+
+1. Hold chair or wall
+2. Pull heel to buttock
+3. Keep knees together
+4. Hold 30 seconds each side
+
+### Calf Stretch
+
+1. Step one foot back
+2. Keep back heel down
+3. Lean forward
+4. Hold 30 seconds each side
+
+### Standing Reach
+
+1. Reach arms overhead
+2. Clasp hands
+3. Stretch up and slightly back
+4. Hold 20 seconds
+
+### Forward Fold
+
+1. Let upper body hang forward
+2. Bend knees slightly if needed
+3. Let head hang heavy
+4. Hold 30 seconds
+
+## The Quick 2-Minute Reset
+
+When you can't take a full break:
+
+1. Chin tucks: 5 reps
+2. Shoulder rolls: 5 each direction
+3. Chest opener: 15 seconds
+4. Seated twist: 15 seconds each side
+5. Figure-4: 15 seconds each side
+
+## Movement Habits
+
+### Every 30 Minutes
+
+- Stand up briefly
+- Walk a few steps if possible
+- Shift position
+
+### Every Hour
+
+- 2-minute stretch break
+- Walk to get water
+- Use stairs if available
+
+### Every 2 Hours
+
+- 5-10 minute movement break
+- Standing stretches
+- Walk around
+
+## Desk Setup
+
+Proper ergonomics reduce the need for stretching (though you should still stretch):
+
+### Monitor
+
+- Eye level
+- About arm's length away
+- Directly in front of you
+
+### Chair
+
+- Feet flat on floor
+- Knees at 90 degrees
+- Lower back supported
+- Shoulders relaxed
+
+### Keyboard and Mouse
+
+- Elbows at 90 degrees
+- Wrists neutral (not bent)
+- Close to body
+
+## Trouble Spots for Desk Workers
+
+### Neck and Upper Traps
+
+From looking at screens and stress:
+- Frequent chin tucks
+- Ear to shoulder stretches
+- Shoulder shrugs and drops
+
+### Chest
+
+From shoulders rounding forward:
+- Chest stretches (doorway when possible)
+- Seated chest opener
+- Focus on posture awareness
+
+### Hip Flexors
+
+From constant sitting:
+- Standing hip flexor stretch
+- Get up frequently
+- Consider standing desk
+
+### Lower Back
+
+From sitting and poor posture:
+- Seated twist
+- Standing extension
+- Core strengthening
+
+### Wrists and Hands
+
+From typing and mouse use:
+- Wrist stretches multiple times daily
+- Wrist circles
+- Grip work for balance
+
+## Sample Daily Schedule
+
+### Morning Arrival
+
+- 5 minutes: Full standing stretch routine
+- Set intention to move hourly
+
+### Throughout Day
+
+- Every 30 min: Stand briefly
+- Every hour: 2-minute seated stretches
+- Every 2 hours: 5-minute standing stretches
+
+### Lunch
+
+- Walk
+- Longer stretching if possible
+
+### Before Leaving
+
+- 5 minutes: Full standing stretch routine
+- Release tension from the day
+
+## The Bottom Line
+
+Desk work is hard on your body. Regular stretch breaks—even brief ones—help counteract the effects of prolonged sitting. Set reminders, make it a habit, and your body will feel much better. The stretches take minutes; the benefits last all day.
+`
+  },
   'cooldown-stretches-post-workout': {
     title: 'Cooldown Stretches: The Essential Post-Workout Recovery Routine',
     date: '2026-03-07',

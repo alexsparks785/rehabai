@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'sports-injury-prevention-guide',
+    title: 'Sports Injury Prevention: How to Stay Injury-Free',
+    excerpt: 'Most sports injuries are preventable. Learn the strategies that keep athletes healthy and performing their best.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'stretching-mistakes-to-avoid',
+    title: 'Stretching Mistakes: 10 Common Errors and How to Fix Them',
+    excerpt: 'Are you stretching wrong? These common mistakes limit your progress and may cause injury.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'benefits-of-stretching-science',
+    title: 'Benefits of Stretching: What the Science Actually Says',
+    excerpt: 'Stretching is recommended everywhere, but what does research actually show? Here\'s the evidence.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'stretching-for-desk-workers',
+    title: 'Stretching for Desk Workers: The Complete Office-Friendly Routine',
+    excerpt: 'Sitting all day causes tightness and pain. These stretches can be done at your desk to keep you feeling good.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
     slug: 'cooldown-stretches-post-workout',
     title: 'Cooldown Stretches: The Essential Post-Workout Recovery Routine',
     excerpt: 'What you do after your workout matters. This cooldown routine promotes recovery and builds flexibility.',
