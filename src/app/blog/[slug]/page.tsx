@@ -65259,6 +65259,1066 @@ Going into surgery fit and prepared sets you up for the best possible recovery.
 
 *Foundational Rehab offers surgery-specific prehab programs to prepare you for the best possible recovery.*
     \`
+  },
+  'strength-training-beginners-guide': {
+    title: 'Strength Training for Beginners: How to Start Lifting Safely',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '7 min read',
+    content: \`
+## Why Strength Training Matters
+
+Strength training isn't just for bodybuilders. Everyone benefits:
+
+- **Builds muscle mass** — Important for metabolism and function
+- **Strengthens bones** — Reduces osteoporosis risk
+- **Improves metabolism** — Muscle burns more calories at rest
+- **Enhances daily function** — Carrying groceries, climbing stairs
+- **Reduces injury risk** — Strong muscles protect joints
+- **Improves mental health** — Reduces anxiety and depression
+
+You don't need to lift heavy to benefit. Consistency matters more than intensity.
+
+## Before You Start
+
+### Get Cleared
+
+If you have health conditions, injuries, or are over 50 and sedentary, check with your doctor first.
+
+### Set Realistic Expectations
+
+- Results take time (8-12 weeks for noticeable changes)
+- Start lighter than you think necessary
+- Form is more important than weight
+- Consistency beats intensity
+
+### Choose Your Setting
+
+- **Gym:** More equipment options, potential for guidance
+- **Home:** Convenient, no commute, private
+- **Both:** Flexibility based on schedule
+
+## The Fundamentals
+
+### Reps and Sets
+
+- **Rep (repetition):** One complete movement
+- **Set:** A group of reps done without rest
+- **Example:** "3 sets of 10 reps" means 10 reps, rest, 10 reps, rest, 10 reps
+
+### Rep Ranges
+
+- **Strength:** 1-5 reps (heavy weight)
+- **Hypertrophy (muscle size):** 6-12 reps (moderate weight)
+- **Endurance:** 12-20+ reps (lighter weight)
+
+**For beginners:** 8-12 reps is a good starting range.
+
+### Rest Between Sets
+
+- **Strength:** 2-5 minutes
+- **Hypertrophy:** 60-90 seconds
+- **Endurance:** 30-60 seconds
+
+### Weight Selection
+
+Choose a weight that:
+- Allows you to complete all reps with good form
+- Feels challenging by the last 2-3 reps
+- Doesn't cause pain or form breakdown
+
+**When in doubt, go lighter.** You can always add weight.
+
+## Essential Movement Patterns
+
+A complete program includes these movement patterns:
+
+### 1. Squat (Legs/Hips)
+
+**Goblet Squat**
+1. Hold weight at chest
+2. Feet shoulder-width
+3. Sit back and down
+4. Keep chest up, knees over toes
+5. Stand back up
+
+**Alternatives:** Bodyweight squat, leg press, leg extension
+
+### 2. Hinge (Posterior Chain)
+
+**Romanian Deadlift**
+1. Hold weights at thighs
+2. Push hips back
+3. Lower weights along legs
+4. Feel hamstrings stretch
+5. Stand back up by driving hips forward
+
+**Alternatives:** Deadlift, hip thrust, glute bridge
+
+### 3. Push (Chest/Shoulders/Triceps)
+
+**Dumbbell Bench Press**
+1. Lie on bench, weights at shoulders
+2. Press weights up
+3. Lower with control
+4. Keep feet on floor, back slightly arched
+
+**Push-Up**
+1. Hands under shoulders
+2. Lower chest to floor
+3. Push back up
+4. Keep body straight
+
+**Alternatives:** Machine chest press, incline press, shoulder press
+
+### 4. Pull (Back/Biceps)
+
+**Dumbbell Row**
+1. One hand and knee on bench
+2. Hold weight in other hand
+3. Pull weight to hip
+4. Squeeze shoulder blade
+5. Lower with control
+
+**Alternatives:** Cable row, lat pulldown, machine row
+
+### 5. Carry/Core
+
+**Farmer's Carry**
+1. Hold heavy weights at sides
+2. Walk with tall posture
+3. Keep shoulders back
+
+**Plank**
+1. Forearms and toes on ground
+2. Body in straight line
+3. Hold
+
+## Sample Beginner Program
+
+### Full Body Routine (3 Days/Week)
+
+**Workout A:**
+1. Goblet Squat — 3x10
+2. Dumbbell Row — 3x10 each arm
+3. Dumbbell Bench Press — 3x10
+4. Romanian Deadlift — 3x10
+5. Plank — 3x20-30 seconds
+
+**Workout B:**
+1. Leg Press — 3x12
+2. Lat Pulldown — 3x12
+3. Shoulder Press — 3x10
+4. Leg Curl — 3x12
+5. Cable Row — 3x12
+6. Dead Bug — 3x10 each side
+
+**Schedule:**
+- Monday: Workout A
+- Wednesday: Workout B
+- Friday: Workout A
+- Next week: B, A, B
+- Alternate weekly
+
+### Progression
+
+Each workout, try to:
+- Add 1-2 reps, OR
+- Add a small amount of weight
+
+**Don't rush progression.** Mastering form first prevents injury.
+
+## Proper Form Principles
+
+### General Guidelines
+
+1. **Warm up** — 5-10 minutes of light cardio
+2. **Control the weight** — Don't swing or use momentum
+3. **Full range of motion** — Use complete movement
+4. **Breathe** — Exhale during exertion, inhale during return
+5. **Stay tight** — Engage core throughout
+6. **Quality over quantity** — Stop before form breaks down
+
+### Common Mistakes
+
+- **Too much weight** — Ego lifting causes injury
+- **Too fast** — Rushing reduces effectiveness
+- **Partial reps** — Use full range of motion
+- **Rounded back** — Keep spine neutral
+- **Holding breath** — Keep breathing
+
+## Equipment Guide
+
+### Minimal Home Gym
+
+- Adjustable dumbbells
+- Resistance bands
+- Pull-up bar
+
+### Basic Commercial Gym
+
+Learn to use:
+- Dumbbells
+- Barbells
+- Cable machines
+- Major machines (leg press, chest press, lat pulldown)
+
+### Not Required Initially
+
+- Smith machine
+- Specialty machines
+- Advanced equipment
+
+## Recovery and Nutrition
+
+### Rest Days
+
+- Don't train same muscles on consecutive days
+- Sleep 7-9 hours
+- Light activity on off days is fine
+
+### Nutrition Basics
+
+- **Protein:** 0.7-1g per pound of bodyweight daily
+- **Calories:** Slight surplus for muscle gain, deficit for fat loss
+- **Timing:** Protein within a few hours of training helps
+
+### Signs of Overtraining
+
+- Persistent fatigue
+- Decreased performance
+- Frequent illness
+- Mood changes
+- Sleep problems
+
+**Solution:** Take a rest week, reduce volume, improve recovery.
+
+## Common Questions
+
+### "Will I get bulky?"
+
+Not without years of dedicated training and specific nutrition. Strength training makes you stronger and leaner, not accidentally huge.
+
+### "Should I do cardio too?"
+
+Yes, but don't overdo it. 2-3 cardio sessions per week complement strength training.
+
+### "How long until I see results?"
+
+- Strength gains: 2-4 weeks
+- Visible muscle changes: 8-12 weeks
+- Significant transformation: 6-12 months
+
+### "What if I miss a workout?"
+
+Just do the next one. Don't make up workouts by doubling up. Consistency over time matters most.
+
+## The Bottom Line
+
+Starting strength training:
+
+1. Learn proper form before adding weight
+2. Start with full-body routines, 3x/week
+3. Master basic movement patterns
+4. Progress gradually
+5. Prioritize recovery
+6. Be patient
+
+Everyone was a beginner once. Start where you are and keep showing up.
+
+---
+
+*Foundational Rehab provides strength programs suitable for beginners through advanced exercisers.*
+    \`
+  },
+  'hiit-beginners-guide': {
+    title: 'HIIT for Beginners: High-Intensity Interval Training Made Simple',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## What Is HIIT?
+
+High-Intensity Interval Training (HIIT) alternates between:
+- **High-intensity work** (near maximum effort)
+- **Recovery periods** (rest or low intensity)
+
+Example: 30 seconds of sprinting, 60 seconds of walking, repeated.
+
+## Why HIIT Works
+
+### Efficiency
+
+- Burns significant calories in short time
+- 20-30 minutes is effective
+- Ideal for busy schedules
+
+### EPOC (Afterburn)
+
+- Elevated calorie burning continues after workout
+- Body works to recover and restore
+- Can last hours after exercise
+
+### Cardiovascular Benefits
+
+- Improves heart health
+- Increases VO2 max (aerobic capacity)
+- Comparable to longer steady-state cardio
+
+### Metabolic Benefits
+
+- Improves insulin sensitivity
+- Beneficial for blood sugar control
+- Preserves muscle better than long cardio
+
+## Is HIIT Right for You?
+
+### Good candidates:
+- Healthy individuals wanting efficient workouts
+- Those who enjoy intensity
+- People with limited time
+- Athletes wanting to improve conditioning
+
+### May need modifications or alternatives:
+- Complete beginners (build base fitness first)
+- Joint problems (need low-impact options)
+- Heart conditions (get medical clearance)
+- Those who dislike intense exercise (it won't stick)
+
+**If you're deconditioned:** Start with lower intensity intervals and progress to true HIIT.
+
+## Starting Gradually
+
+### Week 1-2: Interval Introduction
+
+Don't jump into maximum intensity. Start with:
+- 30 seconds moderate intensity
+- 60-90 seconds easy/rest
+- 10-15 minutes total
+- 2 sessions per week
+
+### Week 3-4: Intensity Increase
+
+- 30 seconds harder intensity
+- 60 seconds recovery
+- 15-20 minutes total
+- 2-3 sessions per week
+
+### Week 5+: Full HIIT
+
+- 20-30 seconds near-maximum effort
+- 40-60 seconds recovery
+- 20-30 minutes total
+- 2-3 sessions per week (not daily!)
+
+## Work-to-Rest Ratios
+
+Different ratios for different goals:
+
+### Beginner
+- **1:3 ratio** (20 sec work : 60 sec rest)
+- Allows full recovery
+- Learn the movements
+
+### Intermediate
+- **1:2 ratio** (30 sec work : 60 sec rest)
+- More challenging
+- Partial recovery
+
+### Advanced
+- **1:1 ratio** (30 sec work : 30 sec rest)
+- Very challenging
+- Minimal recovery
+
+## Exercise Options
+
+### Low Impact (Joint-Friendly)
+
+- Cycling (stationary or outdoor)
+- Swimming
+- Rowing
+- Elliptical
+- Walking uphill
+- Battle ropes
+
+### Higher Impact
+
+- Running/sprinting
+- Jump rope
+- Burpees
+- Jumping jacks
+- Box jumps
+- Mountain climbers
+
+### Strength-Based HIIT
+
+- Kettlebell swings
+- Squat jumps
+- Push-ups
+- Dumbbell thrusters
+- Medicine ball slams
+
+## Sample HIIT Workouts
+
+### Beginner (15 min)
+
+**Warm-up:** 3 min easy walking
+
+**Intervals (4 rounds):**
+- 30 sec brisk walking or marching
+- 60 sec easy walking
+
+**Repeat 4x**
+
+**Cool-down:** 3 min easy walking
+
+### Intermediate (20 min)
+
+**Warm-up:** 3 min
+
+**Intervals (8 rounds):**
+- 30 sec high knees or jogging
+- 45 sec walking
+
+**Cool-down:** 3 min
+
+### Advanced (25 min)
+
+**Warm-up:** 3 min
+
+**Circuit (3 rounds):**
+- 30 sec burpees
+- 30 sec rest
+- 30 sec squat jumps
+- 30 sec rest
+- 30 sec mountain climbers
+- 30 sec rest
+- 30 sec sprints
+- 60 sec rest
+
+**Cool-down:** 3 min
+
+### Cycling HIIT (20 min)
+
+**Warm-up:** 3 min easy pedaling
+
+**Intervals (10 rounds):**
+- 30 sec maximum effort
+- 60 sec easy pedaling
+
+**Cool-down:** 3 min
+
+## HIIT Mistakes to Avoid
+
+### 1. Doing HIIT Daily
+
+- HIIT is demanding
+- Maximum 3 sessions per week
+- Allow 48 hours between sessions
+- More isn't better
+
+### 2. Not Going Hard Enough
+
+- "High intensity" means near-maximum effort
+- If you can easily talk, it's not HIIT
+- Uncomfortable is the goal
+
+### 3. Going Too Hard Too Soon
+
+- Build up over weeks
+- Start with longer rest periods
+- Progress intensity gradually
+
+### 4. Skipping Warm-Up
+
+- Always warm up 3-5 minutes
+- Cold muscles + high intensity = injury risk
+
+### 5. Poor Form During Fatigue
+
+- Fatigue causes form breakdown
+- Stop or slow down if form suffers
+- Quality over duration
+
+### 6. Not Recovering
+
+- Sleep 7-9 hours
+- Eat adequately
+- Don't do HIIT when exhausted
+
+## HIIT vs. Steady-State Cardio
+
+Both have value:
+
+**HIIT:**
+- Time efficient
+- Burns more calories per minute
+- Afterburn effect
+- Improves anaerobic capacity
+- Can be tough on the body
+
+**Steady-State:**
+- Less demanding, more sustainable
+- Good for recovery days
+- Builds aerobic base
+- Easier on joints
+- Can be done more frequently
+
+**Best approach:** Combine both. Example: 2 HIIT sessions, 1-2 steady-state sessions per week.
+
+## Signs You're Overdoing It
+
+- Persistent fatigue
+- Decreased performance
+- Increased resting heart rate
+- Mood changes
+- Sleep problems
+- Frequent illness or injury
+
+**Solution:** Cut back, add more recovery, prioritize sleep.
+
+## The Bottom Line
+
+HIIT is powerful but must be used correctly:
+
+1. Start with longer rest intervals and progress
+2. Maximum 2-3 sessions per week
+3. True high intensity means near-max effort
+4. Always warm up and cool down
+5. Form matters, even when tired
+6. Combine with other training styles
+
+When done right, HIIT delivers significant benefits in minimal time.
+
+---
+
+*Foundational Rehab incorporates interval training principles into cardio programs where appropriate.*
+    \`
+  },
+  'exercise-for-energy-fatigue': {
+    title: 'Exercise for Energy: How Movement Fights Fatigue',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: \`
+## The Energy Paradox
+
+It seems counterintuitive: You're tired, so you should... exercise?
+
+Yes. Research consistently shows:
+- Regular exercise reduces fatigue
+- Low-intensity exercise is particularly effective
+- Benefits appear within weeks
+- Works even for chronic fatigue conditions
+
+Your body adapts to demands. Inactivity leads to more fatigue; activity builds energy capacity.
+
+## How Exercise Increases Energy
+
+### Mitochondrial Function
+
+- Mitochondria produce cellular energy (ATP)
+- Exercise increases mitochondrial number and efficiency
+- More energy production capacity
+
+### Cardiovascular Efficiency
+
+- Heart pumps more blood per beat
+- Oxygen delivery improves
+- Less effort for daily activities
+
+### Hormone and Neurotransmitter Effects
+
+- Endorphins improve mood and energy perception
+- Serotonin and dopamine boost motivation
+- Cortisol regulation improves
+
+### Sleep Quality
+
+- Better sleep = more energy
+- Exercise improves sleep depth and quality
+- Avoid intense exercise close to bedtime
+
+### Reduced Inflammation
+
+- Chronic inflammation causes fatigue
+- Exercise has anti-inflammatory effects
+
+## Best Types of Exercise for Energy
+
+### Low-Intensity Aerobic
+
+Most effective for fighting fatigue:
+
+- Walking
+- Easy cycling
+- Swimming
+- Gentle yoga
+- Light dancing
+
+**Why it works:** Doesn't exhaust you but still provides adaptation stimulus.
+
+### Moderate Intensity
+
+Once a baseline is established:
+
+- Brisk walking
+- Cycling with some effort
+- Hiking
+- Recreational sports
+
+### Strength Training
+
+Also beneficial:
+
+- Builds functional strength
+- Reduces effort required for daily tasks
+- 2-3 sessions per week
+
+### Mind-Body Exercise
+
+Particularly helpful:
+
+- Yoga
+- Tai chi
+- Qigong
+- Combines movement with relaxation
+
+## When You're Too Tired to Exercise
+
+This is when it matters most:
+
+### The 5-Minute Rule
+
+- Commit to just 5 minutes
+- Often, once you start, you'll continue
+- If you're still exhausted after 5 minutes, stop
+
+### Reduce Intensity
+
+- On low-energy days, do something easier
+- Walking beats sitting
+- Gentle stretching counts
+
+### Don't Wait for Motivation
+
+- Action creates energy
+- Motivation follows movement
+- Start anyway
+
+### Avoid All-or-Nothing Thinking
+
+- Something is always better than nothing
+- 10 minutes counts
+- Consistency over perfection
+
+## Sample Energy-Boosting Routine
+
+### Daily Foundation
+
+**Morning (10 min):**
+- Gentle stretching
+- Light walking
+- Sets a positive tone
+
+**Throughout Day:**
+- Brief movement breaks
+- Walk during calls
+- Stairs instead of elevator
+
+### Structured Exercise (3-5x/week)
+
+**Option A: Walking Program**
+- 20-30 minutes
+- Comfortable pace
+- Outside if possible (natural light helps)
+
+**Option B: Gentle Yoga**
+- 20-30 minutes
+- Flow or hatha style
+- Focus on breath
+
+**Option C: Light Strength Circuit**
+- Bodyweight exercises
+- Higher reps, lower intensity
+- Keep it easy
+
+### Timing Matters
+
+- Morning exercise often provides more energy boost
+- Avoid intense exercise within 3 hours of bedtime
+- Find your personal best time
+
+## Energy-Draining Mistakes
+
+### 1. Overtraining
+
+- Too much exercise depletes energy
+- More isn't always better
+- Build in recovery days
+
+### 2. High Intensity When Exhausted
+
+- Hard workouts when depleted cause more fatigue
+- Match intensity to energy level
+
+### 3. Inconsistency
+
+- Random intense sessions don't help
+- Regular moderate activity works better
+
+### 4. Ignoring Sleep
+
+- Exercise doesn't replace sleep
+- Prioritize 7-9 hours
+
+### 5. Poor Nutrition
+
+- Undereating kills energy
+- Eat enough to fuel activity
+
+## Medical Fatigue Conditions
+
+If you have a medical condition causing fatigue (chronic fatigue syndrome, fibromyalgia, cancer-related fatigue, etc.):
+
+- Exercise still helps, but approach carefully
+- Start much lower than you think
+- Progress very slowly
+- Pacing is essential
+- Work with healthcare providers
+
+See our articles on fibromyalgia, long COVID, and cancer-related fatigue for specific guidance.
+
+## Energy Assessment
+
+Track for a week:
+
+- Energy level (1-10) at different times
+- Exercise done
+- Sleep quality
+- Stress level
+
+Look for patterns. Adjust exercise timing and type based on what you learn.
+
+## Quick Energy Boosters
+
+When you need energy now:
+
+**Desk Break:**
+- Stand up, stretch, walk for 2-3 minutes
+- Instant refreshment
+
+**Deep Breathing:**
+- 5 deep breaths
+- Increases oxygen, decreases stress
+
+**Brief Walk:**
+- 10-minute walk outside
+- Sunlight plus movement
+
+**Movement Snack:**
+- 5 jumping jacks
+- 10 squats
+- Shake out your body
+
+## The Bottom Line
+
+Exercise creates energy, not depletes it:
+
+1. Start with low-intensity movement
+2. Consistency matters more than intensity
+3. On tired days, do something easy—but do something
+4. Action creates motivation
+5. Track your patterns
+6. Don't wait until you feel like it
+
+The fitter you become, the more energy you'll have for everything else.
+
+---
+
+*Foundational Rehab provides gentle programs designed to build energy and reduce fatigue.*
+    \`
+  },
+  'joint-health-exercises': {
+    title: 'Exercises for Joint Health: Keep Your Joints Moving Well',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Why Joint Health Matters
+
+Healthy joints allow you to move freely throughout life. Joint problems lead to:
+- Pain with movement
+- Reduced activity
+- Decreased quality of life
+- Accelerated degeneration
+
+The good news: Exercise is one of the best things you can do for your joints.
+
+## How Exercise Helps Joints
+
+### Cartilage Nutrition
+
+- Cartilage has no blood supply
+- Gets nutrients through compression and release
+- Movement pumps nutrients in, waste out
+- "Motion is lotion"
+
+### Muscle Support
+
+- Strong muscles take load off joints
+- Better shock absorption
+- More stability
+
+### Synovial Fluid
+
+- Joint fluid lubricates and nourishes
+- Movement stimulates production
+- Inactivity leads to "rusty" joints
+
+### Bone Health
+
+- Weight-bearing exercise strengthens bones
+- Reduces joint stress indirectly
+
+## The Three Pillars of Joint Health
+
+### 1. Mobility
+
+Maintaining full range of motion:
+
+- Daily movement through available range
+- Stretching tight muscles
+- Joint circles and mobility drills
+
+### 2. Stability
+
+Control through range of motion:
+
+- Strength training
+- Balance exercises
+- Core stability
+
+### 3. Strength
+
+Muscles that support and protect:
+
+- Progressive resistance training
+- Focus on muscles around problem joints
+- Don't neglect any area
+
+## Joint-Specific Exercises
+
+### Neck
+
+**Mobility:**
+- Chin tucks
+- Neck rotation
+- Lateral flexion
+- Neck circles (gentle)
+
+**Stability:**
+- Isometric holds in all directions
+- Deep neck flexor training
+
+### Shoulders
+
+**Mobility:**
+- Arm circles
+- Wall slides
+- Cross-body stretch
+- Sleeper stretch
+
+**Stability:**
+- Rotator cuff exercises
+- Scapular squeezes
+- Face pulls
+- Y-T-W raises
+
+### Elbows and Wrists
+
+**Mobility:**
+- Wrist circles
+- Wrist flexion/extension
+- Pronation/supination (forearm rotation)
+
+**Strength:**
+- Wrist curls
+- Reverse wrist curls
+- Grip exercises
+
+### Spine
+
+**Mobility:**
+- Cat-cow
+- Rotation in all directions
+- Side bending
+- Extension
+
+**Stability:**
+- Dead bugs
+- Bird dogs
+- Planks
+- Bridges
+
+### Hips
+
+**Mobility:**
+- Hip circles
+- 90/90 stretch
+- Hip flexor stretch
+- Piriformis stretch
+
+**Stability:**
+- Glute bridges
+- Clamshells
+- Single-leg balance
+- Hip airplanes
+
+**Strength:**
+- Squats
+- Lunges
+- Romanian deadlifts
+- Hip thrusts
+
+### Knees
+
+**Mobility:**
+- Heel slides
+- Quad and hamstring stretches
+- IT band foam rolling
+
+**Strength:**
+- Quad sets
+- Straight leg raises
+- Step-ups
+- Squats (appropriate depth)
+- Leg press
+
+**Note:** Knee health depends heavily on hip and ankle function. Address those too.
+
+### Ankles
+
+**Mobility:**
+- Ankle circles
+- Calf stretches
+- Ankle dorsiflexion stretch
+
+**Stability:**
+- Single-leg balance
+- Heel/toe raises
+- Ankle alphabet
+
+**Strength:**
+- Calf raises
+- Resisted ankle exercises
+- Single-leg exercises
+
+## Sample Joint Health Routine
+
+### Daily (10 min)
+
+**Mobility Flow:**
+1. Neck circles and rotations — 30 seconds
+2. Shoulder circles — 30 seconds
+3. Wrist circles — 30 seconds
+4. Cat-cow — 1 minute
+5. Hip circles — 1 minute
+6. Leg swings (forward/side) — 1 minute
+7. Ankle circles — 30 seconds
+8. Squats (bodyweight) — 10 reps
+9. Any tight areas — 2-3 minutes stretching
+
+### 3x/Week (20-30 min)
+
+**Strength for Joint Support:**
+1. Squats — 3x10-15
+2. Bridges or hip thrusts — 3x12-15
+3. Rows — 3x10-12
+4. Push-ups or pressing — 3x10-12
+5. Core (plank, dead bugs) — 2x30 sec/10 reps
+6. Rotator cuff (external rotation) — 2x15
+
+## Low-Impact Options
+
+If joints are currently painful:
+
+### Aquatic Exercise
+
+- Water reduces joint load by up to 90%
+- Full range of motion possible
+- Excellent for arthritis
+- Walking, swimming, water aerobics
+
+### Cycling
+
+- Non-weight-bearing
+- Full knee range of motion
+- Low joint stress
+
+### Elliptical
+
+- Weight-bearing but low impact
+- Full-body movement
+
+### Yoga and Tai Chi
+
+- Controlled movements
+- Flexibility and strength combined
+- Balance improvement
+
+## Red Flags
+
+See a healthcare provider if:
+- Joint pain persists beyond a few days
+- Significant swelling
+- Locking or catching
+- Giving way (instability)
+- Redness and warmth
+- Unable to bear weight
+- Pain that worsens despite rest
+
+## Protecting Joints During Exercise
+
+### General Principles
+
+1. **Warm up** — Always before activity
+2. **Progress gradually** — No sudden increases
+3. **Use proper form** — Quality over quantity
+4. **Don't ignore pain** — Modify or stop
+5. **Vary activities** — Avoid repetitive strain
+6. **Recovery matters** — Rest between hard sessions
+
+### If You Have Arthritis
+
+- Movement helps, but respect pain
+- Morning stiffness: Gentle movement helps
+- Warm up before exercise
+- Ice after if needed
+- Balance activity and rest
+- Work with your healthcare team
+
+## The Bottom Line
+
+Joint health requires consistent attention:
+
+1. Move joints through full range daily
+2. Build strength in surrounding muscles
+3. Include stability work
+4. Choose low-impact options when needed
+5. Listen to pain signals
+6. Consistency over intensity
+
+Your joints were made to move. Keep them moving well.
+
+---
+
+*Foundational Rehab provides joint-friendly programs to maintain mobility and reduce pain.*
+    \`
   }
 };
 

@@ -2597,6 +2597,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read'
+  },
+  {
+    slug: 'strength-training-beginners-guide',
+    title: 'Strength Training for Beginners: How to Start Lifting Safely',
+    excerpt: 'New to weights? This guide covers everything you need to know to start strength training with confidence.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'hiit-beginners-guide',
+    title: 'HIIT for Beginners: High-Intensity Interval Training Made Simple',
+    excerpt: 'HIIT burns calories and builds fitness fast. Here\'s how to start safely and get the most from your workouts.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-energy-fatigue',
+    title: 'Exercise for Energy: How Movement Fights Fatigue',
+    excerpt: 'Feeling tired all the time? The right exercise routine can dramatically boost your energy levels.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'joint-health-exercises',
+    title: 'Exercises for Joint Health: Keep Your Joints Moving Well',
+    excerpt: 'Healthy joints require movement. These exercises maintain mobility, build stability, and protect your joints.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
   }
 ];
 
