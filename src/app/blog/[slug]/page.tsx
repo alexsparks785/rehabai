@@ -64260,6 +64260,1005 @@ Don't underestimate bands—they can build real strength.
 
 *Foundational Rehab incorporates resistance band exercises into many of our strengthening programs.*
     \`
+  },
+  'bodyweight-exercises-no-equipment': {
+    title: 'Bodyweight Exercises: Complete No-Equipment Workout Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## The Power of Bodyweight Training
+
+You don't need equipment to get strong. Bodyweight exercises:
+
+- Work anywhere (home, hotel, park)
+- Cost nothing
+- Build functional strength
+- Improve body control and coordination
+- Can be progressed from beginner to advanced
+- Reduce injury risk (self-limiting)
+
+Many elite athletes use bodyweight training as their foundation.
+
+## Lower Body Exercises
+
+### Squats
+
+**Basic Squat**
+1. Feet shoulder-width apart
+2. Sit back and down
+3. Keep chest up, knees over toes
+4. Lower until thighs parallel (or as low as comfortable)
+5. Stand back up
+
+**Progressions:**
+- Chair squat (touch chair, stand up)
+- Half squat
+- Full squat
+- Pause squat (hold at bottom)
+- Jump squat
+
+### Lunges
+
+**Forward Lunge**
+1. Step forward
+2. Lower back knee toward floor
+3. Front knee stays over ankle
+4. Push back to start
+
+**Variations:**
+- Reverse lunge (step backward)
+- Walking lunge
+- Lateral lunge (side)
+- Curtsy lunge
+
+### Hip Hinges
+
+**Glute Bridge**
+1. Lie on back, knees bent
+2. Push through heels, lift hips
+3. Squeeze glutes at top
+4. Lower with control
+
+**Single-Leg Glute Bridge**
+1. Same as above, one leg extended
+2. Much more challenging
+
+**Hip Hinge**
+1. Stand tall
+2. Push hips back, slight knee bend
+3. Keep back straight
+4. Feel hamstring stretch
+5. Return to standing
+
+### Single-Leg Work
+
+**Step-Up**
+1. Step onto sturdy surface
+2. Stand tall at top
+3. Step down with control
+
+**Single-Leg Deadlift**
+1. Balance on one leg
+2. Hinge forward, other leg goes back
+3. Touch floor if able
+4. Return to standing
+
+**Bulgarian Split Squat**
+1. Rear foot on elevated surface
+2. Lower into lunge
+3. Challenging for quads and glutes
+
+### Calf Exercises
+
+**Calf Raise**
+1. Stand on edge of step
+2. Rise onto toes
+3. Lower below step level
+4. Repeat
+
+**Single-Leg Calf Raise**
+1. Same movement, one leg at a time
+
+## Upper Body Exercises
+
+### Push Exercises
+
+**Push-Up Progression:**
+
+**Wall Push-Up**
+1. Hands on wall, lean in
+2. Easiest variation
+
+**Incline Push-Up**
+1. Hands on elevated surface (bench, stairs)
+2. Easier than floor
+
+**Knee Push-Up**
+1. On knees instead of toes
+2. Keep body straight from knees to shoulders
+
+**Full Push-Up**
+1. Hands under shoulders
+2. Body straight from head to heels
+3. Lower chest to floor
+4. Push back up
+
+**Advanced:**
+- Diamond push-up (hands close)
+- Wide push-up
+- Decline push-up (feet elevated)
+- Archer push-up
+- One-arm push-up (advanced)
+
+**Pike Push-Up (Shoulders)**
+1. Hips high, body in inverted V
+2. Lower head toward floor
+3. Targets shoulders more than chest
+
+### Pull Exercises
+
+Pull exercises are harder without equipment, but possible:
+
+**Doorframe Rows**
+1. Hold doorframe edges
+2. Lean back, arms straight
+3. Pull chest toward door
+4. Control return
+
+**Table Rows (Australian Pull-Up)**
+1. Lie under sturdy table
+2. Grip table edge
+3. Pull chest up toward table
+4. Lower with control
+
+**Towel Curls**
+1. Stand on towel, hold ends
+2. Curl towel up, creating resistance
+
+**If you have a bar:**
+- Inverted rows
+- Pull-ups (assisted to full)
+- Chin-ups
+
+### Core Exercises
+
+**Plank**
+1. Forearms and toes on ground
+2. Body straight
+3. Hold
+
+**Progressions:**
+- Knee plank
+- Full plank
+- Side plank
+- Plank with arm/leg lift
+
+**Dead Bug**
+1. Lie on back, arms up, knees at 90°
+2. Lower opposite arm and leg
+3. Keep back flat
+4. Alternate sides
+
+**Bird Dog**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Hold, return
+4. Alternate
+
+**Mountain Climbers**
+1. Push-up position
+2. Drive knees toward chest alternately
+3. Keep hips level
+
+**Hollow Body Hold**
+1. Lie on back
+2. Arms overhead, legs extended
+3. Lift shoulders and legs off floor
+4. Lower back pressed into floor
+5. Hold
+
+## Sample Workouts
+
+### Beginner Full-Body
+
+**Circuit (3 rounds):**
+1. Chair squats — 10 reps
+2. Incline push-ups — 8 reps
+3. Glute bridges — 12 reps
+4. Dead bugs — 10 each side
+5. Wall sit — 20 seconds
+
+**Rest 60 seconds between rounds**
+
+### Intermediate Full-Body
+
+**Circuit (3-4 rounds):**
+1. Squats — 15 reps
+2. Push-ups — 10-12 reps
+3. Reverse lunges — 10 each leg
+4. Plank — 30 seconds
+5. Single-leg glute bridge — 10 each
+6. Mountain climbers — 20 total
+
+**Rest 45-60 seconds between rounds**
+
+### Advanced Full-Body
+
+**Circuit (4 rounds):**
+1. Jump squats — 12 reps
+2. Diamond push-ups — 10 reps
+3. Bulgarian split squats — 10 each leg
+4. Pike push-ups — 8 reps
+5. Single-leg deadlift — 8 each leg
+6. Hollow body hold — 20 seconds
+7. Burpees — 8 reps
+
+**Rest 45 seconds between rounds**
+
+### Lower Body Focus
+
+1. Squats — 3x15
+2. Reverse lunges — 3x12 each leg
+3. Glute bridges — 3x15
+4. Single-leg deadlift — 3x10 each
+5. Calf raises — 3x20
+6. Wall sit — 3x30 seconds
+
+### Upper Body Focus
+
+1. Push-ups — 3x max (stop 2 before failure)
+2. Pike push-ups — 3x8-10
+3. Table rows — 3x10-12
+4. Plank shoulder taps — 3x10 each side
+5. Tricep dips (on chair) — 3x10-12
+6. Plank — 3x30 seconds
+
+## Progressing Bodyweight Exercises
+
+When exercises get easy:
+
+1. **Add reps** (up to 15-20)
+2. **Add sets** (up to 4-5)
+3. **Slow down** (3 seconds down, pause, 3 seconds up)
+4. **Add pauses** (hold at hardest point)
+5. **Progress to harder variation**
+6. **Reduce rest time**
+7. **Add plyometrics** (jumps)
+
+## Common Mistakes
+
+1. **Going too fast** — Control the movement
+2. **Partial range of motion** — Use full range when possible
+3. **Poor form** — Quality over quantity
+4. **Skipping warm-up** — 5-10 minutes of movement first
+5. **Neglecting progression** — Increase challenge over time
+
+## The Bottom Line
+
+Bodyweight training is:
+
+1. Accessible anywhere, anytime
+2. Effective for building strength
+3. Progressable from beginner to advanced
+4. Functional and transferable to daily life
+5. A complete training system on its own
+
+No excuses—your body is your gym.
+
+---
+
+*Foundational Rehab incorporates bodyweight exercises into many programs for accessibility and effectiveness.*
+    \`
+  },
+  'exercise-habit-motivation': {
+    title: 'How to Make Exercise a Habit: The Psychology of Sticking With It',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: \`
+## Why Consistency Is the Real Challenge
+
+Most people know exercise is good for them. The problem isn't knowledge—it's consistency.
+
+**The statistics are sobering:**
+- 50% of people who start exercising quit within 6 months
+- Most gym memberships go unused
+- January motivation fades by February
+
+But some people do stick with it. What's different about them?
+
+## The Science of Habit Formation
+
+### How Habits Work
+
+**The Habit Loop:**
+1. **Cue:** Trigger that initiates behavior
+2. **Routine:** The behavior itself
+3. **Reward:** What you get from the behavior
+
+To build an exercise habit, you need to engineer all three.
+
+### Making It Automatic
+
+The goal is to make exercise as automatic as brushing your teeth. This takes:
+- Consistent cues
+- Reduced friction
+- Immediate rewards
+- Time (usually 2-3 months)
+
+## Strategy 1: Make It Obvious (The Cue)
+
+### Habit Stacking
+
+Attach exercise to an existing habit:
+- "After I pour my morning coffee, I do 10 squats"
+- "After I get home from work, I change into workout clothes"
+- "After lunch, I walk for 15 minutes"
+
+### Environment Design
+
+- Lay out workout clothes the night before
+- Keep equipment visible and accessible
+- Set up a dedicated workout space
+- Remove barriers between you and exercise
+
+### Scheduling
+
+- Put workouts in your calendar like appointments
+- Same time each day if possible
+- Treat it as non-negotiable
+
+## Strategy 2: Make It Easy (The Routine)
+
+### The 2-Minute Rule
+
+Make starting so easy you can't say no:
+- Put on workout shoes (you don't have to work out)
+- Do one push-up
+- Walk to the end of the driveway
+
+**The key:** Often, once you start, you'll continue.
+
+### Reduce Friction
+
+- Gym too far? Work out at home
+- No time for an hour? Do 15 minutes
+- Don't like running? Find something you don't hate
+
+### Scale Down
+
+When motivation is low, do a scaled-down version:
+- Full workout → 10 minutes of movement
+- 5-mile run → Walk around the block
+- Heavy lifting → Bodyweight exercises
+
+**Never zero.** Something always beats nothing.
+
+### Remove Decision Fatigue
+
+- Have a planned workout (don't decide in the moment)
+- Wear the same workout clothes
+- Exercise at the same time daily
+
+## Strategy 3: Make It Attractive (The Reward)
+
+### Immediate Rewards
+
+Exercise benefits are mostly long-term. Add immediate rewards:
+- Listen to favorite podcast only during workouts
+- Watch guilty pleasure shows only while on treadmill
+- Enjoy post-workout coffee or smoothie
+- Take a relaxing shower after
+
+### Temptation Bundling
+
+Pair something you want to do with exercise:
+- Audiobooks + walking
+- Music + lifting
+- Social time + group fitness
+
+### Track Progress
+
+Seeing progress is rewarding:
+- Log workouts
+- Track strength gains
+- Note how you feel
+- Celebrate milestones
+
+## Strategy 4: Make It Satisfying (Reinforcement)
+
+### Don't Break the Chain
+
+- Mark an X on a calendar for each workout day
+- Build a streak
+- The visual chain becomes motivating
+
+### Celebrate Small Wins
+
+- Acknowledge each workout
+- Don't dismiss progress
+- Small rewards for consistency
+
+### Identity-Based Habits
+
+Instead of "I'm trying to exercise more," think:
+- "I'm a person who exercises"
+- "I'm an athlete"
+- "I don't skip workouts"
+
+Act like the person you want to become.
+
+## Common Obstacles and Solutions
+
+### "I don't have time"
+
+- Something is better than nothing (10 minutes counts)
+- Schedule it like an important meeting
+- Wake up 30 minutes earlier
+- Exercise during lunch
+
+### "I'm too tired"
+
+- Exercise often creates energy
+- Try exercising in the morning (before fatigue)
+- Do less on tired days, but do something
+- Low-energy workout is still a workout
+
+### "I'm not motivated"
+
+- Motivation follows action (start, and motivation comes)
+- Don't wait to feel like it
+- Use the 2-minute rule
+- Remember: discipline > motivation
+
+### "I keep falling off"
+
+- Missing one day isn't failure
+- Never miss twice in a row
+- Get back on immediately
+- Expect setbacks; plan for them
+
+### "I don't see results"
+
+- Results take time (give it 8-12 weeks)
+- Focus on process, not outcome
+- Track non-scale victories (energy, strength, mood)
+- Enjoy the journey
+
+## The Motivation Myth
+
+**Motivation is unreliable.** It comes and goes.
+
+What actually works:
+- **Systems:** Reliable processes that don't require motivation
+- **Environment:** Set up your surroundings to make exercise easier
+- **Identity:** Become someone who exercises, rather than someone trying to exercise
+- **Discipline:** Do it whether you feel like it or not
+
+## Practical Action Plan
+
+### Week 1: Set Up
+
+- Choose exercise type you don't hate
+- Pick a consistent time
+- Prepare environment (lay out clothes, clear space)
+- Start very small (5-10 minutes)
+
+### Week 2-4: Build Consistency
+
+- Focus on showing up, not performance
+- Use habit stacking
+- Track with calendar X's
+- Add immediate rewards
+
+### Month 2-3: Solidify
+
+- Gradually increase duration/intensity
+- Identity shift ("I'm someone who exercises")
+- Handle missed days (never miss twice)
+- Notice how you feel when you skip
+
+### Month 4+: Maintain
+
+- It becomes easier (more automatic)
+- Adjust as life changes
+- Continue tracking
+- Explore new challenges
+
+## The Bottom Line
+
+Building an exercise habit is about:
+
+1. Making it obvious (cue)
+2. Making it easy (routine)
+3. Making it attractive (reward)
+4. Doing it consistently (discipline)
+
+Start small, stay consistent, and let time do the work. The habit will form.
+
+---
+
+*Foundational Rehab provides programs designed to fit into your life and become lasting habits.*
+    \`
+  },
+  'home-workout-guide-no-gym': {
+    title: 'Home Workout Guide: Build a Complete Fitness Routine Without a Gym',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Why Home Workouts Work
+
+Working out at home offers real advantages:
+
+- **No commute** — More time for actual exercise
+- **No cost** — Save on gym membership
+- **No waiting** — Equipment always available
+- **No excuses** — It's right there
+- **Privacy** — No one watching
+- **Convenience** — Fit it in anytime
+
+With the right approach, home workouts can be just as effective as gym workouts.
+
+## Setting Up Your Space
+
+### Minimum Requirements
+
+- Enough floor space for a yoga mat
+- Sturdy surface for step-ups
+- Wall for wall exercises
+- That's it!
+
+### Ideal Setup
+
+- Designated workout area (even a corner)
+- Exercise mat
+- Clear of clutter
+- Good lighting
+- Ventilation or fan
+
+### Nice to Have
+
+- Mirror for form check
+- Speaker for music
+- TV for workout videos
+- Storage for equipment
+
+## Equipment Options
+
+### No Equipment Needed
+
+You can build a complete fitness program with bodyweight alone:
+- Squats, lunges, step-ups
+- Push-ups, dips, planks
+- Glute bridges, bird dogs
+- Jumping jacks, burpees
+
+### Minimal Investment ($20-50)
+
+**Resistance bands:**
+- Versatile, full-body training
+- Multiple resistance levels
+- Portable
+
+**Yoga mat:**
+- Floor comfort
+- Defines your workout space
+
+### Moderate Investment ($50-150)
+
+**Add:**
+- Adjustable dumbbells or kettlebell
+- Pull-up bar (doorframe)
+- Jump rope
+
+### Home Gym ($200+)
+
+**Consider:**
+- Adjustable dumbbell set
+- Bench
+- Barbell and plates
+- Suspension trainer (TRX style)
+- Rowing machine or bike
+
+## Structuring Your Week
+
+### Beginner (3 Days)
+
+**Monday:** Full body strength
+**Wednesday:** Cardio/mobility
+**Friday:** Full body strength
+
+### Intermediate (4 Days)
+
+**Monday:** Upper body
+**Tuesday:** Lower body
+**Thursday:** Upper body
+**Friday:** Lower body
+**Other days:** Light activity, stretching
+
+### Advanced (5-6 Days)
+
+**Monday:** Push (chest, shoulders, triceps)
+**Tuesday:** Pull (back, biceps)
+**Wednesday:** Legs
+**Thursday:** Push
+**Friday:** Pull
+**Saturday:** Legs or full body
+
+Always include at least one rest day.
+
+## Sample Home Workouts
+
+### Beginner Full Body (No Equipment)
+
+**Warm-up (5 min):**
+- Marching in place
+- Arm circles
+- Hip circles
+- Leg swings
+
+**Workout (20 min):**
+1. Squats — 3x12
+2. Wall or incline push-ups — 3x8-10
+3. Glute bridges — 3x12
+4. Plank — 3x20 seconds
+5. Reverse lunges — 3x10 each leg
+6. Dead bugs — 3x10 each side
+
+**Cooldown (5 min):**
+- Stretching all major muscle groups
+
+### Intermediate Full Body (Minimal Equipment)
+
+**Warm-up (5 min)**
+
+**Workout (30 min):**
+1. Goblet squats (dumbbell) — 3x12
+2. Push-ups — 3x10-15
+3. Dumbbell rows — 3x12 each arm
+4. Romanian deadlift (dumbbells) — 3x12
+5. Shoulder press (dumbbells) — 3x10
+6. Plank shoulder taps — 3x10 each side
+7. Calf raises — 3x15
+
+**Cooldown (5 min)**
+
+### Cardio Options at Home
+
+**No equipment:**
+- Jumping jacks
+- High knees
+- Burpees
+- Mountain climbers
+- Squat jumps
+- Dance
+
+**Sample HIIT (20 min):**
+- 30 seconds work, 15 seconds rest
+- 10 exercises, 3 rounds:
+1. Jumping jacks
+2. Squats
+3. Push-ups
+4. High knees
+5. Lunges (alternating)
+6. Plank
+7. Burpees
+8. Mountain climbers
+9. Squat jumps
+10. Bicycle crunches
+
+### Low-Impact Cardio
+
+- Walking in place or around home
+- Marching with arm movements
+- Step-ups on stairs
+- Low-impact aerobics
+- Stationary cycling
+
+## Workout Videos and Apps
+
+Great for guidance and motivation:
+
+**Free options:**
+- YouTube fitness channels
+- Many free workout apps
+
+**When choosing:**
+- Match to your fitness level
+- Clear instruction and form cues
+- Realistic time frames
+- Exercises you can do with your equipment
+
+## Staying Motivated at Home
+
+### Challenges
+
+- Distractions
+- Lack of energy/motivation
+- No one watching = easy to quit
+- Hard to progress without equipment
+
+### Solutions
+
+- **Schedule workouts** like appointments
+- **Dedicated space** (visual cue)
+- **Workout clothes** — put them on
+- **Music or video** — make it enjoyable
+- **Track progress** — see improvement
+- **Join virtual classes** — accountability
+- **Partner** — workout with someone (in person or virtually)
+
+## Progressing at Home
+
+Without heavy weights, progress by:
+
+1. **More reps** (up to 15-20)
+2. **More sets** (up to 4-5)
+3. **Slower tempo** (3 seconds down, 3 seconds up)
+4. **Pauses** (hold at hardest point)
+5. **Harder variations** (single leg, etc.)
+6. **Less rest** between sets
+7. **Adding resistance** (bands, dumbbells)
+
+## Common Mistakes
+
+1. **Skipping warm-up** — Always warm up 5-10 min
+2. **No plan** — Have a workout before you start
+3. **Too easy, too long** — Better to work harder for less time
+4. **Poor form** — Use mirrors or video for feedback
+5. **Not progressing** — Increase challenge over time
+6. **Giving up** — Consistency beats perfection
+
+## The Bottom Line
+
+Home workouts can be just as effective as gym workouts:
+
+1. You don't need much space or equipment
+2. Structure your week with intention
+3. Use bodyweight, bands, or minimal equipment
+4. Progress by increasing difficulty
+5. Stay motivated with scheduling and tracking
+
+The best workout is the one you actually do. Home workouts remove barriers and make fitness accessible.
+
+---
+
+*Foundational Rehab provides home-friendly programs you can do with minimal or no equipment.*
+    \`
+  },
+  'prehab-exercises-before-surgery': {
+    title: 'Prehab: How Exercise Before Surgery Improves Your Recovery',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: \`
+## What Is Prehab?
+
+Prehabilitation (prehab) is exercise and preparation before surgery. The concept is simple:
+
+**The stronger and fitter you are before surgery, the better you'll recover after.**
+
+Research supports this across many surgery types:
+- Joint replacements
+- Heart surgery
+- Abdominal surgery
+- Cancer surgery
+- Spinal surgery
+
+## Why Prehab Works
+
+### Physical Benefits
+
+- **Stronger muscles** — Less weakness after surgery
+- **Better cardiovascular fitness** — Handle surgery stress better
+- **Improved range of motion** — Easier rehab after
+- **Better nutrition** — Improved healing capacity
+
+### Psychological Benefits
+
+- **Less anxiety** — Preparation reduces fear
+- **More control** — Active role in recovery
+- **Realistic expectations** — Know what's coming
+- **Better coping** — Skills for post-op challenges
+
+### Recovery Benefits
+
+- **Shorter hospital stays**
+- **Fewer complications**
+- **Faster return to function**
+- **Less pain medication needed**
+- **Better long-term outcomes**
+
+## General Prehab Principles
+
+### 1. Start Early
+
+Ideally 4-8 weeks before surgery. Even 2 weeks helps.
+
+### 2. Get Cleared
+
+Talk to your surgeon before starting. They'll advise on:
+- Activities to avoid
+- Any restrictions
+- Specific focus areas
+
+### 3. Focus on Relevant Areas
+
+Target muscles and functions affected by your surgery.
+
+### 4. Include Cardio
+
+Cardiovascular fitness helps you handle surgery and recover faster.
+
+### 5. Practice Post-Op Movements
+
+Learn exercises you'll do after surgery while you can do them pain-free.
+
+## Prehab for Common Surgeries
+
+### Knee Replacement
+
+**Focus:** Quad strength, range of motion, walking endurance
+
+**Key exercises:**
+- Quad sets (tighten thigh, hold 5 seconds)
+- Straight leg raises
+- Heel slides
+- Mini squats
+- Stationary cycling
+- Walking
+
+**Goal:** Strong quads and full extension before surgery
+
+### Hip Replacement
+
+**Focus:** Hip and core strength, walking endurance
+
+**Key exercises:**
+- Bridges
+- Clamshells
+- Hip abduction (leg lifts to side)
+- Mini squats
+- Core exercises (dead bugs, bird dogs)
+- Walking or cycling
+
+### Shoulder/Rotator Cuff Surgery
+
+**Focus:** Shoulder strength and mobility
+
+**Key exercises:**
+- Rotator cuff strengthening (external/internal rotation)
+- Scapular exercises
+- Range of motion (as tolerated)
+- Posture exercises
+
+**Note:** If in pain, focus on what you can do without increasing symptoms.
+
+### Spinal Surgery
+
+**Focus:** Core stability, leg strength
+
+**Key exercises:**
+- Dead bugs
+- Bird dogs
+- Bridges
+- Walking
+- Pelvic tilts
+- Leg strengthening
+
+**Avoid:** Movements that increase your pain or are restricted by your surgeon.
+
+### Abdominal/Cancer Surgery
+
+**Focus:** Overall fitness, breathing
+
+**Key exercises:**
+- Walking (as much as tolerable)
+- Breathing exercises
+- General strength training
+- Core activation (gentle)
+
+### Cardiac Surgery
+
+**Focus:** Cardiovascular fitness, upper body strength
+
+**Key exercises:**
+- Walking or supervised cardio
+- Light upper body exercises
+- Breathing exercises
+- May need supervised program
+
+## Sample Prehab Program
+
+### 4-6 Weeks Before Surgery
+
+**Daily:**
+- Walking 20-30 minutes
+- Gentle stretching
+
+**3x/week:**
+- Strength exercises targeting surgery area
+- Core exercises
+- 20-30 minutes
+
+### 2-4 Weeks Before Surgery
+
+**Daily:**
+- Walking 30+ minutes
+- Stretching
+- Practice post-op exercises (learn them now)
+
+**3x/week:**
+- Continue strength program
+- May increase intensity if tolerated
+
+### 1 Week Before Surgery
+
+- Maintain activity but don't overdo it
+- Focus on rest and nutrition
+- Practice deep breathing
+- Ensure home is ready for recovery
+
+## Nutrition in Prehab
+
+Good nutrition supports recovery:
+
+- **Protein** — For muscle and tissue repair
+- **Vitamins C and D** — Wound healing and immune function
+- **Zinc** — Healing
+- **Adequate calories** — Energy for recovery
+
+If you smoke, quitting before surgery significantly improves outcomes.
+
+## Psychological Preparation
+
+- Learn about your surgery and recovery
+- Practice relaxation techniques
+- Visualize successful recovery
+- Set up post-op support (help at home, etc.)
+- Ask questions—know what to expect
+
+## What If I'm Already in Pain?
+
+Pain can limit prehab, but:
+
+- Do what you can without increasing symptoms
+- Water exercise may be tolerated better
+- Focus on unaffected areas (cardiovascular, other limbs)
+- Isometric exercises may be tolerable
+- Something is better than nothing
+
+## When to Start
+
+**Ideal:** 6-8 weeks before surgery
+**Good:** 4 weeks before
+**Helpful:** Even 2 weeks before
+
+Don't skip prehab even if surgery is soon. Any preparation helps.
+
+## The Bottom Line
+
+Prehab is one of the best things you can do for your surgical outcome:
+
+1. Start as early as possible
+2. Focus on surgery-specific exercises
+3. Include cardiovascular fitness
+4. Practice post-op exercises before surgery
+5. Address nutrition and mental preparation
+6. Clear your plan with your surgeon
+
+Going into surgery fit and prepared sets you up for the best possible recovery.
+
+---
+
+*Foundational Rehab offers surgery-specific prehab programs to prepare you for the best possible recovery.*
+    \`
   }
 };
 

@@ -2561,6 +2561,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read'
+  },
+  {
+    slug: 'bodyweight-exercises-no-equipment',
+    title: 'Bodyweight Exercises: Complete No-Equipment Workout Guide',
+    excerpt: 'No gym? No problem. Build strength anywhere with these effective bodyweight exercises for every muscle group.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-habit-motivation',
+    title: 'How to Make Exercise a Habit: The Psychology of Sticking With It',
+    excerpt: 'Most people struggle with consistency, not knowledge. Here\'s how to build an exercise habit that actually lasts.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'home-workout-guide-no-gym',
+    title: 'Home Workout Guide: Build a Complete Fitness Routine Without a Gym',
+    excerpt: 'Everything you need to get fit at home—space setup, equipment options, and effective workout routines.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'prehab-exercises-before-surgery',
+    title: 'Prehab: How Exercise Before Surgery Improves Your Recovery',
+    excerpt: 'The fitter you are before surgery, the better you\'ll recover after. Here\'s how to prepare your body.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
   }
 ];
 
