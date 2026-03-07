@@ -13,6 +13,908 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'stretching-for-runners': {
+    title: 'Stretching for Runners: Complete Pre and Post Run Routines',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Runners Need to Stretch
+
+Running is repetitive—your legs repeat the same motion thousands of times per run. This creates:
+
+- Tight hip flexors
+- Tight hamstrings
+- Tight calves
+- Tight IT band area
+- Tight quadriceps
+
+Without addressing this tightness, injury risk increases and performance suffers.
+
+## Pre-Run: Dynamic Stretching
+
+Static stretching before running can reduce power and doesn't prevent injury as well as dynamic warmup. Instead, use movement-based stretching.
+
+### The Pre-Run Routine (5-10 minutes)
+
+**Walking (2-3 minutes):**
+Start with a brisk walk to raise body temperature.
+
+**Leg Swings - Front to Back:**
+1. Hold something for support
+2. Swing leg forward and back
+3. Gradually increase range
+4. 15-20 swings each leg
+
+**Leg Swings - Side to Side:**
+1. Face your support
+2. Swing leg across body and out
+3. 15-20 swings each leg
+
+**Walking Knee Hugs:**
+1. Pull knee to chest while walking
+2. Alternate legs
+3. 10 each leg
+
+**Walking Quad Pulls:**
+1. Pull heel to buttock while walking
+2. Alternate legs
+3. 10 each leg
+
+**Walking Lunges:**
+1. Step into lunge position
+2. Push up and forward to next lunge
+3. 10 each leg
+
+**High Knees:**
+1. March or jog, lifting knees high
+2. 20 total
+
+**Butt Kicks:**
+1. Jog while kicking heels toward buttocks
+2. 20 total
+
+**A-Skips:**
+1. Skip while driving knee up
+2. Focus on rhythm
+3. 10-15 each leg
+
+### Build-Up Runs
+
+Before fast workouts:
+1. Jog easy 3-5 minutes
+2. 2-3 strides at increasing pace (50%, 75%, 90%)
+3. Walk recovery between
+
+## Post-Run: Static Stretching
+
+After running, muscles are warm and ready for static stretching. This is the time for longer holds.
+
+### The Post-Run Routine (10-15 minutes)
+
+**Hip Flexor Stretch:**
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Lean forward
+4. 45-60 seconds each side
+
+**Hamstring Stretch:**
+1. Sit with one leg extended
+2. Reach toward foot
+3. Keep back straight
+4. 45-60 seconds each side
+
+Or standing: foot elevated, hinge forward at hips.
+
+**Quadriceps Stretch:**
+1. Stand, hold support
+2. Pull heel to buttock
+3. Keep knees together
+4. 45-60 seconds each side
+
+**Calf Stretch - Gastrocnemius:**
+1. Wall stretch, back leg straight
+2. Keep heel down
+3. 45-60 seconds each side
+
+**Calf Stretch - Soleus:**
+1. Same position, bend back knee
+2. Keep heel down
+3. Feel stretch lower in calf
+4. 45-60 seconds each side
+
+**IT Band Area Stretch:**
+1. Cross one leg behind the other
+2. Lean away from back leg
+3. Push hip out
+4. 30-45 seconds each side
+
+Or: Foam roll IT band area and glutes.
+
+**Piriformis/Glute Stretch:**
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull thigh toward chest
+4. 45-60 seconds each side
+
+**Hip Flexor with Twist:**
+1. Low lunge position
+2. Rotate torso toward front leg
+3. 30-45 seconds each side
+
+## Foam Rolling for Runners
+
+Adding foam rolling enhances recovery:
+
+**Key Areas:**
+- Calves: 1-2 minutes each
+- Quads: 1-2 minutes each
+- Hamstrings: 1-2 minutes each
+- Glutes: 1-2 minutes each
+- IT band area (or roll quads/glutes instead)
+
+Roll before stretching for best results.
+
+## Key Areas for Runners
+
+### Hip Flexors
+
+Tight from repetitive motion. Stretch after every run.
+
+### Calves
+
+Work hard with every step. Both gastrocnemius and soleus need attention.
+
+### Hamstrings
+
+Often tight in runners. Address regularly.
+
+### Glutes/Piriformis
+
+Critical for power and injury prevention.
+
+### IT Band Area
+
+Often problematic. Strengthen hips rather than just stretching.
+
+## Injury Prevention Tips
+
+### Strength Training
+
+Strong hips prevent most running injuries:
+- Clamshells
+- Side-lying leg raises
+- Single-leg bridges
+- Lunges
+
+### Don't Overdo Mileage
+
+Follow the 10% rule—increase weekly mileage no more than 10%.
+
+### Address Tightness Early
+
+Don't ignore building tightness. Address it before it becomes injury.
+
+### Rest and Recovery
+
+Rest days matter. Don't run through pain.
+
+## Sample Weekly Approach
+
+### Every Run
+
+- Pre-run: Dynamic warmup (5-10 min)
+- Post-run: Static stretching (10-15 min)
+
+### 2-3 Times Per Week
+
+- Foam rolling session (10-15 min)
+- Hip strengthening exercises
+
+### Weekly
+
+- One longer stretching session (20-30 min)
+- Focus on problem areas
+
+## The Bottom Line
+
+Runners benefit from dynamic stretching before runs and static stretching after. Focus on hip flexors, hamstrings, calves, and glutes. Add foam rolling and hip strengthening for complete injury prevention. Consistency matters—stretch after every run, not just when something hurts.
+`
+  },
+  'stretching-for-lifters': {
+    title: 'Stretching for Weight Lifters: Mobility for Better Gains',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Lifters Need Mobility
+
+Tight muscles limit your range of motion, which limits your lifts:
+
+- Tight hips prevent deep squats
+- Tight shoulders limit overhead pressing
+- Tight ankles cause squat form breakdown
+- Tight lats restrict front squats and overhead movements
+- Tight chest pulls shoulders forward
+
+Better mobility = better positions = stronger, safer lifts.
+
+## Mobility for Squats
+
+### Ankle Mobility
+
+Poor ankle mobility causes heels to rise, torso to lean forward, or inability to squat deep.
+
+**Wall Ankle Mobilization:**
+1. Face wall, foot a few inches away
+2. Drive knee toward wall, keeping heel down
+3. 15-20 reps each side
+4. Progress by moving foot farther from wall
+
+**Banded Ankle Mobilization:**
+1. Band around front of ankle, anchored behind
+2. Same movement as above
+3. Band pulls ankle into better position
+4. 15-20 reps each side
+
+### Hip Mobility
+
+**Deep Squat Hold:**
+1. Squat to bottom position
+2. Use elbows to push knees out
+3. Hold 30-60 seconds
+4. Work toward comfortable deep squat
+
+**90-90 Stretch:**
+1. Front leg bent 90° in front
+2. Back leg bent 90° to side
+3. Sit tall, lean forward
+4. 45-60 seconds each side
+
+**Pigeon Pose:**
+1. Front shin across body
+2. Back leg extended
+3. Fold forward as able
+4. 45-60 seconds each side
+
+### Hip Flexor Stretch
+
+**Couch Stretch:**
+1. Rear foot on bench or wall behind
+2. Front foot forward in lunge
+3. Stay upright, squeeze glute
+4. 60-90 seconds each side
+
+## Mobility for Deadlifts
+
+### Hamstring Flexibility
+
+**Standing Hamstring Stretch:**
+1. Foot elevated on surface
+2. Keep back straight
+3. Hinge at hips
+4. 45-60 seconds each side
+
+**Seated Hamstring Stretch:**
+1. One leg extended
+2. Reach toward foot
+3. 45-60 seconds each side
+
+### Hip Hinge Pattern
+
+**Good Morning Stretch:**
+1. Hands behind head
+2. Push hips back, keep back straight
+3. Feel stretch in hamstrings
+4. 15-20 reps as warmup
+
+## Mobility for Pressing
+
+### Shoulder Mobility
+
+**Wall Slides:**
+1. Back against wall
+2. Arms in goalpost position
+3. Slide arms up and down
+4. Maintain wall contact
+5. 15 reps
+
+**Shoulder Dislocates:**
+1. Hold band or stick wide
+2. Raise overhead and behind body
+3. Keep arms straight
+4. 10-15 reps
+5. Narrow grip as mobility improves
+
+### Chest and Front Shoulder
+
+**Doorway Stretch:**
+1. Arm on door frame
+2. Step through
+3. 30-45 seconds each side
+4. Try different arm heights
+
+### Lat Flexibility
+
+**Hanging Stretch:**
+1. Hang from bar (feet can touch floor)
+2. Let body weight stretch lats
+3. 20-30 seconds
+
+**Child's Pose with Reach:**
+1. Kneel, sit back, reach forward
+2. Walk hands to one side for lateral stretch
+3. 30-45 seconds each side
+
+### Thoracic Mobility
+
+**Thoracic Extension on Foam Roller:**
+1. Roller across upper back
+2. Hands behind head
+3. Extend back over roller
+4. Move roller to different positions
+5. 10 reps at each spot
+
+**Cat-Cow:**
+1. On hands and knees
+2. Round back up, then arch down
+3. Focus on upper back movement
+4. 15-20 reps
+
+## Pre-Workout Routine
+
+### General (5-10 minutes)
+
+1. Light cardio: 3-5 minutes (bike, row, walk)
+2. Foam roll: Major muscle groups (5 min)
+3. Dynamic stretches for today's movements
+
+### For Squat Day
+
+1. Ankle mobilization: 15 reps each
+2. Hip circles: 10 each direction
+3. Bodyweight squats: 15 reps
+4. Deep squat holds: 30 seconds
+5. Hip flexor stretch: 30 seconds each
+6. Warmup sets with bar
+
+### For Bench Day
+
+1. Arm circles: 15 each direction
+2. Wall slides: 15 reps
+3. Doorway stretch: 30 seconds each
+4. Band pull-aparts: 20 reps
+5. Thoracic extension: 10 reps
+6. Warmup sets with bar
+
+### For Deadlift Day
+
+1. Hip hinge practice: 15 reps
+2. Leg swings: 15 each leg
+3. Hamstring stretch: 30 seconds each
+4. Hip circles: 10 each direction
+5. Cat-cow: 10 reps
+6. Warmup sets
+
+### For Overhead Press Day
+
+1. Shoulder dislocates: 15 reps
+2. Wall slides: 15 reps
+3. Lat stretch: 30 seconds each side
+4. Thoracic extension: 10 reps
+5. Band pull-aparts: 20 reps
+6. Warmup sets
+
+## Post-Workout Stretching
+
+After lifting, static stretch the muscles worked:
+
+1. Hold stretches 45-60 seconds
+2. Focus on muscles that felt tight during lifts
+3. Add foam rolling for tight areas
+
+## Common Mobility Issues by Lift
+
+### Squat
+
+- **Problem:** Can't hit depth
+- **Causes:** Ankle, hip, or hip flexor tightness
+- **Focus:** Ankle mobility, hip openers, couch stretch
+
+### Deadlift
+
+- **Problem:** Rounded back
+- **Causes:** Hamstring tightness, poor hip hinge
+- **Focus:** Hamstring stretches, hip hinge practice
+
+### Bench Press
+
+- **Problem:** Shoulder discomfort
+- **Causes:** Tight pecs, poor thoracic extension
+- **Focus:** Chest stretches, thoracic mobility
+
+### Overhead Press
+
+- **Problem:** Can't lock out overhead
+- **Causes:** Lat tightness, poor thoracic extension
+- **Focus:** Lat stretches, thoracic work
+
+## The Bottom Line
+
+Mobility work makes you a better lifter. Warm up with movement and dynamic stretches, address your specific limitations, and stretch after lifting. Invest 10-15 minutes per session in mobility, and you'll lift heavier and safer.
+`
+  },
+  'stretching-for-seniors': {
+    title: 'Stretching for Seniors: Safe and Effective Flexibility Exercises',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Flexibility Matters as We Age
+
+Flexibility naturally decreases with age, but staying flexible is crucial for:
+
+- Maintaining independence
+- Performing daily activities
+- Reducing fall risk
+- Decreasing pain and stiffness
+- Staying active and mobile
+
+The good news: flexibility can be improved at any age with consistent practice.
+
+## Safety First
+
+### General Guidelines
+
+- Warm up before stretching (walk, march in place)
+- Never stretch to pain—mild tension only
+- Breathe continuously, never hold breath
+- Move slowly and controlled
+- Use support (chair, wall) when needed
+- Stop if something doesn't feel right
+- Stay hydrated
+
+### When to Avoid Stretching
+
+- Acute injury or inflammation
+- Recent surgery (follow doctor's guidance)
+- Severe osteoporosis (some positions)
+- If a position causes sharp pain
+
+### Consult Your Doctor
+
+Before starting a new exercise program, especially if you have:
+- Heart conditions
+- Severe arthritis
+- Balance problems
+- Recent joint replacement
+- Any medical concerns
+
+## Seated Stretches
+
+These can be done in a sturdy chair without wheels.
+
+### Neck Stretches
+
+**Ear to Shoulder:**
+1. Sit tall
+2. Gently drop right ear toward right shoulder
+3. Hold 20-30 seconds
+4. Switch sides
+
+**Chin Tuck:**
+1. Pull chin straight back (make double chin)
+2. Hold 5 seconds
+3. Repeat 10 times
+
+**Neck Turns:**
+1. Slowly turn to look over each shoulder
+2. Hold 15-20 seconds each side
+
+### Shoulder and Arm Stretches
+
+**Shoulder Rolls:**
+1. Roll shoulders forward 5 times
+2. Roll backward 5 times
+3. Full, slow circles
+
+**Overhead Reach:**
+1. Clasp hands together
+2. Reach overhead
+3. Hold 20-30 seconds
+
+**Cross-Body Arm Stretch:**
+1. Pull one arm across chest
+2. Hold 20-30 seconds each side
+
+### Back Stretches
+
+**Seated Cat-Cow:**
+1. Hands on knees
+2. Round back forward, chin to chest
+3. Then arch back gently, look up
+4. Repeat 10 times slowly
+
+**Seated Twist:**
+1. Place right hand on outside of left knee
+2. Gently twist to left
+3. Hold 20-30 seconds each side
+
+### Hip and Leg Stretches
+
+**Seated Figure-4:**
+1. Cross right ankle over left knee
+2. Sit tall
+3. Gentle lean forward
+4. Hold 30 seconds each side
+
+**Seated Hamstring Stretch:**
+1. Extend one leg, heel on floor
+2. Keep back straight
+3. Lean forward from hips
+4. Hold 30 seconds each side
+
+**Ankle Circles:**
+1. Lift one foot
+2. Circle ankle slowly
+3. 10 circles each direction, each foot
+
+## Standing Stretches
+
+Use a sturdy chair or wall for support.
+
+### Calf Stretch
+
+1. Face wall, hands on wall
+2. Step one foot back, keep it straight
+3. Bend front knee
+4. Keep back heel down
+5. Hold 30 seconds each side
+
+### Quadriceps Stretch
+
+1. Hold chair or wall
+2. Bend one knee, grab ankle
+3. Gently pull heel toward buttock
+4. Hold 30 seconds each side
+
+If unable to reach ankle, loop a towel around the ankle.
+
+### Hip Flexor Stretch
+
+1. Hold support
+2. Step one foot back
+3. Tuck tailbone under
+4. Feel stretch in front of back hip
+5. Hold 30 seconds each side
+
+### Side Stretch
+
+1. Hold support with one hand
+2. Raise other arm overhead
+3. Lean away from raised arm
+4. Hold 20-30 seconds each side
+
+## Floor Stretches (If Able)
+
+If comfortable getting to floor, these are excellent options.
+
+### Knee to Chest
+
+1. Lie on back
+2. Pull one knee to chest
+3. Hold 30 seconds each leg
+4. Then pull both knees in
+
+### Supine Twist
+
+1. Lie on back, knees bent
+2. Drop both knees to one side
+3. Keep shoulders flat
+4. Hold 30 seconds each side
+
+### Cat-Cow
+
+1. On hands and knees
+2. Round back up, then arch down
+3. Move slowly
+4. 10-15 reps
+
+### Child's Pose
+
+1. Kneel, sit back toward heels
+2. Reach arms forward
+3. Rest forehead on floor (or pillow)
+4. Hold 30-60 seconds
+
+## The Daily Routine (15-20 minutes)
+
+### Warm-Up (3 minutes)
+
+1. March in place
+2. Arm circles
+3. Shoulder rolls
+
+### Neck and Shoulders (3 minutes)
+
+1. Neck turns: 20 sec each
+2. Ear to shoulder: 20 sec each
+3. Shoulder rolls: 10 total
+4. Overhead reach: 20 seconds
+
+### Back (3 minutes)
+
+1. Seated cat-cow: 10 reps
+2. Seated twist: 20 sec each side
+3. Side stretch: 20 sec each side
+
+### Hips and Legs (6 minutes)
+
+1. Figure-4: 30 sec each side
+2. Hamstring stretch: 30 sec each side
+3. Hip flexor stretch: 30 sec each side
+4. Calf stretch: 30 sec each side
+5. Quad stretch: 30 sec each side
+
+### Cool-Down (2 minutes)
+
+1. Ankle circles: 10 each
+2. Deep breathing
+3. Gentle shoulder rolls
+
+## Tips for Success
+
+### Make It Routine
+
+- Same time each day
+- Link to existing habit
+- Start small, build up
+
+### Go Slowly
+
+- No rushing
+- Gentle movements
+- Respect your limits
+
+### Breathe
+
+- Deep, steady breaths
+- Exhale into stretches
+- Never hold breath
+
+### Be Consistent
+
+- Daily practice is best
+- Even 10 minutes helps
+- Consistency beats intensity
+
+### Stay Positive
+
+- Progress takes time
+- Celebrate small improvements
+- Focus on how you feel
+
+## The Bottom Line
+
+Stretching is safe and beneficial at any age. Use support when needed, never push into pain, and be consistent. Even a simple daily routine maintains mobility and independence. It's never too late to start—and the benefits are worth the effort.
+`
+  },
+  'stretching-before-bed-sleep': {
+    title: 'Stretching Before Bed: Evening Routine for Better Sleep',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## How Stretching Helps Sleep
+
+A gentle stretching routine before bed can significantly improve sleep quality:
+
+- Releases physical tension accumulated during the day
+- Activates the parasympathetic nervous system (relaxation response)
+- Reduces stress and anxiety
+- Promotes mindfulness and mental calming
+- Decreases pain and discomfort that disrupts sleep
+
+Research supports that stretching and relaxation exercises improve sleep quality, especially in older adults and those with insomnia.
+
+## The Ideal Bedtime Routine
+
+### Timing
+
+- 15-30 minutes before bed
+- After brushing teeth, before getting into bed
+- Dim lights, quiet environment
+
+### Environment
+
+- Comfortable temperature
+- Low lighting
+- Quiet or soft music
+- Comfortable surface (bed, yoga mat, carpet)
+
+### Approach
+
+- Gentle stretches only—nothing intense
+- Focus on relaxation, not pushing limits
+- Deep, slow breathing throughout
+- Mindful attention to body sensations
+
+## The Bedtime Stretching Routine (10-15 minutes)
+
+### Neck Releases (2 minutes)
+
+**Neck Rolls:**
+1. Gently drop chin to chest
+2. Slowly roll head to right, back, left, and down
+3. 3 circles each direction
+4. Very slow and controlled
+
+**Ear to Shoulder:**
+1. Drop right ear to right shoulder
+2. Let gravity do the work—no pulling
+3. Hold 30 seconds each side
+4. Breathe deeply
+
+### Shoulder and Upper Back (2 minutes)
+
+**Shoulder Rolls:**
+1. Slow, full circles
+2. 5 forward, 5 backward
+3. Release tension with each roll
+
+**Cross-Body Hug:**
+1. Wrap arms around yourself
+2. Round upper back
+3. Hold 30 seconds
+4. Feel stretch between shoulder blades
+
+**Overhead Reach and Side Bend:**
+1. Reach arms overhead
+2. Clasp hands
+3. Lean gently to each side
+4. Hold 20 seconds each
+
+### Seated or Lying Stretches (4 minutes)
+
+**Seated Forward Fold:**
+1. Sit with legs extended
+2. Slowly fold forward
+3. Let head hang
+4. Hold 30-45 seconds
+5. Don't force—just relax into it
+
+**Seated Butterfly:**
+1. Soles of feet together
+2. Let knees drop open
+3. Gentle forward lean
+4. Hold 45 seconds
+
+**Seated Twist:**
+1. Cross one leg over the other
+2. Twist toward bent knee
+3. Hold 30 seconds each side
+4. Breathe into the twist
+
+### Lying Stretches (4 minutes)
+
+**Knee to Chest:**
+1. Lie on back
+2. Pull one knee to chest
+3. Hold 30 seconds each leg
+4. Then both knees together, rock gently
+
+**Supine Twist:**
+1. Lie on back, knees bent
+2. Drop both knees to right
+3. Arms out, look left
+4. Hold 45 seconds each side
+5. Excellent for releasing lower back
+
+**Happy Baby:**
+1. Lie on back
+2. Hold outside of feet, knees bent
+3. Pull knees toward armpits
+4. Rock gently side to side
+5. Hold 30-45 seconds
+
+**Legs Up the Wall (Optional):**
+1. Lie with legs extended up wall
+2. Arms relaxed at sides
+3. Hold 2-3 minutes
+4. Deeply relaxing for legs and nervous system
+
+### Final Relaxation (2-3 minutes)
+
+**Corpse Pose with Breathing:**
+1. Lie flat on back
+2. Arms at sides, palms up
+3. Let feet fall open
+4. Close eyes
+
+**Deep Breathing:**
+1. Inhale for 4 counts
+2. Hold for 2 counts
+3. Exhale for 6 counts
+4. Repeat 5-10 times
+
+**Body Scan:**
+As you breathe, mentally scan from feet to head, releasing any remaining tension.
+
+## What to Avoid Before Bed
+
+### Intense Stretching
+
+Deep, forceful stretching can be stimulating rather than relaxing. Keep it gentle.
+
+### Difficult Positions
+
+Anything that requires effort or strain. Save challenging stretches for other times.
+
+### Energizing Movement
+
+Dynamic stretching and anything that raises heart rate.
+
+## Quick 5-Minute Version
+
+If time is limited:
+
+1. Neck rolls: 30 seconds
+2. Knee to chest: 30 sec each
+3. Supine twist: 30 sec each side
+4. Legs up position: 1 minute
+5. Deep breathing: 1 minute
+
+## Enhancing the Routine
+
+### Add Deep Breathing
+
+Conscious breathing amplifies relaxation. Try box breathing (4-4-4-4) or extended exhale (4-in, 6-out).
+
+### Progressive Relaxation
+
+After stretching, systematically tense and release each muscle group.
+
+### Mindfulness
+
+Stay present with body sensations. Notice areas of tension and consciously release them.
+
+### Calming Music or Sounds
+
+Soft music, nature sounds, or white noise can enhance relaxation.
+
+### Avoid Screens
+
+Stop screen use 30 minutes before this routine. The routine itself should be screen-free.
+
+## Benefits You'll Notice
+
+### Immediately
+
+- Physical relaxation
+- Calmer mind
+- Easier time falling asleep
+
+### Within 1-2 Weeks
+
+- Improved sleep quality
+- Less tossing and turning
+- Waking more refreshed
+
+### Long-Term
+
+- Better flexibility
+- Reduced chronic tension
+- Healthier sleep patterns
+
+## The Bottom Line
+
+A gentle stretching routine before bed signals to your body that it's time to rest. Keep it relaxed—no pushing or straining. Combined with deep breathing and a calm environment, this routine can transform your sleep quality. Make it a nightly habit, and your body and mind will thank you.
+`
+  },
   'sports-injury-prevention-guide': {
     title: 'Sports Injury Prevention: How to Stay Injury-Free',
     date: '2026-03-07',

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'stretching-for-runners',
+    title: 'Stretching for Runners: Complete Pre and Post Run Routines',
+    excerpt: 'Running demands flexibility. These stretches prepare you for runs and speed recovery afterward.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'stretching-for-lifters',
+    title: 'Stretching for Weight Lifters: Mobility for Better Gains',
+    excerpt: 'Tight muscles limit your lifts. These stretches and mobility drills help you lift heavier and safer.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'stretching-for-seniors',
+    title: 'Stretching for Seniors: Safe and Effective Flexibility Exercises',
+    excerpt: 'Flexibility matters at every age. These gentle stretches are designed for older adults.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'stretching-before-bed-sleep',
+    title: 'Stretching Before Bed: Evening Routine for Better Sleep',
+    excerpt: 'A simple bedtime stretching routine can improve sleep quality and help you relax.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
     slug: 'sports-injury-prevention-guide',
     title: 'Sports Injury Prevention: How to Stay Injury-Free',
     excerpt: 'Most sports injuries are preventable. Learn the strategies that keep athletes healthy and performing their best.',
