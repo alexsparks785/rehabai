@@ -66319,6 +66319,1007 @@ Your joints were made to move. Keep them moving well.
 
 *Foundational Rehab provides joint-friendly programs to maintain mobility and reduce pain.*
     \`
+  },
+  'exercise-for-stress-relief': {
+    title: 'Exercise for Stress Relief: How Physical Activity Calms Your Mind',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: \`
+## Exercise as a Stress Management Tool
+
+Stress is inevitable. How you manage it matters. Exercise is one of the most effective stress relievers available:
+
+- Reduces cortisol (stress hormone) levels
+- Releases endorphins (mood-boosting chemicals)
+- Improves sleep quality
+- Provides mental distraction
+- Builds resilience to future stress
+
+The research is clear: Regular exercisers handle stress better than non-exercisers.
+
+## How Exercise Reduces Stress
+
+### Neurochemical Effects
+
+**Endorphins:** Natural mood elevators released during exercise
+**Serotonin:** Improved with regular exercise, regulates mood
+**Norepinephrine:** Helps brain respond to stress more efficiently
+**BDNF:** Supports brain health and stress resilience
+
+### Physical Effects
+
+- Reduces muscle tension
+- Lowers blood pressure
+- Improves heart rate variability (stress resilience marker)
+- Better sleep (crucial for stress management)
+
+### Psychological Effects
+
+- Breaks rumination (worry cycles)
+- Provides sense of accomplishment
+- Builds confidence
+- Creates mental "time out"
+
+## Best Types of Exercise for Stress
+
+### Aerobic Exercise
+
+Most studied for stress relief:
+
+**Walking**
+- Accessible, low barrier
+- Outdoor walking adds nature benefits
+- 20-30 minutes significantly reduces stress
+
+**Running/Jogging**
+- "Runner's high" from endorphins
+- Rhythmic, meditative quality
+- Can be particularly effective
+
+**Swimming**
+- Water has calming properties
+- Rhythmic breathing
+- Full-body movement
+
+**Cycling**
+- Can be social or solo
+- Outdoor exposure benefits
+- Low impact
+
+### Mind-Body Exercise
+
+Particularly effective for stress:
+
+**Yoga**
+- Combines movement, breathing, mindfulness
+- Directly activates relaxation response
+- Multiple studies confirm stress reduction
+- All levels and styles available
+
+**Tai Chi**
+- Slow, flowing movements
+- Meditative quality
+- Particularly good for older adults
+
+**Qigong**
+- Similar to tai chi
+- Breath-focused
+- Energy cultivation
+
+### Strength Training
+
+Also reduces stress:
+
+- Provides sense of accomplishment
+- Releases tension
+- Improves body image and confidence
+- Can be meditative with focus on form
+
+### High-Intensity Exercise
+
+Can be helpful but with caveats:
+
+- Effective stress outlet
+- Good for "burning off" acute stress
+- But too much high-intensity can add stress
+- Balance with lower-intensity options
+
+## Stress-Relieving Exercise Routine
+
+### Daily Foundation
+
+**Morning (5-10 min):**
+- Gentle stretching
+- Deep breathing
+- Sets calm tone for day
+
+**Throughout Day:**
+- Movement breaks
+- Walk during stressful moments
+- Stretch at your desk
+
+### Structured Exercise (Most Days)
+
+**Option 1: Walking**
+- 20-30 minutes
+- Moderate pace
+- Outdoors if possible
+
+**Option 2: Yoga**
+- 20-45 minutes
+- Focus on breath
+- Any style that feels good
+
+**Option 3: Cardio + Strength**
+- 20 min cardio
+- 10-15 min strength
+- End with stretching
+
+### After Stressful Days
+
+**Immediate stress relief:**
+- 10-minute walk
+- Yoga flow
+- Any movement that feels good
+
+## Breathing Exercises
+
+Combine with physical exercise:
+
+### Box Breathing
+1. Inhale 4 counts
+2. Hold 4 counts
+3. Exhale 4 counts
+4. Hold 4 counts
+5. Repeat 5-10 times
+
+### 4-7-8 Breathing
+1. Inhale 4 counts
+2. Hold 7 counts
+3. Exhale 8 counts
+4. 4-8 cycles
+
+### Diaphragmatic Breathing
+1. Hand on belly
+2. Breathe into belly (hand rises)
+3. Slow exhale (hand falls)
+4. 5-10 minutes
+
+## Quick Stress-Relief Exercises
+
+When you need relief NOW:
+
+**2-Minute Desk Break:**
+- Stand, stretch arms overhead
+- Shoulder rolls
+- Deep breaths
+- Seated twist
+
+**5-Minute Walk:**
+- Step outside if possible
+- Focus on breathing
+- Notice your surroundings
+
+**10-Minute Yoga Flow:**
+- Cat-cow
+- Child's pose
+- Downward dog
+- Forward fold
+- Standing stretches
+
+**Tension Release:**
+- Shoulders: Shrug up, hold, release
+- Fists: Clench, hold, release
+- Full body: Tense everything, hold, release
+
+## Nature + Exercise
+
+Exercising outdoors amplifies stress relief:
+
+- Natural environments reduce cortisol
+- "Green exercise" has additional mental health benefits
+- Sunlight improves mood
+- Fresh air feels restorative
+
+Even 5 minutes in nature helps. Combine with walking, running, cycling, or just standing and breathing.
+
+## Exercise Timing for Stress
+
+### Morning Exercise
+
+- Starts day with stress buffer
+- May help handle daily stressors better
+- Sets positive tone
+
+### Afternoon/Evening Exercise
+
+- Releases accumulated stress
+- Transitions from work to personal time
+- Can improve sleep (not too close to bedtime)
+
+### During Stressful Moments
+
+- Brief walk to calm acute stress
+- Movement break before difficult task
+- Stretch during tense meetings (if appropriate)
+
+## When Stress Makes Exercise Hard
+
+Stress can sap motivation. Strategies:
+
+### Lower the Bar
+- 10 minutes counts
+- Walking counts
+- Something beats nothing
+
+### Use Exercise as Coping
+- Think of it as stress relief, not obligation
+- "I get to" not "I have to"
+
+### Start Anyway
+- Motivation often appears once you start
+- Commit to 5 minutes
+
+### Choose Enjoyable Activities
+- If you hate it, you won't do it
+- Find what feels good
+
+## Exercise and Chronic Stress
+
+For ongoing stress:
+
+- Regular exercise is more effective than occasional
+- Build a sustainable routine
+- Address other factors (sleep, nutrition, relationships)
+- Consider professional help if overwhelmed
+
+## The Bottom Line
+
+Exercise is powerful stress medicine:
+
+1. Any movement helps
+2. Aerobic and mind-body exercise are particularly effective
+3. Outdoors amplifies benefits
+4. Combine with breathing practices
+5. Consistency matters more than intensity
+6. Lower the bar when motivation is low
+
+Your body was designed to move. Use that to calm your mind.
+
+---
+
+*Foundational Rehab provides programs that support both physical and mental well-being.*
+    \`
+  },
+  'functional-fitness-exercises': {
+    title: 'Functional Fitness: Exercises That Improve Real-Life Movement',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## What Is Functional Fitness?
+
+Functional fitness means training movements, not just muscles. The goal is improving your ability to:
+
+- Perform daily activities with ease
+- Move efficiently and safely
+- Reduce injury risk
+- Maintain independence as you age
+
+Instead of isolating muscles on machines, functional training uses:
+- Multi-joint movements
+- Multiple planes of motion
+- Core engagement
+- Balance challenges
+- Real-world movement patterns
+
+## The Seven Fundamental Movements
+
+All human movement can be broken down into these patterns:
+
+### 1. Squat
+
+**Real-life application:** Sitting down, standing up, picking up items
+
+**Exercises:**
+- Bodyweight squat
+- Goblet squat
+- Front squat
+- Box squat
+
+**Key points:**
+- Sit back and down
+- Knees track over toes
+- Chest stays up
+- Full range of motion
+
+### 2. Hinge
+
+**Real-life application:** Picking things up from the floor, bending forward
+
+**Exercises:**
+- Deadlift
+- Romanian deadlift
+- Kettlebell swing
+- Good morning
+
+**Key points:**
+- Push hips back
+- Maintain neutral spine
+- Engage glutes and hamstrings
+- Knees slightly bent
+
+### 3. Lunge
+
+**Real-life application:** Walking, climbing stairs, getting up from floor
+
+**Exercises:**
+- Forward lunge
+- Reverse lunge
+- Walking lunge
+- Lateral lunge
+
+**Key points:**
+- Knee tracks over ankle
+- Maintain upright torso
+- Control the movement
+- Drive through front heel
+
+### 4. Push
+
+**Real-life application:** Pushing doors, pushing yourself up, reaching overhead
+
+**Exercises:**
+- Push-up
+- Bench press
+- Overhead press
+- Incline press
+
+**Key points:**
+- Engage core
+- Full range of motion
+- Control in both directions
+
+### 5. Pull
+
+**Real-life application:** Opening doors, carrying items, climbing
+
+**Exercises:**
+- Rows (any variation)
+- Pull-ups/chin-ups
+- Lat pulldown
+- Face pulls
+
+**Key points:**
+- Squeeze shoulder blades
+- Full range of motion
+- Control the return
+
+### 6. Carry
+
+**Real-life application:** Carrying groceries, luggage, children
+
+**Exercises:**
+- Farmer's carry
+- Suitcase carry (one hand)
+- Overhead carry
+- Front-loaded carry (bear hug)
+
+**Key points:**
+- Maintain upright posture
+- Engage core
+- Don't lean or twist
+
+### 7. Rotation
+
+**Real-life application:** Throwing, reaching across body, turning
+
+**Exercises:**
+- Cable rotation
+- Medicine ball throws
+- Woodchops
+- Pallof press (anti-rotation)
+
+**Key points:**
+- Rotate through thoracic spine
+- Engage core
+- Hips initiate rotation
+
+## Core: The Foundation
+
+Functional fitness requires a strong, stable core:
+
+**Core functions:**
+- Stabilizes spine during movement
+- Transfers force between upper and lower body
+- Protects against injury
+
+**Functional core exercises:**
+- Plank (and variations)
+- Dead bug
+- Bird dog
+- Pallof press
+- Carries (challenge core stability)
+
+## Balance and Proprioception
+
+Real life requires balance:
+
+**Single-leg work:**
+- Single-leg deadlift
+- Single-leg squat
+- Bulgarian split squat
+- Step-ups
+
+**Balance exercises:**
+- Single-leg stand
+- Tandem stance
+- Unstable surface work
+- Dynamic balance (catching, reaching while balancing)
+
+## Multi-Directional Training
+
+Life doesn't happen in one plane. Train in all three:
+
+**Sagittal (forward/back):**
+- Squats, deadlifts, lunges, push-ups
+
+**Frontal (side to side):**
+- Lateral lunges, lateral band walks, side planks
+
+**Transverse (rotation):**
+- Cable rotations, med ball throws, rotational lunges
+
+## Sample Functional Workout
+
+### Full-Body Functional Routine
+
+**Warm-up (5 min):**
+- Walking + arm circles
+- Hip circles
+- Leg swings
+- Light squats
+
+**Workout (25-30 min):**
+
+1. **Goblet Squat** — 3x10
+2. **Romanian Deadlift** — 3x10
+3. **Push-Ups** — 3x8-12
+4. **Single-Arm Row** — 3x10 each
+5. **Reverse Lunge** — 3x8 each leg
+6. **Farmer's Carry** — 3x30 seconds
+7. **Pallof Press** — 2x10 each side
+
+**Cool-down (5 min):**
+- Stretching all major muscles
+
+### Daily Functional Movement
+
+Even without formal exercise:
+- Squat to pick things up (don't bend at waist)
+- Carry groceries with good posture
+- Take stairs
+- Get up from floor without using hands
+- Reach in all directions
+
+## Functional vs. Traditional Training
+
+**Traditional (isolation):**
+- Leg extension machine
+- Bicep curl machine
+- Works one muscle at a time
+- Seated, supported
+
+**Functional (integration):**
+- Lunges
+- Rows with single-leg stance
+- Works multiple muscles together
+- Challenges stability
+
+**Both have value.** But for real-life function, emphasize movements over muscles.
+
+## Functional Fitness as You Age
+
+Particularly important for maintaining independence:
+
+- Get up from chairs (squat pattern)
+- Climb stairs (lunge pattern)
+- Carry groceries (carry pattern)
+- Reach overhead (push pattern)
+- Maintain balance (single-leg work)
+
+Losing these abilities predicts loss of independence. Training them preserves them.
+
+## Equipment Options
+
+**Minimal/No Equipment:**
+- Bodyweight exercises (squats, lunges, push-ups)
+- Household items for carries
+
+**Basic Equipment:**
+- Dumbbells or kettlebells
+- Resistance bands
+- Medicine ball
+
+**Full Gym:**
+- Add cables, barbells, suspension trainers
+- More options, same principles
+
+## The Bottom Line
+
+Functional fitness means:
+
+1. Train movements, not just muscles
+2. Include all seven fundamental patterns
+3. Challenge balance and stability
+4. Move in multiple directions
+5. Build a strong, stable core
+6. Apply to real life
+
+The best exercise prepares you for everything else you want to do.
+
+---
+
+*Foundational Rehab programs are built on functional movement principles.*
+    \`
+  },
+  'exercise-for-healthy-aging': {
+    title: 'Exercise for Healthy Aging: Stay Strong and Independent as You Age',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Why Exercise Matters More as You Age
+
+The benefits of exercise become MORE important with age:
+
+- **Muscle loss (sarcopenia):** We lose 3-5% of muscle mass per decade after 30
+- **Bone loss:** Exercise maintains bone density
+- **Balance decline:** Fall risk increases without training
+- **Cognitive changes:** Exercise supports brain health
+- **Metabolic changes:** Activity helps maintain healthy weight and blood sugar
+
+**The good news:** Exercise at any age produces benefits. It's never too late to start.
+
+## What the Research Shows
+
+Regular exercise in older adults:
+
+- Reduces mortality risk by 30-35%
+- Decreases risk of heart disease, stroke, diabetes
+- Reduces fall risk by up to 40%
+- Slows cognitive decline
+- Decreases depression and anxiety
+- Maintains independence longer
+- Improves quality of life
+
+## The Four Pillars of Exercise for Aging
+
+### 1. Strength Training
+
+**Why it matters:**
+- Counters muscle loss
+- Maintains functional strength
+- Supports metabolism
+- Protects joints
+
+**Recommendations:**
+- 2-3 sessions per week
+- All major muscle groups
+- 8-12 repetitions
+- Progressive challenge over time
+
+**Key exercises:**
+- Squats (or chair squats)
+- Deadlifts or hip hinges
+- Rows
+- Push-ups (modified as needed)
+- Step-ups
+
+### 2. Cardiovascular Exercise
+
+**Why it matters:**
+- Heart and lung health
+- Endurance for daily activities
+- Weight management
+- Brain health
+
+**Recommendations:**
+- 150 minutes moderate activity per week (or 75 minutes vigorous)
+- Can be accumulated in 10-minute bouts
+- Any activity that elevates heart rate
+
+**Good options:**
+- Walking
+- Swimming
+- Cycling
+- Dancing
+- Water aerobics
+
+### 3. Balance Training
+
+**Why it matters:**
+- Falls are leading cause of injury in older adults
+- Balance declines without training
+- Can be maintained and improved at any age
+
+**Recommendations:**
+- Include balance exercises 3+ days per week
+- Progress from supported to unsupported
+- Include dynamic balance (moving)
+
+**Key exercises:**
+- Single-leg stance
+- Tandem walking (heel-to-toe)
+- Standing on unstable surfaces
+- Tai chi or yoga
+- Step-overs and step-arounds
+
+### 4. Flexibility/Mobility
+
+**Why it matters:**
+- Maintains range of motion
+- Enables daily activities
+- Reduces injury risk
+- Improves posture
+
+**Recommendations:**
+- Daily stretching
+- All major muscle groups
+- Hold stretches 30-60 seconds
+- Include joint mobility work
+
+## Sample Weekly Program
+
+### Beginner
+
+**Monday:** Strength (20 min)
+**Tuesday:** Walking (20-30 min)
+**Wednesday:** Balance + Flexibility (15 min)
+**Thursday:** Walking (20-30 min)
+**Friday:** Strength (20 min)
+**Saturday:** Active recreation
+**Sunday:** Gentle stretching or rest
+
+### Intermediate
+
+**Monday:** Strength (30 min) + Walking (20 min)
+**Tuesday:** Cardio (30 min)
+**Wednesday:** Balance + Yoga (30 min)
+**Thursday:** Strength (30 min)
+**Friday:** Cardio (30 min)
+**Saturday:** Active recreation
+**Sunday:** Gentle stretching
+
+## Strength Training for Older Adults
+
+### Getting Started
+
+- Begin with bodyweight or very light weights
+- Focus on form before adding resistance
+- Progress gradually (add weight when 12 reps feel easy)
+- Rest 1-2 days between strength sessions
+
+### Essential Exercises
+
+**Squat (Chair Squat)**
+1. Stand in front of chair
+2. Sit down slowly
+3. Stand back up
+4. Progress to not touching chair
+
+**Hip Hinge**
+1. Hold weight or nothing
+2. Push hips back, slight knee bend
+3. Feel hamstring stretch
+4. Stand back up
+
+**Push-Up (Wall or Incline)**
+1. Hands on wall or elevated surface
+2. Lower chest toward surface
+3. Push back up
+
+**Row**
+1. Hold weight, one hand on support
+2. Pull weight toward hip
+3. Squeeze shoulder blade
+4. Lower with control
+
+**Step-Up**
+1. Step onto sturdy surface
+2. Stand tall at top
+3. Step down with control
+
+## Balance Training Progression
+
+### Level 1
+
+- Stand near support (counter, wall)
+- Feet together, hold 30 seconds
+- Single-leg stance with support
+
+### Level 2
+
+- Single-leg stance, light touch on support
+- Tandem stance (heel-to-toe)
+- Weight shifts side to side
+
+### Level 3
+
+- Single-leg stance, no support
+- Tandem walking
+- Reaching while balancing
+
+### Level 4
+
+- Eyes closed
+- Unstable surfaces (foam, pillow)
+- Dynamic movements (stepping, turning)
+
+## Safety Considerations
+
+### Start Smart
+
+- Get medical clearance if you have conditions
+- Start easier than you think necessary
+- Progress gradually
+- Learn proper form
+
+### Red Flags
+
+Stop and seek help if:
+- Chest pain or pressure
+- Severe shortness of breath
+- Dizziness or lightheadedness
+- Severe joint pain
+- Unusual fatigue
+
+### Fall Prevention
+
+- Clear workout area of hazards
+- Use support when needed
+- Wear proper footwear
+- Good lighting
+- Don't exercise when dizzy or ill
+
+## Overcoming Barriers
+
+### "I'm too old"
+
+You're not. Benefits occur at any age. Studies show 90-year-olds can build strength.
+
+### "I have arthritis/joint problems"
+
+Exercise usually helps. Choose appropriate activities, modify as needed. Movement is medicine.
+
+### "I don't have time"
+
+10 minutes counts. Break it into small chunks. Something beats nothing.
+
+### "I don't know what to do"
+
+Start with walking and simple bodyweight exercises. Consider working with a trainer or physical therapist initially.
+
+## Social and Mental Benefits
+
+Exercise also provides:
+
+- Social connection (classes, walking groups)
+- Sense of accomplishment
+- Improved mood
+- Better cognitive function
+- Purpose and routine
+
+## The Bottom Line
+
+Exercise is essential for healthy aging:
+
+1. Include strength, cardio, balance, and flexibility
+2. Start where you are and progress gradually
+3. Consistency matters more than intensity
+4. It's never too late to start
+5. The benefits are profound
+
+Your future independence depends on what you do today.
+
+---
+
+*Foundational Rehab provides programs designed for healthy aging at every stage.*
+    \`
+  },
+  'pain-vs-soreness-exercise': {
+    title: 'Pain vs. Soreness: How to Know the Difference When Exercising',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## The Critical Question
+
+Every exerciser faces this question: Should I push through, or should I stop?
+
+The answer depends on understanding the difference between:
+- **Normal muscle soreness** — Expected and harmless
+- **Warning pain** — Signals potential injury
+
+Getting this wrong can mean either unnecessary fear or actual injury.
+
+## What Is Normal Muscle Soreness (DOMS)?
+
+**Delayed Onset Muscle Soreness (DOMS)** is:
+- Muscle discomfort appearing 12-72 hours after exercise
+- Caused by microscopic muscle damage (normal, part of adaptation)
+- Worse with new exercises or increased intensity
+- Temporary (usually resolves in 2-5 days)
+
+### DOMS Characteristics
+
+- **Dull, achy sensation** in the muscles
+- **Affects whole muscle** (not a specific point)
+- **Worse with movement** of that muscle
+- **Improves with light movement** and warming up
+- **Bilateral** (both sides affected similarly)
+- **Peaks 24-72 hours** after exercise
+- **Resolves on its own** within days
+
+### DOMS Is Normal When
+
+- You're new to exercise
+- You tried new exercises
+- You increased intensity or volume
+- You did eccentric work (lengthening under load)
+
+## What Is Warning Pain?
+
+Warning pain signals something is wrong. It requires attention.
+
+### Warning Pain Characteristics
+
+- **Sharp, stabbing, or acute** sensation
+- **Localized to specific point** (joint, tendon, etc.)
+- **Occurs during exercise** (not just after)
+- **Doesn't improve** with warming up
+- **Worsens with continued activity**
+- **May be unilateral** (one side only)
+- **Persists or worsens** over days
+- **Accompanied by swelling, instability, or other symptoms**
+
+## Comparison Table
+
+| Feature | DOMS (Normal) | Warning Pain |
+|---------|---------------|--------------|
+| Timing | 12-72h after | During or immediately after |
+| Location | Whole muscle | Specific point |
+| Type | Dull, achy | Sharp, stabbing |
+| Duration | 2-5 days | Persists or worsens |
+| With movement | Improves after warming up | Worsens or no improvement |
+| Side affected | Usually both | Often one side |
+| Other symptoms | None | Swelling, instability, etc. |
+
+## Specific Warning Signs
+
+### Stop Immediately If
+
+- **Sharp pain** during movement
+- **Popping or snapping** sensation
+- **Sudden weakness** or giving way
+- **Visible deformity** or significant swelling
+- **Numbness or tingling**
+- **Chest pain** or trouble breathing
+
+### Evaluate and Modify If
+
+- **Pain that worsens** as you continue
+- **Pain that limits range of motion**
+- **Pain that persists** at rest after stopping
+- **Same pain recurring** with same exercise
+
+## Joint vs. Muscle
+
+### Muscle Discomfort (Usually Okay)
+
+- Burning or aching in muscle belly
+- Fatigue during exercise
+- Soreness in muscles 1-3 days after
+- Resolves with rest and time
+
+### Joint Pain (Usually Warning)
+
+- Pain in or around joint (knee, shoulder, etc.)
+- Pain with specific movements
+- Swelling or stiffness in joint
+- Clicking or catching with pain
+
+**General rule:** Muscle soreness is normal; joint pain requires attention.
+
+## What to Do
+
+### If It's Probably DOMS
+
+- Continue exercising (with modifications if needed)
+- Light movement often helps
+- Stay hydrated
+- May benefit from gentle stretching
+- Will resolve in days
+
+### If It's Probably Warning Pain
+
+- Stop the aggravating exercise
+- Rest the affected area
+- Apply ice if swelling
+- If it persists, see a healthcare provider
+- Don't push through
+
+### If You're Unsure
+
+- Stop and assess
+- Try again with lighter intensity
+- If pain returns, stop
+- When in doubt, rest and evaluate
+
+## Common Scenarios
+
+### Scenario 1: Legs Sore After Squats
+- **Timing:** Next day
+- **Location:** Front of thighs (quads), maybe glutes
+- **Type:** Achy, stiff
+- **Verdict:** Probably DOMS — normal, continue with lighter workout
+
+### Scenario 2: Sharp Knee Pain During Squats
+- **Timing:** During exercise
+- **Location:** Inside or under kneecap
+- **Type:** Sharp, specific
+- **Verdict:** Warning sign — stop, assess form, may need rest or evaluation
+
+### Scenario 3: Low Back Ache Day After Deadlifts
+- **Timing:** Next day
+- **Location:** General low back muscles
+- **Type:** Dull, achy
+- **Verdict:** Could be DOMS — if new to deadlifts. But monitor closely. If it's sharp or localized to spine, warning sign.
+
+### Scenario 4: Shoulder Pain With Overhead Press
+- **Timing:** During exercise
+- **Location:** Front or side of shoulder
+- **Type:** Sharp or pinching
+- **Verdict:** Warning sign — stop, assess, may need evaluation
+
+## Preventing Pain vs. Accepting Soreness
+
+### Reduce Injury Risk
+
+- Proper warm-up before exercise
+- Good form (quality over quantity)
+- Progressive overload (gradual increases)
+- Adequate rest between sessions
+- Don't ignore warning signals
+
+### Managing DOMS
+
+- Don't fear it (it's normal)
+- Light activity helps more than complete rest
+- Gradual progression reduces severity
+- Gets easier as you adapt
+
+## The Bottom Line
+
+Know the difference:
+
+1. **DOMS:** Dull, whole muscle, 12-72h after, resolves in days — normal
+2. **Warning pain:** Sharp, specific, during/immediately after, persists — needs attention
+3. **Joint pain requires evaluation** — don't push through
+4. **When uncertain, err on caution** — stop and assess
+5. **Pain that worsens is a red flag** — don't ignore it
+
+Listening to your body is a skill. Develop it to train safely for life.
+
+---
+
+*Foundational Rehab helps you understand your body's signals and exercise appropriately.*
+    \`
   }
 };
 

@@ -2633,6 +2633,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-stress-relief',
+    title: 'Exercise for Stress Relief: How Physical Activity Calms Your Mind',
+    excerpt: 'Exercise is a proven stress reducer. Learn which types work best and how to use movement to manage stress.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'functional-fitness-exercises',
+    title: 'Functional Fitness: Exercises That Improve Real-Life Movement',
+    excerpt: 'Train movements, not just muscles. Functional fitness prepares your body for daily activities and sports.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-healthy-aging',
+    title: 'Exercise for Healthy Aging: Stay Strong and Independent as You Age',
+    excerpt: 'The right exercise program can add years to your life and life to your years. Here\'s what the research shows.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'pain-vs-soreness-exercise',
+    title: 'Pain vs. Soreness: How to Know the Difference When Exercising',
+    excerpt: 'Should you push through or stop? Understanding the difference between normal soreness and warning pain.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
   }
 ];
 
