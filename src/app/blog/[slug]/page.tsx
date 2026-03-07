@@ -13,6 +13,896 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'knee-strengthening-exercises-weak-knees': {
+    title: 'Exercises for Weak Knees: Build Strength and Reduce Pain',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee Pain',
+    readTime: '6 min read',
+    content: `
+## Why Knee Strength Matters
+
+Your knees take a beating. Every step, stair, and squat loads them with forces several times your body weight. When the muscles around your knee are weak, the joint itself absorbs more stress—leading to pain, wear, and injury.
+
+Strong muscles = protected knees = less pain.
+
+## The Key Muscles
+
+### Quadriceps (Front of Thigh)
+
+The primary knee stabilizers. Weak quads are strongly linked to knee pain and arthritis progression.
+
+### Hamstrings (Back of Thigh)
+
+Balance the quads and control knee bending. Often weak and tight.
+
+### Glutes (Buttocks)
+
+Control hip and leg alignment. Weak glutes cause the knee to collapse inward—a major pain contributor.
+
+### Calves
+
+Support the knee from below and absorb landing forces.
+
+## Beginner Exercises
+
+Start here if you have significant pain or haven't exercised regularly.
+
+### Quad Sets
+
+1. Sit or lie with leg straight
+2. Tighten thigh muscle, pressing knee down
+3. Hold 5-10 seconds
+4. Relax
+5. 15-20 reps each leg
+
+This activates quads without moving the joint.
+
+### Straight Leg Raises
+
+1. Lie on back, one knee bent, one leg straight
+2. Tighten thigh of straight leg
+3. Lift leg 6-12 inches
+4. Hold 3 seconds
+5. Lower slowly
+6. 15 reps each leg
+
+### Short Arc Quads
+
+1. Lie on back, rolled towel under knee
+2. Straighten knee, lifting foot
+3. Hold 3 seconds
+4. Lower slowly
+5. 15 reps each leg
+
+### Glute Bridges
+
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes and lift hips
+3. Don't arch lower back
+4. Hold 5 seconds
+5. 15 reps
+
+### Clamshells
+
+1. Lie on side, knees bent 45 degrees
+2. Keep feet together, lift top knee
+3. Don't roll backward
+4. 15-20 reps each side
+
+## Intermediate Exercises
+
+Progress here when beginner exercises are easy and pain-free.
+
+### Wall Sits
+
+1. Back against wall, feet shoulder-width apart
+2. Slide down until knees at 45-90 degrees
+3. Hold 20-60 seconds
+4. Don't go too deep if painful
+
+### Step-Ups
+
+1. Use 4-8 inch step
+2. Step up with one leg, straighten completely
+3. Lower slowly with control
+4. 10-15 reps each leg
+5. Progress to higher step
+
+### Partial Squats
+
+1. Feet shoulder-width apart
+2. Squat down 45 degrees (quarter squat)
+3. Keep knees over toes
+4. 15 reps
+5. Progress deeper as strength allows
+
+### Romanian Deadlifts
+
+1. Stand on one leg (hold support if needed)
+2. Hinge forward at hip, extending other leg back
+3. Keep standing knee slightly bent
+4. 10 reps each leg
+
+### Side Steps with Band
+
+1. Mini band around ankles or above knees
+2. Athletic stance, knees slightly bent
+3. Step sideways, maintaining tension
+4. 15 steps each direction
+
+## Advanced Exercises
+
+For those with good baseline strength and minimal pain.
+
+### Lunges
+
+1. Step forward into lunge
+2. Lower until back knee near floor
+3. Push back to start
+4. 10 each leg
+5. Progress to walking lunges
+
+### Bulgarian Split Squats
+
+1. Rear foot elevated on bench
+2. Front foot forward
+3. Lower until front thigh parallel
+4. 10 reps each leg
+
+### Single Leg Squats (to chair)
+
+1. Stand in front of chair on one leg
+2. Squat down to touch chair
+3. Stand back up
+4. 8-10 reps each leg
+5. Progress to lower surface or no chair
+
+### Lateral Lunges
+
+1. Wide stance
+2. Shift weight to one side, bending that knee
+3. Other leg stays straight
+4. Push back to center
+5. 10 each side
+
+## The Importance of Glutes
+
+Many knee problems start at the hip. Weak glutes allow the thigh to rotate inward and the knee to collapse—creating stress and pain.
+
+Always include glute exercises:
+- Glute bridges
+- Clamshells
+- Side steps with band
+- Single leg deadlifts
+- Hip thrusts
+
+## Sample Knee Program
+
+### Daily (10 minutes)
+
+1. Quad sets: 15 each leg
+2. Glute bridges: 15 reps
+3. Clamshells: 15 each side
+4. Straight leg raises: 15 each leg
+
+### 3x Per Week (20 minutes)
+
+1. Warm-up: 3 min walking
+2. Wall sits: 3 x 30 seconds
+3. Step-ups: 2 x 12 each leg
+4. Side steps with band: 2 x 15 each way
+5. Partial squats: 2 x 15
+6. Single leg Romanian deadlifts: 2 x 10 each leg
+
+## Tips for Success
+
+### Start Light
+
+- Better to start too easy than too hard
+- Progress gradually
+- Some muscle fatigue is good; joint pain is not
+
+### Pain Guidelines
+
+- Mild discomfort during exercise: OK
+- Pain over 3/10: Reduce intensity
+- Pain that worsens or lingers: Stop, reassess
+
+### Consistency Over Intensity
+
+- Daily light work beats occasional hard workouts
+- Build the habit first
+
+### Don't Skip Glutes
+
+- Hip strength directly affects knee pain
+- Include glute work in every session
+
+## When to Seek Help
+
+See a professional if:
+- Pain is severe or worsening
+- Knee locks, catches, or gives way
+- Significant swelling
+- No improvement after 4-6 weeks
+- Pain at night or at rest
+
+A physical therapist can identify specific deficits and modify exercises for your situation.
+
+## The Bottom Line
+
+Strong muscles protect weak joints. The exercises here target the key muscle groups that support your knees. Start at your level, progress gradually, and stay consistent. Most knee pain improves significantly with proper strengthening—often better than surgery or medications.
+`
+  },
+  'neck-stretches-pain-relief': {
+    title: 'Neck Stretches for Pain Relief: Quick Routines That Actually Work',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Neck Pain',
+    readTime: '5 min read',
+    content: `
+## Why Your Neck Hurts
+
+The average head weighs 10-12 pounds. For every inch your head moves forward (looking at phone or computer), the effective weight on your neck doubles. At just 2 inches forward, your neck muscles are working to hold up 24+ pounds.
+
+Common causes:
+- Forward head posture (phones, computers)
+- Sleeping position
+- Stress and tension
+- Weak neck muscles
+- Tight chest and shoulders
+
+## Quick Relief Stretches
+
+### Upper Trapezius Stretch
+
+1. Sit or stand tall
+2. Tilt right ear toward right shoulder
+3. Gently place right hand on left side of head
+4. Apply very gentle pressure
+5. Hold 30 seconds
+6. Switch sides
+
+Feel the stretch along side of neck into shoulder.
+
+### Levator Scapulae Stretch
+
+1. Turn head 45 degrees to right
+2. Look down toward armpit
+3. Right hand gently on back of head
+4. Apply gentle pressure downward
+5. Hold 30 seconds
+6. Switch sides
+
+This targets the muscle from neck to shoulder blade.
+
+### Chin Tuck
+
+1. Sit tall, looking forward
+2. Pull chin straight back (make a double chin)
+3. Hold 5 seconds
+4. Relax
+5. Repeat 10-15 times
+
+This counteracts forward head posture.
+
+### Neck Rotation
+
+1. Sit tall
+2. Slowly turn head to look over right shoulder
+3. Hold 20-30 seconds
+4. Return to center
+5. Repeat left
+
+### Neck Side Bend
+
+1. Sit tall, shoulders relaxed
+2. Drop right ear toward right shoulder
+3. Don't lift shoulder to meet ear
+4. Hold 20-30 seconds
+5. Switch sides
+
+### SCM Stretch
+
+1. Tilt head back slightly
+2. Turn head to right
+3. Tilt right ear toward ceiling
+4. Feel stretch in front/side of neck
+5. Hold 20 seconds
+6. Switch sides
+
+## Strengthening Exercises
+
+Stretching alone isn't enough—weak muscles need strengthening.
+
+### Chin Tuck with Resistance
+
+1. Place fingers on chin
+2. Tuck chin while pressing fingers against it
+3. Hold 5 seconds
+4. 10 reps
+
+### Isometric Neck Strengthening
+
+**Side:**
+1. Hand on side of head
+2. Push head into hand, don't let head move
+3. Hold 5 seconds
+4. 5 reps each side
+
+**Front:**
+1. Hand on forehead
+2. Push head forward into hand
+3. Hold 5 seconds
+4. 5 reps
+
+**Back:**
+1. Hands clasped behind head
+2. Push head backward into hands
+3. Hold 5 seconds
+4. 5 reps
+
+### Prone Chin Tucks
+
+1. Lie face down, forehead on rolled towel
+2. Gently tuck chin (nod slightly)
+3. Hold 10 seconds
+4. 10 reps
+
+This strengthens deep neck flexors.
+
+## Quick Relief Routine (5 minutes)
+
+Do this when pain flares:
+
+1. Upper trap stretch: 30 sec each side
+2. Chin tucks: 10 reps
+3. Levator stretch: 30 sec each side
+4. Neck rotations: 3 each direction
+5. Shoulder rolls: 10 circles each way
+6. Deep breaths: 5 breaths
+
+## Prevention Routine (Daily, 5 minutes)
+
+Do this daily to prevent pain:
+
+### Morning
+
+1. Chin tucks: 10 reps
+2. Neck rotations: 5 each direction
+3. Upper trap stretch: 20 sec each side
+
+### Throughout Day (Hourly)
+
+1. Posture check: head over shoulders
+2. Shoulder rolls: 5 each direction
+3. Chin tuck: 3 reps
+
+### Evening
+
+1. Full stretching routine: all stretches
+2. Isometric strengthening: 5 reps each direction
+3. Relaxation: deep breathing
+
+## Posture Tips
+
+### At Your Desk
+
+- Monitor at eye level
+- Keyboard at elbow height
+- Screen 20-26 inches from eyes
+- Take breaks every 30 minutes
+
+### With Your Phone
+
+- Bring phone up to eye level
+- Don't hunch over it
+- Limit prolonged use
+
+### Sleeping
+
+- Use pillow that keeps neck neutral
+- Side sleeping: pillow fills gap to shoulder
+- Back sleeping: thin pillow, support neck curve
+- Avoid stomach sleeping
+
+## When Stretching Won't Help
+
+Seek medical attention if you have:
+
+- Pain radiating down arm
+- Numbness or tingling in hands
+- Weakness in arms or hands
+- Pain after trauma
+- Dizziness with neck movement
+- Severe headaches with neck pain
+- Difficulty swallowing
+
+These may indicate problems requiring professional evaluation.
+
+## What About Heat and Ice?
+
+**Heat:**
+- Better for muscle tension
+- Use before stretching
+- 15-20 minutes
+- Moist heat works well (warm towel, shower)
+
+**Ice:**
+- Better for acute injury/inflammation
+- Use after activity
+- 15-20 minutes
+- Wrap in cloth
+
+For general tension and stiffness, most people prefer heat.
+
+## The Bottom Line
+
+Most neck pain responds well to consistent stretching and strengthening. The key is daily consistency, proper posture, and addressing the root causes—usually forward head position and weak muscles. Start with the quick relief routine when pain strikes, then build the prevention routine into your daily habits.
+
+Five minutes a day prevents hours of pain.
+`
+  },
+  'lower-back-stretches-pain-relief': {
+    title: 'Lower Back Stretches: Relieve Tightness and Reduce Pain',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read',
+    content: `
+## Why Your Lower Back Gets Tight
+
+Your lower back (lumbar spine) carries the weight of your upper body all day. It gets tight from:
+
+- Prolonged sitting
+- Standing with poor posture
+- Weak core and glutes
+- Tight hip flexors
+- Stress and tension
+- Lack of movement variety
+
+Stretching provides relief, but addressing root causes prevents recurrence.
+
+## Important: Know Your Type
+
+Not all back pain responds to the same stretches.
+
+### Extension-Based Pain
+
+Pain worse with: arching back, standing long, walking
+Pain better with: bending forward, sitting
+→ Focus on: flexion stretches (knee to chest, cat stretch)
+
+### Flexion-Based Pain
+
+Pain worse with: bending forward, sitting long, lifting
+Pain better with: standing, walking, arching
+→ Focus on: extension exercises (press-ups, standing backbend)
+
+If unsure, try both carefully and notice what helps.
+
+## Flexion Stretches (Bending Forward)
+
+### Knee to Chest
+
+1. Lie on back
+2. Pull one knee toward chest
+3. Hold 20-30 seconds
+4. Switch legs
+5. Then both knees together
+
+### Cat Stretch
+
+1. On hands and knees
+2. Round back up toward ceiling
+3. Tuck chin and tailbone
+4. Hold 10 seconds
+5. 10 reps
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward on floor
+3. Rest forehead on ground
+4. Hold 30-60 seconds
+
+### Seated Forward Bend
+
+1. Sit with legs extended
+2. Reach toward toes
+3. Keep back relatively straight
+4. Hold 30 seconds
+
+### Prayer Stretch
+
+1. Start on hands and knees
+2. Sit back toward heels
+3. Walk hands forward
+4. Let belly drop between thighs
+5. Hold 30-60 seconds
+
+## Extension Stretches (Arching Back)
+
+### Press-Ups (McKenzie)
+
+1. Lie face down
+2. Place hands under shoulders
+3. Press up, keeping hips on floor
+4. Only go as far as comfortable
+5. Hold 2 seconds, lower
+6. 10 reps
+
+### Prone on Elbows
+
+1. Lie face down
+2. Prop up on elbows
+3. Let back arch naturally
+4. Hold 30-60 seconds
+
+### Standing Backbend
+
+1. Stand with hands on lower back
+2. Gently arch backward
+3. Keep knees straight
+4. Hold 3-5 seconds
+5. 10 reps
+
+## Rotation Stretches
+
+### Supine Twist
+
+1. Lie on back, knees bent
+2. Drop both knees to right
+3. Keep shoulders flat on floor
+4. Look left
+5. Hold 30 seconds each side
+
+### Seated Rotation
+
+1. Sit in chair
+2. Cross right leg over left
+3. Rotate torso to right
+4. Use left elbow on outside of right knee
+5. Hold 30 seconds each side
+
+## Hip Stretches (Affect Lower Back)
+
+### Hip Flexor Stretch
+
+1. Half-kneeling (one knee down)
+2. Tuck tailbone under
+3. Lean forward until stretch in front of hip
+4. Hold 30 seconds each side
+
+Tight hip flexors pull on lower back—stretch them daily.
+
+### Piriformis Stretch
+
+1. Lie on back
+2. Cross right ankle over left knee
+3. Pull left thigh toward chest
+4. Hold 30 seconds each side
+
+### Figure-4 Stretch (Seated)
+
+1. Sit in chair
+2. Cross right ankle over left knee
+3. Lean forward with straight back
+4. Hold 30 seconds each side
+
+## The Complete Routine (10 minutes)
+
+### Morning Routine
+
+1. Knee to chest: 30 sec each leg
+2. Cat stretches: 10 reps
+3. Hip flexor stretch: 30 sec each side
+4. Press-ups or prayer stretch (based on your type): 10 reps
+
+### Hourly Break (1 minute)
+
+1. Standing backbend: 5 reps
+2. Hip flexor stretch: 20 sec each side
+
+### Evening Routine
+
+1. Child's pose: 60 seconds
+2. Supine twist: 30 sec each side
+3. Figure-4: 30 sec each side
+4. Knee to chest: 30 sec both knees
+5. Cat-cow flow: 10 cycles
+
+## Movement Is Medicine
+
+Beyond stretching:
+
+### Walk Daily
+
+Walking naturally moves your spine through its ranges. Aim for 20-30 minutes.
+
+### Change Positions Often
+
+Don't sit or stand for hours. Move every 30 minutes.
+
+### Strengthen Core and Glutes
+
+Stretching helps; strengthening prevents recurrence. Add:
+- Bird dogs
+- Dead bugs
+- Glute bridges
+
+## What to Avoid
+
+### When Pain Is Acute
+
+- Don't push through significant pain
+- Avoid heavy lifting
+- Skip exercises that reproduce your pain
+
+### General Cautions
+
+- Never bounce into stretches
+- Don't hold breath
+- Stop if numbness or tingling down leg
+- Avoid twisting and bending together under load
+
+## When to Get Help
+
+See a professional if:
+
+- Pain down leg (sciatica pattern)
+- Numbness, tingling, or weakness
+- Bladder or bowel changes (emergency)
+- Pain after trauma
+- No improvement after 2-3 weeks
+- Pain that wakes you at night
+
+## Quick Relief Protocol
+
+When back pain strikes:
+
+1. Move gently (don't freeze up)
+2. Try walking 5-10 minutes
+3. Gentle stretches based on your type
+4. Heat or ice (preference)
+5. Return to normal activity as able
+
+Prolonged bed rest makes back pain worse. Keep moving.
+
+## The Bottom Line
+
+Lower back tightness usually responds well to consistent stretching, especially when combined with hip flexibility work and core strengthening. Figure out which direction helps your pain (flexion vs. extension), stretch daily, and keep moving. Most back pain improves within weeks with this approach.
+`
+  },
+  'shoulder-exercises-stretches-pain': {
+    title: 'Shoulder Stretches and Exercises for Pain Relief',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Shoulder Pain',
+    readTime: '6 min read',
+    content: `
+## Understanding Shoulder Pain
+
+The shoulder is the most mobile joint in your body—which also makes it vulnerable. Common causes of pain include:
+
+- Rotator cuff problems (tendinitis, tears)
+- Impingement (pinching)
+- Frozen shoulder (adhesive capsulitis)
+- Arthritis
+- Tight muscles (especially chest and upper trap)
+- Weak stabilizers
+
+Most shoulder pain improves with the right exercises.
+
+## Stretches for Tight Shoulders
+
+### Cross-Body Stretch
+
+1. Bring right arm across chest
+2. Use left hand to pull arm closer
+3. Keep right shoulder down (don't shrug)
+4. Hold 30 seconds each side
+
+Stretches the posterior shoulder.
+
+### Doorway Chest Stretch
+
+1. Stand in doorway
+2. Place forearm on door frame, elbow at 90 degrees
+3. Step through with one foot
+4. Feel stretch in chest and front of shoulder
+5. Hold 30 seconds
+6. Try at different heights (arm higher and lower)
+
+### Sleeper Stretch
+
+1. Lie on painful side
+2. Arm straight out, elbow bent 90 degrees
+3. Use other hand to push hand toward floor
+4. Hold 30 seconds
+5. Don't push into pain
+
+Good for internal rotation tightness.
+
+### Behind Back Reach
+
+1. Reach one arm behind back, palm out
+2. Walk fingers up your spine
+3. Hold 20 seconds
+4. Compare sides—work on tighter side more
+
+### Overhead Reach
+
+1. Clasp hands overhead
+2. Stretch arms up and slightly back
+3. Feel stretch through shoulders and chest
+4. Hold 30 seconds
+
+### Thread the Needle
+
+1. On hands and knees
+2. Slide right arm under body toward left
+3. Let right shoulder and head rest on floor
+4. Hold 30 seconds each side
+
+Great for thoracic rotation and shoulder stretch.
+
+## Strengthening Exercises
+
+### Rotator Cuff Exercises
+
+**External Rotation (Side-lying):**
+1. Lie on non-painful side
+2. Top arm at side, elbow bent 90 degrees
+3. Rotate forearm toward ceiling
+4. Keep elbow at side
+5. 15-20 reps
+6. Add light weight as able
+
+**External Rotation (Standing with Band):**
+1. Elbow at side, bent 90 degrees
+2. Hold band, other end secured at elbow height
+3. Rotate forearm outward
+4. Keep elbow at side
+5. 15-20 reps each arm
+
+**Internal Rotation (Band):**
+1. Same setup, band on outside
+2. Rotate forearm across body
+3. 15-20 reps each arm
+
+### Scapular Exercises
+
+**Scapular Squeezes:**
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. Relax
+4. 15-20 reps
+
+**Wall Push-Ups Plus:**
+1. Hands on wall, arms straight
+2. Push into wall, rounding upper back
+3. Feel shoulder blades spread apart
+4. Return, squeeze blades together
+5. 15 reps
+
+**Rows (Band or Light Weight):**
+1. Pull elbows back, squeezing shoulder blades
+2. Don't shrug shoulders
+3. 15 reps
+
+**Y-T-W Raises (Prone):**
+1. Lie face down, arms hanging or on bench
+2. Raise arms into Y position (thumbs up)
+3. Lower, raise into T (thumbs up)
+4. Lower, raise into W (elbows bent)
+5. 10 of each
+
+### Shoulder Blade Stability
+
+**Prone Y Raises:**
+1. Lie face down
+2. Arms overhead in Y shape
+3. Lift arms, thumbs toward ceiling
+4. Squeeze between shoulder blades
+5. Hold 5 seconds
+6. 10-15 reps
+
+**Prone T Raises:**
+1. Arms straight out to sides
+2. Lift, squeezing shoulder blades
+3. Hold 5 seconds
+4. 10-15 reps
+
+## Posture Matters
+
+Poor posture—rounded shoulders, forward head—sets up shoulder problems:
+
+- Chest gets tight
+- Upper back gets weak
+- Space for rotator cuff decreases
+- Impingement risk increases
+
+Address posture:
+- Chin tucks
+- Chest stretches (doorway stretch)
+- Upper back strengthening (rows, Y-T-W)
+- Desk and phone ergonomics
+
+## Sample Routine
+
+### Daily (5-7 minutes)
+
+1. Doorway chest stretch: 30 sec each arm
+2. Cross-body stretch: 30 sec each side
+3. Scapular squeezes: 15 reps
+4. External rotation: 15 reps each side (band or weight)
+
+### 3x Per Week (15 minutes)
+
+1. All daily exercises
+2. Rows: 2 x 15
+3. Prone Y-T-W: 10 each
+4. Wall push-ups plus: 2 x 15
+5. Internal rotation: 15 each side
+6. Sleeper stretch: 30 sec each side
+
+## What to Avoid
+
+### When Shoulder Hurts
+
+- Exercises that reproduce sharp pain
+- Reaching behind back forcefully
+- Heavy pressing (bench press, overhead press)
+- Sleeping on the painful shoulder
+
+### Common Mistakes
+
+- Shrugging during exercises
+- Ignoring the scapula (shoulder blade)
+- Only stretching, not strengthening
+- Pushing through significant pain
+
+## Specific Conditions
+
+### Impingement
+
+Focus on:
+- Rotator cuff strengthening (especially external rotation)
+- Scapular stability
+- Posture correction
+- Avoid overhead reaching until improved
+
+### Rotator Cuff Tendinitis
+
+- Start with isometrics (hold, don't move)
+- Progress to slow movements
+- External rotation emphasis
+- Patient progression over weeks
+
+### Frozen Shoulder
+
+- Pendulum exercises first
+- Gentle stretching to tolerance
+- Consistency more important than intensity
+- Can take 12-24 months to fully resolve
+
+## When to See a Doctor
+
+Get evaluated if:
+- Pain after injury/trauma
+- Unable to lift arm
+- Significant weakness
+- Night pain that disrupts sleep
+- No improvement after 4-6 weeks
+- Numbness or tingling down arm
+
+## The Bottom Line
+
+Most shoulder pain responds to consistent stretching and strengthening—specifically, stretching the chest and posterior shoulder while strengthening the rotator cuff and scapular muscles. Address posture, be patient (shoulders take time), and avoid pushing through pain. Daily consistency for 6-8 weeks usually produces significant improvement.
+`
+  },
   'how-to-improve-posture-exercises-habits': {
     title: 'How to Improve Posture: Exercises and Daily Habits That Actually Work',
     date: '2026-03-07',

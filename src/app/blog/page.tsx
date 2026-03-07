@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'knee-strengthening-exercises-weak-knees',
+    title: 'Exercises for Weak Knees: Build Strength and Reduce Pain',
+    excerpt: 'Weak knees lead to pain and instability. These exercises strengthen the muscles around your knee to protect the joint.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'neck-stretches-pain-relief',
+    title: 'Neck Stretches for Pain Relief: Quick Routines That Actually Work',
+    excerpt: 'Tight, painful neck? These stretches and exercises provide relief and help prevent future pain.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Neck Pain',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'lower-back-stretches-pain-relief',
+    title: 'Lower Back Stretches: Relieve Tightness and Reduce Pain',
+    excerpt: 'A tight lower back affects everything you do. These stretches provide relief and improve mobility.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'shoulder-exercises-stretches-pain',
+    title: 'Shoulder Stretches and Exercises for Pain Relief',
+    excerpt: 'Shoulder pain limits daily activities. These stretches and exercises restore mobility and reduce discomfort.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Shoulder Pain',
+    readTime: '6 min read'
+  },
+  {
     slug: 'how-to-improve-posture-exercises-habits',
     title: 'How to Improve Posture: Exercises and Daily Habits That Actually Work',
     excerpt: 'Poor posture causes pain and affects how you look and feel. Here\'s how to actually fix it with targeted exercises and habit changes.',
