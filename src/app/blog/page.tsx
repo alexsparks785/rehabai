@@ -2381,6 +2381,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '6 min read'
+  },
+  {
+    slug: 'parkinsons-exercises-movement',
+    title: 'Parkinson\'s Exercises: Movement Strategies That Make a Difference',
+    excerpt: 'Exercise is neuroprotective in Parkinson\'s. Learn which exercises improve mobility, balance, and quality of life.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'peripheral-neuropathy-exercises',
+    title: 'Peripheral Neuropathy Exercises: Improve Balance and Reduce Symptoms',
+    excerpt: 'Numbness and tingling in your feet? These exercises improve balance, maintain strength, and help manage neuropathy symptoms.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'long-covid-exercise-recovery',
+    title: 'Long COVID Exercise: How to Safely Return to Activity',
+    excerpt: 'Post-COVID fatigue requires careful pacing. Learn how to rebuild fitness without triggering post-exertional symptoms.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'rheumatoid-arthritis-exercises',
+    title: 'Rheumatoid Arthritis Exercises: Protect Your Joints While Staying Active',
+    excerpt: 'RA requires balancing rest and movement. These exercises reduce stiffness and maintain function without stressing inflamed joints.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
   }
 ];
 

@@ -59026,6 +59026,1071 @@ Your spine's future mobility depends on what you do today.
 
 *Foundational Rehab provides mobility and posture programs to help maintain function with spinal conditions.*
     \`
+  },
+  'parkinsons-exercises-movement': {
+    title: 'Parkinson\'s Exercises: Movement Strategies That Make a Difference',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '7 min read',
+    content: \`
+## Exercise as Medicine for Parkinson's
+
+Exercise isn't just helpful for Parkinson's disease—it may be neuroprotective, potentially slowing disease progression. Research consistently shows:
+
+- Improved mobility and balance
+- Reduced fall risk
+- Better quality of life
+- Possible slowing of motor decline
+- Improved non-motor symptoms (mood, sleep, cognition)
+
+**Bottom line:** Exercise is one of the most important things you can do.
+
+## Key Movement Challenges in Parkinson's
+
+Understanding these helps target your exercise program:
+
+- **Bradykinesia:** Slowness of movement
+- **Rigidity:** Muscle stiffness
+- **Tremor:** Involuntary shaking
+- **Postural instability:** Balance problems
+- **Freezing:** Sudden inability to move
+- **Reduced arm swing:** While walking
+- **Shuffling gait:** Short, shuffling steps
+- **Soft voice:** Reduced vocal volume
+
+## Amplitude-Based Training (BIG Movements)
+
+Research shows that people with Parkinson's have reduced movement amplitude—movements become smaller over time.
+
+**The solution:** Practice BIG, exaggerated movements.
+
+### LSVT BIG Principles
+1. Focus on amplitude (size) of movement
+2. Use high effort and intensity
+3. Practice multiple repetitions
+4. Calibrate what "normal" feels like
+
+### BIG Exercises
+
+**BIG Arm Swings**
+1. Stand tall
+2. Swing arms as big as possible
+3. Front to back, side to side
+4. Exaggerate the movement
+5. 10-15 swings each direction
+
+**BIG Steps**
+1. March in place with exaggerated high knees
+2. Then walk with oversized steps
+3. Swing arms deliberately
+4. Think "BIG" with each step
+5. Practice daily
+
+**BIG Sit-to-Stand**
+1. Sit in chair
+2. Lean forward dramatically
+3. Push up with full force
+4. Stand as tall as possible
+5. Sit down with control
+6. 10 repetitions
+
+**BIG Reaching**
+1. Reach arms overhead—higher than feels necessary
+2. Reach to sides—wider than feels natural
+3. Reach forward—farther than seems needed
+4. 10 reaches each direction
+
+## Balance Exercises
+
+Falls are a major concern in Parkinson's. Practice balance daily:
+
+**Weight Shifts**
+1. Stand with feet hip-width
+2. Shift weight fully to one side
+3. Return to center
+4. Shift to other side
+5. 10 each direction
+
+**Tandem Standing**
+1. Stand heel-to-toe
+2. Hold 30 seconds
+3. Switch feet
+4. Progress: reduce support, close eyes
+
+**Single Leg Stance**
+1. Hold support as needed
+2. Lift one foot
+3. Hold 30 seconds each leg
+4. Progress: less support, eyes closed
+
+**Backward Walking**
+1. In a safe space with support available
+2. Walk backward with deliberate steps
+3. 10-20 steps
+4. Challenges balance differently than forward walking
+
+**Multi-Directional Stepping**
+1. Step forward, return to center
+2. Step backward, return
+3. Step to each side, return
+4. Step diagonally, return
+5. 5 steps each direction
+
+## Gait Training
+
+### Cueing Strategies
+
+External cues can help overcome freezing and improve gait:
+
+**Visual Cues**
+- Tape lines on floor to step over
+- Laser pointer to create a target
+- Obstacle course (step over objects)
+
+**Auditory Cues**
+- Metronome for rhythm
+- Music with a beat
+- Counting out loud
+
+**Cognitive Strategies**
+- "Big steps"
+- "Heel first"
+- "Swing arms"
+- Focus on one element at a time
+
+### Walking Practice
+
+**Everyday Walking**
+1. Think "BIG steps, heel first"
+2. Swing arms deliberately
+3. Stand tall
+4. Use cues if needed
+
+**Treadmill Training**
+- Forces consistent pace
+- Can improve gait speed
+- Use harness or handrails for safety
+- Studies show benefits
+
+**Nordic Walking**
+- Poles promote arm swing
+- Improves posture
+- Adds upper body work
+- Social and outdoors
+
+## Dual-Task Training
+
+Parkinson's affects ability to do two things at once. Practice:
+
+- Walk while talking
+- Walk while counting backward
+- Walk while carrying something
+- Balance while moving arms
+
+Start simple, progress complexity. This matters for real-life function.
+
+## Flexibility and Stretching
+
+Combat rigidity with daily stretching:
+
+**Trunk Rotation**
+1. Sit or stand
+2. Rotate upper body fully to each side
+3. Hold 20-30 seconds
+4. Keep hips stable
+
+**Chest Opener**
+1. Stand in doorway
+2. Arms on frame
+3. Lean forward to stretch chest
+4. Hold 30 seconds
+
+**Hip Flexor Stretch**
+1. Kneeling lunge position
+2. Push hips forward
+3. Hold 30 seconds each side
+
+**Spinal Extension**
+1. Lie face down
+2. Prop on elbows
+3. Or press up with hands
+4. Hold 20-30 seconds
+
+## Strength Training
+
+Weakness worsens all PD symptoms. Build strength:
+
+**Squats**
+1. Sit to stand from chair
+2. Progress to deeper squats
+3. 2-3 sets of 10-15
+
+**Step-Ups**
+1. Step up onto sturdy step
+2. Stand tall at top
+3. Step down with control
+4. 10-15 each leg
+
+**Resistance Band Exercises**
+- Rows
+- Chest press
+- Hip exercises
+- All directions, 2-3 sets of 10-15
+
+**Weight Training**
+Research supports resistance training for Parkinson's. Work with a trainer if possible.
+
+## High-Intensity Exercise
+
+Emerging research supports higher intensity:
+
+**Cycling**
+- Forced-rate cycling (pedaling faster than self-selected)
+- May have specific brain benefits
+- Stationary bike programs
+
+**Boxing**
+- Rock Steady Boxing programs
+- Non-contact boxing training
+- Combines cardio, strength, balance, coordination
+
+**Power Training**
+- Moving weights quickly
+- Builds power needed for daily activities
+- Should be supervised initially
+
+## Voice Exercises (LSVT LOUD Principles)
+
+Voice changes are common. Practice:
+
+**Sustained "Ah"**
+1. Take a breath
+2. Say "Ah" as loud as you can
+3. Hold as long as possible
+4. Repeat 3-5 times
+
+**Loud Counting**
+1. Count 1-10 as loud as possible
+2. Exaggerate mouth movements
+3. Repeat 3-5 times
+
+**Reading Aloud**
+1. Read a passage LOUD
+2. Exaggerate pronunciation
+3. Practice daily
+
+## Sample Weekly Program
+
+**Daily (20-30 minutes):**
+- BIG movements (arm swings, steps, reaching)
+- Balance exercises
+- Stretching
+- Voice exercises
+
+**3x/Week (30-45 minutes):**
+- Strength training
+- Longer walking or cardio
+
+**1-2x/Week:**
+- Specific class (boxing, cycling, dance)
+- Dual-task training
+
+## Tips for Success
+
+1. **Exercise during "on" time** when medications are working
+2. **Stay consistent**—daily movement matters most
+3. **Challenge yourself**—intensity matters
+4. **Think BIG**—amplitude is key
+5. **Work with a PT** knowledgeable about Parkinson's
+6. **Join a group**—social support helps
+
+## The Bottom Line
+
+Exercise is one of the most powerful tools for managing Parkinson's disease:
+
+- Make movements BIG
+- Practice balance daily
+- Build strength
+- Stay active and challenged
+- Consider high-intensity options
+
+The evidence is clear: people with Parkinson's who exercise do better than those who don't.
+
+---
+
+*Foundational Rehab provides movement programs designed to support neurological health and function.*
+    \`
+  },
+  'peripheral-neuropathy-exercises': {
+    title: 'Peripheral Neuropathy Exercises: Improve Balance and Reduce Symptoms',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## What Is Peripheral Neuropathy?
+
+Peripheral neuropathy is nerve damage that typically affects the hands and feet first. Symptoms include:
+
+- Numbness or reduced sensation
+- Tingling ("pins and needles")
+- Burning or shooting pain
+- Weakness
+- Balance problems
+- Sensitivity to touch
+
+Common causes include diabetes, chemotherapy, autoimmune conditions, and vitamin deficiencies.
+
+## Why Exercise Matters
+
+Exercise helps neuropathy by:
+
+- Improving blood flow to nerves
+- Reducing blood sugar (diabetic neuropathy)
+- Maintaining strength despite nerve damage
+- Improving balance to prevent falls
+- Potentially slowing progression
+- Managing pain
+
+## The Balance Challenge
+
+Neuropathy impairs proprioception—your sense of where your body is in space. When you can't feel your feet well, balance suffers.
+
+**Falls are a major risk.** Balance training is essential.
+
+## Balance Exercises
+
+### Level 1: Supported
+
+**Weight Shifts**
+1. Stand holding sturdy surface
+2. Shift weight fully to one side
+3. Hold 5 seconds
+4. Return to center, shift other side
+5. 10 each direction
+
+**Tandem Stance**
+1. Stand heel-to-toe
+2. Hold support as needed
+3. Hold 30 seconds
+4. Switch feet
+
+**Single Leg Stance**
+1. Hold counter or wall
+2. Lift one foot slightly
+3. Hold 10-30 seconds
+4. Switch legs
+
+### Level 2: Reduced Support
+
+**Fingertip Support**
+- Same exercises with only fingertips touching support
+
+**One-Hand Support**
+- Progress to single hand on support
+
+### Level 3: Unsupported
+
+**Unsupported Standing**
+- Perform exercises without holding on
+- Keep support nearby for safety
+
+**Eyes Closed**
+- Close eyes during exercises
+- Forces reliance on non-visual balance
+- Only when safe to do so
+
+### Level 4: Challenging Surfaces
+
+**Foam Pad**
+- Stand on foam pad
+- Perform balance exercises
+- Unstable surface challenges balance
+
+**Pillow**
+- Stand on firm pillow
+- Progress through balance exercises
+
+## Strength Training
+
+Weakness from nerve damage can be partially compensated with strength:
+
+### Lower Body
+
+**Heel Raises**
+1. Stand holding support
+2. Rise onto toes
+3. Lower slowly
+4. 10-15 repetitions
+5. Progress: single leg
+
+**Toe Raises**
+1. Stand holding support
+2. Lift toes off ground
+3. Lower slowly
+4. 10-15 repetitions
+5. Strengthens shin muscles
+
+**Squats**
+1. Stand with support available
+2. Squat to comfortable depth
+3. Stand back up
+4. 10-15 repetitions
+
+**Step-Ups**
+1. Step up onto sturdy step
+2. Stand tall
+3. Step down with control
+4. 10-15 each leg
+
+**Hip Exercises**
+1. Stand holding support
+2. Lift leg to side (abduction)
+3. Lift leg backward (extension)
+4. 10-15 each direction
+
+### Upper Body (If Hands Affected)
+
+**Wrist Curls**
+1. Hold light weight
+2. Curl wrist up, then down
+3. 15 repetitions each direction
+
+**Grip Strengthening**
+1. Squeeze soft ball or putty
+2. Hold 5 seconds
+3. Release
+4. 10-15 repetitions
+
+**Finger Extensions**
+1. Use rubber band around fingers
+2. Spread fingers against resistance
+3. 15 repetitions
+
+## Flexibility Exercises
+
+Maintain range of motion:
+
+**Ankle Circles**
+1. Sit or lie down
+2. Circle ankles in both directions
+3. 10 circles each way
+
+**Toe Stretches**
+1. Sit in chair
+2. Cross ankle over knee
+3. Pull toes back gently
+4. Hold 30 seconds
+
+**Calf Stretches**
+1. Stand facing wall
+2. Step back with one leg
+3. Keep heel down, lean forward
+4. Hold 30 seconds each leg
+
+**Hamstring Stretches**
+1. Sit on edge of chair
+2. Extend one leg
+3. Lean forward from hips
+4. Hold 30 seconds each leg
+
+## Aerobic Exercise
+
+Cardiovascular exercise improves circulation and may help nerve health:
+
+**Walking**
+- Use appropriate footwear
+- Well-lit, even surfaces
+- Use assistive device if needed
+- Start with short distances
+
+**Stationary Cycling**
+- Lower fall risk
+- Good cardiovascular workout
+- Monitor foot position
+
+**Swimming/Water Exercise**
+- No balance demands
+- Buoyancy supports
+- Excellent for overall fitness
+
+**Seated Aerobics**
+- If standing is unsafe
+- Arm movements, leg lifts
+- Maintains cardiovascular fitness
+
+## Safety Considerations
+
+Reduced sensation increases injury risk:
+
+**Foot Care**
+- Check feet daily for injuries
+- Wear proper footwear (even indoors)
+- Avoid walking barefoot
+- Keep feet dry and clean
+
+**Fall Prevention**
+- Remove tripping hazards
+- Use night lights
+- Install grab bars if needed
+- Consider assistive devices
+
+**Exercise Safety**
+- Use support during balance exercises
+- Exercise in safe environments
+- Avoid overheating (can worsen symptoms)
+- Check feet after exercise
+
+## Glucose Control (Diabetic Neuropathy)
+
+If diabetes is the cause, exercise helps control blood sugar:
+
+- Regular exercise improves insulin sensitivity
+- May slow neuropathy progression
+- Work with your healthcare team
+- Monitor blood sugar around exercise
+
+## Sample Daily Routine
+
+**Morning (10 minutes):**
+- Ankle and toe stretches
+- Seated toe raises and heel raises
+- Balance exercises (supported)
+
+**Midday:**
+- Walking or cycling (20-30 minutes)
+- Or water exercise
+
+**Evening (10 minutes):**
+- Standing balance progression
+- Lower body strengthening
+- Calf stretches
+
+## When to See a Professional
+
+Consult a physical therapist if:
+- Frequent falls or near-falls
+- Unsure about exercise safety
+- Significant weakness
+- Balance significantly impaired
+- Need assistive device evaluation
+
+See your doctor if:
+- Symptoms worsening rapidly
+- New areas affected
+- Wounds or infections on feet
+- Pain uncontrolled
+
+## The Bottom Line
+
+Peripheral neuropathy doesn't mean you can't exercise—it means you must exercise (safely):
+
+1. Balance training is essential
+2. Strengthen to compensate for weakness
+3. Maintain flexibility
+4. Stay aerobically active
+5. Practice foot safety
+6. Progress gradually
+
+Exercise may not reverse nerve damage, but it can maintain function, prevent falls, and potentially slow progression.
+
+---
+
+*Foundational Rehab offers balance and strengthening programs adaptable for neuropathy management.*
+    \`
+  },
+  'long-covid-exercise-recovery': {
+    title: 'Long COVID Exercise: How to Safely Return to Activity',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: \`
+## The Challenge of Long COVID
+
+Long COVID presents unique challenges for exercise. Many people experience:
+
+- **Post-exertional malaise (PEM):** Symptoms worsen 12-72 hours after activity
+- **Fatigue:** Profound exhaustion not relieved by rest
+- **Exercise intolerance:** Symptoms triggered by previously tolerable activity
+- **Autonomic dysfunction:** Heart rate and blood pressure irregularities
+- **Brain fog:** Cognitive difficulties
+- **Breathlessness:** Out of proportion to exertion
+
+**The usual advice—"push through it"—can make long COVID worse.**
+
+## Post-Exertional Malaise (PEM)
+
+PEM is the hallmark symptom. It means:
+
+- Activity feels fine in the moment
+- Hours to days later, symptoms crash
+- Can last days to weeks
+- Includes fatigue, pain, cognitive issues, flu-like symptoms
+
+**Critical point:** PEM means your body can't recover normally from exertion. Pushing through creates setbacks.
+
+## The Pacing-First Approach
+
+Before increasing exercise, stabilize your baseline:
+
+### 1. Track Your Activity
+
+- Note all activities (physical, mental, emotional)
+- Rate symptom levels daily
+- Identify patterns and triggers
+- Find your "energy envelope"
+
+### 2. Stay Within Your Limits
+
+- Don't use all available energy
+- Stop before exhaustion
+- Break activities into small chunks
+- Rest between activities
+
+### 3. Prioritize
+
+- Essential activities first
+- Cut non-essential demands
+- Delegate when possible
+- Rest is productive
+
+## Heart Rate Monitoring
+
+Many long COVID patients benefit from heart rate pacing:
+
+### Find Your Threshold
+
+- Note heart rate when symptoms worsen
+- Often 100-110 bpm triggers symptoms
+- Some use "anaerobic threshold" testing
+
+### Stay Below It
+
+- Monitor heart rate during activity
+- Stop or slow when approaching threshold
+- Even walking may need modification
+- Use a heart rate monitor
+
+### Sample Limits
+
+- Walking: Keep HR under 100-110 bpm
+- May mean very slow walking
+- May need seated activities only initially
+
+## Gentle Starting Points
+
+When ready to add structured activity (after baseline stability):
+
+### Breathing Exercises
+
+**Diaphragmatic Breathing**
+1. Lie on back, knees bent
+2. Hand on belly
+3. Breathe in—belly rises
+4. Breathe out—belly falls
+5. 5-10 minutes, 2-3x daily
+
+**Box Breathing**
+1. Inhale 4 seconds
+2. Hold 4 seconds
+3. Exhale 4 seconds
+4. Hold 4 seconds
+5. Repeat 5-10 cycles
+
+### Gentle Stretching
+
+- Bed or floor based
+- No significant exertion
+- 5-10 minutes
+- Stop if symptoms increase
+
+### Reclined Exercises
+
+**Supine Leg Slides**
+1. Lie on back
+2. Slowly slide one heel toward buttock
+3. Return
+4. 5-10 each leg
+
+**Supine Arm Raises**
+1. Lie on back
+2. Slowly raise arms overhead
+3. Lower slowly
+4. 5-10 repetitions
+
+## Gradual Progression
+
+**Only progress if:**
+- No PEM from current level
+- Stable for at least 1-2 weeks
+- Recovery feels normal
+
+**Increase by:**
+- Adding 1-2 minutes
+- Or adding 1-2 repetitions
+- Never increase intensity and duration together
+- Wait 48-72 hours to assess for PEM before progressing
+
+### Sample Progression
+
+**Week 1-2:** Breathing exercises only (5-10 min)
+**Week 3-4:** Add gentle stretching (5 min)
+**Week 5-6:** Add reclined exercises (5 min)
+**Week 7-8:** Seated exercises (5-10 min)
+**Week 9+:** Standing exercises, short walks
+
+**Note:** This timeline varies enormously. Some need months at each stage.
+
+## Exercise Types to Consider
+
+### Lowest Demand
+- Breathing exercises
+- Gentle stretching (lying down)
+- Reclined exercises
+
+### Low Demand
+- Seated exercises
+- Restorative yoga
+- Tai chi (seated)
+- Gentle aquatic movement (warm water)
+
+### Moderate Demand (Later)
+- Slow walking (short distances)
+- Stationary cycling (very low resistance)
+- Standing exercises
+
+### Higher Demand (Much Later, If Ever)
+- Normal walking
+- Light resistance training
+- Swimming
+
+## Red Flags: Stop If You Experience
+
+- Significant heart rate increase (>20 bpm above resting)
+- Chest pain or pressure
+- Severe breathlessness
+- Dizziness or lightheadedness
+- Symptoms worsening during exercise
+- Post-exercise malaise within 48-72 hours
+
+**If red flags occur:** Return to previous stable level. Consult healthcare provider.
+
+## Autonomic Considerations
+
+Many with long COVID have dysautonomia:
+
+**Orthostatic intolerance:**
+- Symptoms worsen when upright
+- Start with reclined exercise
+- Progress to seated before standing
+- May need compression garments, extra salt/fluids
+
+**Heart rate variability:**
+- HR may spike with minimal exertion
+- Monitor and respect limits
+- Beta blockers sometimes helpful (discuss with doctor)
+
+## What NOT to Do
+
+- Don't "push through" fatigue
+- Don't follow standard "return to sport" protocols
+- Don't compare to previous fitness
+- Don't exercise during a crash
+- Don't ignore PEM signals
+- Don't assume graded exercise therapy (GET) is appropriate
+
+## Getting Support
+
+Consider working with:
+- Physicians knowledgeable about long COVID
+- Physical therapists experienced in post-viral conditions
+- Occupational therapists for energy management
+- Long COVID clinics if available
+
+## The Bottom Line
+
+Long COVID requires a different approach to exercise:
+
+1. Pacing first, exercise second
+2. Find your energy limits
+3. Start extremely low
+4. Progress extremely slowly
+5. Monitor for PEM
+6. Setbacks are information, not failure
+
+Recovery is possible, but it requires patience and respecting your body's signals.
+
+---
+
+*Foundational Rehab provides gentle, adaptable programs suitable for fatigue-related conditions.*
+    \`
+  },
+  'rheumatoid-arthritis-exercises': {
+    title: 'Rheumatoid Arthritis Exercises: Protect Your Joints While Staying Active',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: \`
+## Exercise and Rheumatoid Arthritis
+
+Rheumatoid arthritis (RA) is an autoimmune condition causing joint inflammation. Exercise might seem counterintuitive, but research clearly shows:
+
+- Exercise reduces RA symptoms
+- It improves function and quality of life
+- It doesn't worsen joint damage (when done appropriately)
+- Inactivity leads to worse outcomes
+
+The key is exercising *appropriately*—respecting flares, protecting joints, and finding the right balance.
+
+## Understanding Your RA
+
+### Flares vs. Stable Disease
+
+**During flares:**
+- Joints are hot, swollen, painful
+- Reduce exercise intensity
+- Focus on gentle range of motion
+- Don't stop completely if possible
+
+**During stable periods:**
+- More exercise is appropriate
+- Build strength and endurance
+- Progress your program
+
+### Joint Protection Principles
+
+- Respect pain (stop if pain increases significantly)
+- Distribute loads across multiple joints
+- Avoid sustained gripping or pinching
+- Use good body mechanics
+- Don't exercise inflamed joints intensely
+
+## Range of Motion Exercises
+
+Maintain flexibility in all joints, especially affected ones:
+
+### Morning Routine (Combat Stiffness)
+
+**Finger Exercises**
+1. Make a fist, then spread fingers wide
+2. Touch thumb to each fingertip
+3. Repeat 10 times
+
+**Wrist Circles**
+1. Circle wrists slowly in both directions
+2. 10 circles each way
+
+**Shoulder Circles**
+1. Roll shoulders forward, then backward
+2. 10 each direction
+
+**Ankle Circles**
+1. Circle ankles in both directions
+2. 10 circles each way
+
+**Knee Bends**
+1. Sitting or lying, bend and straighten knees
+2. 10 repetitions
+
+### Full Body Stretching
+
+- All major joints through full range
+- Hold stretches 15-30 seconds
+- No bouncing
+- Gentle pressure only
+- Daily if possible
+
+## Strengthening Exercises
+
+Strong muscles support and protect joints:
+
+### Isometric Exercises (Joint-Friendly)
+
+Muscle contraction without joint movement—safe during mild flares:
+
+**Quad Sets**
+1. Sit with leg straight
+2. Tighten thigh muscle
+3. Hold 5 seconds
+4. 10 repetitions each leg
+
+**Gluteal Squeeze**
+1. Sit or lie down
+2. Squeeze buttock muscles
+3. Hold 5 seconds
+4. 10 repetitions
+
+**Palm Press**
+1. Press palms together in front of chest
+2. Hold 5 seconds
+3. 10 repetitions
+
+### Dynamic Strengthening
+
+When joints are stable:
+
+**Bridges**
+1. Lie on back, knees bent
+2. Lift hips toward ceiling
+3. Hold 3 seconds, lower
+4. 10 repetitions
+
+**Wall Push-Ups**
+1. Stand facing wall
+2. Place hands shoulder-width
+3. Lean in, push back
+4. 10 repetitions
+
+**Seated Leg Extensions**
+1. Sit in chair
+2. Straighten one leg
+3. Hold 3 seconds, lower
+4. 10 each leg
+
+**Standing Hip Exercises**
+1. Hold support
+2. Lift leg to side, back, forward
+3. 10 each direction, each leg
+
+### Resistance Training
+
+Light weights or resistance bands:
+- Start with minimal resistance
+- Higher reps (12-15), lower weight
+- Avoid heavy gripping (use wrist straps if needed)
+- Stop if joint pain increases
+- 2-3 sessions per week
+
+## Aerobic Exercise
+
+Cardiovascular fitness matters for overall health:
+
+### Best Options for RA
+
+**Walking**
+- Low impact
+- Easy to modify intensity
+- 20-30 minutes most days
+
+**Swimming/Water Exercise**
+- Excellent for RA
+- Buoyancy reduces joint stress
+- Warm water soothes stiffness
+- Full-body workout
+
+**Cycling**
+- Stationary or outdoor
+- Low joint impact
+- Good for legs and cardiovascular system
+
+**Elliptical**
+- Low impact
+- Weight-bearing benefits
+- Easier on joints than running
+
+### Aerobic Guidelines
+
+- Start with 10 minutes if deconditioned
+- Progress to 30 minutes, 5 days per week
+- Moderate intensity (can talk but slightly breathless)
+- Stop if joints become painful
+
+## Exercises to Modify or Avoid
+
+**Generally avoid:**
+- High-impact activities (running, jumping) during flares
+- Heavy weight lifting
+- Repetitive gripping
+- Contact sports
+- Exercises that cause joint pain
+
+**Modify:**
+- High-impact → Low-impact alternatives
+- Barbell → Resistance bands or machines
+- Tight gripping → Open palm or straps
+
+## Hand and Wrist Exercises
+
+Hands are commonly affected in RA:
+
+**Finger Spreads**
+1. Place hand flat on table
+2. Spread fingers apart
+3. Bring together
+4. 10 repetitions
+
+**Thumb Opposition**
+1. Touch thumb to each fingertip
+2. Make an "O" shape
+3. 10 cycles
+
+**Wrist Flexion/Extension**
+1. Rest forearm on table, hand over edge
+2. Bend wrist up, then down
+3. 10 repetitions
+
+**Tendon Glides**
+1. Start with fingers straight
+2. Make a hook fist
+3. Make a straight fist
+4. Make a full fist
+5. Return to straight
+6. 10 cycles
+
+## Sample Weekly Schedule
+
+**Daily (10-15 minutes):**
+- Morning range of motion routine
+- Stretching
+
+**3-5 Days/Week:**
+- Aerobic exercise (20-30 minutes)
+- Walking, swimming, or cycling
+
+**2-3 Days/Week:**
+- Strengthening exercises (20-30 minutes)
+- Resistance training
+
+## Exercising During Flares
+
+Don't stop completely, but modify:
+
+- Reduce intensity significantly
+- Focus on gentle range of motion
+- Isometric exercises only
+- Aquatic exercise if available
+- Shorter duration
+- Rest actively inflamed joints
+
+Resume normal program when flare subsides.
+
+## Working with Your Healthcare Team
+
+- Physical therapists can design personalized programs
+- Occupational therapists help with hand function
+- Rheumatologists guide medication management
+- Tell your team about your exercise plans
+
+## The Bottom Line
+
+Exercise is essential for managing RA:
+
+1. Maintain range of motion daily
+2. Build strength to protect joints
+3. Stay aerobically active
+4. Modify during flares, don't stop
+5. Choose joint-friendly activities
+6. Listen to your body
+
+Movement is medicine—the right dose, at the right time.
+
+---
+
+*Foundational Rehab offers joint-friendly strengthening and mobility programs for arthritis management.*
+    \`
   }
 };
 
