@@ -13,6 +13,882 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'balance-exercises-seniors-fall-prevention': {
+    title: 'Balance Exercises for Seniors: Prevent Falls and Stay Independent',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Balance Matters
+
+Falls are the leading cause of injury in adults over 65. One in four older adults falls each year, and falls can lead to fractures, head injuries, loss of independence, and fear of falling—which often leads to less activity and worse balance.
+
+The good news: **balance is trainable at any age.** Regular practice significantly reduces fall risk and keeps you moving confidently.
+
+## Understanding Balance
+
+Balance relies on three systems:
+
+**1. Vision**
+Your eyes tell you where you are in space. Poor lighting or vision problems increase fall risk.
+
+**2. Vestibular (Inner Ear)**
+Your inner ear detects head position and movement. This naturally declines with age.
+
+**3. Proprioception**
+Sensors in your joints and muscles tell your brain where your body is. This can be trained.
+
+When any system weakens, the others can compensate—but only if they're strong. Balance exercises train all three.
+
+## Beginner Balance Exercises
+
+Start here if you feel unsteady. Use a chair or counter for support as needed.
+
+### Weight Shifts
+
+1. Stand with feet hip-width apart
+2. Shift weight to right foot for 5 seconds
+3. Return to center
+4. Shift weight to left foot for 5 seconds
+5. Repeat 10 times each side
+
+### Heel-to-Toe Stand
+
+1. Place one foot directly in front of the other, heel touching toe
+2. Hold 10-30 seconds
+3. Switch feet forward
+4. Use wall or counter if needed
+
+### Single Leg Stand
+
+1. Stand on one leg, using support if needed
+2. Hold 10-30 seconds
+3. Switch legs
+4. Goal: work up to 30 seconds no support
+
+### Marching in Place
+
+1. Stand tall, support nearby
+2. Lift one knee up (hip level if possible)
+3. Lower and switch
+4. March 20 steps slowly
+
+## Intermediate Exercises
+
+Once basics feel easy, progress to these.
+
+### Heel-to-Toe Walking
+
+1. Walk in straight line, placing heel directly in front of toe
+2. Walk 20 steps forward
+3. Walk 20 steps backward (more challenging)
+
+### Single Leg with Movement
+
+1. Stand on one leg
+2. Reach arms out to sides
+3. Slowly circle arms
+4. 10 circles each direction, each leg
+
+### Standing on Foam
+
+1. Stand on a pillow or foam pad
+2. This challenges proprioception
+3. Practice single leg stands on foam
+
+### Sidesteps
+
+1. Step sideways 10 steps right
+2. Step sideways 10 steps left
+3. Add mini band around thighs for resistance
+
+## Advanced Exercises
+
+For those with good baseline balance.
+
+### Eyes Closed Balance
+
+1. Stand on one leg
+2. Close eyes
+3. This removes vision—challenging!
+4. Stay near support
+5. Work up to 30 seconds
+
+### Tandem Walking on Line
+
+1. Mark a straight line on floor
+2. Walk heel-to-toe along line
+3. Look straight ahead, not at feet
+4. 20 steps forward and back
+
+### Dynamic Reaching
+
+1. Stand on one leg
+2. Reach opposite arm forward
+3. Reach same arm to side
+4. Reach down toward floor
+5. 10 reaches each direction
+
+### Tai Chi Moves
+
+Tai Chi significantly reduces fall risk. Consider taking a class, or practice:
+- Weight shifts with arm movements
+- Slow single-leg stands
+- Controlled stepping
+
+## Safety Tips
+
+### Environment Setup
+
+- Clear clutter from floors
+- Ensure good lighting
+- Remove loose rugs or secure them
+- Install grab bars in bathroom
+- Keep commonly used items at accessible height
+
+### Footwear
+
+- Wear supportive shoes, even indoors
+- Avoid slippery socks
+- No high heels or flip-flops
+
+### When Exercising
+
+- Always have support nearby when starting
+- Exercise in clutter-free area
+- Don't rush—control beats speed
+- Stop if dizzy
+- Consistency beats intensity
+
+## Daily Practice Routine
+
+**5 minutes, twice daily:**
+
+1. Weight shifts (1 minute)
+2. Single leg stand each side (1 minute)
+3. Heel-to-toe walking (1 minute)
+4. Marching in place (1 minute)
+5. Sidesteps (1 minute)
+
+## When to Seek Help
+
+See a healthcare provider if:
+
+- You've had a fall
+- You feel unsteady walking
+- You have dizziness or vertigo
+- You avoid activities due to balance concerns
+- You have new difficulty with stairs
+
+A physical therapist can assess your specific risks and create a personalized program.
+
+## The Bottom Line
+
+Balance is a use-it-or-lose-it skill. Regular practice—even just 5 minutes twice daily—significantly reduces fall risk and maintains independence. Start at your level, progress gradually, and make it a daily habit.
+
+The best time to improve balance is before you fall, not after.
+`
+  },
+  'full-body-stretching-routine-flexibility': {
+    title: 'Full Body Stretching Routine: 15-Minute Flexibility Program',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Stretch?
+
+Flexibility isn't just about touching your toes. Regular stretching:
+
+- Reduces muscle tension and stiffness
+- Improves posture
+- Decreases injury risk
+- Enhances movement quality
+- Helps manage stress
+- Makes daily activities easier
+
+You don't need an hour. This 15-minute routine covers every major muscle group.
+
+## Before You Start
+
+**Warm up first.** Stretching cold muscles is less effective and risks injury. Do this routine:
+- After a workout
+- After a 5-minute walk
+- After a warm shower
+- Mid-day when you've been moving
+
+**How to stretch:**
+- Move slowly into the stretch
+- Hold at mild tension, not pain
+- Breathe deeply and relax into it
+- Never bounce
+- Hold 30-60 seconds per stretch
+
+## The 15-Minute Routine
+
+### Neck (2 minutes)
+
+**Neck Side Bend**
+1. Sit or stand tall
+2. Gently tilt right ear toward right shoulder
+3. Place right hand on head for gentle pressure
+4. Hold 30 seconds
+5. Switch sides
+
+**Neck Rotation**
+1. Turn head slowly to look over right shoulder
+2. Hold 30 seconds
+3. Switch sides
+
+**Chin Tuck**
+1. Pull chin straight back (make a double chin)
+2. Hold 5 seconds
+3. Repeat 10 times
+
+### Shoulders & Upper Back (2 minutes)
+
+**Cross-Body Shoulder Stretch**
+1. Pull right arm across chest with left hand
+2. Keep right shoulder down
+3. Hold 30 seconds each side
+
+**Overhead Tricep Stretch**
+1. Reach right arm overhead
+2. Bend elbow, hand toward upper back
+3. Use left hand to gently push elbow back
+4. Hold 30 seconds each side
+
+**Cat-Cow (on hands and knees)**
+1. Round back up like a cat, tuck chin
+2. Then arch back, lift head
+3. Flow slowly between positions
+4. 10 repetitions
+
+### Chest (1 minute)
+
+**Doorway Stretch**
+1. Stand in doorway, arms on frame at 90 degrees
+2. Step one foot forward
+3. Lean through doorway until chest stretches
+4. Hold 30 seconds
+5. Try arms higher and lower for different angles
+
+### Back (2 minutes)
+
+**Child's Pose**
+1. Kneel, sit back on heels
+2. Reach arms forward on floor
+3. Let forehead rest on ground
+4. Hold 30 seconds
+5. Walk hands to each side for lateral stretch
+
+**Seated Spinal Twist**
+1. Sit with legs extended
+2. Cross right foot over left leg
+3. Twist torso right, left elbow outside right knee
+4. Hold 30 seconds each side
+
+**Knee-to-Chest**
+1. Lie on back
+2. Pull one knee to chest
+3. Hold 30 seconds each side
+
+### Hips (3 minutes)
+
+**Hip Flexor Stretch**
+1. Kneel on right knee, left foot forward
+2. Tuck pelvis under (flatten low back)
+3. Shift weight forward
+4. Hold 30 seconds each side
+
+**Figure-4 Stretch (Piriformis)**
+1. Lie on back
+2. Cross right ankle over left knee
+3. Pull left thigh toward chest
+4. Hold 30 seconds each side
+
+**Seated Butterfly**
+1. Sit with soles of feet together
+2. Let knees drop out
+3. Gently press down on knees
+4. Hold 60 seconds
+
+### Hamstrings (2 minutes)
+
+**Lying Hamstring Stretch**
+1. Lie on back
+2. Lift one leg straight up
+3. Use strap or towel behind thigh if needed
+4. Keep other leg flat on ground
+5. Hold 30 seconds each side
+
+**Seated Hamstring Stretch**
+1. Sit with one leg extended
+2. Other leg bent, foot against inner thigh
+3. Reach toward extended foot
+4. Keep back straight
+5. Hold 30 seconds each side
+
+### Quads & Calves (3 minutes)
+
+**Standing Quad Stretch**
+1. Stand on left leg, use wall for balance
+2. Pull right heel toward glute
+3. Keep knees together
+4. Hold 30 seconds each side
+
+**Calf Stretch**
+1. Step right foot back in lunge position
+2. Keep back heel down, leg straight
+3. Lean forward until calf stretches
+4. Hold 30 seconds each side
+5. Then bend back knee slightly for deeper stretch
+
+**Ankle Circles**
+1. Lift one foot
+2. Circle ankle 10 times each direction
+3. Switch feet
+
+## Tips for Success
+
+### Make It a Habit
+
+- Same time daily (morning or evening)
+- After your workout is ideal
+- Even 5 minutes helps
+
+### Progress Gradually
+
+- Flexibility improves slowly
+- Don't force positions
+- Consistency beats intensity
+
+### Listen to Your Body
+
+- Stretch to tension, not pain
+- Never push through sharp pain
+- Some days will be tighter than others
+
+### Breathe
+
+- Deep breaths help muscles relax
+- Exhale as you deepen stretch
+- Never hold your breath
+
+## Modifications
+
+**If you can't get on the floor:**
+- Do most stretches seated in chair
+- Use bed or couch for lying stretches
+- Standing versions work too
+
+**If stretches feel too intense:**
+- Use straps, towels, or blocks
+- Don't go as deep
+- Hold for shorter time
+
+**If stretches feel too easy:**
+- Hold longer (60-90 seconds)
+- Add gentle movement within stretch
+- Try more advanced variations
+
+## Common Mistakes
+
+- **Bouncing:** Hold steady instead
+- **Rushing:** Take your time
+- **Holding breath:** Keep breathing
+- **Pushing into pain:** Back off
+- **Skipping warm-up:** Move first
+
+## The Bottom Line
+
+Fifteen minutes of daily stretching makes a real difference in how you feel and move. You don't need to be flexible to start—you need to start to become flexible. Pick a time, make it routine, and your body will thank you.
+`
+  },
+  'walking-program-beginners-guide': {
+    title: 'Walking Program for Beginners: How to Start Moving Safely',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Walking: The Perfect Starting Point
+
+Walking is the most underrated exercise. It's free, requires no equipment, can be done anywhere, and is accessible to almost everyone. Research shows regular walking:
+
+- Reduces heart disease and diabetes risk
+- Helps manage weight
+- Improves mood and mental health
+- Strengthens bones and muscles
+- Improves sleep
+- Increases energy
+
+If you haven't been active, walking is the safest way to start.
+
+## Before You Start
+
+### Check with Your Doctor If
+
+- You have a heart condition
+- You have diabetes
+- You have uncontrolled high blood pressure
+- You have joint replacements
+- You've had recent surgery
+- You have concerning symptoms with activity
+
+### Get the Right Shoes
+
+- Supportive athletic shoes (doesn't have to be expensive)
+- Cushioning for walking surfaces
+- Proper fit—toe wiggle room, snug heel
+- Replace every 300-500 miles
+
+### Start Where You Are
+
+If you can only walk 5 minutes, start with 5 minutes. There's no shame in beginning wherever your body is today. Consistency matters more than duration.
+
+## The 8-Week Program
+
+### Weeks 1-2: Foundation
+
+**Goal: Build the habit**
+
+- Walk 10-15 minutes daily
+- Easy pace—you should be able to talk
+- Focus on consistency, not distance
+- Walk whenever works for you
+
+**Daily target: 10-15 minutes**
+**Weekly total: 70-105 minutes**
+
+### Weeks 3-4: Building
+
+**Goal: Increase duration**
+
+- Walk 20-25 minutes, 5-6 days
+- Still conversational pace
+- Add 5 minutes when it feels easy
+- Take rest day if needed
+
+**Daily target: 20-25 minutes**
+**Weekly total: 100-150 minutes**
+
+### Weeks 5-6: Expanding
+
+**Goal: Reach 30 minutes**
+
+- Walk 25-30 minutes, 5-6 days
+- Start paying attention to pace
+- Try different routes and surfaces
+- Notice improvements in stamina
+
+**Daily target: 25-30 minutes**
+**Weekly total: 125-180 minutes**
+
+### Weeks 7-8: Strengthening
+
+**Goal: Add intensity**
+
+- Walk 30+ minutes, 5-6 days
+- One day: longer walk (45+ minutes)
+- One day: faster-paced walk (brisk)
+- Other days: moderate pace
+
+**Daily target: 30+ minutes**
+**Weekly total: 150+ minutes**
+
+## How Fast Should You Walk?
+
+### Measuring Intensity
+
+**Easy (Warm-up pace):**
+- Can easily hold conversation
+- Could sing if you wanted
+- Rate of perceived exertion: 3-4/10
+
+**Moderate (Brisk walk):**
+- Can talk but slightly breathless
+- Can't sing comfortably
+- RPE: 5-6/10
+
+**Vigorous (Power walk):**
+- Hard to talk
+- Breathing hard
+- RPE: 7-8/10
+
+### Target Heart Rate
+
+For moderate intensity: 50-70% of max heart rate
+Max heart rate estimate: 220 minus your age
+
+Example for 60-year-old:
+- Max HR: 160
+- Target zone: 80-112 beats per minute
+
+## Walking Technique
+
+### Posture
+
+- Stand tall, don't slouch
+- Eyes forward, not down
+- Shoulders back and relaxed
+- Core gently engaged
+
+### Arm Swing
+
+- Natural swing opposite to legs
+- Elbows bent ~90 degrees for brisk walking
+- Don't clench fists
+
+### Foot Strike
+
+- Heel strikes first
+- Roll through to toes
+- Push off with toes
+
+### Stride
+
+- Natural stride length
+- Don't overstride
+- Quick steps beat long steps for speed
+
+## Staying Motivated
+
+### Track Progress
+
+- Use phone or watch to count steps
+- Log walks in notebook or app
+- Notice how you feel after
+
+### Make It Enjoyable
+
+- Listen to podcasts, music, or audiobooks
+- Walk with a friend
+- Explore new routes
+- Walk in nature when possible
+
+### Handle Barriers
+
+**Bad weather:** Walk inside (mall, museum, treadmill)
+**No time:** Break into 10-minute chunks
+**Low energy:** Start with just 5 minutes
+**Boredom:** Change routes, add intervals
+
+### Build Habit
+
+- Same time daily when possible
+- Lay out walking clothes night before
+- Tie to existing habit (after morning coffee, before dinner)
+- Never miss twice in a row
+
+## Safety Tips
+
+- Walk in daylight or well-lit areas
+- Tell someone your route
+- Carry phone
+- Stay hydrated
+- Wear reflective gear if walking near traffic
+- Avoid headphones at high volume in traffic areas
+
+## When to Progress
+
+Move to next phase when:
+- Current duration feels easy
+- You're walking consistently (5+ days/week)
+- You're not unusually sore or tired
+
+Slow down if:
+- You feel exhausted after walks
+- You have pain during or after
+- You're dreading walks
+
+## Common Issues
+
+### Shin Pain
+
+- Slow down
+- Stretch calves before and after
+- Check shoe support
+- Shorten steps
+
+### Hip or Knee Pain
+
+- Reduce duration temporarily
+- Walk on softer surfaces
+- Consider physical therapy
+
+### Back Pain
+
+- Focus on posture
+- Engage core gently
+- Shorter, more frequent walks
+
+## Beyond 8 Weeks
+
+After the program:
+- Maintain 150+ minutes weekly
+- Gradually add challenges (hills, speed intervals)
+- Consider adding strength training
+- Try hiking or walking groups
+
+## The Bottom Line
+
+Walking is one of the best things you can do for your health, and it's never too late to start. Begin where you are, progress gradually, and focus on consistency. Eight weeks from now, you'll be amazed at how far you've come—literally and figuratively.
+
+The hardest step is the first one out the door. Take it today.
+`
+  },
+  'core-exercises-back-pain-stability': {
+    title: 'Core Exercises for Back Pain: Build Stability and Reduce Pain',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read',
+    content: `
+## The Core-Back Connection
+
+Your core isn't just about abs—it's the entire cylinder of muscles surrounding your spine: front, back, and sides. When your core is weak or doesn't activate properly, your spine lacks support, leading to pain and injury.
+
+Strong core = Protected spine = Less pain
+
+## What Is the Core?
+
+### Deep Stabilizers
+
+**Transverse abdominis:** Deep layer that wraps around like a corset
+**Multifidus:** Small muscles along the spine
+**Pelvic floor:** Base of the core cylinder
+**Diaphragm:** Top of the cylinder
+
+These activate automatically to stabilize before you move.
+
+### Outer Muscles
+
+**Rectus abdominis:** "Six-pack" muscles
+**Obliques:** Side muscles for rotation
+**Erector spinae:** Back extensors
+**Glutes:** Part of the core system
+
+These produce movement and additional stability.
+
+## Why Traditional Ab Exercises Don't Help
+
+Sit-ups and crunches:
+- Work the wrong muscles
+- Create spinal flexion (often aggravates back pain)
+- Don't train stability
+- Miss the deep core entirely
+
+Effective core training builds endurance and stability, not movement strength.
+
+## Learning to Activate Your Core
+
+### Finding Your Deep Core
+
+**Belly Button Draw**
+1. Lie on back, knees bent
+2. Gently draw belly button toward spine
+3. This is NOT sucking in hard—just gentle tension
+4. You should be able to breathe and talk
+5. Hold 10 seconds, relax, repeat 10x
+
+**Breathing + Activation**
+1. Take deep breath, belly rises
+2. As you exhale, gently engage core (belly button in)
+3. Maintain gentle tension while breathing normally
+4. This is your baseline core activation
+
+## Beginner Core Exercises
+
+Start here if you have back pain or haven't trained core before.
+
+### Dead Bug (Foundation)
+
+1. Lie on back, arms straight up, knees bent 90 degrees
+2. Press lower back gently into floor
+3. Slowly lower right arm overhead and left leg out (don't touch floor)
+4. Return to start
+5. Opposite side
+6. 10 reps each side
+7. Keep back flat throughout—this is the key!
+
+### Bird Dog
+
+1. Start on hands and knees
+2. Keep spine neutral (don't arch or round)
+3. Slowly extend right arm forward and left leg back
+4. Hold 5 seconds
+5. Return, switch sides
+6. 10 reps each side
+
+### Modified Plank (Knees Down)
+
+1. On forearms and knees
+2. Body straight from knees to shoulders
+3. Don't sag or pike hips
+4. Hold 20-30 seconds
+5. Build to 60 seconds
+
+### Glute Bridge
+
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes and lift hips
+3. Don't arch lower back—lift with glutes
+4. Hold 5 seconds at top
+5. 15 reps
+
+## Intermediate Exercises
+
+Progress here when beginner exercises feel easy.
+
+### Full Plank
+
+1. On forearms and toes
+2. Body straight from heels to shoulders
+3. Squeeze glutes, engage core
+4. Don't let hips sag
+5. Hold 30-60 seconds
+
+### Side Plank (Modified)
+
+1. On forearm and knees, body sideways
+2. Lift hips, body straight from knees to shoulders
+3. Hold 20-30 seconds each side
+4. Progress to feet stacked (full side plank)
+
+### Pallof Press
+
+1. Attach band to fixed point at chest height
+2. Stand perpendicular to anchor
+3. Hold band at chest
+4. Press straight out, resist rotation
+5. Hold 5 seconds
+6. 10 reps each side
+
+### Dead Bug with Straight Legs
+
+1. Same as dead bug, but lower straight legs
+2. More challenge to keep back flat
+3. Only go as low as you can while maintaining flat back
+
+## Advanced Exercises
+
+Only when intermediate feels solid.
+
+### Full Side Plank
+
+1. On forearm and feet stacked
+2. Body straight, hips lifted
+3. Hold 30-60 seconds
+4. Add hip dips or top arm reaches
+
+### Stir the Pot
+
+1. Forearms on stability ball, toes on floor
+2. Hold plank position
+3. Move forearms in small circles
+4. 10 circles each direction
+
+### Dead Bug with Weight
+
+1. Hold light weight or medicine ball
+2. Standard dead bug movement
+3. Arms stay over chest
+
+### Farmer's Carry
+
+1. Hold heavy weights at sides
+2. Walk with perfect posture
+3. Core stays engaged to prevent leaning
+4. Walk 30-60 seconds
+
+## The Program
+
+### Daily Core Routine (10 minutes)
+
+**Warm-up (2 min):**
+- Belly button draws with breathing
+- Cat-cow stretches
+
+**Exercises (6 min):**
+- Dead bug: 10 each side
+- Bird dog: 10 each side
+- Plank: 30-60 seconds
+- Glute bridge: 15 reps
+- Side plank: 20-30 seconds each side
+
+**Cool-down (2 min):**
+- Child's pose
+- Knee-to-chest stretches
+
+### Progression Guide
+
+- Week 1-2: Beginner exercises, master form
+- Week 3-4: Increase hold times
+- Week 5-6: Add intermediate exercises
+- Week 7-8: Progress to harder variations
+
+## Keys to Success
+
+### Quality Over Quantity
+
+- Never sacrifice form
+- Stop before form breaks down
+- Control beats reps
+
+### Endurance Over Strength
+
+- Multiple sets of moderate holds
+- Not maximum effort single sets
+- Core needs endurance for all-day support
+
+### Consistency
+
+- Daily practice beats occasional hard workouts
+- 10 minutes daily > 1 hour weekly
+
+### No Pain
+
+- Exercises should not cause back pain
+- Muscle fatigue is okay, joint pain is not
+- If it hurts, modify or skip it
+
+## Exercises to Avoid
+
+If you have back pain, avoid:
+
+- **Sit-ups/crunches:** Spinal flexion under load
+- **Leg lifts (lying):** Until core very strong
+- **Russian twists:** Rotation under flexion
+- **Superman holds:** Excessive extension
+
+These put excessive stress on the spine.
+
+## Beyond Exercise
+
+Core strength is one piece. Also address:
+
+- **Posture:** How you sit and stand
+- **Movement habits:** How you lift and bend
+- **Hip mobility:** Tight hips stress the back
+- **Glute strength:** Weak glutes overload the back
+
+## When to Seek Help
+
+See a professional if:
+- Pain worsens with exercise
+- Numbness or tingling down legs
+- Bladder/bowel changes
+- No improvement after 6 weeks
+
+A physical therapist can identify specific issues and modify exercises for you.
+
+## The Bottom Line
+
+A strong core protects your spine and reduces back pain—but only if you train it correctly. Focus on stability, endurance, and proper form. Start simple, progress gradually, and make it a daily habit. Your back will thank you.
+`
+  },
   'understanding-mri-xray-results': {
     title: 'Understanding Your MRI or X-Ray Results: What Those Findings Actually Mean',
     date: '2026-03-06',

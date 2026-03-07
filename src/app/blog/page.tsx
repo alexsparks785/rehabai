@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'balance-exercises-seniors-fall-prevention',
+    title: 'Balance Exercises for Seniors: Prevent Falls and Stay Independent',
+    excerpt: 'Falls are the leading cause of injury for older adults. These balance exercises can reduce your risk and keep you moving confidently.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'full-body-stretching-routine-flexibility',
+    title: 'Full Body Stretching Routine: 15-Minute Flexibility Program',
+    excerpt: 'A simple daily stretching routine that covers every major muscle group. Perfect for morning or post-workout.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'walking-program-beginners-guide',
+    title: 'Walking Program for Beginners: How to Start Moving Safely',
+    excerpt: 'Walking is the simplest way to improve your health. Here\'s a week-by-week program to build up safely.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'core-exercises-back-pain-stability',
+    title: 'Core Exercises for Back Pain: Build Stability and Reduce Pain',
+    excerpt: 'A weak core often contributes to back pain. These exercises build deep stability to protect your spine.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Back Pain',
+    readTime: '6 min read'
+  },
+  {
     slug: 'understanding-mri-xray-results',
     title: 'Understanding Your MRI or X-Ray Results: What Those Findings Actually Mean',
     excerpt: 'Got scary-sounding imaging results? Many "abnormal" findings are normal. Here\'s how to understand what matters.',
