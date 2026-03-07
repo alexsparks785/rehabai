@@ -13,6 +13,906 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'mobility-vs-flexibility-difference': {
+    title: 'Mobility vs Flexibility: What\'s the Difference and Why It Matters',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Common Confusion
+
+People use "mobility" and "flexibility" interchangeably, but they're not the same thing. Understanding the difference helps you train more effectively and address the right problem.
+
+## Flexibility Defined
+
+**Flexibility** is the ability of a muscle to lengthen passively through a range of motion.
+
+Key word: **passive**
+
+When someone pushes your leg into a stretch, that's testing flexibility. The muscle is being lengthened by an external force.
+
+**Example:** Lying on your back while someone pushes your straight leg toward your head to stretch your hamstring.
+
+## Mobility Defined
+
+**Mobility** is the ability to actively move a joint through its full range of motion with control.
+
+Key words: **active** and **control**
+
+Mobility requires strength, coordination, and nervous system control—not just tissue length.
+
+**Example:** Lifting your straight leg toward your head using your own muscle strength while standing.
+
+## The Practical Difference
+
+### You Might Have Flexibility But Not Mobility
+
+If someone can push your leg to 90 degrees, but you can only lift it to 60 degrees on your own, you have:
+- Flexibility to 90 degrees
+- Mobility to 60 degrees
+
+The gap between passive and active range is often where injuries happen.
+
+### You Can't Have Mobility Without Flexibility
+
+You can't actively control a range of motion you don't have. Flexibility sets the ceiling; mobility is how much of that ceiling you can use.
+
+## Why Both Matter
+
+### Flexibility Matters For
+
+- Reducing muscle tightness
+- Allowing joints to access full range
+- Reducing injury risk from sudden stretches
+- Comfort in end-range positions
+
+### Mobility Matters For
+
+- Functional movement quality
+- Athletic performance
+- Injury prevention during activity
+- Actually using your available range
+
+## What Happens When You Only Train Flexibility
+
+If you only stretch (passive flexibility work):
+- Muscles get longer temporarily
+- You don't build control in new ranges
+- The nervous system doesn't learn to use the range
+- Gains may not transfer to function
+
+This is why some very flexible people still move poorly or get injured.
+
+## What Happens When You Only Train Mobility
+
+If you only do active mobility work:
+- You're limited by your passive range
+- You might work against tight muscles
+- Progress can be slower without addressing tissue restrictions
+
+Best results come from combining both.
+
+## How to Train Flexibility
+
+### Static Stretching
+
+- Hold positions 30-60+ seconds
+- Done after activity or in separate sessions
+- Relaxed muscles, letting gravity or external force create stretch
+
+### PNF Stretching
+
+- Contract the muscle, then relax into deeper stretch
+- Very effective for flexibility gains
+
+### Passive Holds
+
+- Supported positions that allow muscles to lengthen
+- Longer holds (2-5 minutes) for connective tissue
+
+## How to Train Mobility
+
+### Active Range of Motion
+
+- Move joints through full range using your own muscles
+- No external assistance
+
+### Controlled Articular Rotations (CARs)
+
+- Slow, controlled circles at each joint
+- Maximum range with maximum control
+
+### End-Range Loading
+
+- Strengthen muscles at end ranges
+- Example: isometric holds at stretched positions
+
+### Active Stretching
+
+- Hold positions using muscle strength, not hands or props
+- Example: lying leg raise held with hip flexor strength
+
+## Practical Examples
+
+### For Hamstrings
+
+**Flexibility work:**
+- Lying hamstring stretch with strap
+- Standing forward fold
+
+**Mobility work:**
+- Standing leg raises (lifting leg with hip flexor strength)
+- Active straight leg hold (holding leg up without assistance)
+
+### For Shoulders
+
+**Flexibility work:**
+- Doorway pec stretch
+- Sleeper stretch
+
+**Mobility work:**
+- Controlled arm circles through full range
+- Wall slides
+- Active overhead reaches
+
+### For Hips
+
+**Flexibility work:**
+- Pigeon pose
+- Hip flexor stretch
+
+**Mobility work:**
+- Standing hip circles
+- Active hip CARs
+- Leg swings
+
+## A Combined Approach
+
+### The Ideal Session
+
+1. **Joint mobility warm-up** (CARs, circles)
+2. **Dynamic stretching** (movement prep)
+3. **Activity/workout**
+4. **Static stretching** (flexibility work)
+5. **Active end-range work** (optional, for building mobility)
+
+### Weekly Distribution
+
+- Mobility work: Daily (brief)
+- Flexibility work: 3-5 times per week
+- End-range strengthening: 2-3 times per week
+
+## When to Focus on Each
+
+### Prioritize Flexibility When
+
+- You have significant tightness
+- Your passive range is limited
+- Stretching feels very intense
+- You're recovering from immobilization
+
+### Prioritize Mobility When
+
+- You can stretch far but can't control it
+- Your active and passive range differ significantly
+- You have "hypermobility" but poor control
+- You want movement quality improvement
+
+## The Bottom Line
+
+Flexibility is passive; mobility is active. Both matter. The most functional approach combines flexibility work (to increase available range) with mobility work (to build strength and control in that range). Train both, and you'll move better and reduce injury risk.
+`
+  },
+  'how-to-start-stretching-beginners': {
+    title: 'How to Start Stretching: A Complete Beginner\'s Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Why Start Stretching?
+
+Stretching improves your quality of life:
+
+- Reduces muscle tension and stiffness
+- Improves posture
+- Decreases injury risk
+- Enhances movement quality
+- Relieves stress
+- Makes daily activities easier
+
+You don't need to be flexible to start. You become flexible by stretching consistently.
+
+## Types of Stretching
+
+### Static Stretching
+
+Holding a position for 15-60+ seconds. The most common type.
+
+**Best for:** Increasing flexibility, post-workout, relaxation
+
+### Dynamic Stretching
+
+Moving through range of motion repeatedly without holding.
+
+**Best for:** Pre-workout, warming up, maintaining flexibility
+
+### PNF Stretching
+
+Contract-relax techniques that use muscle activation to deepen stretches.
+
+**Best for:** Accelerating flexibility gains (more advanced)
+
+As a beginner, start with static and dynamic stretching.
+
+## When to Stretch
+
+### Best Times
+
+- **After a warm-up:** Warm muscles stretch more easily and safely
+- **Post-workout:** Muscles are warm, good for flexibility gains
+- **After sitting:** Counter the effects of prolonged positions
+- **Before bed:** Promotes relaxation and better sleep
+
+### Not Ideal
+
+- **Cold muscles, first thing in morning:** Higher injury risk
+- **Static stretching before explosive activity:** May reduce power temporarily
+
+If stretching in the morning, do a brief warm-up first (walk, march in place, arm circles).
+
+## How Long to Hold
+
+### For Maintenance
+
+15-30 seconds per stretch, 2-3 times
+
+### For Flexibility Gains
+
+30-60 seconds per stretch, 2-3 times
+
+### General Rule
+
+Longer holds produce more change. As a beginner, start with 30-second holds.
+
+## How Often to Stretch
+
+### For General Flexibility
+
+3-5 days per week
+
+### For Significant Improvement
+
+Daily stretching, especially for tight areas
+
+### For Maintenance
+
+2-3 days per week once you've reached your goals
+
+Consistency matters more than duration. 10 minutes daily beats 60 minutes once a week.
+
+## Basic Principles
+
+### Find Mild Tension
+
+Stretch to the point of mild tension, not pain. You should feel the stretch but be able to relax into it.
+
+### Don't Bounce
+
+Bouncing (ballistic stretching) triggers a protective reflex that tightens muscles. Hold steady positions.
+
+### Breathe
+
+Deep, slow breaths help muscles relax. Exhale as you deepen the stretch. Never hold your breath.
+
+### Both Sides
+
+Always stretch both sides, even if one feels tighter. Maintain balance.
+
+### Be Patient
+
+Flexibility improves gradually over weeks and months. Expecting immediate results leads to frustration or injury.
+
+## Essential Stretches for Beginners
+
+### Neck
+
+**Ear to Shoulder:**
+- Drop ear toward shoulder
+- Hold 30 seconds each side
+
+### Shoulders
+
+**Cross-Body Stretch:**
+- Pull arm across chest
+- Hold 30 seconds each side
+
+### Chest
+
+**Doorway Stretch:**
+- Arm on door frame, step through
+- Hold 30 seconds each side
+
+### Upper Back
+
+**Cat Stretch:**
+- On hands and knees, round back
+- Hold 20-30 seconds
+
+### Lower Back
+
+**Child's Pose:**
+- Kneel, sit back, reach arms forward
+- Hold 30-60 seconds
+
+### Hip Flexors
+
+**Half-Kneeling Stretch:**
+- One knee down, tuck tailbone
+- Hold 30 seconds each side
+
+### Hamstrings
+
+**Lying Stretch:**
+- On back, lift one leg toward ceiling
+- Hold 30 seconds each side
+
+### Quads
+
+**Standing Stretch:**
+- Pull heel toward buttock
+- Hold 30 seconds each side
+
+### Calves
+
+**Wall Stretch:**
+- Hands on wall, step back, keep heel down
+- Hold 30 seconds each side
+
+### Glutes
+
+**Figure-4:**
+- On back, cross ankle over knee
+- Pull toward chest
+- Hold 30 seconds each side
+
+## Sample Beginner Routine
+
+### 10-Minute Daily Routine
+
+1. March in place: 1 minute (warm-up)
+2. Neck stretches: 30 sec each side
+3. Shoulder stretch: 30 sec each side
+4. Chest stretch: 30 sec each side
+5. Cat stretch: 30 seconds
+6. Child's pose: 30 seconds
+7. Hip flexor stretch: 30 sec each side
+8. Hamstring stretch: 30 sec each side
+9. Quad stretch: 30 sec each side
+10. Calf stretch: 30 sec each side
+
+## Common Beginner Mistakes
+
+### Pushing Too Hard
+
+More pain doesn't mean more progress. Stretch to tension, not pain. You'll improve faster with consistent gentle stretches than aggressive painful ones.
+
+### Holding Breath
+
+Holding breath creates tension. Breathe deeply throughout every stretch.
+
+### Skipping Warm-Up
+
+Stretching cold muscles is less effective and increases injury risk. Even a few minutes of walking helps.
+
+### Inconsistency
+
+Stretching once a week won't change anything. Daily or near-daily practice creates results.
+
+### Expecting Quick Results
+
+Flexibility takes time—weeks to months. Trust the process.
+
+### Only Stretching Tight Areas
+
+Balance matters. Stretch your whole body to maintain symmetry.
+
+## Modifications
+
+### If You Can't Reach
+
+Use a strap, towel, or belt to extend your reach. This allows you to stretch without forcing.
+
+### If a Position Is Uncomfortable
+
+Try a different variation. Most stretches have multiple versions.
+
+### If You Have Pain
+
+Skip that stretch or reduce intensity. Pain means something's wrong.
+
+### If You're Very Inflexible
+
+Start where you are. Everyone begins somewhere. Consistency beats intensity.
+
+## Tracking Progress
+
+### How to Measure
+
+- Can you touch your toes?
+- How close can you get in each stretch?
+- How does it feel? (Is the tension decreasing?)
+
+### Timeline
+
+- **Week 1-2:** Getting into routine, learning positions
+- **Week 3-4:** Beginning to notice easier stretches
+- **Week 6-8:** Noticeable flexibility improvements
+- **Month 3+:** Significant changes
+
+Take photos or note your range to track progress over time.
+
+## The Bottom Line
+
+Starting to stretch is simple: learn a few basic stretches, do them consistently, be patient. Don't overthink it. 10 minutes daily creates real change over time. Start today, and in a few weeks, you'll wonder why you didn't start sooner.
+`
+  },
+  'morning-stretching-routine': {
+    title: 'Morning Stretching Routine: Wake Up Your Body in 10 Minutes',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Why Stretch in the Morning?
+
+After 6-8 hours of sleep, your body is stiff. Muscles have tightened, fluid has pooled in joints, and your nervous system needs to wake up. Morning stretching:
+
+- Reduces stiffness from sleeping
+- Increases blood flow
+- Energizes your body and mind
+- Improves posture for the day ahead
+- Reduces aches and pains
+- Sets a positive tone for the day
+
+## Before You Start
+
+### Warm Up Briefly
+
+Cold muscles don't stretch as well. Spend 1-2 minutes warming up:
+- March in place
+- Arm circles
+- Gentle movement
+
+Alternatively, do this routine after a warm shower.
+
+### Go Gently
+
+Morning bodies are stiffer than evening bodies. Don't push too hard—ease into each stretch.
+
+## The 10-Minute Routine
+
+### In Bed (2 minutes)
+
+**Full Body Stretch:**
+1. Reach arms overhead, point toes
+2. Stretch as long as possible
+3. Hold 15 seconds
+4. Relax and repeat
+
+**Knee to Chest:**
+1. Pull one knee to chest
+2. Hold 20 seconds each side
+3. Then pull both knees in, rock gently
+
+**Supine Twist:**
+1. Both knees bent, drop to one side
+2. Keep shoulders flat
+3. Hold 20 seconds each side
+
+### Standing (4 minutes)
+
+**Reach to the Sky:**
+1. Interlace fingers overhead
+2. Stretch up and slightly back
+3. Hold 15 seconds
+
+**Side Bend:**
+1. Reach one arm overhead
+2. Lean to opposite side
+3. Hold 15 seconds each side
+
+**Forward Fold:**
+1. Let upper body hang forward
+2. Bend knees if needed
+3. Let head hang heavy
+4. Hold 30 seconds
+
+**Hip Circles:**
+1. Hands on hips
+2. Circle hips 10 times each direction
+
+**Quad Stretch:**
+1. Stand on one leg (use wall for balance)
+2. Pull heel toward buttock
+3. Hold 20 seconds each side
+
+**Calf Stretch:**
+1. Step one foot back
+2. Keep back heel down, leg straight
+3. Hold 20 seconds each side
+
+### Floor/Mat (4 minutes)
+
+**Cat-Cow:**
+1. On hands and knees
+2. Round back up (cat)
+3. Arch back down (cow)
+4. Flow slowly, 10 cycles
+
+**Child's Pose:**
+1. Sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor
+4. Hold 30 seconds
+
+**Downward Dog:**
+1. Lift hips up and back
+2. Press heels toward floor
+3. Hold 20 seconds
+
+**Low Lunge:**
+1. Step one foot forward
+2. Lower back knee to floor
+3. Sink hips forward
+4. Hold 20 seconds each side
+
+**Seated Twist:**
+1. Sit with legs extended
+2. Cross one foot over opposite knee
+3. Twist toward bent knee
+4. Hold 20 seconds each side
+
+**Seated Forward Fold:**
+1. Legs extended
+2. Reach toward toes
+3. Hold 30 seconds
+
+## Quick 5-Minute Version
+
+If short on time:
+
+1. Reach to sky: 15 seconds
+2. Forward fold: 20 seconds
+3. Cat-cow: 8 cycles
+4. Child's pose: 20 seconds
+5. Low lunge: 15 sec each side
+6. Neck stretches: 15 sec each side
+
+## Tips for Success
+
+### Make It a Habit
+
+- Same time every day
+- Lay out mat the night before
+- Link to existing habit (after alarm, before shower)
+- Don't negotiate with yourself—just do it
+
+### Start Small
+
+If 10 minutes feels like too much, start with 5. Consistency beats duration.
+
+### Breathe Deeply
+
+Deep morning breaths wake up your system. Inhale through nose, exhale through mouth.
+
+### Modify as Needed
+
+If a stretch feels too intense, ease off. Morning bodies need gentleness.
+
+### Progress Naturally
+
+Over time, you'll naturally go deeper as your body loosens up.
+
+## For Specific Issues
+
+### If You Wake Up with Back Pain
+
+Add extra:
+- Knee to chest (longer holds)
+- Cat-cow (more reps)
+- Child's pose (longer hold)
+
+### If You Wake Up with Neck Stiffness
+
+Add:
+- Ear to shoulder stretches
+- Chin tucks
+- Neck rotations
+
+### If You Have Hip Stiffness
+
+Add:
+- Figure-4 stretch
+- Extra time in low lunge
+- Hip circles (more reps)
+
+## What You'll Notice
+
+### Week 1
+
+Getting used to the routine. May feel challenging to wake up earlier.
+
+### Week 2
+
+Routine becomes easier. Starting to notice reduced morning stiffness.
+
+### Week 3-4
+
+Habit is forming. Body starts expecting and wanting the stretch.
+
+### Month 2+
+
+Noticeable difference in how you feel all day. Missing the routine feels wrong.
+
+## The Bottom Line
+
+Ten minutes of morning stretching transforms how you feel throughout the day. It's a small investment with big returns—less stiffness, more energy, better posture, and a positive start. Make it a non-negotiable part of your morning, and you'll wonder how you ever started the day without it.
+`
+  },
+  'dynamic-warm-up-guide': {
+    title: 'Dynamic Warm-Up: The Complete Pre-Workout Stretching Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read',
+    content: `
+## Why Static Stretching Before Exercise Is Outdated
+
+For decades, we were told to stretch before exercise. But research shows static stretching before activity:
+
+- Temporarily reduces muscle power
+- Decreases strength performance
+- Doesn't reduce injury risk as well as dynamic warm-ups
+- Stretches cold muscles (less effective)
+
+**The better approach:** Dynamic warm-up before exercise, static stretching after.
+
+## What Is Dynamic Stretching?
+
+Dynamic stretching involves moving through range of motion repeatedly without holding positions. It:
+
+- Raises body temperature
+- Increases blood flow to muscles
+- Activates the nervous system
+- Prepares joints for the activity ahead
+- Improves performance
+- Reduces injury risk
+
+## Dynamic vs. Static
+
+| Dynamic | Static |
+|---------|--------|
+| Movement-based | Position-based |
+| No holding | Hold 15-60 seconds |
+| Before activity | After activity |
+| Activates muscles | Relaxes muscles |
+| Raises body temperature | Doesn't raise temperature |
+
+## General Dynamic Warm-Up (10 minutes)
+
+### Phase 1: General Movement (2 minutes)
+
+**Marching in Place:**
+- 30 seconds
+- Get blood flowing
+
+**Arm Circles:**
+- 15 forward, 15 backward
+- Gradually increase size
+
+**Jumping Jacks or Step Jacks:**
+- 30 seconds
+- Easy pace
+
+### Phase 2: Lower Body (4 minutes)
+
+**Leg Swings (Front to Back):**
+- Hold support
+- Swing leg forward and back
+- 15 swings each leg
+
+**Leg Swings (Side to Side):**
+- Face support
+- Swing leg across body and out
+- 15 swings each leg
+
+**Walking Knee Hugs:**
+- Pull knee to chest while walking
+- Alternate legs
+- 10 each leg
+
+**Walking Quad Pulls:**
+- Pull heel to buttock while walking
+- 10 each leg
+
+**Walking Lunges:**
+- Step into lunge
+- 10 each leg
+
+**Lateral Lunges:**
+- Wide stance, shift side to side
+- 8 each side
+
+### Phase 3: Upper Body (2 minutes)
+
+**Arm Swings:**
+- Swing arms across chest, alternating
+- 20 reps
+
+**Shoulder Circles:**
+- Full rotation circles
+- 10 forward, 10 backward
+
+**Torso Rotations:**
+- Arms at shoulder height
+- Rotate side to side
+- 15 each direction
+
+**Cat-Cow:**
+- On hands and knees
+- Round and arch back
+- 10 cycles
+
+### Phase 4: Activation (2 minutes)
+
+**Bodyweight Squats:**
+- 10 reps
+
+**Push-Ups (or Wall Push-Ups):**
+- 5-10 reps
+
+**Glute Bridges:**
+- 10 reps
+
+**High Knees:**
+- 20 total (10 each leg)
+
+**Butt Kicks:**
+- 20 total
+
+## Sport-Specific Warm-Ups
+
+### For Running
+
+1. Walk 2-3 minutes
+2. Light jog 2-3 minutes
+3. Leg swings (both directions)
+4. Walking lunges
+5. High knees
+6. Butt kicks
+7. A-skips
+8. Build-up runs (50%, 75%, 90% effort)
+
+### For Weightlifting
+
+1. General cardio 5 minutes (bike, row, walk)
+2. Dynamic stretches for target muscles
+3. Foam rolling (optional)
+4. Light sets of the exercises you'll do
+5. Gradually increase weight
+
+**Example for squat day:**
+- Bodyweight squats: 15
+- Goblet squats (light): 10
+- Empty bar squats: 10
+- 50% working weight: 5
+- 75%: 3
+- Working weight
+
+### For Sports (Basketball, Soccer, etc.)
+
+1. Light jog 3-5 minutes
+2. Full dynamic warm-up
+3. Sport-specific movements (shuffling, cutting, jumping)
+4. Skill work at lower intensity
+5. Gradually increase to game speed
+
+### For Swimming
+
+1. Light swim 200-400m
+2. Arm circles and shoulder rotations (on deck)
+3. Gradually increase intensity in water
+4. Drill work
+
+## Key Dynamic Stretches by Body Part
+
+### Hips
+
+- Leg swings (all directions)
+- Hip circles
+- Walking lunges
+- Spiderman stretch (brief holds)
+
+### Shoulders
+
+- Arm circles
+- Arm swings
+- Wall slides
+- Shoulder rotations
+
+### Spine
+
+- Cat-cow
+- Torso rotations
+- Side bends
+- Thoracic rotations
+
+### Legs
+
+- Walking knee hugs
+- Walking quad pulls
+- Lateral lunges
+- Butt kicks
+
+## Tips for Effective Warm-Ups
+
+### Progress from Simple to Complex
+
+Start with basic movements, then add more athletic ones.
+
+### Match the Warm-Up to the Activity
+
+Warm up the muscles and movements you'll use.
+
+### Don't Rush
+
+5-10 minutes minimum. More for intense activity or cold weather.
+
+### Build Up Intensity
+
+Start easy, gradually increase range and speed.
+
+### Include Activation
+
+Make sure key muscles are "awake" (glutes, core, etc.).
+
+## Common Mistakes
+
+### Skipping It Entirely
+
+"I'm short on time" leads to injuries and worse performance.
+
+### Too Short
+
+90 seconds isn't enough. Commit to proper warm-up.
+
+### Static Stretching Before
+
+Save holding stretches for after.
+
+### Same Warm-Up for Everything
+
+Match warm-up to activity.
+
+### Going Too Hard
+
+Warm-up shouldn't exhaust you. Save energy for the workout.
+
+## Signs of a Good Warm-Up
+
+- Light sweat
+- Elevated heart rate
+- Muscles feel warm and loose
+- Joints move freely
+- You feel ready to perform
+
+## The Bottom Line
+
+Dynamic warm-ups prepare your body for activity better than static stretching. They raise body temperature, activate muscles, and improve performance while reducing injury risk. Spend 5-10 minutes on dynamic movements before exercise, save static stretching for after. Your body will perform better and thank you with fewer injuries.
+`
+  },
   'hip-flexor-stretches-psoas': {
     title: 'Hip Flexor Stretches: Release Tight Psoas and Improve Mobility',
     date: '2026-03-07',

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'mobility-vs-flexibility-difference',
+    title: 'Mobility vs Flexibility: What\'s the Difference and Why It Matters',
+    excerpt: 'Flexibility and mobility aren\'t the same thing. Understanding the difference helps you train smarter and move better.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'how-to-start-stretching-beginners',
+    title: 'How to Start Stretching: A Complete Beginner\'s Guide',
+    excerpt: 'New to stretching? This guide covers everything you need to know to start safely and effectively.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'morning-stretching-routine',
+    title: 'Morning Stretching Routine: Wake Up Your Body in 10 Minutes',
+    excerpt: 'Start your day right with this energizing morning stretch routine. No equipment needed.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'dynamic-warm-up-guide',
+    title: 'Dynamic Warm-Up: The Complete Pre-Workout Stretching Guide',
+    excerpt: 'Static stretching before exercise is outdated. Here\'s how to warm up properly with dynamic movements.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '6 min read'
+  },
+  {
     slug: 'hip-flexor-stretches-psoas',
     title: 'Hip Flexor Stretches: Release Tight Psoas and Improve Mobility',
     excerpt: 'Tight hip flexors from sitting cause back pain and hip problems. These stretches release the psoas and restore mobility.',
