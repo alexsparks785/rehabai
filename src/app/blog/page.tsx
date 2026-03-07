@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hypermobility-too-flexible',
+    title: 'Hypermobility: When Being Too Flexible Is a Problem',
+    excerpt: 'Flexibility is good, but too much can cause problems. Here\'s what hypermobile people need to know.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'why-am-i-so-stiff',
+    title: 'Why Am I So Stiff? Common Causes of Muscle Tightness',
+    excerpt: 'Always feeling tight? Here are the most common causes of stiffness and what you can do about them.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'how-to-get-more-flexible',
     title: 'How to Get More Flexible: The Complete Guide',
     excerpt: 'Want to improve your flexibility? This comprehensive guide covers everything you need to know to become more flexible.',

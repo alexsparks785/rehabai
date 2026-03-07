@@ -13,6 +13,415 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'hypermobility-too-flexible': {
+    title: 'Hypermobility: When Being Too Flexible Is a Problem',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## What Is Hypermobility?
+
+Hypermobility means your joints move beyond the normal range. While some flexibility is good, excessive joint laxity can cause problems:
+
+- Joint instability
+- Frequent injuries
+- Chronic pain
+- Early arthritis
+- Fatigue
+
+About 10-20% of the population is hypermobile to some degree.
+
+## Signs of Hypermobility
+
+### Beighton Score
+
+This simple test checks 9 points:
+
+1. Touch thumb to forearm (1 point each side)
+2. Extend pinky finger beyond 90° (1 point each side)
+3. Hyperextend elbow beyond straight (1 point each side)
+4. Hyperextend knee beyond straight (1 point each side)
+5. Touch palms to floor with straight legs (1 point)
+
+**Score:** 4 or more out of 9 suggests hypermobility.
+
+### Other Signs
+
+- "Double-jointed" party tricks
+- Frequent joint dislocations or subluxations
+- Skin that bruises easily
+- Chronic joint or muscle pain
+- Feeling of joints "giving way"
+- Flat feet
+- Soft, stretchy skin
+
+## Hypermobility Spectrum
+
+### Asymptomatic Hypermobility
+
+Flexible joints without problems. Many dancers, gymnasts, and yogis have this. No treatment needed.
+
+### Hypermobility Spectrum Disorder (HSD)
+
+Hypermobility plus symptoms (pain, instability, injuries) but not meeting criteria for hEDS.
+
+### Hypermobile Ehlers-Danlos Syndrome (hEDS)
+
+Genetic connective tissue disorder with specific diagnostic criteria. Requires medical evaluation.
+
+If you have significant symptoms, see a doctor for proper diagnosis.
+
+## Why Hypermobility Causes Problems
+
+### Lack of Stability
+
+Loose ligaments don't provide joint stability. Muscles must work harder.
+
+### Proprioception Issues
+
+Joint position sense may be impaired. Leads to awkward movements and injuries.
+
+### Muscle Overwork
+
+Muscles compensate for loose ligaments, leading to fatigue and pain.
+
+### Joint Wear
+
+Excessive motion can accelerate joint wear.
+
+## What Hypermobile People Should Do Differently
+
+### Focus on Stability, Not Flexibility
+
+You don't need more flexibility. You need:
+- Strength training
+- Stability exercises
+- Motor control work
+- Proprioception training
+
+### Stop Stretching Into Hypermobile Ranges
+
+If a joint already moves beyond normal range:
+- Don't push into extreme positions
+- Stay within normal ranges
+- Avoid passive stretching that over-extends joints
+
+### Strengthen the Full Range
+
+Build strength throughout your (already large) range of motion:
+- Controlled movements
+- Resistance training
+- End-range strengthening
+
+### Proprioception Training
+
+Balance and joint position awareness exercises:
+- Single leg balance
+- Eyes-closed balance
+- Unstable surface training
+- Slow, controlled movements
+
+## Exercise Guidelines
+
+### Do
+
+- Strength training (essential)
+- Controlled movements
+- Isometric exercises
+- Low-impact cardio
+- Swimming, cycling
+- Pilates (with modifications)
+- Stability-focused exercises
+
+### Avoid or Modify
+
+- Extreme stretching
+- High-impact activities (may need modification)
+- Yoga (many poses push into hypermobile ranges—modify)
+- Overhead pressing (if shoulders unstable)
+- Heavy lifting without proper stability
+
+### Strength Training Tips
+
+- Focus on form over weight
+- Build up gradually
+- Target stabilizing muscles
+- Full range but not hyperextension
+- Higher reps, controlled tempo
+
+## Managing Pain
+
+### Why It Hurts
+
+Muscles working overtime for stability cause chronic fatigue and pain. Joint instability leads to micro-injuries.
+
+### What Helps
+
+- Consistent strengthening
+- Pacing activities (don't overdo)
+- Gentle movement (not prolonged rest)
+- Heat for muscle tension
+- Proper sleep
+- Stress management
+
+### What Doesn't Help
+
+- More stretching (usually makes it worse)
+- Complete rest (weakens muscles further)
+- Ignoring symptoms
+
+## For Hypermobile Athletes
+
+### Sport Selection
+
+Some sports suit hypermobility:
+- Swimming
+- Cycling
+- Dance (if managed well)
+
+Higher injury risk sports need careful preparation:
+- Contact sports
+- Gymnastics
+- Distance running
+
+### Training Modifications
+
+- Extra stability work
+- Gradual progression
+- Attention to recovery
+- Bracing if needed
+- Work with knowledgeable coaches
+
+## When to See a Doctor
+
+Seek evaluation if you have:
+- Frequent dislocations
+- Chronic widespread pain
+- Family history of hypermobility syndromes
+- Associated symptoms (heart palpitations, digestive issues, fatigue)
+- Significant impact on daily life
+
+A rheumatologist or geneticist can diagnose hypermobility syndromes.
+
+## The Bottom Line
+
+If you're hypermobile, more stretching isn't the answer—stability is. Focus on strengthening, proprioception, and controlled movements. Avoid pushing joints beyond normal ranges. With the right approach, hypermobile individuals can be active and pain-free.
+`
+  },
+  'why-am-i-so-stiff': {
+    title: 'Why Am I So Stiff? Common Causes of Muscle Tightness',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## That Constant Feeling of Tightness
+
+Many people feel stiff all the time—even if they stretch regularly. Understanding why you're tight is the first step to fixing it.
+
+## Common Causes of Stiffness
+
+### 1. Prolonged Positions
+
+**The problem:** Sitting, standing, or holding any position for hours causes muscles to adapt to that position.
+
+**Common culprits:**
+- Desk work (tight hip flexors, chest, neck)
+- Driving (tight hips, shoulders)
+- Looking at phone (tight neck)
+- Standing work (tight calves, back)
+
+**The fix:**
+- Change positions frequently
+- Take movement breaks
+- Stretch the shortened muscles
+- Strengthen the lengthened muscles
+
+### 2. Inactivity
+
+**The problem:** Muscles that don't move through their full range lose that range over time.
+
+**The fix:**
+- Move daily
+- Use joints through full range
+- "Motion is lotion"
+
+### 3. Overuse
+
+**The problem:** Muscles worked repeatedly without adequate recovery get tight and knotted.
+
+**Common in:**
+- Runners (calves, hips)
+- Desk workers (neck, shoulders)
+- Athletes (sport-specific patterns)
+
+**The fix:**
+- Adequate recovery
+- Foam rolling and massage
+- Stretching after activity
+- Varied movement patterns
+
+### 4. Weakness
+
+**The problem:** When muscles are weak, they tighten up to protect themselves and the joint.
+
+**Common examples:**
+- "Tight" hamstrings that won't respond to stretching (often weak, not short)
+- Chronic neck tightness with weak deep neck flexors
+- Hip tightness with weak glutes
+
+**The fix:**
+- Strengthen the "tight" muscles
+- Address underlying weakness
+- Stretching alone won't help
+
+### 5. Stress and Tension
+
+**The problem:** Stress causes muscles to tense—especially neck, shoulders, and jaw.
+
+**The pattern:**
+- Shoulder shrugging
+- Jaw clenching
+- Shallow breathing
+
+**The fix:**
+- Stress management
+- Relaxation techniques
+- Awareness of tension patterns
+- Deep breathing
+
+### 6. Poor Posture
+
+**The problem:** Postural imbalances create muscle imbalances—some muscles short and tight, others long and weak.
+
+**The classic pattern:**
+- Tight: chest, hip flexors, upper traps
+- Weak: upper back, deep neck flexors, glutes
+
+**The fix:**
+- Stretch tight muscles
+- Strengthen weak muscles
+- Posture awareness
+- Ergonomic improvements
+
+### 7. Dehydration
+
+**The problem:** Muscles need water to function properly. Dehydration increases stiffness.
+
+**The fix:**
+- Drink adequate water throughout the day
+- More if active or sweating
+
+### 8. Poor Sleep
+
+**The problem:** Sleep is when tissues repair. Poor sleep increases stiffness and pain sensitivity.
+
+**The fix:**
+- Prioritize sleep
+- 7-9 hours for most adults
+- Sleep position matters too
+
+### 9. Inflammation
+
+**The problem:** Systemic inflammation increases stiffness. Can be from:
+- Diet
+- Chronic conditions
+- Autoimmune issues
+- Overtraining
+
+**The fix:**
+- Anti-inflammatory diet
+- Adequate recovery
+- Medical evaluation if persistent
+
+### 10. Neural Tension
+
+**The problem:** Tight nerves feel like tight muscles but don't respond to stretching.
+
+**Signs:**
+- Stretching doesn't help
+- Tingling or numbness with stretch
+- Symptoms follow a nerve path
+
+**The fix:**
+- Nerve glides instead of stretches
+- Address underlying cause
+- Medical evaluation if significant
+
+## Why Stretching Isn't Working
+
+If you stretch but stay tight:
+
+### You're Stretching Muscles That Are Weak, Not Short
+
+Muscles tighten to protect. Strengthen them instead.
+
+### You're Not Addressing Root Cause
+
+Stretching treats the symptom. Address why you're tight.
+
+### You're Not Consistent
+
+Occasional stretching doesn't create lasting change.
+
+### It's Neural, Not Muscular
+
+Nerve tension feels like tightness but needs different treatment.
+
+### You Have a Stability Problem
+
+When joints are unstable, muscles tighten for protection.
+
+## The Complete Approach
+
+### 1. Identify the Cause
+
+Which of the above applies to you?
+
+### 2. Address the Root
+
+- Move more (if inactivity)
+- Strengthen (if weakness)
+- Manage stress (if tension)
+- Improve posture (if postural)
+- Hydrate (if dehydrated)
+- Sleep better (if sleep-deprived)
+
+### 3. Strategic Stretching
+
+Stretch what's actually short, not everything.
+
+### 4. Strengthen What's Weak
+
+Often more effective than stretching.
+
+### 5. Move Regularly
+
+Daily movement prevents stiffness from building.
+
+## Quick Relief Strategies
+
+### For Immediate Stiffness
+
+- Move and stretch
+- Hot shower or bath
+- Foam rolling
+- Light walking
+- Dynamic movement
+
+### For Chronic Stiffness
+
+- Address underlying cause
+- Consistent movement routine
+- Strength training
+- Lifestyle factors (sleep, stress, hydration)
+
+## The Bottom Line
+
+Stiffness has many causes—prolonged positions, inactivity, weakness, stress, and more. Stretching helps some causes but not others. Identify why you're tight, address the root cause, and use the right tools. Often, the answer is strengthening and movement, not just stretching.
+`
+  },
   'how-to-get-more-flexible': {
     title: 'How to Get More Flexible: The Complete Guide',
     date: '2026-03-07',
