@@ -13,6 +13,883 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'cooldown-stretches-post-workout': {
+    title: 'Cooldown Stretches: The Essential Post-Workout Recovery Routine',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read',
+    content: `
+## Why Cool Down?
+
+You finished your workout—time to rush to the shower? Not so fast. A proper cooldown:
+
+- Gradually lowers heart rate
+- Prevents blood pooling in extremities
+- Reduces muscle soreness
+- Takes advantage of warm muscles for flexibility gains
+- Promotes recovery
+- Provides mental transition out of workout mode
+
+Skipping the cooldown is one of the most common fitness mistakes.
+
+## What Happens During Cooldown
+
+### Cardiovascular Return
+
+During exercise, blood is pumping to working muscles. Stopping suddenly can cause blood to pool, leading to dizziness or lightheadedness. Gradual cooldown helps blood return to normal circulation.
+
+### Muscle Recovery
+
+Light movement and stretching help clear metabolic waste from muscles. This reduces soreness and speeds recovery.
+
+### Flexibility Window
+
+Warm muscles are more pliable. Post-workout is the ideal time for static stretching to build flexibility.
+
+### Nervous System Calming
+
+The cooldown signals to your body that the workout is over, helping shift from sympathetic (fight or flight) to parasympathetic (rest and digest) mode.
+
+## The Cooldown Structure
+
+### Phase 1: Lower Intensity Movement (2-3 minutes)
+
+Continue your activity at lower intensity:
+- Running → walking
+- Cycling → easy pedaling
+- Weights → light walking
+- HIIT → slow marching
+
+This gradually brings heart rate down.
+
+### Phase 2: Light Movement (2-3 minutes)
+
+Gentle, full-body movement:
+- Walking in place
+- Easy arm circles
+- Hip circles
+- Shoulder rolls
+
+### Phase 3: Static Stretching (5-10 minutes)
+
+Hold stretches for the muscles you just worked, plus any chronically tight areas.
+
+## Essential Cooldown Stretches
+
+### For Lower Body Workouts
+
+**Quadriceps:**
+1. Standing, pull heel to buttock
+2. Hold 30-45 seconds each side
+
+**Hamstrings:**
+1. Lying or seated, reach toward toes
+2. Hold 30-45 seconds each side
+
+**Hip Flexors:**
+1. Half-kneeling, tuck tailbone
+2. Hold 30-45 seconds each side
+
+**Glutes:**
+1. Figure-4 stretch
+2. Hold 30-45 seconds each side
+
+**Calves:**
+1. Wall stretch, straight and bent leg
+2. Hold 30 seconds each position
+
+### For Upper Body Workouts
+
+**Chest:**
+1. Doorway or wall stretch
+2. Hold 30-45 seconds each side
+
+**Shoulders:**
+1. Cross-body stretch
+2. Hold 30 seconds each side
+
+**Lats:**
+1. Reach overhead, lean to side
+2. Hold 30 seconds each side
+
+**Triceps:**
+1. Arm overhead, pull elbow back
+2. Hold 30 seconds each side
+
+**Neck:**
+1. Ear to shoulder
+2. Hold 20-30 seconds each side
+
+### For Full Body / Cardio
+
+**Full Routine:**
+1. Hamstrings: 30 sec each
+2. Hip flexors: 30 sec each
+3. Quads: 30 sec each
+4. Glutes: 30 sec each
+5. Calves: 30 sec each
+6. Chest: 30 sec each
+7. Shoulders: 30 sec each
+8. Neck: 20 sec each
+9. Child's pose: 30 seconds
+
+## Quick 5-Minute Cooldown
+
+When time is limited:
+
+1. Walk 1-2 minutes
+2. Forward fold: 30 seconds
+3. Lunge with hip flexor stretch: 30 sec each
+4. Figure-4: 30 sec each
+5. Chest stretch: 30 sec each
+6. Neck stretches: 20 sec each
+
+Better than nothing—always cool down, even if briefly.
+
+## Foam Rolling in Cooldown
+
+Adding foam rolling before stretching can enhance your cooldown:
+
+1. Foam roll (2-3 minutes)
+2. Then stretch the same muscles
+
+Rolling releases tension, allowing deeper stretches.
+
+## Breathing During Cooldown
+
+### Deep Breathing Pattern
+
+1. Inhale 4 counts through nose
+2. Hold 2 counts
+3. Exhale 6 counts through mouth
+4. Repeat
+
+Deep breathing activates the relaxation response and enhances recovery.
+
+### During Stretches
+
+- Exhale as you deepen the stretch
+- Breathe continuously
+- Never hold your breath
+
+## Common Mistakes
+
+### Skipping It
+
+"I don't have time" costs you recovery quality and flexibility gains.
+
+### Going Too Fast
+
+Rushing through stretches doesn't provide benefit. Take your time.
+
+### Only Stretching Worked Muscles
+
+Also stretch chronically tight areas, even if you didn't work them.
+
+### Holding Breath
+
+Breathing is essential for muscle relaxation.
+
+### Static Stretching When Cold
+
+If you skipped the light movement phase, do some movement before deep stretching.
+
+## Sample Cooldown Routines
+
+### After Running (8 minutes)
+
+1. Walk 2 minutes
+2. Calf stretch: 30 sec each
+3. Quad stretch: 30 sec each
+4. Hip flexor: 30 sec each
+5. Hamstring: 45 sec each
+6. Figure-4: 30 sec each
+7. Standing forward fold: 30 sec
+
+### After Strength Training (10 minutes)
+
+1. Light walking 2 minutes
+2. Stretch each muscle group worked
+3. Add chronically tight areas
+4. Child's pose: 30 seconds
+5. Deep breathing: 1 minute
+
+### After HIIT (10 minutes)
+
+1. Walk until heart rate drops
+2. Full body stretch routine
+3. Foam roll if available
+4. Deep breathing to finish
+
+## The Bottom Line
+
+A proper cooldown takes 5-10 minutes but pays dividends in recovery, soreness reduction, and flexibility gains. Your muscles are warm—use that window for stretching. Make cooldowns non-negotiable, and your body will thank you.
+`
+  },
+  'foam-rolling-guide-basics': {
+    title: 'Foam Rolling Guide: How to Release Tight Muscles Yourself',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## What Is Foam Rolling?
+
+Foam rolling is a form of self-myofascial release—essentially self-massage using a cylindrical foam roller. It helps:
+
+- Release muscle tension and tightness
+- Reduce muscle soreness
+- Improve range of motion
+- Increase blood flow
+- Prepare muscles for activity
+- Aid recovery after exercise
+
+It's not a replacement for stretching, but a complement to it.
+
+## How Does It Work?
+
+When you apply pressure with a foam roller, you:
+
+- Stimulate sensory receptors that signal muscles to relax
+- Increase blood flow to the area
+- Break up adhesions in fascia (connective tissue)
+- Create temporary improvements in flexibility
+
+Think of it as ironing out knots in your muscles.
+
+## Types of Foam Rollers
+
+### Soft/Low Density
+
+- Good for beginners
+- Less intense pressure
+- Comfortable but less effective for deep tissue
+
+### Standard/Medium Density
+
+- Most common
+- Good balance of comfort and effectiveness
+- Appropriate for most people
+
+### Firm/High Density
+
+- More intense
+- Better for experienced users
+- Denser muscles respond better
+
+### Textured/Grid Rollers
+
+- Ridges and bumps for targeted pressure
+- More intense
+- Good for specific trigger points
+
+### Smaller Tools
+
+- Lacrosse balls
+- Tennis balls
+- Massage sticks
+- For smaller or harder-to-reach areas
+
+## General Technique
+
+### The Basics
+
+1. Position the roller under the target muscle
+2. Apply body weight to create pressure
+3. Roll slowly (1 inch per second)
+4. When you find a tight spot, pause
+5. Hold 20-60 seconds on tight spots
+6. Breathe deeply and try to relax
+
+### Pressure Guidelines
+
+- Discomfort is normal
+- Sharp pain is not—ease off
+- Start lighter, increase as tolerated
+- Scale: 6-7 out of 10 discomfort
+
+### Breathing
+
+Holding your breath increases tension. Breathe deeply and continuously.
+
+## Muscle-by-Muscle Guide
+
+### Calves
+
+1. Sit with calf on roller
+2. Cross other leg on top for pressure
+3. Roll from ankle to below knee
+4. Rotate leg to hit all angles
+5. 1-2 minutes each leg
+
+### Quadriceps
+
+1. Lie face down, roller under thighs
+2. Roll from hip to just above knee
+3. Turn to roll inner and outer quad
+4. 1-2 minutes each leg
+
+### Hamstrings
+
+1. Sit with hamstrings on roller
+2. Cross one leg over the other for pressure
+3. Roll from below glute to above knee
+4. 1-2 minutes each leg
+
+### IT Band (Side of Thigh)
+
+1. Lie on side, roller under outer thigh
+2. Roll from hip to just above knee
+3. This is often intense—go slowly
+4. 1-2 minutes each side
+
+Note: Rolling IT band directly can be very painful. Rolling quad and glute may be more beneficial.
+
+### Glutes
+
+1. Sit on roller
+2. Cross one ankle over opposite knee
+3. Lean toward crossed leg
+4. Roll around the glute
+5. Use tennis ball for deeper work
+6. 1-2 minutes each side
+
+### Hip Flexors
+
+1. Lie face down
+2. Roller at front of hip
+3. Roll gently—this area is sensitive
+4. 1 minute each side
+
+### Upper Back
+
+1. Lie on roller across upper back
+2. Cross arms over chest
+3. Roll from mid-back to shoulders
+4. Do NOT roll lower back on roller
+5. 1-2 minutes
+
+### Lats
+
+1. Lie on side, arm overhead
+2. Roller under armpit area
+3. Roll from armpit toward waist
+4. 1-2 minutes each side
+
+### Chest (with Ball)
+
+1. Place ball between chest muscle and wall
+2. Roll around to find tight spots
+3. 1-2 minutes each side
+
+## Do NOT Foam Roll
+
+### Lower Back
+
+The spine has no muscular protection. Use stretches instead, or roll glutes and upper back.
+
+### Directly on Joints
+
+Avoid rolling directly on knees, elbows, ankles.
+
+### Over Bony Areas
+
+Skip the bones—focus on soft tissue.
+
+### Injured Areas
+
+Don't roll over acute injuries, bruises, or inflammation.
+
+## When to Foam Roll
+
+### Before Exercise
+
+Brief rolling (1-2 minutes per area) as part of warm-up:
+- Increases range of motion
+- Prepares muscles for activity
+- Follow with dynamic stretching
+
+### After Exercise
+
+Longer rolling (2-3 minutes per area) for recovery:
+- Reduces soreness
+- Promotes recovery
+- Follow with static stretching
+
+### On Rest Days
+
+General maintenance and recovery work.
+
+### When Feeling Tight
+
+Anytime you notice muscle tension.
+
+## Sample Routines
+
+### Pre-Workout (5 minutes)
+
+Roll each area 30-60 seconds:
+1. Quads
+2. Hamstrings
+3. Glutes
+4. Upper back
+5. Follow with dynamic warm-up
+
+### Post-Workout (10 minutes)
+
+Roll each area 1-2 minutes:
+1. All muscles worked
+2. Chronically tight areas
+3. Follow with static stretching
+
+### Recovery Day (15-20 minutes)
+
+Thorough rolling of entire body:
+1. Calves
+2. Hamstrings
+3. Quads
+4. IT band (or glutes)
+5. Glutes
+6. Upper back
+7. Lats
+8. Follow with stretching
+
+## Tips for Effectiveness
+
+### Go Slow
+
+Fast rolling doesn't allow muscles to release. Move slowly—1 inch per second.
+
+### Pause on Tight Spots
+
+When you find a knot, stay on it. Let it release before moving on.
+
+### Breathe
+
+Deep breaths help muscles relax. Exhale while holding pressure.
+
+### Consistency
+
+Regular rolling produces better results than occasional intense sessions.
+
+### Combine with Stretching
+
+Rolling releases tension; stretching lengthens muscles. Do both.
+
+## The Bottom Line
+
+Foam rolling is a simple, effective way to reduce muscle tension and improve recovery. Roll slowly, pause on tight spots, and breathe. Use it before and after workouts, and on rest days for maintenance. Combined with stretching, it's one of the best tools for keeping your body feeling good.
+`
+  },
+  'how-often-should-you-stretch': {
+    title: 'How Often Should You Stretch? The Complete Frequency Guide',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Short Answer
+
+For general flexibility and health: **3-5 times per week**
+
+For significant flexibility improvement: **Daily or near-daily**
+
+For maintenance: **2-3 times per week**
+
+But the complete answer depends on your goals, current flexibility, and lifestyle.
+
+## Frequency by Goal
+
+### For General Health and Flexibility Maintenance
+
+**Frequency:** 3-4 days per week
+**Duration:** 10-15 minutes per session
+**Focus:** Full body stretching
+
+This maintains your current flexibility and prevents decline.
+
+### For Improving Flexibility
+
+**Frequency:** Daily (5-7 days per week)
+**Duration:** 15-30 minutes per session
+**Focus:** Emphasis on tight areas, full body included
+
+Flexibility improves with consistent practice. Daily stretching produces faster results.
+
+### For Targeting Specific Tightness
+
+**Frequency:** 2-3 times daily for problem areas
+**Duration:** 2-5 minutes each time
+**Focus:** The specific tight muscles
+
+Multiple short sessions throughout the day are often more effective than one long session for stubborn tightness.
+
+### For Athletes / Performance
+
+**Frequency:** Daily (as part of training)
+**Duration:** 10-15 minutes warmup, 10-15 minutes cooldown
+**Focus:** Sport-specific mobility plus general flexibility
+
+Athletes should include dynamic stretching in every warmup and static stretching in every cooldown.
+
+## Frequency by Stretch Type
+
+### Static Stretching
+
+**Frequency:** 3-7 days per week
+**When:** After warmup or exercise, or in separate sessions
+**Duration:** Hold 30-60 seconds per stretch
+
+Static stretching is best done frequently but doesn't have to be daily for maintenance.
+
+### Dynamic Stretching
+
+**Frequency:** Before every workout
+**When:** As part of warmup
+**Duration:** 5-10 minutes
+
+Dynamic stretching should precede every exercise session.
+
+### PNF/Active Stretching
+
+**Frequency:** 2-4 times per week
+**When:** When muscles are warm
+**Duration:** 5-10 minutes
+
+More intense—allow recovery between sessions.
+
+## How Often by Body Region
+
+### Chronically Tight Areas
+
+If you have areas that are consistently tight (hip flexors, hamstrings for many people):
+
+**Frequency:** Daily, even 2-3 times daily
+**Duration:** 2-3 minutes each session
+
+### Normal Areas
+
+**Frequency:** 3-4 times per week
+**Duration:** 30-60 seconds per stretch
+
+### Already Flexible Areas
+
+**Frequency:** 2-3 times per week
+**Duration:** Maintenance level
+
+Don't neglect flexible areas, but they need less attention.
+
+## The Science
+
+### What Research Shows
+
+Studies indicate:
+- Stretching 2-3 times per week maintains flexibility
+- Daily stretching improves flexibility significantly faster
+- Multiple sessions per day may accelerate gains
+- Consistency matters more than individual session duration
+
+### Diminishing Returns
+
+After about 5-10 minutes per muscle group in a single session, additional stretching has reduced benefit. Better to spread it out.
+
+## Building a Schedule
+
+### Minimum Effective Dose
+
+If you can only do one thing:
+- **10 minutes, 3 times per week**
+- Focus on major muscle groups
+- Include chronically tight areas
+
+### Moderate Approach
+
+- **15 minutes, 4-5 times per week**
+- Full body routine
+- Extra time for problem areas
+
+### Maximum Results
+
+- **20-30 minutes daily**
+- Full body plus extended time on tight areas
+- Add brief sessions for specific tightness
+
+## Sample Weekly Schedules
+
+### Beginner (3x/week)
+
+- Monday: Full body stretch (15 min)
+- Wednesday: Full body stretch (15 min)
+- Friday: Full body stretch (15 min)
+
+### Intermediate (5x/week)
+
+- Monday: Full body (15 min)
+- Tuesday: Problem areas only (10 min)
+- Wednesday: Full body (15 min)
+- Thursday: Problem areas only (10 min)
+- Friday: Full body (15 min)
+
+### Advanced (Daily)
+
+- Daily: Full body (20 min)
+- Plus: Brief sessions for tight areas throughout day
+
+### Athlete (Daily with Training)
+
+- Every workout: Dynamic warmup (10 min) + Static cooldown (10 min)
+- Rest days: Longer flexibility session (20-30 min)
+
+## What Happens if You Don't Stretch Enough?
+
+### Skipping for a Few Days
+
+- Minimal impact
+- Easy to regain
+
+### Skipping for Weeks
+
+- Noticeable tightness increases
+- Flexibility decreases
+- May take time to recover
+
+### Never Stretching
+
+- Progressive loss of flexibility
+- Increased injury risk
+- Postural changes
+- Movement limitations
+
+## What Happens if You Stretch Too Much?
+
+### Is That Possible?
+
+Yes, though rare for most people. Signs of overdoing it:
+- Joint pain or instability
+- Muscle strains
+- Excessive soreness
+- Decreasing performance
+
+### For Most People
+
+More stretching is generally better, up to a reasonable limit. Most people don't stretch enough, not too much.
+
+## Tips for Consistency
+
+### Link to Existing Habits
+
+- Stretch after morning coffee
+- Stretch while watching TV
+- Stretch after every workout (non-negotiable)
+
+### Start Small
+
+- 5 minutes daily beats 30 minutes occasionally
+- Build the habit first, add time later
+
+### Schedule It
+
+- Put it on your calendar
+- Treat it like an appointment
+
+### Make It Enjoyable
+
+- Pleasant environment
+- Good music or podcast
+- Comfortable surface
+
+## The Bottom Line
+
+Most people should stretch 3-5 times per week for general health, daily for improvement. Consistency matters more than duration—short daily sessions beat long occasional ones. Find a frequency you can maintain, and your body will adapt over time.
+`
+  },
+  'best-time-to-stretch': {
+    title: 'Best Time to Stretch: Morning, Evening, or After Exercise?',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Does Timing Matter?
+
+Yes. When you stretch affects:
+- How effective the stretch is
+- How safe it is
+- How it impacts performance
+- How it affects recovery
+
+The "best" time depends on your goals and schedule.
+
+## Stretching After Exercise
+
+### Why It's Often Best
+
+**Advantages:**
+- Muscles are warm and pliable
+- Blood flow is elevated
+- Greater flexibility gains
+- Aids recovery
+- Reduces post-workout soreness
+- Takes advantage of existing workout time
+
+**Best for:**
+- Flexibility improvement
+- Recovery
+- Reducing soreness
+- Making stretching a habit
+
+### The Science
+
+Warm muscles stretch more easily and safely. Post-exercise, your core temperature is elevated, blood flow is high, and muscles are ready to lengthen.
+
+Research shows greater flexibility improvements from stretching warm muscles compared to cold.
+
+### How to Do It
+
+1. Finish workout
+2. Brief cooldown (2-3 min walking)
+3. Static stretching (5-15 min)
+4. Hold each stretch 30-60 seconds
+
+## Stretching in the Morning
+
+### Pros
+
+- Sets positive tone for the day
+- Reduces overnight stiffness
+- Consistent time (easier habit)
+- Energizes body and mind
+- Improves posture throughout day
+
+### Cons
+
+- Muscles are cold and stiff
+- May need warmup first
+- Less effective for flexibility gains than post-exercise
+- Risk of overstretching cold muscles
+
+### Making It Work
+
+If stretching in the morning:
+1. Do a brief warmup first (march, arm circles)
+2. Or stretch after a warm shower
+3. Be gentler than you would be later in the day
+4. Focus on waking up the body rather than maximum stretch
+5. Use more dynamic stretches
+
+### Best Morning Approach
+
+- **Dynamic stretches** and gentle movement
+- Save deep static stretching for later
+- Or combine with morning exercise (stretch after)
+
+## Stretching in the Evening
+
+### Pros
+
+- Body is warm from daily activity
+- Good for relaxation and sleep
+- Can help with sleep quality
+- Time often available
+- Accumulated tension from day can be released
+
+### Cons
+
+- May be too tired
+- Easy to skip
+- Not ideal if very sedentary day (muscles still cold)
+
+### Making It Work
+
+1. Gentle warmup if sedentary day
+2. Focus on relaxation
+3. Deep breathing with stretches
+4. Avoid intense or uncomfortable stretches before bed
+
+### Best Evening Approach
+
+- **Static stretching** with focus on relaxation
+- Include breathing exercises
+- Target areas that feel tight from the day
+- Keep it comfortable—not pushing hard
+
+## Stretching Before Exercise
+
+### The Old Advice (Outdated)
+
+For years, we were told to static stretch before exercise. Research now shows this:
+- Temporarily reduces strength and power
+- Doesn't prevent injury better than dynamic warmup
+- May actually increase injury risk in some cases
+
+### The Current Best Practice
+
+**Before exercise:**
+- Dynamic stretching and movement
+- Sport-specific warmup
+- Save static stretching for after
+
+**Exception:** If a specific muscle is very tight and limiting your movement, brief static stretching may help. But generally, dynamic is better pre-exercise.
+
+## Stretching Throughout the Day
+
+### When Sitting a Lot
+
+If you have a desk job, brief stretch breaks help:
+- Every 30-60 minutes
+- 1-2 minutes each break
+- Focus on hip flexors, chest, neck
+- Counteracts sitting posture
+
+### When Feeling Tight
+
+Any time you notice tension:
+- Brief stretches for the tight area
+- Don't wait for a formal session
+- Little bits add up
+
+## Summary by Goal
+
+### For Flexibility Improvement
+
+**Best time:** After exercise (warm muscles)
+**Second best:** Evening (after activity)
+**Approach:** Longer holds, push gently to end range
+
+### For Reducing Stiffness
+
+**Best time:** Morning (to start day) + throughout day
+**Approach:** Gentle, focus on movement rather than maximum stretch
+
+### For Recovery
+
+**Best time:** After exercise
+**Approach:** Target worked muscles, moderate holds
+
+### For Relaxation / Sleep
+
+**Best time:** Evening, before bed
+**Approach:** Gentle, calming, with deep breathing
+
+### For Performance
+
+**Before activity:** Dynamic stretching only
+**After activity:** Static stretching for flexibility and recovery
+
+## The Bottom Line
+
+The single best time to stretch for flexibility gains is **after exercise** when muscles are warm. But the best time is also **whatever time you'll actually do it**.
+
+If mornings are your only option, stretch in the morning with a warmup. If evenings work better, stretch in the evening. Consistency matters more than perfect timing.
+
+For most people, the practical answer:
+- **Dynamic stretching** before exercise
+- **Static stretching** after exercise
+- **Brief stretch breaks** throughout the day
+- **Relaxation stretching** before bed (optional)
+`
+  },
   'mobility-vs-flexibility-difference': {
     title: 'Mobility vs Flexibility: What\'s the Difference and Why It Matters',
     date: '2026-03-07',

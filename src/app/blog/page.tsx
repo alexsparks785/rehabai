@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'cooldown-stretches-post-workout',
+    title: 'Cooldown Stretches: The Essential Post-Workout Recovery Routine',
+    excerpt: 'What you do after your workout matters. This cooldown routine promotes recovery and builds flexibility.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Exercise',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'foam-rolling-guide-basics',
+    title: 'Foam Rolling Guide: How to Release Tight Muscles Yourself',
+    excerpt: 'Foam rolling is like a self-massage. Learn proper technique for every major muscle group.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-often-should-you-stretch',
+    title: 'How Often Should You Stretch? The Complete Frequency Guide',
+    excerpt: 'Daily? Weekly? The answer depends on your goals. Here\'s how often to stretch for best results.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'best-time-to-stretch',
+    title: 'Best Time to Stretch: Morning, Evening, or After Exercise?',
+    excerpt: 'When you stretch affects the results. Learn the best times to stretch for different goals.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'mobility-vs-flexibility-difference',
     title: 'Mobility vs Flexibility: What\'s the Difference and Why It Matters',
     excerpt: 'Flexibility and mobility aren\'t the same thing. Understanding the difference helps you train smarter and move better.',
