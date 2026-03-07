@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'plantar-fasciitis-exercises-heel-pain',
+    title: 'Plantar Fasciitis Exercises: How to Finally Get Rid of Heel Pain',
+    excerpt: 'That stabbing heel pain in the morning? Plantar fasciitis responds well to the right exercises. Here\'s what actually works.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Foot Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'it-band-syndrome-exercises-stretches',
+    title: 'IT Band Syndrome: Stretches and Exercises That Actually Help',
+    excerpt: 'IT band pain sidelines runners and cyclists. Here\'s how to treat it and get back to activity pain-free.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee Pain',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'tmj-exercises-jaw-pain-relief',
+    title: 'TMJ Exercises: Relieve Jaw Pain and Tension',
+    excerpt: 'Jaw clicking, pain, or tension? These exercises help restore normal TMJ function and reduce discomfort.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'TMJ',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'tension-headache-exercises-relief',
+    title: 'Tension Headache Relief: Exercises and Stretches That Work',
+    excerpt: 'Tension headaches often come from tight muscles. These stretches and exercises provide relief without medication.',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Headaches',
+    readTime: '5 min read'
+  },
+  {
     slug: 'hip-pain-exercises-stretches-relief',
     title: 'Hip Pain Exercises: Stretches and Strengthening for Relief',
     excerpt: 'Hip pain limits walking, sitting, and sleeping. These exercises address tight muscles and weak stabilizers for lasting relief.',

@@ -13,6 +13,914 @@ const posts: Record<string, {
   readTime: string;
   content: string;
 }> = {
+  'plantar-fasciitis-exercises-heel-pain': {
+    title: 'Plantar Fasciitis Exercises: How to Finally Get Rid of Heel Pain',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Foot Pain',
+    readTime: '6 min read',
+    content: `
+## What Is Plantar Fasciitis?
+
+The plantar fascia is a thick band of tissue running along the bottom of your foot, connecting your heel to your toes. When it becomes irritated and inflamed, you get plantar fasciitis—one of the most common causes of heel pain.
+
+**Classic symptoms:**
+- Stabbing pain at bottom of heel
+- Worst with first steps in morning
+- Pain after (not during) activity
+- Improves with movement, returns after rest
+
+## Why It Happens
+
+- Tight calf muscles (most common)
+- Weak foot muscles
+- Sudden increase in activity
+- Standing for long periods
+- Poor footwear
+- High arches or flat feet
+- Excess body weight
+
+## Stretching Exercises
+
+### Calf Stretch (Gastrocnemius)
+
+1. Face wall, hands on wall
+2. Step back with affected leg, keep it straight
+3. Bend front knee, lean toward wall
+4. Keep back heel on ground
+5. Hold 30-60 seconds
+6. 3 times daily
+
+### Soleus Stretch
+
+1. Same position as above
+2. Bend back knee while keeping heel down
+3. Feel stretch lower in calf
+4. Hold 30-60 seconds
+5. 3 times daily
+
+### Plantar Fascia Stretch
+
+1. Sit with ankle on opposite knee
+2. Pull toes back toward shin
+3. You can feel the tight band in your arch
+4. Hold 30 seconds
+5. 10 reps, especially before first steps in morning
+
+### Towel Stretch
+
+1. Sit with leg extended
+2. Loop towel around ball of foot
+3. Pull towel toward you, keeping knee straight
+4. Hold 30 seconds
+5. 3-5 reps
+
+### Frozen Bottle Roll
+
+1. Freeze water bottle
+2. Roll foot over bottle while seated
+3. 5-10 minutes
+4. Combines stretch with ice massage
+
+## Strengthening Exercises
+
+### Towel Scrunches
+
+1. Place towel on floor
+2. Sit with feet on towel
+3. Scrunch towel toward you using toes
+4. 2-3 sets of 10
+
+### Marble Pickups
+
+1. Place marbles on floor
+2. Pick up one at a time with toes
+3. Place in cup
+4. 20 marbles each foot
+
+### Short Foot Exercise
+
+1. Sit or stand
+2. Try to "shorten" your foot by lifting arch
+3. Don't curl toes—lift arch only
+4. Hold 5 seconds
+5. 15-20 reps
+
+### Heel Raises
+
+1. Stand on step, heels hanging off
+2. Rise up on toes
+3. Lower heels below step level (slowly)
+4. 15 reps
+5. Progress to single leg
+
+### Calf Raises (Eccentric Focus)
+
+1. Rise on both feet
+2. Lower slowly on affected foot only
+3. 3 seconds down
+4. 15 reps, 2 sets
+
+Eccentric calf work is particularly effective for plantar fasciitis.
+
+## Daily Protocol
+
+### First Thing in Morning (Before Standing)
+
+1. Plantar fascia stretch: 10 reps
+2. Towel calf stretch: 30 seconds each side
+3. Ankle circles: 10 each direction
+
+This prepares the tissue before you load it.
+
+### Throughout Day
+
+1. Calf stretches when possible
+2. Avoid prolonged standing
+3. Wear supportive shoes (even at home)
+
+### Evening
+
+1. Frozen bottle roll: 5-10 minutes
+2. All stretches: hold longer (60 seconds)
+3. Strengthening exercises
+
+## What Else Helps
+
+### Footwear
+
+- Supportive shoes, even indoors
+- Avoid flat shoes and going barefoot
+- Consider arch supports or orthotics
+- Replace worn shoes
+
+### Night Splint
+
+Keeps foot stretched overnight. Reduces morning pain.
+
+### Ice
+
+- Ice heel for 15-20 minutes after activity
+- Frozen water bottle rolling is ideal
+
+### Rest (Relative)
+
+- Reduce high-impact activity
+- Don't completely rest—gentle movement helps
+- Swimming and cycling are good alternatives
+
+### Tape or Strap
+
+Low-dye taping supports the arch. Some find it helpful.
+
+## Recovery Timeline
+
+Most plantar fasciitis improves with consistent treatment:
+
+- **2-4 weeks:** Some improvement
+- **6-8 weeks:** Significant improvement
+- **3-6 months:** Full resolution for most
+
+If not improving after 6-8 weeks of consistent treatment, see a professional.
+
+## Common Mistakes
+
+- **Going barefoot:** Stresses the fascia more
+- **Stretching only when it hurts:** Needs to be daily habit
+- **Ignoring calf tightness:** Often the root cause
+- **Too much too soon:** Gradual return to activity
+- **Giving up:** It takes time, but it works
+
+## When to See a Doctor
+
+Get evaluated if:
+- No improvement after 6-8 weeks
+- Severe pain limiting walking
+- Numbness or tingling in foot
+- Pain throughout the day (not just morning)
+- Heel pain after injury
+
+Treatments like cortisone injections, shockwave therapy, or (rarely) surgery may be needed for resistant cases.
+
+## Prevention
+
+Once better, prevent recurrence:
+- Continue calf stretching daily
+- Maintain foot strength exercises
+- Wear supportive shoes
+- Gradual increases in activity
+- Address calf tightness immediately
+
+## The Bottom Line
+
+Plantar fasciitis is frustrating but highly treatable. The combination of calf stretching, plantar fascia stretching, and foot strengthening works for most people. The key is consistency—do the exercises daily, not just when it hurts. Most cases resolve within a few months of dedicated treatment.
+`
+  },
+  'it-band-syndrome-exercises-stretches': {
+    title: 'IT Band Syndrome: Stretches and Exercises That Actually Help',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Knee Pain',
+    readTime: '6 min read',
+    content: `
+## What Is IT Band Syndrome?
+
+The iliotibial (IT) band is a thick band of tissue running from your hip to your knee on the outside of your thigh. IT band syndrome causes pain on the outer knee or hip, typically from the band repeatedly rubbing over bone during repetitive movements.
+
+**Common in:**
+- Runners
+- Cyclists
+- Hikers
+- Anyone doing repetitive knee bending
+
+**Symptoms:**
+- Pain on outer knee (most common) or hip
+- Pain during activity, especially running
+- Worse going downhill or down stairs
+- May feel tight or snapping
+
+## Why It Happens
+
+IT band syndrome is usually a problem of:
+
+1. **Weak hip muscles** (especially gluteus medius)
+2. **Poor movement patterns** (knee collapsing inward)
+3. **Training errors** (too much, too soon)
+4. **Tight hip muscles** (contributing to the pattern)
+
+The IT band itself isn't usually the problem—it's what's happening at the hip and knee.
+
+## The Truth About IT Band Stretching
+
+Here's what many people get wrong: **you can't really stretch the IT band.** It's too strong and stiff—research shows it doesn't change length with stretching.
+
+What you CAN do:
+- Foam roll muscles around the IT band
+- Stretch the hip muscles that attach to it
+- Strengthen weak hip muscles (the real fix)
+
+## Foam Rolling
+
+### Quad and TFL Roll
+
+1. Lie on foam roller on front/outside of thigh
+2. Roll from hip to just above knee
+3. Avoid rolling directly on bone
+4. 1-2 minutes each side
+
+### Glute Roll
+
+1. Sit on foam roller
+2. Cross one ankle over opposite knee
+3. Roll the glute of the crossed leg
+4. 1-2 minutes each side
+
+**Note:** Don't roll the IT band directly—it won't help and often irritates it more.
+
+## Hip Stretches
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Lean forward
+4. Hold 30-60 seconds each side
+
+### Figure-4 (Piriformis) Stretch
+
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull thigh toward chest
+4. Hold 30-60 seconds each side
+
+### Standing IT Band Stretch
+
+1. Cross affected leg behind the other
+2. Lean away from affected side
+3. Push hip out
+4. Hold 30 seconds each side
+
+This stretches the hip muscles, not the IT band itself.
+
+## Strengthening (The Real Fix)
+
+### Clamshells
+
+1. Side-lying, knees bent 45°
+2. Keep feet together
+3. Lift top knee without rotating pelvis
+4. 20-25 reps each side
+5. Add band for more challenge
+
+### Side-Lying Hip Abduction
+
+1. Side-lying, legs straight
+2. Lift top leg toward ceiling
+3. Keep toes pointing forward
+4. 15-20 reps each side
+
+### Lateral Band Walks
+
+1. Band around ankles or above knees
+2. Athletic stance, knees slightly bent
+3. Step sideways, keeping tension
+4. 15-20 steps each direction
+
+### Single Leg Bridges
+
+1. Lying on back
+2. One leg extended
+3. Lift hips using single leg
+4. Don't let pelvis drop
+5. 12-15 each side
+
+### Single Leg Deadlift
+
+1. Stand on one leg
+2. Hinge at hip, reaching toward ground
+3. Keep pelvis level (don't rotate)
+4. 10-12 reps each side
+
+### Single Leg Squat (to chair)
+
+1. Stand on one leg in front of chair
+2. Squat down to touch chair
+3. Watch knee—don't let it collapse inward
+4. Stand back up
+5. 8-10 reps each side
+
+## Running Form Fixes
+
+For runners with IT band syndrome:
+
+- **Increase cadence:** Shorter, quicker steps reduce strain
+- **Avoid crossover gait:** Feet should land under hips, not crossing midline
+- **Don't overstride:** Land with foot under your body
+- **Hill awareness:** Walk downhills during recovery
+
+## Sample IT Band Program
+
+### Daily (5 minutes)
+
+1. Hip flexor stretch: 30 sec each side
+2. Figure-4 stretch: 30 sec each side
+3. Clamshells: 15-20 each side
+
+### 3x Per Week (15 minutes)
+
+**Foam rolling:**
+1. Quads/TFL: 1 min each side
+2. Glutes: 1 min each side
+
+**Stretches:**
+1. Hip flexor: 45 sec each side
+2. Figure-4: 45 sec each side
+3. Standing IT band stretch: 30 sec each side
+
+**Strengthening:**
+1. Clamshells: 2 x 20 each side
+2. Side-lying abduction: 2 x 15 each side
+3. Lateral band walks: 2 x 15 each direction
+4. Single leg deadlift: 2 x 10 each side
+5. Single leg squat: 2 x 8 each side
+
+## Return to Activity
+
+### Phase 1: Pain Control
+
+- Stop running/cycling temporarily
+- Cross-train (swimming, upper body)
+- Do rehab exercises daily
+- Ice after exercise
+
+### Phase 2: Gradual Return
+
+- Start with short, flat runs
+- Walk/run intervals
+- No hills or speed work
+- Continue rehab exercises
+
+### Phase 3: Full Return
+
+- Gradually increase distance
+- Add hills and speed slowly
+- Maintain hip strengthening 2-3x/week
+- Don't increase weekly mileage more than 10%
+
+## Prevention
+
+Once better:
+- Continue hip strengthening 2-3x/week
+- Gradual training increases
+- Vary surfaces and routes
+- Proper footwear
+- Address early symptoms immediately
+
+## When to See a Doctor
+
+Get evaluated if:
+- Severe pain affecting daily activities
+- No improvement after 4-6 weeks
+- Pain at rest or at night
+- Swelling or locking
+- Need help with specific treatment
+
+## The Bottom Line
+
+IT band syndrome isn't about stretching the IT band—it's about strengthening weak hip muscles and addressing movement patterns. Consistent hip strengthening (especially clamshells, lateral band walks, and single-leg exercises) is the most effective treatment. Most cases improve within 4-8 weeks with proper rehabilitation.
+`
+  },
+  'tmj-exercises-jaw-pain-relief': {
+    title: 'TMJ Exercises: Relieve Jaw Pain and Tension',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'TMJ',
+    readTime: '5 min read',
+    content: `
+## What Is TMJ Disorder?
+
+The temporomandibular joint (TMJ) connects your jaw to your skull. TMJ disorders cause:
+
+- Jaw pain or tenderness
+- Clicking, popping, or grinding sounds
+- Difficulty opening mouth fully
+- Jaw locking open or closed
+- Facial pain
+- Headaches
+- Ear pain (without infection)
+
+**Common causes:**
+- Teeth grinding (bruxism)
+- Jaw clenching
+- Stress and tension
+- Arthritis
+- Jaw injury
+- Poor posture (forward head)
+
+## Gentle Stretching Exercises
+
+### Relaxed Jaw Position
+
+Your jaw should rest with:
+- Teeth slightly apart
+- Tongue on roof of mouth
+- Lips closed
+
+Practice this awareness throughout the day. We often clench without realizing it.
+
+### Goldfish Exercise (Partial Opening)
+
+1. Tongue on roof of mouth
+2. One finger on TMJ (in front of ear)
+3. One finger on chin
+4. Drop lower jaw halfway open
+5. Close
+6. 6 reps, 6 times daily
+
+### Goldfish Exercise (Full Opening)
+
+1. Same finger positions
+2. Drop jaw fully open
+3. Close
+4. 6 reps, 6 times daily
+
+### Chin Tucks
+
+1. Pull chin straight back (make double chin)
+2. Hold 3 seconds
+3. 10 reps
+
+Addresses forward head posture that contributes to TMJ.
+
+### Resisted Opening
+
+1. Place thumb under chin
+2. Open mouth slowly against thumb resistance
+3. Hold 3-6 seconds
+4. Close slowly
+5. 6 reps
+
+### Resisted Closing
+
+1. Place thumbs under chin, fingers on lower front teeth
+2. Close mouth against finger resistance
+3. 6 reps
+
+### Side-to-Side Movement
+
+1. Place 1/4 inch object between front teeth (stack of tongue depressors)
+2. Move jaw slowly side to side
+3. As gets easier, increase object thickness
+4. 6 reps each direction
+
+### Forward Movement
+
+1. Object between front teeth
+2. Move lower jaw forward so bottom teeth are in front of top teeth
+3. Increase object thickness as improves
+4. 6 reps
+
+## Massage Techniques
+
+### Masseter Massage
+
+1. Place fingers on cheeks, over jaw muscle
+2. Apply gentle pressure
+3. Small circular motions
+4. 30-60 seconds
+5. This is the main chewing muscle
+
+### Temporalis Massage
+
+1. Place fingers on temples
+2. Gentle circular pressure
+3. Move up and back from temples
+4. 30-60 seconds
+
+### Pterygoid Massage (Inside Mouth)
+
+1. Wash hands
+2. Open mouth slightly
+3. Place finger inside cheek, behind upper back molars
+4. Gently press and massage
+5. 30 seconds each side
+
+## Relaxation Techniques
+
+### Diaphragmatic Breathing
+
+1. Hand on belly
+2. Breathe in through nose, belly rises
+3. Exhale slowly through mouth
+4. 5-10 breaths
+5. Promotes overall relaxation
+
+### Progressive Jaw Relaxation
+
+1. Clench jaw tightly for 5 seconds
+2. Release and let jaw go completely slack
+3. Feel the difference
+4. Repeat 3-5 times
+
+### Tongue Position Awareness
+
+Throughout the day, notice:
+- Is your jaw clenched?
+- Are teeth touching?
+- Where is your tongue?
+
+Reset to relaxed position frequently.
+
+## Daily TMJ Routine
+
+### Morning (3 minutes)
+
+1. Relaxed jaw awareness: 30 sec
+2. Chin tucks: 10 reps
+3. Goldfish (partial): 6 reps
+4. Goldfish (full): 6 reps
+5. Masseter massage: 30 sec
+
+### Throughout Day
+
+1. Check jaw tension hourly
+2. Reset to relaxed position
+3. Avoid resting chin on hand
+4. Don't chew gum
+
+### Evening (5 minutes)
+
+1. All stretching exercises
+2. Full jaw massage (all muscles)
+3. Diaphragmatic breathing: 2 minutes
+4. Progressive jaw relaxation
+
+## Lifestyle Modifications
+
+### Avoid
+
+- Hard or chewy foods
+- Wide opening (big bites, yawning)
+- Gum chewing
+- Nail biting
+- Resting chin on hand
+- Cradling phone between shoulder and ear
+
+### Posture
+
+- Keep head over shoulders
+- Chin tucks throughout day
+- Proper desk ergonomics
+- Avoid forward head position
+
+### Stress Management
+
+Stress increases jaw clenching:
+- Regular exercise
+- Adequate sleep
+- Relaxation techniques
+- Address stress sources
+
+### Nighttime
+
+- Ask dentist about night guard
+- Sleep on back or side (not stomach)
+- Relaxation routine before bed
+
+## Heat and Ice
+
+**Moist heat:**
+- Before exercises
+- Relaxes muscles
+- 15-20 minutes
+
+**Ice:**
+- After flare-ups
+- Reduces inflammation
+- 10-15 minutes
+
+Many people alternate heat and ice.
+
+## When to See a Professional
+
+Get evaluated if:
+- Jaw locks open or closed
+- Severe pain
+- Can't open mouth more than 2 fingers width
+- Symptoms worsen despite exercises
+- Significant clicking or grinding
+- Ear symptoms without ear problem
+
+Dentist, oral surgeon, or TMJ specialist can provide:
+- Custom night guard
+- Physical therapy referral
+- Medications
+- Other treatments if needed
+
+## The Bottom Line
+
+TMJ disorders often respond well to gentle exercises, massage, and lifestyle changes. The key is consistency—do the exercises daily, be aware of jaw tension, and address contributing factors like posture and stress. Most people see improvement within a few weeks of dedicated practice.
+`
+  },
+  'tension-headache-exercises-relief': {
+    title: 'Tension Headache Relief: Exercises and Stretches That Work',
+    date: '2026-03-07',
+    author: 'Foundational Rehab',
+    category: 'Headaches',
+    readTime: '5 min read',
+    content: `
+## Understanding Tension Headaches
+
+Tension headaches are the most common type—that band of pressure around your head, tightness in your scalp, neck, and shoulders. They're often caused by:
+
+- Tight neck and shoulder muscles
+- Poor posture (especially forward head)
+- Stress and anxiety
+- Eye strain
+- Jaw clenching
+- Dehydration
+
+Unlike migraines, tension headaches don't usually cause nausea or visual disturbances.
+
+## Neck Stretches
+
+### Upper Trapezius Stretch
+
+1. Sit tall
+2. Tilt right ear toward right shoulder
+3. Place right hand gently on left side of head
+4. Hold 30-45 seconds
+5. Switch sides
+
+### Levator Scapulae Stretch
+
+1. Turn head 45° to right
+2. Look down toward armpit
+3. Gently add pressure with right hand
+4. Hold 30-45 seconds each side
+
+### Neck Flexion Stretch
+
+1. Drop chin to chest
+2. Clasp hands behind head
+3. Gentle pressure from hands
+4. Hold 30 seconds
+
+### Neck Extension
+
+1. Look up toward ceiling
+2. Hold 10-15 seconds
+3. Return to neutral
+4. 3-5 reps
+
+### Neck Rotation
+
+1. Slowly turn head to look over right shoulder
+2. Hold 20-30 seconds
+3. Switch sides
+
+## Chin Tucks
+
+This addresses forward head posture—a major headache contributor.
+
+1. Sit or stand tall
+2. Pull chin straight back (make a double chin)
+3. Hold 5-10 seconds
+4. Relax
+5. 10-15 reps
+
+Do this hourly if you work at a desk.
+
+## Shoulder and Upper Back
+
+### Shoulder Rolls
+
+1. Roll shoulders forward 10 times
+2. Roll backward 10 times
+3. Do slowly with full range
+
+### Shoulder Shrugs
+
+1. Raise shoulders toward ears
+2. Hold 5 seconds
+3. Drop and relax
+4. 10 reps
+
+### Chest Stretch (Doorway)
+
+1. Stand in doorway
+2. Arms on frame at 90°
+3. Step through with one foot
+4. Feel stretch in chest
+5. Hold 30-45 seconds
+
+Tight chest pulls shoulders forward, stressing neck.
+
+### Scapular Squeezes
+
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. Relax
+4. 15-20 reps
+
+### Cat-Cow
+
+1. On hands and knees
+2. Round back up, tuck chin
+3. Arch back, lift head
+4. Flow smoothly between
+5. 10-15 cycles
+
+## Jaw Relaxation
+
+Jaw tension contributes to many headaches.
+
+### Relaxed Jaw Position
+
+- Teeth slightly apart
+- Tongue on roof of mouth
+- Lips closed
+
+Check and reset throughout day.
+
+### Jaw Stretch
+
+1. Place fingers on chin
+2. Gently push down as you open mouth
+3. Hold 30 seconds
+
+### Masseter Massage
+
+1. Place fingers on jaw muscles (cheeks)
+2. Gentle circular pressure
+3. 30-60 seconds
+
+## Self-Massage
+
+### Suboccipital Release
+
+1. Place fingers at base of skull
+2. Find the small muscles where skull meets neck
+3. Apply gentle pressure
+4. Small circular motions or hold
+5. 1-2 minutes
+
+These muscles are often involved in tension headaches.
+
+### Temple Massage
+
+1. Place fingers on temples
+2. Gentle circular pressure
+3. 30-60 seconds
+
+### Forehead Massage
+
+1. Place fingertips on forehead
+2. Gentle pressure, move from center outward
+3. 30-60 seconds
+
+### Scalp Massage
+
+1. Move fingertips all over scalp
+2. Gentle circular motions
+3. 1-2 minutes
+
+## Quick Relief Routine (5 minutes)
+
+When headache strikes:
+
+1. Chin tucks: 10 reps
+2. Upper trap stretch: 30 sec each side
+3. Shoulder rolls: 10 each direction
+4. Suboccipital release: 1 minute
+5. Deep breathing: 1 minute
+
+## Prevention Routine (Daily)
+
+### Morning (3 minutes)
+
+1. Chin tucks: 10 reps
+2. Cat-cow: 10 reps
+3. All neck stretches: 20 sec each
+
+### During Work (Hourly)
+
+1. Posture check
+2. Chin tucks: 5 reps
+3. Shoulder rolls: 5 each direction
+4. Look away from screen (20-20-20 rule)
+
+### Evening (5 minutes)
+
+1. All neck stretches: 30 sec each
+2. Chest stretch: 30 sec
+3. Self-massage routine
+4. Relaxation breathing
+
+## Posture Tips
+
+### At Desk
+
+- Monitor at eye level
+- Keyboard at elbow height
+- Shoulders relaxed (not shrugged)
+- Head over shoulders (not forward)
+- Take breaks every 30 minutes
+
+### Phone Use
+
+- Bring phone to eye level
+- Avoid "text neck"
+- Limit prolonged use
+
+### General
+
+- Be aware of head position
+- Reset posture frequently
+- Strengthen upper back
+
+## Other Helpful Strategies
+
+### Hydration
+
+Dehydration triggers headaches. Drink water throughout day.
+
+### Eye Strain
+
+- 20-20-20 rule: Every 20 minutes, look at something 20 feet away for 20 seconds
+- Proper lighting
+- Check glasses prescription
+
+### Stress Management
+
+- Regular exercise
+- Adequate sleep
+- Relaxation techniques
+- Address underlying stress
+
+### Heat
+
+- Warm compress on neck and shoulders
+- Hot shower
+- Helps before stretching
+
+## When to See a Doctor
+
+Get evaluated if:
+- Sudden severe headache
+- Headache with fever, stiff neck, confusion
+- Headaches after head injury
+- Pattern change in chronic headaches
+- New headaches after 50
+- Headaches with vision changes or weakness
+
+These could indicate something more serious.
+
+## The Bottom Line
+
+Tension headaches are often muscular—caused by tight neck, shoulder, and jaw muscles combined with poor posture. Regular stretching, posture awareness, and stress management can dramatically reduce headache frequency. The key is consistency: a few minutes of daily prevention beats hours of suffering.
+`
+  },
   'hip-pain-exercises-stretches-relief': {
     title: 'Hip Pain Exercises: Stretches and Strengthening for Relief',
     date: '2026-03-07',
