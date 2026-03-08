@@ -72006,6 +72006,1126 @@ Start with gentle poses, practice regularly, and progress slowly. Your back will
 
 *Foundational Rehab programs incorporate yoga principles for back pain relief and prevention.*
     \`
+  },
+  'chair-exercises-seated-workout': {
+    title: 'Chair Exercises: Complete Seated Workout Guide',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Accessibility',
+    readTime: '6 min read',
+    content: \`
+## Who Benefits from Chair Exercises?
+
+Chair exercises aren't just for those who can't stand. They're valuable for:
+
+- **Seniors** with balance concerns
+- **Office workers** who need movement breaks
+- **Those recovering** from injury or surgery
+- **People with disabilities** affecting mobility
+- **Wheelchair users**
+- **Anyone** who wants low-impact exercise
+- **Beginners** building fitness gradually
+
+A sturdy chair can be your gym.
+
+## Setting Up for Chair Exercise
+
+### The Right Chair
+
+- **Sturdy and stable** — No wheels (or lock them)
+- **No arms** preferred (or use arms for support)
+- **Appropriate height** — Feet flat on floor
+- **Firm seat** — Not too soft or sinking
+
+### Posture Basics
+
+Before any exercise:
+- Sit toward front of chair (not leaning back)
+- Feet flat on floor, hip-width apart
+- Core gently engaged
+- Shoulders back and down
+- Head balanced over spine
+
+## Upper Body Chair Exercises
+
+### Seated Arm Circles
+
+1. Extend arms out to sides
+2. Make small circles forward (30 sec)
+3. Make small circles backward (30 sec)
+4. Increase circle size as comfortable
+
+**Works:** Shoulders, improves circulation
+
+### Seated Chest Press
+
+1. Hands at chest, elbows out
+2. Press arms forward, straightening elbows
+3. Return to start
+4. 15-20 reps
+
+**Works:** Chest, shoulders, triceps
+
+### Seated Rows
+
+1. Arms extended forward, fists closed
+2. Pull elbows back, squeezing shoulder blades
+3. Hold 2 seconds
+4. Return and repeat 15-20 times
+
+**Works:** Upper back, improves posture
+
+### Overhead Press
+
+1. Hands at shoulders, palms forward
+2. Press straight up
+3. Lower with control
+4. 12-15 reps
+
+**Works:** Shoulders, triceps
+
+### Bicep Curls
+
+1. Arms at sides, palms forward
+2. Curl hands toward shoulders
+3. Lower slowly
+4. 15-20 reps (add light weights to progress)
+
+**Works:** Biceps
+
+### Tricep Dips (Hands on Chair)
+
+1. Hands on chair seat beside hips
+2. Slide forward off seat, weight on hands
+3. Bend elbows, lower slightly
+4. Push back up
+5. 10-15 reps
+
+**Works:** Triceps, shoulders
+
+## Lower Body Chair Exercises
+
+### Seated Marching
+
+1. Sit tall, feet flat
+2. Lift one knee toward chest
+3. Lower and lift other knee
+4. Alternate for 30-60 seconds
+5. Increase speed for cardio
+
+**Works:** Hip flexors, core, cardiovascular
+
+### Leg Extensions
+
+1. Sit tall, feet flat
+2. Extend one leg straight out
+3. Hold 2-3 seconds
+4. Lower slowly
+5. 12-15 each leg
+
+**Works:** Quadriceps
+
+### Seated Leg Lifts
+
+1. Extend one leg straight
+2. Lift extended leg 6-12 inches
+3. Hold 3 seconds
+4. Lower slowly
+5. 10-12 each leg
+
+**Works:** Quadriceps, hip flexors
+
+### Heel Raises
+
+1. Feet flat on floor
+2. Lift heels, pressing through toes
+3. Lower slowly
+4. 20-25 reps
+
+**Works:** Calves
+
+### Toe Raises
+
+1. Heels on floor
+2. Lift toes up toward shins
+3. Lower slowly
+4. 15-20 reps
+
+**Works:** Shins, ankle mobility
+
+### Seated Hip Abduction
+
+1. Feet together, flat on floor
+2. Keeping feet planted, push knees apart
+3. Squeeze outer hips
+4. Hold 3 seconds
+5. 15 reps
+
+**Works:** Outer hips (can add resistance band)
+
+### Ankle Circles
+
+1. Lift one foot slightly
+2. Circle ankle clockwise 10 times
+3. Circle counterclockwise 10 times
+4. Switch feet
+
+**Works:** Ankle mobility, circulation
+
+## Core Chair Exercises
+
+### Seated Knee Lifts
+
+1. Sit tall, hands on seat or armrests
+2. Lift both knees toward chest
+3. Lower feet back to floor
+4. 10-15 reps
+
+**Works:** Lower abs, hip flexors
+
+### Seated Twists
+
+1. Hands behind head or crossed on chest
+2. Rotate torso right, then left
+3. Keep hips facing forward
+4. 20 total reps (10 each side)
+
+**Works:** Obliques, spinal mobility
+
+### Seated Side Bends
+
+1. One hand behind head, other at side
+2. Lean toward hand at side
+3. Return to center
+4. 10 each side
+
+**Works:** Obliques, lateral flexibility
+
+### Tummy Vacuum
+
+1. Sit tall, inhale fully
+2. Exhale completely
+3. Draw belly button toward spine
+4. Hold 5-10 seconds
+5. Relax and repeat 5-8 times
+
+**Works:** Deep core (transverse abdominis)
+
+### Seated Plank
+
+1. Hands on armrests or seat edges
+2. Push down, lifting yourself slightly
+3. Engage core, hold 10-30 seconds
+4. Lower and repeat
+
+**Works:** Core, shoulders, arms
+
+## Complete Chair Workouts
+
+### 15-Minute Full Body
+
+1. Seated Marching: 2 min
+2. Arm Circles: 1 min
+3. Chest Press: 15 reps
+4. Seated Rows: 15 reps
+5. Leg Extensions: 12 each leg
+6. Seated Knee Lifts: 12 reps
+7. Seated Twists: 20 reps
+8. Heel/Toe Raises: 15 each
+9. Overhead Press: 12 reps
+10. Seated Side Bends: 8 each side
+
+### 10-Minute Cardio Focus
+
+1. Seated Marching: 2 min
+2. Seated Punches (punch forward alternating): 1 min
+3. Leg Extensions (fast): 1 min
+4. Arm Circles (fast): 1 min
+5. Seated Jumping Jacks (arms only + feet tap out): 1 min
+6. Seated Marching: 2 min
+7. Upper Body Boxing: 1 min
+8. Cool down stretches: 1 min
+
+### 10-Minute Strength Focus
+
+1. Chest Press: 3 x 12
+2. Seated Rows: 3 x 12
+3. Leg Extensions: 3 x 10 each
+4. Seated Knee Lifts: 3 x 10
+5. Bicep Curls: 3 x 12
+
+## Adding Resistance
+
+### Resistance Bands
+Loop around chair legs or under feet. Add to:
+- Chest press
+- Rows
+- Bicep curls
+- Leg extensions
+
+### Light Dumbbells
+- Start with 1-3 pounds
+- Progress slowly
+- Use for upper body exercises
+
+### Ankle Weights
+- 1-2 pounds to start
+- Add to leg lifts and extensions
+- Increase challenge significantly
+
+## Chair Stretches
+
+### Seated Cat-Cow
+1. Hands on knees
+2. Round spine (cat), then arch (cow)
+3. 10 reps each direction
+
+### Seated Figure-4 Stretch
+1. Cross ankle over opposite knee
+2. Sit tall, lean forward slightly
+3. Hold 30 seconds each side
+
+### Seated Chest Stretch
+1. Clasp hands behind back
+2. Squeeze shoulder blades, lift chest
+3. Hold 20-30 seconds
+
+### Neck Stretches
+1. Ear to shoulder, hold 20 sec each side
+2. Chin to chest, hold 20 sec
+3. Gentle rotation each direction
+
+## Programming Tips
+
+### Frequency
+- 3-5 days per week
+- Even daily is safe for light exercise
+
+### Progression
+- Add reps first
+- Add resistance second
+- Increase time/speed for cardio
+
+### Listen to Your Body
+- No sharp pain
+- Some muscle fatigue is okay
+- Stop if dizzy or short of breath
+
+## The Bottom Line
+
+Chair exercises provide:
+
+1. **Accessibility** — Exercise for everyone
+2. **Full body training** — Upper, lower, and core work
+3. **Low risk** — Stable, supported position
+4. **Anywhere** — Home, office, waiting room
+5. **Progressive** — Can add resistance over time
+
+Don't let mobility limitations stop you. A chair and commitment are all you need.
+
+---
+
+*Foundational Rehab offers seated exercise programs for all ability levels.*
+    \`
+  },
+  '30-minute-full-body-workout': {
+    title: '30-Minute Full Body Workout: The Perfect Middle Ground',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Workouts',
+    readTime: '6 min read',
+    content: \`
+## Why 30 Minutes?
+
+30 minutes is the sweet spot for most people:
+
+- **Long enough** for a complete workout with warm-up and cool-down
+- **Short enough** to fit into busy schedules
+- **Enough time** for real strength and fitness gains
+- **Sustainable** — easy to commit to regularly
+
+Research shows 30 minutes of exercise provides significant health benefits without the time investment of hour-long sessions.
+
+## The 30-Minute Structure
+
+**Warm-Up:** 3-4 minutes
+**Main Workout:** 22-24 minutes
+**Cool-Down:** 3-4 minutes
+
+This structure ensures you're ready to work, hit everything hard, and recover properly.
+
+## 30-Minute Workout: No Equipment
+
+### Warm-Up (4 min)
+
+- Jumping jacks or march in place: 1 min
+- Arm circles: 30 sec each direction
+- Leg swings: 30 sec each leg
+- Hip circles: 30 sec each direction
+- Bodyweight squats: 10 reps
+
+### Main Workout (22 min)
+
+**Circuit 1 (7 min):** 3 rounds, minimal rest
+
+1. Squats: 12 reps
+2. Push-Ups: 10 reps (modify as needed)
+3. Reverse Lunges: 8 each leg
+4. 30 sec rest after round
+
+**Circuit 2 (7 min):** 3 rounds, minimal rest
+
+1. Glute Bridges: 12 reps
+2. Plank: 30 seconds
+3. Bird Dogs: 8 each side
+4. 30 sec rest after round
+
+**Circuit 3 (7 min):** 3 rounds, minimal rest
+
+1. Jump Squats (or regular): 10 reps
+2. Mountain Climbers: 20 total
+3. Superman: 10 reps
+4. 30 sec rest after round
+
+### Cool-Down (4 min)
+
+- Quad stretch: 30 sec each
+- Hamstring stretch: 30 sec each
+- Hip flexor stretch: 30 sec each
+- Child's pose: 30 sec
+- Cat-cow: 30 sec
+
+## 30-Minute Workout: With Dumbbells
+
+### Warm-Up (4 min)
+
+Same as above, add light dumbbell arm swings
+
+### Main Workout (22 min)
+
+**Superset 1 (6 min):** 3 rounds
+
+- Goblet Squat: 10 reps
+- Dumbbell Row: 10 each arm
+- Rest 45 sec
+
+**Superset 2 (6 min):** 3 rounds
+
+- Dumbbell RDL: 10 reps
+- Dumbbell Floor Press: 10 reps
+- Rest 45 sec
+
+**Superset 3 (5 min):** 3 rounds
+
+- Reverse Lunges: 8 each leg (holding DBs)
+- Overhead Press: 10 reps
+- Rest 45 sec
+
+**Finisher (5 min):** 2 rounds
+
+- Farmer Carry: 45 sec
+- Plank: 45 sec
+- Rest 30 sec
+
+### Cool-Down (4 min)
+
+Full body stretching routine
+
+## 30-Minute Workout: Strength Focus
+
+For building muscle in 30 minutes:
+
+### Structure
+- Fewer exercises, more sets
+- Heavier weights
+- Longer rest (60-90 sec)
+
+### The Workout
+
+**Exercise 1: Squat Variation** — 4 x 8
+(Goblet, dumbbell, or bodyweight loaded)
+
+**Exercise 2: Push Variation** — 4 x 8
+(Push-up, floor press, or overhead press)
+
+**Exercise 3: Hip Hinge** — 4 x 8
+(RDL, single-leg RDL, or hip thrust)
+
+**Exercise 4: Pull Variation** — 4 x 8
+(Rows, or inverted rows)
+
+**Exercise 5: Core** — 3 x 30 sec
+(Plank or dead bug)
+
+## 30-Minute Workout: Cardio + Strength
+
+### EMOM Style (Every Minute on the Minute)
+
+**30 minutes total:**
+
+- Minute 1: 15 squats
+- Minute 2: 10 push-ups
+- Minute 3: 15 swings (or squat jumps)
+- Minute 4: 10 rows each arm
+- Minute 5: 20 mountain climbers
+- Minute 6: Rest
+
+Repeat 5 times through (30 minutes)
+
+### Benefits
+- Cardiovascular + strength
+- Built-in rest
+- Easy to track
+- Keeps you moving
+
+## Weekly 30-Minute Schedule
+
+### Option 1: 3-Day Full Body
+
+| Day | Focus |
+|-----|-------|
+| Mon | Strength (heavy) |
+| Wed | Circuit (moderate) |
+| Fri | Strength (heavy) |
+
+### Option 2: 4-Day Split
+
+| Day | Focus |
+|-----|-------|
+| Mon | Lower body |
+| Tue | Upper body |
+| Thu | Lower body |
+| Fri | Upper body |
+
+### Option 3: Daily 30
+
+Rotate through:
+- Full body A
+- Cardio focus
+- Full body B
+- Active recovery (stretching/mobility)
+- Full body A
+- Cardio focus
+- Rest
+
+## Making 30 Minutes Count
+
+### Maximize Time
+
+1. **Supersets** — Pair non-competing exercises
+2. **Minimal rest** — 30-60 sec for circuits
+3. **Know your workout** — No figuring out what's next
+4. **Set up equipment** — Before you start
+
+### What to Skip
+
+- Long cardio warm-ups (dynamic movement is enough)
+- Isolation exercises (focus on compound)
+- Excessive rest (unless strength-focused)
+- Perfect conditions (just start)
+
+### What to Include
+
+- Squat pattern
+- Hip hinge pattern
+- Push pattern
+- Pull pattern
+- Core work
+
+## Progress Over Time
+
+### Week 1-4
+- Learn movements
+- Establish baseline
+- Focus on form
+
+### Week 5-8
+- Add reps or resistance
+- Reduce rest periods
+- Try harder variations
+
+### Week 9-12
+- Progressive overload
+- Introduce new exercises
+- Test improvements
+
+## The Bottom Line
+
+30 minutes is enough to:
+
+1. **Build strength** — With compound movements
+2. **Improve conditioning** — With smart programming
+3. **Stay consistent** — Sustainable commitment
+4. **See real results** — Better than longer, infrequent sessions
+
+The best workout is the one you actually do. 30 minutes, 3-5 times per week, consistently, beats everything else.
+
+---
+
+*Foundational Rehab offers 30-minute workout programs designed for your goals and equipment.*
+    \`
+  },
+  'standing-desk-exercises-posture': {
+    title: 'Standing Desk Guide: Exercises and Posture for Pain-Free Standing',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Workplace',
+    readTime: '6 min read',
+    content: \`
+## The Standing Desk Promise (and Problem)
+
+Standing desks promise better health than sitting all day. And research supports benefits:
+
+- Reduced lower back pain
+- Improved energy levels
+- Better posture potential
+- Increased calorie burn (modest)
+
+**But there's a catch:** Standing all day creates its own problems:
+- Foot and leg fatigue
+- Low back pain (different kind)
+- Varicose veins
+- Joint stiffness
+
+The solution isn't standing OR sitting — it's alternating and moving.
+
+## Optimal Standing Desk Setup
+
+### Desk Height
+
+- **Elbows at 90°** when typing
+- **Wrists neutral** — not bent up or down
+- **Screen at eye level** — top of screen at or just below eye level
+- **Screen distance** — arm's length away
+
+### Body Position
+
+- **Feet hip-width apart** (or one foot forward)
+- **Knees soft** — not locked
+- **Weight even** — or shifting regularly
+- **Core gently engaged**
+- **Shoulders back and down**
+- **Head balanced** — ears over shoulders
+
+### Accessories
+
+**Anti-Fatigue Mat**
+- Essential for standing comfort
+- Cushions feet and legs
+- Encourages subtle movement
+
+**Footrest or Bar**
+- Resting one foot on a bar reduces back strain
+- Alternate feet regularly
+
+**Comfortable Shoes**
+- Supportive, cushioned footwear
+- Avoid heels or completely flat shoes
+- Consider going barefoot on good mats
+
+## The Sit-Stand Schedule
+
+### Beginner (Week 1-2)
+- 15-20 min standing per hour
+- Sit when fatigue starts
+- Focus on setup and posture
+
+### Intermediate (Week 3-4)
+- 30 min standing per hour
+- Still alternate frequently
+- Build endurance gradually
+
+### Advanced
+- 30-45 min standing per hour
+- Or use natural transition points (meetings, calls)
+- Listen to your body — more isn't always better
+
+### The 20-8-2 Rule
+Every 30 minutes:
+- 20 min sitting
+- 8 min standing
+- 2 min moving
+
+## Exercises at Your Standing Desk
+
+### Every 30-60 Minutes
+
+**Calf Raises**
+1. Rise onto toes
+2. Lower slowly
+3. 15-20 reps
+
+**Weight Shifts**
+1. Shift weight side to side
+2. Rock forward and back
+3. 30 seconds
+
+**Hip Circles**
+1. Hands on hips
+2. Circle hips like hula hoop
+3. 10 each direction
+
+### Hourly Movement Breaks (2-3 min)
+
+**Standing Cat-Cow**
+1. Hands on desk
+2. Round spine (cat)
+3. Arch spine (cow)
+4. 10 reps
+
+**Standing Figure-4 Stretch**
+1. Cross ankle over opposite knee
+2. Slight squat, lean forward
+3. 30 sec each side
+
+**Wall Chest Stretch**
+1. Arm on wall/doorframe at 90°
+2. Turn body away
+3. 30 sec each side
+
+**Standing Hip Flexor Stretch**
+1. Step one foot back
+2. Tuck pelvis under
+3. 30 sec each side
+
+### Quick Strengthening
+
+**Desk Push-Ups**
+1. Hands on desk edge
+2. Incline push-ups
+3. 10-15 reps
+
+**Single Leg Balance**
+1. Stand on one foot
+2. Hold 30 seconds
+3. Switch sides
+
+**Wall Sit**
+1. Back against wall
+2. Slide down to squat position
+3. Hold 30-60 seconds
+
+## Common Standing Desk Problems
+
+### Low Back Pain
+
+**Cause:** Often tight hip flexors, weak core, or poor posture
+
+**Solutions:**
+- Hip flexor stretches hourly
+- Core engagement (gentle brace)
+- Check pelvis isn't tilting forward
+- Alternate with sitting
+- One foot on footrest
+
+### Foot Pain
+
+**Cause:** Hard surfaces, poor footwear, too long standing
+
+**Solutions:**
+- Anti-fatigue mat (essential)
+- Better shoes
+- Reduce standing duration
+- Calf stretches and raises
+- Foot rolling with ball
+
+### Leg Fatigue
+
+**Cause:** Blood pooling, muscle fatigue
+
+**Solutions:**
+- Movement breaks
+- Compression socks
+- Calf raises and walking
+- Sit-stand alternation
+- Hydration
+
+### Neck/Shoulder Tension
+
+**Cause:** Screen position, keyboard height, stress
+
+**Solutions:**
+- Check screen at eye level
+- Elbows at 90°
+- Shoulder shrugs and rolls
+- Chin tucks
+- Regular breaks
+
+## Building Standing Endurance
+
+### Week 1
+- 2-3 standing periods per day
+- 15-20 min each
+- Focus on setup
+
+### Week 2
+- 4-5 standing periods
+- 20-30 min each
+- Add movement breaks
+
+### Week 3
+- 5-6 standing periods
+- 25-35 min each
+- Reduce sitting supports
+
+### Week 4+
+- Find your rhythm
+- Listen to body signals
+- Maintain movement habits
+
+## Daily Standing Desk Routine
+
+### Morning Setup
+1. Check desk height
+2. Position mat
+3. 2-minute mobility (hip circles, shoulder rolls)
+
+### Throughout Day
+- Alternate sit/stand every 30-45 min
+- Movement break each hour
+- Calf raises while on calls
+- Walking meetings when possible
+
+### End of Day
+1. Lower desk for tomorrow (start seated)
+2. 5-minute stretch routine
+3. Walk after work
+
+## Signs You're Standing Wrong
+
+- Locking knees
+- Leaning on one leg exclusively
+- Pelvis tilting forward
+- Shoulders rounding
+- Neck jutting forward
+- Feet too close together
+
+## Signs You're Standing Right
+
+- Soft knees
+- Weight shifting naturally
+- Core gently engaged
+- Shoulders relaxed but back
+- Head balanced over spine
+- Comfortable for your time limit
+
+## The Bottom Line
+
+Standing desks work when used correctly:
+
+1. **Alternate** — Sit and stand, don't stand all day
+2. **Move** — Standing still is almost as bad as sitting still
+3. **Setup matters** — Height, mat, screen position
+4. **Build up** — Increase standing time gradually
+5. **Exercise** — Stretches and movements prevent problems
+
+The goal isn't to stand instead of sit — it's to move more throughout your day.
+
+---
+
+*Foundational Rehab provides workplace wellness programs including standing desk optimization.*
+    \`
+  },
+  'workout-splits-guide': {
+    title: 'Workout Splits Explained: How to Structure Your Training',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## What Is a Workout Split?
+
+A workout split is how you organize your training across the week. Instead of doing everything every session, you divide muscle groups or movement patterns across different days.
+
+**Why split?**
+- Allows more volume per muscle group
+- Better recovery between sessions
+- Longer workouts per body part
+- Can train more frequently overall
+
+## Common Workout Splits
+
+### Full Body (3x/week)
+
+**Structure:** Hit every muscle group each session
+
+**Example:**
+- Monday: Full body
+- Wednesday: Full body  
+- Friday: Full body
+
+**Best for:**
+- Beginners
+- Time-limited schedules
+- General fitness
+- Older adults
+- Those training 2-3 days/week
+
+**Pros:**
+- High frequency per muscle (3x/week)
+- Missed workout isn't catastrophic
+- Natural recovery days built in
+
+**Cons:**
+- Long sessions if volume is high
+- Can't specialize easily
+- May fatigue before hitting all muscles well
+
+---
+
+### Upper/Lower (4x/week)
+
+**Structure:** Alternate upper and lower body
+
+**Example:**
+- Monday: Upper
+- Tuesday: Lower
+- Thursday: Upper
+- Friday: Lower
+
+**Best for:**
+- Intermediate lifters
+- Those wanting 4-day schedule
+- Balance of frequency and volume
+
+**Pros:**
+- Good frequency (2x/week per area)
+- Reasonable session length
+- Balanced development
+
+**Cons:**
+- Four days required for full benefit
+- Upper days can run long
+
+---
+
+### Push/Pull/Legs (3-6x/week)
+
+**Structure:** 
+- Push: Chest, shoulders, triceps
+- Pull: Back, biceps, rear delts
+- Legs: Quads, hamstrings, glutes, calves
+
+**Example (6-day):**
+- Mon: Push
+- Tue: Pull
+- Wed: Legs
+- Thu: Push
+- Fri: Pull
+- Sat: Legs
+- Sun: Rest
+
+**Example (3-day):**
+- Mon: Push
+- Wed: Pull
+- Fri: Legs
+
+**Best for:**
+- Intermediate to advanced
+- Those with more time
+- Bodybuilding focus
+
+**Pros:**
+- High volume per muscle group
+- Related muscles trained together
+- Flexible frequency
+
+**Cons:**
+- Requires 5-6 days for optimal frequency
+- Legs only get direct work 1-2x/week
+- Can be time-intensive
+
+---
+
+### Body Part Split (Bro Split)
+
+**Structure:** One muscle group per day
+
+**Example:**
+- Monday: Chest
+- Tuesday: Back
+- Wednesday: Shoulders
+- Thursday: Legs
+- Friday: Arms
+- Weekend: Rest
+
+**Best for:**
+- Bodybuilders
+- Advanced lifters
+- Those with lots of gym time
+- Specialization phases
+
+**Pros:**
+- Maximum volume per muscle
+- Thorough muscle targeting
+- Popular in bodybuilding
+
+**Cons:**
+- Low frequency (1x/week per muscle)
+- Requires 5-6 days to complete
+- May not be optimal for naturals
+
+---
+
+### Upper/Lower/Push/Pull/Legs (5-day)
+
+**Structure:** Hybrid approach
+
+**Example:**
+- Monday: Upper (horizontal push/pull)
+- Tuesday: Lower
+- Wednesday: Rest
+- Thursday: Push
+- Friday: Pull
+- Saturday: Legs
+- Sunday: Rest
+
+**Best for:**
+- Those wanting variety
+- Breaking through plateaus
+- 5-day commitment
+
+---
+
+## Choosing Your Split
+
+### Consider These Factors
+
+**1. Days Available**
+- 2-3 days: Full body
+- 4 days: Upper/Lower
+- 5-6 days: PPL or body part
+
+**2. Experience Level**
+- Beginner: Full body (learn movements, frequent practice)
+- Intermediate: Upper/Lower or PPL
+- Advanced: Any split, based on goals
+
+**3. Recovery Capacity**
+- Limited recovery: Full body with more rest
+- Good recovery: Higher frequency splits
+
+**4. Goals**
+- General fitness: Full body or Upper/Lower
+- Muscle building: PPL or Upper/Lower
+- Strength: Full body or Upper/Lower with heavy compounds
+
+**5. Weak Points**
+- Need to bring up lagging areas? Higher frequency for those muscles
+
+## Sample Weekly Schedules
+
+### 3-Day Full Body
+
+| Day | Session |
+|-----|---------|
+| Mon | Squat, Bench, Row |
+| Wed | Deadlift, OHP, Pull-up |
+| Fri | Squat, Bench, Row |
+
+### 4-Day Upper/Lower
+
+| Day | Session |
+|-----|---------|
+| Mon | Upper A (horizontal focus) |
+| Tue | Lower A (squat focus) |
+| Thu | Upper B (vertical focus) |
+| Fri | Lower B (hinge focus) |
+
+### 6-Day PPL
+
+| Day | Session |
+|-----|---------|
+| Mon | Push (chest focus) |
+| Tue | Pull (back width) |
+| Wed | Legs (quad focus) |
+| Thu | Push (shoulder focus) |
+| Fri | Pull (back thickness) |
+| Sat | Legs (posterior chain) |
+
+## Exercise Selection by Split
+
+### Full Body Session (5-6 exercises)
+1. Squat or leg press
+2. Horizontal push (bench)
+3. Hip hinge (RDL)
+4. Horizontal pull (row)
+5. Vertical push or pull
+6. Core
+
+### Upper Day (5-7 exercises)
+1. Horizontal push
+2. Horizontal pull
+3. Vertical push
+4. Vertical pull
+5. Bicep isolation
+6. Tricep isolation
+7. Rear delt/face pull
+
+### Lower Day (5-6 exercises)
+1. Squat variation
+2. Hip hinge variation
+3. Single-leg work
+4. Leg curl or extension
+5. Calf work
+6. Core
+
+### Push Day (5-6 exercises)
+1. Bench press variation
+2. Incline press
+3. Overhead press
+4. Lateral raises
+5. Tricep isolation
+6. Chest fly (optional)
+
+### Pull Day (5-6 exercises)
+1. Row variation
+2. Pull-up/lat pulldown
+3. Another row variation
+4. Rear delt work
+5. Bicep curl
+6. Face pulls
+
+### Leg Day (5-6 exercises)
+1. Squat variation
+2. Romanian deadlift
+3. Leg press or lunges
+4. Leg curl
+5. Leg extension
+6. Calf raises
+
+## Common Mistakes
+
+### 1. Overcomplicating
+Start simple. Full body or Upper/Lower works for most people.
+
+### 2. Too Much Volume
+More isn't always better. 10-20 sets per muscle group per week is plenty.
+
+### 3. Ignoring Weak Points
+If legs lag, don't skip leg day for extra arm work.
+
+### 4. No Progression Plan
+Any split works if you progressively overload. Track your workouts.
+
+### 5. Copying Advanced Programs
+6-day PPL from a pro bodybuilder isn't for beginners.
+
+## The Bottom Line
+
+The best split is one you can:
+
+1. **Stick to consistently**
+2. **Recover from properly**
+3. **Progress on over time**
+4. **Enjoy enough to maintain**
+
+For most people, Full Body (3x/week) or Upper/Lower (4x/week) delivers excellent results without overcomplicating training.
+
+---
+
+*Foundational Rehab helps you find the right training structure for your schedule and goals.*
+    \`
   }
 };
 
