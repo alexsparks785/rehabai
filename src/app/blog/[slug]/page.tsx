@@ -69035,6 +69035,966 @@ The goal isn't to hit specific numbers—it's to stimulate the adaptations you w
 
 *Foundational Rehab programs consider your fitness level and goals when recommending appropriate intensity levels.*
     \`
+  },
+  'how-to-lunge-properly': {
+    title: 'How to Lunge Properly: Form Guide and Variations',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Exercise Guides',
+    readTime: '6 min read',
+    content: \`
+## Why Lunges Matter
+
+Lunges are one of the most functional exercises you can do. They train:
+
+- Single-leg strength and stability
+- Hip mobility
+- Balance and coordination
+- Patterns used in walking, stairs, and sports
+
+But poor form turns this great exercise into a knee-killer. Here's how to do it right.
+
+## The Basic Forward Lunge
+
+### Setup
+1. Stand tall, feet hip-width apart
+2. Hands on hips or at sides
+3. Core braced, chest up
+
+### The Movement
+1. **Step forward** with one leg (about 2-3 feet)
+2. **Lower straight down** — your torso drops vertically
+3. **Back knee approaches floor** (don't slam it)
+4. **Front knee stays over ankle** — not past toes
+5. **Push back** to starting position through front heel
+
+### Key Form Points
+
+**Torso:** Stay upright, slight forward lean is okay but don't collapse
+**Front knee:** Track over middle toes, don't cave inward
+**Back knee:** Points straight down, hovers 1-2 inches off floor
+**Weight distribution:** 70% front foot, 30% back foot
+
+## Common Lunge Mistakes
+
+### 1. Knee Caving Inward
+
+**The problem:** Front knee collapses toward midline
+**The fix:** Actively push knee out toward pinky toe; strengthen glutes
+
+### 2. Leaning Too Far Forward
+
+**The problem:** Torso tilts, loads low back
+**The fix:** Think "elevator going down" — torso drops straight, doesn't tip
+
+### 3. Taking Too Short a Step
+
+**The problem:** Knee shoots way past toes
+**The fix:** Longer step so shin stays relatively vertical
+
+### 4. Taking Too Long a Step
+
+**The problem:** Can't get back up, strains hip flexors
+**The fix:** Step where you can still push back powerfully
+
+### 5. Rising on Back Toes
+
+**The problem:** Back foot flattens, loses stability
+**The fix:** Stay on ball of back foot throughout
+
+### 6. Looking Down
+
+**The problem:** Rounds upper back, loses balance
+**The fix:** Eyes forward, chin neutral
+
+## Lunge Progressions
+
+### Level 1: Split Squat (Static)
+
+Not technically a lunge, but builds the foundation:
+1. Start in lunge position (don't step)
+2. Lower straight down
+3. Push back up
+4. All reps on one side, then switch
+
+**Why start here:** No stepping = easier balance
+
+### Level 2: Reverse Lunge
+
+1. Step backward (not forward)
+2. Lower down
+3. Push off back foot to return
+
+**Why it's easier:** More control, less knee stress
+
+### Level 3: Forward Lunge
+
+The classic version described above.
+
+### Level 4: Walking Lunge
+
+1. Lunge forward
+2. Bring back leg through to next lunge
+3. Continue "walking"
+
+**Challenge:** Requires more balance and coordination
+
+### Level 5: Elevated/Deficit Lunges
+
+- Front foot elevated: Increases depth
+- Back foot elevated (Bulgarian): Intense single-leg work
+
+## Lunge Variations
+
+### Lateral Lunge
+
+1. Step sideways (wide)
+2. Sit hips back toward stepping leg
+3. Other leg stays straight
+4. Push back to center
+
+**Works:** Inner thigh, lateral hip stability
+
+### Curtsy Lunge
+
+1. Step back and across (behind other leg)
+2. Lower into lunge
+3. Push back to start
+
+**Works:** Glute medius, hip stability
+
+### Reverse Lunge to Knee Drive
+
+1. Reverse lunge
+2. Push off back foot, drive knee up to hip height
+3. Control down to next rep
+
+**Works:** Power, hip flexor strength, balance
+
+### Lunge with Rotation
+
+1. Lunge forward
+2. At bottom, rotate torso toward front leg
+3. Rotate back, push to start
+
+**Works:** Core rotation, hip mobility
+
+## Lunges for Common Goals
+
+### For Knee Health
+
+- Start with split squats
+- Progress to reverse lunges
+- Avoid forward lunges if painful
+- Focus on glute strength, not just quads
+
+### For Runners
+
+- Walking lunges build running-specific strength
+- Add lateral lunges for hip stability
+- Include rotation variations for core
+
+### For General Fitness
+
+- Mix forward, reverse, and lateral
+- 3 sets of 10-12 each leg
+- 2-3 times per week
+
+### For Athletes
+
+- Add jumping lunges for power
+- Include multi-directional variations
+- Load with dumbbells or barbell
+
+## Adding Weight
+
+### Bodyweight First
+
+Master form before adding load. You should be able to do 15+ perfect reps each leg.
+
+### Loading Options
+
+**Dumbbells at sides:** Easiest to balance
+**Goblet hold (one weight at chest):** Great for core
+**Barbell on back:** Most load, requires most stability
+**Barbell front rack:** Challenges core, requires mobility
+
+### How Much Weight
+
+Start light (10-15 lb dumbbells), increase gradually. Form always trumps load.
+
+## Sample Lunge Workout
+
+**Beginner (2x/week):**
+- Split squat: 3 x 10 each leg
+- Lateral lunge: 2 x 8 each leg
+
+**Intermediate (2-3x/week):**
+- Reverse lunge: 3 x 10 each leg
+- Walking lunge: 2 x 20 steps
+- Lateral lunge: 2 x 10 each leg
+
+**Advanced (2-3x/week):**
+- Bulgarian split squat: 3 x 8 each leg (weighted)
+- Walking lunge: 3 x 20 steps (weighted)
+- Curtsy lunge: 2 x 10 each leg
+- Jumping lunge: 2 x 8 each leg
+
+## The Bottom Line
+
+Lunges build functional, real-world leg strength. Key points:
+
+1. **Torso stays upright** — drop straight down
+2. **Front knee tracks over toes** — no caving
+3. **Start with split squats or reverse lunges** — easier to control
+4. **Progress gradually** — form before load
+5. **Mix variations** — forward, reverse, lateral, rotational
+
+Master the lunge and you've mastered single-leg training.
+
+---
+
+*Foundational Rehab programs include progressive lunge variations matched to your level and goals.*
+    \`
+  },
+  'how-to-push-up-perfect-form': {
+    title: 'How to Do a Push-Up with Perfect Form',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Exercise Guides',
+    readTime: '6 min read',
+    content: \`
+## Why Push-Ups?
+
+The push-up is the ultimate bodyweight exercise:
+
+- Builds chest, shoulders, and triceps
+- Strengthens core
+- Requires no equipment
+- Infinitely scalable (easier or harder)
+- Transfers to real-world pushing strength
+
+Yet most people do them wrong. Here's how to fix that.
+
+## The Perfect Push-Up
+
+### Setup
+
+1. **Hands slightly wider than shoulders** — about 1-2 hand widths outside
+2. **Fingers spread, middle fingers point forward**
+3. **Arms straight, shoulders over wrists**
+4. **Feet together or hip-width** (closer = harder)
+5. **Body forms straight line** from head to heels
+
+### The Movement
+
+1. **Lower by bending elbows** — not by dipping head
+2. **Elbows at 45° from body** — not flared out at 90°
+3. **Chest touches or nearly touches floor**
+4. **Push through palms** to return
+5. **Lock out at top** — full arm extension
+
+### Key Form Points
+
+**Head:** Neutral spine — don't look up or tuck chin
+**Shoulders:** Down and back, not shrugged toward ears
+**Core:** Braced like you're about to be punched
+**Hips:** In line with shoulders and ankles — no sagging, no piking
+**Glutes:** Squeezed to help maintain body line
+
+## Common Push-Up Mistakes
+
+### 1. Elbows Flared at 90°
+
+**The problem:** Puts excessive stress on shoulders
+**The fix:** Elbows at 45° angle, making an arrow shape (not a T)
+
+### 2. Sagging Hips
+
+**The problem:** Low back compression, ineffective core work
+**The fix:** Squeeze glutes, brace abs, think "plank with movement"
+
+### 3. Piked Hips (Butt High)
+
+**The problem:** Shifts load to shoulders, reduces chest work
+**The fix:** Straight line from head to heels — check in mirror
+
+### 4. Half Reps
+
+**The problem:** Limited range = limited results
+**The fix:** Chest to floor (or close), full lockout at top
+
+### 5. Forward Head
+
+**The problem:** Neck strain, cheating depth
+**The fix:** Head stays neutral — a tennis ball should fit between chin and chest
+
+### 6. Hands Too Far Forward
+
+**The problem:** Shoulders bear excess load
+**The fix:** Hands should be under shoulders, not in front
+
+## Push-Up Progressions
+
+### Level 1: Wall Push-Up
+
+1. Stand arm's length from wall
+2. Hands on wall at chest height
+3. Lean in, push back
+4. Keep body straight
+
+**For:** Complete beginners, those rebuilding strength
+
+### Level 2: Incline Push-Up
+
+1. Hands on elevated surface (counter, bench, stairs)
+2. Standard push-up form
+3. Lower surface = harder
+
+**Progression:** Start high (counter), work down (bench, low step)
+
+### Level 3: Knee Push-Up
+
+1. Knees on ground (put a pad under them)
+2. Straight line from head to knees
+3. Standard push-up movement
+
+**Note:** Often done wrong — don't let hips sag
+
+### Level 4: Full Push-Up
+
+The standard version described above.
+
+### Level 5: Advanced Variations
+
+- Feet elevated
+- Diamond (hands together)
+- Archer (one arm doing more work)
+- One-arm (very advanced)
+
+## Push-Up Variations
+
+### Wide Push-Up
+
+- Hands 1.5-2x shoulder width
+- More chest emphasis
+- Harder at the bottom
+
+### Close/Diamond Push-Up
+
+- Hands together, thumbs and index fingers touch
+- More triceps emphasis
+- Harder overall
+
+### Decline Push-Up
+
+- Feet elevated on bench or box
+- More upper chest and shoulder emphasis
+- Significantly harder
+
+### Tempo Push-Up
+
+- Slow lowering (3-5 seconds)
+- Pause at bottom (1-2 seconds)
+- Increases time under tension
+
+### Spiderman Push-Up
+
+- As you lower, bring knee toward elbow
+- Alternating sides
+- Adds core and hip mobility
+
+### Explosive/Clap Push-Up
+
+- Push hard enough hands leave ground
+- Clap at top (optional)
+- Power development
+
+## Building Your First Push-Up
+
+**Can't do a full push-up yet?** Here's a 4-week progression:
+
+**Week 1-2:**
+- Wall push-ups: 3 x 15
+- Plank holds: 3 x 20-30 sec
+
+**Week 2-3:**
+- Incline push-ups (counter height): 3 x 12
+- Plank holds: 3 x 30 sec
+
+**Week 3-4:**
+- Incline push-ups (bench height): 3 x 10
+- Negative push-ups: 3 x 5 (lower slowly from top)
+
+**Week 4+:**
+- Knee push-ups or low incline: 3 x 8
+- Test full push-up
+
+## Push-Up Programming
+
+### For Building Strength
+
+- 3-5 sets of 5-8 reps (challenging variation)
+- Add difficulty when you can do 3 x 8 easily
+- Rest 2-3 minutes between sets
+
+### For Building Muscle
+
+- 3-4 sets of 8-15 reps
+- Use tempo (slow lowering) to increase difficulty
+- Rest 60-90 seconds
+
+### For Endurance
+
+- Higher rep ranges (15-25+)
+- Shorter rest (30-60 seconds)
+- Multiple sets throughout the day
+
+### The 100 Push-Up Challenge
+
+A classic goal. Build up with:
+- Daily push-ups (start with your max)
+- Add 1-2 reps every few days
+- Once you hit 30+, do multiple sets
+- Work toward 5 x 20 = 100
+
+## Push-Up Mistakes That Cause Pain
+
+### Shoulder Pain
+
+**Likely cause:** Elbows flared, going too deep, weak rotator cuff
+**Fix:** 45° elbow angle, controlled depth, add rotator cuff work
+
+### Wrist Pain
+
+**Likely cause:** Wrist flexibility, too much load
+**Fix:** Push-up handles, fists on mat, strengthen wrists
+
+### Low Back Pain
+
+**Likely cause:** Sagging hips, weak core
+**Fix:** Squeeze glutes, brace core, regress to easier variation
+
+## The Bottom Line
+
+The push-up is simple but not easy. Key points:
+
+1. **Body forms a straight plank** — from head to heels
+2. **Elbows at 45°** — not flared out
+3. **Full range of motion** — chest to floor, full lockout
+4. **Progress gradually** — wall → incline → knee → full
+5. **Quality over quantity** — 10 perfect beats 20 sloppy
+
+Master the push-up and you've got a lifetime exercise that works anywhere, anytime.
+
+---
+
+*Foundational Rehab programs include push-up progressions appropriate for all fitness levels.*
+    \`
+  },
+  'how-to-pull-up-progressions': {
+    title: 'How to Do a Pull-Up: Complete Progression Guide',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Exercise Guides',
+    readTime: '7 min read',
+    content: \`
+## Why Pull-Ups?
+
+The pull-up is the king of upper body exercises:
+
+- Builds back, biceps, and grip strength
+- Requires only a bar
+- Impressive strength-to-weight ratio marker
+- Transfers to climbing, sports, and real-world pulling
+
+But it's hard. Most people can't do one. Here's how to get there.
+
+## Pull-Up vs Chin-Up
+
+**Pull-Up:** Palms facing away (overhand/pronated)
+- More lat emphasis
+- Harder for most people
+
+**Chin-Up:** Palms facing you (underhand/supinated)
+- More bicep involvement
+- Usually easier to start with
+
+**Neutral grip:** Palms facing each other
+- Comfortable for shoulders
+- Good middle ground
+
+## The Perfect Pull-Up
+
+### Setup
+
+1. **Grip bar slightly wider than shoulders**
+2. **Hang with straight arms** (dead hang)
+3. **Shoulders engaged** — pull shoulders down and back
+4. **Core braced, legs together or crossed**
+
+### The Movement
+
+1. **Initiate with shoulder blades** — pull them down and together
+2. **Drive elbows down and back** — toward your hips
+3. **Pull until chin clears bar**
+4. **Lower with control** — don't just drop
+5. **Return to dead hang** — full arm extension
+
+### Key Form Points
+
+**No kipping:** Keep body still, no swinging
+**Lead with chest:** Think about pulling chest to bar
+**Elbows:** Drive down, not out
+**Full range:** Dead hang to chin over bar
+**Control the negative:** Lowering builds strength
+
+## Common Pull-Up Mistakes
+
+### 1. Half Reps
+
+**The problem:** Not going all the way down or up
+**The fix:** Dead hang at bottom, chin over bar at top
+
+### 2. Kipping/Swinging
+
+**The problem:** Uses momentum, not strength
+**The fix:** Keep body rigid, eliminate swing before pulling
+
+### 3. Chicken Necking
+
+**The problem:** Jutting chin forward to "clear" bar
+**The fix:** Pull chest up, chin stays neutral
+
+### 4. Shrugged Shoulders at Start
+
+**The problem:** Passive hang, no lat engagement
+**The fix:** Active hang — shoulders down and back before pulling
+
+### 5. Elbows Flaring Out
+
+**The problem:** Less lat engagement, shoulder stress
+**The fix:** Drive elbows down toward hips
+
+## The Pull-Up Progression
+
+### Level 1: Dead Hang
+
+Just hang from the bar:
+- Builds grip strength
+- Teaches active shoulder engagement
+- Goal: 30-60 seconds
+
+### Level 2: Scapular Pull-Up
+
+1. Hang from bar
+2. Without bending elbows, pull shoulder blades down and together
+3. You'll rise a few inches
+4. Release back to dead hang
+
+**Goal:** 3 x 10-15 reps
+
+### Level 3: Flexed Arm Hang
+
+1. Jump or use step to get chin above bar
+2. Hold position as long as possible
+3. Lower slowly when you can't hold
+
+**Goal:** 3 x 15-20 seconds
+
+### Level 4: Negative Pull-Up
+
+1. Start at top (chin above bar)
+2. Lower yourself as slowly as possible (5-10 seconds)
+3. Use step to return to top
+
+**Goal:** 3 x 5 reps with 5-second lowering
+
+### Level 5: Band-Assisted Pull-Up
+
+1. Loop resistance band over bar
+2. Place knee or foot in band
+3. Perform full pull-up with band assistance
+4. Progress to thinner bands over time
+
+**Goal:** 3 x 8-10 reps with light band
+
+### Level 6: Full Pull-Up
+
+You made it! Now build volume:
+- Start with singles, rest, repeat
+- Build to sets of 2-3
+- Eventually reach sets of 5+
+
+## Alternative Assistance Methods
+
+### Machine Assistance
+
+Most gyms have assisted pull-up machines:
+- Select weight to offset
+- Progress by reducing assistance
+
+### Partner Assistance
+
+Someone supports your legs/feet:
+- They provide minimum help needed
+- Good for learning the movement pattern
+
+### Jumping Pull-Up
+
+1. Use step so you can jump to top
+2. Jump minimally — just enough to help
+3. Control the negative
+
+## Building Your First Pull-Up
+
+**4-Week Program:**
+
+**Week 1:**
+- Dead hangs: 3 x max hold
+- Scapular pull-ups: 3 x 10
+- Lat pulldowns (if available): 3 x 12
+
+**Week 2:**
+- Dead hangs: 3 x 30+ sec
+- Scapular pull-ups: 3 x 15
+- Negative pull-ups: 3 x 3 (3-sec lower)
+
+**Week 3:**
+- Flexed arm hang: 3 x max
+- Negative pull-ups: 3 x 4 (5-sec lower)
+- Band-assisted pull-ups: 3 x 5
+
+**Week 4:**
+- Negative pull-ups: 3 x 5 (5-sec lower)
+- Band-assisted pull-ups: 3 x 8
+- Test full pull-up!
+
+## After Your First Pull-Up
+
+### Building Volume
+
+Once you can do 1-3 pull-ups:
+- **Grease the groove:** Do 1-2 reps multiple times throughout day
+- **Cluster sets:** 1 rep, rest 10 sec, repeat 5-10 times
+- **Mixed sets:** Full pull-up + band-assisted to get more volume
+
+### Rep Goals
+
+- 5 strict pull-ups = strong for general fitness
+- 10 strict pull-ups = excellent
+- 15+ strict pull-ups = advanced
+- 20+ = impressive
+
+### Adding Weight
+
+Once you can do 10+ pull-ups:
+- Dip belt with weight plates
+- Weighted vest
+- Dumbbell between feet
+- Start with 5-10 lbs, progress gradually
+
+## Pull-Up Variations
+
+### Chin-Up
+Underhand grip — usually start here
+
+### Neutral Grip Pull-Up
+Palms facing each other — shoulder-friendly
+
+### Wide Grip Pull-Up
+Wider than shoulders — more lat width focus
+
+### Close Grip Pull-Up
+Hands touching — more mid-back and biceps
+
+### L-Sit Pull-Up
+Hold legs straight out — extreme core challenge
+
+### Archer Pull-Up
+One arm does most of the work — stepping stone to one-arm
+
+### Muscle-Up
+Pull-up that continues up and over the bar — advanced skill
+
+## Troubleshooting
+
+### "I'm Stuck at X Reps"
+
+- Add weighted pull-ups (even if just 5 lbs)
+- Do more volume at easier variation
+- Lose body weight (harsh but effective)
+
+### "My Shoulders Hurt"
+
+- Try neutral grip
+- Improve shoulder mobility
+- Start from active hang, not dead hang
+- Add rotator cuff strengthening
+
+### "My Grip Gives Out First"
+
+- Dead hang practice
+- Farmer carries
+- Wrist curls
+- Chalk (if allowed)
+
+### "I'm Too Heavy"
+
+- Band-assisted and negatives work at any weight
+- Lat pulldowns as supplement
+- Weight loss will help if applicable
+- Don't give up — heavy people do pull-ups too
+
+## The Bottom Line
+
+The pull-up journey:
+
+1. **Start where you are** — hangs, scapular work, negatives
+2. **Progress systematically** — don't skip steps
+3. **Focus on quality** — full range, no kipping
+4. **Be patient** — first pull-up takes weeks or months
+5. **Keep building** — there's always another level
+
+Anyone can learn to do a pull-up with the right progression and consistency.
+
+---
+
+*Foundational Rehab programs include pulling progressions matched to your current strength level.*
+    \`
+  },
+  'hip-hinge-movement-guide': {
+    title: 'The Hip Hinge: Master This Essential Movement Pattern',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Exercise Guides',
+    readTime: '5 min read',
+    content: \`
+## What Is the Hip Hinge?
+
+The hip hinge is a fundamental movement pattern where you bend at the hips while keeping your spine neutral. Your torso lowers as your hips push back — like closing a door with your butt.
+
+**It's the foundation for:**
+- Deadlifts
+- Kettlebell swings
+- Romanian deadlifts
+- Good mornings
+- Athletic movements (jumping, sprinting)
+
+## Why Hip Hinge Mastery Matters
+
+### Back Protection
+
+The hip hinge keeps your spine neutral while loading the hips and legs. This protects your back when:
+- Lifting objects from the ground
+- Bending over at a sink
+- Picking up kids or pets
+- Any forward bending
+
+### Power Development
+
+Hips are your power center. Hip hinge movements build:
+- Glute strength (biggest muscles in your body)
+- Hamstring strength
+- Posterior chain power
+- Athletic explosiveness
+
+### Daily Life
+
+You hip hinge dozens of times daily:
+- Getting in/out of chairs
+- Loading dishwashers
+- Gardening
+- Sports movements
+
+## The Perfect Hip Hinge
+
+### Setup
+
+1. **Stand with feet hip-width** or slightly wider
+2. **Soft knee bend** — slight unlock, not squat
+3. **Arms relaxed at sides** or hands on hips
+
+### The Movement
+
+1. **Push hips straight back** — like closing a car door with your butt
+2. **Keep spine neutral** — natural low back curve, no rounding
+3. **Feel stretch in hamstrings** — they're lengthening
+4. **Torso lowers as hips go back**
+5. **Stop when hamstrings are tight** or torso is roughly parallel
+6. **Drive hips forward** to stand — squeeze glutes at top
+
+### Key Form Points
+
+**Hip-dominant, not knee-dominant:** Knees bend slightly but hips do the work
+**Neutral spine:** No rounding or excessive arching
+**Weight in heels:** Pressure on back half of feet
+**Neck neutral:** Look at floor about 6 feet ahead, not straight forward
+**Shins stay vertical:** If knees travel forward, you're squatting
+
+## Learning the Hip Hinge
+
+### Wall Drill
+
+1. Stand facing away from wall, 6 inches from it
+2. Push hips back until butt touches wall
+3. Step forward, repeat
+4. Progress to farther distances
+
+### Dowel/Broomstick Drill
+
+1. Hold dowel against back — touches head, mid-back, and tailbone
+2. All three points maintain contact throughout hinge
+3. If any point loses contact, you're compensating
+
+### Hands on Hips Drill
+
+1. Place hands in hip creases
+2. Push hips back, hands get "pinched" in crease
+3. Helps you feel where the movement happens
+
+### Sit-Back Drill
+
+1. Stand facing away from chair or bench
+2. Hip hinge to sit down slowly
+3. Stand back up using hip drive
+
+## Common Hip Hinge Mistakes
+
+### 1. Squatting Instead of Hinging
+
+**The problem:** Knees bend too much, hips don't go back
+**The fix:** Keep shins vertical, push butt back, feel hamstrings stretch
+
+### 2. Rounding the Back
+
+**The problem:** Spine flexes, loads discs
+**The fix:** Chest proud, brace core, stop before you round
+
+### 3. Hyperextending at the Top
+
+**The problem:** Leaning back excessively at lockout
+**The fix:** Stand tall, squeeze glutes, don't lean back
+
+### 4. Going Too Deep
+
+**The problem:** Trying to touch floor without flexibility
+**The fix:** Stop when hamstrings are tight, don't round to get lower
+
+### 5. Looking Up
+
+**The problem:** Neck hyperextension, awkward spine position
+**The fix:** Keep neck neutral — chin slightly tucked, gaze 6 feet ahead
+
+## Hip Hinge Exercises (Progressions)
+
+### Level 1: Hip Hinge Pattern
+
+Just the pattern, no load:
+- Wall drill
+- Dowel drill
+- Goal: 3 x 15 perfect reps
+
+### Level 2: Romanian Deadlift (RDL)
+
+1. Hold light dumbbells or barbell
+2. Hip hinge, sliding weights down thighs
+3. Stop when hamstrings are tight (usually mid-shin)
+4. Drive hips forward to stand
+
+### Level 3: Conventional Deadlift
+
+1. Bar on floor, mid-foot under bar
+2. Hinge down, grip bar
+3. Flat back, drive through floor
+4. Stand tall, hips and shoulders rise together
+
+### Level 4: Single-Leg RDL
+
+1. Stand on one leg
+2. Hip hinge, letting back leg extend behind
+3. Reach weights toward floor
+4. Return to standing
+
+### Level 5: Kettlebell Swing
+
+1. Explosive hip hinge
+2. Power comes from hip snap, not arms
+3. Bell floats to shoulder height
+4. Control back down into next rep
+
+## Hip Hinge for Common Goals
+
+### For Back Pain
+
+- Master the pattern before adding load
+- Use hip hinge for daily bending tasks
+- RDLs strengthen protective muscles
+- Always stop before form breaks
+
+### For Athletic Performance
+
+- Progress to explosive movements (swings, jumps)
+- Load heavily for strength (deadlifts)
+- Single-leg work for sport transfer
+
+### For General Fitness
+
+- RDLs 2-3x weekly
+- Mix bilateral and single-leg
+- Build to moderate-heavy loads over time
+
+### For Posture
+
+- Hip hinge pattern teaches spine awareness
+- Strengthens posterior chain (fights sitting posture)
+- Daily practice transfers to movement habits
+
+## Hip Hinge Mobility
+
+**If you can't hip hinge without rounding:**
+
+### Hamstring Stretches
+- Tight hamstrings limit hinge depth
+- Stretch after workouts, not before
+
+### Hip Flexor Stretches
+- Tight hip flexors inhibit glutes
+- Kneeling hip flexor stretch daily
+
+### Thoracic Mobility
+- Stiff upper back causes low back compensation
+- Cat-cow, thoracic rotations
+
+## Programming Hip Hinges
+
+**2-3 times per week:**
+
+**Day 1:** Bilateral, heavy
+- Deadlift or RDL: 3-4 x 5-8 reps
+
+**Day 2:** Unilateral, moderate
+- Single-leg RDL: 3 x 8-10 each leg
+- Glute bridge: 3 x 12
+
+**Optional Day 3:** Power
+- Kettlebell swing: 5 x 10
+
+## The Bottom Line
+
+The hip hinge is essential for:
+
+1. **Back health** — proper bending mechanics
+2. **Strength** — loads the largest muscles safely
+3. **Daily function** — used constantly throughout day
+4. **Athletic power** — foundation for explosive movement
+
+Master the pattern before adding weight. Perfect form with a broomstick translates to perfect form with a heavy barbell.
+
+---
+
+*Foundational Rehab programs teach proper hip hinge mechanics as a foundation for strength and daily movement.*
+    \`
   }
 };
 
