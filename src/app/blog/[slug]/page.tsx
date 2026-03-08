@@ -76939,6 +76939,1089 @@ The gym is great, but your body is a gym that travels with you.
 
 *Foundational Rehab programs include bodyweight options for training anywhere.*
     \`
+  },
+  'create-workout-plan-guide': {
+    title: 'How to Create Your Own Workout Plan: A Step-by-Step Guide',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Planning',
+    readTime: '7 min read',
+    content: \`
+## Why Create Your Own Plan?
+
+Following someone else's workout program can work. But creating your own:
+
+- Fits YOUR schedule and equipment
+- Addresses YOUR goals specifically
+- Accounts for YOUR limitations
+- You understand WHY you're doing each thing
+- Easier to adjust as life changes
+
+## Step 1: Define Your Goal
+
+Be specific. "Get fit" isn't a goal. These are:
+
+- "Lose 20 lbs in 6 months"
+- "Do 10 pull-ups"
+- "Run a 5K without stopping"
+- "Squat my bodyweight"
+- "Reduce back pain"
+- "Build visible muscle"
+
+**Pick ONE primary goal.** You can have secondary goals, but one drives the plan.
+
+## Step 2: Assess Your Schedule
+
+### How Many Days Can You Realistically Train?
+
+**Be honest:**
+- 2-3 days: Full body workouts
+- 4 days: Upper/Lower split
+- 5-6 days: Push/Pull/Legs or body part split
+
+**Don't overcommit.** 3 days consistently beats 6 days occasionally.
+
+### How Much Time Per Session?
+
+- 20-30 minutes: Focused, efficient workouts
+- 45-60 minutes: Standard, more volume
+- 60+ minutes: Advanced, high volume
+
+### When Will You Train?
+
+- Morning, lunch, evening?
+- Same time each day is easier to stick to
+- Factor in warm-up and shower time
+
+## Step 3: Choose Your Split
+
+Based on your days available:
+
+### 2-3 Days: Full Body
+
+**Each session:** Hit every major muscle group
+- Lower body push (squat)
+- Lower body pull (hinge/deadlift)
+- Upper body push (press)
+- Upper body pull (row)
+- Core
+
+### 4 Days: Upper/Lower
+
+**Upper days:** All upper body
+**Lower days:** All lower body + core
+
+- Mon: Upper A
+- Tue: Lower A
+- Thu: Upper B
+- Fri: Lower B
+
+### 5-6 Days: Push/Pull/Legs
+
+**Push:** Chest, shoulders, triceps
+**Pull:** Back, biceps, rear delts
+**Legs:** Quads, hamstrings, glutes
+
+- Mon: Push
+- Tue: Pull
+- Wed: Legs
+- Thu: Push
+- Fri: Pull
+- Sat: Legs
+
+## Step 4: Select Exercises
+
+### The Movement Patterns
+
+Every good program includes:
+
+1. **Squat/Knee Dominant:** Squats, lunges, leg press
+2. **Hip Hinge/Hip Dominant:** Deadlifts, RDLs, hip thrusts
+3. **Horizontal Push:** Bench press, push-ups
+4. **Horizontal Pull:** Rows
+5. **Vertical Push:** Overhead press
+6. **Vertical Pull:** Pull-ups, lat pulldowns
+7. **Core:** Planks, dead bugs, anti-rotation
+
+### Exercise Selection by Goal
+
+**For Strength:**
+- Compound movements primarily
+- Squat, deadlift, bench, row, press
+- 3-5 exercises per session
+
+**For Muscle Building:**
+- Compounds + isolation exercises
+- Higher volume (more sets)
+- 5-8 exercises per session
+
+**For Weight Loss:**
+- Compound movements (more calories burned)
+- Include some cardio/circuits
+- 4-6 exercises per session
+
+**For General Fitness:**
+- Mix of compounds and accessories
+- Balance across all patterns
+- 5-7 exercises per session
+
+### Sample Exercise Menu
+
+**Lower Body:**
+- Squat variations
+- Lunges (forward, reverse, walking)
+- Romanian deadlift
+- Hip thrust/glute bridge
+- Leg press
+- Leg curl
+- Calf raises
+
+**Upper Body Push:**
+- Bench press (barbell, dumbbell, incline)
+- Push-ups
+- Overhead press
+- Dips
+- Tricep extensions
+
+**Upper Body Pull:**
+- Rows (barbell, dumbbell, cable)
+- Pull-ups/chin-ups
+- Lat pulldowns
+- Face pulls
+- Bicep curls
+
+**Core:**
+- Plank variations
+- Dead bugs
+- Pallof press
+- Ab rollouts
+- Bird dogs
+
+## Step 5: Determine Sets and Reps
+
+### By Goal
+
+**Strength:** 3-5 sets × 3-6 reps (heavy)
+**Muscle Growth:** 3-4 sets × 8-12 reps (moderate)
+**Endurance:** 2-3 sets × 15-20 reps (light)
+
+### Weekly Volume Guidelines
+
+**Per muscle group per week:**
+- Beginner: 10-12 sets
+- Intermediate: 12-16 sets
+- Advanced: 16-20+ sets
+
+**Spread across workouts** (e.g., 5 sets Monday + 5 sets Thursday = 10 weekly)
+
+### Rest Between Sets
+
+- Strength (heavy): 2-3+ minutes
+- Muscle building: 60-90 seconds
+- Circuits/endurance: 30-60 seconds
+
+## Step 6: Plan Progression
+
+### Progressive Overload
+
+You must increase challenge over time:
+
+**Ways to progress:**
+1. Add weight (most common)
+2. Add reps (same weight)
+3. Add sets (more volume)
+4. Improve form (more tension)
+5. Reduce rest (increase density)
+
+### Example Progression
+
+**Week 1:** Squat 100 lbs × 3 sets × 8 reps
+**Week 2:** Squat 100 lbs × 3 sets × 10 reps
+**Week 3:** Squat 105 lbs × 3 sets × 8 reps
+**Week 4:** Squat 105 lbs × 3 sets × 10 reps
+
+### Deload Weeks
+
+Every 4-6 weeks, take an easier week:
+- Cut volume by 40-50%
+- Same exercises, lighter
+- Allows recovery and adaptation
+
+## Step 7: Put It Together
+
+### Example: 3-Day Full Body Plan
+
+**Day 1:**
+1. Squat: 3 × 8
+2. Bench Press: 3 × 8
+3. Romanian Deadlift: 3 × 10
+4. Row: 3 × 10
+5. Plank: 3 × 30 sec
+
+**Day 2:**
+1. Deadlift: 3 × 6
+2. Overhead Press: 3 × 8
+3. Lunges: 3 × 10 each
+4. Pull-ups/Lat Pulldown: 3 × 8
+5. Dead Bug: 3 × 10 each
+
+**Day 3:**
+1. Front Squat or Leg Press: 3 × 10
+2. Dumbbell Bench: 3 × 10
+3. Hip Thrust: 3 × 12
+4. Cable Row: 3 × 12
+5. Farmer Carry: 3 × 40 steps
+
+### Example: 4-Day Upper/Lower
+
+**Upper A:**
+1. Bench Press: 4 × 8
+2. Bent-Over Row: 4 × 8
+3. Overhead Press: 3 × 10
+4. Pull-ups: 3 × max
+5. Bicep Curls: 3 × 12
+6. Tricep Pushdowns: 3 × 12
+
+**Lower A:**
+1. Squat: 4 × 6
+2. Romanian Deadlift: 3 × 10
+3. Walking Lunges: 3 × 12 each
+4. Leg Curl: 3 × 12
+5. Calf Raises: 4 × 15
+6. Plank: 3 × 45 sec
+
+(Upper B and Lower B would have similar structure, different exercise variations)
+
+## Step 8: Track Everything
+
+### What to Track
+
+- Exercises performed
+- Weight used
+- Reps completed
+- How it felt (easy/hard)
+- Any pain or issues
+
+### Why Tracking Matters
+
+- Know when to progress
+- See improvements over time
+- Identify stalls
+- Adjust based on data, not feelings
+
+### Tools
+
+- Simple notebook
+- Phone notes app
+- Dedicated workout apps
+- Spreadsheet
+
+## Common Mistakes
+
+### 1. Too Complicated
+
+Keep it simple. 5-6 exercises per session is plenty.
+
+### 2. No Progression Plan
+
+"Winging it" doesn't work. Plan how you'll progress.
+
+### 3. Ignoring Weaknesses
+
+Don't skip movements you're bad at. That's where you need the work.
+
+### 4. Changing Too Often
+
+Stick with a plan for 8-12 weeks minimum before changing.
+
+### 5. Unrealistic Schedule
+
+Better to plan 3 days and hit them all than plan 6 and hit 3.
+
+## The Bottom Line
+
+Creating your workout plan:
+
+1. **Define one clear goal**
+2. **Be realistic about time**
+3. **Choose appropriate split**
+4. **Include all movement patterns**
+5. **Plan for progression**
+6. **Track everything**
+7. **Stick with it for 8+ weeks**
+
+The best plan is one you follow consistently. Keep it simple, make it work for your life.
+
+---
+
+*Foundational Rehab provides structured programs if you prefer not to plan your own.*
+    \`
+  },
+  'first-time-gym-guide': {
+    title: 'First Time at the Gym: A Complete Guide for Beginners',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Getting Started',
+    readTime: '6 min read',
+    content: \`
+## Gym Anxiety Is Normal
+
+Almost everyone feels intimidated their first time at a gym.
+
+**Common fears:**
+- "Everyone will watch me"
+- "I don't know how to use the equipment"
+- "I'll look stupid"
+- "I don't belong here"
+
+**The reality:**
+- Most people are focused on themselves
+- Everyone was a beginner once
+- Staff are there to help
+- You have just as much right to be there as anyone
+
+## Before You Go
+
+### What to Wear
+
+- Athletic shoes (closed-toe, supportive)
+- Comfortable workout clothes
+- Moisture-wicking materials preferred
+- Sports bra with good support (if needed)
+- Nothing too loose (can catch on equipment)
+
+### What to Bring
+
+- Water bottle
+- Small towel
+- Lock (if using lockers)
+- Headphones (optional, helps you focus)
+- Workout plan (written down or on phone)
+
+### Best Time to Go (First Visit)
+
+- Off-peak hours: Mid-morning, early afternoon, late evening
+- Weekdays tend to be less crowded than weekends
+- Avoid 5-7 PM (after-work rush)
+
+### Do Some Research
+
+- Look at gym's website for equipment photos
+- Watch YouTube videos of basic exercises
+- Know what you want to do before arriving
+
+## Your First Visit
+
+### Step 1: Get Oriented
+
+**If offered a tour, take it:**
+- Learn where everything is
+- Ask about equipment you don't recognize
+- Find out rules (wiping equipment, etc.)
+
+**Key areas to find:**
+- Locker room
+- Cardio machines
+- Free weights
+- Machines
+- Stretching area
+- Emergency exits
+
+### Step 2: Start Simple
+
+**Don't try to do everything on Day 1.**
+
+**Good first workout:**
+1. Treadmill or bike: 5-10 min warm-up
+2. 2-3 machines (they have instructions)
+3. Cool-down stretching
+
+**Machines are great for beginners:**
+- Instructions on each machine
+- Guided movement path (harder to mess up)
+- Less intimidating than free weights
+
+### Step 3: Learn Gym Etiquette
+
+**Essential rules:**
+- Wipe down equipment after use
+- Re-rack weights
+- Don't hog equipment (share during busy times)
+- Use headphones if listening to music
+- No phone calls on the floor
+- Let others "work in" between your sets
+
+## Understanding the Gym Floor
+
+### Cardio Area
+
+**Treadmill:**
+- Start slow (walking)
+- Use handrails initially
+- Learn how to stop (emergency clip!)
+
+**Stationary Bike:**
+- Adjust seat height (leg slightly bent at bottom)
+- Start with low resistance
+
+**Elliptical:**
+- Low impact option
+- Handles help with balance
+- Start with low resistance
+
+### Machine Area
+
+**Why machines are beginner-friendly:**
+- Instructions printed on each one
+- Guided movement
+- Easy to adjust weight (pin system)
+- Safer without a spotter
+
+**Common machines:**
+- Leg press
+- Chest press
+- Lat pulldown
+- Seated row
+- Leg curl/extension
+- Shoulder press
+
+### Free Weight Area
+
+**Can be intimidating, but:**
+- Start with dumbbells (easier than barbells)
+- Use mirrors to check form
+- Start lighter than you think
+- Ask staff for help
+
+**Start with:**
+- Dumbbell squats
+- Dumbbell rows
+- Dumbbell bench press
+- Dumbbell shoulder press
+
+### Stretching Area
+
+- Usually has mats
+- Good for warm-up, cool-down
+- Often quieter, less intimidating
+
+## Simple First Workout
+
+### Full Gym Intro (30 min)
+
+**Warm-up (5 min):**
+- Treadmill walking: 5 min
+
+**Machines (15 min):**
+1. Leg Press: 2 × 12
+2. Chest Press: 2 × 12
+3. Lat Pulldown: 2 × 12
+4. Leg Curl: 2 × 12
+
+**Cardio (5 min):**
+- Bike: 5 min easy
+
+**Cool-down (5 min):**
+- Stretching on mats
+
+### Cardio-Only First Day
+
+If strength training feels overwhelming:
+- 5 min treadmill walk (warm-up)
+- 15-20 min on cardio machine of choice
+- 5 min cool-down stretch
+
+**Nothing wrong with this.** Get comfortable first.
+
+## Common Beginner Mistakes
+
+### 1. Doing Too Much
+
+First workout shouldn't destroy you. Start easy.
+
+### 2. Skipping Warm-Up
+
+Cold muscles = injury risk. Always warm up.
+
+### 3. Not Asking for Help
+
+Staff are there for this. Ask about any equipment.
+
+### 4. Comparing to Others
+
+They've been coming for years. Focus on yourself.
+
+### 5. Not Having a Plan
+
+Wandering aimlessly is awkward. Know what you'll do.
+
+## The Staff Can Help
+
+**Don't hesitate to ask:**
+- "How does this machine work?"
+- "Can you check my form?"
+- "Is this weight appropriate?"
+- "Where is the [equipment]?"
+
+**Many gyms offer:**
+- Free orientation session
+- One free personal training session
+- Group classes for beginners
+
+## Building Confidence
+
+### Go Regularly
+
+The more you go, the less intimidating it becomes. Aim for 3 visits in first week.
+
+### Bring a Friend
+
+Having someone with you helps with anxiety.
+
+### Start with Group Classes
+
+Structured, instructor-led, you just follow along.
+
+### Try Off-Peak Hours
+
+Fewer people = less anxiety while you learn.
+
+### Remind Yourself
+
+- Everyone started somewhere
+- Most people don't notice or care what you're doing
+- You're there for you, not them
+
+## After Your First Visit
+
+### You'll Probably Feel:
+
+- Some muscle soreness (normal)
+- Accomplished (you did it!)
+- Less anxious about going back
+
+### Next Steps:
+
+- Go again within 48-72 hours
+- Try one new thing each visit
+- Eventually explore free weights
+- Consider a few sessions with a trainer
+
+## The Bottom Line
+
+Your first gym visit:
+
+1. **Go at off-peak hours** if possible
+2. **Start with cardio + machines** (guided movement)
+3. **Ask staff for help** — that's their job
+4. **Keep it short and simple** — don't overwhelm yourself
+5. **Go back soon** — consistency builds confidence
+
+Everyone was new once. You belong there too.
+
+---
+
+*Foundational Rehab provides gym-ready workout plans for all experience levels.*
+    \`
+  },
+  'track-fitness-progress': {
+    title: 'How to Track Fitness Progress: Beyond the Scale',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Progress',
+    readTime: '5 min read',
+    content: \`
+## Why Track Progress?
+
+What gets measured gets managed.
+
+**Tracking helps you:**
+- Know if your program is working
+- Stay motivated (seeing improvement)
+- Make data-driven adjustments
+- Identify plateaus early
+- Celebrate wins you'd otherwise miss
+
+## The Problem with Only Using the Scale
+
+**Weight fluctuates daily due to:**
+- Water retention
+- Food in digestive system
+- Hormones (menstrual cycle)
+- Salt intake
+- Time of day
+
+**Weight doesn't show:**
+- Muscle gain
+- Fat loss (if weight stays same)
+- Fitness improvements
+- Body composition changes
+
+**Example:** Someone who loses 5 lbs of fat and gains 5 lbs of muscle looks dramatically different but weighs the same.
+
+## Better Ways to Track Progress
+
+### 1. Body Measurements
+
+**Measure every 2-4 weeks:**
+- Chest (at nipple line)
+- Waist (at navel)
+- Hips (widest point)
+- Thighs (at largest point)
+- Arms (at largest point)
+
+**How to measure:**
+- Use flexible tape measure
+- Same time of day
+- Same conditions (morning, empty stomach)
+- Pull tape snug but not tight
+- Measure same spots each time
+
+### 2. Progress Photos
+
+**More revealing than the scale.**
+
+**How to take good progress photos:**
+- Same lighting
+- Same time of day (morning is best)
+- Same angles (front, side, back)
+- Same clothing (or lack thereof)
+- Relaxed pose (don't flex or suck in)
+- Every 4 weeks
+
+**Compare photos side-by-side.** Changes happen slowly; photos reveal what you don't see daily.
+
+### 3. Strength Progress
+
+**Track your workouts:**
+- Exercises performed
+- Weight used
+- Reps completed
+
+**Over time, you should see:**
+- More weight on the bar
+- More reps at same weight
+- Better form at same weight
+
+**Example log:**
+\\\`\\\`\\\`
+Week 1: Squat - 95 lbs × 8 reps
+Week 4: Squat - 95 lbs × 12 reps
+Week 8: Squat - 115 lbs × 8 reps
+\\\`\\\`\\\`
+
+### 4. Cardiovascular Progress
+
+**Track:**
+- Distance covered
+- Time taken
+- Heart rate at given effort
+- How hard it feels (1-10)
+
+**Improvements show as:**
+- Same distance, faster time
+- Same distance, lower heart rate
+- Same distance, feels easier
+- Longer distance
+
+### 5. How Clothes Fit
+
+**Surprisingly accurate:**
+- Pants looser/tighter
+- Belt holes
+- How shirts fit in shoulders vs. waist
+- Need to buy new sizes
+
+### 6. Energy and Recovery
+
+**Subjective but valuable:**
+- Energy levels throughout day
+- Quality of sleep
+- Recovery between workouts
+- Mood
+- Stress management
+
+### 7. Performance Benchmarks
+
+**Test periodically (every 8-12 weeks):**
+- Max push-ups in one set
+- Max plank hold time
+- 1-mile run time
+- Max pull-ups
+- How far you can walk in 30 minutes
+
+### 8. Health Markers
+
+**If you have access:**
+- Blood pressure
+- Resting heart rate
+- Blood sugar
+- Cholesterol
+- Body fat percentage (if measured accurately)
+
+## How to Use a Scale (If You Must)
+
+**If you weigh yourself:**
+- Same time daily (morning, after bathroom, before food)
+- Look at weekly averages, not daily numbers
+- Expect 2-5 lb daily fluctuations (normal)
+- Trend over weeks matters, not daily weight
+
+**Example:**
+- Mon: 165 → Tue: 167 → Wed: 166 → Thu: 164 → Fri: 166
+- Weekly average: 165.6 lbs
+- Compare to next week's average, not individual days
+
+## Tracking Tools
+
+### Simple Options
+- Notebook
+- Phone notes app
+- Calendar marks
+
+### Apps
+- MyFitnessPal (nutrition + weight)
+- Strong (workout logging)
+- Various fitness trackers
+
+### Spreadsheets
+- Customizable
+- Can track anything
+- Great for seeing trends
+
+## What to Track When
+
+### Daily (Optional)
+- Workout completed (yes/no)
+- Weight (if you choose—use averages)
+- Energy level (1-10)
+
+### Weekly
+- Workout details (weights, reps)
+- Weekly weight average
+- How you're feeling overall
+
+### Every 2-4 Weeks
+- Body measurements
+- Progress photos
+- Clothes fit assessment
+
+### Every 8-12 Weeks
+- Performance benchmarks
+- Health markers (if available)
+- Review of overall progress
+
+## Reading Your Data
+
+### Signs of Progress
+- Measurements decreasing (fat loss goal)
+- Strength increasing
+- Endurance improving
+- Photos showing change
+- Clothes fitting better
+- Feeling better
+
+### Signs Something's Off
+- No changes in anything for 4+ weeks
+- Strength decreasing
+- Energy chronically low
+- Not recovering between workouts
+
+**If stuck:** Adjust your approach—more food, less food, more rest, different training.
+
+## Avoiding Obsession
+
+### Healthy Tracking
+- Informative, not obsessive
+- Informs decisions
+- Motivates you
+
+### Unhealthy Tracking
+- Daily weigh-ins causing anxiety
+- Obsessing over small fluctuations
+- Self-worth tied to numbers
+
+**If tracking causes stress,** track less frequently or skip the scale entirely. Photos and measurements are gentler.
+
+## The Bottom Line
+
+Track progress through multiple measures:
+
+1. **Measurements** — Chest, waist, hips
+2. **Photos** — Most revealing over time
+3. **Strength** — Weights and reps in the gym
+4. **Endurance** — Run times, distance, heart rate
+5. **How you feel** — Energy, sleep, mood
+6. **How clothes fit** — Practical daily feedback
+
+The scale is just one number. Your body is more complex than that.
+
+---
+
+*Foundational Rehab helps you track meaningful progress toward your fitness goals.*
+    \`
+  },
+  'exercise-while-traveling': {
+    title: 'Exercise While Traveling: Stay Fit on the Road',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Life Situations',
+    readTime: '6 min read',
+    content: \`
+## The Travel Fitness Challenge
+
+Travel disrupts routines:
+- Different time zones
+- Limited equipment
+- Unfamiliar gyms
+- Busy schedules
+- Irregular eating
+- Less sleep
+
+**The goal isn't to maintain your perfect home routine.** It's to do something that keeps you moving and makes returning to normal easier.
+
+## Mindset for Travel Fitness
+
+### Lower Your Standards (Temporarily)
+
+**Home:** 45-minute structured workout
+**Travel:** 15-minute hotel room session
+
+**Both are wins.** Something always beats nothing.
+
+### Focus on Maintenance
+
+You won't build significant muscle or lose much fat during a trip. You're maintaining:
+- Movement habit
+- Basic fitness
+- Mental well-being
+- Return-to-routine momentum
+
+### Accept Imperfection
+
+- Missed workouts happen
+- Short workouts count
+- Walking counts
+- Exploring counts
+
+## Bodyweight Travel Workouts
+
+### 15-Minute Full Body
+
+No equipment needed:
+
+**Round 1 (5 min):**
+1. Squat: 15
+2. Push-up: 10
+3. Lunge: 10 each
+4. Plank: 30 sec
+5. Rest: 30 sec
+
+**Round 2 (5 min):**
+1. Jump squat (or regular): 10
+2. Tricep dip (on chair): 10
+3. Glute bridge: 15
+4. Mountain climber: 20
+5. Rest: 30 sec
+
+**Round 3 (5 min):**
+1. Split squat: 10 each
+2. Pike push-up: 8
+3. Single-leg glute bridge: 10 each
+4. Dead bug: 10 each
+5. Stretch: remaining time
+
+### 10-Minute HIIT
+
+**40 sec work / 20 sec rest:**
+1. Burpees
+2. Squats
+3. Push-ups
+4. Lunges
+5. Mountain climbers
+6. Plank jacks
+7. Squat jumps
+8. Tricep dips
+9. High knees
+10. Plank hold
+
+### 5-Minute Wake-Up
+
+**When time is extremely limited:**
+1. Jumping jacks: 30 sec
+2. Squats: 20
+3. Push-ups: 15
+4. Lunges: 20 total
+5. Plank: 30 sec
+6. Stretch: 1 min
+
+## Hotel Gym Workout
+
+**If the hotel has a basic gym:**
+
+### Minimal Equipment (Dumbbells + Cardio)
+
+**Warm-up:** 5 min cardio
+
+**Circuit (3 rounds):**
+1. Goblet squat: 12
+2. DB row: 10 each
+3. DB floor press: 12
+4. DB RDL: 10
+5. DB overhead press: 10
+6. Plank: 45 sec
+
+**Cool-down:** 5 min stretch
+
+### Cardio-Only Option
+
+If you just want to move:
+- 20-30 min on any cardio machine
+- Interval option: 1 min hard / 1 min easy
+- Or steady-state if you prefer
+
+## Active Travel Strategies
+
+### Walk Everywhere
+
+- Skip cabs for short distances
+- Walk to restaurants, meetings, attractions
+- Take stairs instead of elevators
+- Walking meetings if possible
+
+### Explore Actively
+
+- Walking tours
+- Hiking nearby trails
+- Bike rentals
+- Swimming (beach or hotel pool)
+
+### Built-In Movement
+
+- Use airport layovers to walk terminals
+- Get off one transit stop early
+- Morning walk before day starts
+- Evening walk after dinner
+
+## Packing for Fitness
+
+### What to Bring
+
+**Minimal:**
+- Athletic shoes (essential)
+- 1-2 workout outfits
+- Resistance band (packs flat)
+
+**If Space Allows:**
+- Jump rope
+- TRX or suspension trainer
+- Foam roller (travel size)
+
+**In Your Carry-On:**
+- Workout clothes (in case luggage is lost)
+- Comfortable walking shoes
+
+### What to Skip
+
+- Heavy equipment (not worth it)
+- Multiple shoes (unless needed)
+- Bulky rollers (use tennis ball or water bottle instead)
+
+## Resistance Band Travel Workout
+
+**One band, full body:**
+
+1. Band squat: 12
+2. Band row (wrapped around something): 12
+3. Band chest press (anchored behind): 12
+4. Band RDL: 10
+5. Band overhead press: 10
+6. Band bicep curl: 12
+7. Band tricep extension: 12
+8. Band pull-apart: 15
+
+**Loop around:**
+- Door handle
+- Bedpost
+- Sturdy railing
+- Your own feet
+
+## Time Zone and Jet Lag
+
+### Exercise Can Help Jet Lag
+
+- Morning exercise helps reset circadian rhythm
+- Light exposure + movement = faster adjustment
+- Don't exercise too close to new bedtime
+
+### Adjust Expectations
+
+- First 1-2 days: gentle movement only
+- Listen to your body
+- Hydrate extra
+- Don't push through exhaustion
+
+### East vs. West Travel
+
+**Eastward:** Harder adjustment; morning exercise helps
+**Westward:** Easier; evening exercise can help stay awake
+
+## Business Travel Specifically
+
+### Make It Non-Negotiable
+
+- Schedule workout like a meeting
+- Morning is often most reliable
+- Pack workout clothes in carry-on
+- Scout hotel gym in advance
+
+### Quick Options for Packed Days
+
+- 10-minute morning routine in room
+- Walking meetings when possible
+- Stairs instead of elevator (sneaky exercise)
+- Stretch in airport lounges
+
+### Client Dinners and Late Nights
+
+- Move workout to morning
+- Shorter is fine
+- Walking counts
+- Don't stress—one day won't ruin fitness
+
+## Vacation Travel
+
+### Balance Fitness and Relaxation
+
+- Don't make vacation a fitness boot camp
+- Enjoy active experiences (hiking, swimming, sports)
+- Morning movement can enhance vacation days
+- It's okay to take rest days
+
+### Family Travel
+
+- Active family activities count
+- Swimming, beaches, walking
+- Kids keep you moving anyway
+- Model exercise as normal, not obsessive
+
+## The Bottom Line
+
+Travel fitness principles:
+
+1. **Something beats nothing** — Even 10 minutes counts
+2. **Lower expectations** — Maintenance, not progress
+3. **Pack minimal gear** — Bands and shoes are enough
+4. **Use bodyweight** — You always have your body
+5. **Walk everywhere** — Sneaky fitness that doesn't feel like work
+6. **Don't stress** — Short breaks don't derail long-term fitness
+
+The habit of moving matters more than the perfect workout.
+
+---
+
+*Foundational Rehab provides travel-friendly workout options for staying active anywhere.*
+    \`
   }
 };
 
