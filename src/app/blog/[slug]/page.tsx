@@ -75925,6 +75925,1020 @@ Missing a few workouts won't ruin your fitness. Training sick can make everythin
 
 *Foundational Rehab encourages appropriate rest and recovery as part of a sustainable fitness approach.*
     \`
+  },
+  'proper-lifting-technique-daily-life': {
+    title: 'Proper Lifting Technique: Protect Your Back in Daily Life',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Daily Life',
+    readTime: '5 min read',
+    content: \`
+## Why Lifting Technique Matters
+
+Back injuries often happen during everyday activities:
+- Picking up a child
+- Moving furniture
+- Grabbing groceries
+- Lifting boxes
+
+**Most back injuries are preventable** with proper lifting mechanics.
+
+## The Basic Lift
+
+### Setup
+1. **Get close** to the object
+2. **Feet shoulder-width apart** for stable base
+3. **Assess the weight** before lifting
+
+### The Lift
+1. **Bend at hips and knees** — NOT at the waist
+2. **Keep back straight** — natural curve, not rounded
+3. **Grip firmly** with both hands
+4. **Brace your core** — like you're about to be punched
+5. **Lift with legs** — drive through heels
+6. **Keep object close** to your body
+7. **Rise smoothly** — no jerking
+
+### Setting Down
+1. Reverse the process
+2. Hinge at hips, bend knees
+3. Keep back straight
+4. Control the descent
+
+## Common Lifting Mistakes
+
+### 1. Rounding the Back
+
+**The problem:** Bending from waist with rounded spine
+**Why it's bad:** Puts enormous pressure on discs
+**The fix:** Hip hinge with neutral spine
+
+### 2. Lifting Far from Body
+
+**The problem:** Holding object at arm's length
+**Why it's bad:** Massively increases spinal load
+**The fix:** Keep object against your body
+
+### 3. Twisting While Lifting
+
+**The problem:** Rotating spine under load
+**Why it's bad:** Discs are vulnerable to rotation + compression
+**The fix:** Move feet to turn, don't twist spine
+
+### 4. Jerking the Weight
+
+**The problem:** Fast, sudden lifting motion
+**Why it's bad:** Spikes load on spine, muscles unprepared
+**The fix:** Smooth, controlled lift
+
+### 5. Lifting Beyond Capacity
+
+**The problem:** Trying to be a hero
+**Why it's bad:** Exceeds what body can safely handle
+**The fix:** Get help or make multiple trips
+
+## Lifting Specific Objects
+
+### Boxes
+- Get close, squat down
+- Grip bottom corners if possible
+- Lift with legs, keep close
+- For high shelves: use step stool, don't reach up while holding
+
+### Grocery Bags
+- Distribute weight evenly (bags in both hands)
+- Multiple trips > one heavy trip
+- Consider reusable bags with sturdy handles
+
+### Children
+- Squat down to their level
+- Have them put arms around your neck
+- Lift while keeping them close
+- Don't twist to set them on hip—step around
+
+### Laundry Baskets
+- Don't carry at arm's length
+- Hold against body or carry on hip
+- Or: lighter loads, more trips
+
+### Furniture
+- Always get help for heavy items
+- Use furniture sliders when possible
+- Clear the path first
+- Communicate with your helper
+- Push rather than pull when possible
+
+### Pet Food / Heavy Bags
+- Don't try to carry traditional way
+- Squat, lift to hip height, walk with bag against body
+- Or: open at ground level, scoop smaller amounts
+
+## The Hip Hinge in Daily Life
+
+The gym hip hinge IS daily life lifting:
+
+**Practice:**
+1. Stand at counter or sink
+2. Push hips back, slight knee bend
+3. Keep back straight
+4. This is how you should bend to lift
+
+**Use it for:**
+- Picking up anything from floor
+- Bending to reach low shelves
+- Loading/unloading dishwasher
+- Brushing teeth (stop hunching over sink!)
+
+## Special Situations
+
+### Lifting from Car Trunk
+- Don't lean over and round
+- Put one knee on bumper if possible
+- Slide object toward you first
+- Get close before lifting
+
+### Lifting Overhead
+- Get on step stool instead of reaching
+- Don't arch back excessively
+- Keep object close during lift
+- Lower before twisting
+
+### Picking Up from Ground
+- Golfer's lift (one leg back) for light objects
+- Full squat for heavier objects
+- Don't bend and reach with straight legs
+
+### Carrying While Walking
+- Divide weight between hands
+- Keep objects close
+- Take breaks on long carries
+- Switch hands periodically
+
+## Building Strength for Daily Lifting
+
+**Exercises that directly help:**
+
+**Deadlifts / Hip Hinges**
+- Exact same movement pattern
+- Build posterior chain strength
+
+**Goblet Squats**
+- Builds leg strength
+- Mimics holding objects at chest
+
+**Farmer Carries**
+- Strengthens grip
+- Core stability under load
+- Walking with weight
+
+**Planks**
+- Core bracing strength
+- Stability for spine
+
+## When Your Back Already Hurts
+
+### Short-Term
+- Avoid heavy lifting entirely
+- Use the golfer's lift for light objects (one leg back as counterweight)
+- Ask for help
+- Bend knees more than usual
+
+### Long-Term
+- Strengthen core and back muscles
+- Practice hip hinge pattern
+- Don't avoid all lifting forever—rebuild capacity
+
+## Teaching Children
+
+**Good habits start young:**
+- Show them how to squat to pick things up
+- Make it a game: "keep your back tall like a superhero"
+- Model good technique yourself
+
+## The Bottom Line
+
+Protect your back by:
+
+1. **Getting close** to objects before lifting
+2. **Bending knees and hips**, not waist
+3. **Keeping back straight** (natural curve)
+4. **Bracing core** before lifting
+5. **Never twisting** while holding weight
+6. **Asking for help** when unsure
+
+These habits prevent injuries. They're worth building.
+
+---
+
+*Foundational Rehab teaches movement patterns that protect your body in daily life.*
+    \`
+  },
+  'hiking-fitness-preparation': {
+    title: 'Hiking Fitness: How to Prepare Your Body for the Trail',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Activity Prep',
+    readTime: '6 min read',
+    content: \`
+## Why Prepare for Hiking?
+
+Hiking seems simple — just walking, right?
+
+But trails challenge you differently than flat ground:
+- Inclines demand more leg strength and cardio
+- Descents stress knees and require control
+- Uneven terrain challenges balance and ankles
+- Longer duration tests endurance
+- Elevation can affect breathing
+
+**Preparation prevents injury and makes hiking enjoyable instead of miserable.**
+
+## Key Fitness Components for Hiking
+
+### 1. Cardiovascular Endurance
+
+**Why it matters:** Hiking is sustained aerobic activity, often for hours.
+
+**How to build it:**
+- Walking (increase duration and pace)
+- Stair climbing
+- Cycling or swimming
+- Incline treadmill
+
+**Goal:** Comfortable with 60+ minutes of sustained walking at brisk pace
+
+### 2. Leg Strength
+
+**Why it matters:** Uphills require power, downhills require control.
+
+**Key muscles:**
+- Quadriceps (uphills and downhill braking)
+- Glutes (power and stability)
+- Hamstrings (support quads)
+- Calves (push-off and stability)
+
+### 3. Balance and Stability
+
+**Why it matters:** Uneven terrain, rocks, roots all challenge balance.
+
+**Key areas:**
+- Ankle stability
+- Single-leg strength
+- Core stability
+
+### 4. Core Strength
+
+**Why it matters:** Carries pack weight, protects spine on uneven ground.
+
+### 5. Hip Mobility
+
+**Why it matters:** Navigating obstacles, varied stride lengths
+
+## 8-Week Hiking Prep Program
+
+### Weeks 1-2: Build Base
+
+**3-4 sessions per week:**
+
+**Walking:**
+- 30-45 min walks
+- Include hills if possible
+- Moderate pace (can talk but slightly breathless)
+
+**Strength (2x/week):**
+- Bodyweight squats: 3 x 12
+- Lunges: 3 x 10 each leg
+- Glute bridges: 3 x 15
+- Step-ups (stair): 3 x 10 each leg
+- Plank: 3 x 30 sec
+
+### Weeks 3-4: Add Challenge
+
+**Walking:**
+- 45-60 min walks
+- Seek out hills
+- Add light backpack (10-15 lbs)
+
+**Strength (2x/week):**
+- Goblet squats (or weighted): 3 x 12
+- Walking lunges: 3 x 12 each leg
+- Single-leg deadlifts: 3 x 10 each leg
+- Step-ups with weight: 3 x 10 each leg
+- Side plank: 3 x 20 sec each side
+
+**Add balance work:**
+- Single-leg stands: 3 x 30 sec each leg
+- Eyes closed standing: 3 x 20 sec
+
+### Weeks 5-6: Increase Duration
+
+**Walking:**
+- One long walk per week (90+ min)
+- Stair climbing sessions
+- Practice with hiking boots
+- Increase pack weight (20-25 lbs)
+
+**Strength (2-3x/week):**
+- Continue progression
+- Add lateral lunges: 3 x 10 each leg
+- Calf raises: 3 x 20
+- Downhill focus: eccentric step-downs
+
+**Balance progression:**
+- Single-leg stands on pillow/unstable surface
+- Single-leg squats (partial range)
+
+### Weeks 7-8: Simulate Hiking
+
+**Walking:**
+- Long weekend hike if possible (2+ hours)
+- Practice on similar terrain
+- Full pack weight
+- Include significant elevation
+
+**Strength (2x/week):**
+- Maintenance mode
+- Don't exhaust legs before hiking
+
+**Taper before big hike:**
+- Reduce intensity 3-4 days before
+- Stay active but don't fatigue
+
+## Key Exercises for Hikers
+
+### For Uphills
+
+**Step-Ups**
+- Use stair or platform
+- Drive through heel
+- Full extension at top
+- Progress by adding weight or height
+
+**Walking Lunges**
+- Long stride
+- Drive through front leg
+- Mimics uphill stepping
+
+**Calf Raises**
+- Single-leg for more challenge
+- Full range of motion
+- Strong calves = better push-off
+
+### For Downhills
+
+**Eccentric Step-Downs**
+- Stand on step
+- Slowly lower one foot to floor (3-4 seconds)
+- Control the descent
+- Builds downhill braking strength
+
+**Wall Sits**
+- Builds quadriceps endurance
+- Work up to 60-90 seconds
+
+**Eccentric Squats**
+- Slow descent (4-5 seconds)
+- Normal speed up
+- Builds control
+
+### For Balance and Stability
+
+**Single-Leg Deadlift**
+- Develops hip stability
+- Ankle control
+- Core strength
+
+**Single-Leg Balance**
+- Progress: eyes open → eyes closed → unstable surface
+- Mimics uneven terrain
+
+**Lateral Band Walks**
+- Strengthens hip abductors
+- Critical for trail stability
+
+### For Core
+
+**Plank Variations**
+- Front plank
+- Side plank
+- Plank with leg lift
+
+**Dead Bug**
+- Core stability with movement
+- Protects spine under pack
+
+## Ankle Preparation
+
+Rolled ankles are the most common hiking injury.
+
+**Exercises:**
+- Ankle circles (both directions)
+- Calf raises and eccentric lowers
+- Single-leg balance work
+- Alphabet tracing with toes
+- Resistance band ankle exercises
+
+**Gear:**
+- Proper fitting boots or trail shoes
+- Consider ankle braces if history of sprains
+- Trekking poles add stability
+
+## Practicing for Altitude
+
+If hiking at elevation significantly higher than you live:
+
+- Arrive 1-2 days early to acclimate
+- Start slow first day
+- Stay hydrated
+- Watch for altitude sickness symptoms
+- Build extra cardiovascular fitness before trip
+
+## Common Hiking Injuries and Prevention
+
+### Knee Pain
+**Prevention:** Strong quads, controlled descents, trekking poles
+
+### Ankle Sprains
+**Prevention:** Ankle exercises, proper footwear, attention on terrain
+
+### Blisters
+**Prevention:** Broken-in boots, moisture-wicking socks, moleskin
+
+### Back Pain
+**Prevention:** Core strength, proper pack fit, hip belt use
+
+### IT Band Syndrome
+**Prevention:** Hip strengthening, foam rolling, trekking poles for descents
+
+## The Bottom Line
+
+Prepare for hiking by:
+
+1. **Building cardio endurance** — Long walks, stair climbing
+2. **Strengthening legs** — Squats, lunges, step-ups
+3. **Training downhill control** — Eccentric exercises
+4. **Improving balance** — Single-leg work
+5. **Strengthening core** — Planks, dead bugs
+6. **Conditioning ankles** — Stability exercises
+
+8 weeks of preparation makes even challenging hikes enjoyable.
+
+---
+
+*Foundational Rehab programs include activity-specific preparation for hiking and outdoor recreation.*
+    \`
+  },
+  'exercise-for-busy-parents': {
+    title: 'Exercise for Busy Parents: Realistic Fitness with Kids',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Life Situations',
+    readTime: '6 min read',
+    content: \`
+## The Parenting-Fitness Struggle
+
+You know exercise is important. You want to exercise.
+
+But:
+- You're exhausted
+- There's no time
+- Childcare isn't available
+- Guilt about taking time "for yourself"
+- By the time kids are in bed, you're done
+
+**This is normal.** And there are solutions.
+
+## Mindset Shifts
+
+### 1. Something > Nothing
+
+**Old thinking:** "I need 45 minutes or it doesn't count"
+**New thinking:** "10 minutes is a win"
+
+Consistency with short workouts beats occasional long workouts you can't maintain.
+
+### 2. Exercise = Being a Better Parent
+
+Taking care of yourself:
+- Gives you more energy for kids
+- Improves your mood and patience
+- Models healthy habits for children
+- Isn't selfish—it's necessary
+
+### 3. Imperfect Is Perfect
+
+- Kids interrupting is okay
+- Doing half a workout is okay
+- Taking weeks off sometimes is okay
+- Just keep coming back
+
+## Finding Time
+
+### The Time Audit
+
+Where can pockets of time appear?
+
+**Early morning** (before kids wake)
+- Even 15-20 minutes works
+- Requires earlier bedtime
+- Quiet, uninterrupted
+
+**Nap time**
+- Use some for yourself, not just chores
+- Quick home workout
+- Even 10-15 minutes
+
+**During activities**
+- Kids at sports practice? Walk the field
+- Playground? Do bodyweight exercises nearby
+- Dance class waiting room? Walk outside
+
+**After bedtime**
+- If you're not too exhausted
+- Shorter is better this late
+- Yoga/stretching might be more realistic
+
+**Lunch break (if working)**
+- 20-30 minute workout
+- Walk outside
+- Home gym if remote working
+
+### Involving Kids
+
+**With babies/toddlers:**
+- Baby in stroller for walks/jogs
+- Baby wearing while doing squats
+- Floor exercises while they play nearby
+- Make faces at them during planks
+
+**With young kids:**
+- Family walks or bike rides
+- Backyard obstacle courses
+- Dance parties count!
+- Let them "exercise" with you (their version)
+
+**With older kids:**
+- They can actually work out with you
+- Family hikes, bikes, sports
+- Active video games together
+- Be their workout partner
+
+## Workout Strategies
+
+### The 10-Minute Workout
+
+**When you truly only have 10 minutes:**
+
+1. Squats: 1 min
+2. Push-ups: 1 min
+3. Lunges: 1 min each leg
+4. Plank: 30 sec
+5. Jumping jacks: 1 min
+6. Glute bridges: 1 min
+7. Mountain climbers: 1 min
+8. Wall sit: 30 sec
+9. Burpees: 1 min
+
+Done. Full body, no equipment, 10 minutes.
+
+### Stacking Micro-Workouts
+
+**Spread exercise throughout the day:**
+
+- Morning: 10 squats while coffee brews
+- After breakfast: 10 push-ups
+- Before lunch: 20 calf raises
+- Afternoon: 5-minute walk
+- Evening: 5-minute stretch
+
+**Total:** 20+ minutes, no single block of time needed
+
+### The Naptime Workout (20 min)
+
+**Warm-up:** 2 min (jumping jacks, arm circles)
+
+**Circuit (3 rounds):**
+- Squats: 15
+- Push-ups: 10
+- Reverse lunges: 10 each
+- Plank: 30 sec
+- Rest: 30 sec
+
+**Cool-down:** 2 min stretching
+
+### The Living Room Workout
+
+**While kids play (or watch a show):**
+
+During commercial breaks or every 10 minutes:
+- 10 squats
+- 10 lunges
+- 10 push-ups
+- 30-sec plank
+
+**No dedicated "workout time" needed**
+
+## Equipment-Light Options
+
+### What Actually Gets Used
+
+- Resistance bands (store anywhere)
+- Single pair of dumbbells
+- Yoga mat
+- Jump rope (if space allows)
+
+**Skip:** Elaborate home gym setups that become clothes racks
+
+### Bodyweight Is Enough
+
+You can get very fit with zero equipment:
+- Push-up variations
+- Squat variations
+- Lunges
+- Planks and core work
+- Burpees
+- Jump squats
+
+## Making It Stick
+
+### Lower the Barrier
+
+- Keep workout clothes visible
+- Have go-to 10-minute routines memorized
+- Don't require perfect conditions
+- Workout at home (no commute/childcare needed)
+
+### Set Realistic Goals
+
+**Unrealistic:** "I'll work out 5 days a week for an hour"
+**Realistic:** "I'll do something active 3 times a week, even if it's just 15 minutes"
+
+### Accept Interruptions
+
+- Kids will interrupt
+- Workout may take longer
+- It still counts
+- Don't quit—pause and continue
+
+### Tag Team (If Two Parents)
+
+- One parent watches kids while other works out
+- Alternate mornings
+- Weekend swaps
+
+## Age-Specific Strategies
+
+### With Infants (0-1)
+
+- Stroller walks are gold
+- Nap time is your window
+- Lower expectations—survival mode is okay
+- Brief is fine
+
+### With Toddlers (1-3)
+
+- Early morning before they wake
+- Nap time workouts
+- Include them (they love imitating)
+- Playground workouts while they play
+
+### With Preschoolers (3-5)
+
+- They can actually participate
+- Active play counts as your exercise too
+- Screen time can buy you workout time
+- Dance parties are workouts
+
+### With School-Age (5-12)
+
+- Before or after school windows
+- Family activities together
+- They can be independent during your workout
+- Sports practices = your exercise time
+
+### With Teens
+
+- They might work out with you
+- More independent—easier to find time
+- Model fitness for them
+
+## The Bottom Line
+
+Fitness as a parent requires:
+
+1. **Lowering expectations** — Short and imperfect is fine
+2. **Being flexible** — Use pockets of time
+3. **Involving kids** — When you can't escape them, include them
+4. **Prioritizing consistency** — 10 min 4x/week beats 1 hr 1x/week
+5. **Letting go of guilt** — Exercise makes you a better parent
+
+You don't need the perfect workout. You need to move regularly, in whatever way fits your life right now.
+
+---
+
+*Foundational Rehab programs are designed to fit into real life, including the chaos of parenting.*
+    \`
+  },
+  'exercises-you-can-do-anywhere': {
+    title: 'Exercises You Can Do Anywhere: No Gym, No Equipment Needed',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Practical',
+    readTime: '5 min read',
+    content: \`
+## Fitness Without a Gym
+
+The best workout is the one you actually do.
+
+Having go-to exercises you can do anywhere—hotel room, office, living room, park—means you never have an excuse to skip movement.
+
+No equipment. No gym. Just your body.
+
+## Upper Body
+
+### Push-Up
+
+**The classic.** Works chest, shoulders, triceps, core.
+
+**Modifications:**
+- Easier: Wall push-ups, incline push-ups (hands on chair)
+- Harder: Decline, diamond, archer push-ups
+
+### Tricep Dips
+
+**Using chair, bench, or sturdy surface:**
+1. Hands on edge behind you
+2. Lower body by bending elbows
+3. Push back up
+
+### Pike Push-Up
+
+**Shoulders focus:**
+1. Hands on floor, hips high (inverted V)
+2. Lower head toward floor
+3. Push back up
+
+### Plank Shoulder Taps
+
+**Core and shoulders:**
+1. High plank position
+2. Tap left shoulder with right hand
+3. Alternate, minimizing hip sway
+
+### Arm Circles
+
+**Warm-up and endurance:**
+- Small circles forward (30 sec)
+- Small circles backward (30 sec)
+- Increase size for challenge
+
+## Lower Body
+
+### Squat
+
+**Fundamental movement.** Works quads, glutes, hamstrings, core.
+
+**Variations:**
+- Narrow stance
+- Wide stance (sumo)
+- Pulse squats (stay low, small bounces)
+- Jump squats (power)
+
+### Lunge
+
+**Forward, reverse, or walking:**
+1. Step forward or back
+2. Lower until both knees at 90°
+3. Return to start
+
+**Variations:**
+- Lateral lunges
+- Curtsy lunges
+- Jumping lunges (power)
+
+### Glute Bridge
+
+**Works glutes and hamstrings:**
+1. Lie on back, knees bent, feet flat
+2. Drive hips up, squeeze glutes
+3. Lower with control
+
+**Variations:**
+- Single-leg bridge
+- Marching bridge
+- Hold at top
+
+### Wall Sit
+
+**Quad burner:**
+1. Back against wall
+2. Slide down to seated position
+3. Thighs parallel to floor
+4. Hold for time
+
+### Calf Raises
+
+**Works calves:**
+1. Stand on edge of step (or flat floor)
+2. Rise onto toes
+3. Lower slowly
+
+**Variations:**
+- Single-leg
+- Holding at top
+
+### Step-Ups
+
+**Using stairs, bench, or sturdy chair:**
+1. Step up with one foot
+2. Drive through heel
+3. Bring other foot up
+4. Step down with control
+
+## Core
+
+### Plank
+
+**The foundation:**
+- Forearms or hands
+- Body straight from head to heels
+- Don't sag or pike
+- Hold for time
+
+**Variations:**
+- Side plank
+- Plank with leg lift
+- Plank jacks
+
+### Dead Bug
+
+**Core stability:**
+1. On back, arms toward ceiling, knees at 90°
+2. Lower opposite arm/leg toward floor
+3. Return, alternate sides
+4. Keep low back pressed down
+
+### Mountain Climbers
+
+**Cardio + core:**
+1. High plank position
+2. Drive knees to chest alternately
+3. Move quickly for cardio
+4. Move slowly for core focus
+
+### Bicycle Crunches
+
+**Obliques focus:**
+1. On back, hands behind head
+2. Bring opposite elbow to knee
+3. Alternate sides in cycling motion
+
+### Superman
+
+**Lower back:**
+1. Lie face down, arms extended
+2. Lift arms, chest, and legs simultaneously
+3. Hold 2-3 seconds
+4. Lower with control
+
+### Reverse Crunch
+
+**Lower abs:**
+1. On back, knees at 90°
+2. Curl hips off floor, bringing knees toward chest
+3. Lower with control
+
+## Cardio
+
+### Jumping Jacks
+
+**Classic full-body cardio:**
+- Arms and legs out simultaneously
+- Return to center
+- Modify: Step out instead of jump
+
+### High Knees
+
+**Running in place with exaggeration:**
+- Drive knees up toward hip height
+- Quick, light on feet
+
+### Burpees
+
+**The ultimate:**
+1. Squat down, hands on floor
+2. Jump feet back to plank
+3. Push-up (optional)
+4. Jump feet to hands
+5. Jump up with arms overhead
+
+### Mountain Climbers (Fast)
+
+**High plank, drive knees rapidly**
+
+### Skaters
+
+**Lateral cardio:**
+1. Bound sideways onto one foot
+2. Other leg crosses behind
+3. Alternate sides
+
+### Squat Jumps
+
+**Power + cardio:**
+1. Squat down
+2. Explode up
+3. Land softly
+4. Immediately into next rep
+
+## Anywhere Workouts
+
+### 10-Minute Full Body
+
+1. Jumping jacks: 1 min
+2. Squats: 1 min
+3. Push-ups: 1 min
+4. Lunges: 1 min
+5. Plank: 30 sec
+6. Mountain climbers: 1 min
+7. Glute bridges: 1 min
+8. Burpees: 1 min
+9. Wall sit: 30 sec
+10. Dead bugs: 1 min
+
+### 15-Minute HIIT
+
+**45 sec work / 15 sec rest:**
+1. Jump squats
+2. Push-ups
+3. High knees
+4. Lunges
+5. Mountain climbers
+6. Plank jacks
+7. Squat pulses
+8. Tricep dips
+9. Burpees
+10. Bicycle crunches
+
+Repeat exercises 11-15 (second round)
+
+### 5-Minute Wake-Up
+
+1. Arm circles: 30 sec each direction
+2. Squats: 10
+3. Push-ups: 10
+4. Lunges: 10 total
+5. Plank: 30 sec
+6. Jumping jacks: 30 sec
+
+### Hotel Room Workout
+
+**When traveling:**
+1. Burpees: 3 x 8
+2. Push-ups: 3 x 12
+3. Squats: 3 x 15
+4. Lunges: 3 x 10 each leg
+5. Plank: 3 x 30 sec
+6. Mountain climbers: 3 x 20
+
+## Tips for Anywhere Workouts
+
+### Space Requirements
+- Most exercises need 6 ft x 6 ft
+- Can modify for smaller spaces
+- Eliminate jumping for apartments
+
+### Time Efficiency
+- No warm-up to gym
+- No changing, showering at gym
+- Start immediately, finish immediately
+
+### Consistency
+- Lower barrier = more consistent
+- No excuses about gym access
+- Travel doesn't stop you
+
+### Progression
+- Add reps before adding intensity
+- Slow down movements (tempo)
+- Decrease rest periods
+- Use harder variations
+
+## The Bottom Line
+
+You don't need a gym to stay fit:
+
+1. **Master 10-15 bodyweight exercises**
+2. **Have 2-3 quick routines memorized**
+3. **Scale to your space and time**
+4. **No excuses—you can always do something**
+
+The gym is great, but your body is a gym that travels with you.
+
+---
+
+*Foundational Rehab programs include bodyweight options for training anywhere.*
+    \`
   }
 };
 
