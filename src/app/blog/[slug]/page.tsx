@@ -75088,6 +75088,843 @@ You don't need to exercise for hours daily. Meet the minimums, stay consistent, 
 
 *Foundational Rehab programs are designed to meet evidence-based exercise guidelines efficiently.*
     \`
+  },
+  'fitness-plateau-break-through': {
+    title: 'Fitness Plateau: Why You\'re Stuck and How to Break Through',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Troubleshooting',
+    readTime: '6 min read',
+    content: \`
+## What Is a Fitness Plateau?
+
+A plateau is when progress stops despite continued effort:
+- Weight on the bar won't go up
+- Scale won't budge
+- Endurance isn't improving
+- Body composition unchanged
+
+**Important:** Plateaus are normal. They happen to everyone. The question is what to do about them.
+
+## Why Plateaus Happen
+
+### 1. Adaptation
+
+Your body is smart. It adapts to stress, then the same stress no longer produces change.
+
+**The solution:** Progressive overload — continually increase the challenge.
+
+### 2. Recovery Deficit
+
+**Possible if:**
+- Training too often
+- Not sleeping enough
+- High life stress
+- Undereating
+
+**The solution:** More recovery, not more training.
+
+### 3. Doing the Same Thing
+
+**The problem:** Same workout for months
+**Reality:** Body stopped responding weeks ago
+**The solution:** Change stimulus (exercises, rep ranges, intensity)
+
+### 4. Unrealistic Expectations
+
+**The problem:** Expecting beginner-rate progress forever
+**Reality:** Progress slows as you advance
+**The solution:** Adjust expectations, focus on smaller wins
+
+### 5. Poor Tracking
+
+**The problem:** You think you're stuck, but you're not tracking
+**Reality:** May actually be progressing slowly
+**The solution:** Track everything (weights, reps, measurements)
+
+## Breaking Through Strength Plateaus
+
+### Strategy 1: Change Rep Ranges
+
+If you've been doing 3x10:
+- Try 5x5 (heavier weight)
+- Or 3x15 (lighter weight)
+- Different rep ranges stress muscles differently
+
+### Strategy 2: Add Volume
+
+If you're doing 3 sets:
+- Try 4-5 sets
+- Add another exercise for the muscle
+- More total work = more stimulus
+
+### Strategy 3: Reduce Volume (Deload)
+
+**Counterintuitive but effective:**
+- Cut volume by 40-50% for a week
+- Allow full recovery
+- Come back stronger
+
+### Strategy 4: Change Exercises
+
+**Same pattern, different exercise:**
+- Bench press plateau → Dumbbell press
+- Squat plateau → Front squat or pause squats
+- Row plateau → Cable rows or chest-supported rows
+
+### Strategy 5: Fix Weak Points
+
+**Identify what's limiting you:**
+- Bench stuck? Maybe weak triceps or shoulders
+- Squat stuck? Maybe weak core or glutes
+- Target weak points specifically
+
+## Breaking Through Weight Loss Plateaus
+
+### Reality Check First
+
+**Are you actually in a plateau?**
+- Weight fluctuates 2-5 lbs daily (water, food, etc.)
+- Track weekly averages, not daily weight
+- Use measurements and photos, not just scale
+
+### If Truly Stuck:
+
+### Strategy 1: Recalculate Calories
+
+As you lose weight, you need fewer calories. Your "deficit" may now be maintenance.
+
+**Solution:** Recalculate calorie needs at current weight.
+
+### Strategy 2: Check for Calorie Creep
+
+**Common issues:**
+- Portion sizes growing
+- Not tracking accurately
+- Forgetting to log snacks
+- Underestimating cooking oils/sauces
+
+**Solution:** Track meticulously for 1-2 weeks.
+
+### Strategy 3: Diet Break
+
+**2 weeks at maintenance calories:**
+- Reduces metabolic adaptation
+- Restores hormones
+- Reduces diet fatigue
+- Then resume deficit
+
+### Strategy 4: Increase Activity
+
+**Not just exercise:**
+- More daily movement (NEAT)
+- 2,000 more steps daily
+- Take stairs, walk during lunch
+- Small increases add up
+
+### Strategy 5: Check Non-Scale Progress
+
+**You may be gaining muscle while losing fat:**
+- Scale stays same
+- Measurements decrease
+- Clothes fit better
+- Photos show change
+
+This is good progress, not a plateau.
+
+## Breaking Through Endurance Plateaus
+
+### Strategy 1: Add Intervals
+
+**If only doing steady-state:**
+- Add 1-2 interval sessions per week
+- Example: 1 min hard, 2 min easy × 6-8
+
+### Strategy 2: Run Slower (Yes, Slower)
+
+**80/20 Rule:**
+- 80% of training at easy pace
+- 20% at hard effort
+- Most people do too much in the middle
+
+### Strategy 3: Increase Long Runs
+
+**Build aerobic base:**
+- One long, slow run per week
+- Add 10% distance per week
+- Builds endurance foundation
+
+### Strategy 4: Add Strength Training
+
+**Strong muscles = better endurance:**
+- Squats, lunges, deadlifts
+- Core work
+- 2 sessions per week
+
+## The Mindset Shift
+
+### Progress Isn't Linear
+
+**Beginners:** Fast progress
+**Intermediate:** Moderate progress
+**Advanced:** Slow progress
+
+This is biology, not failure.
+
+### Small Wins Are Still Wins
+
+**Celebrate:**
+- 1 more rep
+- 0.5 lb more weight
+- 0.1 lb lost per week
+- 5 more seconds on plank
+
+### The Long Game
+
+**Think in years, not weeks:**
+- Consistent small progress beats sporadic big progress
+- You're building something that lasts
+- Plateaus are part of the journey
+
+## When to Seek Help
+
+**Consider a coach or trainer if:**
+- Stuck for months despite trying multiple strategies
+- Unsure if your program makes sense
+- Need accountability and expertise
+- Previous injury complicating things
+
+## The Bottom Line
+
+Plateaus are normal and beatable:
+
+1. **Confirm it's real** — Track accurately, give it time
+2. **Diagnose the cause** — Training? Recovery? Nutrition?
+3. **Change the stimulus** — New exercises, rep ranges, intensity
+4. **Consider more recovery** — Sometimes less is more
+5. **Be patient** — Progress slows as you advance
+
+The people who get results long-term are the ones who push through plateaus, not the ones who quit when progress slows.
+
+---
+
+*Foundational Rehab helps you identify and break through training plateaus.*
+    \`
+  },
+  'exercise-myths-debunked': {
+    title: 'Exercise Myths Debunked: What Science Actually Says',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: \`
+## Why Fitness Is Full of Myths
+
+The fitness industry profits from confusion:
+- Complicated sells better than simple
+- New myths create new products
+- Social media spreads misinformation fast
+- "Common sense" is often wrong
+
+Let's clear up the biggest myths.
+
+## Muscle and Strength Myths
+
+### Myth: "Muscle turns into fat if you stop exercising"
+
+**Reality:** Muscle and fat are completely different tissues. One cannot become the other.
+
+**What actually happens:** When you stop training, muscle shrinks (atrophy). If you're eating the same but burning less, you may also gain fat. But it's not transformation—it's two separate processes.
+
+### Myth: "Women shouldn't lift heavy or they'll get bulky"
+
+**Reality:** Building significant muscle is extremely difficult, especially for women:
+- Testosterone levels are ~15x lower than men
+- Building visible muscle takes years of hard training
+- "Bulky" requires intentional effort, specific diet, and often supplements/drugs
+
+**Truth:** Lifting makes women lean and strong, not bulky.
+
+### Myth: "Machines are safer than free weights"
+
+**Reality:** Both are safe when used properly. Both can cause injury when used poorly.
+
+**Actually:** Free weights may be better for functional strength and muscle activation. Machines aren't "safer"—just different.
+
+### Myth: "You need to feel sore to have a good workout"
+
+**Reality:** Soreness (DOMS) is not a reliable indicator of workout quality.
+
+**Truth:**
+- Beginners get very sore; advanced lifters rarely do
+- You can have effective workouts without soreness
+- You can be sore from a bad workout
+- Progress is the real measure
+
+### Myth: "High reps for toning, low reps for bulk"
+
+**Reality:** "Toning" isn't a thing (see our article on this). Muscles grow or shrink—that's it.
+
+**Truth:** Muscle growth happens across rep ranges (5-30). What matters is effort, progressive overload, and nutrition.
+
+## Cardio Myths
+
+### Myth: "Cardio is the best way to lose weight"
+
+**Reality:** Diet is ~80% of weight loss. Cardio helps but isn't essential.
+
+**Better approach:** Control calories, lift weights to preserve muscle, add cardio for health and to increase deficit.
+
+### Myth: "You have to do 30-60 minutes of cardio for it to count"
+
+**Reality:** Any amount of movement helps. Even 10 minutes has benefits.
+
+**Research shows:** Multiple short bouts (3x10 min) work as well as one long bout (1x30 min).
+
+### Myth: "Fat burning zone is best for weight loss"
+
+**Reality:** The "fat-burning zone" (lower intensity) does burn a higher percentage of fat, but total calorie burn is lower.
+
+**What matters:** Total calories burned, not the fuel source. Higher intensity burns more total calories.
+
+### Myth: "Cardio kills gains"
+
+**Reality:** Excessive cardio can interfere with muscle building, but moderate cardio is fine and beneficial.
+
+**Guidelines:** Keep cardio moderate (2-3 sessions, 20-30 min), separate from lifting if possible, and eat enough to recover.
+
+## Nutrition Myths
+
+### Myth: "You must eat protein within 30 minutes of working out"
+
+**Reality:** The "anabolic window" is much wider than 30 minutes—hours wide.
+
+**What matters:** Total daily protein intake. Timing is a minor detail.
+
+### Myth: "Eating at night makes you fat"
+
+**Reality:** Weight gain/loss depends on total calories, not timing.
+
+**Truth:** A calorie is a calorie regardless of when you eat it. Some people do better avoiding late eating (behavioral), but the calories themselves don't change.
+
+### Myth: "Carbs are bad"
+
+**Reality:** Carbs are fuel. They're especially important for intense exercise.
+
+**Truth:** Excessive calories (from any source) cause weight gain. Carbs themselves are not the enemy.
+
+### Myth: "You need supplements to get results"
+
+**Reality:** 95%+ of results come from training, diet, and sleep. Supplements are minor.
+
+**Worth it:** Creatine, protein powder (convenience), vitamin D (if deficient)
+**Not worth it:** Most everything else marketed to fitness people
+
+## Flexibility and Injury Myths
+
+### Myth: "You should stretch before exercise"
+
+**Reality:** Static stretching before exercise may actually reduce performance.
+
+**Better:** Dynamic warm-up before exercise, static stretching after or separately.
+
+### Myth: "No pain, no gain"
+
+**Reality:** Discomfort during hard effort is normal. Actual pain is a warning sign.
+
+**Truth:** Sharp pain, joint pain, or pain that changes your movement is not something to "push through."
+
+### Myth: "Running is bad for your knees"
+
+**Reality:** Research shows runners have the same or lower rates of knee arthritis than non-runners.
+
+**Truth:** Running with good form, appropriate volume, and proper shoes is fine for most people. Running strengthens joints.
+
+### Myth: "You can spot-reduce fat"
+
+**Reality:** You cannot target where your body loses fat. Ab exercises don't burn belly fat.
+
+**Truth:** Fat loss happens systemically (whole body) based on caloric deficit. Genetics determines where you lose first/last.
+
+## Workout Myths
+
+### Myth: "You need to work out for an hour for it to count"
+
+**Reality:** 20-30 minute workouts can be highly effective. Intensity matters more than duration.
+
+### Myth: "More is always better"
+
+**Reality:** Recovery is when you actually get stronger. Overtraining is real and counterproductive.
+
+**Truth:** Optimal volume exists. Beyond that, more training = less results (and more injury risk).
+
+### Myth: "You need to confuse your muscles"
+
+**Reality:** Your muscles don't have brains to be "confused." What matters is progressive overload.
+
+**Truth:** Consistency with gradual progression beats constantly switching programs.
+
+### Myth: "Exercise doesn't count unless you're sweating"
+
+**Reality:** Sweat is temperature regulation, not an indicator of workout quality.
+
+**Truth:** You can have effective workouts without drenching sweat. You can sweat profusely from ineffective ones.
+
+## The Bottom Line
+
+Most fitness myths persist because they sound logical or sell products.
+
+**What actually matters:**
+1. Progressive overload (gradually increasing challenge)
+2. Consistency (showing up regularly)
+3. Adequate nutrition (protein, appropriate calories)
+4. Recovery (sleep, rest days)
+5. Patience (results take time)
+
+Skip the gimmicks. The fundamentals work—and they're free.
+
+---
+
+*Foundational Rehab provides evidence-based exercise guidance without the myths.*
+    \`
+  },
+  'when-to-see-doctor-exercise-pain': {
+    title: 'When to See a Doctor for Exercise Pain: Warning Signs to Watch',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Safety',
+    readTime: '5 min read',
+    content: \`
+## Normal vs. Concerning Pain
+
+Exercise causes discomfort. That's normal. But not all pain is normal.
+
+**Learning to distinguish between them can prevent serious injury.**
+
+## Normal Exercise Sensations
+
+### Muscle Burn During Exercise
+- Burning sensation during hard effort
+- Goes away when you stop
+- Lactic acid buildup
+- **Normal:** Part of intense exercise
+
+### Muscle Soreness After Exercise (DOMS)
+- Delayed onset muscle soreness
+- Peaks 24-72 hours after exercise
+- Feels like dull, achy stiffness
+- Both muscles feel similar (bilateral)
+- **Normal:** Especially after new exercises or increased intensity
+
+### Mild Discomfort
+- Feeling muscles work during exercise
+- Mild fatigue
+- Brief tightness
+- **Normal:** Body adapting to exercise
+
+## Warning Signs That Need Attention
+
+### Seek Immediate Medical Care If:
+
+**Chest Pain or Pressure**
+- Pain, tightness, or pressure in chest
+- Pain radiating to arm, neck, or jaw
+- Could indicate heart problem
+- **Don't wait — call 911 or go to ER**
+
+**Severe Shortness of Breath**
+- Can't catch breath
+- Breathing doesn't recover with rest
+- Especially if sudden or unusual
+- **Seek immediate care**
+
+**Fainting or Near-Fainting**
+- Loss of consciousness
+- Severe dizziness
+- Feeling like you'll pass out
+- **Stop exercising, sit/lie down, get help**
+
+**Sudden, Severe Pain**
+- "Pop" or snap sensation
+- Immediate intense pain
+- Possible muscle tear or fracture
+- **Stop immediately, seek care**
+
+**Signs of Head Injury**
+- After hitting head during exercise
+- Confusion, vision changes, nausea
+- Severe headache
+- **Seek immediate evaluation**
+
+### See a Doctor Soon (Within Days) If:
+
+**Joint Pain That:**
+- Persists more than a week
+- Is present at rest, not just during exercise
+- Causes swelling, redness, or warmth
+- Limits normal movement
+- Worsens despite rest
+
+**Pain That:**
+- Is sharp, not dull
+- Is on one side only (unilateral)
+- Changes your movement pattern
+- Gets worse over time
+- Doesn't respond to rest
+
+**Numbness or Tingling**
+- Numbness in hands, feet, or extremities
+- Tingling that doesn't go away
+- Weakness without explanation
+- Could indicate nerve involvement
+
+**Swelling**
+- Significant swelling after exercise
+- Swelling that doesn't resolve
+- Swelling with bruising
+- Hot, red joints
+
+## Pain Location Guide
+
+### Joint Pain
+
+**Concerning if:**
+- Inside the joint (not just muscle around it)
+- Clicking, catching, or locking
+- Instability or giving way
+- Swelling within the joint
+
+**Common issues:** Arthritis, meniscus tears, ligament problems
+
+### Back Pain
+
+**Concerning if:**
+- Pain radiating down leg
+- Numbness or weakness in legs
+- Bowel or bladder changes
+- Pain that wakes you from sleep
+
+**Common issues:** Disc problems, nerve impingement
+
+### Neck Pain
+
+**Concerning if:**
+- Pain radiating into arm
+- Numbness or tingling in hands
+- Weakness in arm or hand
+- After trauma (fall, collision)
+
+### Knee Pain
+
+**Concerning if:**
+- Giving way or instability
+- Locking or catching
+- Significant swelling
+- Can't fully bend or straighten
+
+**Common issues:** Ligament tears, meniscus, tendinopathy
+
+### Shoulder Pain
+
+**Concerning if:**
+- Can't lift arm
+- Night pain (wakes you up)
+- Weakness with rotation
+- Pain with overhead activities
+
+**Common issues:** Rotator cuff, impingement, labral tears
+
+## When Rest Isn't Enough
+
+**General rule:** Minor exercise pains should improve with:
+- 3-5 days of rest
+- Ice (first 48-72 hours)
+- Anti-inflammatory (if appropriate)
+- Gentle movement
+
+**If pain doesn't improve in 1-2 weeks, see a professional.**
+
+## Who to See
+
+### Primary Care Doctor
+- First stop for most concerns
+- Can refer to specialists if needed
+- Good for general evaluation
+
+### Orthopedic Doctor
+- Joint and bone specialists
+- For significant injuries
+- May order imaging (X-ray, MRI)
+
+### Physical Therapist
+- Movement specialists
+- Excellent for rehab
+- Many accept direct access (no referral needed)
+
+### Sports Medicine Doctor
+- Specializes in exercise-related issues
+- Good for athletes and active people
+- Understands fitness goals
+
+## Prevent Problems: Listen to Your Body
+
+### Pain Patterns to Track
+- When does it hurt? (During, after, next day)
+- What makes it worse?
+- What makes it better?
+- How long has it been happening?
+
+### Don't Ignore:
+- Pain that changes your movement
+- Pain that's getting worse
+- Pain that doesn't fit normal soreness pattern
+- Your gut feeling that something is wrong
+
+## The Bottom Line
+
+**Normal:** Muscle burn during exercise, DOMS, mild discomfort
+**See someone soon:** Persistent joint pain, pain that worsens, swelling, limited motion
+**Get help immediately:** Chest pain, severe shortness of breath, sudden severe pain, fainting
+
+When in doubt, get it checked. Early intervention prevents worse problems.
+
+---
+
+*Foundational Rehab programs include appropriate progressions to minimize injury risk.*
+    \`
+  },
+  'exercise-when-sick-guidelines': {
+    title: 'Exercising When Sick: When to Work Out and When to Rest',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Safety',
+    readTime: '5 min read',
+    content: \`
+## The Dilemma
+
+You're sick. You also don't want to lose fitness or break your exercise habit.
+
+**Should you work out or rest?**
+
+The answer depends on what kind of sick you are.
+
+## The "Above the Neck" Rule
+
+This simple guideline works for most situations:
+
+### Symptoms Above the Neck = Usually OK to Exercise
+
+- Runny nose
+- Nasal congestion
+- Mild sore throat
+- Sneezing
+
+**Generally safe to exercise,** but:
+- Reduce intensity (50-70% effort)
+- Reduce duration
+- Listen to your body
+- Stop if you feel worse
+
+### Symptoms Below the Neck = Skip Exercise
+
+- Chest congestion
+- Cough
+- Upset stomach / GI issues
+- Body aches
+- Fatigue beyond normal
+
+**Rest instead of exercising.** These symptoms indicate your body needs recovery resources.
+
+## Definite "No Exercise" Situations
+
+### Fever
+
+**Any fever = no exercise**
+
+Why:
+- Exercise raises body temperature further
+- Increases heart rate and dehydration
+- Immune system needs all resources for fighting infection
+- Risk of serious complications
+
+**Wait until:** Fever-free for 24 hours without medication
+
+### Flu
+
+**Rest completely**
+- Fatigue, body aches, fever, chills
+- Your body is fighting a serious infection
+- Exercise can prolong illness
+- Risk of heart complications in rare cases
+
+**Wait until:** Symptoms fully resolved, then ease back gradually
+
+### COVID-19
+
+**Follow current medical guidance:**
+- Rest during active infection
+- Watch for warning signs (breathing difficulty)
+- Gradual return after recovery
+- Some people need cardiac clearance before returning to intense exercise
+
+### Stomach Bugs
+
+**Vomiting or diarrhea = no exercise**
+- Dehydration risk
+- Electrolyte imbalance
+- No energy for exercise
+- You'll feel worse
+
+**Wait until:** 24-48 hours after symptoms resolve
+
+## What About a Cold?
+
+The most common situation: you have a mild cold.
+
+### Light Exercise May Be OK If:
+- Only mild congestion
+- No fever
+- Energy is decent
+- Just sniffles, no deeper symptoms
+
+### What to Do:
+- Reduce intensity significantly
+- Cut workout time in half
+- Walking instead of running
+- Light weights instead of heavy
+- Stop if you feel worse during workout
+
+### Skip Exercise If:
+- Symptoms are getting worse
+- You feel exhausted
+- Chest congestion develops
+- You have a fever
+
+## Will Exercise Help or Hurt?
+
+### Exercise Might Help (Mild Illness)
+- Light movement can temporarily clear congestion
+- May boost mood
+- Maintains habit
+
+### Exercise Will Hurt (Moderate to Severe)
+- Diverts energy from immune system
+- Can prolong illness
+- Risk of making things worse
+- May spread illness to others (if contagious at gym)
+
+## Returning After Illness
+
+### The Mistake
+Jumping right back to full training → relapse or prolonged fatigue
+
+### The Right Approach
+
+**Day 1-2 Back:**
+- 50% of normal intensity
+- 50% of normal duration
+- Light activity only
+
+**Day 3-4:**
+- 70% intensity
+- 70% duration
+- Still taking it easy
+
+**Day 5+:**
+- Gradually return to normal
+- Listen to body
+- Back off if fatigue returns
+
+**General rule:** For every day you were sick, take one easy day returning.
+
+## Exercising Around Others When Sick
+
+### Gym Etiquette
+- If contagious, stay home
+- Don't spread illness to others
+- Even mild cold germs spread easily in gyms
+
+### Home Workout Instead
+- If mildly sick but contagious, exercise at home
+- Light home workout is better than infecting others
+- Walk outside (away from people) if you need air
+
+## Preventing Exercise-Related Illness
+
+### Recovery Matters
+- Overtraining suppresses immune system
+- Adequate sleep is crucial
+- Rest days allow immune system to function
+
+### Basic Prevention
+- Wash hands frequently
+- Don't share water bottles
+- Wipe equipment before use
+- Get adequate sleep
+- Manage stress
+
+## When to See a Doctor
+
+### Seek Care If:
+- Symptoms last more than 10 days
+- Symptoms suddenly worsen
+- High fever (102°F+)
+- Difficulty breathing
+- Chest pain
+- Symptoms improve then get worse
+
+### Before Returning to Exercise After Serious Illness:
+- Get clearance for intense exercise if you had:
+  - COVID-19 (especially with symptoms)
+  - Flu with high fever
+  - Any heart-related symptoms
+  - Prolonged illness
+
+## Decision Framework
+
+### Step 1: Take Your Temperature
+- Fever? No exercise.
+
+### Step 2: Assess Symptoms
+- Below the neck? No exercise.
+- Above the neck only? Maybe light exercise.
+
+### Step 3: Check Energy Level
+- Exhausted? No exercise.
+- Okay energy? Light exercise might be fine.
+
+### Step 4: Consider Others
+- Contagious? Exercise alone or skip.
+
+### When in Doubt: Rest
+One missed workout means nothing long-term. A week of forced rest from prolonged illness is worse.
+
+## The Bottom Line
+
+**Rest when:**
+- Fever present
+- Below-the-neck symptoms
+- Flu, stomach bugs, COVID-19
+- Feeling exhausted
+
+**Light exercise may be OK when:**
+- Only above-the-neck symptoms
+- No fever
+- Decent energy
+- Symptoms are mild
+
+**Always:**
+- Listen to your body
+- Reduce intensity when sick
+- Return gradually after illness
+- Stay home if contagious
+
+Missing a few workouts won't ruin your fitness. Training sick can make everything worse.
+
+---
+
+*Foundational Rehab encourages appropriate rest and recovery as part of a sustainable fitness approach.*
+    \`
   }
 };
 
