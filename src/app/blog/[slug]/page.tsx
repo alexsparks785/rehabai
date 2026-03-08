@@ -74072,6 +74072,1022 @@ Stop fearing the weights. Start lifting them. Eat well. Be consistent. That's ho
 
 *Foundational Rehab teaches effective strength training for real body composition results.*
     \`
+  },
+  'running-for-beginners-start': {
+    title: 'Running for Beginners: How to Start Running from Scratch',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Cardio',
+    readTime: '7 min read',
+    content: \`
+## Can Anyone Become a Runner?
+
+Yes. Running is a skill anyone can develop.
+
+You don't need to be athletic. You don't need to be thin. You don't need special talent.
+
+You need patience, the right approach, and consistency.
+
+## Before You Start
+
+### Check with Your Doctor If:
+- You have heart or cardiovascular conditions
+- You're significantly overweight (high impact concerns)
+- You have joint problems (knees, hips, ankles)
+- You haven't exercised in years
+- You have any condition affecting breathing
+
+### Gear Essentials
+
+**Running Shoes (Most Important)**
+- Go to a running store for fitting
+- Expect to spend $100-150
+- Replace every 300-500 miles
+- Don't run in worn-out sneakers
+
+**Clothing**
+- Moisture-wicking materials
+- Nothing cotton (gets heavy when wet)
+- Comfortable, non-chafing fit
+- Sports bra with good support (women)
+
+**Optional But Helpful**
+- Running watch or phone app
+- Reflective gear (if running in low light)
+- Body Glide (prevents chafing)
+
+## The Walk-Run Method
+
+**The biggest beginner mistake:** Running too fast, too far, too soon.
+
+**The solution:** Walk-run intervals.
+
+### Why Walk-Run Works
+- Builds endurance gradually
+- Reduces injury risk
+- Makes running enjoyable (not torture)
+- Allows proper form even when tired
+
+### How It Works
+Alternate running and walking in timed intervals. Over weeks, increase run time, decrease walk time.
+
+## 8-Week Beginner Running Program
+
+### Week 1-2: Building Base
+
+**3-4 sessions per week, 20-25 minutes total**
+
+**Session structure:**
+- 5 min walk (warm-up)
+- Alternate: 1 min run / 2 min walk × 5
+- 5 min walk (cool-down)
+
+**Run pace:** Conversational (can speak full sentences)
+
+### Week 3-4: Extending Runs
+
+**3-4 sessions per week, 25-30 minutes total**
+
+**Session structure:**
+- 5 min walk warm-up
+- Alternate: 2 min run / 1 min walk × 6-7
+- 5 min walk cool-down
+
+### Week 5-6: Building Endurance
+
+**3-4 sessions per week, 30 minutes total**
+
+**Session structure:**
+- 5 min walk warm-up
+- Alternate: 3 min run / 1 min walk × 5
+- 5 min walk cool-down
+
+### Week 7-8: Continuous Running
+
+**3-4 sessions per week, 30 minutes total**
+
+**Session structure:**
+- 5 min walk warm-up
+- 5 min run / 1 min walk × 3-4
+- Or attempt 15-20 min continuous run
+- 5 min walk cool-down
+
+### After Week 8
+
+You should be able to run 15-20 minutes continuously. From here:
+- Add 5 minutes per week
+- Keep one shorter, one longer run
+- Work toward 30 minutes continuous
+- Then train for 5K if desired
+
+## Running Form Basics
+
+### Posture
+- Stand tall, slight forward lean from ankles
+- Head balanced over spine
+- Shoulders relaxed, not hunched
+- Arms bent at 90°, swinging forward/back
+
+### Foot Strike
+- Land under your body, not way out front
+- Midfoot strike is ideal for most
+- Don't overstride
+- Quick, light steps
+
+### Cadence
+- Aim for 170-180 steps per minute
+- Faster cadence = less impact per step
+- Use a metronome app to practice
+
+### Breathing
+- Natural rhythm
+- Belly breathe, not chest
+- In through nose and mouth, out through mouth
+- Don't worry about patterns — find what works
+
+## Common Beginner Mistakes
+
+### 1. Running Too Fast
+
+**Mistake:** Sprinting from the start
+**Reality:** Should be able to hold a conversation
+**Fix:** Slow way down. No, slower than that.
+
+### 2. Running Every Day
+
+**Mistake:** No rest days
+**Reality:** Body adapts during rest
+**Fix:** Run every other day initially (3-4x/week max)
+
+### 3. Increasing Too Quickly
+
+**Mistake:** Doubling distance week over week
+**Reality:** Leads to injury
+**Fix:** 10% rule — increase weekly mileage by max 10%
+
+### 4. Ignoring Pain
+
+**Mistake:** Running through sharp or lasting pain
+**Reality:** Injury gets worse
+**Fix:** Rest, ice, see doctor if it persists
+
+### 5. Skipping Warm-Up
+
+**Mistake:** Running hard immediately
+**Reality:** Cold muscles are injury-prone
+**Fix:** Always walk 5 minutes first
+
+## Preventing Running Injuries
+
+### Most Common Injuries
+- Runner's knee (patellofemoral pain)
+- Shin splints
+- IT band syndrome
+- Plantar fasciitis
+- Achilles tendinitis
+
+### Prevention Strategies
+
+**1. Progress gradually**
+- 10% rule for mileage
+- Don't skip weeks in your program
+
+**2. Strengthen supporting muscles**
+- Hip exercises (glute bridges, clamshells)
+- Core work (planks, dead bugs)
+- Calf strengthening
+
+**3. Proper shoes**
+- Right fit, right support
+- Replace when worn
+
+**4. Listen to your body**
+- Distinguish soreness from injury
+- Rest when something feels wrong
+
+**5. Include variety**
+- Don't just run
+- Add strength training, walking, cross-training
+
+## Running Motivation
+
+### The First Mile Is a Lie
+
+The first 5-10 minutes of a run often feel hard, even for experienced runners. This is normal — your body is adjusting.
+
+If you always stop when it feels hard, you'll never get past this phase.
+
+### Find Your Why
+- Health benefits
+- Stress relief
+- Weight management
+- Social running (groups, events)
+- Accomplishing something difficult
+
+### Make It Easier
+- Same time each day
+- Lay out clothes the night before
+- Start with just getting out the door
+- Run with others
+- Register for a race (accountability)
+
+## What to Expect
+
+### Week 1-2
+- Everything feels hard
+- May be very slow
+- That's completely normal
+
+### Week 3-4
+- Running intervals start to feel easier
+- Still challenging but manageable
+- Confidence building
+
+### Week 5-6
+- Noticeable endurance improvement
+- Running feels more natural
+- May start enjoying it
+
+### Week 7-8
+- Continuous running possible
+- Post-run feeling is great
+- You're becoming a runner
+
+### Month 3+
+- Running feels normal
+- Fitness noticeably improved
+- Ready for bigger goals (5K, etc.)
+
+## After You Can Run 30 Minutes
+
+### Option 1: Run a 5K
+- ~3.1 miles, achievable goal
+- Many community races
+- Sign up for one 4-6 weeks out
+- Follow a 5K training plan
+
+### Option 2: Build Base
+- Keep running 30 min, 3-4x/week
+- Add one longer run (40+ min on weekend)
+- Focus on consistency, not speed
+
+### Option 3: Add Variety
+- Mix running with other activities
+- Swimming, cycling, strength training
+- Prevent overuse, stay well-rounded
+
+## The Bottom Line
+
+To start running:
+
+1. **Get proper shoes** — Visit a running store
+2. **Use walk-run method** — Don't try to run continuously at first
+3. **Run slow** — Conversational pace
+4. **Be patient** — Takes 6-8 weeks to feel natural
+5. **Stay consistent** — 3-4 times per week
+6. **Progress gradually** — 10% rule
+
+Anyone can become a runner. You just have to start slower than you think and be patient with the process.
+
+---
+
+*Foundational Rehab supports runners with injury prevention and strength training programs.*
+    \`
+  },
+  'cycling-for-beginners-guide': {
+    title: 'Cycling for Beginners: How to Start Biking for Fitness',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Cardio',
+    readTime: '6 min read',
+    content: \`
+## Why Cycling?
+
+Cycling is one of the best forms of exercise:
+
+- **Low impact** — Easy on joints (knees, hips, ankles)
+- **Cardiovascular** — Excellent heart and lung workout
+- **Scalable** — From leisurely rides to intense training
+- **Outdoor or indoor** — Bikes or stationary options
+- **Transportation** — Exercise that gets you somewhere
+
+If running is hard on your body, cycling may be your answer.
+
+## Getting Started
+
+### Types of Bikes
+
+**Road Bike**
+- Lightweight, thin tires
+- Fast on pavement
+- Requires more balance
+- Most efficient for distance
+
+**Hybrid Bike**
+- Mix of road and mountain
+- Comfortable upright position
+- Good for beginners
+- Versatile for paths and streets
+
+**Mountain Bike**
+- Thick tires, suspension
+- For trails and rough terrain
+- Heavier, slower on pavement
+- Very stable
+
+**Stationary/Indoor Bike**
+- No balance required
+- Weather-independent
+- Great for beginners
+- Spin bike or recumbent options
+
+**For beginners:** Hybrid bike (outdoor) or stationary bike (indoor) are easiest to start with.
+
+### Basic Gear
+
+**Essential:**
+- Helmet (always)
+- Bike that fits properly
+- Water bottle
+
+**Recommended:**
+- Padded cycling shorts
+- Gloves (prevent hand numbness)
+- Cycling shoes (for clipless pedals, later)
+
+### Bike Fit Basics
+
+**Seat height:** When seated, leg should be almost straight at bottom of pedal stroke (slight bend in knee)
+
+**Seat position:** Knee over pedal spindle when crank is horizontal
+
+**Handlebar height:** Comfortable reach without straining back or neck
+
+**If unsure:** Get a professional bike fit at a bike shop
+
+## Beginner Cycling Program
+
+### Week 1-2: Getting Comfortable
+
+**3 rides per week, 15-20 minutes each**
+
+**Focus:**
+- Getting used to the bike
+- Finding comfortable gears
+- Maintaining steady pedaling
+- Flat routes, low intensity
+
+### Week 3-4: Building Base
+
+**3-4 rides per week, 20-30 minutes each**
+
+**Focus:**
+- Slightly longer rides
+- Still conversational effort
+- Practice smooth gear shifting
+- Explore different routes
+
+### Week 5-6: Increasing Duration
+
+**3-4 rides per week, 30-40 minutes each**
+
+**Focus:**
+- One longer ride on weekend (45+ min)
+- Two shorter weekday rides
+- Include some gentle hills
+
+### Week 7-8: Adding Variety
+
+**3-4 rides per week, 30-45 minutes each**
+
+**Add:**
+- Interval training (1 min hard, 2 min easy)
+- Longer weekend ride (60 min)
+- Variety in terrain
+
+### After 8 Weeks
+
+You'll have a solid cycling base. From here:
+- Continue building distance
+- Add interval training for fitness
+- Try group rides
+- Consider event goals (charity rides, etc.)
+
+## Indoor Cycling Options
+
+### Spin Bike
+- Adjustable resistance
+- Upright riding position
+- Great for HIIT workouts
+
+### Recumbent Bike
+- Seated with back support
+- Very low impact
+- Good for beginners or those with back issues
+
+### Smart Trainer
+- Attach real bike to trainer
+- Connect to apps (Zwift, etc.)
+- Simulates outdoor riding
+
+### Indoor Cycling Tips
+- Fan for cooling
+- Music or entertainment
+- Structured workouts prevent boredom
+- Don't underestimate intensity
+
+## Cycling Technique
+
+### Pedaling
+- Aim for 80-100 RPM (revolutions per minute)
+- Smooth circles, not just pushing down
+- Use easier gear with higher cadence vs. grinding hard gear
+
+### Gear Shifting
+- Shift before you need to (before the hill, not on it)
+- Easy gears = faster pedaling, less resistance
+- Hard gears = slower pedaling, more resistance
+- Find the gear that lets you maintain cadence
+
+### Cornering
+- Slow before the turn, not during
+- Outside pedal down (weight on it)
+- Look where you want to go
+- Lean the bike, not just your body
+
+### Hills
+- Shift early to easier gear
+- Stay seated for moderate hills
+- Stand for steep/short hills
+- Pace yourself — don't blow up at the bottom
+
+## Common Cycling Issues
+
+### Knee Pain
+
+**Causes:** Seat too low, seat too forward, pushing too hard a gear
+
+**Fixes:**
+- Check seat height (leg almost straight at bottom)
+- Use easier gears, spin faster
+- Strengthen quads and hips off the bike
+
+### Saddle Soreness
+
+**Causes:** Wrong saddle, poor position, no padded shorts
+
+**Fixes:**
+- Padded cycling shorts
+- Chamois cream (anti-friction)
+- Try different saddle shapes
+- Gradually build sitting time
+
+### Hand Numbness
+
+**Causes:** Too much pressure on hands, gripping too tight
+
+**Fixes:**
+- Padded gloves
+- Change hand positions frequently
+- Relax grip
+- Check handlebar height
+
+### Neck/Back Pain
+
+**Causes:** Poor fit, weak core, looking up too much
+
+**Fixes:**
+- Adjust handlebar height
+- Core strengthening
+- Take breaks on long rides
+- Relax shoulders
+
+## Cycling Safety
+
+### Rules of the Road
+- Ride with traffic, not against
+- Use hand signals for turns
+- Follow traffic laws (stop signs, lights)
+- Be predictable
+
+### Visibility
+- Bright clothing
+- Front and rear lights (always for low light)
+- Reflective elements
+- Assume drivers don't see you
+
+### Awareness
+- Watch for car doors opening
+- Be cautious at intersections
+- Avoid headphones (need to hear traffic)
+- Make eye contact with drivers
+
+## Cycling for Different Goals
+
+### Weight Loss
+- Long, steady rides at moderate effort
+- Burn significant calories (400-700/hour)
+- Low impact allows more volume
+- Combine with strength training
+
+### Cardiovascular Fitness
+- Mix steady rides with intervals
+- Include some harder efforts
+- Build duration over time
+- Cross-train with other activities
+
+### Low-Impact Exercise
+- Keep intensity moderate
+- Great for those who can't run
+- Easy on joints
+- Build up slowly
+
+### Commuting
+- Plan route (bike paths, quiet streets)
+- Allow extra time initially
+- Pack/wear appropriate clothing
+- Secure bike storage at destination
+
+## The Bottom Line
+
+Cycling is accessible, effective, and joint-friendly:
+
+1. **Start with a comfortable bike** — Hybrid or stationary for beginners
+2. **Always wear a helmet** — Non-negotiable
+3. **Build gradually** — 15 minutes to 60+ over 8 weeks
+4. **Spin, don't grind** — Higher cadence, easier gears
+5. **Make it enjoyable** — Routes you like, music indoors, social rides
+
+Cycling can be a lifetime activity. Start easy, stay consistent, and enjoy the ride.
+
+---
+
+*Foundational Rehab supports cyclists with strength training and injury prevention programs.*
+    \`
+  },
+  'how-to-stay-consistent-exercise': {
+    title: 'How to Stay Consistent with Exercise: Building Lasting Habits',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Motivation',
+    readTime: '6 min read',
+    content: \`
+## The Real Secret to Fitness
+
+It's not the perfect workout program.
+It's not the optimal diet.
+It's not expensive equipment or gym memberships.
+
+**It's consistency.**
+
+Average workouts done consistently beat perfect workouts done occasionally. Every time.
+
+## Why Consistency Is Hard
+
+### Motivation Is Unreliable
+
+You started strong. Had motivation. Then...
+- Life got busy
+- You got tired
+- The novelty wore off
+- Results weren't instant
+
+Motivation got you started, but motivation doesn't last.
+
+### The Willpower Problem
+
+You can't willpower your way to fitness. Willpower is:
+- Finite (depletes throughout the day)
+- Unreliable (varies day to day)
+- Not a good long-term strategy
+
+**The solution:** Build systems, not willpower.
+
+## Building Exercise Habits
+
+### Habit Anatomy
+
+Every habit has three parts:
+1. **Cue** — What triggers the behavior
+2. **Routine** — The behavior itself
+3. **Reward** — What reinforces the behavior
+
+To build exercise habits, engineer all three.
+
+### Step 1: Create Obvious Cues
+
+**Make it impossible to forget:**
+- Same time every day
+- Phone reminder
+- Calendar appointment
+- Clothes laid out the night before
+- Gym bag by the door
+
+**Stack with existing habits:**
+- After morning coffee → stretch
+- After work → gym
+- After dinner → walk
+
+### Step 2: Make It Easy
+
+**Reduce friction:**
+- Home workouts (no commute)
+- 10 minutes minimum (not 60)
+- Bodyweight exercises (no equipment needed)
+- Workout clothes as regular clothes
+
+**Remove barriers:**
+- Join a gym near home/work
+- Keep equipment visible
+- Have backup plans (gym closed? Home workout)
+
+**The 2-Minute Rule:** Scale down until it takes less than 2 minutes to start.
+- "Exercise for 30 minutes" → "Put on workout clothes"
+- "Go to gym" → "Drive to parking lot"
+- Once you start, you usually continue
+
+### Step 3: Make It Rewarding
+
+**Immediate rewards matter more than distant ones:**
+- Post-workout endorphins (notice them)
+- Check off a calendar (visual progress)
+- Treat yourself (non-food rewards)
+- Social validation (workout partners, sharing progress)
+
+**Track your progress:**
+- Habit tracker apps
+- Calendar X marks
+- Workout log
+- Photos (monthly)
+
+## The Minimum Viable Workout
+
+On days when motivation is zero:
+
+**Do the minimum:**
+- 5 push-ups
+- 5 squats
+- 1 minute plank
+- 5 minute walk
+
+**Why this works:**
+- Maintains the habit
+- Often leads to doing more
+- Never break the chain
+- Bad workout > no workout
+
+## Strategies That Work
+
+### 1. Start Embarrassingly Small
+
+Your ego wants hour-long workouts. Your habits need:
+- 10 minutes, 3 times per week
+- Build from there
+- Consistency before intensity
+
+### 2. Don't Break the Chain
+
+Jerry Seinfeld's method:
+- Mark an X on calendar each day you exercise
+- Don't break the chain
+- Focus on the chain, not results
+
+### 3. Identity-Based Habits
+
+Instead of "I'm trying to exercise more"...
+Say "I'm someone who exercises."
+
+- You're not trying to run, you're a runner
+- You're not trying to get fit, you're an active person
+- Act like the person you want to become
+
+### 4. Environment Design
+
+Your environment shapes behavior:
+- Keep equipment visible
+- Remove friction (clothes ready, etc.)
+- Add friction to competing behaviors (TV, phone)
+- Choose homes/jobs near exercise-friendly areas
+
+### 5. Social Accountability
+
+Humans are social:
+- Workout partner (harder to skip)
+- Group classes (scheduled, social)
+- Tell someone your goals
+- Share progress publicly
+
+### 6. Temptation Bundling
+
+Pair something you have to do with something you want to do:
+- Podcast only during workouts
+- Favorite show only on treadmill
+- Call friends during walks
+
+## When You Miss a Workout
+
+You will miss workouts. It's inevitable.
+
+### The Rules
+
+**1. Never miss twice in a row**
+- One miss is an accident
+- Two misses is the start of a new (bad) habit
+- Get back on track immediately
+
+**2. Miss intentionally, not accidentally**
+- Scheduled rest days are fine
+- Unplanned skips are habit-breaking
+- If you must miss, acknowledge it consciously
+
+**3. Do the minimum**
+- Can't do full workout? Do 10 minutes
+- Can't do 10 minutes? Do 2 minutes
+- Something always beats nothing
+
+## Common Consistency Killers
+
+### 1. All-or-Nothing Thinking
+
+**Problem:** "I can't do my full workout, so why bother?"
+**Fix:** Something > nothing. Always.
+
+### 2. Perfectionism
+
+**Problem:** Waiting for perfect conditions
+**Fix:** Start now, imperfectly
+
+### 3. Going Too Hard Too Fast
+
+**Problem:** Burnout, injury, dreading workouts
+**Fix:** Build slowly, enjoy the process
+
+### 4. No Plan
+
+**Problem:** Deciding what to do each time
+**Fix:** Schedule workouts, follow programs
+
+### 5. Unrealistic Expectations
+
+**Problem:** Expecting fast results, quitting when they don't come
+**Fix:** Think in months and years
+
+## The Long Game
+
+### What Consistency Looks Like
+
+**Week 1:** Motivation high, easy to show up
+**Week 3:** Novelty wearing off, harder
+**Week 6:** Becoming routine, some days still hard
+**Month 3:** Part of identity, feels weird NOT to do it
+**Month 6+:** Automatic, you're a regular exerciser
+
+### Trust the Process
+
+You won't see daily changes. But:
+- Week 1 vs Week 4: noticeable
+- Month 1 vs Month 3: significant
+- Month 1 vs Month 6: transformative
+
+The people with great results? They just didn't quit.
+
+## Your Consistency Action Plan
+
+1. **Pick specific days/times** — Same time, easier to remember
+2. **Start small** — 10-15 minutes minimum
+3. **Make it obvious** — Clothes out, equipment visible
+4. **Make it easy** — Home workouts, no commute
+5. **Track it** — Calendar, app, whatever works
+6. **Never miss twice** — One skip, immediate return
+7. **Find accountability** — Partner, group, public commitment
+
+## The Bottom Line
+
+Consistency beats everything:
+
+1. **Systems > Willpower** — Build habits, don't rely on motivation
+2. **Small > Perfect** — 10 minutes consistently beats hour-long occasionally
+3. **Identity > Goals** — "I am" beats "I want to"
+4. **Something > Nothing** — Never zero, always something
+5. **Long game** — Months and years, not days and weeks
+
+The workout you do consistently is infinitely better than the perfect workout you skip.
+
+---
+
+*Foundational Rehab programs are designed for sustainable, consistent practice.*
+    \`
+  },
+  'how-much-exercise-do-you-need': {
+    title: 'How Much Exercise Do You Need? Science-Based Guidelines',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## The Official Guidelines
+
+Major health organizations agree on minimum exercise recommendations:
+
+### Cardiovascular Exercise
+
+**150 minutes per week** of moderate-intensity aerobic activity
+OR
+**75 minutes per week** of vigorous-intensity aerobic activity
+OR a combination
+
+**Moderate intensity:** Brisk walking, casual cycling, swimming
+**Vigorous intensity:** Running, fast cycling, intense sports
+
+### Strength Training
+
+**2 or more days per week** of muscle-strengthening activities
+- All major muscle groups
+- Sets of 8-12 repetitions
+
+### Breaking It Down
+
+**Weekly minimum:**
+- 150 min cardio = ~22 min/day (or 30 min, 5 days/week)
+- 2 strength sessions
+- **Total: About 3-5 hours per week**
+
+## Is the Minimum Enough?
+
+**For basic health:** Yes, these minimums significantly reduce disease risk.
+
+**For optimal health:** More is better, up to a point.
+
+### What Research Shows
+
+**Mortality reduction:**
+- Meeting guidelines: ~30% lower mortality risk
+- Double the guidelines: ~40% lower mortality risk
+- Diminishing returns beyond 3-5x guidelines
+
+**Translation:** More exercise generally means more benefits, but most of the benefit comes from meeting the minimum.
+
+## Exercise Needs by Goal
+
+### General Health
+
+**Minimum:** 150 min moderate cardio + 2 strength sessions
+**Optimal:** 300 min moderate cardio + 2-3 strength sessions
+
+### Weight Loss
+
+**Need more than minimum:**
+- 200-300+ minutes cardio/week
+- Strength training to preserve muscle
+- Combined with caloric deficit
+
+**Key insight:** Diet matters more than exercise volume for weight loss.
+
+### Building Muscle
+
+**Different focus:**
+- 3-4 strength sessions per week
+- Each muscle group 2x per week
+- Adequate protein and calories
+- Cardio is secondary
+
+### Athletic Performance
+
+**Sport-specific requirements:**
+- Often far exceed health minimums
+- 5-10+ hours per week common
+- Periodized training
+- Recovery becomes critical
+
+### Maintaining Fitness
+
+**Less than building:**
+- Can maintain with ~2/3 of building volume
+- Prioritize strength (hardest to maintain)
+- Intensity matters more than volume for maintenance
+
+## The "I Don't Have Time" Reality
+
+### What Research Shows About Time
+
+- 10-minute sessions count (accumulate throughout day)
+- Even 5 minutes is better than zero
+- Weekend warrior approach works (if total volume is there)
+- High intensity is time-efficient
+
+### Minimum Effective Dose
+
+For health benefits, even small amounts help:
+- 15 minutes walking daily: measurable health improvement
+- 2 x 20-minute strength sessions: meaningful gains
+- Brief intense bursts: cardiovascular benefits
+
+### Time-Efficient Approaches
+
+**HIIT (High-Intensity Interval Training):**
+- 75 min vigorous = 150 min moderate
+- 25 min HIIT, 3x/week = meets guidelines
+
+**Combined Training:**
+- Full-body circuits: strength + cardio
+- 30 min sessions, 3x/week
+
+## Exercise Throughout the Week
+
+### Spreading It Out
+
+**Better than cramming:**
+- Regular exercise: better adherence
+- Consistent stimulus: better adaptation
+- Lower injury risk: less overload
+
+**But weekend warriors still benefit:**
+- If schedule demands it, 1-2 long sessions work
+- Better than skipping altogether
+
+### Sample Schedules
+
+**Minimal (3 hours/week):**
+| Day | Activity |
+|-----|----------|
+| Mon | Strength (30 min) |
+| Wed | Cardio (45 min) |
+| Fri | Strength (30 min) |
+| Sat | Cardio (45 min) |
+
+**Moderate (5 hours/week):**
+| Day | Activity |
+|-----|----------|
+| Mon | Strength (45 min) |
+| Tue | Cardio (30 min) |
+| Wed | Rest |
+| Thu | Strength (45 min) |
+| Fri | Cardio (30 min) |
+| Sat | Long cardio (60 min) |
+| Sun | Rest or light activity |
+
+## Age-Specific Considerations
+
+### Children (6-17)
+- 60 minutes daily moderate-to-vigorous
+- Muscle strengthening 3x/week
+- Bone strengthening 3x/week
+
+### Adults (18-64)
+- Standard guidelines apply
+- Both cardio and strength important
+- Flexibility work beneficial
+
+### Older Adults (65+)
+- Same guidelines if able
+- Add balance training (fall prevention)
+- Modify intensity as needed
+- Something is always better than nothing
+
+## Signs You're Doing Too Much
+
+### Overtraining Indicators
+- Persistent fatigue
+- Declining performance
+- Frequent illness
+- Sleep disturbances
+- Mood changes
+- Chronic soreness
+- Loss of motivation
+
+### Recovery Needs
+
+More isn't always better. Signs you need more rest:
+- Can't complete normal workouts
+- Dreading exercise
+- Injuries accumulating
+- Not progressing despite effort
+
+## The Bottom Line
+
+### Minimum Requirements
+- 150 min/week moderate cardio (or 75 min vigorous)
+- 2 strength sessions per week
+- ~3-5 hours total weekly
+
+### Optimal for Most People
+- 200-300 min/week cardio
+- 2-4 strength sessions
+- Mix of intensities
+
+### Key Principles
+1. **Something > Nothing** — Even small amounts help
+2. **Consistency > Perfection** — Regular moderate beats occasional intense
+3. **Both cardio AND strength** — Each provides unique benefits
+4. **Listen to your body** — Recovery matters too
+5. **Start where you are** — Build up to guidelines
+
+You don't need to exercise for hours daily. Meet the minimums, stay consistent, and you're ahead of most people.
+
+---
+
+*Foundational Rehab programs are designed to meet evidence-based exercise guidelines efficiently.*
+    \`
   }
 };
 
