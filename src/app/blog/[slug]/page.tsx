@@ -68248,6 +68248,793 @@ The right goals, pursued consistently, lead to real results.
 
 *Foundational Rehab helps you set and achieve meaningful fitness goals with structured programs.*
     \`
+  },
+  'eccentric-training-guide': {
+    title: 'Eccentric Training: Why Slow Negatives Build Stronger Muscles',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## What Is Eccentric Training?
+
+Every muscle contraction has two phases:
+
+**Concentric:** Muscle shortens (lifting the weight)
+**Eccentric:** Muscle lengthens (lowering the weight)
+
+Eccentric training emphasizes the lowering phase—typically by moving slowly (3-5 seconds) during the negative portion of each rep.
+
+## Why Eccentrics Are So Effective
+
+### 1. Greater Force Production
+
+You're actually **stronger eccentrically** than concentrically. Your muscles can handle about 20-40% more load during the lowering phase. This extra tension creates more stimulus for adaptation.
+
+### 2. More Muscle Damage (Good Kind)
+
+Eccentric contractions cause more microscopic muscle fiber damage. This triggers stronger repair and adaptation responses, leading to:
+
+- Greater muscle growth (hypertrophy)
+- Increased strength gains
+- Better tendon adaptation
+
+### 3. Tendon Healing
+
+Eccentric exercises are the gold standard for treating tendinopathies:
+
+- Achilles tendinopathy
+- Patellar tendinopathy
+- Tennis elbow
+- Rotator cuff tendinopathy
+
+The controlled loading stimulates tendon remodeling and healing.
+
+## How to Implement Eccentric Training
+
+### Tempo Training
+
+Control the eccentric phase for 3-5 seconds:
+
+**Example: Squat with 4-0-2 tempo**
+- 4 seconds down (eccentric)
+- 0 pause at bottom
+- 2 seconds up (concentric)
+
+### Accentuated Eccentrics
+
+Use heavier weight for the lowering phase:
+
+**Example: Leg curl machine**
+- Lift with both legs (concentric)
+- Lower with one leg (eccentric)
+
+### Pure Eccentric Training
+
+Lower weight only, skip the lifting phase:
+
+**Example: Nordic hamstring curl**
+- Start kneeling, slowly lower chest to floor
+- Use hands to push back up (skip concentric)
+
+## Key Eccentric Exercises
+
+### For Achilles Tendinopathy
+
+**Eccentric Heel Drop (Alfredson Protocol)**
+1. Stand on edge of step on injured leg
+2. Rise up on toes
+3. Lower heel below step level over 3-5 seconds
+4. Use other leg to help return to start
+5. 3 sets of 15, twice daily
+
+### For Patellar Tendinopathy
+
+**Eccentric Decline Squat**
+1. Stand on 25-degree decline board
+2. Single-leg squat lowering over 4 seconds
+3. Use other leg to help stand back up
+4. 3 sets of 15, twice daily
+
+### For Tennis Elbow
+
+**Eccentric Wrist Extension**
+1. Support forearm, palm down
+2. Use other hand to lift wrist up
+3. Slowly lower over 4 seconds
+4. 3 sets of 15, daily
+
+### For General Strength
+
+**Eccentric Push-Up**
+1. Start at top of push-up
+2. Lower over 5 seconds
+3. Drop knees, push back up normally
+4. 3 sets of 8-10
+
+## Eccentric Training Guidelines
+
+### Frequency
+- 2-3 times per week for strength training
+- Daily for tendon rehabilitation (lighter load)
+
+### Progression
+- Start with bodyweight or light load
+- Add time under tension before adding weight
+- Progress slowly—eccentrics cause more soreness
+
+### Expect Delayed Soreness
+- DOMS (delayed onset muscle soreness) peaks 24-72 hours after
+- This is normal and decreases with adaptation
+- Don't increase load until soreness resolves
+
+## Common Mistakes
+
+1. **Going too fast** — The slow tempo is the whole point
+2. **Too much too soon** — Start lighter than you think
+3. **Ignoring form** — Control beats speed
+4. **Skipping recovery** — More soreness = more rest needed
+
+## Sample Eccentric Workout
+
+**Full body, 2x per week:**
+
+1. **Eccentric Pull-Up** (or lat pulldown): 3x6-8, 4 sec down
+2. **Eccentric Push-Up**: 3x8-10, 4 sec down
+3. **Eccentric Romanian Deadlift**: 3x8, 4 sec down
+4. **Eccentric Squat**: 3x8, 4 sec down
+5. **Eccentric Calf Raise**: 3x12, 4 sec down
+
+## The Bottom Line
+
+Eccentric training is underused but highly effective for:
+
+- Building muscle and strength
+- Rehabilitating tendons
+- Improving muscle control
+- Breaking through plateaus
+
+Start with tempo work on exercises you already know. Focus on control, not weight. Your muscles (and tendons) will thank you.
+
+---
+
+*Foundational Rehab programs include eccentric protocols for rehabilitation and strength building.*
+    \`
+  },
+  'isometric-exercises-strength': {
+    title: 'Isometric Exercises: Build Strength Without Movement',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## What Are Isometric Exercises?
+
+Isometric exercises involve muscle contraction **without joint movement**. You push or pull against an immovable resistance, or hold a position under tension.
+
+**Examples:**
+- Wall sit (holding squat position)
+- Plank (holding push-up position)
+- Pushing palms together in front of chest
+
+## Why Use Isometrics?
+
+### 1. Joint-Friendly
+
+No joint movement means minimal joint stress. Ideal for:
+- Arthritis (maintain strength without aggravating joints)
+- Post-injury rehab (strengthen without range of motion)
+- Pain management (can often train around painful ranges)
+
+### 2. Strength at Specific Angles
+
+Isometrics build strength at the angle you train. Useful for:
+- Strengthening weak points in a movement
+- Training end-range positions
+- Sport-specific positions
+
+### 3. Pain Reduction
+
+Isometrics have an analgesic (pain-reducing) effect:
+- Tendinopathy: 45-second holds reduce pain
+- Pre-workout: Can reduce pain before other exercises
+- During flares: Maintain strength without worsening symptoms
+
+### 4. Anywhere, No Equipment
+
+Most isometrics need no equipment—just push against a wall, floor, or your own body.
+
+## Types of Isometric Exercises
+
+### Yielding Isometrics
+Hold a position against gravity or load:
+- Plank
+- Wall sit
+- Dead hang
+
+### Overcoming Isometrics
+Push/pull against an immovable object:
+- Pushing against a wall
+- Pulling on a doorframe
+- Pressing hands together
+
+### Quasi-Isometrics
+Very slow movement that's almost isometric:
+- 30-second rep squats
+- Super slow push-ups
+
+## Key Isometric Exercises
+
+### Core
+
+**Plank**
+- On forearms and toes, body straight
+- Don't let hips sag or pike up
+- Hold 20-60 seconds
+
+**Side Plank**
+- On forearm and side of foot
+- Hips stacked, body straight
+- Hold 20-45 seconds each side
+
+**Dead Bug Hold**
+- On back, arms toward ceiling, knees at 90°
+- Lower opposite arm/leg, hold 1 inch off floor
+- Hold 10-30 seconds each side
+
+### Lower Body
+
+**Wall Sit**
+- Back flat against wall, thighs parallel to floor
+- Knees at 90°, feet flat
+- Hold 30-60 seconds
+
+**Single-Leg Wall Sit**
+- Same position, one foot lifted
+- Much harder—start with 10-15 seconds
+
+**Glute Bridge Hold**
+- Bridge up, hold at top
+- Squeeze glutes hard
+- Hold 30-60 seconds
+
+**Split Squat Hold**
+- Bottom of split squat position
+- Back knee just off floor
+- Hold 20-30 seconds each side
+
+### Upper Body
+
+**Push-Up Hold**
+- Bottom of push-up, hover 2 inches off floor
+- Elbows at 45°
+- Hold 15-30 seconds
+
+**Chin-Up Hold**
+- Top of chin-up, chin over bar
+- Hold 10-20 seconds
+
+**Chest Squeeze**
+- Palms together at chest, fingers pointing forward
+- Push hands together hard
+- Hold 20-30 seconds
+
+**Wall Push**
+- Palms on wall at chest height
+- Push hard into wall
+- Hold 20-30 seconds
+
+## Isometrics for Pain and Rehab
+
+### Tendinopathy Protocol
+
+Research shows 45-second isometric holds reduce tendon pain:
+
+**Example: Patellar Tendinopathy**
+1. Leg extension machine or wall sit
+2. 45-second hold at 70% max effort
+3. 4-5 reps with 2-minute rest between
+4. Perform before activity or as standalone
+
+**Why it works:** Prolonged holds reduce cortical inhibition and pain signals
+
+### Arthritis
+
+- Isometrics maintain strength without joint grinding
+- Multiple angles to build strength through range
+- Example: Quad sets at 0°, 45°, 90° knee flexion
+
+### Post-Injury/Surgery
+
+- Can start isometrics very early in rehab
+- Build strength while protecting healing tissue
+- Example: Quad sets immediately after knee surgery
+
+## Programming Isometrics
+
+### For Strength
+
+- Hold for 6-10 seconds
+- High effort (80-100% max)
+- 3-5 sets
+- Train multiple angles (every 15-20° through range)
+
+### For Pain Relief
+
+- Hold for 30-45 seconds
+- Moderate effort (60-80% max)
+- 4-5 sets with rest
+- 1-2 times daily during flares
+
+### For Endurance
+
+- Hold as long as possible
+- Moderate effort (50-70% max)
+- 2-3 sets
+- 2-3 times per week
+
+### For Warm-Up Activation
+
+- Hold for 5-10 seconds
+- Moderate-high effort (70-80% max)
+- 1-2 sets
+- Immediately before main exercise
+
+## Sample Isometric Workout
+
+**Full body, no equipment:**
+
+1. **Wall Sit:** 3 x 45 sec
+2. **Plank:** 3 x 45 sec
+3. **Glute Bridge Hold:** 3 x 30 sec
+4. **Push-Up Bottom Hold:** 3 x 20 sec
+5. **Side Plank:** 2 x 30 sec each side
+6. **Split Squat Hold:** 2 x 20 sec each side
+
+## The Bottom Line
+
+Isometric exercises are valuable tools for:
+
+- Pain management (especially tendinopathy)
+- Joint-friendly strengthening
+- Rehab when movement is limited
+- Position-specific strength
+- Anywhere, anytime training
+
+Add isometric holds to your routine—they complement dynamic exercises and provide unique benefits.
+
+---
+
+*Foundational Rehab uses isometric exercises throughout rehabilitation protocols for safe, effective strengthening.*
+    \`
+  },
+  'plyometric-training-beginners': {
+    title: 'Plyometric Training Basics: Explosive Power for Beginners',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## What Is Plyometric Training?
+
+Plyometrics ("plyo" for short) are explosive exercises that use the **stretch-shortening cycle**—a quick stretch of the muscle followed immediately by a powerful contraction.
+
+**Examples:**
+- Box jumps
+- Jump squats
+- Clap push-ups
+- Medicine ball throws
+
+## The Science: Stretch-Shortening Cycle
+
+When you land from a jump or catch a medicine ball, your muscles briefly stretch. This stretch stores elastic energy like a rubber band. If you immediately contract (jump again, throw the ball), you use that stored energy plus muscle force for more power than either alone.
+
+**The key:** Quick transition from stretch to contraction. Slow transitions lose the elastic energy.
+
+## Benefits of Plyometrics
+
+### 1. Power Development
+Power = Force × Speed. Plyos train both together.
+
+### 2. Sport Performance
+Most sports require explosive movements—jumping, sprinting, throwing, cutting.
+
+### 3. Bone Health
+High-impact training stimulates bone density improvements.
+
+### 4. Athletic Movement Patterns
+Plyos train reactive strength—responding quickly to force.
+
+### 5. Time Efficiency
+High stimulus in short workouts.
+
+## Are You Ready for Plyometrics?
+
+### Prerequisites
+
+**Minimum requirements before starting plyos:**
+- Squat your bodyweight (at least 1.5x for advanced plyos)
+- Single-leg balance for 30 seconds
+- No current joint pain
+- Ability to land softly
+
+**Why this matters:** Plyometrics are high-force. Without adequate strength, you risk injury.
+
+### Start with Landing Skills
+
+Before jumping, learn to land:
+
+**Drop Landing Practice**
+1. Step off a low box (6-12 inches)
+2. Land softly with bent knees
+3. Absorb through hips, knees, ankles
+4. Quiet landings—minimal sound
+
+**Progress to:**
+- Higher boxes
+- Single-leg landings
+- Lateral step-offs
+
+## Plyometric Categories
+
+### Low Intensity (Beginners)
+- Pogo hops in place
+- Skipping
+- Jumping rope
+- Box step-ups with quick knee drive
+
+### Moderate Intensity (Intermediate)
+- Box jumps (jump up, step down)
+- Jump squats
+- Split squat jumps
+- Lateral bounds
+- Medicine ball chest pass
+
+### High Intensity (Advanced)
+- Depth jumps (step off box, immediately jump)
+- Single-leg hops
+- Multiple hurdle jumps
+- Clap push-ups
+- Bounding
+
+## Beginner Plyometric Exercises
+
+### Pogo Hops
+1. Small bounces on toes, minimal knee bend
+2. Quick, rhythmic—like a pogo stick
+3. 2-3 sets of 20 hops
+
+### Squat Jump
+1. Start in quarter squat
+2. Jump straight up, arms overhead
+3. Land softly, reset, repeat
+4. 3 sets of 5-8 jumps
+
+### Box Jump (Step Down)
+1. Face low box (12-18 inches)
+2. Jump onto box, land softly
+3. Stand up, step down carefully
+4. 3 sets of 5 jumps
+
+### Split Squat Jump
+1. Start in split squat position
+2. Jump and switch legs in air
+3. Land softly in opposite split squat
+4. 3 sets of 6 total (3 each side)
+
+### Medicine Ball Chest Pass
+1. Stand facing wall, holding med ball at chest
+2. Explosively push ball into wall
+3. Catch and immediately repeat
+4. 3 sets of 8 throws
+
+### Lateral Bounds
+1. Stand on one leg
+2. Bound sideways, land on opposite leg
+3. Absorb, then bound back
+4. 3 sets of 6 each direction
+
+## Programming Guidelines
+
+### Volume (Contacts/Session)
+
+**Beginners:** 60-80 foot contacts per session
+**Intermediate:** 80-120 contacts
+**Advanced:** 120-150+ contacts
+
+Count each jump/hop/landing as one contact.
+
+### Frequency
+
+- 1-2 plyo sessions per week (beginners)
+- 2-3 sessions (intermediate/advanced)
+- 48-72 hours rest between plyo sessions
+
+### Rest Between Sets
+
+- 1-2 minutes for low intensity
+- 2-3 minutes for high intensity
+
+**Why rest matters:** Plyos train the nervous system. Fatigue compromises power and increases injury risk.
+
+### When to Do Plyos
+
+- Early in workout, after warm-up
+- Before strength training (power before strength)
+- When fresh, not fatigued
+
+## Safety Guidelines
+
+### 1. Quality Over Quantity
+Stop when form breaks down. Sloppy plyos = injuries.
+
+### 2. Progress Slowly
+Add intensity/volume gradually—10-15% per week max.
+
+### 3. Land Softly
+If landings are loud, you need more leg strength before progressing.
+
+### 4. Use Proper Surfaces
+Firm but forgiving—gym floor, grass, rubber track. Avoid concrete.
+
+### 5. Good Footwear
+Supportive athletic shoes with cushioning.
+
+### 6. No Plyos When Fatigued
+Don't add plyos to the end of a hard workout.
+
+## Sample Beginner Program
+
+**8-Week Progression:**
+
+**Weeks 1-2: Landing Focus**
+- Drop landings: 3 x 8
+- Pogo hops: 3 x 15
+- Total contacts: ~60
+
+**Weeks 3-4: Low Plyos**
+- Pogo hops: 2 x 15
+- Squat jumps: 3 x 5
+- Box jumps (step down): 3 x 5
+- Total contacts: ~70
+
+**Weeks 5-6: Add Variety**
+- Pogo hops: 2 x 15
+- Box jumps: 3 x 6
+- Split squat jumps: 3 x 6
+- Lateral bounds: 2 x 6 each
+- Total contacts: ~90
+
+**Weeks 7-8: Progress Intensity**
+- Box jumps (higher box): 3 x 5
+- Squat jumps: 3 x 6
+- Broad jumps: 3 x 5
+- Lateral bounds: 3 x 6 each
+- Total contacts: ~90
+
+## Common Mistakes
+
+1. **Skipping the strength base** — Get strong first
+2. **Too much volume** — Quality > quantity
+3. **No rest between reps** — Reset each rep for max power
+4. **Loud landings** — Sign of poor absorption
+5. **Plyos when tired** — Recipe for injury
+
+## The Bottom Line
+
+Plyometric training builds explosive power that transfers to sport and daily life. But it demands respect:
+
+1. Build a strength base first
+2. Master landing before jumping
+3. Progress slowly and systematically
+4. Prioritize quality over volume
+5. Rest adequately
+
+Done right, plyos are incredibly effective. Done wrong, they're injury machines.
+
+---
+
+*Foundational Rehab programs include appropriate power development progressions based on your current fitness level.*
+    \`
+  },
+  'heart-rate-training-zones': {
+    title: 'Heart Rate Training Zones: A Complete Guide',
+    date: '2026-03-08',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## What Are Heart Rate Training Zones?
+
+Training zones are intensity ranges based on your heart rate. Different zones stress your body differently and produce different adaptations.
+
+Training in the right zone ensures you're working at the right intensity for your goal—whether that's building endurance, improving speed, or burning fat.
+
+## How to Calculate Your Zones
+
+### Step 1: Find Your Maximum Heart Rate
+
+**Simple formula:** 220 - your age = estimated max HR
+
+*Example: 220 - 40 = 180 bpm max HR*
+
+**More accurate:** The Tanaka formula: 208 - (0.7 × age)
+
+*Example: 208 - (0.7 × 40) = 180 bpm*
+
+**Most accurate:** Lab testing or a recent all-out effort (sprint at the end of a hard workout)
+
+### Step 2: Apply Zone Percentages
+
+Most systems use 5 zones based on percentage of max HR:
+
+| Zone | % of Max HR | Example (180 max) |
+|------|-------------|-------------------|
+| 1 | 50-60% | 90-108 bpm |
+| 2 | 60-70% | 108-126 bpm |
+| 3 | 70-80% | 126-144 bpm |
+| 4 | 80-90% | 144-162 bpm |
+| 5 | 90-100% | 162-180 bpm |
+
+## The 5 Training Zones Explained
+
+### Zone 1: Recovery (50-60% max HR)
+
+**Feel:** Very easy, could have a full conversation
+**Purpose:** Active recovery, warm-up, cool-down
+**Fuel:** Mostly fat
+**Example:** Easy walk, gentle cycling
+
+**When to use:**
+- Recovery days
+- Warm-up and cool-down
+- Between high-intensity intervals
+
+### Zone 2: Aerobic Base (60-70% max HR)
+
+**Feel:** Easy to moderate, can talk comfortably
+**Purpose:** Build aerobic engine, fat burning
+**Fuel:** Primarily fat
+**Example:** Easy jog, moderate cycling
+
+**When to use:**
+- The majority of endurance training (80%+)
+- Long workouts
+- Building cardiovascular base
+
+**Why Zone 2 matters:** This is where most of your training should happen. Zone 2 builds mitochondria, improves fat burning, and develops the aerobic foundation that supports all other training.
+
+### Zone 3: Tempo (70-80% max HR)
+
+**Feel:** Moderate to hard, can speak in short sentences
+**Purpose:** Improve lactate clearance, race pace for long events
+**Fuel:** Mix of fat and carbs
+**Example:** Tempo run, hard cycling
+
+**When to use:**
+- Tempo runs
+- Sustained efforts (20-40 minutes)
+- Race-specific training
+
+**Caution:** Many people train here too much—too hard to build base, not hard enough to build speed. Limit Zone 3 work.
+
+### Zone 4: Threshold (80-90% max HR)
+
+**Feel:** Hard, can only speak a few words
+**Purpose:** Improve lactate threshold, sustainable speed
+**Fuel:** Primarily carbohydrates
+**Example:** Interval training, hard tempo
+
+**When to use:**
+- Threshold intervals (4-20 minutes)
+- Raising sustainable race pace
+- 1-2 sessions per week maximum
+
+### Zone 5: VO2max (90-100% max HR)
+
+**Feel:** Very hard to maximal, cannot speak
+**Purpose:** Improve VO2max, maximum speed
+**Fuel:** Carbohydrates (anaerobic)
+**Example:** Sprints, all-out intervals
+
+**When to use:**
+- Short, intense intervals (30 sec - 3 min)
+- Peak fitness development
+- Sparingly—very demanding
+
+## The 80/20 Principle
+
+Research consistently shows elite endurance athletes train with:
+
+- **80%** easy (Zone 1-2)
+- **20%** hard (Zone 4-5)
+
+Most recreational athletes do the opposite—too much Zone 3 (moderate-hard), not enough Zone 2 (easy) or Zone 5 (hard).
+
+**The fix:** Make your easy days easier and your hard days harder.
+
+## How to Monitor Heart Rate
+
+### Chest Strap
+Most accurate. Measures electrical signals directly.
+Good options: Polar, Garmin, Wahoo
+
+### Optical Wrist Monitor
+Convenient but less accurate, especially during high intensity or certain movements.
+Built into most fitness watches.
+
+### Perceived Exertion
+Learn what each zone feels like. Eventually, you won't need to check constantly.
+
+## Practical Zone Training
+
+### For General Fitness
+
+**Weekly structure:**
+- 2-3 Zone 2 sessions (30-60 min)
+- 1 Zone 4 session (intervals)
+- 1-2 Zone 1 recovery sessions
+
+### For Weight Loss
+
+Despite "fat-burning zone" marketing, total calories matter more than fuel source. But Zone 2 is sustainable for longer workouts, which burns more total calories.
+
+**Recommendation:** Mostly Zone 2 with some Zone 4 intervals
+
+### For Endurance Events
+
+Build a large Zone 2 base, then add Zone 4 threshold work closer to events. Limit Zone 3.
+
+### For Time-Crunched Athletes
+
+If you only have 30 minutes, intervals (Zone 4-5) provide more stimulus than steady Zone 2. But don't skip Zone 2 entirely.
+
+## Common Mistakes
+
+### 1. All Workouts Feel the Same
+If every workout is "kind of hard," you're probably in Zone 3 too much. Polarize: easy or hard, rarely medium.
+
+### 2. Ignoring Zone 2
+Zone 2 feels too easy, so people skip it. But it's where aerobic magic happens.
+
+### 3. Not Recovering Enough
+Zone 1 is training too. Active recovery helps you absorb harder work.
+
+### 4. Inaccurate Max HR
+Using 220-age can be off by 10-15 bpm. If zones don't feel right, consider testing.
+
+### 5. Chasing Numbers, Not Feel
+Eventually, trust perceived exertion. Heart rate is a guide, not a dictator.
+
+## Sample Week
+
+**Beginner/Intermediate (5 hours):**
+
+| Day | Session | Zone | Duration |
+|-----|---------|------|----------|
+| Mon | Easy jog/walk | 2 | 40 min |
+| Tue | Intervals (5x3 min hard/2 min easy) | 4-5/1 | 35 min |
+| Wed | Rest or Zone 1 | 1 | 20 min |
+| Thu | Easy jog | 2 | 45 min |
+| Fri | Rest | - | - |
+| Sat | Long easy session | 2 | 60 min |
+| Sun | Active recovery | 1 | 30 min |
+
+## The Bottom Line
+
+Heart rate zones help you train smarter:
+
+1. **Zone 2 is your foundation** — most training should be here
+2. **Polarize your training** — easy or hard, rarely medium
+3. **Use zones as guides** — not rigid rules
+4. **Learn perceived exertion** — trust your body over numbers
+
+The goal isn't to hit specific numbers—it's to stimulate the adaptations you want without overtraining.
+
+---
+
+*Foundational Rehab programs consider your fitness level and goals when recommending appropriate intensity levels.*
+    \`
   }
 };
 
