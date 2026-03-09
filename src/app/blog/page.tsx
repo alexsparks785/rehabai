@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'exercises-for-osteoporosis',
+    title: 'Exercises for Osteoporosis: Build Bone Strength Safely',
+    excerpt: 'Weight-bearing and resistance exercises that help prevent bone loss.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-after-covid',
+    title: 'Returning to Exercise After COVID: A Safe Approach',
+    excerpt: 'How to get back to fitness after COVID-19 without overdoing it.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: '5-minute-office-stretches',
+    title: '5-Minute Office Stretches: Quick Relief for Desk Workers',
+    excerpt: 'Fast stretches you can do at your desk to prevent pain and stiffness.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '4 min read'
+  },
+  {
+    slug: 'exercises-for-better-sleep',
+    title: 'Exercises for Better Sleep: Move More, Sleep Better',
+    excerpt: 'The right exercises at the right time can dramatically improve sleep quality.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '5 min read'
+  },
+  {
     slug: 'why-muscles-get-tight',
     title: 'Why Do Muscles Get Tight? Causes and Solutions',
     excerpt: 'Tightness isn\\'t always about stretching. Here\\'s what actually causes it.',
