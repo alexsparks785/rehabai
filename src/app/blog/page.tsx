@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'wrist-pain-exercises',
+    title: 'Wrist Pain Exercises: Strengthen and Heal Your Wrists',
+    excerpt: 'Wrist pain from typing, lifting, or sports? Learn exercises for carpal tunnel, tendonitis, and more.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'thoracic-spine-mobility',
+    title: 'Thoracic Spine Mobility: Exercises for a Flexible Mid-Back',
+    excerpt: 'Stiff mid-back causes neck, shoulder, and low back problems. Improve thoracic mobility with these exercises.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
     slug: 'sciatica-exercises',
     title: 'Sciatica Exercises: Relieve Pain and Prevent Flare-Ups',
     excerpt: 'Sciatica pain radiating down your leg? Learn the right exercises based on your specific cause.',

@@ -83167,6 +83167,517 @@ Most TMJ dysfunction improves significantly with proper self-care.
 
 *Foundational Rehab programs address TMJ dysfunction with targeted exercise protocols.*
     \`
+  },
+  'wrist-pain-exercises': {
+    title: 'Wrist Pain Exercises: Strengthen and Heal Your Wrists',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## Common Causes of Wrist Pain
+
+The wrist is complex—eight small bones, numerous ligaments, and tendons passing through tight spaces. Many things can cause pain:
+
+- **Carpal tunnel syndrome** — Nerve compression
+- **De Quervain's tenosynovitis** — Thumb tendon pain
+- **Wrist tendonitis** — Overuse inflammation
+- **Ganglion cyst** — Fluid-filled bump
+- **Arthritis** — Joint degeneration
+- **Sprains/strains** — Ligament or muscle injury
+- **Fractures** — Especially scaphoid
+
+## When to See a Doctor
+
+Before starting exercises, rule out serious injury:
+
+- Recent trauma + significant pain/swelling
+- Obvious deformity
+- Unable to move wrist
+- Numbness/tingling in fingers
+- Pain at rest that doesn't improve
+
+## General Wrist Exercises
+
+### Mobility Exercises
+
+**Wrist Circles**
+- Make fist
+- Circle wrist slowly
+- 10 each direction
+- Both wrists
+
+**Wrist Flexion/Extension**
+- Arm out, palm down
+- Bend wrist up, then down
+- Full range of motion
+- 10-15 reps
+
+**Radial/Ulnar Deviation**
+- Arm out, thumb up
+- Bend wrist side to side
+- 10-15 reps
+
+**Prayer Stretch**
+- Palms together, fingers up
+- Lower hands while keeping palms together
+- Feel stretch in inner wrists
+- Hold 30 seconds
+
+**Reverse Prayer Stretch**
+- Back of hands together
+- Raise hands up
+- Feel stretch on outer wrists
+- Hold 30 seconds
+
+### Strengthening Exercises
+
+**Wrist Curls (Flexion)**
+- Forearm on table, palm up
+- Hold light weight
+- Curl wrist up
+- Lower slowly
+- 3 x 15
+
+**Reverse Wrist Curls (Extension)**
+- Forearm on table, palm down
+- Hold light weight
+- Raise wrist up
+- Lower slowly
+- 3 x 15
+
+**Radial Deviation**
+- Arm at side, thumb up
+- Hold weight (or hammer by end)
+- Raise thumb toward ceiling
+- 3 x 15
+
+**Finger Spreads**
+- Place rubber band around fingers
+- Spread fingers apart
+- 3 x 20
+
+**Grip Strengthening**
+- Squeeze stress ball or gripper
+- 3 x 20
+- Don't overdo if pain present
+
+## Carpal Tunnel Exercises
+
+### Nerve Gliding
+
+**Median Nerve Glide**
+1. Arm at side, wrist neutral, fist closed
+2. Extend fingers
+3. Extend wrist (fingers back)
+4. Turn palm up
+5. Extend arm out
+6. Tilt head away
+7. Return through steps
+8. 5-10 reps, 2-3x daily
+
+**Wrist Stretch**
+- Arm out, palm down
+- Use other hand to pull fingers toward you
+- Hold 20-30 seconds
+- Gentle stretch only
+
+**Finger Tendon Glides**
+- Straight fingers → fist → hook → straight
+- Move through positions smoothly
+- 10 reps
+
+### Nerve Flossing
+
+- Similar to glide but alternate neck/wrist
+- As wrist extends, tilt head toward
+- As wrist flexes, tilt head away
+- 10-15 "flossing" movements
+
+## De Quervain's Exercises
+
+### Finkelstein Stretch (Gentle)
+
+- Make fist with thumb inside
+- Gently bend wrist toward pinky
+- Hold 15-20 seconds
+- Don't force—should be mild stretch
+
+### Thumb Strengthening
+
+**Thumb Extension**
+- Place rubber band around thumb
+- Pull thumb away from fingers
+- 3 x 15
+
+**Thumb Opposition**
+- Touch thumb to each fingertip
+- 2-3 sets through
+
+### Eccentric Exercise
+
+**Radial Deviation (Eccentric)**
+- Use hammer, hold by end
+- Lower thumb side slowly
+- Use other hand to lift back up
+- 3 x 15
+
+## Wrist Tendonitis Exercises
+
+### Isometric Holds
+
+- Hold wrist in neutral
+- Push against immovable object in each direction
+- 30-second holds
+- Reduces pain
+
+### Eccentric Loading
+
+- Same as strengthening exercises
+- Focus on slow lowering (4-5 seconds)
+- 3 x 10-15 daily
+- Key for tendon healing
+
+### Forearm Rotation
+
+- Elbow at 90°
+- Rotate forearm palm up, then palm down
+- Add light weight to progress
+- 3 x 15
+
+## Desk Worker Program
+
+### Prevention Routine (5 minutes)
+
+Do every 1-2 hours at desk:
+
+1. Wrist circles: 10 each direction
+2. Prayer stretch: 20 seconds
+3. Reverse prayer: 20 seconds
+4. Finger spreads: 15 reps
+5. Finger stretches: 5 seconds each
+6. Shake out hands
+
+### Ergonomic Tips
+
+- Keyboard and mouse at elbow height
+- Neutral wrist position
+- Consider ergonomic keyboard
+- Wrist rest (for pausing, not typing)
+- Regular breaks
+
+## Sample Rehab Program
+
+### Acute Phase (Week 1-2)
+
+**Daily:**
+- Ice: 15-20 min, 2-3x
+- Gentle range of motion
+- Isometric holds: 3 x 30 sec each direction
+- Nerve glides if carpal tunnel: 2 x 10
+
+### Subacute Phase (Week 2-4)
+
+**Daily:**
+- Wrist curls (both directions): 3 x 15
+- Eccentric focus on painful movements
+- Full stretching routine
+- Continue nerve glides
+
+### Strengthening Phase (Week 4+)
+
+**3x weekly:**
+- Progressive wrist curls
+- Grip work
+- Forearm rotation
+- Radial/ulnar deviation
+
+## Common Mistakes
+
+### 1. Pushing Through Pain
+
+**Fix:** Work around pain, not through it
+
+### 2. Only Stretching
+
+**Fix:** Strengthening is essential
+
+### 3. Ignoring Ergonomics
+
+**Fix:** Address workstation setup
+
+### 4. Expecting Quick Fixes
+
+**Fix:** Wrist issues take weeks to resolve
+
+## The Bottom Line
+
+Wrist pain is common and usually responds to conservative treatment:
+
+1. **Identify the cause** — Different conditions need different approaches
+2. **Start gently** — Mobility before strength
+3. **Progress loading** — Eccentrics are key for tendons
+4. **Fix ergonomics** — Address root cause
+5. **Be patient** — Wrists heal slowly
+
+If symptoms persist or worsen, see a hand specialist.
+
+---
+
+*Foundational Rehab provides targeted wrist rehabilitation programs.*
+    \`
+  },
+  'thoracic-spine-mobility': {
+    title: 'Thoracic Spine Mobility: Exercises for a Flexible Mid-Back',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: \`
+## Why Thoracic Mobility Matters
+
+Your thoracic spine (mid-back) should move. When it doesn't, other areas pay the price:
+
+**Problems from stiff thoracic spine:**
+- Neck pain (compensates for lack of extension)
+- Shoulder impingement (can't reach overhead)
+- Low back pain (rotates instead of thoracic)
+- Poor posture
+- Reduced breathing capacity
+- Decreased athletic performance
+
+## Normal Thoracic Movement
+
+### Extension
+
+Arching backward. Should have 20-25° of extension.
+
+### Flexion
+
+Rounding forward. Should have 35-40° of flexion.
+
+### Rotation
+
+Twisting. Should have 30-35° each direction.
+
+### Lateral Flexion
+
+Side bending. Should have 20-25° each side.
+
+**Most people:** Limited in extension and rotation (too much flexion from sitting).
+
+## Simple Self-Assessment
+
+### Extension Test
+
+- Stand against wall, heels touching
+- Try to get head, upper back, and tailbone on wall
+- Difficult? You lack extension.
+
+### Rotation Test
+
+- Sit in chair, cross arms on chest
+- Rotate to each side without moving hips
+- Should turn about 45°
+- Less than 30°? Limited rotation.
+
+## Best Thoracic Mobility Exercises
+
+### Extension Exercises
+
+**Foam Roller Extension**
+- Lie on roller (perpendicular, at mid-back)
+- Support head with hands
+- Arch backward over roller
+- Move roller up/down thoracic spine
+- 2-3 minutes
+
+**Cat-Cow**
+- Hands and knees
+- Focus extension through mid-back
+- Don't hyperextend low back
+- 10-15 reps
+
+**Prone Extension (Sphinx)**
+- Lie face down
+- Prop on elbows
+- Lift chest
+- Focus on upper back extending
+- Hold 30 seconds
+
+**Wall Extension**
+- Face wall, arms overhead on wall
+- Step back, hinge at hips
+- Sink chest toward floor
+- Feel upper back stretch
+- 30 seconds
+
+### Rotation Exercises
+
+**Open Books**
+- Side-lying, knees bent (90°)
+- Top arm straight out
+- Rotate top arm to other side
+- Follow with eyes
+- Keep knees stacked
+- 10 reps each side
+
+**Thread the Needle**
+- Hands and knees
+- Reach one arm under body
+- Let thoracic spine rotate
+- 10 reps each side
+
+**Seated Rotation**
+- Sit cross-legged or on chair
+- Place one hand behind head
+- Rotate toward that side
+- Keep hips still
+- 10 reps each side
+
+**Quadruped Rotation**
+- Hands and knees
+- Hand behind head
+- Rotate elbow to ceiling
+- Return to start
+- 10 reps each side
+
+### Combined Movements
+
+**90/90 Hip Stretch with Rotation**
+- Sit with legs in 90/90 position
+- Rotate toward front leg
+- Great for hips AND thoracic
+- 30 seconds each side
+
+**World's Greatest Stretch**
+- Lunge position
+- Hand on floor inside front foot
+- Rotate and reach other arm to ceiling
+- 5 reps each side
+
+**Bretzel Stretch**
+- Side-lying
+- Top knee bent, bottom leg straight
+- Rotate upper body opposite direction
+- 30 seconds each side
+
+### Advanced Mobilizations
+
+**Foam Roller Snow Angels**
+- Lie lengthwise on roller (spine along roller)
+- Arms out, move through "snow angel" pattern
+- Feet flat for stability
+- 10 reps
+
+**Jefferson Curl (Segmental)**
+- Stand on box/step
+- Round down one vertebra at a time
+- Focus on thoracic section
+- Bodyweight only
+- 5 slow reps
+
+**Loaded Extension**
+- Foam roller or bench support
+- Hold light weight overhead
+- Extend over support
+- 3 x 10
+
+## Sample Daily Routine (10 minutes)
+
+### Morning Wake-Up
+
+1. Cat-cow: 10 reps
+2. Foam roller extension: 2 minutes
+3. Thread the needle: 5 each side
+4. Open books: 5 each side
+
+### Desk Break (Every 2 Hours)
+
+1. Seated rotation: 5 each side
+2. Wall extension: 30 seconds
+3. Deep breathing: 5 breaths
+
+### Evening Routine
+
+1. Foam roller lengthwise: 2 minutes
+2. World's greatest stretch: 3 each side
+3. Bretzel stretch: 30 seconds each side
+4. Open books: 5 each side
+
+## For Specific Issues
+
+### For Shoulder Problems
+
+Prioritize:
+- Extension exercises (all of them)
+- Overhead reaching patterns
+- Address before loading shoulders
+
+### For Neck Pain
+
+Prioritize:
+- Extension work
+- Rotation (reduces neck compensation)
+- Combine with neck stretches
+
+### For Low Back Pain
+
+Prioritize:
+- Rotation (takes load off lumbar)
+- Extension (not extreme)
+- Combined hip and thoracic work
+
+### For Athletes
+
+Prioritize:
+- Sport-specific rotational needs
+- Extension for overhead sports
+- Include in warm-up
+
+## Common Mistakes
+
+### 1. Moving From Lumbar Spine
+
+**Problem:** Feel it in low back, not mid-back
+**Fix:** Keep low back stable, isolate thoracic
+
+### 2. Forcing Range of Motion
+
+**Problem:** Pain, no lasting change
+**Fix:** Gentle, sustained positions
+
+### 3. Only Doing Stretches
+
+**Problem:** No strength in new range
+**Fix:** Add movements that challenge new range
+
+### 4. Inconsistency
+
+**Problem:** Brief improvement, then stiff again
+**Fix:** Daily practice, even 5 minutes
+
+## Progress Timeline
+
+**Week 1-2:** Awareness of stiffness, beginning improvement
+**Week 2-4:** Noticeable increase in rotation
+**Week 4-8:** Significant improvement in extension
+**Ongoing:** Maintenance (or lose it)
+
+## The Bottom Line
+
+Thoracic mobility is:
+- Essential for shoulder, neck, and back health
+- Lost through sitting and modern life
+- Regained through daily practice
+- Worth the time investment
+
+If your mid-back doesn't move, everything else suffers. Daily thoracic work pays dividends everywhere.
+
+---
+
+*Foundational Rehab programs prioritize thoracic mobility for total body function.*
+    \`
   }
 };
 
