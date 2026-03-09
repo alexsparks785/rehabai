@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'why-muscles-get-tight',
+    title: 'Why Do Muscles Get Tight? Causes and Solutions',
+    excerpt: 'Tightness isn\\'t always about stretching. Here\\'s what actually causes it.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-with-bad-knees',
+    title: 'Exercise with Bad Knees: Safe Workouts That Don\\'t Hurt',
+    excerpt: 'Bad knees don\\'t mean no exercise. Here are safe options.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'static-vs-dynamic-stretching',
+    title: 'Static vs Dynamic Stretching: When to Use Each',
+    excerpt: 'Dynamic before, static after. Here\\'s why timing matters.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'how-often-should-you-stretch',
+    title: 'How Often Should You Stretch? Frequency Guidelines',
+    excerpt: 'Daily for improvement, 2-3x/week for maintenance. The complete guide.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '4 min read'
+  },
+  {
     slug: 'hydration-exercise',
     title: 'Hydration and Exercise: How Much Water Do You Really Need?',
     excerpt: 'Before, during, and after exercise hydration guidelines.',

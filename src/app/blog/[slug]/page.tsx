@@ -94845,6 +94845,304 @@ Best exercise time:
 
 *Foundational Rehab supports exercise at any time.*
     \`
+  },
+  'why-muscles-get-tight': {
+    title: 'Why Do Muscles Get Tight? Causes and Solutions',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## What Causes Muscle Tightness?
+
+### 1. Prolonged Positions
+- Sitting all day
+- Sleeping in one position
+- Repetitive work postures
+
+### 2. Lack of Movement
+- Sedentary lifestyle
+- Not using full range of motion
+- Muscles adapt to limited use
+
+### 3. Overuse
+- Too much of same activity
+- Inadequate recovery
+- Repetitive strain
+
+### 4. Weakness
+- Weak muscles compensate by tightening
+- Tightness can be protective
+- Strength often helps more than stretching
+
+### 5. Stress
+- Tension held in muscles
+- Fight-or-flight response
+- Especially neck and shoulders
+
+### 6. Dehydration
+- Tissues need water
+- Can contribute to stiffness
+
+## Solutions
+
+### Move More
+- Change positions frequently
+- Use full range of motion
+- Daily movement variety
+
+### Stretch Appropriately
+- Target actually tight muscles
+- 30+ second holds
+- Consistent daily practice
+
+### Strengthen
+- Weak muscles often feel tight
+- Strength provides stability
+- May reduce perceived tightness
+
+### Manage Stress
+- Relaxation techniques
+- Breathing exercises
+- Address root causes
+
+### Stay Hydrated
+- Drink adequate water
+- Support tissue health
+
+## The Bottom Line
+
+Muscle tightness:
+1. **Has many causes** — Not just "need to stretch"
+2. **Often related to weakness** — Strengthen, not just stretch
+3. **Responds to movement** — Keep moving throughout day
+4. **May involve stress** — Mind-body connection
+
+---
+
+*Foundational Rehab addresses tightness comprehensively.*
+    \`
+  },
+  'exercise-with-bad-knees': {
+    title: 'Exercise with Bad Knees: Safe Workouts That Don\\'t Hurt',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read',
+    content: \`
+## You Can Still Exercise
+
+Bad knees don't mean no exercise. You just need the right approach.
+
+## Safe Cardio Options
+
+### Swimming/Water Exercise
+- No impact
+- Supports body weight
+- Excellent for bad knees
+
+### Cycling
+- Low impact
+- Strengthens quads
+- Adjust seat height properly
+
+### Elliptical
+- Lower impact than running
+- Smooth motion
+- Good alternative
+
+### Walking
+- Lower impact than running
+- Start short, build up
+- Good shoes matter
+
+## Safe Strength Exercises
+
+### Leg Press (Partial)
+- Limited range of motion
+- Avoid deep flexion if painful
+
+### Step-Ups (Low Step)
+- 4-6 inch step
+- Control the movement
+
+### Wall Sits (Shallow)
+- Not too deep
+- Build quad strength
+
+### Bridges
+- No knee stress
+- Strengthens glutes
+
+### Clamshells/Hip Work
+- Supports knee indirectly
+- Hip strength protects knees
+
+## Exercises to Modify or Avoid
+
+**Modify:**
+- Deep squats → Partial squats
+- Lunges → Shorter range
+- Step-ups → Lower step
+
+**Avoid if painful:**
+- Running (initially)
+- Jump training
+- Deep knee bends
+- Heavy leg extensions
+
+## Key Principles
+
+1. **Start light** — Build up gradually
+2. **Avoid pain** — Discomfort OK, pain not
+3. **Strengthen muscles** — Supports the joint
+4. **Maintain mobility** — Keep moving
+5. **Listen to your body** — Adjust as needed
+
+## The Bottom Line
+
+Exercise with knee issues:
+1. **Is possible** — Just modified
+2. **Should be low impact** — Protect the joint
+3. **Includes strengthening** — Muscles support knees
+4. **Avoids painful movements** — Find alternatives
+
+---
+
+*Foundational Rehab provides knee-friendly programs.*
+    \`
+  },
+  'static-vs-dynamic-stretching': {
+    title: 'Static vs Dynamic Stretching: When to Use Each',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Two Types of Stretching
+
+### Static Stretching
+- Hold a position
+- 20-60 seconds
+- Muscle is lengthened and held
+
+### Dynamic Stretching
+- Active movement through range
+- Controlled motion
+- Prepares muscles for activity
+
+## When to Use Each
+
+### Dynamic Stretching: Before Exercise
+
+**Why:** Prepares muscles, increases blood flow, doesn't reduce performance
+
+**Examples:**
+- Leg swings
+- Arm circles
+- Walking lunges
+- High knees
+
+### Static Stretching: After Exercise
+
+**Why:** Muscles are warm, promotes relaxation, may improve flexibility over time
+
+**Examples:**
+- Hamstring stretch (held)
+- Quad stretch (held)
+- Chest stretch (held)
+
+## The Research
+
+- Static stretching before exercise may temporarily reduce strength/power
+- Dynamic warm-up improves performance
+- Static stretching after is beneficial for flexibility
+- Both have their place
+
+## Quick Guide
+
+| When | Type | Duration |
+|------|------|----------|
+| Before workout | Dynamic | 5-10 min |
+| After workout | Static | 5-10 min |
+| Throughout day | Either | As needed |
+| For flexibility | Static | 30-60 sec holds |
+
+## The Bottom Line
+
+Static vs dynamic:
+1. **Dynamic before** — Prepare for movement
+2. **Static after** — Cool down and flexibility
+3. **Both useful** — Different purposes
+4. **Don't static stretch cold** — Before intense activity
+
+---
+
+*Foundational Rehab uses both types appropriately.*
+    \`
+  },
+  'how-often-should-you-stretch': {
+    title: 'How Often Should You Stretch? Frequency Guidelines',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '4 min read',
+    content: \`
+## Stretching Frequency
+
+### For Maintenance
+- 2-3 times per week minimum
+- After workouts
+- Prevents loss of flexibility
+
+### For Improvement
+- Daily stretching
+- 5-10 minutes per session
+- Consistent practice over weeks
+
+### For Problem Areas
+- Daily, possibly multiple times
+- Focus on tight muscles
+- More frequent = faster results
+
+## How Long Per Session?
+
+**Minimum effective:** 5 minutes
+**Ideal:** 10-20 minutes
+**Each stretch:** 30-60 seconds
+
+## Diminishing Returns
+
+- Daily is great
+- Twice daily may help for very tight areas
+- More than that: diminishing returns
+
+## Sample Schedules
+
+### Minimum (Maintenance)
+- After each workout: 5 min static stretching
+- 3x per week
+
+### Moderate (Improvement)
+- Daily: 10 min stretching routine
+- Focus on tight areas
+
+### Aggressive (Flexibility Goals)
+- Daily: 15-20 min routine
+- Morning and evening for problem areas
+
+## The Bottom Line
+
+How often to stretch:
+1. **Minimum 2-3x/week** — For maintenance
+2. **Daily for improvement** — Consistency matters
+3. **5-10 minutes** — Is sufficient
+4. **More for problem areas** — Extra attention helps
+
+---
+
+*Foundational Rehab recommends daily mobility work.*
+    \`
   }
 };
 
