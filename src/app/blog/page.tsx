@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'stretches-for-lower-back',
+    title: 'Stretches for Lower Back: Relieve Tightness and Pain',
+    excerpt: 'Simple stretches that actually help lower back discomfort.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'resistance-band-arm-workout',
+    title: 'Resistance Band Arm Workout: Build Arms Anywhere',
+    excerpt: 'Complete arm workout using just resistance bands. Biceps, triceps, shoulders.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'core-exercises-for-beginners',
+    title: 'Core Exercises for Beginners: Build a Strong Foundation',
+    excerpt: 'Start here if you\'re new to core training. Safe, effective, progressive.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-knee-pain',
+    title: 'Exercise for Knee Pain: Strengthen Without Making It Worse',
+    excerpt: 'The right exercises can reduce knee pain. Here\'s what works.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read'
+  },
+  {
     slug: 'exercise-for-neck-pain',
     title: 'Exercise for Neck Pain: Relieve Tension and Build Strength',
     excerpt: 'Most neck pain responds to simple exercises. Here\'s what actually works.',
