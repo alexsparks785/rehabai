@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'stretches-for-runners',
+    title: 'Stretches for Runners: Pre-Run, Post-Run, and Recovery',
+    excerpt: 'The right stretches at the right time keep runners healthy and fast.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-for-shoulder-pain',
+    title: 'Exercise for Shoulder Pain: Strengthen and Relieve',
+    excerpt: 'Most shoulder pain responds well to the right exercises. Here\'s what works.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'hiit-for-beginners',
+    title: 'HIIT for Beginners: Start Interval Training Safely',
+    excerpt: 'High intensity doesn\'t mean high risk. Here\'s how to start HIIT the right way.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Cardio',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'playground-workout',
+    title: 'Playground Workout: Exercise While Your Kids Play',
+    excerpt: 'Turn playground time into gym time with these exercises parents can do anywhere.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
     slug: 'exercise-for-high-blood-pressure',
     title: 'Exercise for High Blood Pressure: Lower BP Naturally',
     excerpt: 'The right exercise can lower blood pressure as effectively as medication.',
