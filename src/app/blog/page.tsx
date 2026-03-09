@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'squat-form-guide',
+    title: 'Squat Form Guide: How to Squat Correctly',
+    excerpt: 'Knees caving? Back rounding? Master proper squat technique.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'deadlift-form-guide',
+    title: 'Deadlift Form Guide: How to Deadlift Safely',
+    excerpt: 'The hip hinge is essential for safe lifting. Here\\'s how to do it right.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'plank-variations',
+    title: 'Plank Variations: Progress Your Core Training',
+    excerpt: 'Master the basic plank, then progress to these challenging variations.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'rest-day-activities',
+    title: 'Rest Day Activities: What to Do on Recovery Days',
+    excerpt: 'Rest days matter. Here\\'s what to do (and not do) on recovery days.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
+  },
+  {
     slug: 'neck-stretches',
     title: 'Neck Stretches: Relieve Tension and Improve Mobility',
     excerpt: 'Tight neck from screens and stress? These gentle stretches help.',

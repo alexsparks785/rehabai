@@ -93327,6 +93327,341 @@ Low back stretches:
 
 *Foundational Rehab includes low back care in all programs.*
     \`
+  },
+  'squat-form-guide': {
+    title: 'Squat Form Guide: How to Squat Correctly',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## Why Squats Matter
+
+The squat is a fundamental movement pattern used in:
+- Daily life (sitting, standing)
+- Sports
+- Strength training
+- Rehabilitation
+
+## Proper Squat Form
+
+### Setup
+- Feet shoulder-width or slightly wider
+- Toes slightly pointed out (10-30°)
+- Weight balanced across whole foot
+
+### The Movement
+1. Initiate by pushing hips back AND bending knees
+2. Keep chest up
+3. Track knees over toes
+4. Go as deep as mobility allows with good form
+5. Drive through whole foot to stand
+
+### Key Points
+- Spine stays neutral
+- Knees don't cave inward
+- Heels stay down
+- Controlled throughout
+
+## Common Squat Mistakes
+
+### 1. Knees Caving In
+**Fix:** Push knees out, strengthen glutes
+
+### 2. Heels Rising
+**Fix:** Work on ankle mobility, squat shoes, or elevate heels
+
+### 3. Back Rounding
+**Fix:** Reduce depth, strengthen core, work on hip mobility
+
+### 4. Leaning Too Far Forward
+**Fix:** Strengthen back, improve ankle mobility
+
+## Squat Progressions
+
+**Beginner:**
+1. Box squats (sit to box)
+2. Goblet squats
+
+**Intermediate:**
+3. Bodyweight squats
+4. Front squats
+
+**Advanced:**
+5. Back squats
+6. Single leg variations
+
+## Squat Depth
+
+**Full depth isn't required for everyone.**
+
+Go as deep as you can while maintaining:
+- Neutral spine
+- Knees over toes
+- Heels down
+
+Depth will improve over time.
+
+## The Bottom Line
+
+Good squat form:
+1. **Neutral spine** — No rounding
+2. **Knees track over toes** — Don't cave
+3. **Heels stay down** — Full foot contact
+4. **Appropriate depth** — What you can control
+5. **Progress gradually** — Build skill and mobility
+
+---
+
+*Foundational Rehab teaches proper movement patterns.*
+    \`
+  },
+  'deadlift-form-guide': {
+    title: 'Deadlift Form Guide: How to Deadlift Safely',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## Why Deadlifts Matter
+
+The deadlift trains the hip hinge pattern — essential for:
+- Picking things up safely
+- Athletic performance
+- Total body strength
+- Posterior chain development
+
+## Proper Deadlift Form
+
+### Setup
+- Feet hip-width apart
+- Bar over mid-foot
+- Grip just outside legs
+- Shoulders over or slightly in front of bar
+
+### The Lift
+1. Take slack out of bar (pull until bar touches plates)
+2. Big breath, brace core
+3. Push floor away with legs
+4. Keep bar close to body
+5. Stand tall at top (don't lean back)
+
+### The Descent
+1. Hinge at hips first
+2. Bend knees once bar passes them
+3. Control the weight down
+
+## Common Deadlift Mistakes
+
+### 1. Rounding Lower Back
+**Fix:** Reduce weight, brace harder, work on mobility
+
+### 2. Bar Drifting Forward
+**Fix:** Keep bar against legs, think "drag it up your body"
+
+### 3. Jerking the Weight
+**Fix:** Take slack out before lifting, smooth pull
+
+### 4. Hyperextending at Top
+**Fix:** Stand tall, squeeze glutes, don't lean back
+
+## Deadlift Variations
+
+**Beginner:**
+- Romanian deadlift (RDL)
+- Trap bar deadlift
+
+**Intermediate:**
+- Conventional deadlift
+- Sumo deadlift
+
+**Advanced:**
+- Deficit deadlifts
+- Pause deadlifts
+
+## When Not to Deadlift
+
+- Acute low back injury
+- Unable to maintain neutral spine
+- Until you've learned proper form
+
+## The Bottom Line
+
+Safe deadlifts require:
+1. **Neutral spine** — Non-negotiable
+2. **Bar stays close** — Against your body
+3. **Brace properly** — Core tight throughout
+4. **Progress gradually** — Master form before adding weight
+
+---
+
+*Foundational Rehab teaches the hip hinge pattern.*
+    \`
+  },
+  'plank-variations': {
+    title: 'Plank Variations: Progress Your Core Training',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read',
+    content: \`
+## Why Planks Work
+
+Planks train anti-extension — resisting your back from arching. This is core stability.
+
+## Basic Plank Form
+
+### Forearm Plank
+- Forearms on floor, elbows under shoulders
+- Toes on floor
+- Body in straight line
+- Squeeze glutes, brace core
+- Don't let hips sag or pike up
+
+### Common Mistakes
+- Hips too high
+- Hips sagging
+- Holding breath
+- Looking up (straining neck)
+
+## Plank Progressions
+
+### Beginner
+1. **Wall plank:** Hands on wall
+2. **Incline plank:** Hands on bench
+3. **Knee plank:** On knees instead of toes
+
+### Intermediate
+4. **Standard forearm plank**
+5. **High plank:** On hands
+6. **Plank with shoulder taps**
+
+### Advanced
+7. **Plank with arm/leg lift**
+8. **Body saw:** Rock forward and back
+9. **Long lever plank:** Arms extended forward
+
+## Side Plank Progressions
+
+1. **Side plank on knees**
+2. **Side plank (bottom knee down)**
+3. **Full side plank**
+4. **Side plank with hip dip**
+5. **Side plank with rotation**
+
+## Sample Core Routine
+
+1. Forearm plank: 3 x 30 sec
+2. Side plank: 2 x 20 sec each
+3. Plank shoulder taps: 2 x 10 each
+4. Dead bugs: 2 x 10 each side
+
+## The Bottom Line
+
+Plank progressions:
+1. **Master the basic** — Good form first
+2. **Progress gradually** — Earn harder versions
+3. **Quality over time** — 30 sec with good form beats 60 sec with bad
+4. **Include variations** — Side planks too
+
+---
+
+*Foundational Rehab uses planks as core stability foundation.*
+    \`
+  },
+  'rest-day-activities': {
+    title: 'Rest Day Activities: What to Do on Recovery Days',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: \`
+## Rest Days Are Important
+
+Rest days allow:
+- Muscle repair and growth
+- Nervous system recovery
+- Injury prevention
+- Mental refresh
+
+**Skipping rest days leads to overtraining.**
+
+## Active Recovery vs Complete Rest
+
+### Active Recovery
+Light activity that promotes blood flow without adding training stress:
+- Walking
+- Light cycling
+- Swimming (easy)
+- Gentle yoga
+
+### Complete Rest
+No structured activity:
+- When very fatigued
+- After extremely hard training
+- When body needs it
+
+**Most rest days should be active recovery.**
+
+## Good Rest Day Activities
+
+### Light Cardio (20-30 min)
+- Walking
+- Easy cycling
+- Light swimming
+- Leisurely hiking
+
+### Mobility Work (15-20 min)
+- Stretching routine
+- Foam rolling
+- Yoga flow
+
+### Low-Intensity Movement
+- Playing with kids
+- Gardening
+- Casual sports
+
+## What to Avoid on Rest Days
+
+- High-intensity training
+- Heavy lifting
+- Long, hard cardio
+- Anything that leaves you tired
+
+**If it feels like a workout, it's not rest.**
+
+## Rest Day Routine Example
+
+**Morning:**
+- 10 min stretching
+- Light walk (20 min)
+
+**Afternoon:**
+- Normal daily activities
+
+**Evening:**
+- 10 min foam rolling
+- Relaxation
+
+## How Many Rest Days?
+
+**General guideline:**
+- 1-2 rest days per week minimum
+- More if training very hard
+- Listen to your body
+
+## The Bottom Line
+
+Rest days:
+1. **Are essential** — Part of the program
+2. **Can be active** — Light movement is good
+3. **Should feel restful** — Not like a workout
+4. **Support recovery** — Help you come back stronger
+
+---
+
+*Foundational Rehab programs include proper rest.*
+    \`
   }
 };
 
