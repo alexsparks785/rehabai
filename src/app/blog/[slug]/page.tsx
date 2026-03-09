@@ -92958,6 +92958,375 @@ Your body was made to move.
 
 *Foundational Rehab addresses the effects of modern sedentary life.*
     \`
+  },
+  'neck-stretches': {
+    title: 'Neck Stretches: Relieve Tension and Improve Mobility',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: \`
+## Why Your Neck Gets Tight
+
+Common causes:
+- Looking at screens
+- Stress and tension
+- Poor posture
+- Sleeping position
+- Weak neck muscles
+
+## Safe Neck Stretching Guidelines
+
+- Move slowly
+- Never force
+- No bouncing
+- Stop if dizzy or painful
+- Warm up first if possible
+
+## Basic Neck Stretches
+
+### Ear to Shoulder
+- Tilt ear toward shoulder
+- Gentle hand pressure optional
+- 20-30 seconds each side
+
+### Chin to Chest
+- Drop chin toward chest
+- Feel stretch in back of neck
+- 20-30 seconds
+
+### Neck Rotation
+- Turn head to look over shoulder
+- 20-30 seconds each side
+
+### Levator Scapulae Stretch
+- Look toward armpit
+- Gentle hand pressure
+- 20-30 seconds each side
+
+## Neck Strengthening
+
+Stretching alone isn't enough. Include:
+
+**Chin Tucks**
+- Draw chin straight back
+- 10 reps, several times daily
+
+**Isometric Holds**
+- Press head against hand (all directions)
+- Hold 5-10 seconds
+- Don't let head move
+
+## Sample Routine (5 min)
+
+1. Neck rotations: 5 each direction
+2. Ear to shoulder: 20 sec each
+3. Chin to chest: 20 sec
+4. Levator stretch: 20 sec each
+5. Chin tucks: 10 reps
+
+**Do 2-3 times daily.**
+
+## The Bottom Line
+
+Neck stretches should be:
+1. **Gentle** — Never force
+2. **Frequent** — Multiple times daily
+3. **Combined with strengthening** — Chin tucks
+4. **Part of posture work** — Address the cause
+
+---
+
+*Foundational Rehab includes neck care in posture programs.*
+    \`
+  },
+  'glute-exercises': {
+    title: 'Glute Exercises: Build a Stronger Posterior Chain',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## Why Glutes Matter
+
+Your glutes are the largest muscles in your body. Strong glutes:
+- Support your low back
+- Improve athletic performance
+- Help with posture
+- Reduce injury risk
+- Power everyday movements
+
+## The Problem: Gluteal Amnesia
+
+Sitting all day causes "gluteal amnesia" — your glutes forget how to work properly.
+
+Signs:
+- Low back does the work
+- Hamstrings overcompensate
+- Hip flexors stay tight
+- Glutes don't fire during exercises
+
+## Best Glute Exercises
+
+### Activation Exercises
+
+**Glute Bridges**
+- Lie on back, feet flat
+- Drive through heels
+- Squeeze glutes hard at top
+- 3 x 15
+
+**Clamshells**
+- Side-lying, knees bent
+- Open top knee
+- Keep feet together
+- 3 x 15 each side
+
+### Strengthening Exercises
+
+**Hip Thrusts**
+- Upper back on bench
+- Drive hips up
+- Squeeze at top
+- 3 x 12
+
+**Romanian Deadlifts**
+- Hip hinge with weight
+- Feel hamstrings and glutes
+- 3 x 10
+
+**Bulgarian Split Squats**
+- Back foot elevated
+- Lean slightly forward
+- 3 x 10 each leg
+
+**Step-Ups**
+- Onto sturdy surface
+- Drive through heel
+- 3 x 10 each leg
+
+### Single-Leg Work
+
+**Single Leg Glute Bridge**
+- One leg extended
+- 3 x 10 each
+
+**Single Leg RDL**
+- Hip hinge on one leg
+- 3 x 8 each
+
+## Sample Glute Workout
+
+1. Glute bridges: 15 reps (activation)
+2. Clamshells: 15 each side
+3. Hip thrusts: 3 x 12
+4. Romanian deadlifts: 3 x 10
+5. Bulgarian split squats: 3 x 8 each
+
+**Do 2-3x weekly.**
+
+## The Bottom Line
+
+Glute training:
+1. **Activate first** — Wake them up
+2. **Progress to strength** — Load them heavy
+3. **Include single-leg** — Balance and stability
+4. **Be consistent** — 2-3x weekly
+
+---
+
+*Foundational Rehab prioritizes glute strength for function.*
+    \`
+  },
+  'exercise-for-weight-loss': {
+    title: 'Exercise for Weight Loss: What Actually Works',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: \`
+## The Honest Truth
+
+Diet is 80%+ of weight loss. Exercise helps but can't outrun a bad diet.
+
+**Why exercise matters:**
+- Burns some calories
+- Builds muscle (raises metabolism)
+- Improves health regardless of weight
+- Helps maintain weight loss
+
+## Best Exercises for Weight Loss
+
+### 1. Strength Training
+
+**Why:** Builds muscle, which burns more calories at rest.
+
+- 2-4 sessions per week
+- Full body or split routine
+- Progressive overload
+
+### 2. Walking
+
+**Why:** Low stress, sustainable, burns calories.
+
+- Easy to do daily
+- 30-60 minutes
+- Doesn't increase appetite much
+
+### 3. HIIT (In Moderation)
+
+**Why:** Time-efficient calorie burn.
+
+- 1-2 sessions per week
+- 20-30 minutes
+- Don't overdo it
+
+### 4. NEAT (Non-Exercise Activity)
+
+**Why:** Adds up throughout the day.
+
+- Take stairs
+- Walk during calls
+- Park farther away
+- Fidget
+
+## What Doesn't Work
+
+### Cardio Alone
+
+- Body adapts
+- Increases appetite
+- Not sustainable for most
+
+### Exercise Without Diet Change
+
+- Easy to out-eat your exercise
+- One cookie = 30 min walking
+
+## Realistic Expectations
+
+**Exercise alone:** 0.5-1 lb per week max
+**With diet:** 1-2 lbs per week
+**Time:** Months, not weeks
+
+## The Bottom Line
+
+Exercise for weight loss:
+1. **Diet is primary** — Can't out-exercise bad eating
+2. **Strength train** — Build muscle
+3. **Walk daily** — Sustainable and effective
+4. **Increase NEAT** — Daily movement matters
+5. **Be patient** — It takes time
+
+---
+
+*Foundational Rehab supports sustainable health habits.*
+    \`
+  },
+  'low-back-stretches': {
+    title: 'Low Back Stretches: Relieve Tightness and Discomfort',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: \`
+## Stretching for Low Back Relief
+
+Gentle stretching can help relieve low back tightness and discomfort.
+
+**Important:** If you have significant pain, numbness, or weakness, see a professional first.
+
+## Best Low Back Stretches
+
+### Knee-to-Chest
+
+**How:**
+- Lie on back
+- Pull one knee to chest
+- Hold 20-30 seconds
+- Then both knees
+
+**Benefits:** Stretches low back, glutes
+
+### Cat-Cow
+
+**How:**
+- Hands and knees
+- Arch back (cow)
+- Round back (cat)
+- 10-15 cycles
+
+**Benefits:** Mobilizes entire spine
+
+### Child's Pose
+
+**How:**
+- Kneel, sit back on heels
+- Reach arms forward
+- Hold 30-60 seconds
+
+**Benefits:** Stretches low back, relaxing
+
+### Supine Twist
+
+**How:**
+- Lie on back, knees bent
+- Drop both knees to one side
+- Keep shoulders down
+- 20-30 seconds each side
+
+**Benefits:** Rotational stretch
+
+### Pelvic Tilts
+
+**How:**
+- Lie on back, knees bent
+- Flatten low back to floor
+- Then arch slightly
+- 15-20 reps
+
+**Benefits:** Mobilizes lumbar spine
+
+## Hip Stretches (Help the Back!)
+
+**Figure 4:** Stretches glutes and piriformis
+**Hip Flexor Stretch:** Tight hip flexors pull on low back
+
+## Sample Routine (10 min)
+
+1. Pelvic tilts: 15 reps
+2. Knee-to-chest: 30 sec each, then both
+3. Cat-cow: 10 cycles
+4. Supine twist: 20 sec each side
+5. Child's pose: 60 sec
+6. Figure 4: 30 sec each side
+
+## When to Stretch
+
+- Morning (reduce stiffness)
+- After sitting long periods
+- Before bed
+- Gently throughout day
+
+## When NOT to Stretch
+
+- Acute injury
+- Severe pain
+- If stretching makes it worse
+- If you have radiating symptoms
+
+## The Bottom Line
+
+Low back stretches:
+1. **Should be gentle** — No forcing
+2. **Include hips** — Connected to back
+3. **Do regularly** — Daily is best
+4. **Listen to your body** — Stop if worse
+
+---
+
+*Foundational Rehab includes low back care in all programs.*
+    \`
   }
 };
 

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'neck-stretches',
+    title: 'Neck Stretches: Relieve Tension and Improve Mobility',
+    excerpt: 'Tight neck from screens and stress? These gentle stretches help.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'glute-exercises',
+    title: 'Glute Exercises: Build a Stronger Posterior Chain',
+    excerpt: 'Strong glutes support your back and improve performance. Here\\'s how to train them.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-weight-loss',
+    title: 'Exercise for Weight Loss: What Actually Works',
+    excerpt: 'Diet is 80%. But exercise helps. Here\\'s what actually moves the needle.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'low-back-stretches',
+    title: 'Low Back Stretches: Relieve Tightness and Discomfort',
+    excerpt: 'Gentle stretches for low back relief including cat-cow, knee-to-chest, and more.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
     slug: 'rotator-cuff-exercises',
     title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulders',
     excerpt: 'The four rotator cuff muscles need specific exercises. Here\\'s how to strengthen them.',
