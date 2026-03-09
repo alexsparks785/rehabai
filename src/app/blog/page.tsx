@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'band-exercises-full-body',
+    title: 'Resistance Band Exercises: Complete Full Body Workout',
+    excerpt: 'A complete gym that fits in your bag. Full body workout with just resistance bands.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'bodyweight-exercises-beginners',
+    title: 'Bodyweight Exercises for Beginners: No Equipment Needed',
+    excerpt: 'Start your fitness journey with zero equipment. Progress from wall push-ups to full workouts.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'warm-up-exercises',
+    title: 'Warm-Up Exercises: How to Prepare Your Body for Any Workout',
+    excerpt: 'A good warm-up reduces injury risk and improves performance. Here\\'s how to do it right.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'cool-down-stretches',
+    title: 'Cool Down Stretches: How to Recover After Every Workout',
+    excerpt: 'Finish every workout right with these stretching routines for faster recovery.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
+  },
+  {
     slug: 'text-neck-exercises',
     title: 'Text Neck Exercises: Fix Forward Head Posture from Phone Use',
     excerpt: 'Phone use causing neck pain? Chin tucks and posture exercises can reverse text neck.',

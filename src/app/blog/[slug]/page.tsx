@@ -89466,6 +89466,961 @@ Good sleep position supports your body's healing.
 
 *Foundational Rehab addresses sleep as part of comprehensive recovery.*
     \`
+  },
+  'band-exercises-full-body': {
+    title: 'Resistance Band Exercises: Complete Full Body Workout',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read',
+    content: \`
+## Why Resistance Bands?
+
+Resistance bands are one of the most versatile training tools:
+
+**Benefits:**
+- Portable (travel-friendly)
+- Affordable
+- Joint-friendly
+- Variable resistance
+- Works for all fitness levels
+- Great for rehab and strength
+
+## Types of Resistance Bands
+
+### Loop Bands (Mini Bands)
+
+- Small loops
+- Great for glute work
+- Hip exercises
+- Warm-ups
+
+### Long Loop Bands (Pull-Up Bands)
+
+- Large loops
+- Assist with pull-ups
+- Heavy resistance available
+- Full body exercises
+
+### Tube Bands with Handles
+
+- Comfortable grip
+- Good for pressing/pulling
+- Adjustable resistance (stack bands)
+- Mimics cable machines
+
+### Therapy Bands (Flat)
+
+- Flat, no loop
+- Tie to create loops
+- Light resistance
+- Rehabilitation focus
+
+## Band Exercises by Body Part
+
+### Lower Body
+
+**Banded Squats**
+- Loop band above knees
+- Squat while pressing knees out
+- 3 x 15
+
+**Glute Bridges (Banded)**
+- Band above knees
+- Bridge up, spread knees at top
+- 3 x 15
+
+**Monster Walks**
+- Band around ankles
+- Quarter squat position
+- Walk sideways
+- 2 x 15 steps each direction
+
+**Clamshells**
+- Band above knees
+- Side-lying, open knee
+- 3 x 15 each side
+
+**Standing Kickbacks**
+- Band around ankles
+- Extend leg back against resistance
+- 3 x 15 each side
+
+**Lateral Band Walks**
+- Band around ankles or above knees
+- Side step while maintaining tension
+- 2 x 15 each direction
+
+### Upper Body - Push
+
+**Band Push-Ups**
+- Band across back, under hands
+- Adds resistance at top
+- 3 x 10-15
+
+**Band Chest Press**
+- Band around back
+- Press forward at chest height
+- 3 x 15
+
+**Band Overhead Press**
+- Stand on band
+- Press handles overhead
+- 3 x 12
+
+**Band Tricep Pushdown**
+- Anchor band high
+- Push down, extend elbows
+- 3 x 15
+
+### Upper Body - Pull
+
+**Band Rows**
+- Anchor or wrap around feet
+- Pull to waist, squeeze back
+- 3 x 15
+
+**Band Face Pulls**
+- Anchor at face height
+- Pull toward face, externally rotate
+- 3 x 15
+
+**Band Pull-Aparts**
+- Hold band at shoulder height
+- Pull apart, squeeze shoulder blades
+- 3 x 20
+
+**Band Bicep Curls**
+- Stand on band
+- Curl handles up
+- 3 x 15
+
+**Band Lat Pulldown**
+- Anchor band high
+- Pull down to chest
+- 3 x 15
+
+### Core
+
+**Pallof Press**
+- Anchor at chest height
+- Press straight out, resist rotation
+- 3 x 10 each side
+
+**Band Dead Bug**
+- Band anchored, hold in hands
+- Dead bug while resisting pull
+- 3 x 10 each side
+
+**Woodchops**
+- Anchor high or low
+- Rotate and pull diagonally
+- 3 x 12 each direction
+
+## Sample Full Body Band Workout
+
+### Workout A (30 min)
+
+**Warm-up:**
+- Monster walks: 10 each direction
+- Arm circles with light band: 10 each
+
+**Lower Body:**
+1. Banded squats: 3 x 15
+2. Glute bridges: 3 x 15
+3. Standing kickbacks: 3 x 12 each
+
+**Upper Body:**
+4. Band rows: 3 x 15
+5. Band push-ups: 3 x 12
+6. Band face pulls: 3 x 15
+
+**Core:**
+7. Pallof press: 3 x 10 each side
+
+### Workout B (30 min)
+
+**Warm-up:**
+- Clamshells: 10 each side
+- Band pull-aparts: 15
+
+**Lower Body:**
+1. Lateral band walks: 3 x 12 each
+2. Single leg RDL with band: 3 x 10 each
+3. Banded hip thrusts: 3 x 15
+
+**Upper Body:**
+4. Band overhead press: 3 x 12
+5. Band bicep curls: 3 x 15
+6. Band tricep pushdown: 3 x 15
+
+**Core:**
+7. Woodchops: 3 x 10 each side
+
+## Band Workout for Travel
+
+**15-Minute Hotel Room Routine:**
+
+1. Banded squats: 2 x 15
+2. Glute bridges: 2 x 15
+3. Band rows: 2 x 15
+4. Band push-ups: 2 x 12
+5. Band pull-aparts: 2 x 15
+6. Pallof press: 2 x 8 each side
+
+**Takes minimal space, packs in carry-on.**
+
+## Choosing Band Resistance
+
+### General Guidelines
+
+**Light:** Rehab, warm-up, high reps
+**Medium:** Most exercises, moderate challenge
+**Heavy:** Lower body, strong individuals
+
+### Progression
+
+- Start lighter than you think
+- Master form first
+- Increase resistance when 15+ reps is easy
+- Consider buying a set with multiple levels
+
+## Tips for Effective Band Training
+
+### 1. Control the Eccentric
+
+Don't let band snap back. Slow, controlled return.
+
+### 2. Maintain Tension
+
+Keep band taut throughout movement. Don't let it go slack.
+
+### 3. Anchor Securely
+
+If using door anchor or fixed point, ensure it's stable.
+
+### 4. Mind Band Placement
+
+Position affects resistance curve. Experiment with foot placement.
+
+### 5. Combine Bands
+
+Stack multiple bands for more resistance.
+
+## Common Mistakes
+
+### 1. Using Band as Only Resistance
+
+**Problem:** Limited progressive overload
+**Fix:** Great supplement, but add weights when possible
+
+### 2. Going Too Fast
+
+**Problem:** Momentum, not muscle
+**Fix:** Slow and controlled
+
+### 3. Wrong Resistance Level
+
+**Problem:** Too easy or too hard
+**Fix:** Should challenge last few reps
+
+### 4. Neglecting Band Care
+
+**Problem:** Bands snap, causing injury
+**Fix:** Check for wear, store properly
+
+## The Bottom Line
+
+Resistance bands offer:
+1. **Full body training** — Every muscle group
+2. **Portability** — Train anywhere
+3. **Joint-friendly** — Variable resistance
+4. **Scalability** — All fitness levels
+5. **Affordability** — Low cost, high value
+
+A complete gym that fits in your bag.
+
+---
+
+*Foundational Rehab uses bands extensively in rehab and training programs.*
+    \`
+  },
+  'bodyweight-exercises-beginners': {
+    title: 'Bodyweight Exercises for Beginners: No Equipment Needed',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## Why Start with Bodyweight?
+
+Bodyweight training is the perfect starting point:
+
+**Benefits:**
+- No equipment needed
+- Free
+- Train anywhere
+- Learn movement patterns
+- Build foundation for weights
+- Lower injury risk
+
+## Essential Bodyweight Exercises
+
+### Lower Body
+
+**Squats**
+- Feet shoulder-width apart
+- Sit back and down
+- Knees track over toes
+- Chest up
+- 3 x 10-15
+
+**Lunges**
+- Step forward
+- Lower until both knees at 90°
+- Push back to start
+- 3 x 10 each leg
+
+**Glute Bridges**
+- Lie on back, feet flat
+- Drive through heels
+- Squeeze glutes at top
+- 3 x 15
+
+**Step-Ups**
+- Step onto sturdy surface
+- Drive through heel
+- Lower with control
+- 3 x 10 each leg
+
+### Upper Body - Push
+
+**Wall Push-Ups (Easiest)**
+- Hands on wall, arms extended
+- Lean in, push back
+- 3 x 15
+
+**Incline Push-Ups**
+- Hands on elevated surface
+- Lower than wall
+- 3 x 10-15
+
+**Knee Push-Ups**
+- Hands and knees
+- Lower chest to floor
+- 3 x 10
+
+**Full Push-Ups**
+- Hands and toes
+- Body in straight line
+- Lower until chest nearly touches
+- 3 x as many as possible
+
+### Upper Body - Pull
+
+**Doorway Rows**
+- Hold doorframe
+- Lean back
+- Pull chest to frame
+- 3 x 15
+
+**Table Rows (Inverted)**
+- Under sturdy table
+- Pull chest to table
+- 3 x 10
+
+**Negative Pull-Ups**
+- Jump to top position
+- Lower slowly (5 seconds)
+- 3 x 5
+
+### Core
+
+**Dead Bugs**
+- Lie on back
+- Opposite arm/leg extend
+- Keep back flat
+- 3 x 10 each side
+
+**Bird Dogs**
+- Hands and knees
+- Opposite arm/leg extend
+- 3 x 10 each side
+
+**Plank**
+- Forearms and toes
+- Body straight
+- Hold 20-60 seconds
+- 3 sets
+
+**Side Plank**
+- Forearm and side of foot
+- Hold 15-30 seconds
+- 3 sets each side
+
+## Beginner Workout Program
+
+### Week 1-2: Learning Phase
+
+**3x per week, full body:**
+
+1. Wall push-ups: 2 x 10
+2. Squats: 2 x 10
+3. Doorway rows: 2 x 10
+4. Glute bridges: 2 x 10
+5. Dead bugs: 2 x 8 each
+6. Plank: 2 x 15 seconds
+
+### Week 3-4: Building Phase
+
+**3x per week:**
+
+1. Incline push-ups: 3 x 10
+2. Squats: 3 x 12
+3. Lunges: 2 x 8 each
+4. Table rows: 3 x 10
+5. Bird dogs: 3 x 10 each
+6. Plank: 3 x 20 seconds
+
+### Week 5-6: Progression Phase
+
+**3x per week:**
+
+1. Knee push-ups: 3 x 10
+2. Squats: 3 x 15
+3. Lunges: 3 x 10 each
+4. Table rows: 3 x 12
+5. Glute bridges: 3 x 15
+6. Dead bugs: 3 x 12 each
+7. Side plank: 2 x 15 sec each
+
+### Week 7-8: Challenge Phase
+
+**3x per week:**
+
+1. Full push-ups (or mix): 3 x max
+2. Squats: 3 x 20
+3. Lunges: 3 x 12 each
+4. Negative pull-ups: 3 x 5
+5. Single leg bridges: 3 x 10 each
+6. Plank: 3 x 30 seconds
+7. Side plank: 3 x 20 sec each
+
+## Making Exercises Easier or Harder
+
+### Squats
+
+**Easier:** Hold onto support, partial range
+**Harder:** Jump squats, single leg (pistol progressions)
+
+### Push-Ups
+
+**Easier:** Wall → Incline → Knee
+**Harder:** Full → Decline → One-arm progressions
+
+### Lunges
+
+**Easier:** Hold support, partial range
+**Harder:** Jump lunges, walking lunges
+
+### Planks
+
+**Easier:** Knees down, shorter holds
+**Harder:** Longer holds, arm/leg lifts, side plank
+
+## Tips for Beginners
+
+### 1. Start Easier Than You Think
+
+Leave reps in the tank early on. Build consistency.
+
+### 2. Focus on Form First
+
+Quality over quantity. Bad form leads to injury.
+
+### 3. Progress Gradually
+
+Add 1-2 reps per session, not 10.
+
+### 4. Rest Between Sets
+
+60-90 seconds. You're building, not racing.
+
+### 5. Be Consistent
+
+3x per week beats sporadic effort.
+
+## Common Beginner Mistakes
+
+### 1. Too Much Too Soon
+
+**Problem:** Soreness, injury, burnout
+**Fix:** Start conservatively
+
+### 2. Poor Form
+
+**Problem:** Injury, wrong muscles
+**Fix:** Film yourself, learn proper technique
+
+### 3. Skipping Progressions
+
+**Problem:** Frustration, injury
+**Fix:** Master each level before advancing
+
+### 4. No Progression at All
+
+**Problem:** Plateau
+**Fix:** Gradually increase difficulty
+
+## When to Add Weights
+
+Consider adding weights when you can:
+- Do 20+ proper squats
+- Do 15+ push-ups
+- Do 15+ rows
+- Hold 60-second plank
+- Feel ready for more challenge
+
+Bodyweight is a great start, not the end goal.
+
+## The Bottom Line
+
+Bodyweight training:
+1. **Start where you are** — Modifications exist
+2. **Learn movement** — Foundation for everything
+3. **Progress gradually** — Earn harder variations
+4. **Be consistent** — 3x per week
+5. **Know when to add** — Weights come later
+
+Your body is your first gym.
+
+---
+
+*Foundational Rehab builds foundations with bodyweight training.*
+    \`
+  },
+  'warm-up-exercises': {
+    title: 'Warm-Up Exercises: How to Prepare Your Body for Any Workout',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read',
+    content: \`
+## Why Warm-Up Matters
+
+A proper warm-up:
+- Increases blood flow to muscles
+- Raises body temperature
+- Improves joint mobility
+- Activates nervous system
+- Reduces injury risk
+- Improves performance
+
+**Skipping warm-up:** Higher injury risk, reduced performance.
+
+## What a Good Warm-Up Includes
+
+### 1. General Activity (2-5 min)
+
+Elevate heart rate, increase blood flow:
+- Light jogging
+- Jumping jacks
+- Cycling
+- Rowing
+- Jump rope
+
+### 2. Dynamic Stretching (3-5 min)
+
+Active movement through range of motion:
+- Leg swings
+- Arm circles
+- Hip circles
+- Walking lunges
+- High knees
+
+### 3. Activation (2-3 min)
+
+Wake up specific muscles:
+- Glute activation
+- Core activation
+- Movement-specific prep
+
+### 4. Movement Prep (2-3 min)
+
+Practice workout movements at lower intensity:
+- Light sets of main exercises
+- Gradually increase load
+
+## Universal Warm-Up Routine (10 min)
+
+### Phase 1: Get Moving (2 min)
+
+- Jumping jacks: 30 seconds
+- High knees: 30 seconds
+- Butt kicks: 30 seconds
+- Jog in place: 30 seconds
+
+### Phase 2: Dynamic Stretches (4 min)
+
+- Leg swings (front-back): 10 each leg
+- Leg swings (side-side): 10 each leg
+- Hip circles: 10 each direction
+- Arm circles: 10 each direction
+- Torso twists: 10 each side
+- Walking lunges: 10 total
+- Inchworms: 5 total
+
+### Phase 3: Activation (4 min)
+
+- Glute bridges: 10 reps
+- Bird dogs: 5 each side
+- Cat-cow: 10 cycles
+- Band pull-aparts: 15 (if available)
+- Bodyweight squats: 10 reps
+
+## Workout-Specific Warm-Ups
+
+### Before Upper Body Workout
+
+- Arm circles: 15 each direction
+- Band pull-aparts: 15
+- Push-up position shoulder taps: 10 each
+- Wall slides: 10
+- Light pushing/pulling movements
+
+### Before Lower Body Workout
+
+- Hip circles: 10 each direction
+- Leg swings: 10 each direction, each leg
+- Glute bridges: 15
+- Bodyweight squats: 15
+- Walking lunges: 10 total
+- Light sets of main exercises
+
+### Before Running
+
+- Brisk walk: 2-3 min
+- High knees: 30 sec
+- Butt kicks: 30 sec
+- Leg swings: 10 each
+- Skipping: 30 sec
+- Short strides at increasing speed
+
+### Before Sports
+
+- General movement: 3-5 min
+- Dynamic stretches: 3-5 min
+- Sport-specific movements: 3-5 min
+- Gradual intensity increase
+
+## Dynamic vs Static Stretching
+
+### Dynamic (Before Workout)
+
+- Active movement through range
+- Increases blood flow
+- Prepares muscles for work
+- **Use before exercise**
+
+### Static (After Workout)
+
+- Hold stretch for 20-30 seconds
+- Promotes relaxation
+- May temporarily reduce power
+- **Use after exercise**
+
+## Quick Warm-Ups (When Time Limited)
+
+### 5-Minute Version
+
+1. Jumping jacks: 1 min
+2. Leg swings: 30 sec total
+3. Arm circles: 30 sec
+4. Hip circles: 30 sec
+5. Walking lunges: 1 min
+6. Light version of main exercise: 1 min
+
+### 3-Minute Version
+
+1. Jumping jacks: 30 sec
+2. Leg swings: 30 sec
+3. Arm circles: 30 sec
+4. Hip circles: 30 sec
+5. 5 each: squats, lunges, push-ups
+
+## Signs of a Good Warm-Up
+
+- Light sweat
+- Elevated breathing
+- Feeling warm
+- Joints moving freely
+- Ready to work
+
+## Common Warm-Up Mistakes
+
+### 1. Skipping It
+
+**Problem:** Injury risk, poor performance
+**Fix:** Even 5 minutes helps
+
+### 2. Static Stretching Before
+
+**Problem:** May reduce power
+**Fix:** Save static stretches for after
+
+### 3. Too Intense
+
+**Problem:** Fatigued before workout
+**Fix:** Gradual build, not exhausting
+
+### 4. Too Short
+
+**Problem:** Not prepared
+**Fix:** Minimum 5 minutes, ideally 10
+
+### 5. Generic Only
+
+**Problem:** Not specific to workout
+**Fix:** Include movement-specific prep
+
+## The Bottom Line
+
+A good warm-up:
+1. **Elevates heart rate** — Get blood flowing
+2. **Uses dynamic movement** — Not static stretching
+3. **Activates muscles** — Wake up what you'll use
+4. **Prepares movements** — Practice at lower intensity
+5. **Takes 5-10 minutes** — Worth the investment
+
+Your workout is only as good as your warm-up.
+
+---
+
+*Foundational Rehab includes proper warm-ups in all programs.*
+    \`
+  },
+  'cool-down-stretches': {
+    title: 'Cool Down Stretches: How to Recover After Every Workout',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: \`
+## Why Cool Down?
+
+A proper cool down:
+- Gradually lowers heart rate
+- Helps clear metabolic waste
+- Reduces muscle stiffness
+- May reduce next-day soreness
+- Promotes recovery
+- Transitions body to rest state
+
+## What a Good Cool Down Includes
+
+### 1. Light Activity (2-3 min)
+
+Gradually reduce intensity:
+- Walking
+- Easy cycling
+- Light movement
+
+### 2. Static Stretching (5-10 min)
+
+Hold stretches for muscles worked:
+- 20-30 seconds per stretch
+- Gentle, not painful
+- Focus on tight areas
+
+### 3. Deep Breathing (1-2 min)
+
+Activate recovery response:
+- Slow, deep breaths
+- Promotes relaxation
+
+## Universal Cool Down Routine (10 min)
+
+### Phase 1: Wind Down (2 min)
+
+- Walk in place: 1 min
+- Deep breathing: 1 min
+
+### Phase 2: Lower Body Stretches (4 min)
+
+**Quad Stretch**
+- Standing, pull heel to buttock
+- 30 sec each side
+
+**Hamstring Stretch**
+- Seated or standing
+- Reach toward toes
+- 30 sec each side
+
+**Hip Flexor Stretch**
+- Half-kneeling position
+- 30 sec each side
+
+**Glute Stretch (Figure 4)**
+- Lying or seated
+- Ankle over knee, pull toward chest
+- 30 sec each side
+
+**Calf Stretch**
+- Wall stretch, knee straight
+- Then knee bent
+- 20 sec each position
+
+### Phase 3: Upper Body Stretches (3 min)
+
+**Chest Stretch**
+- Doorway or hands behind back
+- 30 sec
+
+**Shoulder Stretch**
+- Cross arm over body
+- 30 sec each side
+
+**Tricep Stretch**
+- Arm overhead, elbow bent
+- 30 sec each side
+
+**Upper Back**
+- Hands clasped, round forward
+- 30 sec
+
+**Neck Stretches**
+- Ear to shoulder
+- 20 sec each side
+
+### Phase 4: Final Relaxation (1 min)
+
+- Lie on back
+- Deep breathing
+- Full body scan
+
+## Workout-Specific Cool Downs
+
+### After Upper Body
+
+Focus on:
+- Chest stretch: 30 sec
+- Shoulder stretch: 30 sec each
+- Tricep stretch: 30 sec each
+- Lat stretch: 30 sec each
+- Neck stretches: 20 sec each direction
+
+### After Lower Body
+
+Focus on:
+- Quad stretch: 30 sec each
+- Hamstring stretch: 30 sec each
+- Hip flexor stretch: 30 sec each
+- Glute stretch: 30 sec each
+- Calf stretch: 30 sec each
+
+### After Running
+
+Focus on:
+- Hip flexors: 45 sec each
+- Quads: 30 sec each
+- Hamstrings: 30 sec each
+- Calves: 30 sec each
+- IT band area: 30 sec each (gentle)
+
+### After Full Body
+
+Hit all major areas:
+- 20-30 sec each stretch
+- Don't skip anything
+- Extra time on tight areas
+
+## Quick Cool Down (5 min)
+
+When time is limited:
+
+1. Walk: 1 min
+2. Standing quad stretch: 20 sec each
+3. Standing hamstring stretch: 20 sec each
+4. Standing hip flexor stretch: 20 sec each
+5. Shoulder stretch: 20 sec each
+6. Chest stretch: 20 sec
+7. Deep breaths: 30 sec
+
+## Stretching Guidelines
+
+### Hold Time
+
+- Minimum 20 seconds
+- Ideally 30-60 seconds
+- Longer for very tight muscles
+
+### Intensity
+
+- Feel stretch, not pain
+- Gentle, sustained pressure
+- No bouncing
+
+### Breathing
+
+- Breathe deeply
+- Exhale into stretch
+- Promotes relaxation
+
+### Focus
+
+- Muscles you just worked
+- Chronically tight areas
+- Don't skip areas
+
+## Common Cool Down Mistakes
+
+### 1. Skipping It Entirely
+
+**Problem:** More soreness, slower recovery
+**Fix:** Even 5 minutes helps
+
+### 2. Rushing Through
+
+**Problem:** Stretches ineffective
+**Fix:** Hold 20-30 seconds minimum
+
+### 3. Stretching Cold Muscles
+
+**Problem:** Less effective, potential strain
+**Fix:** Do after workout when warm
+
+### 4. Only Stretching What's Sore
+
+**Problem:** Missing tight areas
+**Fix:** Full body, emphasize worked muscles
+
+### 5. Stretching Too Aggressively
+
+**Problem:** Potential muscle damage
+**Fix:** Gentle, sustained stretches
+
+## Adding Foam Rolling
+
+If time permits, add foam rolling before or during stretching:
+- 30-60 seconds per area
+- Before stretching for best results
+- Focus on tight muscles
+
+## The Bottom Line
+
+Cool down should:
+1. **Gradually reduce intensity** — Don't just stop
+2. **Include static stretching** — Hold 20-30 sec
+3. **Target worked muscles** — Plus tight areas
+4. **Promote relaxation** — Deep breathing
+5. **Take 5-10 minutes** — Worth the time
+
+How you finish is as important as how you start.
+
+---
+
+*Foundational Rehab includes proper cool downs in all programs.*
+    \`
   }
 };
 
