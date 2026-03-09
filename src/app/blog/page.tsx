@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'exercise-for-diabetes',
+    title: 'Exercise for Diabetes: Blood Sugar Control Through Movement',
+    excerpt: 'How exercise helps manage Type 2 diabetes and what types work best.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-anxiety',
+    title: 'Exercises for Anxiety: Calm Your Mind Through Movement',
+    excerpt: 'Specific exercises that help reduce anxiety symptoms naturally.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'walking-workout',
+    title: 'Walking Workouts: Transform Your Walk Into Real Exercise',
+    excerpt: 'How to make walking more effective with intervals, inclines, and intention.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Cardio',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'stair-workout',
+    title: 'Stair Workouts: No Gym Required',
+    excerpt: 'Build strength and cardio fitness with just a flight of stairs.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Cardio',
+    readTime: '5 min read'
+  },
+  {
     slug: 'exercises-for-osteoporosis',
     title: 'Exercises for Osteoporosis: Build Bone Strength Safely',
     excerpt: 'Weight-bearing and resistance exercises that help prevent bone loss.',
