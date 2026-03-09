@@ -56322,7 +56322,7 @@ The foam roller is a tool. A useful one. But still just a tool.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Diastasis Recti?
 
 Diastasis recti is a separation of the left and right sides of the rectus abdominis (the "six-pack" muscle) along the linea alba—the connective tissue running down your midline.
@@ -56498,7 +56498,7 @@ Your core can absolutely heal. It just needs the right approach.
 ---
 
 *Foundational Rehab provides progressive core programs designed to rebuild strength safely after pregnancy.*
-    \`
+    `
   },
   'acl-tear-recovery-exercises': {
     title: 'ACL Tear Recovery: Exercises for Before and After Surgery',
@@ -56506,7 +56506,7 @@ Your core can absolutely heal. It just needs the right approach.
     author: 'Foundational Rehab',
     category: 'Knee',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Understanding ACL Injuries
 
 The anterior cruciate ligament (ACL) prevents your shin bone from sliding forward under your thigh bone and provides rotational stability. It's most commonly torn during:
@@ -56739,7 +56739,7 @@ Follow your protocol, hit your milestones, and give yourself the full time to he
 ---
 
 *Foundational Rehab offers progressive knee programs aligned with evidence-based ACL rehabilitation protocols.*
-    \`
+    `
   },
   'meniscus-tear-exercises-recovery': {
     title: 'Meniscus Tear: Exercises for Recovery (With or Without Surgery)',
@@ -56747,7 +56747,7 @@ Follow your protocol, hit your milestones, and give yourself the full time to he
     author: 'Foundational Rehab',
     category: 'Knee',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is a Meniscus Tear?
 
 Your knee has two C-shaped pieces of cartilage called menisci—one on the inner side (medial) and one on the outer side (lateral). They act as shock absorbers and help stabilize the joint.
@@ -56977,7 +56977,7 @@ Whether you have surgery or not, the rehab principles are similar—just the tim
 ---
 
 *Foundational Rehab provides progressive knee programs for meniscus recovery, whether you're treating conservatively or rehabbing after surgery.*
-    \`
+    `
   },
   'vertigo-bppv-exercises': {
     title: 'Vertigo and BPPV: Exercises That Actually Stop the Spinning',
@@ -56985,7 +56985,7 @@ Whether you have surgery or not, the rehab principles are similar—just the tim
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is BPPV?
 
 Benign Paroxysmal Positional Vertigo (BPPV) is the most common cause of vertigo. It causes brief spinning sensations triggered by head movements like:
@@ -57165,7 +57165,7 @@ The spinning may be terrifying, but BPPV is benign. With the right maneuver, rel
 ---
 
 *Foundational Rehab provides guidance for balance and vestibular conditions alongside our musculoskeletal programs.*
-    \`
+    `
   },
   'scoliosis-exercises-spinal-curvature': {
     title: 'Scoliosis Exercises: Can You Improve Spinal Curvature?',
@@ -57173,7 +57173,7 @@ The spinning may be terrifying, but BPPV is benign. With the right maneuver, rel
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Scoliosis?
 
 Scoliosis is a lateral (sideways) curvature of the spine greater than 10 degrees, often with rotation. It can appear as:
@@ -57351,7 +57351,7 @@ For significant curves, specialized approaches like Schroth therapy can provide 
 ---
 
 *Foundational Rehab provides core and posture programs that support spinal health.*
-    \`
+    `
   },
   'osteoporosis-exercises-bone-health': {
     title: 'Osteoporosis Exercises: Build Bone Strength and Reduce Fracture Risk',
@@ -57359,7 +57359,7 @@ For significant curves, specialized approaches like Schroth therapy can provide 
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Understanding Osteoporosis
 
 Osteoporosis means "porous bone." It's a condition where bones become weak and brittle, increasing fracture risk. Common fracture sites:
@@ -57563,7 +57563,7 @@ Start where you are, progress gradually, and stay consistent.
 ---
 
 *Foundational Rehab offers bone-safe strengthening programs designed for osteoporosis management.*
-    \`
+    `
   },
   'spinal-stenosis-exercises-relief': {
     title: 'Spinal Stenosis Exercises: Relieve Nerve Compression Naturally',
@@ -57571,7 +57571,7 @@ Start where you are, progress gradually, and stay consistent.
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Spinal Stenosis?
 
 Spinal stenosis is narrowing of the spinal canal or neural foramina (the openings where nerves exit). This narrowing compresses nerves, causing:
@@ -57781,7 +57781,7 @@ Many people manage stenosis successfully without surgery through consistent, app
 ---
 
 *Foundational Rehab provides flexion-based back programs designed for spinal stenosis management.*
-    \`
+    `
   },
   'kyphosis-exercises-rounded-upper-back': {
     title: 'Kyphosis Exercises: Fix Rounded Upper Back and Improve Posture',
@@ -57789,7 +57789,7 @@ Many people manage stenosis successfully without surgery through consistent, app
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Kyphosis?
 
 Kyphosis is excessive forward curvature of the upper back (thoracic spine). Some curve is normal (20-45°), but beyond that it becomes problematic.
@@ -57978,7 +57978,7 @@ Your posture developed over years; give it months to change. But improvements of
 ---
 
 *Foundational Rehab provides posture correction programs targeting rounded upper back and forward head posture.*
-    \`
+    `
   },
   'fibromyalgia-exercises-pain-management': {
     title: 'Fibromyalgia Exercises: How to Move When Everything Hurts',
@@ -57986,7 +57986,7 @@ Your posture developed over years; give it months to change. But improvements of
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Exercise Paradox
 
 Fibromyalgia creates a cruel paradox: exercise is one of the most effective treatments, yet movement often feels impossible when you're in pain, exhausted, and flaring.
@@ -58206,7 +58206,7 @@ Movement won't cure fibromyalgia, but it's one of the most powerful tools you ha
 ---
 
 *Foundational Rehab provides gentle, progressive programs suitable for chronic pain conditions.*
-    \`
+    `
   },
   'pelvic-floor-exercises-complete-guide': {
     title: 'Pelvic Floor Exercises: The Complete Guide for All Genders',
@@ -58214,7 +58214,7 @@ Movement won't cure fibromyalgia, but it's one of the most powerful tools you ha
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## What Is the Pelvic Floor?
 
 The pelvic floor is a group of muscles spanning the bottom of your pelvis—like a hammock supporting your bladder, bowel, and reproductive organs.
@@ -58437,7 +58437,7 @@ If you're experiencing pelvic floor dysfunction, don't suffer in silence. These 
 ---
 
 *Foundational Rehab offers core and pelvic floor programs to support your foundation from the inside out.*
-    \`
+    `
   },
   'stroke-recovery-exercises': {
     title: 'Stroke Recovery Exercises: Rebuilding Movement and Function',
@@ -58445,7 +58445,7 @@ If you're experiencing pelvic floor dysfunction, don't suffer in silence. These 
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Understanding Stroke Recovery
 
 A stroke damages brain tissue, affecting movement, sensation, speech, and cognition. Recovery depends on:
@@ -58717,7 +58717,7 @@ Every repetition counts. Keep going.
 ---
 
 *Foundational Rehab provides progressive exercise programs suitable for neurological recovery.*
-    \`
+    `
   },
   'ankylosing-spondylitis-exercises': {
     title: 'Ankylosing Spondylitis Exercises: Stay Mobile and Reduce Stiffness',
@@ -58725,7 +58725,7 @@ Every repetition counts. Keep going.
     author: 'Foundational Rehab',
     category: 'Back',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Ankylosing Spondylitis?
 
 Ankylosing spondylitis (AS) is an inflammatory arthritis primarily affecting the spine. Over time, inflammation can lead to new bone formation, potentially fusing vertebrae together.
@@ -59025,7 +59025,7 @@ Your spine's future mobility depends on what you do today.
 ---
 
 *Foundational Rehab provides mobility and posture programs to help maintain function with spinal conditions.*
-    \`
+    `
   },
   'parkinsons-exercises-movement': {
     title: 'Parkinson\'s Exercises: Movement Strategies That Make a Difference',
@@ -59033,7 +59033,7 @@ Your spine's future mobility depends on what you do today.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Exercise as Medicine for Parkinson's
 
 Exercise isn't just helpful for Parkinson's disease—it may be neuroprotective, potentially slowing disease progression. Research consistently shows:
@@ -59320,7 +59320,7 @@ The evidence is clear: people with Parkinson's who exercise do better than those
 ---
 
 *Foundational Rehab provides movement programs designed to support neurological health and function.*
-    \`
+    `
   },
   'peripheral-neuropathy-exercises': {
     title: 'Peripheral Neuropathy Exercises: Improve Balance and Reduce Symptoms',
@@ -59328,7 +59328,7 @@ The evidence is clear: people with Parkinson's who exercise do better than those
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Peripheral Neuropathy?
 
 Peripheral neuropathy is nerve damage that typically affects the hands and feet first. Symptoms include:
@@ -59598,7 +59598,7 @@ Exercise may not reverse nerve damage, but it can maintain function, prevent fal
 ---
 
 *Foundational Rehab offers balance and strengthening programs adaptable for neuropathy management.*
-    \`
+    `
   },
   'long-covid-exercise-recovery': {
     title: 'Long COVID Exercise: How to Safely Return to Activity',
@@ -59606,7 +59606,7 @@ Exercise may not reverse nerve damage, but it can maintain function, prevent fal
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Challenge of Long COVID
 
 Long COVID presents unique challenges for exercise. Many people experience:
@@ -59825,7 +59825,7 @@ Recovery is possible, but it requires patience and respecting your body's signal
 ---
 
 *Foundational Rehab provides gentle, adaptable programs suitable for fatigue-related conditions.*
-    \`
+    `
   },
   'rheumatoid-arthritis-exercises': {
     title: 'Rheumatoid Arthritis Exercises: Protect Your Joints While Staying Active',
@@ -59833,7 +59833,7 @@ Recovery is possible, but it requires patience and respecting your body's signal
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Exercise and Rheumatoid Arthritis
 
 Rheumatoid arthritis (RA) is an autoimmune condition causing joint inflammation. Exercise might seem counterintuitive, but research clearly shows:
@@ -60090,7 +60090,7 @@ Movement is medicine—the right dose, at the right time.
 ---
 
 *Foundational Rehab offers joint-friendly strengthening and mobility programs for arthritis management.*
-    \`
+    `
   },
   'multiple-sclerosis-exercises': {
     title: 'Multiple Sclerosis Exercises: Stay Active and Manage Symptoms',
@@ -60098,7 +60098,7 @@ Movement is medicine—the right dose, at the right time.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Exercise and Multiple Sclerosis
 
 For years, people with MS were told to avoid exercise. We now know the opposite is true:
@@ -60370,7 +60370,7 @@ Your body can adapt and improve, regardless of your current level.
 ---
 
 *Foundational Rehab provides adaptable programs suitable for neurological conditions including MS.*
-    \`
+    `
   },
   'copd-breathing-exercises': {
     title: 'COPD Exercises: Breathing Techniques and Physical Activity Guide',
@@ -60378,7 +60378,7 @@ Your body can adapt and improve, regardless of your current level.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Exercise Matters in COPD
 
 If you have COPD, shortness of breath might make exercise seem impossible. But here's the truth:
@@ -60649,7 +60649,7 @@ Exercise is one of the best treatments for COPD. Your breathing can get better.
 ---
 
 *Foundational Rehab offers gentle, progressive programs suitable for respiratory conditions.*
-    \`
+    `
   },
   'lymphedema-exercises-swelling': {
     title: 'Lymphedema Exercises: Reduce Swelling and Improve Circulation',
@@ -60657,7 +60657,7 @@ Exercise is one of the best treatments for COPD. Your breathing can get better.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Lymphedema?
 
 Lymphedema is swelling caused by lymphatic system dysfunction. Fluid accumulates in tissues, most commonly affecting arms or legs.
@@ -60932,7 +60932,7 @@ Movement helps your lymphatic system work—don't let fear of exercise stop you.
 ---
 
 *Foundational Rehab provides gentle, adaptable programs that can complement lymphedema management.*
-    \`
+    `
   },
   'exercise-for-better-sleep': {
     title: 'Exercise for Better Sleep: What Works and When to Do It',
@@ -60940,7 +60940,7 @@ Movement helps your lymphatic system work—don't let fear of exercise stop you.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Sleep-Exercise Connection
 
 Exercise is one of the most effective natural sleep aids:
@@ -61175,7 +61175,7 @@ Better sleep means better exercise recovery. Better exercise means better sleep.
 ---
 
 *Foundational Rehab provides programs that support overall health, including better sleep through appropriate movement.*
-    \`
+    `
   },
   'exercise-for-anxiety-depression': {
     title: 'Exercise for Anxiety and Depression: How Movement Helps Mental Health',
@@ -61183,7 +61183,7 @@ Better sleep means better exercise recovery. Better exercise means better sleep.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Mental Health Benefits of Exercise
 
 Exercise is one of the most powerful tools for mental health:
@@ -61444,7 +61444,7 @@ The hardest part is starting. But once you do, the benefits build on themselves.
 ---
 
 *Foundational Rehab provides gentle, accessible programs to help you start moving—wherever you are.*
-    \`
+    `
   },
   'exercise-during-cancer-treatment': {
     title: 'Exercise During Cancer Treatment: Safe Movement for Recovery',
@@ -61452,7 +61452,7 @@ The hardest part is starting. But once you do, the benefits build on themselves.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Exercise and Cancer: What We Know
 
 The old advice to "rest and take it easy" during cancer treatment has been replaced by strong evidence:
@@ -61669,7 +61669,7 @@ Check with your oncology team, then start moving—however you can.
 ---
 
 *Foundational Rehab provides gentle, adaptable programs suitable for recovery during and after cancer treatment.*
-    \`
+    `
   },
   'chronic-pain-exercises': {
     title: 'Exercise for Chronic Pain: Why Movement Is Medicine',
@@ -61677,7 +61677,7 @@ Check with your oncology team, then start moving—however you can.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Exercise-Pain Paradox
 
 When you hurt, the last thing you want to do is move. Yet exercise is one of the most effective treatments for chronic pain.
@@ -61934,7 +61934,7 @@ Movement is medicine. The right dose, at the right time, makes all the differenc
 ---
 
 *Foundational Rehab provides gentle, progressive programs designed for chronic pain management.*
-    \`
+    `
   },
   'return-to-exercise-after-illness': {
     title: 'Return to Exercise After Illness: How to Rebuild Safely',
@@ -61942,7 +61942,7 @@ Movement is medicine. The right dose, at the right time, makes all the differenc
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Comeback After Being Sick
 
 Whether you had the flu, COVID, a surgery, or another illness that kept you down, coming back to exercise requires patience. Push too hard, and you risk:
@@ -62160,7 +62160,7 @@ The fitness will return. Your job is to let it happen without rushing the proces
 ---
 
 *Foundational Rehab provides gentle, progressive programs suitable for rebuilding after illness or injury.*
-    \`
+    `
   },
   'vestibular-rehabilitation-exercises': {
     title: 'Vestibular Rehabilitation: Exercises for Dizziness and Balance Problems',
@@ -62168,7 +62168,7 @@ The fitness will return. Your job is to let it happen without rushing the proces
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Vestibular Rehabilitation?
 
 Vestibular rehabilitation (VR) is exercise-based therapy for dizziness and balance problems caused by inner ear dysfunction. It works by:
@@ -62437,7 +62437,7 @@ Your brain can adapt. Give it the right signals through consistent exercise.
 ---
 
 *Foundational Rehab provides balance programs that complement vestibular rehabilitation.*
-    \`
+    `
   },
   'exercises-for-headaches-migraines': {
     title: 'Exercises for Headaches and Migraines: Movement That Helps, Not Hurts',
@@ -62445,7 +62445,7 @@ Your brain can adapt. Give it the right signals through consistent exercise.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Exercise and Headaches: A Complicated Relationship
 
 Exercise can both help and trigger headaches:
@@ -62665,7 +62665,7 @@ The right movement routine can significantly reduce headache burden—without me
 ---
 
 *Foundational Rehab provides gentle programs including neck and shoulder mobility routines.*
-    \`
+    `
   },
   'foot-pain-exercises': {
     title: 'Foot Pain Exercises: Strengthen and Stretch for Healthier Feet',
@@ -62673,7 +62673,7 @@ The right movement routine can significantly reduce headache burden—without me
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Foot Exercises Matter
 
 Your feet contain 26 bones, 33 joints, and over 100 muscles, tendons, and ligaments each. They're the foundation of your body, yet often neglected.
@@ -62931,7 +62931,7 @@ Your feet carry you everywhere. Take care of them.
 ---
 
 *Foundational Rehab provides foot and ankle programs to build a stronger foundation.*
-    \`
+    `
   },
   'hand-finger-exercises-pain-stiffness': {
     title: 'Hand and Finger Exercises: Relieve Pain, Stiffness, and Weakness',
@@ -62939,7 +62939,7 @@ Your feet carry you everywhere. Take care of them.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Hand Exercises Matter
 
 Your hands perform thousands of movements daily. Problems arise from:
@@ -63204,7 +63204,7 @@ Your hands do so much—give them the care they need.
 ---
 
 *Foundational Rehab provides hand and upper extremity programs for maintaining function and reducing pain.*
-    \`
+    `
   },
   'rotator-cuff-surgery-recovery-exercises': {
     title: 'Rotator Cuff Surgery Recovery: Week-by-Week Exercise Guide',
@@ -63212,7 +63212,7 @@ Your hands do so much—give them the care they need.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Understanding Rotator Cuff Repair
 
 Rotator cuff surgery repairs torn tendons in your shoulder. Recovery is long—typically 4-6 months for basic function, up to a year for full recovery.
@@ -63478,7 +63478,7 @@ Full recovery takes time, but most people return to their activities.
 ---
 
 *Foundational Rehab provides shoulder rehabilitation programs aligned with post-surgical protocols.*
-    \`
+    `
   },
   'postpartum-exercise-guide': {
     title: 'Postpartum Exercise: How to Safely Return to Fitness After Baby',
@@ -63486,7 +63486,7 @@ Full recovery takes time, but most people return to their activities.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Your Body After Pregnancy
 
 Pregnancy changes your body significantly:
@@ -63740,7 +63740,7 @@ Your fitness will return. Give your body the time and care it needs.
 ---
 
 *Foundational Rehab provides postpartum-specific programs to help you rebuild safely.*
-    \`
+    `
   },
   'exercise-for-blood-sugar-control': {
     title: 'Exercise for Blood Sugar Control: A Guide for Diabetes and Prediabetes',
@@ -63748,7 +63748,7 @@ Your fitness will return. Give your body the time and care it needs.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Exercise as Medicine for Blood Sugar
 
 Exercise is one of the most powerful tools for blood sugar control:
@@ -63971,7 +63971,7 @@ Consistent exercise can significantly improve your blood sugar control and reduc
 ---
 
 *Foundational Rehab provides exercise programs suitable for diabetes management.*
-    \`
+    `
   },
   'resistance-band-exercises-full-body': {
     title: 'Resistance Band Exercises: Complete Full-Body Workout Guide',
@@ -63979,7 +63979,7 @@ Consistent exercise can significantly improve your blood sugar control and reduc
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Resistance Bands?
 
 Resistance bands offer unique advantages:
@@ -64259,7 +64259,7 @@ Don't underestimate bands—they can build real strength.
 ---
 
 *Foundational Rehab incorporates resistance band exercises into many of our strengthening programs.*
-    \`
+    `
   },
   'bodyweight-exercises-no-equipment': {
     title: 'Bodyweight Exercises: Complete No-Equipment Workout Guide',
@@ -64267,7 +64267,7 @@ Don't underestimate bands—they can build real strength.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Power of Bodyweight Training
 
 You don't need equipment to get strong. Bodyweight exercises:
@@ -64550,7 +64550,7 @@ No excuses—your body is your gym.
 ---
 
 *Foundational Rehab incorporates bodyweight exercises into many programs for accessibility and effectiveness.*
-    \`
+    `
   },
   'exercise-habit-motivation': {
     title: 'How to Make Exercise a Habit: The Psychology of Sticking With It',
@@ -64558,7 +64558,7 @@ No excuses—your body is your gym.
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Consistency Is the Real Challenge
 
 Most people know exercise is good for them. The problem isn't knowledge—it's consistency.
@@ -64782,7 +64782,7 @@ Start small, stay consistent, and let time do the work. The habit will form.
 ---
 
 *Foundational Rehab provides programs designed to fit into your life and become lasting habits.*
-    \`
+    `
   },
   'home-workout-guide-no-gym': {
     title: 'Home Workout Guide: Build a Complete Fitness Routine Without a Gym',
@@ -64790,7 +64790,7 @@ Start small, stay consistent, and let time do the work. The habit will form.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Home Workouts Work
 
 Working out at home offers real advantages:
@@ -65029,7 +65029,7 @@ The best workout is the one you actually do. Home workouts remove barriers and m
 ---
 
 *Foundational Rehab provides home-friendly programs you can do with minimal or no equipment.*
-    \`
+    `
   },
   'prehab-exercises-before-surgery': {
     title: 'Prehab: How Exercise Before Surgery Improves Your Recovery',
@@ -65037,7 +65037,7 @@ The best workout is the one you actually do. Home workouts remove barriers and m
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Prehab?
 
 Prehabilitation (prehab) is exercise and preparation before surgery. The concept is simple:
@@ -65258,15 +65258,15 @@ Going into surgery fit and prepared sets you up for the best possible recovery.
 ---
 
 *Foundational Rehab offers surgery-specific prehab programs to prepare you for the best possible recovery.*
-    \`
+    `
   },
-  'strength-training-beginners-guide': {
+  'strength-training-beginners-how-to-start': {
     title: 'Strength Training for Beginners: How to Start Lifting Safely',
     date: '2026-03-07',
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Why Strength Training Matters
 
 Strength training isn't just for bodybuilders. Everyone benefits:
@@ -65530,7 +65530,7 @@ Everyone was a beginner once. Start where you are and keep showing up.
 ---
 
 *Foundational Rehab provides strength programs suitable for beginners through advanced exercisers.*
-    \`
+    `
   },
   'hiit-beginners-guide': {
     title: 'HIIT for Beginners: High-Intensity Interval Training Made Simple',
@@ -65538,7 +65538,7 @@ Everyone was a beginner once. Start where you are and keep showing up.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is HIIT?
 
 High-Intensity Interval Training (HIIT) alternates between:
@@ -65795,7 +65795,7 @@ When done right, HIIT delivers significant benefits in minimal time.
 ---
 
 *Foundational Rehab incorporates interval training principles into cardio programs where appropriate.*
-    \`
+    `
   },
   'exercise-for-energy-fatigue': {
     title: 'Exercise for Energy: How Movement Fights Fatigue',
@@ -65803,7 +65803,7 @@ When done right, HIIT delivers significant benefits in minimal time.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Energy Paradox
 
 It seems counterintuitive: You're tired, so you should... exercise?
@@ -66040,7 +66040,7 @@ The fitter you become, the more energy you'll have for everything else.
 ---
 
 *Foundational Rehab provides gentle programs designed to build energy and reduce fatigue.*
-    \`
+    `
   },
   'joint-health-exercises': {
     title: 'Exercises for Joint Health: Keep Your Joints Moving Well',
@@ -66048,7 +66048,7 @@ The fitter you become, the more energy you'll have for everything else.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Joint Health Matters
 
 Healthy joints allow you to move freely throughout life. Joint problems lead to:
@@ -66318,7 +66318,7 @@ Your joints were made to move. Keep them moving well.
 ---
 
 *Foundational Rehab provides joint-friendly programs to maintain mobility and reduce pain.*
-    \`
+    `
   },
   'exercise-for-stress-relief': {
     title: 'Exercise for Stress Relief: How Physical Activity Calms Your Mind',
@@ -66326,7 +66326,7 @@ Your joints were made to move. Keep them moving well.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Exercise as a Stress Management Tool
 
 Stress is inevitable. How you manage it matters. Exercise is one of the most effective stress relievers available:
@@ -66591,7 +66591,7 @@ Your body was designed to move. Use that to calm your mind.
 ---
 
 *Foundational Rehab provides programs that support both physical and mental well-being.*
-    \`
+    `
   },
   'functional-fitness-exercises': {
     title: 'Functional Fitness: Exercises That Improve Real-Life Movement',
@@ -66599,7 +66599,7 @@ Your body was designed to move. Use that to calm your mind.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Functional Fitness?
 
 Functional fitness means training movements, not just muscles. The goal is improving your ability to:
@@ -66864,7 +66864,7 @@ The best exercise prepares you for everything else you want to do.
 ---
 
 *Foundational Rehab programs are built on functional movement principles.*
-    \`
+    `
   },
   'exercise-for-healthy-aging': {
     title: 'Exercise for Healthy Aging: Stay Strong and Independent as You Age',
@@ -66872,7 +66872,7 @@ The best exercise prepares you for everything else you want to do.
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Exercise Matters More as You Age
 
 The benefits of exercise become MORE important with age:
@@ -67129,7 +67129,7 @@ Your future independence depends on what you do today.
 ---
 
 *Foundational Rehab provides programs designed for healthy aging at every stage.*
-    \`
+    `
   },
   'pain-vs-soreness-exercise': {
     title: 'Pain vs. Soreness: How to Know the Difference When Exercising',
@@ -67137,7 +67137,7 @@ Your future independence depends on what you do today.
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Critical Question
 
 Every exerciser faces this question: Should I push through, or should I stop?
@@ -67319,7 +67319,7 @@ Listening to your body is a skill. Develop it to train safely for life.
 ---
 
 *Foundational Rehab helps you understand your body's signals and exercise appropriately.*
-    \`
+    `
   },
   'progressive-overload-guide': {
     title: 'Progressive Overload: The Key Principle for Getting Stronger',
@@ -67327,7 +67327,7 @@ Listening to your body is a skill. Develop it to train safely for life.
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Progressive Overload?
 
 Progressive overload is the gradual increase of stress placed on the body during training. It's the fundamental principle behind all physical adaptation.
@@ -67547,7 +67547,7 @@ Without progressive overload, you're just maintaining. To improve, you must prog
 ---
 
 *Foundational Rehab programs incorporate progressive overload principles for continuous improvement.*
-    \`
+    `
   },
   'daily-mobility-routine': {
     title: 'Daily Mobility Routine: 10 Minutes to Move Better',
@@ -67555,7 +67555,7 @@ Without progressive overload, you're just maintaining. To improve, you must prog
     author: 'Foundational Rehab',
     category: 'Exercise',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Daily Mobility Matters
 
 Modern life creates stiffness:
@@ -67778,7 +67778,7 @@ Daily mobility is:
 ---
 
 *Foundational Rehab provides daily mobility routines as part of comprehensive movement programs.*
-    \`
+    `
   },
   'exercise-recovery-techniques': {
     title: 'Exercise Recovery: Techniques That Actually Work',
@@ -67786,7 +67786,7 @@ Daily mobility is:
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Recovery Matters
 
 You don't get stronger during workouts—you get stronger during recovery.
@@ -68016,7 +68016,7 @@ Recovery is when you improve. Treat it as seriously as your training.
 ---
 
 *Foundational Rehab programs include recovery guidance to support your progress.*
-    \`
+    `
   },
   'setting-fitness-goals': {
     title: 'How to Set Fitness Goals That Actually Stick',
@@ -68024,7 +68024,7 @@ Recovery is when you improve. Treat it as seriously as your training.
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Most Fitness Goals Fail
 
 Common reasons goals fail:
@@ -68247,7 +68247,7 @@ The right goals, pursued consistently, lead to real results.
 ---
 
 *Foundational Rehab helps you set and achieve meaningful fitness goals with structured programs.*
-    \`
+    `
   },
   'eccentric-training-guide': {
     title: 'Eccentric Training: Why Slow Negatives Build Stronger Muscles',
@@ -68255,7 +68255,7 @@ The right goals, pursued consistently, lead to real results.
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Eccentric Training?
 
 Every muscle contraction has two phases:
@@ -68399,7 +68399,7 @@ Start with tempo work on exercises you already know. Focus on control, not weigh
 ---
 
 *Foundational Rehab programs include eccentric protocols for rehabilitation and strength building.*
-    \`
+    `
   },
   'isometric-exercises-strength': {
     title: 'Isometric Exercises: Build Strength Without Movement',
@@ -68407,7 +68407,7 @@ Start with tempo work on exercises you already know. Focus on control, not weigh
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Are Isometric Exercises?
 
 Isometric exercises involve muscle contraction **without joint movement**. You push or pull against an immovable resistance, or hold a position under tension.
@@ -68606,7 +68606,7 @@ Add isometric holds to your routine—they complement dynamic exercises and prov
 ---
 
 *Foundational Rehab uses isometric exercises throughout rehabilitation protocols for safe, effective strengthening.*
-    \`
+    `
   },
   'plyometric-training-beginners': {
     title: 'Plyometric Training Basics: Explosive Power for Beginners',
@@ -68614,7 +68614,7 @@ Add isometric holds to your routine—they complement dynamic exercises and prov
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Plyometric Training?
 
 Plyometrics ("plyo" for short) are explosive exercises that use the **stretch-shortening cycle**—a quick stretch of the muscle followed immediately by a powerful contraction.
@@ -68835,7 +68835,7 @@ Done right, plyos are incredibly effective. Done wrong, they're injury machines.
 ---
 
 *Foundational Rehab programs include appropriate power development progressions based on your current fitness level.*
-    \`
+    `
   },
   'heart-rate-training-zones': {
     title: 'Heart Rate Training Zones: A Complete Guide',
@@ -68843,7 +68843,7 @@ Done right, plyos are incredibly effective. Done wrong, they're injury machines.
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Are Heart Rate Training Zones?
 
 Training zones are intensity ranges based on your heart rate. Different zones stress your body differently and produce different adaptations.
@@ -69034,7 +69034,7 @@ The goal isn't to hit specific numbers—it's to stimulate the adaptations you w
 ---
 
 *Foundational Rehab programs consider your fitness level and goals when recommending appropriate intensity levels.*
-    \`
+    `
   },
   'how-to-lunge-properly': {
     title: 'How to Lunge Properly: Form Guide and Variations',
@@ -69042,7 +69042,7 @@ The goal isn't to hit specific numbers—it's to stimulate the adaptations you w
     author: 'Foundational Rehab',
     category: 'Exercise Guides',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Lunges Matter
 
 Lunges are one of the most functional exercises you can do. They train:
@@ -69255,7 +69255,7 @@ Master the lunge and you've mastered single-leg training.
 ---
 
 *Foundational Rehab programs include progressive lunge variations matched to your level and goals.*
-    \`
+    `
   },
   'how-to-push-up-perfect-form': {
     title: 'How to Do a Push-Up with Perfect Form',
@@ -69263,7 +69263,7 @@ Master the lunge and you've mastered single-leg training.
     author: 'Foundational Rehab',
     category: 'Exercise Guides',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Push-Ups?
 
 The push-up is the ultimate bodyweight exercise:
@@ -69490,7 +69490,7 @@ Master the push-up and you've got a lifetime exercise that works anywhere, anyti
 ---
 
 *Foundational Rehab programs include push-up progressions appropriate for all fitness levels.*
-    \`
+    `
   },
   'how-to-pull-up-progressions': {
     title: 'How to Do a Pull-Up: Complete Progression Guide',
@@ -69498,7 +69498,7 @@ Master the push-up and you've got a lifetime exercise that works anywhere, anyti
     author: 'Foundational Rehab',
     category: 'Exercise Guides',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Why Pull-Ups?
 
 The pull-up is the king of upper body exercises:
@@ -69761,7 +69761,7 @@ Anyone can learn to do a pull-up with the right progression and consistency.
 ---
 
 *Foundational Rehab programs include pulling progressions matched to your current strength level.*
-    \`
+    `
   },
   'hip-hinge-movement-guide': {
     title: 'The Hip Hinge: Master This Essential Movement Pattern',
@@ -69769,7 +69769,7 @@ Anyone can learn to do a pull-up with the right progression and consistency.
     author: 'Foundational Rehab',
     category: 'Exercise Guides',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is the Hip Hinge?
 
 The hip hinge is a fundamental movement pattern where you bend at the hips while keeping your spine neutral. Your torso lowers as your hips push back — like closing a door with your butt.
@@ -69994,7 +69994,7 @@ Master the pattern before adding weight. Perfect form with a broomstick translat
 ---
 
 *Foundational Rehab programs teach proper hip hinge mechanics as a foundation for strength and daily movement.*
-    \`
+    `
   },
   'kettlebell-workout-beginners': {
     title: 'Kettlebell Workout for Beginners: Essential Exercises and Programs',
@@ -70002,7 +70002,7 @@ Master the pattern before adding weight. Perfect form with a broomstick translat
     author: 'Foundational Rehab',
     category: 'Workouts',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Why Kettlebells?
 
 Kettlebells offer unique benefits that dumbbells and barbells can't match:
@@ -70224,7 +70224,7 @@ One kettlebell, 20 minutes, full-body results.
 ---
 
 *Foundational Rehab programs incorporate kettlebell training for functional strength and conditioning.*
-    \`
+    `
   },
   'dumbbell-full-body-workout': {
     title: 'Dumbbell Full Body Workout: Complete Home Training Guide',
@@ -70232,7 +70232,7 @@ One kettlebell, 20 minutes, full-body results.
     author: 'Foundational Rehab',
     category: 'Workouts',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Dumbbells?
 
 Dumbbells are the most versatile home gym equipment:
@@ -70457,7 +70457,7 @@ A pair of dumbbells can build serious strength and muscle:
 ---
 
 *Foundational Rehab programs include dumbbell workouts scaled to your equipment and fitness level.*
-    \`
+    `
   },
   '10-minute-full-body-workout': {
     title: '10-Minute Full Body Workout: Quick and Effective',
@@ -70465,7 +70465,7 @@ A pair of dumbbells can build serious strength and muscle:
     author: 'Foundational Rehab',
     category: 'Workouts',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Can 10 Minutes Really Work?
 
 Yes — with the right approach:
@@ -70670,7 +70670,7 @@ Start with 10 minutes. Do it every day. Results will come.
 ---
 
 *Foundational Rehab offers quick workouts designed to fit your schedule.*
-    \`
+    `
   },
   '20-minute-strength-workout': {
     title: '20-Minute Strength Workout: Build Muscle Without the Gym',
@@ -70678,7 +70678,7 @@ Start with 10 minutes. Do it every day. Results will come.
     author: 'Foundational Rehab',
     category: 'Workouts',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Can You Build Strength in 20 Minutes?
 
 Absolutely. Here's why:
@@ -70881,7 +70881,7 @@ Stop waiting for the "right" workout. Start with 20 minutes. Do it consistently.
 ---
 
 *Foundational Rehab programs include efficient strength workouts that fit your schedule.*
-    \`
+    `
   },
   'pilates-benefits-beginners-guide': {
     title: 'Pilates for Beginners: Benefits, Basics, and Getting Started',
@@ -70889,7 +70889,7 @@ Stop waiting for the "right" workout. Start with 20 minutes. Do it consistently.
     author: 'Foundational Rehab',
     category: 'Exercise Modalities',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Pilates?
 
 Pilates is a low-impact exercise system developed by Joseph Pilates in the early 20th century. It focuses on:
@@ -71142,7 +71142,7 @@ Start with basic mat exercises, focus on quality over quantity, and be consisten
 ---
 
 *Foundational Rehab programs incorporate Pilates principles for core stability and movement quality.*
-    \`
+    `
   },
   'tai-chi-benefits-beginners': {
     title: 'Tai Chi for Beginners: Benefits, Basics, and How to Start',
@@ -71150,7 +71150,7 @@ Start with basic mat exercises, focus on quality over quantity, and be consisten
     author: 'Foundational Rehab',
     category: 'Exercise Modalities',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Tai Chi?
 
 Tai Chi (Tai Chi Chuan) is an ancient Chinese martial art practiced today primarily for health benefits. It involves:
@@ -71431,7 +71431,7 @@ Start with a class or video, practice regularly, be patient. The slow movements 
 ---
 
 *Foundational Rehab recognizes Tai Chi as evidence-based exercise for balance, pain management, and overall wellness.*
-    \`
+    `
   },
   'swimming-exercise-benefits': {
     title: 'Swimming for Exercise: Complete Guide to Pool Workouts',
@@ -71439,7 +71439,7 @@ Start with a class or video, practice regularly, be patient. The slow movements 
     author: 'Foundational Rehab',
     category: 'Exercise Modalities',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Swimming?
 
 Swimming is one of the best forms of exercise available:
@@ -71715,7 +71715,7 @@ Start where you are — even walking in water counts. Build gradually. Swimming 
 ---
 
 *Foundational Rehab recommends swimming and aquatic exercise for joint-friendly conditioning and rehabilitation.*
-    \`
+    `
   },
   'yoga-for-back-pain-relief': {
     title: 'Yoga for Back Pain: Best Poses and Practices for Relief',
@@ -71723,7 +71723,7 @@ Start where you are — even walking in water counts. Build gradually. Swimming 
     author: 'Foundational Rehab',
     category: 'Exercise Modalities',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Can Yoga Help Back Pain?
 
 Yes — research supports yoga for chronic low back pain:
@@ -72005,7 +72005,7 @@ Start with gentle poses, practice regularly, and progress slowly. Your back will
 ---
 
 *Foundational Rehab programs incorporate yoga principles for back pain relief and prevention.*
-    \`
+    `
   },
   'chair-exercises-seated-workout': {
     title: 'Chair Exercises: Complete Seated Workout Guide',
@@ -72013,7 +72013,7 @@ Start with gentle poses, practice regularly, and progress slowly. Your back will
     author: 'Foundational Rehab',
     category: 'Accessibility',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Who Benefits from Chair Exercises?
 
 Chair exercises aren't just for those who can't stand. They're valuable for:
@@ -72326,7 +72326,7 @@ Don't let mobility limitations stop you. A chair and commitment are all you need
 ---
 
 *Foundational Rehab offers seated exercise programs for all ability levels.*
-    \`
+    `
   },
   '30-minute-full-body-workout': {
     title: '30-Minute Full Body Workout: The Perfect Middle Ground',
@@ -72334,7 +72334,7 @@ Don't let mobility limitations stop you. A chair and commitment are all you need
     author: 'Foundational Rehab',
     category: 'Workouts',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why 30 Minutes?
 
 30 minutes is the sweet spot for most people:
@@ -72563,7 +72563,7 @@ The best workout is the one you actually do. 30 minutes, 3-5 times per week, con
 ---
 
 *Foundational Rehab offers 30-minute workout programs designed for your goals and equipment.*
-    \`
+    `
   },
   'standing-desk-exercises-posture': {
     title: 'Standing Desk Guide: Exercises and Posture for Pain-Free Standing',
@@ -72571,7 +72571,7 @@ The best workout is the one you actually do. 30 minutes, 3-5 times per week, con
     author: 'Foundational Rehab',
     category: 'Workplace',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Standing Desk Promise (and Problem)
 
 Standing desks promise better health than sitting all day. And research supports benefits:
@@ -72824,7 +72824,7 @@ The goal isn't to stand instead of sit — it's to move more throughout your day
 ---
 
 *Foundational Rehab provides workplace wellness programs including standing desk optimization.*
-    \`
+    `
   },
   'workout-splits-guide': {
     title: 'Workout Splits Explained: How to Structure Your Training',
@@ -72832,7 +72832,7 @@ The goal isn't to stand instead of sit — it's to move more throughout your day
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is a Workout Split?
 
 A workout split is how you organize your training across the week. Instead of doing everything every session, you divide muscle groups or movement patterns across different days.
@@ -73125,7 +73125,7 @@ For most people, Full Body (3x/week) or Upper/Lower (4x/week) delivers excellent
 ---
 
 *Foundational Rehab helps you find the right training structure for your schedule and goals.*
-    \`
+    `
   },
   'complete-beginners-guide-exercise': {
     title: 'Complete Beginner\'s Guide to Exercise: How to Start from Zero',
@@ -73133,7 +73133,7 @@ For most people, Full Body (3x/week) or Upper/Lower (4x/week) delivers excellent
     author: 'Foundational Rehab',
     category: 'Getting Started',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Starting from Nothing
 
 If you've never exercised regularly — or it's been years — this guide is for you.
@@ -73380,7 +73380,7 @@ You don't need to be fit to start. You start, and then you become fit.
 ---
 
 *Foundational Rehab specializes in helping beginners build sustainable exercise habits.*
-    \`
+    `
   },
   'exercise-for-weight-loss-guide': {
     title: 'Exercise for Weight Loss: What Actually Works',
@@ -73388,7 +73388,7 @@ You don't need to be fit to start. You start, and then you become fit.
     author: 'Foundational Rehab',
     category: 'Goals',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Truth About Exercise and Weight Loss
 
 Let's start with honesty:
@@ -73611,7 +73611,7 @@ Exercise makes you healthier at any weight. Combine it with sensible eating for 
 ---
 
 *Foundational Rehab programs support sustainable weight management through strength and movement.*
-    \`
+    `
   },
   'how-to-build-muscle-guide': {
     title: 'How to Build Muscle: Complete Guide to Getting Stronger',
@@ -73619,7 +73619,7 @@ Exercise makes you healthier at any weight. Combine it with sensible eating for 
     author: 'Foundational Rehab',
     category: 'Goals',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## The Basics of Muscle Building
 
 Building muscle (hypertrophy) requires three things:
@@ -73858,7 +73858,7 @@ No shortcuts exist. But the process works for everyone willing to put in the tim
 ---
 
 *Foundational Rehab programs include progressive strength training for muscle development at any fitness level.*
-    \`
+    `
   },
   'toning-myths-reality': {
     title: 'Muscle Toning: Myths, Reality, and What Actually Works',
@@ -73866,7 +73866,7 @@ No shortcuts exist. But the process works for everyone willing to put in the tim
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The "Toning" Myth
 
 "I don't want to get bulky, I just want to get toned."
@@ -74071,7 +74071,7 @@ Stop fearing the weights. Start lifting them. Eat well. Be consistent. That's ho
 ---
 
 *Foundational Rehab teaches effective strength training for real body composition results.*
-    \`
+    `
   },
   'running-for-beginners-start': {
     title: 'Running for Beginners: How to Start Running from Scratch',
@@ -74079,7 +74079,7 @@ Stop fearing the weights. Start lifting them. Eat well. Be consistent. That's ho
     author: 'Foundational Rehab',
     category: 'Cardio',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Can Anyone Become a Runner?
 
 Yes. Running is a skill anyone can develop.
@@ -74352,7 +74352,7 @@ Anyone can become a runner. You just have to start slower than you think and be 
 ---
 
 *Foundational Rehab supports runners with injury prevention and strength training programs.*
-    \`
+    `
   },
   'cycling-for-beginners-guide': {
     title: 'Cycling for Beginners: How to Start Biking for Fitness',
@@ -74360,7 +74360,7 @@ Anyone can become a runner. You just have to start slower than you think and be 
     author: 'Foundational Rehab',
     category: 'Cardio',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Cycling?
 
 Cycling is one of the best forms of exercise:
@@ -74623,7 +74623,7 @@ Cycling can be a lifetime activity. Start easy, stay consistent, and enjoy the r
 ---
 
 *Foundational Rehab supports cyclists with strength training and injury prevention programs.*
-    \`
+    `
   },
   'how-to-stay-consistent-exercise': {
     title: 'How to Stay Consistent with Exercise: Building Lasting Habits',
@@ -74631,7 +74631,7 @@ Cycling can be a lifetime activity. Start easy, stay consistent, and enjoy the r
     author: 'Foundational Rehab',
     category: 'Motivation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Real Secret to Fitness
 
 It's not the perfect workout program.
@@ -74876,7 +74876,7 @@ The workout you do consistently is infinitely better than the perfect workout yo
 ---
 
 *Foundational Rehab programs are designed for sustainable, consistent practice.*
-    \`
+    `
   },
   'how-much-exercise-do-you-need': {
     title: 'How Much Exercise Do You Need? Science-Based Guidelines',
@@ -74884,7 +74884,7 @@ The workout you do consistently is infinitely better than the perfect workout yo
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Official Guidelines
 
 Major health organizations agree on minimum exercise recommendations:
@@ -75087,7 +75087,7 @@ You don't need to exercise for hours daily. Meet the minimums, stay consistent, 
 ---
 
 *Foundational Rehab programs are designed to meet evidence-based exercise guidelines efficiently.*
-    \`
+    `
   },
   'fitness-plateau-break-through': {
     title: 'Fitness Plateau: Why You\'re Stuck and How to Break Through',
@@ -75095,7 +75095,7 @@ You don't need to exercise for hours daily. Meet the minimums, stay consistent, 
     author: 'Foundational Rehab',
     category: 'Troubleshooting',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is a Fitness Plateau?
 
 A plateau is when progress stops despite continued effort:
@@ -75309,7 +75309,7 @@ The people who get results long-term are the ones who push through plateaus, not
 ---
 
 *Foundational Rehab helps you identify and break through training plateaus.*
-    \`
+    `
   },
   'exercise-myths-debunked': {
     title: 'Exercise Myths Debunked: What Science Actually Says',
@@ -75317,7 +75317,7 @@ The people who get results long-term are the ones who push through plateaus, not
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Fitness Is Full of Myths
 
 The fitness industry profits from confusion:
@@ -75486,7 +75486,7 @@ Skip the gimmicks. The fundamentals work—and they're free.
 ---
 
 *Foundational Rehab provides evidence-based exercise guidance without the myths.*
-    \`
+    `
   },
   'when-to-see-doctor-exercise-pain': {
     title: 'When to See a Doctor for Exercise Pain: Warning Signs to Watch',
@@ -75494,7 +75494,7 @@ Skip the gimmicks. The fundamentals work—and they're free.
     author: 'Foundational Rehab',
     category: 'Safety',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Normal vs. Concerning Pain
 
 Exercise causes discomfort. That's normal. But not all pain is normal.
@@ -75691,7 +75691,7 @@ When in doubt, get it checked. Early intervention prevents worse problems.
 ---
 
 *Foundational Rehab programs include appropriate progressions to minimize injury risk.*
-    \`
+    `
   },
   'exercise-when-sick-guidelines': {
     title: 'Exercising When Sick: When to Work Out and When to Rest',
@@ -75699,7 +75699,7 @@ When in doubt, get it checked. Early intervention prevents worse problems.
     author: 'Foundational Rehab',
     category: 'Safety',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Dilemma
 
 You're sick. You also don't want to lose fitness or break your exercise habit.
@@ -75924,7 +75924,7 @@ Missing a few workouts won't ruin your fitness. Training sick can make everythin
 ---
 
 *Foundational Rehab encourages appropriate rest and recovery as part of a sustainable fitness approach.*
-    \`
+    `
   },
   'proper-lifting-technique-daily-life': {
     title: 'Proper Lifting Technique: Protect Your Back in Daily Life',
@@ -75932,7 +75932,7 @@ Missing a few workouts won't ruin your fitness. Training sick can make everythin
     author: 'Foundational Rehab',
     category: 'Daily Life',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Lifting Technique Matters
 
 Back injuries often happen during everyday activities:
@@ -76131,7 +76131,7 @@ These habits prevent injuries. They're worth building.
 ---
 
 *Foundational Rehab teaches movement patterns that protect your body in daily life.*
-    \`
+    `
   },
   'hiking-fitness-preparation': {
     title: 'Hiking Fitness: How to Prepare Your Body for the Trail',
@@ -76139,7 +76139,7 @@ These habits prevent injuries. They're worth building.
     author: 'Foundational Rehab',
     category: 'Activity Prep',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Prepare for Hiking?
 
 Hiking seems simple — just walking, right?
@@ -76386,7 +76386,7 @@ Prepare for hiking by:
 ---
 
 *Foundational Rehab programs include activity-specific preparation for hiking and outdoor recreation.*
-    \`
+    `
   },
   'exercise-for-busy-parents': {
     title: 'Exercise for Busy Parents: Realistic Fitness with Kids',
@@ -76394,7 +76394,7 @@ Prepare for hiking by:
     author: 'Foundational Rehab',
     category: 'Life Situations',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Parenting-Fitness Struggle
 
 You know exercise is important. You want to exercise.
@@ -76637,7 +76637,7 @@ You don't need the perfect workout. You need to move regularly, in whatever way 
 ---
 
 *Foundational Rehab programs are designed to fit into real life, including the chaos of parenting.*
-    \`
+    `
   },
   'exercises-you-can-do-anywhere': {
     title: 'Exercises You Can Do Anywhere: No Gym, No Equipment Needed',
@@ -76645,7 +76645,7 @@ You don't need the perfect workout. You need to move regularly, in whatever way 
     author: 'Foundational Rehab',
     category: 'Practical',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Fitness Without a Gym
 
 The best workout is the one you actually do.
@@ -76938,7 +76938,7 @@ The gym is great, but your body is a gym that travels with you.
 ---
 
 *Foundational Rehab programs include bodyweight options for training anywhere.*
-    \`
+    `
   },
   'create-workout-plan-guide': {
     title: 'How to Create Your Own Workout Plan: A Step-by-Step Guide',
@@ -76946,7 +76946,7 @@ The gym is great, but your body is a gym that travels with you.
     author: 'Foundational Rehab',
     category: 'Planning',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Why Create Your Own Plan?
 
 Following someone else's workout program can work. But creating your own:
@@ -77255,7 +77255,7 @@ The best plan is one you follow consistently. Keep it simple, make it work for y
 ---
 
 *Foundational Rehab provides structured programs if you prefer not to plan your own.*
-    \`
+    `
   },
   'first-time-gym-guide': {
     title: 'First Time at the Gym: A Complete Guide for Beginners',
@@ -77263,7 +77263,7 @@ The best plan is one you follow consistently. Keep it simple, make it work for y
     author: 'Foundational Rehab',
     category: 'Getting Started',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Gym Anxiety Is Normal
 
 Almost everyone feels intimidated their first time at a gym.
@@ -77522,7 +77522,7 @@ Everyone was new once. You belong there too.
 ---
 
 *Foundational Rehab provides gym-ready workout plans for all experience levels.*
-    \`
+    `
   },
   'track-fitness-progress': {
     title: 'How to Track Fitness Progress: Beyond the Scale',
@@ -77530,7 +77530,7 @@ Everyone was new once. You belong there too.
     author: 'Foundational Rehab',
     category: 'Progress',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Track Progress?
 
 What gets measured gets managed.
@@ -77759,7 +77759,7 @@ The scale is just one number. Your body is more complex than that.
 ---
 
 *Foundational Rehab helps you track meaningful progress toward your fitness goals.*
-    \`
+    `
   },
   'exercise-while-traveling': {
     title: 'Exercise While Traveling: Stay Fit on the Road',
@@ -77767,7 +77767,7 @@ The scale is just one number. Your body is more complex than that.
     author: 'Foundational Rehab',
     category: 'Life Situations',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Travel Fitness Challenge
 
 Travel disrupts routines:
@@ -78021,7 +78021,7 @@ The habit of moving matters more than the perfect workout.
 ---
 
 *Foundational Rehab provides travel-friendly workout options for staying active anywhere.*
-    \`
+    `
   },
   'workout-partner-benefits': {
     title: 'Workout Partner Benefits: Why Training with Others Works',
@@ -78029,7 +78029,7 @@ The habit of moving matters more than the perfect workout.
     author: 'Foundational Rehab',
     category: 'Motivation',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Power of Partnership
 
 Research consistently shows: people who exercise with others stick with it longer and get better results.
@@ -78264,7 +78264,7 @@ Find someone compatible, set expectations, and enjoy the benefits of training to
 ---
 
 *Foundational Rehab programs can be done solo or with partners.*
-    \`
+    `
   },
   'should-you-hire-personal-trainer': {
     title: 'Should You Hire a Personal Trainer? When It\'s Worth It',
@@ -78272,7 +78272,7 @@ Find someone compatible, set expectations, and enjoy the benefits of training to
     author: 'Foundational Rehab',
     category: 'Getting Help',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Personal Trainer Question
 
 Personal trainers can be expensive. Are they worth it?
@@ -78522,7 +78522,7 @@ A good trainer is an investment in knowledge and results. A bad trainer is an ex
 ---
 
 *Foundational Rehab provides structured programs that complement or replace personal training.*
-    \`
+    `
   },
   'pre-workout-post-workout-nutrition': {
     title: 'Pre-Workout and Post-Workout Nutrition: What to Eat and When',
@@ -78530,7 +78530,7 @@ A good trainer is an investment in knowledge and results. A bad trainer is an ex
     author: 'Foundational Rehab',
     category: 'Nutrition',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Does Nutrient Timing Matter?
 
 **The honest answer:** Less than you think, but it's not nothing.
@@ -78773,7 +78773,7 @@ Don't stress about perfect timing. Eat reasonably around workouts, hit your dail
 ---
 
 *Foundational Rehab programs focus on training; nutrition advice supports, not complicates, your fitness journey.*
-    \`
+    `
   },
   'fitness-apps-guide': {
     title: 'Best Types of Fitness Apps: Finding What Works for You',
@@ -78781,7 +78781,7 @@ Don't stress about perfect timing. Eat reasonably around workouts, hit your dail
     author: 'Foundational Rehab',
     category: 'Tools',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The App Landscape
 
 Thousands of fitness apps exist. Most people download them, use them for a week, then forget about them.
@@ -79015,7 +79015,7 @@ Start simple. The best fitness app is the one you actually open.
 ---
 
 *Foundational Rehab provides structured guidance that works alongside your favorite fitness tools.*
-    \`
+    `
   },
   'exercise-cold-weather-winter': {
     title: 'Exercising in Cold Weather: Safe Winter Workout Tips',
@@ -79023,7 +79023,7 @@ Start simple. The best fitness app is the one you actually open.
     author: 'Foundational Rehab',
     category: 'Seasonal',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Cold Weather Exercise: Risks and Rewards
 
 **Benefits of winter exercise:**
@@ -79244,7 +79244,7 @@ Winter is no excuse to stop moving. Just adapt your approach.
 ---
 
 *Foundational Rehab programs can be done indoors when winter weather makes outdoor exercise unsafe.*
-    \`
+    `
   },
   'exercise-hot-weather-summer': {
     title: 'Exercising in Hot Weather: Safe Summer Workout Tips',
@@ -79252,7 +79252,7 @@ Winter is no excuse to stop moving. Just adapt your approach.
     author: 'Foundational Rehab',
     category: 'Seasonal',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Hot Weather Exercise: Real Risks
 
 Heat-related illness is serious:
@@ -79474,7 +79474,7 @@ Summer shouldn't stop your fitness routine. Just adjust your approach.
 ---
 
 *Foundational Rehab programs can be done indoors when summer heat makes outdoor exercise unsafe.*
-    \`
+    `
   },
   'couples-workout-guide': {
     title: 'Couples Workout Guide: Exercising with Your Partner',
@@ -79482,7 +79482,7 @@ Summer shouldn't stop your fitness routine. Just adjust your approach.
     author: 'Foundational Rehab',
     category: 'Relationships',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Workout as a Couple?
 
 **Benefits for your relationship:**
@@ -79708,7 +79708,7 @@ Find activities you both enjoy, communicate openly, and let exercise strengthen 
 ---
 
 *Foundational Rehab programs can be done individually or with a partner.*
-    \`
+    `
   },
   'exercise-brain-health-cognitive': {
     title: 'Exercise for Brain Health: How Movement Boosts Your Mind',
@@ -79716,7 +79716,7 @@ Find activities you both enjoy, communicate openly, and let exercise strengthen 
     author: 'Foundational Rehab',
     category: 'Benefits',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Exercise Isn't Just for Your Body
 
 **Research consistently shows:** Exercise improves brain function, mental health, and cognitive performance.
@@ -79967,7 +79967,7 @@ You're not just exercising your body. You're building a better brain.
 ---
 
 *Foundational Rehab supports both physical and cognitive health through movement.*
-    \`
+    `
   },
   'muscle-soreness-relief-recovery': {
     title: 'Muscle Soreness Relief: How to Recover Faster After Workouts',
@@ -79975,7 +79975,7 @@ You're not just exercising your body. You're building a better brain.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Understanding Muscle Soreness
 
 ### What Is DOMS?
@@ -80192,7 +80192,7 @@ Some soreness is normal. Debilitating soreness is a sign you're doing too much.
 ---
 
 *Foundational Rehab programs include appropriate recovery guidelines.*
-    \`
+    `
   },
   'body-recomposition-guide': {
     title: 'Body Recomposition: Building Muscle While Losing Fat',
@@ -80200,7 +80200,7 @@ Some soreness is normal. Debilitating soreness is a sign you're doing too much.
     author: 'Foundational Rehab',
     category: 'Goals',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Body Recomposition?
 
 Body recomposition (recomp) means building muscle and losing fat simultaneously.
@@ -80419,7 +80419,7 @@ It's slower than bulk/cut cycles but psychologically easier for many people. The
 ---
 
 *Foundational Rehab supports body composition goals through balanced training approaches.*
-    \`
+    `
   },
   'getting-back-in-shape-after-break': {
     title: 'Getting Back in Shape After a Break: How to Return Safely',
@@ -80427,7 +80427,7 @@ It's slower than bulk/cut cycles but psychologically easier for many people. The
     author: 'Foundational Rehab',
     category: 'Getting Started',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Returning After Time Off
 
 Whether it's been weeks, months, or years — returning to exercise after a break is challenging.
@@ -80658,7 +80658,7 @@ The hardest part is starting. After that, momentum takes over.
 ---
 
 *Foundational Rehab welcomes you back at any fitness level.*
-    \`
+    `
   },
   'exercise-immune-system': {
     title: 'Exercise and Immune System: How Working Out Affects Your Health',
@@ -80666,7 +80666,7 @@ The hardest part is starting. After that, momentum takes over.
     author: 'Foundational Rehab',
     category: 'Benefits',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Does Exercise Boost Immunity?
 
 **Short answer:** Moderate exercise supports immune function. Excessive exercise may temporarily suppress it.
@@ -80851,7 +80851,7 @@ Exercise is one of the best things you can do for your immune system — just do
 ---
 
 *Foundational Rehab supports sustainable exercise habits that enhance overall health.*
-    \`
+    `
   },
   'mind-muscle-connection': {
     title: 'Mind-Muscle Connection: How to Feel Your Muscles Working',
@@ -80859,7 +80859,7 @@ Exercise is one of the best things you can do for your immune system — just do
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Mind-Muscle Connection?
 
 Mind-muscle connection (MMC) is the conscious, deliberate focus on feeling a specific muscle contract during exercise.
@@ -81100,7 +81100,7 @@ Don't just move weights. Feel your muscles working. The quality of your contract
 ---
 
 *Foundational Rehab emphasizes movement quality and body awareness in all programs.*
-    \`
+    `
   },
   'exercise-for-longevity': {
     title: 'Exercise for Longevity: How to Train for a Longer, Healthier Life',
@@ -81108,7 +81108,7 @@ Don't just move weights. Feel your muscles working. The quality of your contract
     author: 'Foundational Rehab',
     category: 'Benefits',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Exercise Is the Closest Thing to a Longevity Drug
 
 No medication, supplement, or intervention comes close to exercise for extending healthy lifespan.
@@ -81332,7 +81332,7 @@ Start now. Maintain forever.
 ---
 
 *Foundational Rehab programs support lifelong fitness and functional independence.*
-    \`
+    `
   },
   'grip-strength-training': {
     title: 'Grip Strength Training: Why It Matters and How to Build It',
@@ -81340,7 +81340,7 @@ Start now. Maintain forever.
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Grip Strength Matters More Than You Think
 
 Grip strength isn't just for opening jars. It's a powerful predictor of overall health:
@@ -81555,7 +81555,7 @@ Add grip work to your routine. Your health—and your handshake—will thank you
 ---
 
 *Foundational Rehab programs incorporate grip and forearm training for functional strength.*
-    \`
+    `
   },
   'ankle-stability-exercises': {
     title: 'Ankle Stability Exercises: Prevent Sprains and Build Strong Ankles',
@@ -81563,7 +81563,7 @@ Add grip work to your routine. Your health—and your handshake—will thank you
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Ankle Stability Matters
 
 Ankle sprains are the most common sports injury. And once you sprain an ankle, you're much more likely to sprain it again.
@@ -81787,7 +81787,7 @@ Strong ankles aren't built by accident. They're built by consistent, progressive
 ---
 
 *Foundational Rehab provides comprehensive ankle stability programs for prevention and recovery.*
-    \`
+    `
   },
   'upper-crossed-syndrome': {
     title: 'Upper Crossed Syndrome: Causes, Symptoms, and Exercises to Fix It',
@@ -81795,7 +81795,7 @@ Strong ankles aren't built by accident. They're built by consistent, progressive
     author: 'Foundational Rehab',
     category: 'Posture',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Upper Crossed Syndrome?
 
 Upper Crossed Syndrome (UCS) is a common postural pattern where:
@@ -82022,7 +82022,7 @@ You can't stretch your way out of a strength problem. Address both sides: releas
 ---
 
 *Foundational Rehab programs address postural imbalances for lasting relief.*
-    \`
+    `
   },
   'lower-crossed-syndrome': {
     title: 'Lower Crossed Syndrome: Fix Your Hips and Low Back',
@@ -82030,7 +82030,7 @@ You can't stretch your way out of a strength problem. Address both sides: releas
     author: 'Foundational Rehab',
     category: 'Posture',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Lower Crossed Syndrome?
 
 Lower Crossed Syndrome (LCS) is a postural pattern where:
@@ -82270,7 +82270,7 @@ Your back will thank you.
 ---
 
 *Foundational Rehab programs systematically address Lower Crossed Syndrome for lasting relief.*
-    \`
+    `
   },
   'sciatica-exercises': {
     title: 'Sciatica Exercises: Relieve Pain and Prevent Flare-Ups',
@@ -82278,7 +82278,7 @@ Your back will thank you.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## What Is Sciatica?
 
 Sciatica is pain that radiates along the sciatic nerve—from your lower back through your hip and down the back of your leg.
@@ -82519,15 +82519,15 @@ When in doubt, see a physical therapist for proper diagnosis and individualized 
 ---
 
 *Foundational Rehab provides condition-specific programs for sciatica relief.*
-    \`
+    `
   },
   'golfers-elbow-exercises': {
-    title: 'Golfer\\'s Elbow Exercises: Heal Medial Epicondylitis',
+    title: 'Golfer\'s Elbow Exercises: Heal Medial Epicondylitis',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Golfer's Elbow?
 
 Golfer's elbow (medial epicondylitis) is pain on the inside of your elbow where forearm flexor tendons attach.
@@ -82713,7 +82713,7 @@ Be patient. Tendons heal slowly but they do heal.
 ---
 
 *Foundational Rehab provides evidence-based programs for elbow tendinopathy.*
-    \`
+    `
   },
   'tennis-elbow-exercises': {
     title: 'Tennis Elbow Exercises: Heal Lateral Epicondylitis',
@@ -82721,7 +82721,7 @@ Be patient. Tendons heal slowly but they do heal.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Tennis Elbow?
 
 Tennis elbow (lateral epicondylitis) is pain on the outside of your elbow where forearm extensor tendons attach.
@@ -82929,7 +82929,7 @@ Trust the process. Eccentric exercise works, but takes time.
 ---
 
 *Foundational Rehab provides evidence-based programs for tennis elbow recovery.*
-    \`
+    `
   },
   'jaw-pain-tmj-exercises': {
     title: 'TMJ Exercises: Relieve Jaw Pain and Dysfunction',
@@ -82937,7 +82937,7 @@ Trust the process. Eccentric exercise works, but takes time.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is TMJ Dysfunction?
 
 TMJ (temporomandibular joint) dysfunction affects the jaw joint and surrounding muscles. It's extremely common—affecting up to 12% of the population.
@@ -83166,7 +83166,7 @@ Most TMJ dysfunction improves significantly with proper self-care.
 ---
 
 *Foundational Rehab programs address TMJ dysfunction with targeted exercise protocols.*
-    \`
+    `
   },
   'wrist-pain-exercises': {
     title: 'Wrist Pain Exercises: Strengthen and Heal Your Wrists',
@@ -83174,7 +83174,7 @@ Most TMJ dysfunction improves significantly with proper self-care.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Common Causes of Wrist Pain
 
 The wrist is complex—eight small bones, numerous ligaments, and tendons passing through tight spaces. Many things can cause pain:
@@ -83425,15 +83425,15 @@ If symptoms persist or worsen, see a hand specialist.
 ---
 
 *Foundational Rehab provides targeted wrist rehabilitation programs.*
-    \`
+    `
   },
-  'thoracic-spine-mobility': {
+  'thoracic-mobility-exercises': {
     title: 'Thoracic Spine Mobility: Exercises for a Flexible Mid-Back',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Thoracic Mobility Matters
 
 Your thoracic spine (mid-back) should move. When it doesn't, other areas pay the price:
@@ -83677,7 +83677,7 @@ If your mid-back doesn't move, everything else suffers. Daily thoracic work pays
 ---
 
 *Foundational Rehab programs prioritize thoracic mobility for total body function.*
-    \`
+    `
   },
   'hip-impingement-exercises': {
     title: 'Hip Impingement Exercises: FAI Management and Relief',
@@ -83685,7 +83685,7 @@ If your mid-back doesn't move, everything else suffers. Daily thoracic work pays
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Hip Impingement?
 
 Femoroacetabular impingement (FAI) occurs when abnormal bone shapes cause pinching in the hip joint.
@@ -83884,7 +83884,7 @@ Work with your anatomy, not against it.
 ---
 
 *Foundational Rehab provides hip impingement management programs.*
-    \`
+    `
   },
   'si-joint-pain-exercises': {
     title: 'SI Joint Pain Exercises: Sacroiliac Joint Relief',
@@ -83892,7 +83892,7 @@ Work with your anatomy, not against it.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is SI Joint Pain?
 
 The sacroiliac (SI) joints connect your spine to your pelvis. SI joint dysfunction causes low back and buttock pain.
@@ -84126,15 +84126,15 @@ Most SI joint pain improves with conservative treatment.
 ---
 
 *Foundational Rehab programs address SI joint dysfunction comprehensively.*
-    \`
+    `
   },
-  'shoulder-impingement-exercises': {
+  'shoulder-impingement-rehab': {
     title: 'Shoulder Impingement Exercises: Relieve Pain and Restore Function',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## What Is Shoulder Impingement?
 
 Shoulder impingement occurs when rotator cuff tendons get pinched between the arm bone and the roof of the shoulder (acromion).
@@ -84393,7 +84393,7 @@ Most cases resolve with conservative treatment.
 ---
 
 *Foundational Rehab provides comprehensive shoulder impingement programs.*
-    \`
+    `
   },
   'frozen-shoulder-exercises': {
     title: 'Frozen Shoulder Exercises: Adhesive Capsulitis Treatment',
@@ -84401,7 +84401,7 @@ Most cases resolve with conservative treatment.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Frozen Shoulder?
 
 Frozen shoulder (adhesive capsulitis) is a condition where the shoulder capsule thickens and tightens, severely limiting movement.
@@ -84646,15 +84646,15 @@ It does get better. Every case eventually thaws.
 ---
 
 *Foundational Rehab provides stage-specific frozen shoulder programs.*
-    \`
+    `
   },
   'runners-knee-exercises': {
-    title: 'Runner\\'s Knee Exercises: Patellofemoral Pain Syndrome Treatment',
+    title: 'Runner\'s Knee Exercises: Patellofemoral Pain Syndrome Treatment',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Runner's Knee?
 
 Runner's knee (patellofemoral pain syndrome/PFPS) is pain around or behind the kneecap. It's one of the most common knee complaints.
@@ -84889,15 +84889,15 @@ Most cases resolve fully with proper rehab.
 ---
 
 *Foundational Rehab provides runner's knee recovery programs.*
-    \`
+    `
   },
   'jumpers-knee-exercises': {
-    title: 'Jumper\\'s Knee Exercises: Patellar Tendinopathy Treatment',
+    title: 'Jumper\'s Knee Exercises: Patellar Tendinopathy Treatment',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Jumper's Knee?
 
 Jumper's knee (patellar tendinopathy) is pain at the patellar tendon — the tendon connecting your kneecap to your shinbone.
@@ -85107,7 +85107,7 @@ The evidence is clear: load the tendon appropriately, and it heals.
 ---
 
 *Foundational Rehab provides patellar tendinopathy rehabilitation programs.*
-    \`
+    `
   },
   'shin-splints-exercises': {
     title: 'Shin Splints Exercises: Medial Tibial Stress Syndrome Treatment',
@@ -85115,7 +85115,7 @@ The evidence is clear: load the tendon appropriately, and it heals.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Are Shin Splints?
 
 Shin splints (medial tibial stress syndrome) is pain along the inner edge of the shinbone.
@@ -85342,7 +85342,7 @@ Most shin splints resolve in 2-6 weeks with proper management.
 ---
 
 *Foundational Rehab provides shin splint recovery programs.*
-    \`
+    `
   },
   'achilles-tendonitis-exercises': {
     title: 'Achilles Tendonitis Exercises: Tendinopathy Treatment Guide',
@@ -85350,7 +85350,7 @@ Most shin splints resolve in 2-6 weeks with proper management.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## What Is Achilles Tendonitis?
 
 Achilles tendinopathy is pain and dysfunction of the Achilles tendon — the large tendon connecting your calf muscles to your heel.
@@ -85581,7 +85581,7 @@ The evidence is strong: load your tendon appropriately and it heals.
 ---
 
 *Foundational Rehab provides Achilles tendinopathy rehabilitation programs.*
-    \`
+    `
   },
   'hamstring-strain-exercises': {
     title: 'Hamstring Strain Exercises: Recovery and Prevention',
@@ -85589,7 +85589,7 @@ The evidence is strong: load your tendon appropriately and it heals.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is a Hamstring Strain?
 
 A hamstring strain is a tear in one or more of the three hamstring muscles at the back of your thigh.
@@ -85829,7 +85829,7 @@ Strong hamstrings resist injury. Build them properly.
 ---
 
 *Foundational Rehab provides hamstring rehabilitation programs.*
-    \`
+    `
   },
   'groin-strain-exercises': {
     title: 'Groin Strain Exercises: Adductor Injury Recovery',
@@ -85837,7 +85837,7 @@ Strong hamstrings resist injury. Build them properly.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is a Groin Strain?
 
 A groin strain is an injury to the adductor muscles — the muscles on the inner thigh that pull your leg inward.
@@ -86097,7 +86097,7 @@ Copenhagen exercises should be routine for any athlete at risk.
 ---
 
 *Foundational Rehab provides groin injury rehabilitation programs.*
-    \`
+    `
   },
   'calf-strain-exercises': {
     title: 'Calf Strain Exercises: Recovery and Return to Activity',
@@ -86105,7 +86105,7 @@ Copenhagen exercises should be routine for any athlete at risk.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is a Calf Strain?
 
 A calf strain is a tear in the calf muscles — either the gastrocnemius (upper calf) or soleus (lower calf).
@@ -86347,7 +86347,7 @@ Strong calves resist injury. Build them methodically.
 ---
 
 *Foundational Rehab provides calf strain rehabilitation programs.*
-    \`
+    `
   },
   'hip-bursitis-exercises': {
     title: 'Hip Bursitis Exercises: Greater Trochanteric Pain Syndrome',
@@ -86355,7 +86355,7 @@ Strong calves resist injury. Build them methodically.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Hip Bursitis?
 
 Hip bursitis (greater trochanteric pain syndrome/GTPS) is pain on the outside of your hip.
@@ -86607,7 +86607,7 @@ Strong glutes and avoiding compression positions are the path to recovery.
 ---
 
 *Foundational Rehab provides hip bursitis rehabilitation programs.*
-    \`
+    `
   },
   'desk-posture-exercises': {
     title: 'Desk Posture Exercises: Combat Sitting All Day',
@@ -86615,7 +86615,7 @@ Strong glutes and avoiding compression positions are the path to recovery.
     author: 'Foundational Rehab',
     category: 'Prevention',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Problem with Sitting
 
 Prolonged sitting is linked to:
@@ -86853,15 +86853,15 @@ The best posture is your next posture. Keep moving.
 ---
 
 *Foundational Rehab provides desk worker wellness programs.*
-    \`
+    `
   },
-  'morning-stretching-routine': {
+  'morning-stretch-wake-up': {
     title: 'Morning Stretching Routine: Wake Up Your Body Right',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Stretch in the Morning?
 
 After 6-8 hours of sleep, your body is:
@@ -87078,7 +87078,7 @@ Your body will thank you. Start tomorrow.
 ---
 
 *Foundational Rehab provides daily mobility programs.*
-    \`
+    `
   },
   'bedtime-stretching-routine': {
     title: 'Bedtime Stretching Routine: Relax and Sleep Better',
@@ -87086,7 +87086,7 @@ Your body will thank you. Start tomorrow.
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Stretch Before Bed?
 
 Evening stretching can:
@@ -87311,7 +87311,7 @@ Wind down your body, and your mind follows.
 ---
 
 *Foundational Rehab provides sleep and recovery programs.*
-    \`
+    `
   },
   'foam-rolling-guide': {
     title: 'Foam Rolling Guide: How to Use a Foam Roller Effectively',
@@ -87319,7 +87319,7 @@ Wind down your body, and your mind follows.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## What Is Foam Rolling?
 
 Foam rolling is a form of self-myofascial release — using a foam cylinder to apply pressure to muscles and connective tissue.
@@ -87582,7 +87582,7 @@ It's not magic, but it's a helpful part of a complete recovery strategy.
 ---
 
 *Foundational Rehab includes foam rolling in recovery programs.*
-    \`
+    `
   },
   'exercises-for-seniors': {
     title: 'Exercises for Seniors: Safe and Effective Workouts for Older Adults',
@@ -87590,7 +87590,7 @@ It's not magic, but it's a helpful part of a complete recovery strategy.
     author: 'Foundational Rehab',
     category: 'Special Populations',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Why Exercise Matters More as You Age
 
 Regular exercise for older adults:
@@ -87899,7 +87899,7 @@ It's never too late to start. The benefits begin immediately.
 ---
 
 *Foundational Rehab provides senior-specific exercise programs.*
-    \`
+    `
   },
   'pregnancy-safe-exercises': {
     title: 'Pregnancy Safe Exercises: Staying Active While Expecting',
@@ -87907,7 +87907,7 @@ It's never too late to start. The benefits begin immediately.
     author: 'Foundational Rehab',
     category: 'Special Populations',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Why Exercise During Pregnancy?
 
 Regular exercise during pregnancy:
@@ -88160,7 +88160,7 @@ Staying active during pregnancy benefits both you and baby.
 ---
 
 *Foundational Rehab provides prenatal exercise guidance.*
-    \`
+    `
   },
   'exercises-after-surgery': {
     title: 'Exercises After Surgery: Safe Movement During Recovery',
@@ -88168,7 +88168,7 @@ Staying active during pregnancy benefits both you and baby.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Movement After Surgery Matters
 
 Early movement after surgery:
@@ -88388,7 +88388,7 @@ Early, appropriate movement leads to better outcomes.
 ---
 
 *Foundational Rehab provides post-surgical rehabilitation guidance.*
-    \`
+    `
   },
   'exercises-for-arthritis': {
     title: 'Exercises for Arthritis: Move Better with Less Pain',
@@ -88396,7 +88396,7 @@ Early, appropriate movement leads to better outcomes.
     author: 'Foundational Rehab',
     category: 'Special Populations',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Exercise Is Medicine for Arthritis
 
 It might seem counterintuitive, but exercise is one of the best treatments for arthritis:
@@ -88657,7 +88657,7 @@ Movement is medicine. Start gently and keep going.
 ---
 
 *Foundational Rehab provides arthritis-friendly exercise programs.*
-    \`
+    `
   },
   'text-neck-exercises': {
     title: 'Text Neck Exercises: Fix Forward Head Posture from Phone Use',
@@ -88665,7 +88665,7 @@ Movement is medicine. Start gently and keep going.
     author: 'Foundational Rehab',
     category: 'Prevention',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Text Neck?
 
 Text neck is the forward head posture and neck strain caused by looking down at phones and devices.
@@ -88821,7 +88821,7 @@ Your neck can recover, but you have to change the inputs.
 ---
 
 *Foundational Rehab provides text neck correction programs.*
-    \`
+    `
   },
   'trigger-point-release': {
     title: 'Trigger Point Release: Self-Treatment for Muscle Knots',
@@ -88829,7 +88829,7 @@ Your neck can recover, but you have to change the inputs.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Are Trigger Points?
 
 Trigger points are hyperirritable spots in muscle tissue — often called "knots."
@@ -89040,7 +89040,7 @@ Regular self-care can significantly reduce muscle pain and tension.
 ---
 
 *Foundational Rehab teaches effective self-release techniques.*
-    \`
+    `
   },
   'breathing-exercises-pain': {
     title: 'Breathing Exercises for Pain Relief and Relaxation',
@@ -89048,7 +89048,7 @@ Regular self-care can significantly reduce muscle pain and tension.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## How Breathing Affects Pain
 
 Breathing directly influences your nervous system:
@@ -89246,7 +89246,7 @@ Breath is your most accessible pain management tool.
 ---
 
 *Foundational Rehab integrates breathing into all programs.*
-    \`
+    `
   },
   'sleep-positions-pain': {
     title: 'Sleep Positions for Back, Neck, Hip, and Shoulder Pain',
@@ -89254,7 +89254,7 @@ Breath is your most accessible pain management tool.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Sleep Position Matters
 
 You spend 6-8 hours in one position. Poor positioning:
@@ -89465,7 +89465,7 @@ Good sleep position supports your body's healing.
 ---
 
 *Foundational Rehab addresses sleep as part of comprehensive recovery.*
-    \`
+    `
   },
   'band-exercises-full-body': {
     title: 'Resistance Band Exercises: Complete Full Body Workout',
@@ -89473,7 +89473,7 @@ Good sleep position supports your body's healing.
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Why Resistance Bands?
 
 Resistance bands are one of the most versatile training tools:
@@ -89743,7 +89743,7 @@ A complete gym that fits in your bag.
 ---
 
 *Foundational Rehab uses bands extensively in rehab and training programs.*
-    \`
+    `
   },
   'bodyweight-exercises-beginners': {
     title: 'Bodyweight Exercises for Beginners: No Equipment Needed',
@@ -89751,7 +89751,7 @@ A complete gym that fits in your bag.
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Start with Bodyweight?
 
 Bodyweight training is the perfect starting point:
@@ -89997,7 +89997,7 @@ Your body is your first gym.
 ---
 
 *Foundational Rehab builds foundations with bodyweight training.*
-    \`
+    `
   },
   'warm-up-exercises': {
     title: 'Warm-Up Exercises: How to Prepare Your Body for Any Workout',
@@ -90005,7 +90005,7 @@ Your body is your first gym.
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Warm-Up Matters
 
 A proper warm-up:
@@ -90197,7 +90197,7 @@ Your workout is only as good as your warm-up.
 ---
 
 *Foundational Rehab includes proper warm-ups in all programs.*
-    \`
+    `
   },
   'cool-down-stretches': {
     title: 'Cool Down Stretches: How to Recover After Every Workout',
@@ -90205,7 +90205,7 @@ Your workout is only as good as your warm-up.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Cool Down?
 
 A proper cool down:
@@ -90420,7 +90420,7 @@ How you finish is as important as how you start.
 ---
 
 *Foundational Rehab includes proper cool downs in all programs.*
-    \`
+    `
   },
   'nerve-flossing-exercises': {
     title: 'Nerve Flossing Exercises: Relieve Numbness and Tingling',
@@ -90428,7 +90428,7 @@ How you finish is as important as how you start.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Nerve Flossing?
 
 Nerve flossing (or nerve gliding) is a technique that mobilizes nerves by alternately tensioning and releasing them along their path.
@@ -90634,7 +90634,7 @@ When done correctly, nerve flossing can significantly reduce nerve-related sympt
 ---
 
 *Foundational Rehab includes nerve mobilization in relevant programs.*
-    \`
+    `
   },
   'posture-assessment': {
     title: 'Posture Assessment: How to Check Your Own Alignment',
@@ -90642,7 +90642,7 @@ When done correctly, nerve flossing can significantly reduce nerve-related sympt
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Assess Your Posture?
 
 Understanding your posture helps you:
@@ -90842,15 +90842,15 @@ Check your posture, then do something about it.
 ---
 
 *Foundational Rehab uses posture assessment to customize programs.*
-    \`
+    `
   },
-  'when-to-see-doctor-pain': {
-    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\\'t Ignore',
+  'when-to-seek-medical-help': {
+    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\'t Ignore',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Most Pain Is Not Serious
 
 The vast majority of muscle and joint pain:
@@ -91028,7 +91028,7 @@ When in doubt, get it checked out.
 ---
 
 *Foundational Rehab encourages seeking appropriate care when needed.*
-    \`
+    `
   },
   'exercise-pain-vs-injury': {
     title: 'Exercise Pain vs. Injury Pain: How to Tell the Difference',
@@ -91036,7 +91036,7 @@ When in doubt, get it checked out.
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Not All Pain Is Bad
 
 Understanding pain during exercise:
@@ -91248,7 +91248,7 @@ Listen to your body. It's usually telling you something important.
 ---
 
 *Foundational Rehab teaches appropriate pain management in all programs.*
-    \`
+    `
   },
   'hip-mobility-exercises': {
     title: 'Hip Mobility Exercises: Unlock Tight Hips',
@@ -91256,7 +91256,7 @@ Listen to your body. It's usually telling you something important.
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Hip Mobility Matters
 
 Your hips are the center of movement. Limited hip mobility affects:
@@ -91394,7 +91394,7 @@ Hip mobility requires:
 ---
 
 *Foundational Rehab prioritizes hip mobility in lower body programs.*
-    \`
+    `
   },
   'knee-strengthening-exercises': {
     title: 'Knee Strengthening Exercises: Build Stable, Pain-Free Knees',
@@ -91402,7 +91402,7 @@ Hip mobility requires:
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Strengthen Your Knees?
 
 Strong muscles around the knee:
@@ -91570,7 +91570,7 @@ Strong muscles protect knees.
 ---
 
 *Foundational Rehab builds knee strength progressively.*
-    \`
+    `
   },
   'shoulder-stretches': {
     title: 'Shoulder Stretches: Improve Flexibility and Reduce Pain',
@@ -91578,7 +91578,7 @@ Strong muscles protect knees.
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Stretch Your Shoulders?
 
 Tight shoulders lead to:
@@ -91728,7 +91728,7 @@ Shoulder stretching:
 ---
 
 *Foundational Rehab balances shoulder stretching with strengthening.*
-    \`
+    `
   },
   'core-exercises-beginners': {
     title: 'Core Exercises for Beginners: Build a Strong Foundation',
@@ -91736,7 +91736,7 @@ Shoulder stretching:
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is the "Core"?
 
 Your core includes:
@@ -91887,7 +91887,7 @@ A strong core is the foundation for everything else.
 ---
 
 *Foundational Rehab builds core strength progressively in all programs.*
-    \`
+    `
   },
   'balance-exercises-adults': {
     title: 'Balance Exercises: Improve Stability at Any Age',
@@ -91895,7 +91895,7 @@ A strong core is the foundation for everything else.
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Balance Matters
 
 Good balance:
@@ -91989,7 +91989,7 @@ Balance training:
 ---
 
 *Foundational Rehab includes balance training in all programs.*
-    \`
+    `
   },
   'pain-management-without-medication': {
     title: 'Pain Management Without Medication: Natural Relief Strategies',
@@ -91997,7 +91997,7 @@ Balance training:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Non-Drug Pain Management
 
 Many pain conditions respond well to non-medication approaches:
@@ -92118,7 +92118,7 @@ These approaches work for many pain conditions.
 ---
 
 *Foundational Rehab emphasizes active pain management strategies.*
-    \`
+    `
   },
   'muscle-recovery-tips': {
     title: 'Muscle Recovery Tips: Bounce Back Faster After Workouts',
@@ -92126,7 +92126,7 @@ These approaches work for many pain conditions.
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Recovery Matters
 
 You don't get stronger during workouts — you get stronger during recovery.
@@ -92243,15 +92243,15 @@ Train hard, recover harder.
 ---
 
 *Foundational Rehab balances training with recovery.*
-    \`
+    `
   },
   'how-to-start-exercising': {
-    title: 'How to Start Exercising: A Complete Beginner\\'s Guide',
+    title: 'How to Start Exercising: A Complete Beginner\'s Guide',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '7 min read',
-    content: \`
+    content: `
 ## Starting From Zero
 
 If you haven't exercised in years (or ever), this guide is for you.
@@ -92331,7 +92331,7 @@ Everyone starts somewhere. Start today.
 ---
 
 *Foundational Rehab welcomes complete beginners.*
-    \`
+    `
   },
   'stretching-myths': {
     title: 'Stretching Myths Debunked: What Science Actually Says',
@@ -92339,7 +92339,7 @@ Everyone starts somewhere. Start today.
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Common Stretching Myths
 
 ### Myth 1: "You Must Stretch Before Exercise"
@@ -92409,7 +92409,7 @@ Stretching is useful but overhyped. Focus on:
 ---
 
 *Foundational Rehab uses evidence-based approaches to flexibility.*
-    \`
+    `
   },
   'exercise-and-mental-health': {
     title: 'Exercise and Mental Health: How Movement Helps Your Mind',
@@ -92417,7 +92417,7 @@ Stretching is useful but overhyped. Focus on:
     author: 'Foundational Rehab',
     category: 'Benefits',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Mind-Body Connection
 
 Exercise isn't just for your body. Research consistently shows mental health benefits:
@@ -92512,7 +92512,7 @@ Your brain benefits every time you move.
 ---
 
 *Foundational Rehab recognizes the mental health benefits of movement.*
-    \`
+    `
   },
   'daily-stretching-routine': {
     title: 'Daily Stretching Routine: 10 Minutes for Full Body Flexibility',
@@ -92520,7 +92520,7 @@ Your brain benefits every time you move.
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The 10-Minute Daily Routine
 
 A simple, complete routine you can do every day.
@@ -92619,7 +92619,7 @@ Do it daily. Your body will thank you.
 ---
 
 *Foundational Rehab promotes daily mobility practice.*
-    \`
+    `
   },
   'rotator-cuff-exercises': {
     title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulders',
@@ -92627,7 +92627,7 @@ Do it daily. Your body will thank you.
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is the Rotator Cuff?
 
 Four muscles that stabilize and move your shoulder:
@@ -92707,7 +92707,7 @@ Rotator cuff health requires:
 ---
 
 *Foundational Rehab includes rotator cuff work in shoulder programs.*
-    \`
+    `
   },
   'back-pain-prevention': {
     title: 'Back Pain Prevention: Daily Habits for a Healthy Spine',
@@ -92715,7 +92715,7 @@ Rotator cuff health requires:
     author: 'Foundational Rehab',
     category: 'Prevention',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Preventing Back Pain
 
 Most back pain is preventable with proper habits.
@@ -92784,7 +92784,7 @@ Back pain prevention:
 ---
 
 *Foundational Rehab emphasizes prevention.*
-    \`
+    `
   },
   'improving-flexibility': {
     title: 'How to Improve Flexibility: A Progressive Approach',
@@ -92792,7 +92792,7 @@ Back pain prevention:
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Flexibility Takes Time
 
 You can't become flexible overnight. It requires consistent work over weeks and months.
@@ -92864,7 +92864,7 @@ Improving flexibility:
 ---
 
 *Foundational Rehab builds flexibility progressively.*
-    \`
+    `
   },
   'sitting-disease': {
     title: 'Sitting Disease: How to Combat the Effects of Too Much Sitting',
@@ -92872,7 +92872,7 @@ Improving flexibility:
     author: 'Foundational Rehab',
     category: 'Prevention',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Problem with Sitting
 
 Prolonged sitting is linked to:
@@ -92957,7 +92957,7 @@ Your body was made to move.
 ---
 
 *Foundational Rehab addresses the effects of modern sedentary life.*
-    \`
+    `
   },
   'neck-stretches': {
     title: 'Neck Stretches: Relieve Tension and Improve Mobility',
@@ -92965,7 +92965,7 @@ Your body was made to move.
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Your Neck Gets Tight
 
 Common causes:
@@ -93038,7 +93038,7 @@ Neck stretches should be:
 ---
 
 *Foundational Rehab includes neck care in posture programs.*
-    \`
+    `
   },
   'glute-exercises': {
     title: 'Glute Exercises: Build a Stronger Posterior Chain',
@@ -93046,7 +93046,7 @@ Neck stretches should be:
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Glutes Matter
 
 Your glutes are the largest muscles in your body. Strong glutes:
@@ -93136,7 +93136,7 @@ Glute training:
 ---
 
 *Foundational Rehab prioritizes glute strength for function.*
-    \`
+    `
   },
   'exercise-for-weight-loss': {
     title: 'Exercise for Weight Loss: What Actually Works',
@@ -93144,7 +93144,7 @@ Glute training:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## The Honest Truth
 
 Diet is 80%+ of weight loss. Exercise helps but can't outrun a bad diet.
@@ -93221,7 +93221,7 @@ Exercise for weight loss:
 ---
 
 *Foundational Rehab supports sustainable health habits.*
-    \`
+    `
   },
   'low-back-stretches': {
     title: 'Low Back Stretches: Relieve Tightness and Discomfort',
@@ -93229,7 +93229,7 @@ Exercise for weight loss:
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Stretching for Low Back Relief
 
 Gentle stretching can help relieve low back tightness and discomfort.
@@ -93326,7 +93326,7 @@ Low back stretches:
 ---
 
 *Foundational Rehab includes low back care in all programs.*
-    \`
+    `
   },
   'squat-form-guide': {
     title: 'Squat Form Guide: How to Squat Correctly',
@@ -93334,7 +93334,7 @@ Low back stretches:
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Squats Matter
 
 The squat is a fundamental movement pattern used in:
@@ -93414,7 +93414,7 @@ Good squat form:
 ---
 
 *Foundational Rehab teaches proper movement patterns.*
-    \`
+    `
   },
   'deadlift-form-guide': {
     title: 'Deadlift Form Guide: How to Deadlift Safely',
@@ -93422,7 +93422,7 @@ Good squat form:
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Deadlifts Matter
 
 The deadlift trains the hip hinge pattern — essential for:
@@ -93496,7 +93496,7 @@ Safe deadlifts require:
 ---
 
 *Foundational Rehab teaches the hip hinge pattern.*
-    \`
+    `
   },
   'plank-variations': {
     title: 'Plank Variations: Progress Your Core Training',
@@ -93504,7 +93504,7 @@ Safe deadlifts require:
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Planks Work
 
 Planks train anti-extension — resisting your back from arching. This is core stability.
@@ -93567,7 +93567,7 @@ Plank progressions:
 ---
 
 *Foundational Rehab uses planks as core stability foundation.*
-    \`
+    `
   },
   'rest-day-activities': {
     title: 'Rest Day Activities: What to Do on Recovery Days',
@@ -93575,7 +93575,7 @@ Plank progressions:
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Rest Days Are Important
 
 Rest days allow:
@@ -93661,7 +93661,7 @@ Rest days:
 ---
 
 *Foundational Rehab programs include proper rest.*
-    \`
+    `
   },
   'home-gym-essentials': {
     title: 'Home Gym Essentials: What You Actually Need',
@@ -93669,7 +93669,7 @@ Rest days:
     author: 'Foundational Rehab',
     category: 'Training',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## You Don't Need Much
 
 A great home gym doesn't require much space or money.
@@ -93735,7 +93735,7 @@ Add equipment as you progress.
 ---
 
 *Foundational Rehab supports home-based training.*
-    \`
+    `
   },
   'exercise-mistakes-beginners': {
     title: 'Exercise Mistakes Beginners Make (And How to Avoid Them)',
@@ -93743,7 +93743,7 @@ Add equipment as you progress.
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Common Beginner Mistakes
 
 ### 1. Too Much Too Soon
@@ -93808,15 +93808,15 @@ Avoid these mistakes:
 ---
 
 *Foundational Rehab helps beginners start right.*
-    \`
+    `
   },
   'workout-motivation': {
-    title: 'Workout Motivation: How to Stay Consistent When You Don\\'t Feel Like It',
+    title: 'Workout Motivation: How to Stay Consistent When You Don\'t Feel Like It',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Motivation Is Unreliable
 
 Motivation comes and goes. You can't depend on it.
@@ -93889,7 +93889,7 @@ Staying consistent:
 ---
 
 *Foundational Rehab supports sustainable habits.*
-    \`
+    `
   },
   'stretching-before-bed': {
     title: 'Stretching Before Bed: A Relaxing Nighttime Routine',
@@ -93897,7 +93897,7 @@ Staying consistent:
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Stretch Before Bed?
 
 Bedtime stretching:
@@ -93966,7 +93966,7 @@ Bedtime stretching:
 ---
 
 *Foundational Rehab includes sleep and recovery support.*
-    \`
+    `
   },
   'posture-correction-exercises': {
     title: 'Posture Correction Exercises: Fix Common Postural Problems',
@@ -93974,7 +93974,7 @@ Bedtime stretching:
     author: 'Foundational Rehab',
     category: 'Posture',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Posture Matters
 
 Poor posture leads to:
@@ -94063,15 +94063,15 @@ Posture correction:
 ---
 
 *Foundational Rehab addresses postural issues systematically.*
-    \`
+    `
   },
   'mobility-vs-flexibility': {
-    title: 'Mobility vs Flexibility: What\\'s the Difference?',
+    title: 'Mobility vs Flexibility: What\'s the Difference?',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## They're Not the Same
 
 **Flexibility:** Passive range of motion (how far a muscle can stretch)
@@ -94132,7 +94132,7 @@ Mobility vs flexibility:
 ---
 
 *Foundational Rehab prioritizes functional mobility.*
-    \`
+    `
   },
   'diastasis-recti-exercises': {
     title: 'Diastasis Recti Exercises: Healing Abdominal Separation',
@@ -94140,7 +94140,7 @@ Mobility vs flexibility:
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is Diastasis Recti?
 
 Diastasis recti is the separation of the rectus abdominis muscles (the "six-pack" muscles) along the midline.
@@ -94224,7 +94224,7 @@ Diastasis recti healing:
 ---
 
 *Foundational Rehab addresses diastasis recti carefully.*
-    \`
+    `
   },
   'joint-health-supplements': {
     title: 'Joint Health: What Supplements Actually Work?',
@@ -94232,7 +94232,7 @@ Diastasis recti healing:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Honest Truth
 
 Most joint supplements have limited evidence. Exercise and maintaining healthy weight help more.
@@ -94291,7 +94291,7 @@ For joint health:
 ---
 
 *Foundational Rehab prioritizes movement for joint health.*
-    \`
+    `
   },
   'exercise-during-period': {
     title: 'Exercise During Your Period: What to Know',
@@ -94299,7 +94299,7 @@ For joint health:
     author: 'Foundational Rehab',
     category: 'Special Populations',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Can You Exercise During Your Period?
 
 **Yes.** Exercise during menstruation is safe and often beneficial.
@@ -94360,7 +94360,7 @@ Exercise during period:
 ---
 
 *Foundational Rehab supports women through all phases.*
-    \`
+    `
   },
   'exercise-for-energy': {
     title: 'Exercise for Energy: How Movement Boosts Your Day',
@@ -94368,7 +94368,7 @@ Exercise during period:
     author: 'Foundational Rehab',
     category: 'Benefits',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## The Energy Paradox
 
 It seems counterintuitive: spending energy to get energy.
@@ -94432,7 +94432,7 @@ Exercise for energy:
 ---
 
 *Foundational Rehab recognizes exercise as natural energy.*
-    \`
+    `
   },
   'pelvic-floor-exercises': {
     title: 'Pelvic Floor Exercises: Kegels and Beyond',
@@ -94440,7 +94440,7 @@ Exercise for energy:
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## What Is the Pelvic Floor?
 
 A group of muscles at the base of your pelvis that:
@@ -94520,7 +94520,7 @@ Pelvic floor health:
 ---
 
 *Foundational Rehab addresses pelvic health appropriately.*
-    \`
+    `
   },
   'functional-movement-screen': {
     title: 'Movement Screening: Identify Your Weak Links',
@@ -94528,7 +94528,7 @@ Pelvic floor health:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is Movement Screening?
 
 Assessment of basic movement patterns to identify:
@@ -94588,7 +94588,7 @@ Movement screening:
 ---
 
 *Foundational Rehab uses movement assessment to guide programs.*
-    \`
+    `
   },
   'hydration-exercise': {
     title: 'Hydration and Exercise: How Much Water Do You Really Need?',
@@ -94596,7 +94596,7 @@ Movement screening:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Why Hydration Matters for Exercise
 
 Even mild dehydration affects:
@@ -94655,7 +94655,7 @@ Hydration for exercise:
 ---
 
 *Foundational Rehab includes hydration guidance.*
-    \`
+    `
   },
   'injury-prevention-tips': {
     title: 'Injury Prevention: 10 Tips to Stay Healthy While Training',
@@ -94663,7 +94663,7 @@ Hydration for exercise:
     author: 'Foundational Rehab',
     category: 'Prevention',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Preventing Exercise Injuries
 
 Most injuries are preventable with proper approach.
@@ -94731,7 +94731,7 @@ Injury prevention:
 ---
 
 *Foundational Rehab emphasizes prevention.*
-    \`
+    `
   },
   'myths-about-stretching': {
     title: '5 Myths About Stretching You Still Believe',
@@ -94739,7 +94739,7 @@ Injury prevention:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '4 min read',
-    content: \`
+    content: `
 ## Common Stretching Myths
 
 ### Myth 1: Always Stretch Before Exercise
@@ -94776,7 +94776,7 @@ Stretching is useful but:
 ---
 
 *Foundational Rehab uses evidence-based approaches.*
-    \`
+    `
   },
   'best-time-to-exercise': {
     title: 'Best Time to Exercise: Morning, Afternoon, or Evening?',
@@ -94784,7 +94784,7 @@ Stretching is useful but:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## When Should You Work Out?
 
 **The honest answer:** The best time is when you'll actually do it consistently.
@@ -94844,7 +94844,7 @@ Best exercise time:
 ---
 
 *Foundational Rehab supports exercise at any time.*
-    \`
+    `
   },
   'why-muscles-get-tight': {
     title: 'Why Do Muscles Get Tight? Causes and Solutions',
@@ -94852,7 +94852,7 @@ Best exercise time:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Causes Muscle Tightness?
 
 ### 1. Prolonged Positions
@@ -94921,15 +94921,15 @@ Muscle tightness:
 ---
 
 *Foundational Rehab addresses tightness comprehensively.*
-    \`
+    `
   },
   'exercise-with-bad-knees': {
-    title: 'Exercise with Bad Knees: Safe Workouts That Don\\'t Hurt',
+    title: 'Exercise with Bad Knees: Safe Workouts That Don\'t Hurt',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Special Populations',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## You Can Still Exercise
 
 Bad knees don't mean no exercise. You just need the right approach.
@@ -95010,7 +95010,7 @@ Exercise with knee issues:
 ---
 
 *Foundational Rehab provides knee-friendly programs.*
-    \`
+    `
   },
   'static-vs-dynamic-stretching': {
     title: 'Static vs Dynamic Stretching: When to Use Each',
@@ -95018,7 +95018,7 @@ Exercise with knee issues:
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## Two Types of Stretching
 
 ### Static Stretching
@@ -95079,15 +95079,15 @@ Static vs dynamic:
 ---
 
 *Foundational Rehab uses both types appropriately.*
-    \`
+    `
   },
-  'how-often-should-you-stretch': {
+  'stretching-frequency-guidelines': {
     title: 'How Often Should You Stretch? Frequency Guidelines',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '4 min read',
-    content: \`
+    content: `
 ## Stretching Frequency
 
 ### For Maintenance
@@ -95142,7 +95142,7 @@ How often to stretch:
 ---
 
 *Foundational Rehab recommends daily mobility work.*
-    \`
+    `
   },
   'golf-fitness-exercises': {
     title: 'Golf Fitness: Exercises for Better Performance and Injury Prevention',
@@ -95150,7 +95150,7 @@ How often to stretch:
     author: 'Foundational Rehab',
     category: 'Sport-Specific',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Why Golf Fitness Matters
 
 Golf seems low-intensity, but the swing demands:
@@ -95318,7 +95318,7 @@ Golf fitness priorities:
 ---
 
 *Foundational Rehab offers golf-specific mobility programs.*
-    \`
+    `
   },
   'exercises-for-fibromyalgia': {
     title: 'Exercises for Fibromyalgia: Managing Chronic Pain Through Movement',
@@ -95326,7 +95326,7 @@ Golf fitness priorities:
     author: 'Foundational Rehab',
     category: 'Conditions',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Understanding Fibromyalgia and Exercise
 
 Fibromyalgia causes widespread pain, fatigue, and sensitivity. Exercise might seem counterintuitive, but it's actually one of the most effective treatments.
@@ -95499,7 +95499,7 @@ Fibromyalgia and exercise:
 ---
 
 *Foundational Rehab offers gentle, progressive programs.*
-    \`
+    `
   },
   'acl-injury-prevention': {
     title: 'ACL Injury Prevention: Exercises to Protect Your Knees',
@@ -95507,7 +95507,7 @@ Fibromyalgia and exercise:
     author: 'Foundational Rehab',
     category: 'Prevention',
     readTime: '6 min read',
-    content: \`
+    content: `
 ## Understanding ACL Injuries
 
 The anterior cruciate ligament (ACL) is one of the major stabilizing ligaments of the knee. ACL tears are devastating injuries that:
@@ -95697,7 +95697,7 @@ ACL prevention essentials:
 ---
 
 *Foundational Rehab offers sport-specific injury prevention programs.*
-    \`
+    `
   },
   'massage-gun-guide': {
     title: 'Massage Gun Guide: How to Use a Percussion Massager Effectively',
@@ -95705,7 +95705,7 @@ ACL prevention essentials:
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '5 min read',
-    content: \`
+    content: `
 ## What Is a Massage Gun?
 
 Massage guns (percussion massagers) deliver rapid pulses of pressure to muscle tissue. They've become extremely popular for:
@@ -95910,7 +95910,7 @@ Massage gun essentials:
 ---
 
 *Foundational Rehab incorporates self-myofascial release into recovery protocols.*
-    \`
+    `
   }
 };
 

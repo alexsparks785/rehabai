@@ -450,7 +450,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'why-muscles-get-tight',
     title: 'Why Do Muscles Get Tight? Causes and Solutions',
-    excerpt: 'Tightness isn\\'t always about stretching. Here\\'s what actually causes it.',
+    excerpt: 'Tightness isn\'t always about stretching. Here\'s what actually causes it.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
@@ -458,8 +458,8 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'exercise-with-bad-knees',
-    title: 'Exercise with Bad Knees: Safe Workouts That Don\\'t Hurt',
-    excerpt: 'Bad knees don\\'t mean no exercise. Here are safe options.',
+    title: 'Exercise with Bad Knees: Safe Workouts That Don\'t Hurt',
+    excerpt: 'Bad knees don\'t mean no exercise. Here are safe options.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Special Populations',
@@ -468,7 +468,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'static-vs-dynamic-stretching',
     title: 'Static vs Dynamic Stretching: When to Use Each',
-    excerpt: 'Dynamic before, static after. Here\\'s why timing matters.',
+    excerpt: 'Dynamic before, static after. Here\'s why timing matters.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
@@ -513,7 +513,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'best-time-to-exercise',
     title: 'Best Time to Exercise: Morning, Afternoon, or Evening?',
-    excerpt: 'The best time is when you\\'ll do it. But here are the pros and cons of each.',
+    excerpt: 'The best time is when you\'ll do it. But here are the pros and cons of each.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
@@ -522,7 +522,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'exercise-during-period',
     title: 'Exercise During Your Period: What to Know',
-    excerpt: 'Yes, you can exercise. It may even help cramps. Here\\'s what to know.',
+    excerpt: 'Yes, you can exercise. It may even help cramps. Here\'s what to know.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Special Populations',
@@ -540,7 +540,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'pelvic-floor-exercises',
     title: 'Pelvic Floor Exercises: Kegels and Beyond',
-    excerpt: 'Pelvic floor health matters. How to do Kegels right, and when they\\'re not enough.',
+    excerpt: 'Pelvic floor health matters. How to do Kegels right, and when they\'re not enough.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
@@ -558,7 +558,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'posture-correction-exercises',
     title: 'Posture Correction Exercises: Fix Common Postural Problems',
-    excerpt: 'Forward head, rounded shoulders, anterior pelvic tilt. Here\\'s how to fix them.',
+    excerpt: 'Forward head, rounded shoulders, anterior pelvic tilt. Here\'s how to fix them.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Posture',
@@ -566,8 +566,8 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'mobility-vs-flexibility',
-    title: 'Mobility vs Flexibility: What\\'s the Difference?',
-    excerpt: 'Flexibility is passive range. Mobility is active control. Here\\'s why it matters.',
+    title: 'Mobility vs Flexibility: What\'s the Difference?',
+    excerpt: 'Flexibility is passive range. Mobility is active control. Here\'s why it matters.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
@@ -585,7 +585,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'joint-health-supplements',
     title: 'Joint Health: What Supplements Actually Work?',
-    excerpt: 'Glucosamine? Collagen? Here\\'s what the research actually says.',
+    excerpt: 'Glucosamine? Collagen? Here\'s what the research actually says.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
@@ -594,7 +594,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'home-gym-essentials',
     title: 'Home Gym Essentials: What You Actually Need',
-    excerpt: 'You don\\'t need much. Bands, pull-up bar, and your body can get you far.',
+    excerpt: 'You don\'t need much. Bands, pull-up bar, and your body can get you far.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Training',
@@ -611,8 +611,8 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'workout-motivation',
-    title: 'Workout Motivation: How to Stay Consistent When You Don\\'t Feel Like It',
-    excerpt: 'Motivation is unreliable. Here\\'s what actually works for consistency.',
+    title: 'Workout Motivation: How to Stay Consistent When You Don\'t Feel Like It',
+    excerpt: 'Motivation is unreliable. Here\'s what actually works for consistency.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
@@ -639,7 +639,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'deadlift-form-guide',
     title: 'Deadlift Form Guide: How to Deadlift Safely',
-    excerpt: 'The hip hinge is essential for safe lifting. Here\\'s how to do it right.',
+    excerpt: 'The hip hinge is essential for safe lifting. Here\'s how to do it right.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Training',
@@ -657,7 +657,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'rest-day-activities',
     title: 'Rest Day Activities: What to Do on Recovery Days',
-    excerpt: 'Rest days matter. Here\\'s what to do (and not do) on recovery days.',
+    excerpt: 'Rest days matter. Here\'s what to do (and not do) on recovery days.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Recovery',
@@ -675,7 +675,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'glute-exercises',
     title: 'Glute Exercises: Build a Stronger Posterior Chain',
-    excerpt: 'Strong glutes support your back and improve performance. Here\\'s how to train them.',
+    excerpt: 'Strong glutes support your back and improve performance. Here\'s how to train them.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Training',
@@ -684,7 +684,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'exercise-for-weight-loss',
     title: 'Exercise for Weight Loss: What Actually Works',
-    excerpt: 'Diet is 80%. But exercise helps. Here\\'s what actually moves the needle.',
+    excerpt: 'Diet is 80%. But exercise helps. Here\'s what actually moves the needle.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Education',
@@ -702,7 +702,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'rotator-cuff-exercises',
     title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulders',
-    excerpt: 'The four rotator cuff muscles need specific exercises. Here\\'s how to strengthen them.',
+    excerpt: 'The four rotator cuff muscles need specific exercises. Here\'s how to strengthen them.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
@@ -720,7 +720,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'improving-flexibility',
     title: 'How to Improve Flexibility: A Progressive Approach',
-    excerpt: 'Flexibility takes time. Here\\'s a realistic approach that actually works.',
+    excerpt: 'Flexibility takes time. Here\'s a realistic approach that actually works.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Mobility',
@@ -729,7 +729,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'sitting-disease',
     title: 'Sitting Disease: How to Combat the Effects of Too Much Sitting',
-    excerpt: 'Sitting 10+ hours daily? Here\\'s how to minimize the damage.',
+    excerpt: 'Sitting 10+ hours daily? Here\'s how to minimize the damage.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Prevention',
@@ -737,7 +737,7 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'how-to-start-exercising',
-    title: 'How to Start Exercising: A Complete Beginner\\'s Guide',
+    title: 'How to Start Exercising: A Complete Beginner\'s Guide',
     excerpt: 'Never exercised before? Start with 10-minute walks and build from there.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
@@ -756,7 +756,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'exercise-and-mental-health',
     title: 'Exercise and Mental Health: How Movement Helps Your Mind',
-    excerpt: 'Exercise reduces depression and anxiety. Here\\'s what the research shows.',
+    excerpt: 'Exercise reduces depression and anxiety. Here\'s what the research shows.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Benefits',
@@ -854,7 +854,7 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'when-to-see-doctor-pain',
-    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\\'t Ignore',
+    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\'t Ignore',
     excerpt: 'Most pain is not serious, but these warning signs need medical attention.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
@@ -891,7 +891,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'warm-up-exercises',
     title: 'Warm-Up Exercises: How to Prepare Your Body for Any Workout',
-    excerpt: 'A good warm-up reduces injury risk and improves performance. Here\\'s how to do it right.',
+    excerpt: 'A good warm-up reduces injury risk and improves performance. Here\'s how to do it right.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Training',
@@ -963,7 +963,7 @@ const blogPosts: BlogPost[] = [
   {
     slug: 'exercises-after-surgery',
     title: 'Exercises After Surgery: Safe Movement During Recovery',
-    excerpt: 'General principles for safe movement after surgery. Always follow your surgeon\\'s specific guidelines.',
+    excerpt: 'General principles for safe movement after surgery. Always follow your surgeon\'s specific guidelines.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
@@ -1052,7 +1052,7 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'runners-knee-exercises',
-    title: 'Runner\\'s Knee Exercises: Patellofemoral Pain Syndrome Treatment',
+    title: 'Runner\'s Knee Exercises: Patellofemoral Pain Syndrome Treatment',
     excerpt: 'Knee pain around or behind your kneecap? Hip and quad strengthening are key to recovery.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
@@ -1061,7 +1061,7 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'jumpers-knee-exercises',
-    title: 'Jumper\\'s Knee Exercises: Patellar Tendinopathy Treatment',
+    title: 'Jumper\'s Knee Exercises: Patellar Tendinopathy Treatment',
     excerpt: 'Pain at the patellar tendon? Heavy slow resistance training is the proven treatment.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
@@ -1151,8 +1151,8 @@ const blogPosts: BlogPost[] = [
   },
   {
     slug: 'golfers-elbow-exercises',
-    title: 'Golfer\\'s Elbow Exercises: Heal Medial Epicondylitis',
-    excerpt: 'Pain on the inside of your elbow? Learn how to heal golfer\\'s elbow with progressive loading exercises.',
+    title: 'Golfer\'s Elbow Exercises: Heal Medial Epicondylitis',
+    excerpt: 'Pain on the inside of your elbow? Learn how to heal golfer\'s elbow with progressive loading exercises.',
     date: '2026-03-09',
     author: 'Foundational Rehab',
     category: 'Rehabilitation',
