@@ -94589,6 +94589,262 @@ Movement screening:
 
 *Foundational Rehab uses movement assessment to guide programs.*
     \`
+  },
+  'hydration-exercise': {
+    title: 'Hydration and Exercise: How Much Water Do You Really Need?',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Why Hydration Matters for Exercise
+
+Even mild dehydration affects:
+- Performance
+- Strength
+- Endurance
+- Coordination
+- Recovery
+
+## How Much Water?
+
+### General Daily Intake
+- 8 cups (64 oz) is a starting point
+- More if active, hot climate, large body
+- Urine color: pale yellow = good
+
+### Before Exercise
+- 16-20 oz in the 2-3 hours before
+- Another 8 oz 20-30 minutes before
+
+### During Exercise
+- 7-10 oz every 10-20 minutes
+- More in heat or high intensity
+
+### After Exercise
+- 16-24 oz for every pound lost during exercise
+- Include electrolytes if over 60 minutes
+
+## Signs of Dehydration
+
+- Thirst (already somewhat dehydrated)
+- Dark urine
+- Fatigue
+- Headache
+- Decreased performance
+- Muscle cramps
+
+## Do You Need Sports Drinks?
+
+**For most people:** Water is fine
+
+**Consider sports drinks if:**
+- Exercise over 60 minutes
+- Heavy sweating
+- Hot conditions
+- Intense training
+
+## The Bottom Line
+
+Hydration for exercise:
+1. **Stay hydrated daily** — Don't play catch-up
+2. **Drink before, during, after** — All matter
+3. **Monitor urine color** — Pale yellow is good
+4. **Water usually suffices** — Sports drinks for long/intense
+
+---
+
+*Foundational Rehab includes hydration guidance.*
+    \`
+  },
+  'injury-prevention-tips': {
+    title: 'Injury Prevention: 10 Tips to Stay Healthy While Training',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '5 min read',
+    content: \`
+## Preventing Exercise Injuries
+
+Most injuries are preventable with proper approach.
+
+## 10 Injury Prevention Tips
+
+### 1. Warm Up Properly
+- 5-10 minutes before training
+- Dynamic movement, not static stretching
+- Prepare the movements you'll do
+
+### 2. Progress Gradually
+- 10% rule for volume/intensity increases
+- Don't rush progression
+- Build base before pushing
+
+### 3. Use Proper Form
+- Learn technique before adding load
+- Film yourself, get feedback
+- Don't sacrifice form for weight
+
+### 4. Include Rest Days
+- 1-2 minimum per week
+- Recovery is when you adapt
+- More isn't always better
+
+### 5. Sleep Enough
+- 7-9 hours for most adults
+- Sleep deprivation increases injury risk
+- Prioritize it
+
+### 6. Listen to Your Body
+- Pain is a signal
+- Address issues early
+- Don't push through warning signs
+
+### 7. Balance Your Training
+- Push and pull
+- Front and back
+- Address weaknesses
+
+### 8. Stay Hydrated and Fed
+- Fuel your training
+- Don't exercise fasted unnecessarily
+- Recover with nutrition
+
+### 9. Include Mobility Work
+- Maintain range of motion
+- Address tight areas
+- Daily is ideal
+
+### 10. Get Strong
+- Strength protects against injury
+- Resilient tissues handle more
+- Progressive resistance training
+
+## The Bottom Line
+
+Injury prevention:
+1. **Is mostly about consistency** — Daily habits
+2. **Requires patience** — Don't rush
+3. **Involves recovery** — Not just training
+4. **Means listening** — To your body
+
+---
+
+*Foundational Rehab emphasizes prevention.*
+    \`
+  },
+  'myths-about-stretching': {
+    title: '5 Myths About Stretching You Still Believe',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '4 min read',
+    content: \`
+## Common Stretching Myths
+
+### Myth 1: Always Stretch Before Exercise
+**Truth:** Static stretching before exercise may reduce performance. Dynamic warm-up is better.
+
+### Myth 2: Stretching Prevents Injuries
+**Truth:** Research doesn't strongly support this. Strength training may be more protective.
+
+### Myth 3: You Should Feel Pain When Stretching
+**Truth:** Stretching should be uncomfortable, not painful. Pain means back off.
+
+### Myth 4: More Stretching = More Flexible
+**Truth:** Consistency matters more than duration. Daily short sessions beat occasional long ones.
+
+### Myth 5: Stretching Lengthens Muscles
+**Truth:** Muscles don't permanently lengthen. You develop tolerance to stretch sensation.
+
+## What Actually Matters
+
+- Consistent practice (daily)
+- Adequate hold time (30+ seconds)
+- Appropriate intensity (stretch, not pain)
+- Combining with strength training
+
+## The Bottom Line
+
+Stretching is useful but:
+1. **Static stretching after, not before**
+2. **Won't prevent most injuries alone**
+3. **Should never be painful**
+4. **Works through consistency**
+5. **Changes tolerance, not muscle length**
+
+---
+
+*Foundational Rehab uses evidence-based approaches.*
+    \`
+  },
+  'best-time-to-exercise': {
+    title: 'Best Time to Exercise: Morning, Afternoon, or Evening?',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## When Should You Work Out?
+
+**The honest answer:** The best time is when you'll actually do it consistently.
+
+## Pros and Cons by Time
+
+### Morning Exercise
+
+**Pros:**
+- Gets it done before life interferes
+- May boost energy for the day
+- Can improve focus
+- Consistent routine
+
+**Cons:**
+- Body isn't fully warm
+- May need longer warm-up
+- Sleep can suffer if waking very early
+
+### Afternoon/Evening Exercise
+
+**Pros:**
+- Body temperature peaks (better performance)
+- Muscles are warmer and more flexible
+- Strength typically higher
+- Stress relief after work
+
+**Cons:**
+- Life can interfere (meetings, fatigue)
+- May affect sleep if too late
+- Gyms often busier
+
+## What Research Says
+
+- Performance may be slightly better in afternoon
+- But consistency matters far more than timing
+- Adaptations happen regardless of time
+- Your body adapts to when you train
+
+## Finding Your Best Time
+
+Consider:
+- Your schedule (when can you be consistent?)
+- Your energy patterns (morning or night person?)
+- Your goals (competition timing?)
+- Your preferences (what do you enjoy?)
+
+## The Bottom Line
+
+Best exercise time:
+1. **Consistency wins** — When you'll do it
+2. **Morning works** — If you're a morning person
+3. **Afternoon works** — May be slightly optimal for performance
+4. **Evening works** — Just not too close to bed
+5. **Listen to yourself** — What feels right
+
+---
+
+*Foundational Rehab supports exercise at any time.*
+    \`
   }
 };
 

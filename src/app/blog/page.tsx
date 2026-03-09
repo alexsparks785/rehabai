@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hydration-exercise',
+    title: 'Hydration and Exercise: How Much Water Do You Really Need?',
+    excerpt: 'Before, during, and after exercise hydration guidelines.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'injury-prevention-tips',
+    title: 'Injury Prevention: 10 Tips to Stay Healthy While Training',
+    excerpt: 'Most injuries are preventable. These 10 tips keep you training safely.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'myths-about-stretching',
+    title: '5 Myths About Stretching You Still Believe',
+    excerpt: 'Static stretching before exercise? Prevents injuries? The truth about stretching.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '4 min read'
+  },
+  {
+    slug: 'best-time-to-exercise',
+    title: 'Best Time to Exercise: Morning, Afternoon, or Evening?',
+    excerpt: 'The best time is when you\\'ll do it. But here are the pros and cons of each.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'exercise-during-period',
     title: 'Exercise During Your Period: What to Know',
     excerpt: 'Yes, you can exercise. It may even help cramps. Here\\'s what to know.',
