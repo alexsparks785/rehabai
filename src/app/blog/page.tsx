@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'exercises-for-seniors',
+    title: 'Exercises for Seniors: Safe and Effective Workouts for Older Adults',
+    excerpt: 'Strength, balance, cardio, and flexibility exercises designed for older adults.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'pregnancy-safe-exercises',
+    title: 'Pregnancy Safe Exercises: Staying Active While Expecting',
+    excerpt: 'Safe exercises for each trimester, what to avoid, and how to stay active during pregnancy.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-after-surgery',
+    title: 'Exercises After Surgery: Safe Movement During Recovery',
+    excerpt: 'General principles for safe movement after surgery. Always follow your surgeon\\'s specific guidelines.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-arthritis',
+    title: 'Exercises for Arthritis: Move Better with Less Pain',
+    excerpt: 'Exercise is medicine for arthritis. Learn the best low-impact activities for joint health.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read'
+  },
+  {
     slug: 'desk-posture-exercises',
     title: 'Desk Posture Exercises: Combat Sitting All Day',
     excerpt: 'Sitting all day? These exercises and habits prevent pain from desk work.',

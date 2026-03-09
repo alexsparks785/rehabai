@@ -87583,6 +87583,1081 @@ It's not magic, but it's a helpful part of a complete recovery strategy.
 
 *Foundational Rehab includes foam rolling in recovery programs.*
     \`
+  },
+  'exercises-for-seniors': {
+    title: 'Exercises for Seniors: Safe and Effective Workouts for Older Adults',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '7 min read',
+    content: \`
+## Why Exercise Matters More as You Age
+
+Regular exercise for older adults:
+- Maintains independence
+- Reduces fall risk
+- Preserves muscle mass (fights sarcopenia)
+- Maintains bone density
+- Improves cognitive function
+- Reduces chronic disease risk
+- Enhances quality of life
+
+**The research is clear:** Exercise is the closest thing to an anti-aging medicine.
+
+## The Four Pillars of Senior Fitness
+
+### 1. Strength Training
+
+**Why:** Muscle loss accelerates after 60. Without intervention, you lose 3-5% per decade.
+
+**Goal:** 2-3 sessions per week
+
+### 2. Balance Training
+
+**Why:** Falls are a leading cause of injury in older adults.
+
+**Goal:** Daily practice, even brief
+
+### 3. Cardiovascular Fitness
+
+**Why:** Heart and lung health, endurance for daily activities.
+
+**Goal:** 150 minutes moderate activity per week
+
+### 4. Flexibility
+
+**Why:** Maintain range of motion for daily tasks.
+
+**Goal:** Daily stretching
+
+## Strength Exercises for Seniors
+
+### Lower Body
+
+**Chair Squats**
+- Stand in front of chair
+- Lower to touch seat
+- Stand back up
+- 2 x 10-15
+
+**Step-Ups**
+- Low step (4-6 inches)
+- Step up, step down
+- Hold rail if needed
+- 2 x 10 each leg
+
+**Standing Hip Extension**
+- Hold chair for balance
+- Extend leg straight back
+- 2 x 15 each leg
+
+**Calf Raises**
+- Hold chair for balance
+- Rise on toes
+- 2 x 15
+
+### Upper Body
+
+**Wall Push-Ups**
+- Hands on wall, arms extended
+- Lean in, push back
+- 2 x 10-15
+
+**Seated Rows (Band)**
+- Loop band around feet
+- Pull toward waist
+- 2 x 15
+
+**Overhead Press (Light)**
+- Seated or standing
+- Light weights or cans
+- 2 x 10-15
+
+**Bicep Curls**
+- Light weights
+- 2 x 15
+
+### Core
+
+**Seated Knee Lifts**
+- Sit tall
+- Lift one knee, hold 3 seconds
+- 10 each side
+
+**Seated Twist**
+- Arms crossed on chest
+- Rotate left and right
+- 10 each side
+
+**Modified Plank**
+- On knees or against wall
+- Hold 10-30 seconds
+- Build up gradually
+
+## Balance Exercises for Seniors
+
+### Basic Balance
+
+**Single Leg Stand**
+- Hold chair initially
+- Progress to finger touch only
+- Build to no support
+- 30 seconds each leg
+
+**Heel-to-Toe Walk**
+- Walk in line, heel touching toe
+- Use wall for support if needed
+- 10-20 steps
+
+**Weight Shifts**
+- Feet hip-width apart
+- Shift weight side to side
+- 10 each direction
+
+### Intermediate Balance
+
+**Tandem Stand**
+- One foot in front of other
+- Hold 30 seconds
+- Progress to eyes closed
+
+**Single Leg with Movement**
+- Stand on one leg
+- Move arms or other leg
+- Challenges balance further
+
+**Walking with Head Turns**
+- Walk while turning head side to side
+- Challenges vestibular system
+
+## Cardiovascular Options
+
+### Low Impact Choices
+
+**Walking**
+- Start with 10 minutes
+- Build to 30 minutes
+- Use poles for stability if needed
+
+**Swimming/Water Aerobics**
+- Excellent for joint issues
+- Full body workout
+- Social opportunity
+
+**Stationary Cycling**
+- Easy on joints
+- Good for endurance
+- Recumbent bike for stability
+
+**Chair Aerobics**
+- Seated movement to music
+- Good starting point
+- Reduces fall risk
+
+## Sample Weekly Schedule
+
+### Beginner Program
+
+**Monday, Wednesday, Friday:**
+- Chair exercises: 15 min
+- Walking: 10-15 min
+
+**Tuesday, Thursday:**
+- Balance practice: 10 min
+- Stretching: 10 min
+
+**Saturday:**
+- Gentle walking: 20 min
+
+**Sunday:**
+- Rest or gentle stretching
+
+### Intermediate Program
+
+**Monday, Thursday:**
+- Strength training: 20-30 min
+- Balance: 5-10 min
+
+**Tuesday, Friday:**
+- Walking or cycling: 20-30 min
+
+**Wednesday:**
+- Balance: 15 min
+- Flexibility: 15 min
+
+**Saturday:**
+- Social activity (walking group, swimming)
+
+**Sunday:**
+- Rest or gentle yoga
+
+## Safety Considerations
+
+### Before Starting
+
+- Consult doctor if new to exercise
+- Start slower than you think necessary
+- Listen to your body
+
+### During Exercise
+
+- Warm up first (5 min gentle movement)
+- Stay hydrated
+- Stop if dizzy, chest pain, or severe discomfort
+- Use support/rails as needed
+
+### Fall Prevention
+
+- Clear workout space
+- Good lighting
+- Non-slip footwear
+- Chair or wall nearby for balance
+
+## Modifications for Common Conditions
+
+### Arthritis
+
+- Low impact activities
+- Warm up longer
+- Stay moving (avoid prolonged stillness)
+- Water exercises excellent
+
+### Osteoporosis
+
+- Include weight-bearing exercise
+- Avoid high-impact jumping
+- Strengthen core and back
+- Focus on posture
+
+### Heart Conditions
+
+- Get medical clearance
+- Start slowly, progress gradually
+- Monitor intensity (talk test)
+- Avoid holding breath during strength work
+
+### Balance Issues
+
+- Always have support nearby
+- Seated exercises initially
+- Progress very gradually
+- Consider physical therapy assessment
+
+## Building the Habit
+
+### Start Small
+
+- 10 minutes daily is better than 0
+- Build gradually over weeks
+- Consistency beats intensity
+
+### Make It Social
+
+- Walk with friends
+- Join exercise class
+- Accountability helps
+
+### Track Progress
+
+- Note what you did
+- Celebrate improvements
+- Adjust as needed
+
+## Common Mistakes
+
+### 1. Doing Too Much Too Soon
+
+**Problem:** Injury, discouragement
+**Fix:** Start below your capacity, build up
+
+### 2. Skipping Strength Training
+
+**Problem:** Continued muscle loss
+**Fix:** Include 2-3 sessions weekly
+
+### 3. Ignoring Balance
+
+**Problem:** Fall risk remains high
+**Fix:** Daily balance practice
+
+### 4. Exercising Through Pain
+
+**Problem:** Potential injury
+**Fix:** Discomfort OK, pain is not
+
+## The Bottom Line
+
+Exercise for seniors should include:
+1. **Strength training** — Preserve muscle and function
+2. **Balance work** — Prevent falls
+3. **Cardio** — Heart and endurance
+4. **Flexibility** — Maintain mobility
+5. **Consistency** — Regular practice
+
+It's never too late to start. The benefits begin immediately.
+
+---
+
+*Foundational Rehab provides senior-specific exercise programs.*
+    \`
+  },
+  'pregnancy-safe-exercises': {
+    title: 'Pregnancy Safe Exercises: Staying Active While Expecting',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '7 min read',
+    content: \`
+## Why Exercise During Pregnancy?
+
+Regular exercise during pregnancy:
+- Reduces back pain
+- Improves sleep
+- Reduces gestational diabetes risk
+- May shorten labor
+- Helps manage weight gain
+- Improves mood
+- Speeds postpartum recovery
+
+**ACOG recommends:** 150 minutes of moderate activity per week for most pregnancies.
+
+## Important: Talk to Your Provider
+
+Before exercising during pregnancy, discuss with your healthcare provider, especially if you have:
+- Heart or lung conditions
+- Preeclampsia or high blood pressure
+- Cervical insufficiency
+- Placenta previa
+- Multiple pregnancy at risk for preterm labor
+- Persistent bleeding
+
+## General Guidelines by Trimester
+
+### First Trimester
+
+**Adjustments:**
+- Fatigue and nausea may limit exercise
+- Listen to your body
+- Stay hydrated
+- Most activities still safe
+
+**Good choices:**
+- Walking
+- Swimming
+- Prenatal yoga
+- Light strength training
+
+### Second Trimester
+
+**Adjustments:**
+- Often feel better (energy returns)
+- Avoid lying flat on back after 20 weeks
+- Balance may start changing
+- Core exercises need modification
+
+**Good choices:**
+- All first trimester activities
+- Incline positions instead of flat
+- Continue strength training
+
+### Third Trimester
+
+**Adjustments:**
+- Balance significantly affected
+- Increased joint laxity
+- May need more modifications
+- Shorter, more frequent sessions
+
+**Good choices:**
+- Walking
+- Swimming (excellent support)
+- Modified strength training
+- Prenatal yoga
+
+## Safe Exercises During Pregnancy
+
+### Walking
+
+- Safe throughout pregnancy
+- Easy to adjust intensity
+- Low impact
+- No equipment needed
+
+### Swimming
+
+- Supports body weight
+- No overheating
+- Works whole body
+- Excellent for swelling
+
+### Prenatal Yoga
+
+- Improves flexibility
+- Reduces stress
+- Prepares for labor
+- Avoid hot yoga
+
+### Strength Training
+
+**Safe with modifications:**
+- Light to moderate weights
+- Avoid lying flat after 20 weeks
+- Avoid Valsalva (holding breath)
+- Focus on stability
+
+### Stationary Cycling
+
+- No balance risk
+- Adjustable intensity
+- Good for cardio
+
+### Prenatal Pilates
+
+- Core stability
+- Pelvic floor awareness
+- Must be prenatal-specific
+
+## Exercises to Avoid
+
+### High-Risk Activities
+
+- Contact sports
+- Activities with fall risk (skiing, horseback riding)
+- Hot yoga or hot tubs
+- Scuba diving
+- High altitude activities (over 6000 ft)
+- Lying flat on back after 20 weeks
+
+### Movements to Modify
+
+- Crunches/sit-ups → Modified core work
+- Planks → Side planks, bird dogs
+- Jumping → Low impact alternatives
+- Lying flat → Incline position
+
+## Pregnancy-Safe Core Exercises
+
+### Safe Throughout
+
+**Bird Dogs**
+- On hands and knees
+- Extend opposite arm/leg
+- Maintains core stability
+- 10 each side
+
+**Side Planks (Modified)**
+- On knees if needed
+- Hold 10-20 seconds
+- Avoid front planks late pregnancy
+
+**Pelvic Tilts**
+- On hands and knees or standing
+- Tuck pelvis under
+- 10-15 reps
+
+**Diaphragmatic Breathing**
+- Any position comfortable
+- Breathe into belly
+- Connects with pelvic floor
+
+### Pelvic Floor Exercises (Kegels)
+
+**How to:**
+- Contract pelvic floor (like stopping urine)
+- Hold 5-10 seconds
+- Relax fully
+- 10 reps, 3 times daily
+
+**Why:** Supports growing uterus, may help with delivery and recovery
+
+## Sample Pregnancy Workout
+
+### 30-Minute Routine
+
+**Warm-up (5 min):**
+- Walking in place
+- Arm circles
+- Hip circles
+- Gentle marching
+
+**Strength (15 min):**
+1. Squats: 2 x 12
+2. Wall push-ups: 2 x 10
+3. Seated rows (band): 2 x 12
+4. Step-ups: 2 x 10 each
+5. Bird dogs: 10 each side
+
+**Cool-down/Stretch (10 min):**
+1. Cat-cow: 10 cycles
+2. Child's pose: 30 sec
+3. Hip flexor stretch: 30 sec each
+4. Chest stretch: 30 sec
+5. Calf stretch: 30 sec each
+
+## Warning Signs to Stop Exercise
+
+Stop and contact your provider if you experience:
+- Vaginal bleeding
+- Abdominal pain
+- Regular painful contractions
+- Amniotic fluid leakage
+- Dizziness or faintness
+- Shortness of breath before exerting
+- Headache
+- Chest pain
+- Calf pain or swelling
+- Muscle weakness affecting balance
+
+## Managing Common Pregnancy Issues
+
+### Back Pain
+
+- Bird dogs for core stability
+- Cat-cow for mobility
+- Pelvic tilts
+- Swimming
+
+### Round Ligament Pain
+
+- Gentle stretching
+- Move slowly when changing positions
+- Support belly during exercise
+
+### Swelling
+
+- Walking
+- Swimming
+- Elevate feet
+- Stay hydrated
+
+### Pelvic Girdle Pain
+
+- Avoid single-leg standing
+- Keep knees together when rolling
+- Water exercise
+- See pelvic health PT
+
+## Postpartum Exercise
+
+After delivery:
+- Wait for provider clearance (typically 6 weeks)
+- Start slowly with walking
+- Rebuild pelvic floor
+- Progress gradually
+- Consider pelvic health PT assessment
+
+## The Bottom Line
+
+Pregnancy exercise should be:
+1. **Provider-approved** — Discuss your situation
+2. **Moderate intensity** — Can talk while exercising
+3. **Consistent** — 150 min/week goal
+4. **Modified appropriately** — Adjust each trimester
+5. **Listen to your body** — Rest when needed
+
+Staying active during pregnancy benefits both you and baby.
+
+---
+
+*Foundational Rehab provides prenatal exercise guidance.*
+    \`
+  },
+  'exercises-after-surgery': {
+    title: 'Exercises After Surgery: Safe Movement During Recovery',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## Why Movement After Surgery Matters
+
+Early movement after surgery:
+- Prevents blood clots
+- Reduces stiffness
+- Maintains strength
+- Speeds recovery
+- Improves outcomes
+
+**The old approach:** Bed rest
+**The evidence-based approach:** Early, appropriate movement
+
+## Important: Follow Your Surgeon's Guidelines
+
+Every surgery is different. This article provides general principles, but always:
+- Follow your specific post-op instructions
+- Attend follow-up appointments
+- Ask your surgeon before starting any exercise
+- Work with physical therapy when prescribed
+
+## General Post-Surgery Movement
+
+### Day of Surgery / First Days
+
+**What you can usually do:**
+- Ankle pumps (prevent blood clots)
+- Deep breathing exercises
+- Gentle position changes
+- Short walks (with assistance if needed)
+
+**Ankle Pumps:**
+- Point and flex feet
+- 10-20 reps
+- Every 1-2 hours when awake
+
+**Deep Breathing:**
+- Breathe deeply into belly
+- Hold 2-3 seconds
+- Exhale slowly
+- 10 breaths, several times daily
+
+### First Weeks
+
+**Focus on:**
+- Preventing complications
+- Gentle range of motion
+- Brief, frequent walks
+- Following restrictions
+
+## By Surgery Type
+
+### After Joint Replacement (Hip/Knee)
+
+**Hip Replacement:**
+- Follow hip precautions (usually 6-12 weeks)
+- No crossing legs
+- No bending past 90°
+- No internal rotation
+- PT-guided exercises essential
+
+**Knee Replacement:**
+- Early range of motion critical
+- Straight leg raises
+- Ankle pumps
+- Walking with assistive device
+- PT essential
+
+### After Abdominal Surgery
+
+**First Weeks:**
+- Deep breathing (prevents pneumonia)
+- Gentle walking
+- No heavy lifting
+- Support incision when coughing
+
+**Returning to Exercise:**
+- Usually 6-8 weeks for core work
+- Start with gentle movements
+- Progress slowly
+
+### After Spinal Surgery
+
+**Early Phase:**
+- Walking (often encouraged same day)
+- Strict movement restrictions
+- Log rolling when getting up
+- No bending, lifting, twisting (usually)
+
+**Later Phase:**
+- PT-guided progression
+- Core reactivation
+- Very gradual return to activity
+
+### After Shoulder Surgery
+
+**Rotator Cuff Repair:**
+- Sling for 4-6 weeks
+- Passive motion only initially
+- PT-guided progression
+- Full recovery 6-12 months
+
+**Shoulder Arthroscopy:**
+- Varies by procedure
+- Often faster recovery
+- Still requires PT guidance
+
+### After Cardiac Surgery
+
+**Early:**
+- Deep breathing essential
+- Walking (often day after)
+- Sternal precautions (no pushing/pulling)
+
+**Cardiac Rehab:**
+- Supervised exercise program
+- Essential for recovery
+- Monitored progression
+
+## General Principles for Post-Surgery Exercise
+
+### 1. Respect the Healing Timeline
+
+Tissues heal at different rates:
+- Skin: 2-3 weeks
+- Muscle: 6-8 weeks
+- Tendon/ligament: 8-12 weeks
+- Bone: 8-12 weeks
+
+Don't rush the biology.
+
+### 2. Progress Gradually
+
+- Start with what you can do
+- Increase slowly
+- Monitor response
+- Back off if symptoms increase
+
+### 3. Pain as Guide
+
+**Green light:** Mild discomfort that resolves
+**Yellow light:** Pain during that persists briefly
+**Red light:** Pain that worsens or doesn't resolve
+
+### 4. Protect the Surgical Site
+
+- Follow weight-bearing restrictions
+- Use assistive devices as instructed
+- Avoid positions that stress the repair
+
+## Common Post-Surgery Exercises
+
+### Blood Clot Prevention
+
+**Ankle Pumps:** Point and flex feet
+**Calf Pumps:** Tighten and release calf muscles
+**Quad Sets:** Tighten thigh, push knee down
+
+### Maintaining Strength
+
+**Gentle Isometrics:** Contract muscles without movement
+**Unaffected Limbs:** Keep rest of body active
+**Walking:** As allowed and tolerated
+
+### Breathing
+
+**Deep Breathing:** Prevents lung complications
+**Incentive Spirometer:** If provided
+**Coughing:** Support incision, clear lungs
+
+## When to Progress
+
+**Signs you're ready to progress:**
+- Meeting current milestones
+- Minimal pain with current level
+- Swelling controlled
+- No signs of complications
+- Surgeon/PT approval
+
+**Signs to slow down:**
+- Increased pain
+- Increased swelling
+- New symptoms
+- Not meeting milestones
+
+## Working with Physical Therapy
+
+For most surgeries, PT is essential for:
+- Safe progression
+- Proper technique
+- Appropriate exercises
+- Avoiding complications
+- Optimal outcomes
+
+**Don't skip PT** — it significantly improves outcomes.
+
+## Returning to Normal Activity
+
+Timeline varies by surgery, but general pattern:
+- Daily activities: 2-6 weeks
+- Driving: 2-6 weeks (depends on surgery)
+- Light exercise: 6-12 weeks
+- Full activity: 3-12 months
+
+**Always get clearance** before returning to sports or heavy activity.
+
+## The Bottom Line
+
+Post-surgery exercise should be:
+1. **Surgeon-approved** — Follow your specific instructions
+2. **Gradual** — Respect healing timelines
+3. **Guided** — Work with PT when indicated
+4. **Consistent** — Regular, appropriate movement
+5. **Patient** — Recovery takes time
+
+Early, appropriate movement leads to better outcomes.
+
+---
+
+*Foundational Rehab provides post-surgical rehabilitation guidance.*
+    \`
+  },
+  'exercises-for-arthritis': {
+    title: 'Exercises for Arthritis: Move Better with Less Pain',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read',
+    content: \`
+## Exercise Is Medicine for Arthritis
+
+It might seem counterintuitive, but exercise is one of the best treatments for arthritis:
+
+**Benefits:**
+- Reduces pain
+- Improves joint function
+- Maintains mobility
+- Strengthens supporting muscles
+- Reduces stiffness
+- Improves quality of life
+
+**The risk of NOT exercising:** Weakness, stiffness, and faster joint deterioration.
+
+## Types of Arthritis
+
+### Osteoarthritis (OA)
+
+- "Wear and tear" arthritis
+- Cartilage breakdown
+- Most common type
+- Responds well to exercise
+
+### Rheumatoid Arthritis (RA)
+
+- Autoimmune condition
+- Inflammation-driven
+- Exercise important but may need modification during flares
+- Work with rheumatologist
+
+### Other Types
+
+- Psoriatic arthritis
+- Gout
+- Ankylosing spondylitis
+
+Same principles apply: appropriate exercise helps.
+
+## Exercise Guidelines for Arthritis
+
+### General Principles
+
+1. **Start low, go slow** — Begin gently
+2. **Stay consistent** — Regular movement beats occasional
+3. **Listen to your body** — Adjust for flares
+4. **Warm up first** — Especially important
+5. **Don't push through sharp pain** — Discomfort OK, pain not
+
+### Pain Rule of Thumb
+
+**Before exercise:** Note pain level (0-10)
+**During:** Mild increase OK
+**2 hours after:** Should return to baseline or better
+**Next day:** Should not be worse
+
+If pain significantly worse for 2+ days, you did too much.
+
+## Best Exercises for Arthritis
+
+### Low-Impact Cardio
+
+**Walking**
+- Start with 5-10 minutes
+- Build gradually
+- Flat surfaces easier
+- Good supportive shoes
+
+**Swimming/Water Exercise**
+- Buoyancy reduces joint load
+- Warm water helpful
+- Excellent for severe arthritis
+- Full body workout
+
+**Cycling**
+- Stationary or regular
+- Low joint impact
+- Adjustable resistance
+- Good for knee OA
+
+**Elliptical**
+- Lower impact than treadmill
+- Works whole body
+- Good alternative to walking
+
+### Strength Training
+
+**Why:** Strong muscles support and protect joints
+
+**Chair Squats**
+- Sit and stand from chair
+- Use arms for assist if needed
+- 2 x 10
+
+**Wall Push-Ups**
+- Easier on wrists than floor
+- 2 x 10
+
+**Leg Extensions (Seated)**
+- Straighten knee against gravity
+- Add ankle weight to progress
+- 2 x 15 each
+
+**Resistance Band Exercises**
+- Adjustable resistance
+- Easy on joints
+- Multiple exercises possible
+
+### Range of Motion
+
+**Why:** Maintains mobility, reduces stiffness
+
+**Joint Circles**
+- Circle affected joints slowly
+- 10 each direction
+- Do daily
+
+**Stretching**
+- Hold 20-30 seconds
+- Don't bounce
+- Should feel stretch, not pain
+
+**Yoga/Tai Chi**
+- Gentle movement through range
+- Evidence supports for arthritis
+- Choose gentle/modified classes
+
+## Exercises by Affected Joint
+
+### Knee Arthritis
+
+**Best exercises:**
+- Water exercise
+- Cycling
+- Quad strengthening
+- Hamstring strengthening
+
+**Avoid/Modify:**
+- Deep squats
+- High-impact activities
+- Excessive stairs
+
+### Hip Arthritis
+
+**Best exercises:**
+- Swimming
+- Cycling
+- Hip strengthening
+- Gentle stretching
+
+**Avoid/Modify:**
+- High-impact activities
+- Excessive hip flexion
+- Prolonged standing
+
+### Hand Arthritis
+
+**Best exercises:**
+- Finger range of motion
+- Gentle grip exercises
+- Putty exercises
+- Warm water soaks + exercise
+
+### Spine Arthritis
+
+**Best exercises:**
+- Walking
+- Swimming
+- Core strengthening
+- Gentle mobility
+
+**Avoid:**
+- High-impact activities
+- Excessive bending/twisting
+
+## Sample Arthritis Exercise Program
+
+### Daily Routine (15-20 min)
+
+**Warm-up (3 min):**
+- Gentle walking or marching
+- Joint circles (affected joints)
+
+**Range of Motion (5 min):**
+- Move all major joints through range
+- Hold end positions briefly
+
+**Strength (10 min):**
+- Chair squats: 2 x 10
+- Wall push-ups: 2 x 10
+- Band rows: 2 x 15
+- Knee extensions: 2 x 12
+
+**Cool-down:**
+- Gentle stretching: 3-5 min
+
+### 3x Weekly Addition
+
+- Walking: 20-30 min
+- Or water exercise
+- Or cycling
+
+## Managing Flares
+
+During flare-ups:
+- Reduce intensity/duration
+- Focus on gentle range of motion
+- Don't stop completely
+- Resume normal activity as flare subsides
+
+**Rest ≠ No movement**
+Gentle movement often helps more than complete rest.
+
+## Heat and Cold
+
+**Heat (before exercise):**
+- Warm shower
+- Heating pad
+- Reduces stiffness
+
+**Cold (after exercise):**
+- Ice pack
+- 15-20 minutes
+- Reduces inflammation
+
+## Common Mistakes
+
+### 1. Avoiding All Exercise
+
+**Problem:** Joints get worse
+**Fix:** Appropriate exercise helps
+
+### 2. Doing Too Much During Good Days
+
+**Problem:** Flare the next day
+**Fix:** Stay consistent, don't overdo
+
+### 3. Stopping During Flares
+
+**Problem:** Stiffness worsens
+**Fix:** Gentle movement, reduced intensity
+
+### 4. High-Impact Activities
+
+**Problem:** Excessive joint stress
+**Fix:** Low-impact alternatives
+
+## The Bottom Line
+
+Exercise for arthritis should be:
+1. **Low-impact** — Protect your joints
+2. **Consistent** — Regular movement
+3. **Progressive** — Build up gradually
+4. **Adapted** — Adjust for flares
+5. **Comprehensive** — Cardio, strength, and flexibility
+
+Movement is medicine. Start gently and keep going.
+
+---
+
+*Foundational Rehab provides arthritis-friendly exercise programs.*
+    \`
   }
 };
 
