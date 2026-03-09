@@ -88658,6 +88658,814 @@ Movement is medicine. Start gently and keep going.
 
 *Foundational Rehab provides arthritis-friendly exercise programs.*
     \`
+  },
+  'text-neck-exercises': {
+    title: 'Text Neck Exercises: Fix Forward Head Posture from Phone Use',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '5 min read',
+    content: \`
+## What Is Text Neck?
+
+Text neck is the forward head posture and neck strain caused by looking down at phones and devices.
+
+**The problem:** Your head weighs 10-12 pounds. For every inch it moves forward, the load on your neck doubles or triples.
+
+**At 45° forward tilt:** Your neck supports ~50 pounds of effective weight.
+
+## Symptoms of Text Neck
+
+- Neck pain and stiffness
+- Headaches (tension type)
+- Shoulder pain
+- Upper back pain
+- Reduced neck mobility
+- Muscle tightness
+
+## Why It's Getting Worse
+
+Average phone use:
+- 3-4 hours daily (many people more)
+- Head tilted down most of that time
+- Repeated daily for years
+
+Your neck wasn't designed for this.
+
+## Exercises to Fix Text Neck
+
+### Chin Tucks (Most Important)
+
+- Sit or stand tall
+- Draw chin straight back (make double chin)
+- Hold 5 seconds
+- 10-15 reps, several times daily
+
+**Why it works:** Strengthens deep neck flexors, corrects forward head position.
+
+### Neck Extensions
+
+- Look up toward ceiling
+- Hold 5-10 seconds
+- Return to neutral
+- 10 reps
+
+### Neck Stretches
+
+**Upper Trap:**
+- Ear to shoulder
+- Gentle hand pressure
+- 20 seconds each side
+
+**Levator Scapulae:**
+- Look toward armpit
+- Gentle hand pressure
+- 20 seconds each side
+
+**Suboccipital Release:**
+- Tennis balls in sock
+- Lie down, balls at skull base
+- Rest 2-3 minutes
+
+### Thoracic Extension
+
+**Foam Roller:**
+- Lie on roller at mid-back
+- Arms overhead
+- Extend backward
+- 2 minutes
+
+**Doorway Stretch:**
+- Arms at 90° on doorframe
+- Step through
+- Feel chest stretch
+- 30 seconds
+
+### Strengthening Exercises
+
+**Prone Y Raises:**
+- Lie face down
+- Arms in Y position
+- Lift arms, squeeze shoulder blades
+- 2 x 15
+
+**Band Pull-Aparts:**
+- Hold band at shoulder height
+- Pull apart, squeezing back
+- 2 x 20
+
+**Wall Angels:**
+- Back against wall
+- Arms in goalpost position
+- Slide up and down
+- 2 x 15
+
+## Quick Office Routine (2 Minutes)
+
+Every 30-60 minutes:
+1. Chin tucks: 5 reps
+2. Neck circles: 5 each way
+3. Shoulder rolls: 5 each way
+4. Chest stretch: 15 seconds
+
+## Phone Habits to Change
+
+### Hold Phone Higher
+
+- Bring phone to eye level
+- Use stands and holders
+- Rest elbows on desk
+
+### Take Breaks
+
+- Set reminders
+- 20-20-20 rule (every 20 min, look 20 feet away for 20 seconds)
+- Limit scrolling sessions
+
+### Use Voice
+
+- Voice-to-text
+- Voice commands
+- Reduces looking down
+
+## Sample Daily Program
+
+### Morning (5 min)
+
+1. Chin tucks: 10 reps
+2. Neck stretches: 20 sec each
+3. Foam roller thoracic: 2 min
+
+### Throughout Day
+
+4. Hourly chin tucks: 5 reps
+5. Phone habit awareness
+
+### Evening (5 min)
+
+6. Suboccipital release: 2 min
+7. Band pull-aparts: 15 reps
+8. Prone Y: 10 reps
+
+## The Bottom Line
+
+Text neck requires:
+1. **Chin tucks** — Multiple times daily
+2. **Phone habits** — Hold higher, take breaks
+3. **Stretch tight muscles** — Chest, upper traps
+4. **Strengthen weak muscles** — Deep flexors, mid-back
+5. **Consistency** — Daily practice
+
+Your neck can recover, but you have to change the inputs.
+
+---
+
+*Foundational Rehab provides text neck correction programs.*
+    \`
+  },
+  'trigger-point-release': {
+    title: 'Trigger Point Release: Self-Treatment for Muscle Knots',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: \`
+## What Are Trigger Points?
+
+Trigger points are hyperirritable spots in muscle tissue — often called "knots."
+
+**Characteristics:**
+- Tender spot in tight muscle band
+- Pain with pressure
+- May refer pain to other areas
+- Can limit range of motion
+
+## Common Trigger Point Locations
+
+### Upper Body
+
+- **Upper trapezius** → Neck pain, headaches
+- **Levator scapulae** → Neck/shoulder pain
+- **Rhomboids** → Upper back pain
+- **Pectoralis** → Chest/shoulder pain
+- **Infraspinatus** → Shoulder/arm pain
+
+### Lower Body
+
+- **Piriformis** → Buttock/sciatic pain
+- **Gluteus medius** → Hip/low back pain
+- **Quadratus lumborum** → Low back pain
+- **Hip flexors** → Hip/groin pain
+- **Calf muscles** → Calf/Achilles pain
+
+## Self-Release Techniques
+
+### Basic Technique
+
+1. **Find:** Locate tender spot in muscle
+2. **Press:** Apply sustained pressure
+3. **Hold:** 30-90 seconds
+4. **Breathe:** Try to relax
+5. **Release:** Gradually reduce pressure
+
+**Pressure level:** 5-7/10 discomfort — should "hurt good"
+
+### Tools for Self-Release
+
+**Hands/Fingers:** Upper traps, forearms
+**Tennis/Lacrosse Ball:** Back, glutes, chest
+**Foam Roller:** Large muscle groups
+**Massage Cane:** Hard-to-reach areas
+**Massage Gun:** General use (lower intensity)
+
+## Trigger Point Release by Area
+
+### Upper Trapezius
+
+**Tool:** Fingers or ball against wall
+**Position:** Find tender spot on top of shoulder
+**Technique:** Press and hold 60 seconds, or press and move through range
+
+### Levator Scapulae
+
+**Tool:** Ball against wall
+**Position:** Ball between spine and shoulder blade, upper area
+**Technique:** Lean into ball, hold or make small movements
+
+### Pectoralis
+
+**Tool:** Ball against wall or doorframe
+**Position:** Ball on chest muscle, below collarbone
+**Technique:** Lean in, hold, then move arm slowly
+
+### Rhomboids
+
+**Tool:** Ball against wall
+**Position:** Ball between spine and shoulder blade
+**Technique:** Cross arm for better access, lean in
+
+### Piriformis
+
+**Tool:** Ball on floor or firm surface
+**Position:** Sit on ball, cross affected ankle over knee
+**Technique:** Roll gently, hold on tender spots
+
+### Gluteus Medius
+
+**Tool:** Ball against wall or floor
+**Position:** Ball on side of hip/upper buttock
+**Technique:** Side-lying, roll and hold
+
+### Quadratus Lumborum
+
+**Tool:** Ball against wall
+**Position:** Ball between lowest ribs and pelvis, to side of spine
+**Technique:** Lean in carefully, avoid spine
+
+### Calf
+
+**Tool:** Foam roller
+**Position:** Sit on floor, calf on roller
+**Technique:** Roll slowly, pause on tender spots
+
+## Sample Self-Release Routine
+
+### Upper Body Focus (10 min)
+
+1. Upper traps: 60 sec each
+2. Levator scapulae: 60 sec each
+3. Pectoralis: 60 sec each
+4. Rhomboids: 60 sec each
+
+### Lower Body Focus (10 min)
+
+1. Piriformis: 60 sec each
+2. Glute medius: 60 sec each
+3. Hip flexors: 60 sec each
+4. Calves: 60 sec each
+
+### Full Body (15-20 min)
+
+- Hit all major areas
+- Focus more time on problem spots
+- Combine with stretching
+
+## Trigger Points vs Other Pain
+
+### Trigger Point
+
+- Localized tender spot
+- Reproducible with pressure
+- May refer pain in specific pattern
+- Responds to pressure/release
+
+### Other Causes
+
+- Joint pain: Different quality, location
+- Nerve pain: Shooting, burning, follows nerve path
+- Inflammation: Swelling, heat, constant
+
+**If unsure, see a professional for diagnosis.**
+
+## When to Use Trigger Point Release
+
+### Good Times
+
+- Morning stiffness
+- After prolonged positions
+- Pre-workout (light)
+- Post-workout
+- Before stretching
+
+### Avoid When
+
+- Acute injury (first 48-72 hours)
+- Over bruises or wounds
+- Severe pain
+- Numbness or tingling during
+- Over blood clots
+
+## Maximizing Effectiveness
+
+### Combine With
+
+- Stretching (after release)
+- Heat (before release)
+- Movement (after release)
+- Breathing (during release)
+
+### Address Root Cause
+
+Trigger points often return because the cause persists:
+- Posture
+- Repetitive movements
+- Stress
+- Weakness
+
+Release provides relief; addressing cause provides solution.
+
+## Common Mistakes
+
+### 1. Too Much Pressure
+
+**Problem:** Bruising, increased pain
+**Fix:** Moderate pressure, build up
+
+### 2. Too Short Duration
+
+**Problem:** No release achieved
+**Fix:** Hold 30-90 seconds minimum
+
+### 3. Holding Breath
+
+**Problem:** Increased tension
+**Fix:** Breathe slowly, try to relax
+
+### 4. Only Treating Symptoms
+
+**Problem:** Keeps coming back
+**Fix:** Address underlying cause
+
+## The Bottom Line
+
+Self trigger point release:
+1. **Find** the tender spot
+2. **Press** with moderate pressure
+3. **Hold** 30-90 seconds
+4. **Breathe** and relax
+5. **Address root cause** for lasting relief
+
+Regular self-care can significantly reduce muscle pain and tension.
+
+---
+
+*Foundational Rehab teaches effective self-release techniques.*
+    \`
+  },
+  'breathing-exercises-pain': {
+    title: 'Breathing Exercises for Pain Relief and Relaxation',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: \`
+## How Breathing Affects Pain
+
+Breathing directly influences your nervous system:
+
+**Shallow, rapid breathing:**
+- Activates fight-or-flight
+- Increases muscle tension
+- Heightens pain sensitivity
+
+**Slow, deep breathing:**
+- Activates rest-and-digest
+- Reduces muscle tension
+- Decreases pain perception
+
+You can use breathing to modulate your pain experience.
+
+## The Science
+
+### Parasympathetic Activation
+
+Slow, deep breathing stimulates the vagus nerve, shifting your nervous system toward relaxation.
+
+**Effects:**
+- Lower heart rate
+- Reduced blood pressure
+- Decreased cortisol
+- Muscle relaxation
+- Reduced pain sensitivity
+
+### Gate Control
+
+Focusing on breath gives your brain something else to process, potentially "closing the gate" on pain signals.
+
+## Basic Breathing Techniques
+
+### Diaphragmatic Breathing
+
+**How:**
+1. Lie down or sit comfortably
+2. Hand on belly, hand on chest
+3. Breathe so belly rises, chest stays still
+4. Inhale through nose (4 counts)
+5. Exhale through mouth (6 counts)
+6. Repeat 5-10 minutes
+
+**When:** Any time, especially during pain
+
+### 4-7-8 Breathing
+
+**How:**
+1. Inhale through nose: 4 counts
+2. Hold: 7 counts
+3. Exhale through mouth: 8 counts
+4. Repeat 4 cycles
+
+**When:** Acute pain, anxiety, before sleep
+
+### Box Breathing
+
+**How:**
+1. Inhale: 4 counts
+2. Hold: 4 counts
+3. Exhale: 4 counts
+4. Hold: 4 counts
+5. Repeat 4-8 cycles
+
+**When:** Stress, need to calm quickly
+
+### Extended Exhale
+
+**How:**
+1. Inhale normally
+2. Exhale twice as long (e.g., in 3, out 6)
+3. Repeat for several minutes
+
+**When:** General relaxation, pain flares
+
+## Breathing for Specific Situations
+
+### During Pain Flare
+
+1. Notice your breathing (likely shallow)
+2. Pause
+3. Slow inhale (4 counts)
+4. Longer exhale (6-8 counts)
+5. Continue until calmer
+6. Combine with imagery (breathing out pain)
+
+### Before Physical Therapy/Exercise
+
+1. 5 minutes of diaphragmatic breathing
+2. Calms nervous system
+3. Reduces anticipatory tension
+4. May reduce exercise pain
+
+### During Stretching
+
+1. Inhale to prepare
+2. Exhale as you move into stretch
+3. Breathe slowly while holding
+4. Exhale to deepen (gently)
+
+### At Night with Pain
+
+1. 4-7-8 breathing
+2. 4-6 cycles
+3. Focus entirely on breath
+4. Often helps with sleep
+
+## Body Scan with Breathing
+
+**How:**
+1. Lie comfortably
+2. Close eyes
+3. Breathe slowly
+4. On each exhale, scan for tension
+5. Release tension as you exhale
+6. Move from head to toe
+7. 10-15 minutes
+
+**Benefits:** Identifies where you hold tension, promotes full-body relaxation
+
+## Breathing and Movement
+
+### Coordinate Breath with Exercise
+
+- Exhale on exertion
+- Inhale on return
+- Avoid breath holding
+- Promotes relaxation during movement
+
+### Between Sets
+
+- Slow breathing during rest
+- Reduces nervous system arousal
+- Improves recovery
+- Maintains pain modulation
+
+## Building a Practice
+
+### Starting Out
+
+- 5 minutes daily
+- Same time each day
+- Comfortable position
+- No distractions
+
+### Progressing
+
+- Increase to 10-15 minutes
+- Use during pain
+- Apply to daily activities
+- Notice what works best
+
+### Making It Automatic
+
+- Practice regularly
+- Use as first response to pain
+- Becomes natural over time
+- Always available tool
+
+## Common Mistakes
+
+### 1. Forcing Deep Breaths
+
+**Problem:** Creates tension
+**Fix:** Gentle, natural depth
+
+### 2. Chest Breathing Only
+
+**Problem:** Doesn't activate relaxation
+**Fix:** Focus on belly movement
+
+### 3. Only Using During Crisis
+
+**Problem:** Not skilled when needed
+**Fix:** Regular practice builds skill
+
+### 4. Expecting Instant Results
+
+**Problem:** Giving up too soon
+**Fix:** Consistent practice over weeks
+
+## The Bottom Line
+
+Breathing for pain:
+1. **Activates relaxation** — Parasympathetic response
+2. **Reduces tension** — Muscle and mental
+3. **Modulates pain** — Changes perception
+4. **Always available** — No equipment needed
+5. **Improves with practice** — Becomes automatic
+
+Breath is your most accessible pain management tool.
+
+---
+
+*Foundational Rehab integrates breathing into all programs.*
+    \`
+  },
+  'sleep-positions-pain': {
+    title: 'Sleep Positions for Back, Neck, Hip, and Shoulder Pain',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: \`
+## Why Sleep Position Matters
+
+You spend 6-8 hours in one position. Poor positioning:
+- Strains joints and muscles
+- Compresses nerves
+- Prevents healing
+- Causes morning pain and stiffness
+
+Good positioning:
+- Maintains neutral spine
+- Reduces pressure points
+- Supports healing
+- Improves sleep quality
+
+## General Principles
+
+### Spine Alignment
+
+Your spine should maintain its natural curves. Avoid:
+- Excessive twisting
+- Prolonged bending
+- Asymmetric positions
+
+### Pillow Support
+
+Use pillows to fill gaps and support curves:
+- Under/between knees
+- Under waist
+- Proper neck support
+
+### Mattress Matters
+
+- Medium-firm generally best
+- Should support, not sag
+- Replace every 8-10 years
+- Personal preference factors in
+
+## Positions for Back Pain
+
+### Best: On Back with Knee Support
+
+- Lie on back
+- Pillow under knees
+- Small rolled towel under low back curve (optional)
+- Keeps spine neutral
+
+### Good: Side-Lying with Pillow Between Knees
+
+- Lie on side
+- Pillow between knees (keeps pelvis aligned)
+- Slight bend at hips and knees
+- Maintain spine alignment
+
+### Avoid: Stomach Sleeping
+
+- Forces neck rotation
+- Increases lumbar curve
+- If you must: pillow under pelvis, no pillow under head
+
+## Positions for Neck Pain
+
+### Best: On Back
+
+- Pillow that supports neck curve
+- Head neutral (not pushed forward or back)
+- Consider cervical pillow
+
+### Good: Side-Lying
+
+- Pillow fills space between shoulder and head
+- Neck stays aligned with spine
+- Avoid thick or thin pillows
+
+### Avoid
+
+- Stomach (forces rotation)
+- Too many pillows (pushes head forward)
+- Arm under head (strains shoulder and neck)
+
+### Pillow Selection
+
+**Back sleeper:** Lower, supports neck curve
+**Side sleeper:** Higher, fills shoulder-to-head gap
+**Combo:** Adjustable or medium height
+
+## Positions for Hip Pain
+
+### Bursitis/GTPS (Outer Hip Pain)
+
+**Avoid:** Sleeping on painful side
+
+**Best:**
+- Sleep on non-painful side
+- Pillow between knees (essential)
+- Pillow under top leg for extra support
+
+**Or:** Back sleeping with pillow under knees
+
+### Hip Arthritis
+
+**Options:**
+- Side-lying with pillow between knees
+- Back with pillow under knees
+- Avoid positions that compress or rotate hip
+
+### After Hip Replacement
+
+- Follow surgeon's specific instructions
+- Usually avoid crossing legs
+- Pillow between knees
+- May need to avoid side-lying initially
+
+## Positions for Shoulder Pain
+
+### General Rules
+
+- Don't sleep on painful shoulder
+- Avoid arm overhead positions
+- Support arm if needed
+
+### Best Positions
+
+**Back:**
+- Arm at side or on pillow
+- Small pillow under arm keeps shoulder neutral
+
+**Non-painful side:**
+- Pillow to hug (supports painful arm)
+- Keeps shoulder in neutral position
+
+### Rotator Cuff/Impingement
+
+- Sleeping on painful side often worsens
+- May need recliner for severe cases
+- Slight incline can help
+
+### Frozen Shoulder
+
+- Experiment with positions
+- Pillows for arm support
+- Whatever allows sleep with least pain
+
+## Positions for Sciatica
+
+### Disc-Related
+
+**Best:** On back, knees elevated (pillow under)
+**Good:** Side-lying, knees bent, pillow between
+**May help:** Slight recline (pillows or adjustable bed)
+
+### Stenosis-Related
+
+**Best:** Side-lying, knees drawn up (fetal-ish)
+**May help:** Back with significant knee elevation
+**Avoid:** Flat on back (extends spine)
+
+## Creating Your Setup
+
+### Essential Items
+
+1. **Supportive mattress**
+2. **Appropriate pillow for sleep position**
+3. **Knee pillow** (for side sleepers)
+4. **Extra pillows for support**
+
+### Getting Comfortable
+
+- Set up pillows before lying down
+- Adjust until comfortable
+- It may take a few nights to adapt
+- Be willing to experiment
+
+## Transitioning Positions
+
+### If You Move at Night
+
+- That's normal and healthy
+- Set up for your starting position
+- Body will find comfort
+- Multiple positions may help
+
+### Training a New Position
+
+- Takes 2-4 weeks
+- Use pillows to make old position uncomfortable
+- Be patient
+- Benefits worth the adjustment
+
+## When Position Isn't Enough
+
+If you've optimized position and still have pain:
+- Consider mattress replacement
+- Evaluate pillow height
+- Address daytime factors
+- See a professional
+
+## The Bottom Line
+
+Sleep positioning:
+1. **Maintain spine alignment** — Neutral is best
+2. **Use pillow support** — Between knees, under neck
+3. **Avoid painful side** — For shoulder and hip
+4. **Experiment** — Find what works
+5. **Give it time** — Adjustment takes weeks
+
+Good sleep position supports your body's healing.
+
+---
+
+*Foundational Rehab addresses sleep as part of comprehensive recovery.*
+    \`
   }
 };
 

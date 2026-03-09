@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'text-neck-exercises',
+    title: 'Text Neck Exercises: Fix Forward Head Posture from Phone Use',
+    excerpt: 'Phone use causing neck pain? Chin tucks and posture exercises can reverse text neck.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'trigger-point-release',
+    title: 'Trigger Point Release: Self-Treatment for Muscle Knots',
+    excerpt: 'Learn to release muscle knots yourself with balls, foam rollers, and proper technique.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'breathing-exercises-pain',
+    title: 'Breathing Exercises for Pain Relief and Relaxation',
+    excerpt: 'Your breath directly affects pain perception. Learn techniques for relief.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'sleep-positions-pain',
+    title: 'Sleep Positions for Back, Neck, Hip, and Shoulder Pain',
+    excerpt: 'Optimize your sleep position to reduce pain and wake up feeling better.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
     slug: 'exercises-for-seniors',
     title: 'Exercises for Seniors: Safe and Effective Workouts for Older Adults',
     excerpt: 'Strength, balance, cardio, and flexibility exercises designed for older adults.',
