@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hip-impingement-exercises',
+    title: 'Hip Impingement Exercises: FAI Management and Relief',
+    excerpt: 'Hip impingement (FAI) causing groin pain? Learn exercises to manage symptoms and improve function.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'si-joint-pain-exercises',
+    title: 'SI Joint Pain Exercises: Sacroiliac Joint Relief',
+    excerpt: 'SI joint pain in your low back and buttock? Learn whether you need stability or mobility exercises.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'shoulder-impingement-exercises',
+    title: 'Shoulder Impingement Exercises: Relieve Pain and Restore Function',
+    excerpt: 'Shoulder impingement causing pain with overhead movements? Rotator cuff and scapular exercises help.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'frozen-shoulder-exercises',
+    title: 'Frozen Shoulder Exercises: Adhesive Capsulitis Treatment',
+    excerpt: 'Frozen shoulder limiting your movement? Learn stage-specific exercises for each phase of recovery.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
     slug: 'wrist-pain-exercises',
     title: 'Wrist Pain Exercises: Strengthen and Heal Your Wrists',
     excerpt: 'Wrist pain from typing, lifting, or sports? Learn exercises for carpal tunnel, tendonitis, and more.',

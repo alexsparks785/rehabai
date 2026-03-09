@@ -83678,6 +83678,975 @@ If your mid-back doesn't move, everything else suffers. Daily thoracic work pays
 
 *Foundational Rehab programs prioritize thoracic mobility for total body function.*
     \`
+  },
+  'hip-impingement-exercises': {
+    title: 'Hip Impingement Exercises: FAI Management and Relief',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is Hip Impingement?
+
+Femoroacetabular impingement (FAI) occurs when abnormal bone shapes cause pinching in the hip joint.
+
+**Types:**
+- **Cam:** Extra bone on femoral head
+- **Pincer:** Extra bone on acetabulum (socket)
+- **Combined:** Both types together
+
+**Symptoms:**
+- Groin pain (especially with hip flexion)
+- Stiffness
+- Pain sitting for long periods
+- Pain with squatting
+- Catching or clicking sensation
+
+## Important: What Exercises Won't Fix
+
+FAI involves bone shape. Exercises can't change bone. But they can:
+- Reduce symptoms
+- Improve function
+- Delay or avoid surgery
+- Manage the condition
+
+**If symptoms are severe or not improving, see an orthopedic specialist.**
+
+## Exercises to Improve FAI Symptoms
+
+### Hip Mobility (Gentle)
+
+**Hip Circles (90/90)**
+- Sit with legs in 90/90 position
+- Circle hips gently
+- Stay within comfortable range
+- 10 circles each direction
+
+**Supine Hip Rotation**
+- Lie on back, knee bent
+- Let knee fall in and out
+- Gentle, controlled
+- 10-15 reps each side
+
+**Prone Hip Internal Rotation**
+- Lie face down, knee bent 90°
+- Let foot fall out (rotates hip in)
+- Hold 20-30 seconds
+- Don't force
+
+### Hip Strengthening
+
+**Clamshells**
+- Side-lying, knees bent
+- Open top knee (feet together)
+- Feel outer hip work
+- 3 x 15 each side
+
+**Side-Lying Hip Abduction**
+- Side-lying, legs straight
+- Lift top leg
+- Keep hips stacked
+- 3 x 15 each side
+
+**Glute Bridges**
+- Focus on glute squeeze, not hip flexion
+- Don't let knees fall inward
+- 3 x 15
+
+**Quadruped Hip Extension**
+- Hands and knees
+- Extend leg straight back
+- Keep hips level
+- 3 x 12 each side
+
+**Single Leg Deadlift**
+- Stand on one leg
+- Hinge at hip
+- Keep back straight
+- 3 x 10 each side
+
+### Core Stability
+
+**Dead Bug**
+- Lie on back
+- Opposite arm/leg extension
+- Keep back flat
+- 10 each side
+
+**Pallof Press**
+- Resist rotation
+- 3 x 10 each side
+
+**Side Plank**
+- Maintain hip alignment
+- 3 x 20-30 seconds each side
+
+## Movements to Modify or Avoid
+
+### High-Risk Movements
+
+**Deep Squats**
+- Limit depth to where no pain
+- Box squats may help
+- Wide stance often better
+
+**Deep Lunges**
+- Don't go too deep
+- Keep torso upright
+
+**Sit-Ups/Crunches**
+- Repeated hip flexion
+- Replace with anti-extension core work
+
+**High Knees**
+- Aggressive hip flexion
+- Modify to lower range
+
+### Position Modifications
+
+**Sitting:**
+- Avoid low seats
+- Use wedge to raise hips
+- Take frequent breaks
+
+**Squatting (if you squat):**
+- Wider stance
+- Toes out
+- Limit depth
+
+**Sleeping:**
+- Pillow between knees
+- Avoid fetal position
+
+## Sample Program
+
+### Daily Routine (15 minutes)
+
+**Mobility:**
+1. Supine hip rotation: 10 each side
+2. 90/90 transitions: 5 each way
+3. Hip circles: 10 each direction
+
+**Strengthening:**
+4. Clamshells: 2 x 15 each
+5. Glute bridges: 2 x 15
+6. Dead bugs: 2 x 10 each
+
+**Core:**
+7. Side plank: 2 x 20 sec each
+
+### Twice Weekly (Add to Above)
+
+1. Single leg deadlift: 3 x 8 each
+2. Side-lying abduction: 3 x 12 each
+3. Pallof press: 3 x 10 each
+
+## What Actually Helps FAI
+
+Research shows:
+- **Hip strengthening** — Most important
+- **Core stability** — Reduces compensation
+- **Movement modification** — Avoid aggravating positions
+- **Education** — Understanding the condition
+
+**What doesn't help:**
+- Aggressive stretching into pain
+- Deep hip flexion exercises
+- Ignoring symptoms
+
+## Working With Your Body
+
+FAI management is about:
+1. **Staying strong** — Muscle supports the joint
+2. **Staying active** — Within limits
+3. **Avoiding provocation** — Not pushing into pain
+4. **Being patient** — This is management, not cure
+
+## When Surgery Is Considered
+
+- Conservative treatment fails after 3-6 months
+- Significant functional limitation
+- Evidence of labral damage
+- Quality of life affected
+
+Many people manage FAI successfully without surgery.
+
+## The Bottom Line
+
+Hip impingement requires:
+- Strengthening (especially glutes)
+- Avoiding aggravating positions
+- Activity modification, not avoidance
+- Patience and consistency
+
+Work with your anatomy, not against it.
+
+---
+
+*Foundational Rehab provides hip impingement management programs.*
+    \`
+  },
+  'si-joint-pain-exercises': {
+    title: 'SI Joint Pain Exercises: Sacroiliac Joint Relief',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is SI Joint Pain?
+
+The sacroiliac (SI) joints connect your spine to your pelvis. SI joint dysfunction causes low back and buttock pain.
+
+**Common symptoms:**
+- Pain in low back, buttock, or hip
+- Pain worse with standing up, climbing stairs, or getting out of car
+- One-sided pain (usually)
+- Pain sitting on hard surfaces
+- May radiate down leg (not below knee usually)
+
+## What Causes SI Joint Problems?
+
+### Too Much Movement (Hypermobility)
+
+- Pregnancy/postpartum
+- Ligament laxity
+- Previous injury
+
+### Too Little Movement (Hypomobility)
+
+- Arthritis
+- Prolonged positioning
+- Muscle imbalances
+
+### Other Factors
+
+- Leg length difference
+- Scoliosis
+- Poor mechanics
+- Direct trauma
+
+## Important: Get Proper Diagnosis
+
+SI joint pain can mimic:
+- Lumbar disc problems
+- Hip issues
+- Piriformis syndrome
+- Referred pain
+
+See a professional for accurate diagnosis before self-treating.
+
+## Exercises for SI Joint Pain
+
+### Muscle Balance Exercises
+
+**Clamshells**
+- Side-lying, knees bent
+- Open knee, keep feet together
+- Feel outer hip work
+- 3 x 15 each side
+
+**Glute Bridges**
+- Lie on back, feet flat
+- Drive through heels
+- Squeeze glutes at top
+- 3 x 15
+
+**Bird Dog**
+- Hands and knees
+- Extend opposite arm/leg
+- Keep spine neutral
+- 10 each side
+
+**Dead Bug**
+- Lie on back
+- Opposite arm/leg extension
+- Keep back flat
+- 10 each side
+
+### Hip and Pelvis Mobility
+
+**Knee-to-Chest (Single)**
+- Lie on back
+- Pull one knee to chest
+- Other leg straight
+- Hold 30 seconds each
+
+**Figure 4 Stretch**
+- Lie on back
+- Ankle over opposite knee
+- Pull toward chest
+- 30 seconds each side
+
+**Hip Flexor Stretch**
+- Half-kneeling
+- Squeeze glute on back leg
+- Gentle forward shift
+- 30 seconds each side
+
+**Pelvic Tilts**
+- Lie on back
+- Flatten and arch low back
+- 15-20 reps
+- Gentle, controlled
+
+### Stability Exercises
+
+**Supine Marching**
+- Lie on back, knees bent
+- Alternate lifting feet slightly
+- Keep pelvis stable
+- 20 reps total
+
+**Isometric Adduction**
+- Ball between knees
+- Squeeze 5 seconds
+- Release
+- 10-15 reps
+
+**Isometric Abduction**
+- Band around knees
+- Press out 5 seconds
+- Release
+- 10-15 reps
+
+**Single Leg Balance**
+- Stand on one leg
+- Keep hips level
+- 30 seconds each
+
+### SI Joint Mobilizations (If Hypomobile)
+
+**Supine Twist**
+- Lie on back
+- Cross one knee over body
+- Keep shoulders down
+- Hold 30 seconds each side
+
+**Thread the Needle Pelvis**
+- Hands and knees
+- Shift weight to one side
+- Feel SI area
+- 10 each direction
+
+**Note:** Skip mobilizations if hypermobile (e.g., postpartum)
+
+## Stability vs Mobility: Which Do You Need?
+
+### Signs You Need STABILITY
+
+- Pregnancy/postpartum
+- Feels "unstable" or "shifts"
+- Hypermobile elsewhere
+- Pain with single-leg activities
+
+**Focus on:** Glute strengthening, core stability, avoid extreme ranges
+
+### Signs You Need MOBILITY
+
+- General stiffness
+- Arthritis
+- Feels "stuck"
+- Better with gentle movement
+
+**Focus on:** Gentle mobilizations, hip stretching, movement variability
+
+## Sample Program
+
+### Daily Routine (10 minutes)
+
+**Stability Focus:**
+1. Pelvic tilts: 15 reps
+2. Dead bugs: 10 each side
+3. Clamshells: 15 each side
+4. Glute bridges: 15 reps
+5. Supine marching: 20 reps
+
+**Mobility Focus:**
+1. Knee-to-chest: 30 sec each
+2. Figure 4: 30 sec each
+3. Supine twist: 30 sec each
+4. Pelvic tilts: 15 reps
+5. Hip flexor stretch: 30 sec each
+
+## Lifestyle Modifications
+
+### Sitting
+
+- Avoid crossing legs
+- Sit on both sit bones evenly
+- Use lumbar support
+- Take breaks
+
+### Standing
+
+- Distribute weight evenly
+- Don't favor one leg
+- Avoid prolonged standing
+
+### Sleeping
+
+- Pillow between knees (side sleeping)
+- Pillow under knees (back sleeping)
+- Supportive mattress
+
+### Movement
+
+- Avoid asymmetric loading
+- Be careful getting in/out of car
+- Modify stairs if needed
+
+## SI Belt
+
+A sacroiliac belt can help by:
+- Providing compression
+- Supporting joint
+- Reducing shear
+
+**Use:** Temporarily during flare-ups, not long-term dependency
+
+## When to Seek Help
+
+- No improvement after 4 weeks
+- Symptoms worsening
+- Radiating symptoms
+- Neurological signs
+- Impact on daily function
+
+## The Bottom Line
+
+SI joint pain responds to:
+1. **Proper diagnosis** — Determine cause
+2. **Right approach** — Stability vs mobility
+3. **Muscle balance** — Strong glutes and core
+4. **Daily consistency** — Regular exercises
+5. **Activity modification** — Avoid aggravators
+
+Most SI joint pain improves with conservative treatment.
+
+---
+
+*Foundational Rehab programs address SI joint dysfunction comprehensively.*
+    \`
+  },
+  'shoulder-impingement-exercises': {
+    title: 'Shoulder Impingement Exercises: Relieve Pain and Restore Function',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '7 min read',
+    content: \`
+## What Is Shoulder Impingement?
+
+Shoulder impingement occurs when rotator cuff tendons get pinched between the arm bone and the roof of the shoulder (acromion).
+
+**Symptoms:**
+- Pain reaching overhead
+- Pain reaching behind back
+- Pain sleeping on affected side
+- Weakness with shoulder movements
+- Arc of pain (painful at mid-range)
+
+**Also called:** Subacromial impingement, rotator cuff tendinopathy, bursitis
+
+## Why It Happens
+
+### The Space Problem
+
+The subacromial space is tight. Several structures pass through:
+- Rotator cuff tendons
+- Bursa (fluid-filled sac)
+- Biceps tendon
+
+When this space narrows or structures swell, pinching occurs.
+
+### Contributing Factors
+
+- Poor posture (rounded shoulders)
+- Weak rotator cuff
+- Weak scapular muscles
+- Overuse
+- Poor movement patterns
+- Tight structures (pec, lat)
+
+## The Solution: Create Space
+
+Two ways to create space:
+1. **Strengthen** muscles that pull shoulder blade back and down
+2. **Improve** mobility of tight structures
+
+## Exercises for Shoulder Impingement
+
+### Phase 1: Pain Reduction (Week 1-2)
+
+**Pendulums**
+- Bend forward, arm hanging
+- Gentle circles and swings
+- Let gravity move the arm
+- 2 minutes, 2-3x daily
+
+**Scapular Squeezes**
+- Squeeze shoulder blades together
+- Hold 5 seconds
+- 15-20 reps
+
+**Isometric External Rotation**
+- Elbow at side, 90° bend
+- Push into wall (rotate out)
+- No movement, just tension
+- Hold 10 seconds, 10 reps
+
+**Sidelying External Rotation (Light)**
+- Lie on non-painful side
+- Very light weight or none
+- Rotate arm up, elbow at side
+- 2 x 15
+
+### Phase 2: Restore Movement (Week 2-4)
+
+**Wall Slides**
+- Back against wall
+- Arms in goalpost position
+- Slide arms up and down
+- Keep back of hands on wall
+- 2 x 15
+
+**Doorway Pec Stretch**
+- Arm at 90° against doorframe
+- Step through gently
+- 30 seconds each position (low, mid, high)
+
+**Lat Stretch**
+- Hold doorframe or bar overhead
+- Sink down, feel stretch in lat
+- 30 seconds
+
+**Prone Y Raises**
+- Lie face down
+- Arms in Y position, thumbs up
+- Lift arms off floor
+- 2 x 15
+
+### Phase 3: Strengthening (Week 4+)
+
+**External Rotation (Standing)**
+- Band or cable at elbow height
+- Elbow at side
+- Rotate out against resistance
+- 3 x 15
+
+**Internal Rotation**
+- Same setup, rotate in
+- 3 x 15
+
+**Rows**
+- Band, cable, or dumbbells
+- Squeeze shoulder blades
+- 3 x 12-15
+
+**Face Pulls**
+- High cable or band
+- Pull toward face, externally rotate
+- Squeeze shoulder blades
+- 3 x 15
+
+**Prone T Raises**
+- Lie face down
+- Arms out to sides (T position)
+- Thumbs up, lift arms
+- 3 x 12
+
+**Serratus Punches**
+- Push-up position or standing at wall
+- Push shoulder blades apart
+- 3 x 15
+
+### Phase 4: Return to Function (Week 8+)
+
+**Wall Push-Ups → Regular Push-Ups**
+- Progress gradually
+- No pain
+
+**Overhead Press (If Cleared)**
+- Start light
+- Full range if pain-free
+- Progress slowly
+
+**Pulling Exercises**
+- Pull-ups, rows, face pulls
+- Build strength
+
+## Movements to Modify or Avoid Initially
+
+### High-Risk Movements
+
+**Upright Rows**
+- Internally rotated + elevated = impingement
+- Avoid or modify
+
+**Behind-Neck Press/Pull**
+- Extreme position
+- Avoid
+
+**Dips**
+- Shoulder extension under load
+- Modify or avoid if painful
+
+**Overhead Work**
+- Reduce volume initially
+- Return gradually
+
+### Safe Modifications
+
+**Pressing:**
+- Incline instead of flat
+- Neutral grip
+- Reduced range if needed
+
+**Pulling:**
+- Rows are usually fine
+- Face pulls encouraged
+- Lat pulldowns to front
+
+## Sample Program
+
+### Daily (10 minutes)
+
+1. Pendulums: 2 minutes
+2. Pec stretch: 30 sec x 3 positions
+3. Wall slides: 15 reps
+4. Scapular squeezes: 15 reps
+
+### 3x Weekly Strengthening
+
+1. External rotation: 3 x 15
+2. Internal rotation: 3 x 15
+3. Rows: 3 x 12
+4. Face pulls: 3 x 15
+5. Prone Y: 2 x 15
+6. Prone T: 2 x 15
+7. Serratus punches: 2 x 15
+
+## Posture Matters
+
+Much shoulder impingement relates to posture:
+
+**The Problem:**
+- Rounded shoulders
+- Forward head
+- Tight pecs/lats
+- Weak mid-back
+
+**The Fix:**
+- Address thoracic extension
+- Strengthen posterior chain
+- Stretch anterior structures
+- Workstation ergonomics
+
+## Common Mistakes
+
+### 1. Resting Completely
+
+**Problem:** Muscles weaken
+**Fix:** Active recovery, not complete rest
+
+### 2. Pushing Through Pain
+
+**Problem:** Worsens inflammation
+**Fix:** Work around pain, not through it
+
+### 3. Ignoring Scapula
+
+**Problem:** Root cause unaddressed
+**Fix:** Scapular strengthening is essential
+
+### 4. Returning Too Fast
+
+**Problem:** Reinjury
+**Fix:** Full rehab before full activity
+
+## Recovery Timeline
+
+**Acute phase:** 1-2 weeks (pain reduction)
+**Subacute:** 2-6 weeks (restore function)
+**Strengthening:** 6-12 weeks (build resilience)
+**Return to activity:** 3-6 months (full function)
+
+## When to See a Professional
+
+- No improvement after 4 weeks
+- Significant weakness
+- Night pain that doesn't improve
+- Unable to lift arm
+- History of instability
+
+## The Bottom Line
+
+Shoulder impingement requires:
+1. **Pain reduction** initially
+2. **Mobility** for tight structures
+3. **Strengthening** rotator cuff and scapular muscles
+4. **Posture correction** for long-term success
+5. **Patience** for full recovery
+
+Most cases resolve with conservative treatment.
+
+---
+
+*Foundational Rehab provides comprehensive shoulder impingement programs.*
+    \`
+  },
+  'frozen-shoulder-exercises': {
+    title: 'Frozen Shoulder Exercises: Adhesive Capsulitis Treatment',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is Frozen Shoulder?
+
+Frozen shoulder (adhesive capsulitis) is a condition where the shoulder capsule thickens and tightens, severely limiting movement.
+
+**Characteristics:**
+- Gradual onset of pain
+- Progressive stiffness
+- Loss of range in all directions
+- Eventually resolves (but takes 1-3 years naturally)
+
+## The Three Stages
+
+### Stage 1: Freezing (2-9 months)
+
+- Pain is the main symptom
+- Stiffness begins
+- Sleep disruption
+- Pain worse than stiffness
+
+### Stage 2: Frozen (4-12 months)
+
+- Pain may decrease
+- Stiffness is severe
+- Range of motion very limited
+- Function significantly impaired
+
+### Stage 3: Thawing (5-24 months)
+
+- Gradual improvement
+- Range returns slowly
+- Pain minimal
+- Function improves
+
+## Who Gets Frozen Shoulder?
+
+**Risk factors:**
+- Age 40-60
+- Women more than men
+- Diabetes
+- Thyroid disorders
+- After injury or surgery
+- After immobilization
+
+## Exercises by Stage
+
+### Freezing Stage Exercises
+
+**Goal:** Pain management, gentle movement
+
+**Pendulums**
+- Bend forward, arm hanging loose
+- Small gentle circles
+- Let gravity move the arm
+- 3-5 minutes, 2-3x daily
+
+**Passive Stretching (Gentle)**
+- Use other arm to assist
+- No aggressive pushing
+- Stay below pain threshold
+- Hold positions 30-60 seconds
+
+**Heat Before, Ice After**
+- Warm shower or heating pad before exercise
+- Ice after if needed for pain
+
+### Frozen Stage Exercises
+
+**Goal:** Maintain and gradually increase range
+
+**Table Slides**
+- Arm on table
+- Slide forward, side to side
+- Use other hand to assist
+- 2-3 minutes
+
+**Wall Walks (Flexion)**
+- Face wall
+- Walk fingers up
+- Track progress with tape
+- 10 reps
+
+**Wall Walks (Abduction)**
+- Stand sideways to wall
+- Walk fingers up
+- 10 reps
+
+**Cross-Body Stretch**
+- Pull arm across body
+- Use other hand
+- Hold 30 seconds
+
+**Towel Stretch (Behind Back)**
+- Towel behind back
+- Good hand pulls up gently
+- Hold 30 seconds
+
+**External Rotation (Stick)**
+- Hold stick in both hands
+- Push affected arm outward
+- Hold 30 seconds
+
+### Thawing Stage Exercises
+
+**Goal:** Restore full range and strength
+
+**Active Stretching**
+- All previous stretches
+- Can push further
+- End-range holds
+
+**Strengthening Begins**
+- External rotation with band
+- Internal rotation with band
+- Rows
+- Light overhead work
+
+**Pulley Stretches**
+- Overhead pulley system
+- Use good arm to assist
+- Full range work
+
+## Sample Daily Program
+
+### Freezing Stage (15-20 min)
+
+**Morning:**
+1. Heat: 10 minutes
+2. Pendulums: 3-5 minutes
+3. Gentle stretches: 5 minutes
+
+**Evening:**
+4. Repeat morning routine
+5. Ice if painful
+
+### Frozen Stage (20-30 min)
+
+**2-3x Daily:**
+1. Heat: 5 minutes
+2. Pendulums: 3 minutes
+3. Wall walks (both directions): 10 each
+4. Table slides: 2 minutes
+5. Cross-body stretch: 30 sec x 3
+6. External rotation stretch: 30 sec x 3
+7. Towel stretch: 30 sec x 3
+
+### Thawing Stage
+
+**Daily:**
+- All stretches from frozen stage
+- Hold longer, push further
+
+**3x Weekly:**
+- Strengthening exercises
+- Progressive loading
+
+## Important Principles
+
+### 1. Consistency Over Intensity
+
+Multiple short sessions > one long session
+Frequency matters more than duration
+
+### 2. Pain Guide
+
+Stretching should be uncomfortable, not agonizing
+"Good" discomfort vs "bad" pain
+Back off if pain significantly worse after
+
+### 3. Heat Is Your Friend
+
+Before exercise always
+Opens up the tissue
+Makes stretching more effective
+
+### 4. Track Progress
+
+Mark wall walk heights
+Note ranges of motion
+Progress is slow but real
+
+## What Helps (Evidence-Based)
+
+**Proven helpful:**
+- Physical therapy
+- Stretching exercises
+- Corticosteroid injections (early stage)
+- Hydrodilatation (injection to expand capsule)
+
+**May help:**
+- Manipulation under anesthesia
+- Surgical capsular release (severe cases)
+
+**Limited evidence:**
+- Ultrasound
+- TENS
+- Supplements
+
+## What NOT to Do
+
+### Don't Force It
+
+- Aggressive stretching can worsen inflammation
+- Progress gradually
+
+### Don't Immobilize
+
+- Keep moving within tolerance
+- Immobilization makes it worse
+
+### Don't Ignore Diabetes
+
+- Control blood sugar
+- Diabetes prolongs recovery
+
+## Recovery Timeline
+
+**With treatment:** 6-12 months
+**Without treatment:** 1-3 years
+
+Treatment accelerates recovery and improves outcomes.
+
+## When to See a Doctor
+
+- Diagnosis uncertain
+- No improvement despite exercises
+- Significant pain affecting sleep/function
+- Need for injection or other intervention
+- Diabetes or other risk factors
+
+## The Bottom Line
+
+Frozen shoulder is frustrating but treatable:
+
+1. **Be patient** — It takes time
+2. **Stay consistent** — Multiple daily sessions
+3. **Respect pain** — Push gently, not aggressively
+4. **Use heat** — Before every session
+5. **Track progress** — Celebrate small wins
+
+It does get better. Every case eventually thaws.
+
+---
+
+*Foundational Rehab provides stage-specific frozen shoulder programs.*
+    \`
   }
 };
 
