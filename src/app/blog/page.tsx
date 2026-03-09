@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'upper-body-stretches',
+    title: 'Upper Body Stretches: Relieve Tension from Neck to Fingers',
+    excerpt: 'Complete stretching routine for shoulders, chest, arms, and neck.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'dumbbell-back-workout',
+    title: 'Dumbbell Back Workout: Build a Strong, Defined Back',
+    excerpt: 'Complete back workout with just dumbbells. Lats, rhomboids, traps, and more.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercises-for-plantar-fasciitis',
+    title: 'Exercises for Plantar Fasciitis: Heal Your Heel Pain',
+    excerpt: 'Stretches and strengthening exercises that actually help plantar fasciitis.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'how-to-plank-correctly',
+    title: 'How to Plank Correctly: Form Guide and Progressions',
+    excerpt: 'Master the plank—the foundation of core training.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'stretches-for-tight-hips',
     title: 'Stretches for Tight Hips: Open Up and Move Better',
     excerpt: 'Sitting all day destroys hip mobility. These stretches fight back.',
