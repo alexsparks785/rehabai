@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'running-form-guide',
+    title: 'Running Form Guide: How to Run More Efficiently and Prevent Injuries',
+    excerpt: 'Improve your running efficiency with proper posture, cadence, and foot strike.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-multiple-sclerosis',
+    title: 'Exercises for Multiple Sclerosis: Stay Active and Manage Symptoms',
+    excerpt: 'Exercise is safe and beneficial for MS—here\'s how to do it right.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'yoga-for-beginners-guide',
+    title: 'Yoga for Beginners: How to Start Your Practice Safely',
+    excerpt: 'Essential poses, common mistakes, and how to begin your yoga journey.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'bench-press-form-guide',
+    title: 'Bench Press Form Guide: How to Press Safely and Effectively',
+    excerpt: 'Master the bench press with proper setup, technique, and safety.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read'
+  },
+  {
     slug: 'swimming-injury-prevention',
     title: 'Swimming Injury Prevention: Protect Your Shoulders and Stay in the Pool',
     excerpt: 'Prevent swimmer\'s shoulder and stay healthy with these exercises.',

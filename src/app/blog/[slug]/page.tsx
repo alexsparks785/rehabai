@@ -97608,6 +97608,866 @@ CrossFit injury prevention:
 
 *Foundational Rehab helps CrossFit athletes train smarter and stay healthy.*
     `
+  },
+  'running-form-guide': {
+    title: 'Running Form Guide: How to Run More Efficiently and Prevent Injuries',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Why Running Form Matters
+
+Good form means:
+- **Less injury risk** — Reduces stress on joints
+- **Better efficiency** — Less energy wasted
+- **Faster times** — More power to the ground
+- **Longer running career** — Sustainable movement
+
+Most recreational runners have never been taught to run. Small changes can make a big difference.
+
+## Key Elements of Good Form
+
+### Posture
+
+**Head Position**
+- Eyes forward, not down
+- Chin slightly tucked
+- Imagine a string pulling you up from the crown
+
+**Torso**
+- Tall, slight forward lean from ankles (not waist)
+- Core engaged but not rigid
+- Avoid hunching or leaning back
+
+**Shoulders**
+- Relaxed, not up by ears
+- Slight backward squeeze (opens chest)
+- Check periodically—tension creeps in
+
+### Foot Strike and Cadence
+
+**Foot Strike**
+- Land under your center of mass, not in front
+- Midfoot or forefoot strike generally preferred
+- Heel striking far ahead = braking force
+
+**Cadence**
+- Steps per minute (count one foot for 30 sec, multiply by 4)
+- 170-180 spm is often ideal
+- Higher cadence = shorter strides = less overstriding
+- Use a metronome app to practice
+
+### Arm Swing
+
+**Hands**
+- Relaxed, loose fist (imagine holding potato chips)
+- No tension in fingers or wrists
+
+**Elbows**
+- Bent around 90 degrees
+- Drive back, not across body
+- Arms swing forward/back, not side to side
+
+**Shoulders**
+- Stay level, don't rock side to side
+- Relaxed, not hunched
+
+### Hip and Leg Mechanics
+
+**Hip Extension**
+- Push off behind you
+- Fully extend hip before leg swings forward
+- Glutes should fire with each stride
+
+**Knee Drive**
+- Knee comes forward, not up
+- Don't overstride reaching out front
+- Quick ground contact
+
+## Common Form Mistakes
+
+### Overstriding
+- Landing with foot far in front
+- Creates braking force
+- Increases impact stress
+- Fix: Increase cadence, land under hips
+
+### Bouncing
+- Too much vertical movement
+- Wastes energy
+- Fix: Think "glide," not "bounce"
+
+### Arm Cross-Over
+- Arms swinging across body
+- Causes rotation and wasted energy
+- Fix: Drive elbows straight back
+
+### Heel Striking (With Overstride)
+- Landing on heel with leg extended
+- High impact forces
+- Fix: Shorten stride, increase cadence
+
+### Tension
+- Clenched fists, raised shoulders
+- Wastes energy, causes fatigue
+- Fix: Periodic body scans, shake out hands
+
+## Drills to Improve Form
+
+### High Knees
+- Exaggerate knee drive
+- Quick foot turnover
+- Stay tall
+- 20-30 meters, 3-4 reps
+
+### Butt Kicks
+- Heel to glute quickly
+- Stay tall
+- Quick ground contact
+- 20-30 meters, 3-4 reps
+
+### A-Skips
+- Skip with high knee drive
+- Emphasize hip extension
+- Arm coordination
+- 20-30 meters, 3-4 reps
+
+### Strides
+- Short accelerations (80-100m)
+- Focus on form at faster pace
+- Not all-out sprinting
+- 4-6 after easy runs
+
+### Cadence Work
+- Use metronome at 170-180 bpm
+- Match steps to beats
+- Start with short intervals
+
+## Strength for Better Form
+
+Weak muscles lead to form breakdown. Key areas:
+
+### Glutes
+- Single-leg deadlifts
+- Hip thrusts
+- Clamshells
+- Lateral band walks
+
+### Core
+- Planks (front and side)
+- Dead bugs
+- Bird dogs
+- Anti-rotation work
+
+### Hip Flexors
+- Marching drills
+- Psoas holds
+- Leg raises
+
+### Calves
+- Calf raises (straight and bent knee)
+- Single-leg variations
+- Eccentric lowering
+
+## Making Changes Safely
+
+### Don't Change Everything at Once
+- Pick one element to focus on
+- Practice during easy runs
+- Let it become automatic before adding more
+
+### Gradual Transition
+- Especially if changing foot strike
+- Muscles and tendons need time to adapt
+- Reduce mileage initially if making big changes
+
+### Use Cues
+- "Quick feet"
+- "Tall and relaxed"
+- "Drive elbows back"
+- "Land soft"
+
+## When to Get Help
+
+Consider gait analysis if:
+- Persistent injury despite rest
+- Pain that changes with speed
+- Visible asymmetry
+- Significant weakness on one side
+
+Video yourself running (treadmill or have someone film). Compare to efficient runners.
+
+## The Bottom Line
+
+Running form essentials:
+1. **Posture** — Tall, slight forward lean
+2. **Cadence** — 170-180 steps per minute
+3. **Foot strike** — Under your body, not in front
+4. **Arms** — Relaxed, drive back
+5. **Patience** — Changes take time
+
+---
+
+*Foundational Rehab offers running gait analysis and form correction.*
+    `
+  },
+  'exercises-for-multiple-sclerosis': {
+    title: 'Exercises for Multiple Sclerosis: Stay Active and Manage Symptoms',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Exercise and Multiple Sclerosis
+
+For decades, people with MS were told to avoid exercise. We now know the opposite is true:
+
+**Exercise benefits for MS:**
+- Improves strength and endurance
+- Enhances balance and walking ability
+- Reduces fatigue (paradoxically)
+- Improves mood and cognitive function
+- May slow disease progression
+- Maintains independence longer
+
+Exercise is safe and beneficial for most people with MS.
+
+## Understanding MS and Exercise
+
+### The Challenge
+MS causes:
+- Fatigue (often the most limiting symptom)
+- Heat sensitivity (symptoms worsen when hot)
+- Weakness and spasticity
+- Balance problems
+- Variable symptoms day-to-day
+
+### The Solution
+- Exercise timing and intensity management
+- Cooling strategies
+- Individualized programming
+- Flexibility in approach
+
+## Types of Beneficial Exercise
+
+### Aerobic Exercise
+
+**Benefits:**
+- Improves cardiovascular fitness
+- Reduces fatigue over time
+- Enhances mood and cognition
+
+**Good Options:**
+- Walking (with or without assistive device)
+- Stationary cycling (recumbent if balance is concern)
+- Swimming or water exercise (cool water preferred)
+- Arm ergometer (if legs are more affected)
+
+**Guidelines:**
+- Start with 10-15 minutes
+- Build to 30 minutes, 3-5x per week
+- Moderate intensity (can talk but not sing)
+- Cool environment or cooling strategies
+
+### Strength Training
+
+**Benefits:**
+- Maintains muscle mass
+- Improves functional ability
+- Helps with walking and transfers
+
+**Key Exercises:**
+
+**Seated Leg Press (or Sit-to-Stand)**
+- Functional leg strength
+- Use support as needed
+- 2-3 x 8-12 reps
+
+**Seated Row or Resistance Band Rows**
+- Upper back strength
+- Important for posture
+- 2-3 x 10-12 reps
+
+**Wall Push-Ups**
+- Upper body strength
+- Adjust angle for difficulty
+- 2-3 x 8-12 reps
+
+**Hip Abduction**
+- Side-lying or standing with support
+- Important for walking stability
+- 2-3 x 10-12 each side
+
+### Balance Training
+
+Critical for fall prevention in MS.
+
+**Exercises:**
+
+**Standing Weight Shifts**
+- Hold support
+- Shift weight side to side, forward/back
+- Progress to less support
+
+**Single-Leg Stance**
+- Hold support initially
+- Goal: 30 seconds each leg
+- Progress to no support, then eyes closed
+
+**Tandem Stance**
+- Heel to toe
+- Hold 30 seconds
+- Progress to tandem walking
+
+**Sit-to-Stand Practice**
+- Use support as needed
+- Focus on control
+- Build to no hands
+
+### Flexibility and Stretching
+
+Helps manage spasticity and maintain range of motion.
+
+**Focus Areas:**
+- Hip flexors (often tight from sitting)
+- Hamstrings
+- Calves (especially if spasticity present)
+- Chest and shoulders
+
+**Guidelines:**
+- Hold stretches 30-60 seconds
+- Gentle, no bouncing
+- Breathe and relax into stretch
+- Daily if spasticity is significant
+
+## Managing Heat Sensitivity
+
+About 60-80% of people with MS have heat sensitivity. Strategies:
+
+**Cooling:**
+- Exercise in air conditioning
+- Use cooling vests
+- Cool water swimming
+- Cool towels on neck/wrists
+- Pre-cooling before exercise
+
+**Timing:**
+- Exercise in morning (cooler)
+- Avoid hottest parts of day
+- Stop if symptoms worsen
+
+**Environment:**
+- Fan or AC
+- Cool room temperature
+- Avoid hot showers immediately after
+
+## Managing Fatigue
+
+MS fatigue is different from normal tiredness. Strategies:
+
+**Energy Conservation:**
+- Exercise when energy is best (often morning)
+- Rest before you're exhausted
+- Break exercise into shorter sessions
+
+**Pacing:**
+- Don't push to exhaustion
+- Moderate intensity
+- Allow recovery between sessions
+
+**Paradox:**
+- Regular exercise actually reduces overall fatigue
+- Short-term tiredness leads to long-term energy
+
+## Sample Weekly Program
+
+### Beginner (Just Starting)
+
+**Week Structure:**
+- 3 days exercise, 4 days rest/light activity
+
+**Each Session (20-30 min):**
+- Warm-up: 5 min easy movement
+- Aerobic: 10-15 min walking or cycling
+- Strength: 2-3 exercises, 1-2 sets
+- Balance: 5 min
+- Stretching: 5 min
+
+### Intermediate (Building Fitness)
+
+**Week Structure:**
+- 4-5 days exercise
+
+**Sample Week:**
+- Mon: Aerobic 20-30 min + stretching
+- Tue: Strength training 20-30 min
+- Wed: Rest or gentle stretching
+- Thu: Aerobic 20-30 min + balance
+- Fri: Strength training 20-30 min
+- Sat: Light activity (walking, swimming)
+- Sun: Rest
+
+## Exercise Modifications
+
+### If Balance Is Limited
+- Use seated exercises
+- Hold support during standing
+- Consider recumbent bike vs. upright
+- Water exercise (buoyancy helps)
+
+### If Fatigue Is Severe
+- Shorter sessions (10-15 min)
+- Multiple sessions per day
+- Lower intensity
+- Rest when needed
+
+### If Spasticity Is Present
+- Gentle stretching before and after
+- Avoid positions that trigger spasms
+- Aquatic exercise often helpful
+- Stretching throughout day
+
+## When to Stop or Modify
+
+**Stop exercise if:**
+- Significant symptom worsening
+- Unusual weakness
+- Dizziness or confusion
+- Chest pain or shortness of breath
+
+**Modify program if:**
+- Relapse (reduce or pause)
+- Hot weather (cool strategies or skip)
+- Increased fatigue over days (reduce)
+
+## The Bottom Line
+
+Exercise for MS:
+1. **Essential** — Benefits outweigh risks
+2. **Start slow** — Build gradually
+3. **Manage heat** — Cooling strategies
+4. **Expect fatigue** — But it improves over time
+5. **Be flexible** — Adapt to daily symptoms
+
+---
+
+*Foundational Rehab offers MS-specific exercise programming and guidance.*
+    `
+  },
+  'yoga-for-beginners-guide': {
+    title: 'Yoga for Beginners: How to Start Your Practice Safely',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Yoga?
+
+Yoga offers unique benefits:
+- **Flexibility** — Gradually increases range of motion
+- **Strength** — Bodyweight holds build muscle
+- **Balance** — Standing poses challenge stability
+- **Stress relief** — Breath focus calms nervous system
+- **Body awareness** — Learn to feel and respond to your body
+
+You don't need to be flexible to start yoga. Yoga helps you become flexible.
+
+## Types of Yoga for Beginners
+
+### Hatha Yoga
+- Slower pace
+- Holds poses longer
+- Great for learning basics
+- Most beginner-friendly
+
+### Vinyasa Yoga
+- Flows between poses
+- More dynamic
+- Can be challenging for true beginners
+- Look for "beginner vinyasa"
+
+### Yin Yoga
+- Very slow, passive stretching
+- Holds for 3-5 minutes
+- Great for flexibility
+- Meditative quality
+
+### Restorative Yoga
+- Uses props for support
+- Very gentle
+- Good for recovery and relaxation
+- Minimal physical challenge
+
+**For true beginners:** Start with Hatha or beginner-specific classes.
+
+## Essential Poses for Beginners
+
+### Mountain Pose (Tadasana)
+- Stand with feet together or hip-width
+- Weight even through feet
+- Shoulders back and down
+- Crown of head reaching up
+- Foundation for all standing poses
+
+### Downward Facing Dog (Adho Mukha Svanasana)
+- Hands shoulder-width, feet hip-width
+- Hips high, forming inverted V
+- Bend knees if hamstrings tight
+- Press hands firmly into floor
+- Hold 5-10 breaths
+
+### Child's Pose (Balasana)
+- Knees wide, big toes together
+- Sit back on heels
+- Reach arms forward or by sides
+- Rest forehead on floor
+- Your rest position
+
+### Cat-Cow (Marjaryasana-Bitilasana)
+- Hands under shoulders, knees under hips
+- Inhale: Arch back, look up (cow)
+- Exhale: Round spine, tuck chin (cat)
+- Flow with breath
+- 5-10 rounds
+
+### Warrior I (Virabhadrasana I)
+- Front knee bent over ankle
+- Back leg straight, foot angled
+- Hips face forward
+- Arms overhead
+- Hold 5 breaths each side
+
+### Warrior II (Virabhadrasana II)
+- Front knee bent over ankle
+- Back leg straight, foot parallel to back edge
+- Hips and chest open to side
+- Arms extend over legs
+- Hold 5 breaths each side
+
+### Triangle (Trikonasana)
+- Front leg straight
+- Reach forward, then down to shin
+- Top arm reaches up
+- Open chest to sky
+- Hold 5 breaths each side
+
+### Tree Pose (Vrksasana)
+- Stand on one leg
+- Other foot on calf or inner thigh (not knee)
+- Hands at heart or overhead
+- Focus on fixed point
+- Hold 5-10 breaths each side
+
+### Seated Forward Fold (Paschimottanasana)
+- Sit with legs extended
+- Hinge at hips, reach for feet
+- Bend knees if needed
+- Hold 5-10 breaths
+
+### Corpse Pose (Savasana)
+- Lie flat on back
+- Arms by sides, palms up
+- Legs relaxed, feet falling open
+- Final relaxation pose
+- 5-10 minutes
+
+## Common Beginner Mistakes
+
+### Pushing Too Hard
+- Yoga isn't about forcing
+- Work to your edge, not past it
+- Pain is not the goal
+- Modification is always okay
+
+### Comparing to Others
+- Everyone's body is different
+- Focus on your own practice
+- Flexibility varies widely
+- Progress takes time
+
+### Forgetting to Breathe
+- Breath is fundamental to yoga
+- Never hold your breath
+- Inhale during expansions
+- Exhale during contractions
+
+### Skipping Foundation
+- Learn basic poses well
+- Don't rush to advanced poses
+- Build strength and flexibility gradually
+- Foundations prevent injury
+
+## Modifications and Props
+
+### Props to Use
+- **Blocks:** Bring the floor closer
+- **Straps:** Extend your reach
+- **Blankets:** Cushion knees, support seated poses
+- **Bolster:** Support in restorative poses
+
+### When to Modify
+- Can't reach the floor → Use a block
+- Hamstrings tight → Bend knees
+- Shoulders tight → Modify arm position
+- Knee discomfort → Use padding or adjust
+
+**There's no shame in modifying.** Experienced yogis use props too.
+
+## Starting Your Practice
+
+### At Home
+- Find a quiet space
+- Use a yoga mat (or carpet)
+- Follow online classes for beginners
+- Start with 15-20 minutes
+
+### In a Studio
+- Choose beginner or Level 1 classes
+- Arrive early to introduce yourself
+- Tell the teacher you're new
+- Position yourself where you can see the teacher
+
+### How Often
+- 2-3 times per week is great to start
+- Even once a week helps
+- Consistency matters more than duration
+- Short daily practice beats long occasional practice
+
+## Sample Beginner Sequence (15 min)
+
+1. **Child's Pose:** 1 minute (centering)
+2. **Cat-Cow:** 10 rounds (warm-up)
+3. **Downward Dog:** 5 breaths
+4. **Forward Fold:** 5 breaths
+5. **Mountain Pose:** 5 breaths
+6. **Warrior I:** 5 breaths each side
+7. **Warrior II:** 5 breaths each side
+8. **Triangle:** 5 breaths each side
+9. **Tree Pose:** 5 breaths each side
+10. **Seated Forward Fold:** 10 breaths
+11. **Savasana:** 3-5 minutes
+
+## The Bottom Line
+
+Yoga for beginners:
+1. **Start slow** — Beginner classes, gentle styles
+2. **Use props** — They're tools, not crutches
+3. **Don't force** — Work to your edge
+4. **Breathe** — It's the foundation
+5. **Be patient** — Progress takes months, not days
+
+---
+
+*Foundational Rehab incorporates yoga principles into mobility and recovery programs.*
+    `
+  },
+  'bench-press-form-guide': {
+    title: 'Bench Press Form Guide: How to Press Safely and Effectively',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## The Bench Press
+
+The bench press is a fundamental upper body exercise that builds:
+- Chest (pectoralis major)
+- Shoulders (anterior deltoid)
+- Triceps
+
+It's also one of the most commonly butchered exercises. Poor form leads to shoulder injuries, missed gains, and frustration.
+
+## Setup (Most Important Part)
+
+### Foot Position
+- Feet flat on floor (or on bench if short)
+- Drive through heels
+- Creates stable base
+
+### Back Position
+- Natural arch in lower back (not excessive)
+- Upper back tight against bench
+- Shoulder blades squeezed together and DOWN
+- Think "put shoulder blades in back pockets"
+
+### Grip
+- Hands slightly wider than shoulder width
+- Pinky on the ring marks (varies by build)
+- Wrists straight, not bent back
+- Grip the bar tightly
+
+### Bar Position
+- Unrack with arms straight
+- Bar over shoulders at start
+- Don't unrack into a press
+
+## The Movement
+
+### Lowering (Eccentric)
+- Control the bar down (2-3 seconds)
+- Tuck elbows ~45-75° (not flared at 90°)
+- Bar path: slight diagonal, not straight down
+- Touch below nipple line (varies by build)
+- Touch chest—don't bounce
+
+### Pressing (Concentric)
+- Drive through feet
+- Press up AND slightly back
+- Bar path is a slight arc
+- Lock out at top
+- Bar over shoulders at finish
+
+### Breathing
+- Inhale and brace before lowering
+- Hold through the sticking point
+- Exhale at top
+- Reset breath each rep
+
+## Common Mistakes
+
+### Flared Elbows
+- Elbows at 90° = shoulder impingement risk
+- Tuck elbows to 45-75°
+- Think "bend the bar" to engage lats
+
+### Bouncing Off Chest
+- Loses tension
+- Risk of sternum injury
+- Touch and press, don't bounce
+
+### Flat Back / No Arch
+- Some arch is natural and safe
+- Helps protect shoulders
+- Creates stable pressing surface
+- Don't confuse with extreme powerlifting arch
+
+### Feet Dancing
+- Moving feet = energy leak
+- Plant feet and drive through heels
+- Create stable base
+
+### Wrist Bend
+- Bent wrists = weak position + wrist pain
+- Bar sits on heel of palm
+- Wrists stacked over forearms
+
+### Lifting Hips
+- Butt leaves bench = lift doesn't count (in competition)
+- Also reduces stability
+- Keep hips down, arch through upper back
+
+## Shoulder-Friendly Modifications
+
+If you have shoulder issues:
+
+### Narrow Grip
+- Closer grip reduces shoulder stress
+- More tricep emphasis
+- Start with hands shoulder-width
+
+### Floor Press
+- Limits range of motion
+- Reduces shoulder stretch at bottom
+- Good for those with shoulder pain
+
+### Dumbbell Bench Press
+- More natural arm path
+- Each arm works independently
+- Often better tolerated
+
+### Reduce Range
+- Stop an inch above chest
+- Use boards or pins
+- For those with AC joint issues
+
+## Accessory Exercises
+
+Build a bigger bench with these:
+
+### For Chest
+- Dumbbell press
+- Incline press
+- Dips
+- Cable flyes
+
+### For Triceps
+- Close grip bench press
+- Tricep pushdowns
+- Skull crushers
+- Dips
+
+### For Shoulders
+- Overhead press
+- Lateral raises
+- Face pulls (for rear delts)
+
+### For Upper Back
+- Rows
+- Pull-ups/pulldowns
+- Face pulls
+- Band pull-aparts
+
+## Programming Basics
+
+### For Strength
+- 3-5 sets of 3-5 reps
+- Heavy weight (80-90% max)
+- Long rest (3-5 minutes)
+
+### For Muscle Growth
+- 3-4 sets of 8-12 reps
+- Moderate weight (65-80% max)
+- Moderate rest (60-90 seconds)
+
+### For Beginners
+- 3 sets of 8-10 reps
+- Focus on form
+- Increase weight when all reps are clean
+
+## Warm-Up Routine
+
+Never bench cold. Sample warm-up:
+
+1. **Arm circles:** 10 each direction
+2. **Band pull-aparts:** 15 reps
+3. **Push-ups:** 10 reps
+4. **Empty bar:** 15 reps
+5. **50% max:** 10 reps
+6. **70% max:** 5 reps
+7. **80% max:** 3 reps
+8. **Working sets**
+
+## Safety
+
+### Always Use a Spotter
+- For any set you might fail
+- Spotter hands under bar (not on)
+- Agree on signals beforehand
+
+### Use Safety Pins/Arms
+- Set below chest level
+- Allows bail if you fail
+- Essential for solo training
+
+### Know When to Rack
+- If rep is grinding, rack it
+- Better to cut set short than get pinned
+- Ego injuries are real
+
+## The Bottom Line
+
+Bench press essentials:
+1. **Setup matters most** — Tight upper back, proper arch
+2. **Tuck elbows** — 45-75°, not flared
+3. **Control the bar** — Down slow, up with power
+4. **Bar path** — Slight arc, not straight line
+5. **Be safe** — Spotter or safety pins
+
+---
+
+*Foundational Rehab offers lifting form coaching and injury prevention guidance.*
+    `
   }
 };
 
