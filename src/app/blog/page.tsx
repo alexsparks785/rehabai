@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'exercise-for-high-blood-pressure',
+    title: 'Exercise for High Blood Pressure: Lower BP Naturally',
+    excerpt: 'The right exercise can lower blood pressure as effectively as medication.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'postpartum-exercise',
+    title: 'Postpartum Exercise: Safe Return to Fitness After Baby',
+    excerpt: 'When and how to start exercising after giving birth, plus what to watch for.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-for-back-pain',
+    title: 'Exercise for Back Pain: What Works and What to Avoid',
+    excerpt: 'Movement is medicine for most back pain. Here\'s how to do it right.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'park-bench-workout',
+    title: 'Park Bench Workout: Full Body Fitness Outdoors',
+    excerpt: 'A park bench is all you need for a complete strength workout outside.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
     slug: 'exercise-for-diabetes',
     title: 'Exercise for Diabetes: Blood Sugar Control Through Movement',
     excerpt: 'How exercise helps manage Type 2 diabetes and what types work best.',
