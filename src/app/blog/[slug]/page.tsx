@@ -81333,6 +81333,944 @@ Start now. Maintain forever.
 
 *Foundational Rehab programs support lifelong fitness and functional independence.*
     \`
+  },
+  'grip-strength-training': {
+    title: 'Grip Strength Training: Why It Matters and How to Build It',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## Why Grip Strength Matters More Than You Think
+
+Grip strength isn't just for opening jars. It's a powerful predictor of overall health:
+
+**Research findings:**
+- Predicts all-cause mortality better than blood pressure
+- Correlates with cognitive function
+- Reflects overall muscle strength
+- Declines significantly with age
+
+A strong grip indicates a strong body.
+
+## Types of Grip Strength
+
+### 1. Crushing Grip
+
+Closing your hand around something (like a handshake or squeezing a tennis ball).
+
+**Used for:** Holding tools, carrying bags, deadlifts
+
+### 2. Pinch Grip
+
+Holding something between thumb and fingers.
+
+**Used for:** Opening bottles, carrying plates, rock climbing
+
+### 3. Support Grip
+
+Holding something for extended time.
+
+**Used for:** Carrying groceries, hanging from a bar, farmer carries
+
+### 4. Wrist Strength
+
+Stabilizing the wrist under load.
+
+**Used for:** Pushing, pulling, throwing, racket sports
+
+## How to Test Your Grip Strength
+
+### Hang Test
+
+Hang from a pull-up bar with palms forward. Time yourself.
+
+**Standards:**
+- Beginner: 10-20 seconds
+- Intermediate: 30-60 seconds
+- Advanced: 60+ seconds
+
+### Crush Test
+
+Use a hand dynamometer if available.
+
+**Average scores:**
+- Men: 80-120 lbs
+- Women: 50-80 lbs
+
+## Grip Training Exercises
+
+### Beginner Exercises
+
+**1. Farmer Carries**
+- Hold weights at your sides
+- Walk for distance or time
+- Start with 25-50% bodyweight total
+- 3 sets of 30-60 seconds
+
+**2. Dead Hangs**
+- Hang from a bar
+- Keep shoulders engaged
+- Start with whatever you can do
+- Build to 60 seconds
+
+**3. Towel Wringing**
+- Soak a towel
+- Wring out all water
+- Repeat for 1-2 minutes
+- Works both directions
+
+**4. Rubber Band Extensions**
+- Loop band around fingers
+- Spread fingers apart
+- 3 sets of 20 reps
+- Balances grip work
+
+### Intermediate Exercises
+
+**1. Plate Pinches**
+- Hold weight plate(s) by edges
+- Pinch between thumb and fingers
+- Hold for time (20-30 seconds)
+- Progress by adding plates
+
+**2. Fat Grip Training**
+- Add thick grips to barbell/dumbbells
+- Perform normal exercises
+- Thicker bar = more grip work
+- Great for all pulling exercises
+
+**3. Towel Pull-Ups/Rows**
+- Loop towel over bar
+- Grip towel instead of bar
+- Perform pulls or rows
+- Challenging grip variation
+
+**4. Wrist Roller**
+- Roll weight up with wrist motion
+- Both directions (flexion/extension)
+- 2-3 sets to fatigue
+
+### Advanced Exercises
+
+**1. One-Arm Hangs**
+- Progress from two arms
+- Use assist if needed
+- Build to 30 seconds each arm
+
+**2. Fingertip Push-Ups**
+- Push-ups on fingertips
+- Start on knees if needed
+- Excellent finger strength
+
+**3. Sledgehammer Levering**
+- Hold sledgehammer by end
+- Lever in all directions
+- Great for wrist strength
+
+## Sample Grip Training Program
+
+### Option 1: Add to Current Training
+
+At end of each workout, pick one:
+- Farmer carries: 3 x 40 seconds
+- Dead hangs: 3 x max time
+- Plate pinches: 3 x 20 seconds
+
+### Option 2: Dedicated Grip Session (10 minutes)
+
+**Twice per week:**
+
+1. Dead hangs: 3 x 30 seconds
+2. Farmer carries: 3 x 40 steps
+3. Plate pinches: 2 x 20 seconds
+4. Rubber band extensions: 2 x 20
+
+### Option 3: Throughout the Day
+
+- Hand gripper at desk: Several sets daily
+- Carry all groceries in one trip
+- Open jars without assistance
+- Active recovery approach
+
+## Common Grip Training Mistakes
+
+### 1. Neglecting Extension Work
+
+**Problem:** Muscle imbalances, overuse injuries
+**Fix:** Include rubber band extensions
+
+### 2. Training Grip When Fatigued
+
+**Problem:** Can't train grip after heavy deadlifts
+**Fix:** Do dedicated grip work on separate days
+
+### 3. Ignoring Thumb
+
+**Problem:** Weak pinch grip
+**Fix:** Include pinch exercises
+
+### 4. Going Too Heavy Too Fast
+
+**Problem:** Tendon injuries
+**Fix:** Gradual progression—tendons adapt slowly
+
+## Grip Strength for Specific Goals
+
+### For General Health
+
+- Dead hangs: 3x/week
+- Farmer carries: 2x/week
+- Focus on time, not weight
+
+### For Deadlift Performance
+
+- Fat grip rows
+- Static holds at top of deadlift
+- Hook grip training
+
+### For Rock Climbing
+
+- Hangboard training
+- Pinch blocks
+- Finger strengthening
+
+### For Aging Well
+
+- Daily dead hangs
+- Carry heavy groceries
+- Open jars by hand
+- Maintain function
+
+## The Bottom Line
+
+Grip strength is:
+- A vital sign for overall health
+- Trainable at any age
+- Often neglected in training
+- Simple to improve
+
+Add grip work to your routine. Your health—and your handshake—will thank you.
+
+---
+
+*Foundational Rehab programs incorporate grip and forearm training for functional strength.*
+    \`
+  },
+  'ankle-stability-exercises': {
+    title: 'Ankle Stability Exercises: Prevent Sprains and Build Strong Ankles',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## Why Ankle Stability Matters
+
+Ankle sprains are the most common sports injury. And once you sprain an ankle, you're much more likely to sprain it again.
+
+**The problem:** Ligament damage reduces proprioception (position sense). Without targeted rehab, instability becomes chronic.
+
+**The solution:** Specific stability training to rebuild proprioception and strength.
+
+## Signs of Ankle Instability
+
+- Frequent ankle "rolling" or "giving way"
+- Feeling of looseness in the ankle
+- Difficulty on uneven surfaces
+- Recurring sprains
+- Swelling after activity
+- Not trusting your ankle
+
+## Anatomy: What Supports Your Ankle
+
+### Passive Structures (Ligaments)
+
+**Lateral (outside):**
+- ATFL (most commonly sprained)
+- CFL
+- PTFL
+
+**Medial (inside):**
+- Deltoid ligament complex
+
+### Active Structures (Muscles)
+
+**Peroneal muscles:** Protect against inversion sprains
+**Tibialis posterior:** Supports arch, prevents overpronation
+**Calf muscles:** Plantarflexion power and control
+
+### Proprioception
+
+Joint position sensors that tell your brain where your ankle is. Damaged by sprains.
+
+## Ankle Stability Exercise Progression
+
+### Phase 1: Basic Balance (Weeks 1-2)
+
+**Single Leg Stance**
+- Stand on one leg, eyes open
+- Start on firm surface
+- Hold 30-60 seconds
+- 3 sets each leg
+
+**Weight Shifts**
+- Stand on one leg
+- Slowly shift weight in all directions
+- Maintain balance
+- 2 minutes each leg
+
+**Alphabet Trace**
+- Stand on one leg
+- Trace alphabet with free foot
+- Challenges balance dynamically
+
+### Phase 2: Unstable Surfaces (Weeks 3-4)
+
+**Foam Pad Balance**
+- Single leg on foam pad
+- Eyes open, then closed
+- 30-60 seconds each leg
+
+**Rocker Board**
+- Two legs, then one leg
+- Control the wobble
+- Progress to eyes closed
+
+**BOSU Ball**
+- Dome side up first
+- Single leg balance
+- Add arm movements
+
+### Phase 3: Dynamic Stability (Weeks 5-6)
+
+**Single Leg Hops (in place)**
+- Small controlled hops
+- Focus on soft, stable landing
+- 10-15 reps each leg
+
+**Lateral Hops**
+- Hop side to side
+- Stick the landing
+- Progress distance
+
+**Forward/Backward Hops**
+- Hop forward, land balanced
+- Hop backward to start
+- 10 each direction
+
+### Phase 4: Sport-Specific (Weeks 7+)
+
+**Cutting Drills**
+- Lateral shuffle, plant and cut
+- Progress speed
+- Both directions
+
+**Jump and Stick**
+- Jump to target
+- Stick the landing
+- Hold 3 seconds
+
+**Perturbation Training**
+- Partner pushes while balancing
+- React and recover
+- Random directions
+
+## Strengthening Exercises
+
+### Calf Raises
+
+**Standard:**
+- Rise on both feet
+- Lower slowly
+- 3 x 15
+
+**Single Leg:**
+- One foot at a time
+- Full range of motion
+- 3 x 10-15
+
+**Eccentric Emphasis:**
+- Rise on both feet
+- Lower on one foot slowly (4 seconds)
+- Key for Achilles tendon
+- 3 x 10
+
+### Peroneal Strengthening
+
+**Band Eversion**
+- Loop band around forefoot
+- Anchor to inside
+- Turn foot outward
+- 3 x 15
+
+**Side-Lying Raises**
+- Lie on side, foot off edge
+- Raise forefoot toward ceiling
+- 3 x 15
+
+### Tibialis Anterior
+
+**Toe Raises**
+- Rock back on heels
+- Lift toes toward shins
+- 3 x 20
+
+**Band Dorsiflexion**
+- Band over top of foot
+- Pull toes toward shin against resistance
+- 3 x 15
+
+## Sample Weekly Program
+
+### Minimum Effective Dose
+
+**Daily (5 minutes):**
+- Single leg balance: 2 x 30 seconds each
+- Calf raises: 2 x 15
+- Band eversion: 1 x 15 each
+
+### Full Stability Program
+
+**3x per week:**
+
+**Balance Circuit:**
+1. Single leg stance (firm): 30 sec each
+2. Single leg stance (foam): 30 sec each
+3. Single leg stance (eyes closed): 20 sec each
+
+**Strength:**
+1. Single leg calf raises: 3 x 10 each
+2. Band eversion: 3 x 15 each
+3. Band dorsiflexion: 2 x 15 each
+
+**Dynamic:**
+1. Single leg hops: 2 x 10 each
+2. Lateral hops: 2 x 8 each direction
+
+## Common Mistakes
+
+### 1. Not Training the Uninjured Ankle
+
+**Fix:** Train both—reduces overall injury risk
+
+### 2. Progressing Too Fast
+
+**Fix:** Master each phase before moving on
+
+### 3. Only Training Strength, Not Balance
+
+**Fix:** Proprioception training is essential
+
+### 4. Stopping When Pain-Free
+
+**Fix:** Continue maintenance indefinitely
+
+## When to See a Professional
+
+- No improvement after 4 weeks
+- Pain with basic exercises
+- Frequent giving way despite training
+- Unable to return to sport
+- Significant swelling
+
+## Prevention for Healthy Ankles
+
+Even without previous sprains:
+- Single leg balance: Daily
+- Calf raises: 2-3x weekly
+- Proprioception work: Before sports
+- Proper footwear
+- Address surfaces (uneven terrain training)
+
+Strong ankles aren't built by accident. They're built by consistent, progressive training.
+
+---
+
+*Foundational Rehab provides comprehensive ankle stability programs for prevention and recovery.*
+    \`
+  },
+  'upper-crossed-syndrome': {
+    title: 'Upper Crossed Syndrome: Causes, Symptoms, and Exercises to Fix It',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: \`
+## What Is Upper Crossed Syndrome?
+
+Upper Crossed Syndrome (UCS) is a common postural pattern where:
+
+**Tight muscles:**
+- Upper trapezius (top of shoulders)
+- Levator scapulae (neck to shoulder blade)
+- Pectoralis major/minor (chest)
+- Suboccipitals (base of skull)
+
+**Weak muscles:**
+- Deep neck flexors (front of neck)
+- Rhomboids (between shoulder blades)
+- Lower trapezius (mid-back)
+- Serratus anterior (under armpits)
+
+The pattern forms an "X" when viewed from the side—hence "crossed" syndrome.
+
+## The Visible Signs
+
+Look at someone from the side:
+
+- **Forward head posture:** Ears ahead of shoulders
+- **Rounded shoulders:** Shoulders roll forward
+- **Hunched upper back:** Increased thoracic kyphosis
+- **Elevated shoulders:** Shoulders creep toward ears
+- **Chin poke:** Head juts forward
+
+## What Causes It?
+
+### Modern Life
+
+- Desk work: Shoulders rounded, head forward to see screen
+- Phone use: Looking down for hours
+- Driving: Reaching forward for wheel
+- Sedentary lifestyle: Not enough pulling movements
+
+### Training Imbalances
+
+- Too much chest work, not enough back
+- Ignoring deep neck muscles
+- Heavy shoulder shrugs (makes it worse)
+
+### Stress
+
+- Tension in upper traps
+- Protective hunching
+- Shallow breathing patterns
+
+## Problems Associated with UCS
+
+- Neck pain and stiffness
+- Headaches (especially tension type)
+- Shoulder impingement
+- TMJ dysfunction
+- Reduced breathing capacity
+- Poor aesthetics
+- Decreased athletic performance
+
+## How to Fix Upper Crossed Syndrome
+
+### Step 1: Release Tight Muscles
+
+**Pec Stretch (Doorway)**
+- Arm at 90° against door frame
+- Step through doorway
+- Feel stretch across chest
+- Hold 30-60 seconds
+- Both sides
+
+**Upper Trap Stretch**
+- Tilt ear toward shoulder
+- Gently assist with hand
+- Keep opposite shoulder down
+- 30 seconds each side
+
+**Suboccipital Release**
+- Place two tennis balls in sock
+- Lie down, balls at skull base
+- Let head rest on balls
+- 2-3 minutes
+
+**Levator Scapulae Stretch**
+- Look toward armpit
+- Gently pull head down and rotate
+- Feel stretch in back of neck
+- 30 seconds each side
+
+### Step 2: Strengthen Weak Muscles
+
+**Chin Tucks**
+- Draw chin straight back (make double chin)
+- Hold 5 seconds
+- Don't tilt head up or down
+- 10-15 reps, several times daily
+
+**Wall Angels**
+- Back flat against wall
+- Arms in "goal post" position
+- Slide arms up and down
+- Keep back of hands on wall
+- 10-15 reps
+
+**Band Pull-Aparts**
+- Hold band at shoulder height
+- Pull apart, squeezing shoulder blades
+- Control return
+- 15-20 reps
+
+**Prone Y-T-W Raises**
+- Lie face down
+- Raise arms into Y, T, and W positions
+- Thumbs up
+- 10 reps each position
+
+**Serratus Punches**
+- Push-up position (or standing at wall)
+- Push shoulder blades apart
+- Protract scapulae
+- 15 reps
+
+### Step 3: Rebuild Posture Awareness
+
+**Brugger Relief Position**
+- Sit at edge of chair
+- Spread legs, turn feet out
+- Arch low back
+- Turn palms out
+- Draw shoulders back and down
+- Tuck chin
+- Hold 20 seconds
+- Do every 30 minutes at desk
+
+**Posture Check Reminders**
+- Set phone reminders
+- Post-it notes at desk
+- Check posture at every red light
+
+## Sample Correction Program
+
+### Daily Routine (10 minutes)
+
+**Morning:**
+1. Chin tucks: 10 reps
+2. Pec doorway stretch: 30 sec each
+3. Wall angels: 10 reps
+
+**Throughout Day:**
+4. Brugger position: Every 30 minutes
+5. Chin tucks: At every break
+
+**Evening:**
+6. Suboccipital release: 2 minutes
+7. Upper trap stretch: 30 sec each
+8. Band pull-aparts: 20 reps
+9. Prone Y-T-W: 10 each
+
+### Twice Weekly Strengthening
+
+1. Rows (any variation): 3 x 12-15
+2. Face pulls: 3 x 15
+3. Reverse flyes: 3 x 12
+4. Dead hangs: 3 x 20-30 seconds
+
+## Workstation Setup
+
+Fixing posture while maintaining a bad workstation is fighting uphill.
+
+**Monitor:**
+- Top of screen at eye level
+- Arm's length away
+- Directly in front (not to side)
+
+**Chair:**
+- Feet flat on floor
+- Thighs parallel to floor
+- Back supported
+
+**Keyboard/Mouse:**
+- Elbows at 90°
+- Shoulders relaxed (not shrugged)
+- Wrists neutral
+
+## How Long to Fix?
+
+**Noticeable improvement:** 2-4 weeks
+**Significant change:** 6-8 weeks
+**Full correction:** 3-6 months of consistent work
+
+The longer you've had it, the longer it takes. But improvement starts immediately.
+
+## Common Mistakes
+
+### 1. Only Stretching, Not Strengthening
+
+**Problem:** Temporary relief, no lasting change
+**Fix:** Must strengthen weak muscles
+
+### 2. Forcing "Good Posture" Through Tension
+
+**Problem:** Exhausting, unsustainable
+**Fix:** Build strength so good posture is effortless
+
+### 3. Expecting Quick Fixes
+
+**Problem:** Years of habits don't change in days
+**Fix:** Consistent daily work over months
+
+### 4. Not Addressing Workstation
+
+**Problem:** 8 hours of bad ergonomics
+**Fix:** Set up desk properly
+
+## The Bottom Line
+
+Upper Crossed Syndrome is:
+- Extremely common
+- Caused by modern life
+- Completely fixable
+- Requires consistent effort
+
+You can't stretch your way out of a strength problem. Address both sides: release tight muscles, strengthen weak ones, and create an environment that supports good posture.
+
+---
+
+*Foundational Rehab programs address postural imbalances for lasting relief.*
+    \`
+  },
+  'lower-crossed-syndrome': {
+    title: 'Lower Crossed Syndrome: Fix Your Hips and Low Back',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: \`
+## What Is Lower Crossed Syndrome?
+
+Lower Crossed Syndrome (LCS) is a postural pattern where:
+
+**Tight muscles:**
+- Hip flexors (iliopsoas, rectus femoris)
+- Erector spinae (low back extensors)
+
+**Weak muscles:**
+- Abdominals (especially deep core)
+- Gluteus maximus
+
+Like Upper Crossed Syndrome, the pattern forms an "X" when viewed from the side.
+
+## The Visible Signs
+
+- **Excessive lumbar lordosis:** Exaggerated low back curve
+- **Anterior pelvic tilt:** Pelvis tips forward
+- **Protruding abdomen:** Belly pushes out (even when lean)
+- **Flat buttocks:** Glutes appear underdeveloped
+- **Tight hip flexor appearance:** Can't stand up straight
+
+## What Causes It?
+
+### Sitting
+
+The modern epidemic. Sitting for hours:
+- Shortens hip flexors
+- Weakens glutes (not activated)
+- Tightens low back
+- Weakens abs
+
+### Training Imbalances
+
+- Heavy quad work, neglecting glutes
+- Too many hip flexor exercises
+- Avoiding glute exercises
+- Poor deadlift/squat mechanics
+
+### Compensation Patterns
+
+- Using low back instead of core
+- Hip flexor dominance in movement
+- Weak glutes offloading to hamstrings
+
+## Problems Associated with LCS
+
+- Low back pain (most common cause)
+- Hip pain and impingement
+- Hamstring strains (overworked)
+- Knee pain
+- SI joint dysfunction
+- Poor athletic performance
+- Disc problems
+
+## How to Fix Lower Crossed Syndrome
+
+### Step 1: Release Tight Muscles
+
+**Hip Flexor Stretch (Half-Kneeling)**
+- Kneel on one knee
+- Squeeze glute on kneeling side
+- Shift weight forward slightly
+- Feel stretch in front of hip
+- 60 seconds each side
+
+**Couch Stretch**
+- Kneel with back foot on wall/couch
+- Squeeze glute hard
+- Keep torso upright
+- 60-90 seconds each side
+
+**Foam Roll Hip Flexors**
+- Lie face down on roller
+- Roll from hip to mid-thigh
+- 60 seconds each side
+- Pause on tender spots
+
+**Cat-Cow Mobilization**
+- On hands and knees
+- Alternate arching and rounding
+- 10-15 cycles
+- Move slowly
+
+### Step 2: Strengthen Weak Muscles
+
+**Glute Bridges**
+- Lie on back, feet flat
+- Drive through heels
+- Squeeze glutes at top
+- Don't hyperextend back
+- 3 x 15
+
+**Dead Bugs**
+- Lie on back
+- Arms straight up
+- Knees at 90°
+- Extend opposite arm/leg while keeping back flat
+- 10 each side
+
+**Bird Dogs**
+- On hands and knees
+- Extend opposite arm and leg
+- Keep spine neutral
+- 10 each side
+
+**Plank Progressions**
+- Hold plank with neutral spine
+- Build to 60 seconds
+- Progress to side planks
+
+**Hip Thrusts**
+- Upper back on bench
+- Drive hips up
+- Squeeze glutes hard at top
+- 3 x 12
+
+### Step 3: Movement Pattern Correction
+
+**Glute Activation Drills**
+- Before sitting long periods
+- Before lower body workouts
+- Throughout the day
+
+**Squat and Hinge Form**
+- Learn to use glutes, not just quads
+- Master hip hinge before heavy deadlifts
+- Video yourself, check form
+
+**Gait Pattern**
+- Focus on glute push-off when walking
+- Don't just swing legs from hip flexors
+
+## Sample Correction Program
+
+### Daily Routine (10-15 minutes)
+
+**Morning:**
+1. Cat-cow: 10 cycles
+2. Dead bugs: 10 each side
+3. Glute bridges: 15 reps
+
+**Throughout Day:**
+4. Stand and walk every 30-60 minutes
+5. Couch stretch: During TV time
+
+**Evening:**
+6. Hip flexor stretch: 60 sec each
+7. Foam roll hip flexors: 2 min total
+8. Bird dogs: 10 each side
+9. Plank: 30-60 seconds
+
+### Twice Weekly Strengthening
+
+1. Hip thrusts: 3 x 12
+2. Romanian deadlifts: 3 x 10
+3. Lunges (glute focus): 3 x 10 each
+4. Pallof press: 3 x 10 each side
+5. Side plank: 3 x 20 sec each
+
+## How Sitting Destroys Your Hips
+
+**0-30 minutes:** Hip flexors begin shortening
+**1-2 hours:** Glutes "turn off" (gluteal amnesia)
+**4+ hours:** Significant tightness develops
+**Years:** Pattern becomes structural
+
+### The Fix
+
+- Stand every 30 minutes
+- Take walking meetings
+- Use standing desk periods
+- Do mobility work daily
+- Strengthen glutes intentionally
+
+## Common Mistakes
+
+### 1. Stretching Without Strengthening
+
+**Problem:** Hip flexors loosen but glutes stay weak
+**Fix:** Must build glute strength
+
+### 2. Too Much Ab Work, Wrong Kind
+
+**Problem:** Crunches can worsen it
+**Fix:** Anti-extension exercises (planks, dead bugs)
+
+### 3. Ignoring the Pattern in Training
+
+**Problem:** Squatting and deadlifting with bad mechanics
+**Fix:** Learn proper hip hinge, prioritize glute activation
+
+### 4. Expecting Stretching to "Stick"
+
+**Problem:** Flexibility without stability reverses quickly
+**Fix:** Build strength in new ranges
+
+## Special Considerations
+
+### For Low Back Pain
+
+- Focus more on glute and core strengthening
+- Gentle hip flexor stretching (don't force)
+- Build stability before mobility
+
+### For Athletes
+
+- Critical for running, jumping, cutting
+- Address before loading heavy
+- Include in warm-up routine
+
+### For Pregnancy/Postpartum
+
+- Common due to changing center of gravity
+- Focus on core and glute reconnection
+- Work with qualified professional
+
+## Progress Timeline
+
+**Week 1-2:** Awareness, beginning to feel glutes
+**Week 3-4:** Less tightness, better activation
+**Week 6-8:** Visible postural improvement
+**Month 3+:** New movement patterns becoming natural
+
+## The Bottom Line
+
+Lower Crossed Syndrome is:
+- The root cause of most low back pain
+- Created by sitting culture
+- Correctable with consistent work
+- A strength problem, not just flexibility
+
+Stop sitting so much. Stretch your hip flexors. But most importantly, build strong glutes and a functional core.
+
+Your back will thank you.
+
+---
+
+*Foundational Rehab programs systematically address Lower Crossed Syndrome for lasting relief.*
+    \`
   }
 };
 
