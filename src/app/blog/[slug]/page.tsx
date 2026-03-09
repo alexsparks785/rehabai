@@ -82271,6 +82271,902 @@ Your back will thank you.
 
 *Foundational Rehab programs systematically address Lower Crossed Syndrome for lasting relief.*
     \`
+  },
+  'sciatica-exercises': {
+    title: 'Sciatica Exercises: Relieve Pain and Prevent Flare-Ups',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '7 min read',
+    content: \`
+## What Is Sciatica?
+
+Sciatica is pain that radiates along the sciatic nerve—from your lower back through your hip and down the back of your leg.
+
+**Common symptoms:**
+- Sharp, burning, or shooting pain down the leg
+- Numbness or tingling in leg or foot
+- Weakness in the affected leg
+- Pain worse with sitting
+- One-sided symptoms (usually)
+
+## What Causes Sciatica?
+
+### Herniated Disc (Most Common)
+
+Disc material presses on the nerve root. Often affects L4-L5 or L5-S1.
+
+### Piriformis Syndrome
+
+Piriformis muscle in the buttock compresses the sciatic nerve.
+
+### Spinal Stenosis
+
+Narrowing of the spinal canal, more common with age.
+
+### Other Causes
+
+- Degenerative disc disease
+- Spondylolisthesis (vertebral slippage)
+- Tumors (rare)
+- Pregnancy (temporary)
+
+## Important: What Type Do You Have?
+
+**Exercises depend on the cause.** What helps disc herniations may worsen stenosis.
+
+### Flexion-Intolerant (Disc Issues)
+
+- Worse with sitting, bending forward, coughing
+- Better with standing, walking, lying flat
+- Likely disc-related
+
+### Extension-Intolerant (Stenosis)
+
+- Worse with standing, walking, arching back
+- Better with sitting, bending forward
+- Likely stenosis-related
+
+**If unsure, see a professional for proper diagnosis before exercising.**
+
+## Exercises for Disc-Related Sciatica
+
+### Acute Phase (First 1-2 Weeks)
+
+**Prone Lying**
+- Lie face down
+- Arms at sides
+- Rest 5-10 minutes
+- Let spine extend naturally
+
+**Prone on Elbows**
+- Lie face down
+- Prop up on elbows
+- Keep hips on floor
+- Hold 30 seconds
+- Progress to longer holds
+
+**Press-Ups (McKenzie Extension)**
+- Lie face down
+- Place hands under shoulders
+- Push up, keep hips down
+- Return to start
+- 10 reps every 2 hours
+
+**Goal:** Centralize pain (move it from leg toward back)
+
+### Subacute Phase (Weeks 2-6)
+
+**Standing Extension**
+- Stand with hands on low back
+- Arch backward gently
+- Return to neutral
+- 10 reps, several times daily
+
+**Bird Dog**
+- Hands and knees
+- Extend opposite arm/leg
+- Keep spine neutral
+- 10 each side
+
+**Cat Stretch (Careful)**
+- Only the cat (rounding) portion
+- Gentle, not extreme
+- 10 reps
+
+### Prevention Phase (6 Weeks+)
+
+**Core Strengthening**
+- Planks
+- Side planks
+- Dead bugs
+- Pallof press
+
+**Hip Mobility**
+- Hip flexor stretches
+- Pigeon pose (gentle)
+- 90/90 stretches
+
+**Glute Strengthening**
+- Bridges
+- Clamshells
+- Hip thrusts
+
+## Exercises for Stenosis-Related Sciatica
+
+### Acute Relief
+
+**Knee-to-Chest**
+- Lie on back
+- Pull one knee to chest
+- Hold 30 seconds
+- Both knees together
+
+**Child's Pose**
+- Kneel, sit back on heels
+- Reach arms forward
+- Rest forehead on floor
+- Hold 1-2 minutes
+
+**Pelvic Tilts**
+- Lie on back, knees bent
+- Flatten low back to floor
+- Hold 5 seconds
+- 15-20 reps
+
+### Walking Program
+
+- Walking is usually helpful for stenosis
+- Avoid standing still for long
+- Use shopping cart for support if needed
+- Progress distance gradually
+
+### Strengthening
+
+**Same as disc prevention:**
+- Core work
+- Glute strengthening
+- But emphasize flexion-based positions
+
+## Piriformis Syndrome Exercises
+
+**Piriformis Stretch (Figure 4)**
+- Lie on back
+- Cross ankle over opposite knee
+- Pull bottom leg toward chest
+- 30-60 seconds each side
+
+**Seated Piriformis Stretch**
+- Sit with legs extended
+- Cross one ankle over opposite knee
+- Lean forward gently
+- 30 seconds each side
+
+**Foam Roll Piriformis**
+- Sit on foam roller
+- Cross ankle over knee
+- Roll the buttock area
+- 60 seconds each side
+
+**Clamshells**
+- Side-lying, knees bent
+- Open top knee (keep feet together)
+- 15-20 reps each side
+
+## Nerve Gliding (Flossing)
+
+**Sciatic Nerve Glide**
+- Sit at edge of chair
+- Slump shoulders, look down
+- Extend knee, point toes up
+- Then look up while pointing toes down
+- 10-15 "flossing" movements
+
+**Purpose:** Mobilize the nerve without stretching it
+
+**Caution:** Should not increase symptoms
+
+## What NOT to Do
+
+### For Disc Issues
+
+- Avoid prolonged sitting
+- No bending forward at waist
+- No heavy lifting
+- No sit-ups or crunches
+
+### For Stenosis
+
+- Avoid prolonged standing
+- No arching backward
+- No overhead reaching
+- Limit downhill walking
+
+### General
+
+- Don't push through severe pain
+- Don't stretch aggressively
+- Don't ignore worsening symptoms
+
+## Red Flags: See a Doctor Immediately
+
+- Loss of bowel or bladder control
+- Progressive weakness in leg
+- Numbness in saddle area (groin/inner thigh)
+- Bilateral symptoms (both legs)
+- Severe, unrelenting pain
+
+These could indicate cauda equina syndrome—a medical emergency.
+
+## Recovery Timeline
+
+**Acute phase:** 1-2 weeks (focus on pain relief)
+**Subacute:** 2-6 weeks (gradual return to activity)
+**Prevention:** 6+ weeks (build resilience)
+
+**Most sciatica resolves within 4-6 weeks with conservative care.**
+
+## The Bottom Line
+
+1. **Identify your type** — disc vs stenosis vs piriformis
+2. **Match exercises to cause** — extension for disc, flexion for stenosis
+3. **Be patient** — nerves heal slowly
+4. **Progress gradually** — don't rush back to full activity
+5. **Maintain afterward** — prevention is ongoing
+
+When in doubt, see a physical therapist for proper diagnosis and individualized program.
+
+---
+
+*Foundational Rehab provides condition-specific programs for sciatica relief.*
+    \`
+  },
+  'golfers-elbow-exercises': {
+    title: 'Golfer\\'s Elbow Exercises: Heal Medial Epicondylitis',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '5 min read',
+    content: \`
+## What Is Golfer's Elbow?
+
+Golfer's elbow (medial epicondylitis) is pain on the inside of your elbow where forearm flexor tendons attach.
+
+**Despite the name:** Most people with golfer's elbow don't play golf. It's common in:
+- Throwing athletes
+- Climbers
+- Weight lifters
+- Office workers (typing/mouse use)
+- Manual laborers
+
+## Symptoms
+
+- Pain on inside of elbow
+- Pain with gripping
+- Weakness in grip and wrist
+- Stiffness in the elbow
+- Numbness/tingling in ring and pinky fingers (sometimes)
+
+## Why It Happens
+
+**Overuse + Underrecovery**
+
+The wrist flexor muscles (on palm side of forearm) attach at the medial epicondyle. Repetitive gripping, wrist flexion, or pronation overload these tendons.
+
+**Common triggers:**
+- Sudden increase in activity
+- Poor technique (golf, throwing, lifting)
+- Weak forearm muscles
+- Tight muscles
+
+## The Rehab Approach
+
+### Phase 1: Pain Management (Week 1-2)
+
+**Relative Rest**
+- Avoid aggravating activities
+- Don't completely immobilize
+- Gentle movement is okay
+
+**Ice**
+- 15-20 minutes after activity
+- Helps with pain, not healing
+
+**Isometric Wrist Flexion**
+- Place palm under table
+- Push up gently (50% effort)
+- Hold 30-45 seconds
+- 3-5 times daily
+- Should reduce pain
+
+### Phase 2: Load Introduction (Weeks 2-4)
+
+**Wrist Flexion Curls**
+- Palm up, hold light weight
+- Curl wrist up, lower slowly
+- 3 x 15 reps
+- Focus on 3-second lowering
+
+**Wrist Pronation**
+- Hold hammer by handle end
+- Rotate palm down slowly
+- 3 x 15 reps
+- Progress by choking down on hammer
+
+**Forearm Stretch**
+- Extend arm, palm up
+- Use other hand to pull fingers down
+- 30 seconds, 3 times daily
+
+### Phase 3: Heavy Loading (Weeks 4-8)
+
+**Eccentric Wrist Flexion**
+- Use heavier weight
+- Help into flexed position with other hand
+- Lower slowly (4-5 seconds)
+- 3 x 10 reps daily
+
+**Wrist Roller**
+- Roll weight up with wrist flexion
+- Both directions
+- 2-3 sets to fatigue
+
+**Grip Strengthening**
+- Hand gripper or stress ball
+- 3 x 20 squeezes
+- Multiple times daily
+
+### Phase 4: Return to Activity (Week 8+)
+
+**Gradual Return**
+- Start at 50% normal activity
+- Increase 10% per week
+- Watch for symptom return
+
+**Technique Correction**
+- Address what caused it
+- Get coaching if needed (golf, throwing)
+
+**Maintenance**
+- Continue 2-3x weekly strengthening
+
+## Sample Daily Program
+
+**Morning:**
+1. Forearm stretch: 2 x 30 sec
+2. Wrist curls (palm up): 3 x 15
+3. Pronation: 3 x 15
+
+**Evening:**
+4. Eccentric wrist flexion: 3 x 10
+5. Grip work: 3 x 20
+6. Forearm stretch: 2 x 30 sec
+
+**Time:** 10-15 minutes total
+
+## Important Considerations
+
+### Don't Ignore Pain During Exercise
+
+**0-3/10 pain:** Okay to continue
+**4-5/10 pain:** Reduce intensity
+**6+/10 pain:** Stop, modify approach
+
+### Progress Slowly
+
+Tendons heal slowly. Expect 8-12 weeks minimum for full recovery.
+
+### Address the Cause
+
+If you don't change what caused it, it will return.
+
+## Common Mistakes
+
+### 1. Complete Rest
+
+**Problem:** Tendons need load to heal
+**Fix:** Relative rest, then progressive loading
+
+### 2. Stretching Aggressively
+
+**Problem:** Can irritate the tendon
+**Fix:** Gentle stretching only
+
+### 3. Returning Too Soon
+
+**Problem:** Reinjury
+**Fix:** Full 8-12 week program
+
+### 4. Ignoring Technique
+
+**Problem:** Root cause remains
+**Fix:** Get coaching, fix form
+
+## Prevention
+
+- Warm up before gripping activities
+- Strengthen forearm muscles regularly
+- Use proper technique
+- Progress activities gradually
+- Address tight muscles
+
+## When to See a Doctor
+
+- No improvement after 4 weeks
+- Severe pain affecting daily life
+- Numbness or tingling
+- Weakness that doesn't improve
+- Suspicion of other injury
+
+## The Bottom Line
+
+Golfer's elbow responds well to progressive loading exercises. Key principles:
+
+1. **Relative rest initially** — not complete immobilization
+2. **Isometrics for pain relief** — early phase
+3. **Eccentrics for tendon healing** — main treatment
+4. **Gradual return** — don't rush back
+5. **Address root cause** — or it returns
+
+Be patient. Tendons heal slowly but they do heal.
+
+---
+
+*Foundational Rehab provides evidence-based programs for elbow tendinopathy.*
+    \`
+  },
+  'tennis-elbow-exercises': {
+    title: 'Tennis Elbow Exercises: Heal Lateral Epicondylitis',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '5 min read',
+    content: \`
+## What Is Tennis Elbow?
+
+Tennis elbow (lateral epicondylitis) is pain on the outside of your elbow where forearm extensor tendons attach.
+
+**Even more common than golfer's elbow.** Affects:
+- Tennis players (backhand especially)
+- Office workers (mouse use, typing)
+- Manual laborers
+- Anyone doing repetitive gripping
+
+## Tennis Elbow vs Golfer's Elbow
+
+| Condition | Location | Muscles |
+|-----------|----------|---------|
+| Tennis elbow | Outside of elbow | Wrist extensors |
+| Golfer's elbow | Inside of elbow | Wrist flexors |
+
+**Same treatment principles, different exercises.**
+
+## Symptoms
+
+- Pain on outside of elbow
+- Weak grip
+- Pain with lifting (palm down)
+- Pain opening jars, doorknobs
+- Stiffness in morning
+- Pain may radiate down forearm
+
+## The Evidence-Based Treatment
+
+Research clearly shows: **Eccentric loading is the most effective treatment.**
+
+### Phase 1: Pain Reduction (Week 1-2)
+
+**Isometric Wrist Extension**
+- Place back of hand under table
+- Push up gently (50% effort)
+- Hold 30-45 seconds
+- 3-5 times daily
+- Pain should decrease
+
+**Tyler Twist (If available)**
+- Use FlexBar or similar
+- Twist with affected arm
+- Hold at end range
+- 3 x 15
+
+**Ice After Activity**
+- 15-20 minutes
+- For pain control
+
+### Phase 2: Load Introduction (Weeks 2-4)
+
+**Eccentric Wrist Extension**
+- Support forearm on table, palm down
+- Hold light weight
+- Use other hand to lift wrist up
+- Lower slowly (4-5 seconds) on your own
+- 3 x 15 reps, twice daily
+
+**Wrist Supination**
+- Hold hammer by handle end
+- Rotate palm up slowly
+- Control the movement
+- 3 x 15 reps
+
+**Finger Extension**
+- Place rubber band around fingers
+- Spread fingers against resistance
+- 3 x 20 reps
+
+### Phase 3: Progressive Loading (Weeks 4-8)
+
+**Heavy Eccentric Loading**
+- Increase weight as tolerated
+- Continue 4-5 second lowering
+- 3 x 10 daily
+
+**Grip Strengthening**
+- Neutral wrist position
+- Progress gradually
+- 3 x 20
+
+**Forearm Rotation**
+- Full supination to pronation with weight
+- Control throughout
+- 3 x 15
+
+### Phase 4: Return to Activity (Week 8+)
+
+- Start at 50% normal activity
+- Increase gradually
+- Maintain strengthening 2-3x weekly
+
+## Sample Daily Program
+
+**Morning:**
+1. Isometric hold: 3 x 30 sec (early phase)
+2. Eccentric extension: 3 x 15
+3. Supination: 3 x 15
+
+**Evening:**
+4. Eccentric extension: 3 x 15
+5. Finger extension: 3 x 20
+6. Gentle stretch: 2 x 20 sec
+
+**Total time:** 10-15 minutes
+
+## The Key Exercise: Eccentric Extension
+
+This is the most important exercise. Do it correctly:
+
+1. **Setup:** Forearm on table, palm down, wrist over edge
+2. **Lift:** Use other hand to lift wrist up
+3. **Lower:** Slowly lower (4-5 seconds) using affected arm only
+4. **Repeat:** 3 sets of 15 reps
+5. **Frequency:** Twice daily
+6. **Load:** Heavy enough to feel it, not painful
+
+## Stretching: Do It Right
+
+**Wrist Extensor Stretch**
+- Extend arm, palm facing away
+- Use other hand to pull hand toward you
+- Elbow straight
+- Hold 20-30 seconds
+- Gentle, not aggressive
+
+**Don't overdo stretching.** Loading is more important than stretching.
+
+## Common Mistakes
+
+### 1. Ice and Rest Only
+
+**Problem:** Doesn't address the tendon
+**Fix:** Add eccentric loading
+
+### 2. Wearing a Brace Only
+
+**Problem:** Doesn't strengthen
+**Fix:** Brace can help symptoms, but add exercises
+
+### 3. Too Much Too Soon
+
+**Problem:** Flare-up
+**Fix:** Gradual progression
+
+### 4. Ignoring Technique
+
+**Problem:** Recurrence
+**Fix:** Address backhand, mouse position, grip technique
+
+## Workplace Modifications
+
+For office workers:
+- Ergonomic mouse position
+- Keyboard tray at proper height
+- Regular breaks
+- Forearm support
+
+## Sports Modifications
+
+For tennis players:
+- Check racket grip size
+- Two-handed backhand
+- Technique lessons
+- Proper string tension
+
+## Prevention
+
+- Strengthen forearm muscles regularly
+- Warm up before activity
+- Use proper technique
+- Progress gradually
+- Address early symptoms
+
+## When to Seek Help
+
+- No improvement after 4-6 weeks
+- Significant weakness
+- Night pain
+- Pain at rest
+- Unable to hold objects
+
+## Recovery Timeline
+
+**Mild cases:** 4-6 weeks
+**Moderate:** 8-12 weeks
+**Severe:** 3-6 months
+
+Tennis elbow can be stubborn. Consistency with exercises is key.
+
+## The Bottom Line
+
+Tennis elbow requires:
+
+1. **Eccentric loading** — The main treatment
+2. **Gradual progression** — Don't rush
+3. **Daily consistency** — Twice daily exercises
+4. **Activity modification** — While healing
+5. **Address root cause** — Technique, ergonomics
+
+Trust the process. Eccentric exercise works, but takes time.
+
+---
+
+*Foundational Rehab provides evidence-based programs for tennis elbow recovery.*
+    \`
+  },
+  'jaw-pain-tmj-exercises': {
+    title: 'TMJ Exercises: Relieve Jaw Pain and Dysfunction',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is TMJ Dysfunction?
+
+TMJ (temporomandibular joint) dysfunction affects the jaw joint and surrounding muscles. It's extremely common—affecting up to 12% of the population.
+
+**Common symptoms:**
+- Jaw pain or tenderness
+- Clicking or popping sounds
+- Difficulty opening mouth fully
+- Locking of the jaw
+- Headaches
+- Ear pain
+- Pain while chewing
+- Facial pain
+
+## What Causes TMJ Problems?
+
+### Muscle Tension
+
+- Clenching (often from stress)
+- Grinding (bruxism)
+- Poor posture (forward head position)
+
+### Joint Issues
+
+- Disc displacement
+- Arthritis
+- Injury/trauma
+- Misalignment
+
+### Habits
+
+- Chewing on one side
+- Nail biting
+- Gum chewing
+- Resting chin on hand
+
+## Exercises for TMJ Relief
+
+### Relaxation Exercises
+
+**Proper Jaw Position**
+- Lips together
+- Teeth apart
+- Tongue on roof of mouth
+- "N" position
+- Practice throughout day
+
+**Diaphragmatic Breathing**
+- Breathe into belly
+- Relax jaw on exhale
+- 5 minutes, 2-3x daily
+- Reduces overall tension
+
+**Jaw Relaxation (Massage)**
+- Place fingers on masseter (jaw muscle)
+- Apply gentle pressure
+- Make small circles
+- 2-3 minutes each side
+
+### Mobility Exercises
+
+**Controlled Opening**
+- Place tongue on roof of mouth
+- Open mouth while keeping tongue up
+- Only open as far as comfortable
+- 10 reps, 3 times daily
+
+**Goldfish Exercise (Partial)**
+- Place tongue on roof of mouth
+- One finger on TMJ joint
+- One finger on chin
+- Open mouth halfway
+- 6 reps, 6 times daily
+
+**Goldfish Exercise (Full)**
+- Same setup as partial
+- Open mouth fully
+- 6 reps, 6 times daily
+
+**Side-to-Side Movement**
+- Place object (stacked tongue depressors) between front teeth
+- Move jaw left and right slowly
+- 10 reps each direction
+- Progress by adding thickness
+
+**Forward Jaw Movement**
+- Same setup with stacked object
+- Move lower jaw forward (underbite position)
+- 10 reps
+
+### Strengthening Exercises
+
+**Resisted Opening**
+- Place thumb under chin
+- Open mouth against resistance
+- Hold 3-5 seconds
+- 10 reps
+
+**Resisted Closing**
+- Place fingers on front of chin
+- Close mouth against resistance
+- Hold 3-5 seconds
+- 10 reps
+
+**Chin Tuck (For Posture)**
+- Draw chin straight back
+- Hold 3 seconds
+- 10 reps, several times daily
+- Reduces forward head posture
+
+### Stretching Exercises
+
+**Gentle Opening Stretch**
+- Open mouth comfortably
+- Apply gentle pressure with fingers to increase opening
+- Hold 10-20 seconds
+- Don't force
+
+**Pterygoid Stretch**
+- Open mouth
+- Move jaw toward unaffected side
+- Use hand to assist gently
+- Hold 10 seconds
+- 5 reps
+
+## Self-Massage Techniques
+
+### Masseter Massage
+
+- Located on side of jaw
+- Press with fingertips
+- Small circular movements
+- 2-3 minutes each side
+
+### Temporalis Massage
+
+- Located above ear, on temple
+- Circular pressure
+- 1-2 minutes each side
+
+### Pterygoid Release (Internal)
+
+- Open mouth
+- Place finger inside cheek
+- Press toward back teeth area
+- Hold 30 seconds
+- Can be intense
+
+## Sample Daily Program
+
+**Morning (5 minutes):**
+1. Jaw relaxation breathing: 2 minutes
+2. Controlled opening: 10 reps
+3. Goldfish (partial): 6 reps
+
+**Throughout Day:**
+4. Check jaw position (tongue up, teeth apart)
+5. Chin tucks: 10 reps
+
+**Evening (5 minutes):**
+6. Masseter massage: 2 min each side
+7. Goldfish (full): 6 reps
+8. Opening stretch: 3 x 10 sec
+
+## Lifestyle Modifications
+
+### Habits to Break
+
+- Clenching jaw (notice and relax)
+- Excessive gum chewing
+- Nail biting
+- Resting chin on hand
+- Chewing on pens/objects
+
+### Habits to Develop
+
+- Regular jaw position checks
+- Stress management
+- Good posture
+- Night guard (if grinding)
+
+### Eating Modifications
+
+- Cut food into smaller pieces
+- Avoid chewy/hard foods temporarily
+- Chew on both sides
+- Don't open wide for big bites
+
+## When to Seek Professional Help
+
+- Jaw locked (can't open or close)
+- Severe pain
+- Symptoms worsening despite exercises
+- Significant clicking with pain
+- Pain affecting eating/sleeping
+- Symptoms lasting more than 2 weeks
+
+## What to Expect
+
+**First 1-2 weeks:** Awareness of tension, beginning relief
+**Weeks 2-4:** Noticeable improvement in most cases
+**Weeks 4-8:** Significant reduction in symptoms
+**Ongoing:** Maintenance to prevent recurrence
+
+## Red Flags
+
+See a doctor immediately if:
+- Sudden inability to open or close mouth
+- Swelling in jaw area
+- Fever with jaw pain
+- Numbness in face
+- Pain after trauma
+
+## The Bottom Line
+
+TMJ problems respond well to conservative treatment:
+
+1. **Awareness** — Notice clenching, maintain good position
+2. **Relaxation** — Breathing, massage, stress management
+3. **Mobility** — Controlled opening exercises
+4. **Posture** — Chin tucks, reduce forward head position
+5. **Consistency** — Daily exercises, ongoing maintenance
+
+Most TMJ dysfunction improves significantly with proper self-care.
+
+---
+
+*Foundational Rehab programs address TMJ dysfunction with targeted exercise protocols.*
+    \`
   }
 };
 

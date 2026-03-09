@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'sciatica-exercises',
+    title: 'Sciatica Exercises: Relieve Pain and Prevent Flare-Ups',
+    excerpt: 'Sciatica pain radiating down your leg? Learn the right exercises based on your specific cause.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'golfers-elbow-exercises',
+    title: 'Golfer\\'s Elbow Exercises: Heal Medial Epicondylitis',
+    excerpt: 'Pain on the inside of your elbow? Learn how to heal golfer\\'s elbow with progressive loading exercises.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'tennis-elbow-exercises',
+    title: 'Tennis Elbow Exercises: Heal Lateral Epicondylitis',
+    excerpt: 'Pain on the outside of your elbow? Eccentric exercises are the proven treatment for tennis elbow.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'jaw-pain-tmj-exercises',
+    title: 'TMJ Exercises: Relieve Jaw Pain and Dysfunction',
+    excerpt: 'Jaw clicking, pain, or locking? Learn exercises and techniques to relieve TMJ dysfunction.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
     slug: 'grip-strength-training',
     title: 'Grip Strength Training: Why It Matters and How to Build It',
     excerpt: 'Grip strength predicts mortality better than blood pressure. Learn why it matters and how to train it.',
