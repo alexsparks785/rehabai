@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'posture-correction-exercises',
+    title: 'Posture Correction Exercises: Fix Common Postural Problems',
+    excerpt: 'Forward head, rounded shoulders, anterior pelvic tilt. Here\\'s how to fix them.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'mobility-vs-flexibility',
+    title: 'Mobility vs Flexibility: What\\'s the Difference?',
+    excerpt: 'Flexibility is passive range. Mobility is active control. Here\\'s why it matters.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'diastasis-recti-exercises',
+    title: 'Diastasis Recti Exercises: Healing Abdominal Separation',
+    excerpt: 'Postpartum abdominal separation? Safe exercises to heal without making it worse.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'joint-health-supplements',
+    title: 'Joint Health: What Supplements Actually Work?',
+    excerpt: 'Glucosamine? Collagen? Here\\'s what the research actually says.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'home-gym-essentials',
     title: 'Home Gym Essentials: What You Actually Need',
     excerpt: 'You don\\'t need much. Bands, pull-up bar, and your body can get you far.',

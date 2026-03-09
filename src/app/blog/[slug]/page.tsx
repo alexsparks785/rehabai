@@ -93967,6 +93967,331 @@ Bedtime stretching:
 
 *Foundational Rehab includes sleep and recovery support.*
     \`
+  },
+  'posture-correction-exercises': {
+    title: 'Posture Correction Exercises: Fix Common Postural Problems',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: \`
+## Why Posture Matters
+
+Poor posture leads to:
+- Neck and back pain
+- Headaches
+- Shoulder problems
+- Reduced breathing capacity
+- Fatigue
+
+## Common Postural Problems
+
+### Forward Head
+**What it looks like:** Ears in front of shoulders
+**Causes:** Screens, phones, driving
+**Problems:** Neck pain, headaches
+
+### Rounded Shoulders
+**What it looks like:** Shoulders rolled forward
+**Causes:** Desk work, weak back
+**Problems:** Shoulder pain, impingement
+
+### Anterior Pelvic Tilt
+**What it looks like:** Belly forward, butt out
+**Causes:** Tight hip flexors, weak core
+**Problems:** Low back pain
+
+## Exercises by Problem
+
+### For Forward Head
+
+**Chin Tucks**
+- Draw chin straight back
+- Hold 5 sec, repeat 10x
+- Multiple times daily
+
+**Neck Strengthening**
+- Isometric holds in all directions
+- 5-10 sec each
+
+### For Rounded Shoulders
+
+**Doorway Chest Stretch**
+- Arm at 90° against frame
+- Step through
+- 30 sec each side
+
+**Rows / Band Pull-Aparts**
+- Strengthen mid-back
+- 3 x 15-20
+
+**Prone Y-T-W**
+- Strengthen posterior chain
+- 2 x 10 each position
+
+### For Anterior Pelvic Tilt
+
+**Hip Flexor Stretch**
+- Half-kneeling, squeeze glute
+- 60 sec each side
+
+**Glute Bridges**
+- Strengthen glutes
+- 3 x 15
+
+**Dead Bugs**
+- Core control
+- 3 x 10 each side
+
+## Daily Posture Routine (10 min)
+
+1. Chin tucks: 10 reps
+2. Chest stretch: 30 sec each
+3. Hip flexor stretch: 45 sec each
+4. Band pull-aparts: 20 reps
+5. Glute bridges: 15 reps
+6. Dead bugs: 10 each side
+
+## The Bottom Line
+
+Posture correction:
+1. **Stretch tight muscles** — Chest, hip flexors
+2. **Strengthen weak muscles** — Back, glutes, core
+3. **Practice awareness** — Check throughout day
+4. **Be consistent** — Daily work, over months
+
+---
+
+*Foundational Rehab addresses postural issues systematically.*
+    \`
+  },
+  'mobility-vs-flexibility': {
+    title: 'Mobility vs Flexibility: What\\'s the Difference?',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## They're Not the Same
+
+**Flexibility:** Passive range of motion (how far a muscle can stretch)
+
+**Mobility:** Active range of motion (how far you can move with control)
+
+## Why It Matters
+
+You can be flexible but not mobile:
+- Can touch toes when someone pushes you
+- Can't control movement at end range
+- Flexibility without strength = instability
+
+**What you actually need:** Mobility (controlled range of motion)
+
+## Examples
+
+### Flexible but Not Mobile
+- Can be stretched into splits
+- Can't actively lift leg high
+- No strength at end range
+
+### Mobile
+- Can actively reach end range
+- Has strength throughout
+- Controlled movement
+
+## What This Means for Training
+
+### For Flexibility (Passive)
+- Static stretching
+- Held positions
+- PNF stretching
+
+### For Mobility (Active)
+- Dynamic movement through range
+- Strengthening at end range
+- Controlled articular rotations (CARs)
+- Loaded stretching
+
+## Which Do You Need?
+
+**Most people need mobility more than flexibility.**
+
+Focus on:
+1. Being able to actively reach positions
+2. Having strength throughout range
+3. Control, not just passive range
+
+## The Bottom Line
+
+Mobility vs flexibility:
+1. **Flexibility = passive** — How far you can be stretched
+2. **Mobility = active** — How far you can move with control
+3. **Mobility is more useful** — Control matters
+4. **Train both** — But prioritize mobility
+
+---
+
+*Foundational Rehab prioritizes functional mobility.*
+    \`
+  },
+  'diastasis-recti-exercises': {
+    title: 'Diastasis Recti Exercises: Healing Abdominal Separation',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is Diastasis Recti?
+
+Diastasis recti is the separation of the rectus abdominis muscles (the "six-pack" muscles) along the midline.
+
+**Common in:**
+- Postpartum women
+- People with repeated abdominal pressure
+- Can occur in men too
+
+## Signs of Diastasis Recti
+
+- Bulge or ridge along midline when contracting abs
+- Gap you can feel between muscles
+- Low back pain
+- Poor posture
+- Weak core
+
+## Self-Test
+
+1. Lie on back, knees bent
+2. Lift head and shoulders slightly
+3. Feel along midline above/below belly button
+4. Gap of 2+ finger widths may indicate DR
+
+**See a pelvic health PT for proper assessment.**
+
+## Safe Exercises
+
+### Diaphragmatic Breathing
+- Breathe into belly
+- Connect breath to pelvic floor
+- Foundation for all exercises
+
+### Heel Slides
+- Lie on back, knees bent
+- Slowly slide one heel out
+- Keep core engaged, no bulging
+- 10 each side
+
+### Toe Taps
+- Lie on back, legs at 90°
+- Lower one foot to floor
+- Return with control
+- 10 each side
+
+### Dead Bug (Modified)
+- Small movements only
+- No bulging or doming
+- Progress slowly
+
+### Bird Dog
+- On hands and knees
+- Small, controlled movements
+- 10 each side
+
+## What to Avoid
+
+- Traditional crunches/sit-ups
+- Planks (initially)
+- Heavy lifting
+- Anything that causes doming/bulging
+- Straining
+
+## Progression
+
+1. Master breathing and connection
+2. Small movements (heel slides, toe taps)
+3. Progress to dead bugs, bird dogs
+4. Eventually planks and more
+5. Under professional guidance
+
+## The Bottom Line
+
+Diastasis recti healing:
+1. **Start with breathing** — Foundation first
+2. **Avoid crunches** — Makes it worse
+3. **Watch for doming** — Stop if you see it
+4. **Progress slowly** — Patience is key
+5. **See a specialist** — Pelvic health PT helps
+
+---
+
+*Foundational Rehab addresses diastasis recti carefully.*
+    \`
+  },
+  'joint-health-supplements': {
+    title: 'Joint Health: What Supplements Actually Work?',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## The Honest Truth
+
+Most joint supplements have limited evidence. Exercise and maintaining healthy weight help more.
+
+## What the Research Says
+
+### Glucosamine & Chondroitin
+**Evidence:** Mixed. Some studies show modest benefit for knee OA, others show no difference from placebo.
+**Verdict:** Might help some people. Worth trying for 3 months.
+
+### Collagen
+**Evidence:** Some studies show modest improvement in joint pain.
+**Verdict:** May help. Generally safe.
+
+### Fish Oil (Omega-3s)
+**Evidence:** Anti-inflammatory effects. May help with RA, less clear for OA.
+**Verdict:** Good for overall health anyway.
+
+### Turmeric/Curcumin
+**Evidence:** Anti-inflammatory. Some studies show benefit.
+**Verdict:** May help. Use with black pepper for absorption.
+
+### MSM
+**Evidence:** Limited but some positive studies.
+**Verdict:** May help. Generally safe.
+
+## What Actually Works for Joints
+
+### 1. Exercise
+- Strengthens muscles that support joints
+- Maintains cartilage health
+- Best evidence of anything
+
+### 2. Healthy Weight
+- Less load on joints
+- Reduces inflammation
+- Significant impact on knee/hip OA
+
+### 3. Not Smoking
+- Smoking accelerates joint degeneration
+
+### 4. Anti-Inflammatory Diet
+- Less processed food
+- More omega-3s
+- Fruits, vegetables
+
+## The Bottom Line
+
+For joint health:
+1. **Exercise** — Best evidence, works
+2. **Maintain healthy weight** — Major factor
+3. **Supplements** — May help modestly, not magic
+4. **Give it time** — 3 months to assess
+5. **Don't replace fundamentals** — Movement matters most
+
+---
+
+*Foundational Rehab prioritizes movement for joint health.*
+    \`
   }
 };
 
