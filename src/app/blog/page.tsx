@@ -16,6 +16,33 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'balance-exercises-adults',
+    title: 'Balance Exercises: Improve Stability at Any Age',
+    excerpt: 'Balance declines with age unless trained. Simple exercises to improve stability.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'pain-management-without-medication',
+    title: 'Pain Management Without Medication: Natural Relief Strategies',
+    excerpt: 'Movement, heat/cold, breathing, and sleep can manage many pain conditions.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'muscle-recovery-tips',
+    title: 'Muscle Recovery Tips: Bounce Back Faster After Workouts',
+    excerpt: 'Sleep, nutrition, and active recovery help you adapt and grow stronger.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
+  },
+  {
     slug: 'hip-mobility-exercises',
     title: 'Hip Mobility Exercises: Unlock Tight Hips',
     excerpt: 'Tight hips affecting your squat and causing back pain? These exercises unlock your hips.',

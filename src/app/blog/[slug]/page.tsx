@@ -91888,6 +91888,362 @@ A strong core is the foundation for everything else.
 
 *Foundational Rehab builds core strength progressively in all programs.*
     \`
+  },
+  'balance-exercises-adults': {
+    title: 'Balance Exercises: Improve Stability at Any Age',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read',
+    content: \`
+## Why Balance Matters
+
+Good balance:
+- Prevents falls
+- Improves athletic performance
+- Supports daily activities
+- Maintains independence
+- Declines with age unless trained
+
+## Simple Balance Tests
+
+**Single Leg Stand Test:**
+- Stand on one leg, eyes open
+- Time yourself
+- 30+ seconds = good
+- Under 20 seconds = needs work
+
+**Tandem Stand:**
+- One foot in front of other
+- Hold 30 seconds
+- Difficulty? Balance needs attention
+
+## Beginner Balance Exercises
+
+**Weight Shifts**
+- Feet hip-width
+- Shift weight side to side
+- 10 each direction
+
+**Heel-to-Toe Walking**
+- Walk in line
+- Heel touches toe
+- 10-20 steps
+
+**Single Leg Stand (Supported)**
+- Hold chair
+- Lift one foot
+- 30 seconds each leg
+
+## Intermediate Balance Exercises
+
+**Single Leg Stand (Unsupported)**
+- No support
+- Build to 60 seconds
+- Each leg
+
+**Single Leg with Movement**
+- Stand on one leg
+- Move arms or turn head
+- 30 seconds each
+
+**Tandem Stand (Eyes Closed)**
+- One foot in front
+- Close eyes
+- 30 seconds
+
+## Advanced Balance Exercises
+
+**Single Leg on Foam**
+- Unstable surface
+- 30-60 seconds each
+
+**Single Leg with Eyes Closed**
+- Very challenging
+- Use support initially
+- Build up
+
+**BOSU Ball Balance**
+- Stand on dome
+- Progress to one leg
+
+## Sample Balance Routine (10 min)
+
+1. Weight shifts: 10 each direction
+2. Heel-to-toe walk: 20 steps
+3. Single leg stand: 30 sec each
+4. Single leg with arm movement: 20 sec each
+5. Tandem stand: 30 sec each foot front
+
+**Do daily for best results.**
+
+## The Bottom Line
+
+Balance training:
+1. **Test yourself** — Know your baseline
+2. **Practice daily** — Even 5 minutes helps
+3. **Progress gradually** — Remove support over time
+4. **Challenge yourself** — Unstable surfaces, eyes closed
+5. **Never too late** — Improves at any age
+
+---
+
+*Foundational Rehab includes balance training in all programs.*
+    \`
+  },
+  'pain-management-without-medication': {
+    title: 'Pain Management Without Medication: Natural Relief Strategies',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: \`
+## Non-Drug Pain Management
+
+Many pain conditions respond well to non-medication approaches:
+- Exercise
+- Manual therapy
+- Heat and cold
+- Mind-body techniques
+- Sleep optimization
+
+## Movement and Exercise
+
+**Why it works:**
+- Releases endorphins
+- Improves blood flow
+- Strengthens supporting structures
+- Maintains mobility
+
+**What to do:**
+- Stay as active as possible
+- Specific exercises for your condition
+- Progressive loading
+- Don't avoid all movement
+
+## Heat and Cold Therapy
+
+**Heat:**
+- Relaxes muscles
+- Improves blood flow
+- Good for chronic pain, stiffness
+- 15-20 minutes
+
+**Cold:**
+- Reduces inflammation
+- Numbs acute pain
+- Good for acute injuries, flare-ups
+- 15-20 minutes
+
+## Manual Therapy
+
+**Options:**
+- Self-massage
+- Foam rolling
+- Trigger point release
+- Professional massage
+- Physical therapy
+
+**Benefits:**
+- Reduces muscle tension
+- Improves blood flow
+- Modulates pain signals
+
+## Mind-Body Techniques
+
+**Breathing exercises:**
+- Activates relaxation response
+- Reduces pain perception
+- Always available
+
+**Meditation:**
+- Changes pain processing
+- Reduces stress
+- Improves coping
+
+**Progressive muscle relaxation:**
+- Releases held tension
+- Promotes relaxation
+- Good for chronic pain
+
+## Sleep Optimization
+
+**Why it matters:**
+- Poor sleep increases pain sensitivity
+- Pain disrupts sleep
+- Vicious cycle
+
+**What to do:**
+- Consistent sleep schedule
+- Good sleep environment
+- Address pain positions
+- Limit screens before bed
+
+## Other Strategies
+
+**Pacing:**
+- Don't overdo on good days
+- Consistent activity level
+- Prevents boom-bust cycle
+
+**Distraction:**
+- Focus attention elsewhere
+- Engaging activities
+- Social connection
+
+**Education:**
+- Understanding pain reduces fear
+- Fear increases pain
+- Knowledge is power
+
+## When to Seek Help
+
+Non-medication approaches have limits:
+- Severe pain affecting function
+- No improvement with self-management
+- Warning signs present
+- Need professional guidance
+
+## The Bottom Line
+
+Non-drug pain management:
+1. **Movement** — Stay active appropriately
+2. **Physical modalities** — Heat, cold, massage
+3. **Mind-body** — Breathing, relaxation
+4. **Sleep** — Prioritize quality sleep
+5. **Pacing** — Consistent, not boom-bust
+
+These approaches work for many pain conditions.
+
+---
+
+*Foundational Rehab emphasizes active pain management strategies.*
+    \`
+  },
+  'muscle-recovery-tips': {
+    title: 'Muscle Recovery Tips: Bounce Back Faster After Workouts',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: \`
+## Why Recovery Matters
+
+You don't get stronger during workouts — you get stronger during recovery.
+
+**Without adequate recovery:**
+- Diminished gains
+- Increased injury risk
+- Fatigue and burnout
+- Poor performance
+
+## The Recovery Essentials
+
+### 1. Sleep (Most Important)
+
+**Why:** Growth hormone release, tissue repair, neural recovery
+
+**What to do:**
+- 7-9 hours nightly
+- Consistent schedule
+- Dark, cool room
+- Limit screens before bed
+
+### 2. Nutrition
+
+**Protein:** Muscle repair
+- 0.7-1g per pound bodyweight
+- Spread throughout day
+
+**Carbs:** Glycogen replenishment
+- Especially after intense workouts
+
+**Hydration:**
+- Replace fluids lost
+- Supports all processes
+
+### 3. Active Recovery
+
+**What:** Light movement on rest days
+
+**Why:**
+- Increases blood flow
+- Reduces stiffness
+- Doesn't add stress
+
+**Options:**
+- Walking
+- Light cycling
+- Swimming
+- Gentle yoga
+
+### 4. Stretching and Mobility
+
+**When:** After workouts, rest days
+
+**Benefits:**
+- Maintains range of motion
+- May reduce soreness slightly
+- Promotes relaxation
+
+### 5. Stress Management
+
+**Why:** Chronic stress impairs recovery
+
+**What helps:**
+- Sleep
+- Relaxation techniques
+- Social connection
+- Balance in life
+
+## Recovery Tools (Optional)
+
+**Foam rolling:** May reduce soreness
+**Massage:** Relaxation, blood flow
+**Contrast showers:** Circulation
+**Compression:** May help with swelling
+
+## Common Recovery Mistakes
+
+### 1. Not Sleeping Enough
+
+Most important factor. Prioritize it.
+
+### 2. Too Much Activity on Rest Days
+
+Rest means rest. Light movement only.
+
+### 3. Inadequate Protein
+
+Muscles need building blocks. Eat enough.
+
+### 4. Overcomplicating It
+
+Sleep, eat, rest. The basics work.
+
+## Sample Recovery Day
+
+- 8 hours sleep
+- Light 20-min walk
+- 10-min stretching/foam rolling
+- Adequate protein and hydration
+- Relaxation time
+
+## The Bottom Line
+
+Recovery requires:
+1. **Sleep** — Non-negotiable priority
+2. **Nutrition** — Protein and carbs
+3. **Active recovery** — Light movement
+4. **Mobility work** — Stretching, foam rolling
+5. **Rest** — Don't overdo it
+
+Train hard, recover harder.
+
+---
+
+*Foundational Rehab balances training with recovery.*
+    \`
   }
 };
 
