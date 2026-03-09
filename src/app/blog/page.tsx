@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'stretches-for-tight-hips',
+    title: 'Stretches for Tight Hips: Open Up and Move Better',
+    excerpt: 'Sitting all day destroys hip mobility. These stretches fight back.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'dumbbell-shoulder-workout',
+    title: 'Dumbbell Shoulder Workout: Build Strong, Defined Shoulders',
+    excerpt: 'Complete shoulder workout with just dumbbells. All three heads covered.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercises-for-sciatica',
+    title: 'Exercises for Sciatica: Relieve Nerve Pain Naturally',
+    excerpt: 'The right exercises can calm sciatic nerve pain. Here\'s what works.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-to-squat-properly',
+    title: 'How to Squat Properly: Complete Form Guide',
+    excerpt: 'Master the squat—the most important exercise you can learn.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'stretches-for-lower-back',
     title: 'Stretches for Lower Back: Relieve Tightness and Pain',
     excerpt: 'Simple stretches that actually help lower back discomfort.',
