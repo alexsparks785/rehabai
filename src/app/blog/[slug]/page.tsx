@@ -93662,6 +93662,311 @@ Rest days:
 
 *Foundational Rehab programs include proper rest.*
     \`
+  },
+  'home-gym-essentials': {
+    title: 'Home Gym Essentials: What You Actually Need',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read',
+    content: \`
+## You Don't Need Much
+
+A great home gym doesn't require much space or money.
+
+## The Essentials (Under $100)
+
+### 1. Resistance Bands ($15-30)
+- Multiple resistance levels
+- Full body training possible
+- Portable
+
+### 2. Pull-Up Bar ($25-40)
+- Doorway mounted
+- Upper body essential
+- Also for hanging/stretching
+
+### 3. Foam Roller ($15-25)
+- Recovery tool
+- Self-massage
+- Mobility work
+
+## Level Up ($100-300)
+
+### 4. Adjustable Dumbbells ($100-200)
+- Replace many fixed dumbbells
+- Space efficient
+- Essential for progressive overload
+
+### 5. Kettlebell ($30-60)
+- One 25-35lb covers many exercises
+- Swings, goblet squats, carries
+
+### 6. Yoga Mat ($20-40)
+- Floor exercises
+- Stretching
+- Comfort
+
+## The Full Setup ($500+)
+
+- Barbell and plates
+- Squat rack
+- Adjustable bench
+- Cable system
+
+**But you can get amazing results with just the essentials.**
+
+## What You DON'T Need
+
+- Most machines
+- Lots of space
+- Expensive equipment
+- Everything at once
+
+## The Bottom Line
+
+Start with:
+1. **Resistance bands** — Versatile and cheap
+2. **Pull-up bar** — Upper body foundation
+3. **Your body** — Bodyweight is enough to start
+
+Add equipment as you progress.
+
+---
+
+*Foundational Rehab supports home-based training.*
+    \`
+  },
+  'exercise-mistakes-beginners': {
+    title: 'Exercise Mistakes Beginners Make (And How to Avoid Them)',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: \`
+## Common Beginner Mistakes
+
+### 1. Too Much Too Soon
+**The mistake:** Going all-out from day one
+**Why it's bad:** Excessive soreness, injury, burnout
+**The fix:** Start at 50% of what you think you can do
+
+### 2. No Plan
+**The mistake:** Random workouts
+**Why it's bad:** No progressive overload, no results
+**The fix:** Follow a simple program
+
+### 3. Skipping Warm-Up
+**The mistake:** Jumping straight into exercise
+**Why it's bad:** Injury risk, poor performance
+**The fix:** 5-10 minutes of dynamic warm-up
+
+### 4. Ego Lifting
+**The mistake:** Using weights too heavy for good form
+**Why it's bad:** Injury, wrong muscles work
+**The fix:** Use weights you can control
+
+### 5. Ignoring Form
+**The mistake:** Just moving weight, any way possible
+**Why it's bad:** Injury, poor muscle development
+**The fix:** Learn proper form first, then add weight
+
+### 6. Only Doing Cardio
+**The mistake:** Avoiding strength training
+**Why it's bad:** Missing huge benefits
+**The fix:** Include strength 2-3x weekly
+
+### 7. Expecting Fast Results
+**The mistake:** Wanting visible changes in weeks
+**Why it's bad:** Disappointment, quitting
+**The fix:** Think months, not weeks
+
+### 8. Comparing to Others
+**The mistake:** Measuring against experienced people
+**Why it's bad:** Discouragement
+**The fix:** Compare to yesterday's you only
+
+### 9. Skipping Rest Days
+**The mistake:** Training every day, hard
+**Why it's bad:** Overtraining, no adaptation
+**The fix:** 1-2 rest days minimum per week
+
+### 10. Not Eating Enough Protein
+**The mistake:** Training without nutrition support
+**Why it's bad:** Limited results
+**The fix:** 0.7-1g protein per pound bodyweight
+
+## The Bottom Line
+
+Avoid these mistakes:
+1. **Start slow** — Build up over weeks
+2. **Follow a plan** — Structure works
+3. **Learn form** — Before adding weight
+4. **Be patient** — Results take time
+5. **Rest properly** — Recovery is training
+
+---
+
+*Foundational Rehab helps beginners start right.*
+    \`
+  },
+  'workout-motivation': {
+    title: 'Workout Motivation: How to Stay Consistent When You Don\\'t Feel Like It',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Motivation Is Unreliable
+
+Motivation comes and goes. You can't depend on it.
+
+**What works instead:** Systems, habits, discipline.
+
+## Strategies That Work
+
+### 1. Make It Easy
+- Lay out workout clothes the night before
+- Have equipment ready
+- Remove friction
+
+### 2. Schedule It
+- Same time every day
+- It's an appointment, not optional
+- Non-negotiable
+
+### 3. Start Small
+- Commit to 10 minutes
+- Often leads to more
+- "Just put on workout clothes"
+
+### 4. Never Miss Twice
+- One missed day is fine
+- Two starts a pattern
+- Get back on track immediately
+
+### 5. Find Your Why
+- Why do you want to exercise?
+- Health? Energy? Longevity?
+- Remember it on hard days
+
+### 6. Track Progress
+- Log workouts
+- See the streak
+- Don't want to break it
+
+### 7. Accountability
+- Workout partner
+- Tell someone your goals
+- Social commitment
+
+## On Days You Really Don't Want To
+
+1. **Commit to 10 minutes** — Just start
+2. **Lower the bar** — Light workout counts
+3. **Remember your why** — Why you started
+4. **Do something** — Anything is better than nothing
+
+## When to Actually Rest
+
+Skip the workout if:
+- You're sick
+- Injured
+- Severely sleep-deprived
+- Signs of overtraining
+
+**Feeling lazy isn't on the list.**
+
+## The Bottom Line
+
+Staying consistent:
+1. **Don't rely on motivation** — Use systems
+2. **Make it easy** — Remove friction
+3. **Start small** — 10 minutes counts
+4. **Never miss twice** — Protect the habit
+5. **Remember why** — Your deeper reasons
+
+---
+
+*Foundational Rehab supports sustainable habits.*
+    \`
+  },
+  'stretching-before-bed': {
+    title: 'Stretching Before Bed: A Relaxing Nighttime Routine',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: \`
+## Why Stretch Before Bed?
+
+Bedtime stretching:
+- Releases muscle tension
+- Activates relaxation response
+- Improves sleep quality
+- Reduces next-morning stiffness
+
+## The 5-Minute Routine
+
+### 1. Seated Forward Fold (45 sec)
+- Legs extended
+- Fold forward gently
+- Breathe deeply
+
+### 2. Supine Figure 4 (45 sec each)
+- Lying on back
+- Ankle over knee
+- Pull toward chest
+
+### 3. Supine Twist (45 sec each)
+- Knees to one side
+- Arms out
+- Head opposite
+
+### 4. Knee-to-Chest (45 sec)
+- Both knees to chest
+- Gentle rock side to side
+
+### 5. Child's Pose (60 sec)
+- Knees wide, sit back
+- Arms extended
+- Relax and breathe
+
+## The 10-Minute Routine
+
+Add to 5-minute routine:
+- Neck stretches (30 sec each side)
+- Shoulder stretch (30 sec each)
+- Cat-cow (10 cycles)
+- Legs up wall (2 min)
+
+## Tips for Better Sleep
+
+- Dim lights before stretching
+- No screens during routine
+- Cool, dark room
+- Consistent bedtime
+- Deep, slow breathing
+
+## Keep It Gentle
+
+Bedtime stretching should be:
+- Relaxing, not intense
+- Calming, not stimulating
+- Gentle holds, no forcing
+
+## The Bottom Line
+
+Bedtime stretching:
+1. **Promotes relaxation** — Signals sleep time
+2. **Should be gentle** — Not a workout
+3. **Takes 5-10 minutes** — Small investment
+4. **Improves sleep** — Better quality rest
+
+---
+
+*Foundational Rehab includes sleep and recovery support.*
+    \`
   }
 };
 

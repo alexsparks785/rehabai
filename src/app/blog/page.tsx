@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'home-gym-essentials',
+    title: 'Home Gym Essentials: What You Actually Need',
+    excerpt: 'You don\\'t need much. Bands, pull-up bar, and your body can get you far.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-mistakes-beginners',
+    title: 'Exercise Mistakes Beginners Make (And How to Avoid Them)',
+    excerpt: 'Too much too soon, no plan, skipping warm-up. Here are the top 10 mistakes.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'workout-motivation',
+    title: 'Workout Motivation: How to Stay Consistent When You Don\\'t Feel Like It',
+    excerpt: 'Motivation is unreliable. Here\\'s what actually works for consistency.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'stretching-before-bed',
+    title: 'Stretching Before Bed: A Relaxing Nighttime Routine',
+    excerpt: 'A gentle 5-10 minute routine to improve sleep and reduce stiffness.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
     slug: 'squat-form-guide',
     title: 'Squat Form Guide: How to Squat Correctly',
     excerpt: 'Knees caving? Back rounding? Master proper squat technique.',
