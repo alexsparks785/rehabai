@@ -95143,6 +95143,774 @@ How often to stretch:
 
 *Foundational Rehab recommends daily mobility work.*
     \`
+  },
+  'golf-fitness-exercises': {
+    title: 'Golf Fitness: Exercises for Better Performance and Injury Prevention',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: \`
+## Why Golf Fitness Matters
+
+Golf seems low-intensity, but the swing demands:
+- Explosive rotational power
+- Hip and thoracic mobility
+- Single-leg stability
+- Core strength and control
+- Shoulder flexibility
+
+Poor fitness leads to compensations, inconsistency, and injuries (back pain is extremely common in golfers).
+
+## Common Golf Injuries
+
+### Lower Back Pain
+- Most common golf injury (up to 35% of golfers)
+- Caused by repetitive rotation under load
+- Worse with poor hip mobility
+
+### Elbow Issues
+- Golfer's elbow (medial) and tennis elbow (lateral)
+- From grip forces and impact
+
+### Shoulder Problems
+- Rotator cuff issues
+- Lead shoulder impingement
+
+### Hip Pain
+- FAI symptoms from repeated rotation
+- Hip flexor strains
+
+## Key Mobility for Golf
+
+### Thoracic Rotation
+The backswing requires significant T-spine rotation. Limited rotation means the lower back compensates.
+
+**Exercise: Seated Thoracic Rotation**
+- Sit cross-legged or on a chair
+- Hands behind head
+- Rotate upper body to each side
+- Keep pelvis stable
+- Hold 2-3 seconds each direction
+- 10 reps per side
+
+**Exercise: Open Books**
+- Side-lying, knees stacked
+- Top arm reaches overhead and behind
+- Follow hand with eyes
+- Feel thoracic rotation
+- 8-10 reps per side
+
+### Hip Internal Rotation
+Critical for the trail hip in the backswing and lead hip in follow-through.
+
+**Exercise: 90/90 Hip Switches**
+- Sit with both legs at 90° angles
+- Rotate knees side to side
+- Keep torso tall
+- Control the movement
+- 10-15 reps
+
+**Exercise: Half-Kneeling Hip IR Stretch**
+- Half-kneeling position
+- Rotate back knee inward toward front foot
+- Hold 30 seconds per side
+
+### Shoulder Mobility
+
+**Exercise: Wall Slides**
+- Back flat against wall
+- Arms in "goalpost" position
+- Slide arms up and down
+- Keep arms touching wall
+- 10-15 reps
+
+## Strength for Golf
+
+### Rotational Power
+
+**Exercise: Medicine Ball Rotational Throws**
+- Stand perpendicular to wall
+- Hold med ball at hip
+- Rotate explosively, throw into wall
+- Catch and repeat
+- 8-10 reps per side
+
+**Exercise: Cable Woodchops**
+- High to low and low to high variations
+- Control the rotation
+- Engage core throughout
+- 10-12 reps per side
+
+### Core Stability
+
+**Exercise: Pallof Press**
+- Cable or band at chest height
+- Press arms straight out
+- Resist rotation
+- Hold 3-5 seconds
+- 10 reps per side
+
+**Exercise: Dead Bug**
+- Back flat on floor
+- Opposite arm and leg extend
+- Keep lower back pressed down
+- 10 reps per side
+
+### Lower Body Power
+
+**Exercise: Lateral Lunges**
+- Step wide to the side
+- Push hips back
+- Keep trailing leg straight
+- Push back to start
+- 8-10 per side
+
+**Exercise: Single-Leg Romanian Deadlift**
+- Builds hip stability and posterior chain strength
+- Critical for maintaining balance through swing
+- 8-10 reps per leg
+
+## Pre-Round Warm-Up
+
+Before playing, do this 5-minute routine:
+
+1. **Arm Circles** — 10 each direction
+2. **Hip Circles** — 10 each direction
+3. **Torso Rotations** — 20 total
+4. **Club Behind Back Twists** — 10 each side
+5. **Bodyweight Squats** — 10 reps
+6. **Walking Lunges with Rotation** — 5 each side
+7. **Practice Swings** — Start at 50%, build to full speed
+
+## Sample Golf Fitness Program
+
+### 2x Per Week (Off-Season)
+
+**Day 1: Mobility + Rotation**
+- Thoracic rotation series: 5 min
+- Hip mobility work: 5 min
+- Med ball rotational throws: 3 x 8
+- Cable woodchops: 3 x 10
+- Pallof press: 3 x 10
+
+**Day 2: Strength + Power**
+- Goblet squats: 3 x 10
+- Single-leg RDL: 3 x 8
+- Rows: 3 x 10
+- Push-ups: 3 x 10-15
+- Dead bugs: 3 x 10
+
+### In-Season Maintenance
+- 1 full workout per week
+- Pre-round warm-up before every round
+- Brief mobility daily (5 min)
+
+## The Bottom Line
+
+Golf fitness priorities:
+1. **Thoracic mobility** — Essential for the swing
+2. **Hip mobility** — Especially internal rotation
+3. **Rotational power** — Med ball throws, cables
+4. **Core stability** — Resist rotation, not create it
+5. **Warm up before playing** — Always
+
+---
+
+*Foundational Rehab offers golf-specific mobility programs.*
+    \`
+  },
+  'exercises-for-fibromyalgia': {
+    title: 'Exercises for Fibromyalgia: Managing Chronic Pain Through Movement',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: \`
+## Understanding Fibromyalgia and Exercise
+
+Fibromyalgia causes widespread pain, fatigue, and sensitivity. Exercise might seem counterintuitive, but it's actually one of the most effective treatments.
+
+**Why exercise helps:**
+- Reduces pain sensitivity over time
+- Improves sleep quality
+- Decreases fatigue (paradoxically)
+- Releases endorphins
+- Improves mood and reduces depression
+- Increases functional capacity
+
+The key is starting extremely slowly and progressing gradually.
+
+## The Exercise Paradox
+
+People with fibromyalgia often experience:
+- Post-exertional malaise (feeling worse after activity)
+- Boom-bust cycles (overdo on good days, crash)
+- Fear of movement (kinesiophobia)
+- Frustration with limitations
+
+**The solution:** Start below your capacity and increase very slowly. The goal is consistency, not intensity.
+
+## Best Types of Exercise
+
+### Low-Impact Aerobic Exercise
+
+**Walking**
+- Start with 5-10 minutes
+- Flat surfaces preferred
+- Progress by 1-2 minutes per week
+- Goal: 20-30 minutes most days
+
+**Water Exercise**
+- Pool temperature should be warm (82-86°F)
+- Reduces joint stress
+- Water provides gentle resistance
+- Excellent for those who struggle on land
+
+**Cycling**
+- Stationary bike preferred (no balance demands)
+- Very low resistance initially
+- 10-15 minutes to start
+- Easy on joints
+
+### Gentle Strength Training
+
+Strength training is crucial but must start light:
+
+**Resistance Band Work**
+- Lightest resistance band available
+- 8-10 reps feels easy
+- Progress very slowly (weeks between increases)
+
+**Bodyweight Exercises**
+- Modified versions (wall push-ups, partial squats)
+- Focus on form over reps
+- Never work to fatigue
+
+### Flexibility and Relaxation
+
+**Gentle Stretching**
+- Held for 30-60 seconds
+- Never painful
+- Focus on breath
+- Morning or evening routine
+
+**Tai Chi**
+- Slow, flowing movements
+- Excellent research support for fibromyalgia
+- Combines movement, mindfulness, and relaxation
+
+**Gentle Yoga**
+- Restorative or gentle styles
+- Avoid hot yoga and intense vinyasa
+- Props for support
+
+## Starting an Exercise Program
+
+### Week 1-2: Baseline
+- Walk 5-10 minutes, 3x per week
+- Gentle stretching 5 minutes daily
+- Note how you feel 24-48 hours later
+
+### Week 3-4: Assess
+- If tolerating well, add 2-3 minutes to walks
+- If not, stay at current level or reduce
+- No rush — this is a long-term process
+
+### Month 2-3: Gradual Progression
+- Slowly increase duration
+- Consider adding a second type of exercise
+- Keep intensity LOW
+
+### Month 4+: Ongoing
+- Continue gradual progression
+- May take 6-12 months to reach "normal" activity levels
+- That's okay and expected
+
+## Sample Weekly Routine
+
+### Gentle Start (First Month)
+- Monday: 10-min walk + 5-min stretching
+- Wednesday: 10-min walk + 5-min stretching
+- Friday: 10-min walk + 5-min stretching
+
+### Building (Month 2-3)
+- Monday: 15-min walk
+- Tuesday: 5-min stretching
+- Wednesday: Water exercise or gentle yoga class
+- Thursday: Rest
+- Friday: 15-min walk
+- Saturday: Light resistance band (10 min)
+- Sunday: Rest or gentle stretching
+
+## Managing Flares
+
+During a flare:
+- Reduce intensity significantly
+- Gentle movement is still helpful
+- Water walking or gentle stretching
+- Don't stop completely if possible
+- Return to normal level gradually
+
+## Red Flags
+
+**Stop and rest if:**
+- Sharp, new pain
+- Dizziness or lightheadedness
+- Severe fatigue during exercise
+- Symptoms significantly worse than baseline
+
+**Modify your program if:**
+- Consistent post-exercise crashes
+- Unable to recover between sessions
+- Symptoms trending worse over weeks
+
+## Tips for Success
+
+### Pacing
+- Never exercise on your worst days
+- Don't overdo on good days
+- Aim for consistency, not peak performance
+
+### Environment
+- Warm environments preferred
+- Comfortable clothing
+- Supportive shoes
+
+### Recovery
+- Sleep is critical
+- Stress management matters
+- Listen to your body
+
+### Mindset
+- Progress is measured in months, not days
+- Any movement counts
+- Setbacks are normal and temporary
+
+## The Bottom Line
+
+Fibromyalgia and exercise:
+1. **Exercise helps** — One of the most effective treatments
+2. **Start extremely low** — Below what you think you can do
+3. **Progress slowly** — Weeks between increases
+4. **Low-impact preferred** — Walking, water, cycling
+5. **Consistency over intensity** — Show up, don't burn out
+
+---
+
+*Foundational Rehab offers gentle, progressive programs.*
+    \`
+  },
+  'acl-injury-prevention': {
+    title: 'ACL Injury Prevention: Exercises to Protect Your Knees',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '6 min read',
+    content: \`
+## Understanding ACL Injuries
+
+The anterior cruciate ligament (ACL) is one of the major stabilizing ligaments of the knee. ACL tears are devastating injuries that:
+- Often require surgery
+- Take 9-12 months to recover
+- Increase risk of knee arthritis
+- Have significant re-injury rates (15-25%)
+
+**Good news:** 50-70% of ACL injuries are preventable with proper training.
+
+## Who Is at Risk?
+
+### Sports with High ACL Risk
+- Soccer
+- Basketball
+- Volleyball
+- Football
+- Skiing
+- Lacrosse
+- Handball
+
+### Risk Factors
+- Female athletes (3-6x higher risk than males)
+- Previous ACL injury
+- Poor neuromuscular control
+- Knee valgus (knees caving in)
+- Weak hamstrings relative to quads
+- Fatigue
+- Poor landing mechanics
+
+## How ACL Injuries Happen
+
+### Non-Contact Injuries (70%)
+Most ACL tears happen without contact:
+- Landing from a jump
+- Cutting or pivoting
+- Sudden deceleration
+- Awkward landing position
+
+**Common position at injury:**
+- Knee relatively straight
+- Knee collapsing inward (valgus)
+- Foot planted
+- Body rotating over planted foot
+
+### Contact Injuries (30%)
+Direct blow to the knee, often from the side.
+
+## Prevention Program Components
+
+### 1. Neuromuscular Training
+
+**Single-Leg Balance**
+- Stand on one leg, 30 seconds
+- Add eyes closed
+- Add arm movements
+- Add unstable surface (foam pad)
+
+**Balance with Perturbation**
+- Stand on one leg
+- Partner gently pushes you
+- React to maintain balance
+- Builds reactive stability
+
+### 2. Plyometric Training (Landing Mechanics)
+
+**Box Drops with Stick**
+- Step off 12-inch box
+- Land softly with bent knees
+- Knees track over toes (not caving in)
+- Stick the landing (no wobble)
+
+**Broad Jump to Stick**
+- Jump forward
+- Land on both feet
+- Absorb through hips and knees
+- Knees aligned over feet
+
+**Single-Leg Hop and Hold**
+- Hop forward on one leg
+- Land softly
+- Control the landing for 3 seconds
+- Progress to lateral and diagonal hops
+
+### 3. Strength Training
+
+**Hamstring Focus**
+Hamstrings are ACL's "helper muscle" — they resist forward tibial translation.
+
+- Nordic hamstring curls (gold standard)
+- Romanian deadlifts
+- Hamstring curls
+- Single-leg deadlifts
+
+**Glute and Hip Focus**
+Strong hips prevent knee valgus.
+
+- Hip thrust
+- Clamshells with band
+- Lateral band walks
+- Single-leg hip hinges
+
+**Quadriceps (Balanced)**
+- Squats (proper form)
+- Lunges
+- Step-ups
+- Leg press
+
+### 4. Cutting and Pivoting Technique
+
+**Deceleration Training**
+- Forward running to controlled stop
+- Learn to "sink" into stop (bent hips and knees)
+- Practice slowing over several steps
+
+**Cutting Technique**
+- Plant foot should be outside body
+- Knee bent during cut
+- Push off from whole foot
+- Avoid straight-leg planting
+
+## FIFA 11+ Program
+
+The FIFA 11+ is the most researched ACL prevention program. Originally designed for soccer but applicable to all sports.
+
+**Structure:**
+- Running exercises (8 min)
+- Strength and plyometrics (10 min)
+- Advanced running (2 min)
+
+**Key exercises include:**
+- Running with hip and shoulder contact
+- Single-leg balance
+- Nordic hamstring curls
+- Jump and landing drills
+- Running with change of direction
+
+**Evidence:** Reduces ACL injuries by 50-70% when performed 2-3x/week.
+
+## Sample ACL Prevention Routine
+
+### Warm-Up Component (Before Practice/Games)
+
+1. Jogging: 2 min
+2. Lateral shuffles: 30 sec each direction
+3. Backward running: 1 min
+4. Single-leg balance: 30 sec each leg
+5. Forward lunges: 10 steps
+6. Lateral lunges: 5 each direction
+7. Jump squats (controlled landing): 8 reps
+8. Vertical jumps with stick landing: 5 reps
+
+### Strength Component (2x/Week)
+
+1. Single-leg Romanian deadlift: 3 x 8 each
+2. Goblet squats: 3 x 10
+3. Lateral band walks: 3 x 15 each direction
+4. Nordic hamstring curls: 3 x 5-8
+5. Single-leg hop and hold: 3 x 5 each
+6. Plank: 3 x 30 sec
+
+## Key Landing Cues
+
+When landing from a jump:
+- **Soft knees** — Land with bent knees
+- **Quiet landing** — Less sound = better absorption
+- **Knees over toes** — Not collapsing inward
+- **Hips back** — Absorb with hips, not just knees
+- **Trunk control** — Stay balanced, not leaning
+
+## When to Start Prevention
+
+- Youth athletes: Begin around age 12-14
+- Before the sports season starts
+- Continue throughout the season
+- Year-round for high-risk athletes
+
+## The Bottom Line
+
+ACL prevention essentials:
+1. **Hamstring strength** — Nordic curls are king
+2. **Hip strength** — Prevents knee valgus
+3. **Landing mechanics** — Soft, controlled, aligned
+4. **Neuromuscular training** — Balance and reaction
+5. **FIFA 11+ works** — 50-70% injury reduction
+
+---
+
+*Foundational Rehab offers sport-specific injury prevention programs.*
+    \`
+  },
+  'massage-gun-guide': {
+    title: 'Massage Gun Guide: How to Use a Percussion Massager Effectively',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: \`
+## What Is a Massage Gun?
+
+Massage guns (percussion massagers) deliver rapid pulses of pressure to muscle tissue. They've become extremely popular for:
+- Post-workout recovery
+- Muscle soreness relief
+- Warm-up activation
+- Reducing muscle tension
+
+## How They Work
+
+**Percussive therapy:**
+- Rapid, repetitive pressure
+- Penetrates deeper than foam rolling
+- Stimulates blood flow
+- Reduces muscle tone/tension
+- May affect pain perception
+
+The "gun" delivers rapid impacts at various speeds and amplitudes, targeting specific areas of muscle tissue.
+
+## Benefits of Massage Guns
+
+### Supported by Research
+- Increases short-term range of motion
+- Reduces delayed onset muscle soreness (DOMS)
+- Decreases muscle stiffness
+- May improve warm-up effectiveness
+
+### Anecdotal/Theoretical
+- Faster recovery between workouts
+- Reduced pain
+- Improved relaxation
+- Convenient compared to manual massage
+
+## How to Use a Massage Gun
+
+### Basic Technique
+
+1. **Turn on before contact** — Never press into tissue then turn on
+2. **Glide slowly** — Move at about 1 inch per second
+3. **Let the gun do the work** — Light pressure, don't press hard
+4. **Follow muscle direction** — Move along the muscle fibers
+5. **Spend 30-120 seconds per muscle** — More isn't necessarily better
+
+### Pressure Guidelines
+
+- **Light pressure:** Just touching the skin
+- **Moderate pressure:** Slight compression into muscle
+- **Heavy pressure:** Only for dense muscle tissue, experienced users
+
+**Start light.** You can always add pressure, but too much causes guarding and tension.
+
+### Speed Settings
+
+- **Low speed:** Warm-up, sensitive areas, relaxation
+- **Medium speed:** General use, most applications
+- **High speed:** Dense muscle tissue (glutes, quads), experienced users
+
+## Body Area Guide
+
+### Safe and Effective Areas
+
+**Quadriceps**
+- Work along the length of the thigh
+- Avoid directly over the kneecap
+- 60-90 seconds per leg
+
+**Hamstrings**
+- Prone or seated position
+- Work from hip to just above knee
+- 60-90 seconds per leg
+
+**Calves**
+- Avoid the Achilles tendon
+- Work the meaty portion of the muscle
+- 30-60 seconds per calf
+
+**Glutes**
+- Large muscle tolerates more pressure
+- Work in circular patterns
+- 60-90 seconds per side
+
+**Upper Back**
+- Work along muscles beside spine (not ON spine)
+- Rhomboids and upper traps
+- 30-60 seconds per area
+
+**Shoulders**
+- Deltoids and upper traps
+- Light to moderate pressure
+- 30-45 seconds per area
+
+**Forearms**
+- Light pressure
+- Good for desk workers
+- 30 seconds per forearm
+
+### Areas to Avoid
+
+**Never use massage gun on:**
+- Spine directly (bony prominences)
+- Front of neck
+- Armpits (nerves and blood vessels)
+- Inner elbow (nerves)
+- Back of knee (nerves and vessels)
+- Groin
+- Bruises, wounds, or infections
+- Varicose veins
+- Over implants or medical devices
+
+**Use caution:**
+- IT band (may be too intense)
+- Low back (lumbar spine is close)
+- Shins (bone is superficial)
+
+## When to Use
+
+### Before Workout (Activation)
+- Lower speed, shorter duration
+- 20-30 seconds per muscle
+- Goal: Increase blood flow, wake up muscles
+- Not a replacement for dynamic warm-up
+
+### After Workout (Recovery)
+- Any speed based on tolerance
+- 60-120 seconds per muscle
+- Goal: Reduce tension, promote recovery
+
+### Before Bed (Relaxation)
+- Low speed
+- Focus on tension areas (neck, traps)
+- Promotes parasympathetic response
+
+### For Soreness (DOMS)
+- Low to medium speed
+- Gentle pressure
+- May reduce soreness perception
+
+## Common Mistakes
+
+### Too Much Pressure
+- The gun provides the force — you don't need to press hard
+- Light touch is sufficient
+- Pressing hard can cause bruising
+
+### Too Long in One Spot
+- Staying in one spot too long can irritate tissue
+- Keep moving
+- 2-3 passes over an area, then move on
+
+### Using on Bone
+- Avoid bony areas
+- Uncomfortable and potentially harmful
+- Stay on soft tissue
+
+### Ignoring Pain
+- Discomfort is okay; pain is not
+- If it hurts, reduce pressure or avoid the area
+
+## Massage Gun vs Other Tools
+
+### vs Foam Rolling
+- Massage gun: More targeted, faster
+- Foam roller: Covers larger areas, more pressure options
+- Both useful; not either/or
+
+### vs Stretching
+- Different mechanisms
+- Massage gun: Decreases muscle tone
+- Stretching: Increases range of motion
+- Use both
+
+### vs Professional Massage
+- Massage gun: Convenient, daily use
+- Professional: More comprehensive, skilled assessment
+- Massage gun doesn't replace hands-on therapy
+
+## Choosing a Massage Gun
+
+**Key features:**
+- Multiple speed settings
+- At least 2-3 attachment heads
+- Battery life (2+ hours preferred)
+- Quiet operation
+- Comfortable grip
+
+**Don't need:**
+- 30+ speed settings
+- Tons of attachments
+- Expensive brand names
+
+Mid-range options ($100-200) work well for most people.
+
+## The Bottom Line
+
+Massage gun essentials:
+1. **Light pressure** — Let the gun do the work
+2. **Keep moving** — Don't stay in one spot
+3. **30-120 seconds per muscle** — More isn't better
+4. **Avoid bones and sensitive areas** — Stay on muscle
+5. **One tool of many** — Doesn't replace other recovery methods
+
+---
+
+*Foundational Rehab incorporates self-myofascial release into recovery protocols.*
+    \`
   }
 };
 

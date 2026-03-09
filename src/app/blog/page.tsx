@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'golf-fitness-exercises',
+    title: 'Golf Fitness: Exercises for Better Performance and Injury Prevention',
+    excerpt: 'Improve your golf game and prevent back pain with these targeted exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-fibromyalgia',
+    title: 'Exercises for Fibromyalgia: Managing Chronic Pain Through Movement',
+    excerpt: 'Gentle, progressive exercise strategies for fibromyalgia management.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'acl-injury-prevention',
+    title: 'ACL Injury Prevention: Exercises to Protect Your Knees',
+    excerpt: 'Reduce your ACL injury risk by 50-70% with these proven exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'massage-gun-guide',
+    title: 'Massage Gun Guide: How to Use a Percussion Massager Effectively',
+    excerpt: 'Get the most from your massage gun with proper technique and targeting.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
+  },
+  {
     slug: 'full-body-stretch-routine',
     title: 'Full Body Stretch Routine: Head to Toe Flexibility',
     excerpt: 'Complete stretching routine covering every major muscle group in 20 minutes.',
