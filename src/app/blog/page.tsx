@@ -16,6 +16,24 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'skiing-injury-prevention',
+    title: 'Skiing Injury Prevention: Prepare Your Body for the Slopes',
+    excerpt: 'Pre-season conditioning and ACL prevention for skiers.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'martial-arts-conditioning',
+    title: 'Martial Arts Conditioning: Build Strength, Speed, and Flexibility',
+    excerpt: 'Strength, mobility, and conditioning for BJJ, MMA, and striking arts.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '5 min read'
+  },
+  {
     slug: 'overhead-press-form-guide',
     title: 'Overhead Press Form Guide: Build Strong Shoulders Safely',
     excerpt: 'Master the overhead press with proper technique and mobility requirements.',

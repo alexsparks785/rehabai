@@ -99192,6 +99192,234 @@ Exercise after heart attack:
 
 *Foundational Rehab works alongside cardiac rehabilitation programs to support recovery.*
     `
+  },
+  'skiing-injury-prevention': {
+    title: 'Skiing Injury Prevention: Prepare Your Body for the Slopes',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '5 min read',
+    content: `
+## Skiing Demands
+
+Skiing requires:
+- Quad and glute endurance (sustained bent-knee position)
+- Knee stability (twisting forces)
+- Core strength (balance and control)
+- Hip mobility (angulation)
+- Reaction time (variable terrain)
+
+Common injuries: ACL tears, MCL sprains, shoulder dislocations, and thumb injuries.
+
+## Pre-Season Conditioning
+
+Start 6-8 weeks before ski season.
+
+### Leg Strength
+
+**Wall Sits**
+- Back against wall, thighs parallel
+- Build to 60-90 seconds
+- Mimics ski position
+
+**Squats**
+- Bodyweight to weighted
+- 3 x 15-20 reps
+- Quad and glute endurance
+
+**Lateral Lunges**
+- Side-to-side movement
+- 3 x 10 each side
+- Mimics weight shifts
+
+**Single-Leg Squats**
+- Balance and single-leg strength
+- Use support if needed
+- 3 x 8 each leg
+
+### Core Stability
+
+**Plank**
+- Build to 60 seconds
+- Side planks too
+- Essential for balance
+
+**Russian Twists**
+- Rotational control
+- 3 x 15 each side
+
+### Balance Training
+
+**Single-Leg Balance**
+- 30 seconds each leg
+- Add unstable surface
+- Eyes closed progression
+
+**Bosu Ball Squats**
+- Challenges stability
+- Mimics variable terrain
+
+## ACL Prevention
+
+ACL tears are skiing's most feared injury.
+
+**Key Exercises:**
+- Nordic curls (hamstring strength)
+- Single-leg deadlifts
+- Lateral band walks
+- Jump landing practice
+
+**Technique Tips:**
+- Don't straighten legs when falling
+- Fall to the side, not backward
+- Release bindings properly set
+
+## Day-of Warm-Up
+
+Before first run:
+- Light jog or jumping jacks: 3 min
+- Leg swings: 10 each direction
+- Bodyweight squats: 15 reps
+- Lateral shuffles: 30 seconds
+- Easy first run to warm up
+
+## The Bottom Line
+
+1. **Start conditioning early** — 6-8 weeks pre-season
+2. **Quad endurance** — Wall sits, squats
+3. **Balance training** — Single-leg work
+4. **ACL prevention** — Hamstring and hip strength
+5. **Warm up on the mountain** — Don't go hard on first run
+
+---
+
+*Foundational Rehab offers ski-specific conditioning programs.*
+    `
+  },
+  'martial-arts-conditioning': {
+    title: 'Martial Arts Conditioning: Build Strength, Speed, and Flexibility',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '5 min read',
+    content: `
+## Martial Arts Demands
+
+Whether you train BJJ, Muay Thai, karate, or MMA, you need:
+- Explosive power (strikes, takedowns)
+- Grip strength (grappling)
+- Hip mobility (kicks, guard)
+- Core stability (rotational power)
+- Cardio endurance (rounds)
+
+## Strength Training
+
+### Hip and Leg Power
+
+**Squats and Deadlifts**
+- Foundation for all martial arts
+- 3-4 x 5-8 reps
+
+**Kettlebell Swings**
+- Hip explosiveness
+- 3 x 15-20 reps
+
+**Box Jumps**
+- Explosive power
+- 3 x 5-8 reps
+
+### Upper Body
+
+**Pull-Ups/Chin-Ups**
+- Grip and pulling strength
+- Essential for grappling
+- Build to 3 x 10+
+
+**Push-Ups**
+- Pushing power
+- Diamond, wide, explosive variations
+- 3 x 15-20
+
+**Rows**
+- Back strength for posture and pulling
+- 3 x 10-12
+
+### Core
+
+**Anti-Rotation Work**
+- Pallof press
+- Resists rotational forces
+- 3 x 10 each side
+
+**Medicine Ball Throws**
+- Rotational power for strikes
+- 3 x 8 each side
+
+**Hanging Leg Raises**
+- Guard pulling strength (BJJ)
+- 3 x 10-15
+
+## Flexibility for Martial Arts
+
+### Hip Mobility (Critical)
+
+**90/90 Stretch**
+- Internal and external rotation
+- Hold 60 seconds each position
+
+**Pigeon Pose**
+- Deep hip opener
+- Hold 60-90 seconds each side
+
+**Frog Stretch**
+- Adductor flexibility
+- Hold 60 seconds
+
+### Hamstrings (For Kicks)
+
+**Active Hamstring Stretches**
+- Straight leg raises
+- PNF stretching
+
+## Conditioning
+
+### Energy System Training
+
+**Rounds**
+- Match your sport's round length
+- Work:rest ratios (e.g., 3:1 for MMA)
+
+**Interval Training**
+- Sprint intervals
+- Heavy bag intervals
+- Burpee circuits
+
+## Injury Prevention
+
+**Common Issues:**
+- Knee injuries (ACL, meniscus)
+- Shoulder injuries (rotator cuff)
+- Neck strain
+- Finger/hand injuries
+
+**Prevention:**
+- Proper warm-up before training
+- Strength training for weak areas
+- Tap early (ego injuries are real)
+- Don't train through pain
+
+## The Bottom Line
+
+1. **Strength is your base** — Squats, deadlifts, pull-ups
+2. **Hip mobility is essential** — Daily stretching
+3. **Core = rotational power** — Anti-rotation and throws
+4. **Condition for your sport** — Match round structure
+5. **Train smart** — Recovery matters
+
+---
+
+*Foundational Rehab supports martial artists with strength and mobility programs.*
+    `
   }
 };
 
