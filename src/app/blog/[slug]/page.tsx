@@ -96736,6 +96736,878 @@ Climbing fitness priorities:
 
 *Foundational Rehab offers climbing-specific training and injury prevention guidance.*
     `
+  },
+  'swimming-injury-prevention': {
+    title: 'Swimming Injury Prevention: Protect Your Shoulders and Stay in the Pool',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Swimming Injury Profile
+
+Swimming is low-impact but high-repetition. A competitive swimmer may perform 1-2 million shoulder rotations per year. Common injuries:
+
+- **Swimmer's shoulder** — Rotator cuff impingement/tendinopathy
+- **Neck pain** — From breathing mechanics
+- **Lower back pain** — From body rotation and dolphin kick
+- **Knee pain** — Breaststroker's knee
+- **Shoulder instability** — From hypermobility (common in swimmers)
+
+## Swimmer's Shoulder
+
+### What It Is
+Impingement and rotator cuff overload from repetitive overhead motion. The supraspinatus tendon gets compressed during the catch and pull phases.
+
+### Risk Factors
+- High training volume
+- Poor technique (thumb-first entry, crossing midline)
+- Weak rotator cuff and scapular muscles
+- Tight pectorals and lats
+- Hypermobility
+
+### Prevention Exercises
+
+**External Rotation with Band**
+- Elbow at side, bent 90°
+- Rotate forearm outward against band
+- Control the return
+- 3 x 15 each side
+
+**Prone Y-T-W Raises**
+- Lie face down on bench or floor
+- Raise arms in Y, T, then W positions
+- Squeeze shoulder blades
+- 2 x 10 each position
+
+**Serratus Punches**
+- Push-up position or standing with band
+- Push shoulder blades apart at top
+- Feel serratus engage
+- 3 x 15
+
+**Wall Slides**
+- Back and arms against wall
+- Slide arms up and down
+- Maintain wall contact
+- 3 x 15
+
+### Stretching for Swimmers
+
+**Pec Stretch**
+- Arm against doorway
+- Turn body away
+- Hold 30-60 seconds
+
+**Lat Stretch**
+- Hang from bar or doorway
+- Let body hang and stretch
+- Hold 30-60 seconds
+
+**Posterior Shoulder Stretch**
+- Cross-body arm stretch
+- Gentle pressure
+- Hold 30 seconds each
+
+## Breaststroker's Knee
+
+### The Problem
+The whip kick in breaststroke stresses the medial collateral ligament (MCL) and medial knee structures. Pain on the inner knee.
+
+### Prevention
+
+**Limit Breaststroke Volume**
+- Especially if you have symptoms
+- Mix strokes to distribute stress
+
+**Hip Adductor Strengthening**
+- Copenhagen adduction
+- Lateral lunges
+- Adductor squeezes
+
+**VMO Strengthening**
+- Terminal knee extensions
+- Step-downs
+- Single-leg squats
+
+## Lower Back Pain in Swimmers
+
+### Causes
+- Lumbar hyperextension during dolphin kick
+- Rotation during freestyle breathing
+- Weak core
+
+### Prevention
+
+**Core Stability**
+- Plank: 3 x 45-60 sec
+- Dead bug: 3 x 10 each side
+- Bird dog: 3 x 10 each side
+- Side plank: 3 x 30 sec each
+
+**Hip Flexor Stretching**
+- Kneeling hip flexor stretch
+- Couch stretch
+- Reduces pull on lumbar spine
+
+**Kick Technique**
+- Kick from hips, not lower back
+- Avoid excessive undulation
+
+## Dryland Training for Swimmers
+
+### Essential Exercises
+
+**Scapular Stability (Most Important)**
+- Y-T-W raises
+- Band pull-aparts
+- Face pulls
+- Rows
+
+**Rotator Cuff**
+- External rotation variations
+- Internal rotation
+- 90/90 rotations
+
+**Core**
+- Planks (front and side)
+- Dead bugs
+- Pallof press
+- Hollow holds
+
+**Hip and Glute**
+- Squats
+- Hip hinges
+- Single-leg work
+- Glute bridges
+
+## Pre-Swim Warm-Up
+
+**On Deck (5-10 min):**
+1. Arm circles: 20 each direction
+2. Shoulder CARS: 10 each side
+3. Band pull-aparts: 15 reps
+4. External rotation with band: 15 each
+5. Trunk rotations: 20 reps
+6. Leg swings: 10 each direction
+7. Bodyweight squats: 10 reps
+
+**In Water:**
+- Easy swimming: 200-400m
+- Gradually build intensity
+- Don't sprint when cold
+
+## Sample Dryland Program
+
+### 2-3x Per Week (15-20 min)
+
+**Shoulder Care:**
+- Band external rotation: 2 x 15
+- Y-T-W raises: 2 x 8 each
+- Band pull-aparts: 2 x 15
+
+**Core:**
+- Plank: 2 x 45 sec
+- Side plank: 2 x 30 sec each
+- Dead bug: 2 x 10 each
+
+**Lower Body:**
+- Goblet squats: 2 x 12
+- Glute bridges: 2 x 15
+- Single-leg RDL: 2 x 8 each
+
+**Mobility:**
+- Pec stretch: 30 sec each
+- Lat stretch: 30 sec each
+- Hip flexor stretch: 30 sec each
+
+## The Bottom Line
+
+Swimming injury prevention:
+1. **Shoulder strength** — Rotator cuff and scapular muscles
+2. **Volume management** — Gradual increases
+3. **Technique** — Avoid impingement positions
+4. **Core stability** — Protect the lower back
+5. **Dryland training** — Essential, not optional
+
+---
+
+*Foundational Rehab offers swimming-specific injury prevention programs.*
+    `
+  },
+  'cycling-injury-prevention': {
+    title: 'Cycling Injury Prevention: Protect Your Knees, Back, and Neck',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Cycling Injury Profile
+
+Cycling is low-impact but creates overuse issues from repetitive motion and sustained postures:
+
+- **Knee pain** — Patellofemoral pain, IT band syndrome
+- **Lower back pain** — From flexed position
+- **Neck pain** — From looking up while bent over
+- **Hand numbness** — Ulnar or median nerve compression
+- **Saddle issues** — Numbness, skin problems
+
+Most cycling injuries come from bike fit problems, not the activity itself.
+
+## Knee Pain in Cyclists
+
+### Anterior Knee Pain (Front)
+Usually patellofemoral—kneecap tracking issues.
+
+**Common Causes:**
+- Saddle too low
+- Saddle too far forward
+- High gear/low cadence grinding
+- Rapid volume increase
+
+**Fixes:**
+- Check saddle height (slight bend at bottom of pedal stroke)
+- Saddle position (knee over pedal spindle at 3 o'clock)
+- Increase cadence (aim for 80-100 rpm)
+
+### Lateral Knee Pain (Outside)
+Usually IT band related.
+
+**Common Causes:**
+- Saddle too high
+- Cleat rotation (toes pointed in)
+- Weak hip abductors
+
+**Exercises for Knee Pain Prevention:**
+
+**Quad Strengthening**
+- Wall sits: 3 x 30-45 sec
+- Step-ups: 3 x 10 each
+- Single-leg squats: 3 x 8 each
+
+**Hip Strengthening**
+- Clamshells: 3 x 15 each
+- Side-lying hip abduction: 3 x 15 each
+- Lateral band walks: 3 x 15 each direction
+
+**IT Band Care**
+- Foam rolling (gently)
+- Hip strengthening more important than rolling
+- Address root cause: hip weakness
+
+## Lower Back Pain in Cyclists
+
+### The Problem
+Prolonged flexed position with rotation (especially if asymmetric). Weak core lets spine take the stress.
+
+### Prevention
+
+**Core Strengthening**
+- Plank: 3 x 45-60 sec
+- Side plank: 3 x 30 sec each
+- Dead bug: 3 x 10 each side
+- Bird dog: 3 x 10 each side
+
+**Hip Flexor Stretching**
+Tight hip flexors worsen lumbar flexion.
+- Kneeling hip flexor stretch: 60 sec each
+- Couch stretch: 60 sec each
+
+**Glute Activation**
+Glutes should power the pedal stroke, not lower back.
+- Glute bridges: 3 x 15
+- Single-leg glute bridges: 3 x 10 each
+- Clamshells: 3 x 15 each
+
+**Bike Fit Considerations:**
+- Handlebar height (raise if back hurts)
+- Reach (shorter stem if too stretched)
+- Saddle tilt (level or slightly nose down)
+
+## Neck Pain in Cyclists
+
+### The Problem
+Looking up while spine is flexed creates cervical hyperextension. Worse on road bikes and time trial positions.
+
+### Prevention
+
+**Neck Strengthening**
+- Chin tucks: 3 x 15
+- Isometric holds (all directions): 10 sec each, 3 rounds
+- Neck flexion against resistance: 2 x 10
+
+**Upper Back Mobility**
+- Thoracic extension on foam roller
+- Cat-cow stretches
+- Thread the needle
+
+**Position Adjustments:**
+- Raise handlebars
+- Shorter stem
+- Look with eyes, not just neck
+- Change hand positions frequently
+
+## Hand Numbness
+
+### Causes
+- Pressure on ulnar nerve (pinky/ring finger numbness)
+- Pressure on median nerve (thumb/index/middle numbness)
+- Gripping too tight
+- Poor weight distribution
+
+### Prevention
+
+**Bike Adjustments:**
+- Padded gloves
+- Padded bar tape
+- Adjust hand position frequently
+- Check handlebar angle
+- Don't support too much weight on hands
+
+**Exercises:**
+- Nerve glides (median and ulnar)
+- Wrist stretches
+- Grip strengthening (squeeze ball)
+
+## Off-Bike Training for Cyclists
+
+### Why It Matters
+Cycling creates imbalances:
+- Tight hip flexors
+- Weak glutes
+- Tight chest/shoulders
+- Weak core
+
+### Essential Exercises
+
+**Hip Flexor Stretching**
+- Kneeling lunge stretch
+- Couch stretch
+
+**Glute Strengthening**
+- Hip thrusts
+- Single-leg variations
+- Step-ups
+
+**Core Work**
+- Planks
+- Dead bugs
+- Pallof press
+
+**Upper Body Balance**
+- Rows
+- Face pulls
+- Push-ups
+- External rotation
+
+## Sample Off-Bike Program
+
+### 2x Per Week (20-25 min)
+
+**Warm-Up:** 3 min easy movement
+
+**Strength:**
+- Goblet squats: 3 x 10
+- Single-leg deadlifts: 3 x 8 each
+- Hip thrusts: 3 x 12
+- Push-ups: 3 x 12
+- Rows: 3 x 12
+
+**Core:**
+- Plank: 2 x 45 sec
+- Side plank: 2 x 30 sec each
+- Dead bug: 2 x 10 each
+
+**Mobility:**
+- Hip flexor stretch: 60 sec each
+- Quad stretch: 30 sec each
+- Chest stretch: 30 sec each
+- Neck stretches: 30 sec each direction
+
+## Bike Fit Basics
+
+Most cycling injuries trace back to fit. Consider professional fitting if you have persistent issues.
+
+**Quick Checks:**
+- Saddle height: Slight knee bend at bottom
+- Saddle fore/aft: Knee over pedal at 3 o'clock
+- Reach: Comfortable, not stretched
+- Handlebar height: Higher = less back/neck strain
+
+## The Bottom Line
+
+Cycling injury prevention:
+1. **Bike fit** — Most important factor
+2. **Hip strength** — Glutes should do the work
+3. **Core stability** — Protects lower back
+4. **Flexibility** — Hip flexors, quads, chest
+5. **Off-bike training** — Not optional for serious cyclists
+
+---
+
+*Foundational Rehab offers cyclist-specific assessment and training programs.*
+    `
+  },
+  'exercises-for-parkinsons': {
+    title: 'Exercises for Parkinson\'s Disease: Movement is Medicine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Exercise and Parkinson's Disease
+
+Exercise is one of the most effective treatments for Parkinson's disease (PD). Research consistently shows:
+
+- **Slows disease progression**
+- **Improves mobility and balance**
+- **Reduces fall risk**
+- **Enhances quality of life**
+- **May have neuroprotective effects**
+
+Exercise is not optional—it's essential medicine for PD.
+
+## Why Exercise Helps
+
+### Neuroplasticity
+Exercise promotes brain changes that can compensate for dopamine loss. High-intensity exercise appears particularly beneficial.
+
+### Symptom Management
+- Improves gait and reduces freezing
+- Reduces rigidity and stiffness
+- Enhances balance and postural control
+- Decreases bradykinesia (slowness)
+
+### Cardiovascular Health
+PD increases cardiovascular risk. Exercise addresses this while helping motor symptoms.
+
+## Types of Beneficial Exercise
+
+### Aerobic Exercise
+
+**Walking**
+- 30+ minutes most days
+- Nordic walking (with poles) adds arm movement
+- Treadmill with safety features if needed
+
+**Cycling**
+- Forced-rate cycling may be especially beneficial
+- Stationary bike safer than outdoor
+- Recumbent bike if balance is concern
+
+**Swimming/Water Exercise**
+- Low fall risk
+- Resistance without impact
+- Water temperature matters (warm, not hot)
+
+**Dancing**
+- Tango has strong research support
+- Combines movement with music and social engagement
+- Addresses balance and dual-tasking
+
+### Strength Training
+
+Muscle weakness contributes to mobility problems. Strength training helps.
+
+**Key Exercises:**
+
+**Sit-to-Stand**
+- From chair, stand without using hands
+- Progress to lower surfaces
+- 3 x 10 reps
+
+**Wall Push-Ups**
+- Hands on wall, push away
+- Progress to lower surfaces over time
+- 3 x 10-15 reps
+
+**Heel Raises**
+- Hold support
+- Rise onto toes
+- Lower with control
+- 3 x 10-15
+
+**Step-Ups**
+- Low step with handrail
+- Step up and down
+- 3 x 8 each leg
+
+### Balance Training
+
+Fall risk is a major concern in PD. Balance training is critical.
+
+**Single-Leg Stance**
+- Hold support initially
+- 30 seconds each leg
+- Progress to unsupported
+- Add arm movements or eyes closed
+
+**Tandem Stance**
+- Heel-to-toe standing
+- Hold 30 seconds
+- Progress to walking tandem
+
+**Weight Shifts**
+- Stand and shift weight side to side
+- Forward and backward
+- With visual targets
+
+**Perturbation Training**
+- Partner gently pushes
+- React to maintain balance
+- Progress gradually
+
+### Flexibility
+
+Rigidity is a hallmark of PD. Stretching helps maintain range.
+
+**Trunk Rotation**
+- Seated or standing
+- Rotate upper body side to side
+- 10 reps each direction
+
+**Chest Stretch**
+- Arms behind back
+- Open chest
+- Hold 30 seconds
+
+**Hip Flexor Stretch**
+- Kneeling or standing lunge
+- Addresses flexed posture
+- Hold 30 seconds each
+
+**Hamstring Stretch**
+- Seated or standing
+- Hold 30 seconds each
+
+## Big Movements: LSVT BIG
+
+LSVT BIG is a PD-specific program emphasizing large-amplitude movements. Key principles:
+
+- **Think BIG** — Exaggerate movements
+- **Recalibrate** — PD causes you to underestimate movement size
+- **High effort** — Push yourself
+
+**Examples:**
+- Big steps when walking
+- Big arm swings
+- Exaggerated reaching
+- Loud voice (LSVT LOUD for speech)
+
+## Addressing Specific Symptoms
+
+### Freezing of Gait
+
+**Cueing Strategies:**
+- Visual: Step over a line or laser pointer
+- Auditory: March to rhythm or metronome
+- Cognitive: Count steps, "1-2-3 step"
+
+**Exercises:**
+- Marching in place
+- Sideways walking
+- Backward walking
+- Obstacle course navigation
+
+### Postural Instability
+
+**Exercises:**
+- Weight shifting all directions
+- Reaching activities
+- Tandem walking
+- Turning practice (pivot vs. multi-step)
+
+### Bradykinesia (Slowness)
+
+**Exercises:**
+- Fast walking intervals
+- Rapid alternating movements
+- Boxing or punching bag
+- Cycling with faster cadence
+
+## Sample Weekly Program
+
+### 5-7 Days Per Week
+
+**Daily:**
+- Walking or cycling: 30 min
+- Big movements throughout day
+- Stretching: 10 min
+
+**3x Per Week:**
+- Strength training: 20-30 min
+- Balance exercises: 10-15 min
+
+**1-2x Per Week:**
+- Dance class (tango, etc.)
+- Boxing class (PD-specific programs)
+- Group exercise (social benefit)
+
+## Safety Considerations
+
+### Fall Prevention
+- Clear pathways at home
+- Remove rugs
+- Good lighting
+- Use assistive devices if needed
+- Exercise with supervision if needed
+
+### Timing
+- Exercise when medications are working (ON time)
+- Avoid exercise when medication is wearing off
+- Stay hydrated
+
+### Intensity
+- Push yourself—intensity matters
+- But know your limits
+- Fatigue management
+
+## Finding PD-Specific Programs
+
+Look for:
+- **PWR! (Parkinson Wellness Recovery)**
+- **Rock Steady Boxing**
+- **PD Warrior**
+- **Dance for PD**
+- **Delay the Disease**
+
+Many communities have PD-specific exercise classes.
+
+## The Bottom Line
+
+Exercise for Parkinson's:
+1. **Non-negotiable** — Exercise is medicine
+2. **Higher intensity** — More benefit than light exercise
+3. **BIG movements** — Counteract bradykinesia
+4. **Balance training** — Critical for fall prevention
+5. **Consistency** — Daily movement is ideal
+
+---
+
+*Foundational Rehab offers guidance for exercising safely with Parkinson's disease.*
+    `
+  },
+  'crossfit-injury-prevention': {
+    title: 'CrossFit Injury Prevention: Train Hard, Stay Healthy',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## CrossFit Injury Profile
+
+CrossFit combines weightlifting, gymnastics, and cardio at high intensity. Common injuries:
+
+- **Shoulder injuries** — From overhead work, kipping, muscle-ups
+- **Lower back injuries** — From deadlifts, cleans, poor form under fatigue
+- **Knee injuries** — From squatting volume
+- **Wrist/elbow issues** — From front rack position, high volume pushing
+- **Rhabdomyolysis** — Rare but serious (muscle breakdown from extreme exertion)
+
+Most CrossFit injuries come from **too much, too fast** and **poor form under fatigue**.
+
+## Risk Factors
+
+### Training Errors
+- Jumping into advanced movements too soon
+- Not scaling appropriately
+- Ignoring pain signals
+- Ego lifting (too heavy, too fast)
+
+### Fatigue-Related
+- Form breakdown at end of workout
+- High-rep Olympic lifts
+- Competing when undertrained
+
+### Movement Quality
+- Insufficient mobility for positions
+- Weak links in the chain
+- Poor movement patterns
+
+## Shoulder Injury Prevention
+
+### The Problem
+Kipping pull-ups, muscle-ups, overhead pressing, and snatches all stress the shoulder. High volume compounds the problem.
+
+### Prevention
+
+**Rotator Cuff Strengthening**
+- External rotation: 3 x 15
+- Internal rotation: 3 x 15
+- 90/90 rotation: 3 x 10 each
+
+**Scapular Stability**
+- Scap pull-ups: 3 x 10
+- Band pull-aparts: 3 x 20
+- Y-T-W raises: 2 x 10 each
+
+**Thoracic Mobility**
+- Foam roller extensions
+- Thread the needle
+- Cat-cow
+
+**Movement Standards**
+- Master strict pull-ups before kipping
+- Build volume gradually
+- Active hang position in all movements
+
+## Lower Back Protection
+
+### The Problem
+Deadlifts, cleans, and snatches load the spine. Fatigue causes rounding. High reps make this worse.
+
+### Prevention
+
+**Core Strength (Daily)**
+- Plank: 60+ seconds
+- Dead bug: 3 x 10 each
+- Pallof press: 3 x 10 each
+- Bird dog: 3 x 10 each
+
+**Hip Mobility**
+- 90/90 stretches
+- Hip flexor stretches
+- Pigeon pose
+
+**Movement Standards**
+- Never sacrifice form for time
+- Scale load before compromising position
+- Stop set if form breaks
+- Hinge pattern before heavy deadlifts
+
+**Breathing/Bracing**
+- Breathe and brace before each rep
+- Don't breathe at bottom of heavy lifts
+- Practice bracing with light loads
+
+## Knee Protection
+
+### The Problem
+High-volume squatting, wall balls, box jumps, and lunges. Knees caving in under fatigue.
+
+### Prevention
+
+**Knee Control Drills**
+- Single-leg squats with mirror
+- Knee-over-toe tracking practice
+- Tempo squats (slow descent)
+
+**Hip Strengthening**
+- Banded walks
+- Clamshells
+- Single-leg deadlifts
+
+**Movement Standards**
+- Knees track over toes
+- Don't let knees cave
+- Scale depth before losing position
+
+## Wrist and Elbow Care
+
+### The Problem
+Front rack position, handstands, and high-rep pushing stress wrists and elbows.
+
+### Prevention
+
+**Wrist Mobility**
+- Wrist circles
+- Wrist flexion/extension stretches
+- Prayer stretch
+
+**Elbow Care**
+- Forearm strengthening (wrist curls, reverse curls)
+- Soft tissue work (forearm massage)
+- Load management
+
+**Front Rack Mobility**
+- Lat stretches
+- Tricep stretches
+- Thoracic mobility
+- Wrist stretches
+
+## Programming Principles
+
+### Proper Progression
+1. Learn movement with PVC pipe/empty bar
+2. Add load gradually
+3. Master strict before kipping
+4. Build capacity before intensity
+
+### Scaling Is Not Weakness
+- Scale load, reps, or movement
+- Better to finish clean than struggle ugly
+- Long-term progress > today's score
+
+### Recovery
+- Not every day should be maximal
+- Program rest days
+- Sleep and nutrition matter
+- Listen to your body
+
+## Pre-WOD Warm-Up
+
+**General (5 min):**
+- Row/bike/run easy
+- Jumping jacks
+- Air squats
+
+**Movement Prep (5-10 min):**
+- Movements from the WOD at low intensity
+- Mobility for required positions
+- Activation for key muscles
+
+**Build-Up:**
+- Progressively heavier sets if lifting
+- Practice skill movements
+- Find your working weight/scale
+
+## Accessory Work
+
+Add 10-15 minutes 2-3x per week:
+
+**Shoulder Health:**
+- Rotator cuff: 2-3 x 15
+- Scap work: 2-3 x 10
+- Band pull-aparts: 3 x 20
+
+**Core:**
+- Hollow holds: 3 x 20-30 sec
+- Arch holds: 3 x 20-30 sec
+- Dead bugs: 3 x 10 each
+
+**Hips:**
+- Glute bridges: 3 x 15
+- Banded walks: 2 x 15 each
+- Single-leg work: 2 x 8 each
+
+## Red Flags: When to Stop
+
+**Stop immediately if:**
+- Sharp pain (different from muscle burn)
+- Numbness or tingling
+- Popping sensation with pain
+- Dizziness or confusion
+- Feeling "off" in ways you can't explain
+
+**Seek evaluation for:**
+- Pain that persists after the workout
+- Pain that wakes you up at night
+- Swelling or bruising
+- Decreased range of motion
+
+## The Bottom Line
+
+CrossFit injury prevention:
+1. **Earn the movements** — Master basics before advancing
+2. **Scale appropriately** — Leave ego at the door
+3. **Form over time** — Never sacrifice position
+4. **Accessory work** — Shore up weak links
+5. **Recovery matters** — Rest is part of training
+
+---
+
+*Foundational Rehab helps CrossFit athletes train smarter and stay healthy.*
+    `
   }
 };
 

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'swimming-injury-prevention',
+    title: 'Swimming Injury Prevention: Protect Your Shoulders and Stay in the Pool',
+    excerpt: 'Prevent swimmer\'s shoulder and stay healthy with these exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'cycling-injury-prevention',
+    title: 'Cycling Injury Prevention: Protect Your Knees, Back, and Neck',
+    excerpt: 'Address common cycling overuse injuries with proper training and bike fit.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-parkinsons',
+    title: 'Exercises for Parkinson\'s Disease: Movement is Medicine',
+    excerpt: 'Exercise slows progression and improves quality of life with Parkinson\'s.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'crossfit-injury-prevention',
+    title: 'CrossFit Injury Prevention: Train Hard, Stay Healthy',
+    excerpt: 'Prevent common CrossFit injuries with proper progression and accessory work.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
     slug: 'tennis-fitness-exercises',
     title: 'Tennis Fitness: Exercises for Better Performance and Injury Prevention',
     excerpt: 'Improve your tennis game and prevent tennis elbow with targeted exercises.',
