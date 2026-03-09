@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'nerve-flossing-exercises',
+    title: 'Nerve Flossing Exercises: Relieve Numbness and Tingling',
+    excerpt: 'Numbness and tingling from trapped nerves? Nerve gliding techniques can help.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'posture-assessment',
+    title: 'Posture Assessment: How to Check Your Own Alignment',
+    excerpt: 'Learn to identify forward head, rounded shoulders, and other postural issues.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'when-to-see-doctor-pain',
+    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\\'t Ignore',
+    excerpt: 'Most pain is not serious, but these warning signs need medical attention.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-pain-vs-injury',
+    title: 'Exercise Pain vs. Injury Pain: How to Tell the Difference',
+    excerpt: 'Learn to distinguish normal exercise discomfort from pain that signals injury.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'band-exercises-full-body',
     title: 'Resistance Band Exercises: Complete Full Body Workout',
     excerpt: 'A complete gym that fits in your bag. Full body workout with just resistance bands.',

@@ -90421,6 +90421,834 @@ How you finish is as important as how you start.
 
 *Foundational Rehab includes proper cool downs in all programs.*
     \`
+  },
+  'nerve-flossing-exercises': {
+    title: 'Nerve Flossing Exercises: Relieve Numbness and Tingling',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is Nerve Flossing?
+
+Nerve flossing (or nerve gliding) is a technique that mobilizes nerves by alternately tensioning and releasing them along their path.
+
+**Purpose:**
+- Reduce nerve tension
+- Improve nerve mobility
+- Relieve numbness and tingling
+- Decrease nerve-related pain
+
+## How Nerves Get "Stuck"
+
+Nerves need to slide and glide as you move. They can become restricted by:
+- Muscle tension
+- Scar tissue
+- Inflammation
+- Postural compression
+- Repetitive strain
+
+When restricted, nerves may cause:
+- Numbness
+- Tingling
+- Burning sensations
+- Radiating pain
+- Weakness
+
+## Important Safety Notes
+
+**Do nerve flossing carefully:**
+- Gentle movements only
+- Should not cause pain
+- Stop if symptoms worsen
+- May temporarily increase symptoms
+- Not for acute nerve injuries
+
+**See a professional if:**
+- Severe symptoms
+- Progressive weakness
+- No improvement
+- Unsure of diagnosis
+
+## Median Nerve Flossing (Carpal Tunnel Area)
+
+**Path:** Neck → shoulder → arm → hand (thumb, index, middle fingers)
+
+**Technique 1: Basic Glide**
+1. Arm at side, wrist neutral
+2. Extend wrist (fingers back)
+3. Extend elbow
+4. Tilt head away
+5. Then reverse: flex wrist, bend elbow, tilt head toward
+6. Alternate smoothly, 10-15 reps
+
+**Technique 2: Full Floss**
+1. Arm out to side, palm up
+2. Extend wrist and fingers
+3. Turn head away
+4. Then: flex wrist, turn head toward
+5. Smooth alternating movement
+6. 10-15 reps
+
+## Ulnar Nerve Flossing (Funny Bone Area)
+
+**Path:** Neck → inside of elbow → ring and pinky fingers
+
+**Technique:**
+1. Arm at side
+2. Bend elbow, bring hand toward shoulder
+3. Extend wrist (fingers back)
+4. Tilt head away
+5. Then: straighten elbow, flex wrist, tilt head toward
+6. 10-15 reps
+
+## Radial Nerve Flossing (Outside of Arm)
+
+**Path:** Neck → back of shoulder → outside of arm → back of hand
+
+**Technique:**
+1. Arm at side
+2. Internally rotate shoulder (thumb pointing back)
+3. Extend wrist (palm facing back)
+4. Tilt head away
+5. Then: reverse all positions, tilt head toward
+6. 10-15 reps
+
+## Sciatic Nerve Flossing (Leg)
+
+**Path:** Low back → buttock → back of leg → foot
+
+**Technique 1: Seated**
+1. Sit on chair
+2. Slump shoulders, look down
+3. Extend knee, point toes up
+4. Then: sit tall, look up, point toes down
+5. Alternate smoothly
+6. 10-15 reps each leg
+
+**Technique 2: Lying**
+1. Lie on back
+2. Bring knee toward chest
+3. Straighten leg toward ceiling
+4. Flex and point foot
+5. 10-15 reps
+
+## Femoral Nerve Flossing (Front of Thigh)
+
+**Path:** Low back → front of hip → front of thigh → knee
+
+**Technique:**
+1. Stand, hold support
+2. Bring heel toward buttock
+3. Tilt head down
+4. Then: release leg slightly, look up
+5. Alternate smoothly
+6. 10-15 reps each leg
+
+## When to Use Nerve Flossing
+
+**Good applications:**
+- Carpal tunnel syndrome
+- Cubital tunnel syndrome
+- Sciatica (non-acute)
+- Thoracic outlet syndrome
+- General nerve tension
+
+**When to avoid:**
+- Acute nerve injury
+- Severe symptoms
+- During symptom flare
+- If it worsens symptoms
+
+## Sample Nerve Flossing Routine
+
+**For Upper Extremity Symptoms:**
+1. Median nerve: 2 x 10
+2. Ulnar nerve: 2 x 10
+3. Radial nerve: 2 x 10
+
+**For Lower Extremity Symptoms:**
+1. Sciatic nerve (seated): 2 x 10
+2. Femoral nerve: 2 x 10
+
+**Frequency:**
+- 2-3 times daily
+- Gentle and controlled
+- Part of overall treatment
+
+## Tips for Effective Nerve Flossing
+
+### 1. Move Smoothly
+
+No jerky movements. Flowing, continuous motion.
+
+### 2. Stay Pain-Free
+
+Mild stretch sensation OK. Pain is not.
+
+### 3. Coordinate Breathing
+
+Exhale as you tension, inhale as you release.
+
+### 4. Be Patient
+
+Benefits build over days to weeks.
+
+### 5. Combine with Other Treatment
+
+Nerve flossing alone may not be enough. Address root cause.
+
+## Common Mistakes
+
+### 1. Too Aggressive
+
+**Problem:** Worsens symptoms
+**Fix:** Very gentle, no pain
+
+### 2. Holding at End Range
+
+**Problem:** Overstretches nerve
+**Fix:** Keep moving, don't hold
+
+### 3. Doing Too Many Reps
+
+**Problem:** Irritates nerve
+**Fix:** 10-15 reps max per session
+
+### 4. Expecting Instant Results
+
+**Problem:** Giving up
+**Fix:** Consistent practice over weeks
+
+## The Bottom Line
+
+Nerve flossing:
+1. **Mobilizes restricted nerves** — Helps them glide
+2. **Must be gentle** — Never painful
+3. **Is part of treatment** — Not complete solution
+4. **Takes time** — Weeks for full effect
+5. **Requires proper diagnosis** — Know what you're treating
+
+When done correctly, nerve flossing can significantly reduce nerve-related symptoms.
+
+---
+
+*Foundational Rehab includes nerve mobilization in relevant programs.*
+    \`
+  },
+  'posture-assessment': {
+    title: 'Posture Assessment: How to Check Your Own Alignment',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Why Assess Your Posture?
+
+Understanding your posture helps you:
+- Identify problem areas
+- Target exercises effectively
+- Track improvement
+- Prevent future issues
+
+## The Ideal Posture
+
+From the side, a plumb line should pass through:
+- Ear
+- Shoulder
+- Hip
+- Knee
+- Ankle
+
+From the front/back:
+- Head centered
+- Shoulders level
+- Hips level
+- Knees facing forward
+- Feet parallel
+
+**Note:** Perfect posture is rare. We're looking for significant deviations.
+
+## Self-Assessment Methods
+
+### Wall Test
+
+**Setup:**
+1. Stand with back against wall
+2. Heels 2-4 inches from wall
+3. Buttocks and shoulder blades touch wall
+
+**Check:**
+- Can your head touch wall without tilting back?
+- How much space between low back and wall?
+- Are both shoulders equally against wall?
+
+**What it reveals:**
+- Forward head posture (head doesn't reach wall)
+- Excessive lordosis (big gap at low back)
+- Rounded shoulders (shoulders don't touch)
+
+### Mirror Check (Front View)
+
+**Look for:**
+- Head tilt (ear higher on one side)
+- Shoulder height (one higher?)
+- Hip height (one higher?)
+- Knee position (knocked in or bowed out?)
+- Foot position (turned in or out?)
+
+### Photo Assessment (Side View)
+
+**Take a photo from the side, then check:**
+
+**Head:**
+- Is ear in front of shoulder? (Forward head)
+- Is chin poking forward?
+
+**Shoulders:**
+- Are they rounded forward?
+- Are they elevated (shrugged)?
+
+**Upper Back:**
+- Excessive curve (kyphosis)?
+- Flat?
+
+**Low Back:**
+- Excessive curve (lordosis)?
+- Flat?
+
+**Pelvis:**
+- Tilting forward (anterior tilt)?
+- Tilting backward (posterior tilt)?
+
+**Knees:**
+- Hyperextended (locked back)?
+- Flexed?
+
+## Common Postural Patterns
+
+### Upper Crossed Syndrome
+
+**Signs:**
+- Forward head
+- Rounded shoulders
+- Increased upper back curve
+
+**Tight:** Pecs, upper traps, suboccipitals
+**Weak:** Deep neck flexors, mid-back muscles
+
+### Lower Crossed Syndrome
+
+**Signs:**
+- Anterior pelvic tilt
+- Increased low back curve
+- Protruding abdomen
+
+**Tight:** Hip flexors, low back
+**Weak:** Abdominals, glutes
+
+### Sway Back
+
+**Signs:**
+- Hips pushed forward
+- Flat low back or slight kyphosis
+- Knees hyperextended
+
+**Tight:** Hamstrings, upper abdominals
+**Weak:** Hip flexors, lower abdominals
+
+### Flat Back
+
+**Signs:**
+- Reduced low back curve
+- Posterior pelvic tilt
+- Reduced neck curve
+
+**Tight:** Hamstrings, abdominals
+**Weak:** Hip flexors, low back extensors
+
+## What Your Findings Mean
+
+### Forward Head
+
+- For every inch forward, neck load doubles
+- Common cause of neck pain and headaches
+- Focus: chin tucks, upper back extension
+
+### Rounded Shoulders
+
+- Contributes to shoulder impingement
+- Often with tight chest
+- Focus: chest stretching, back strengthening
+
+### Anterior Pelvic Tilt
+
+- Common cause of low back pain
+- Often with tight hip flexors
+- Focus: hip flexor stretching, glute/core strengthening
+
+### Lateral Imbalances
+
+- May indicate leg length difference
+- Or muscle imbalances
+- May need professional assessment
+
+## Creating Your Posture Plan
+
+### Based on Your Findings:
+
+**Forward head + rounded shoulders:**
+1. Chin tucks: Multiple times daily
+2. Chest stretches: Daily
+3. Row exercises: 3x weekly
+4. Thoracic extension: Daily
+
+**Anterior pelvic tilt:**
+1. Hip flexor stretches: Daily
+2. Glute bridges: Daily
+3. Dead bugs: Daily
+4. Avoid prolonged sitting
+
+**Mixed pattern:**
+- Address multiple areas
+- Prioritize biggest deviations
+- Full body approach
+
+## Limitations of Self-Assessment
+
+Self-assessment is useful but limited:
+- Can't see yourself objectively
+- May miss subtle issues
+- Can't assess movement quality
+- May need professional evaluation
+
+**When to see a professional:**
+- Significant pain
+- Marked asymmetry
+- Functional limitations
+- No improvement with exercises
+
+## The Bottom Line
+
+Posture assessment:
+1. **Identifies patterns** — Know what to address
+2. **Guides exercise selection** — Target specific issues
+3. **Tracks progress** — Re-assess over time
+4. **Has limitations** — May need professional help
+5. **Leads to action** — Assessment without exercise is useless
+
+Check your posture, then do something about it.
+
+---
+
+*Foundational Rehab uses posture assessment to customize programs.*
+    \`
+  },
+  'when-to-see-doctor-pain': {
+    title: 'When to See a Doctor for Pain: Red Flags You Shouldn\\'t Ignore',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Most Pain Is Not Serious
+
+The vast majority of muscle and joint pain:
+- Resolves on its own
+- Responds to basic treatment
+- Doesn't require medical intervention
+
+**But some pain requires immediate attention.**
+
+## Red Flags: Seek Immediate Care
+
+### Emergency Symptoms
+
+**Call 911 or go to ER for:**
+- Chest pain (especially with shortness of breath, arm pain)
+- Severe abdominal pain
+- Sudden severe headache ("worst of my life")
+- Signs of stroke (face drooping, arm weakness, speech difficulty)
+- Inability to bear weight after injury
+- Obvious deformity (broken bone)
+- Loss of consciousness after head injury
+
+### Urgent Symptoms
+
+**See a doctor within 24-48 hours:**
+- Fever with joint pain or swelling
+- Red, hot, swollen joint (possible infection)
+- Numbness or weakness in limbs
+- Loss of bladder or bowel control with back pain
+- Night pain that wakes you consistently
+- Unexplained weight loss with pain
+- Pain after significant trauma
+
+## Pain by Location: When to Worry
+
+### Back Pain Red Flags
+
+**Seek care if:**
+- Loss of bladder/bowel control
+- Progressive weakness in legs
+- Numbness in saddle area (groin, inner thighs)
+- History of cancer + new back pain
+- Unexplained weight loss
+- Fever
+- Pain worse at night/rest
+- Recent significant trauma
+
+### Neck Pain Red Flags
+
+**Seek care if:**
+- Weakness in arms or hands
+- Loss of coordination
+- Pain after trauma (especially car accident)
+- Difficulty walking
+- Fever with neck stiffness
+
+### Joint Pain Red Flags
+
+**Seek care if:**
+- Red, hot, swollen joint (especially one joint)
+- Fever with joint pain
+- Unable to use the joint at all
+- Pain after significant injury
+- Visible deformity
+
+### Headache Red Flags
+
+**Seek care if:**
+- "Thunderclap" sudden onset
+- Worst headache ever
+- With fever, stiff neck
+- After head injury
+- With vision changes, confusion
+- New type in someone over 50
+
+## General Warning Signs
+
+### Pain That Suggests Something More Serious
+
+- Getting progressively worse despite rest
+- Present at rest/night (not just activity)
+- Wakes you from sleep consistently
+- Accompanied by systemic symptoms (fever, weight loss, fatigue)
+- Not responding to typical treatments
+- Associated with weakness or numbness
+
+### Pain Duration Guidelines
+
+**See someone if:**
+- Severe pain lasting more than 3 days
+- Moderate pain lasting more than 2 weeks
+- Mild pain lasting more than 6 weeks
+- Any pain significantly affecting daily life
+
+## Who to See
+
+### Primary Care Doctor
+
+- General pain concerns
+- Need referral
+- Prescription medication
+- Blood tests/imaging
+
+### Orthopedist
+
+- Bone and joint problems
+- After significant injury
+- Potential surgery cases
+
+### Physical Therapist (Many States: Direct Access)
+
+- Muscle and joint pain
+- Movement problems
+- Rehabilitation
+- Often can see without referral
+
+### Sports Medicine Doctor
+
+- Athletes
+- Activity-related injuries
+- Non-surgical musculoskeletal issues
+
+### Pain Specialist
+
+- Chronic pain
+- Complex pain conditions
+- When other treatments fail
+
+### Chiropractor
+
+- Spine-related issues
+- Some musculoskeletal conditions
+- Manual therapy focus
+
+## What Self-Treatment Is Appropriate For
+
+### Generally Safe to Self-Treat
+
+- Mild muscle soreness after activity
+- Minor joint stiffness
+- Mild strains (can bear weight, minimal swelling)
+- Recurring issues you understand
+- Pain that's improving
+
+### Self-Treatment Approach
+
+- Rest from aggravating activities
+- Ice (first 48-72 hours)
+- Over-the-counter pain relief (follow directions)
+- Gentle movement
+- Give it 1-2 weeks
+
+## The Bottom Line
+
+**Seek immediate care for:**
+- Chest pain, stroke symptoms, severe trauma
+- Neurological symptoms (numbness, weakness, bowel/bladder)
+- Signs of infection (fever, red/hot joint)
+
+**See a doctor if:**
+- Pain is severe
+- Pain is getting worse
+- No improvement after 2 weeks
+- Pain affects daily life significantly
+- Any doubt about seriousness
+
+**Self-treat if:**
+- Mild symptoms
+- Improving
+- Understand the cause
+- No red flags
+
+When in doubt, get it checked out.
+
+---
+
+*Foundational Rehab encourages seeking appropriate care when needed.*
+    \`
+  },
+  'exercise-pain-vs-injury': {
+    title: 'Exercise Pain vs. Injury Pain: How to Tell the Difference',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Not All Pain Is Bad
+
+Understanding pain during exercise:
+
+**Normal/Acceptable:**
+- Muscle burning during exercise
+- Muscle soreness after exercise
+- Mild discomfort with new movements
+- Fatigue
+
+**Not Normal/Concerning:**
+- Sharp pain
+- Joint pain
+- Pain that causes compensation
+- Pain that persists or worsens
+
+## Types of Exercise-Related Pain
+
+### Muscle Burn (During Exercise)
+
+**What it is:** Lactic acid buildup during hard effort
+
+**Characteristics:**
+- Burning sensation in working muscles
+- Stops when you stop
+- Normal and expected
+- Sign you're working hard
+
+**Verdict:** Safe, expected
+
+### DOMS (Delayed Onset Muscle Soreness)
+
+**What it is:** Muscle soreness 24-72 hours after exercise
+
+**Characteristics:**
+- Peaks 24-48 hours post-exercise
+- Achey, stiff feeling
+- Worse with eccentric exercise
+- Resolves within 3-5 days
+
+**Verdict:** Normal, not injury
+
+### Muscle Strain (Injury)
+
+**What it is:** Actual muscle fiber damage
+
+**Characteristics:**
+- Often sudden onset during activity
+- Sharp or tearing sensation
+- May have bruising
+- Weakness
+- Doesn't resolve in days
+
+**Verdict:** Injury, needs attention
+
+### Joint Pain
+
+**What it is:** Pain from joint structures (not muscle)
+
+**Characteristics:**
+- Located in/around joint
+- May have clicking, catching
+- May swell
+- Often worse with specific movements
+- Different quality than muscle pain
+
+**Verdict:** Concerning, investigate
+
+### Tendon Pain
+
+**What it is:** Tendon irritation or damage
+
+**Characteristics:**
+- Located at muscle-bone junction
+- Often worse at start of activity
+- May improve with warm-up initially
+- Worsens with continued overuse
+- Stiff in morning
+
+**Verdict:** Needs rest and proper treatment
+
+## The Key Questions
+
+### 1. When Did It Start?
+
+**Gradual onset:** Often overuse, may be manageable
+**Sudden during exercise:** Could be strain, more concerning
+**After rest:** DOMS is normal; other pain less so
+
+### 2. Where Is It?
+
+**In the muscle belly:** More likely muscle-related
+**At a joint:** Joint issue
+**At tendon (where muscle meets bone):** Tendon problem
+
+### 3. What Type of Pain?
+
+**Achey, diffuse:** More likely DOMS
+**Sharp, localized:** More concerning
+**Burning during exercise:** Normal
+
+### 4. Does It Affect Function?
+
+**Mild discomfort, normal movement:** Likely OK
+**Causes limping, compensation:** More serious
+**Unable to use at all:** Needs evaluation
+
+### 5. How Long Does It Last?
+
+**Resolves within a few days:** Likely DOMS
+**Persists beyond a week:** Needs attention
+**Getting worse:** Definitely needs attention
+
+## The Traffic Light System
+
+### Green Light: Continue
+
+- Normal muscle burn during exercise
+- DOMS (24-72 hours post-exercise)
+- Mild stiffness that warms up
+- 0-3/10 discomfort
+
+### Yellow Light: Modify
+
+- Pain that changes your movement
+- Discomfort that doesn't warm up
+- 4-5/10 pain
+- Pain in same spot repeatedly
+- Mild joint discomfort
+
+**Action:** Reduce intensity, modify exercise, monitor
+
+### Red Light: Stop
+
+- Sharp pain
+- 6+/10 pain
+- Joint swelling
+- Popping/giving way
+- Numbness or tingling
+- Pain that worsens during exercise
+- Unable to complete movement normally
+
+**Action:** Stop, rest, seek evaluation if persists
+
+## Managing Exercise Discomfort
+
+### For Normal Soreness (DOMS)
+
+- Light movement (helps)
+- Stay hydrated
+- Sleep well
+- Gentle stretching
+- Can train other body parts
+- Will resolve in 3-5 days
+
+### For Suspected Injury
+
+- Stop the aggravating activity
+- Ice if acute (first 48-72 hours)
+- Rest from that movement
+- Monitor for improvement
+- Seek help if not improving
+
+## Common Scenarios
+
+### "It hurts when I squat"
+
+**Questions:**
+- Where exactly? (Knee joint vs. quad muscle)
+- When during squat? (Bottom vs. throughout)
+- Sharp or achey?
+- Better or worse with warm-up?
+
+**If joint pain:** May need modification or rest
+**If muscle fatigue:** Likely normal
+
+### "My shoulder hurts the day after bench press"
+
+**Questions:**
+- In the joint or muscle?
+- Can you raise arm normally?
+- Sharp or achey?
+- Improving or worsening?
+
+**If muscle soreness (chest/shoulder muscles):** Likely DOMS
+**If joint pain:** May need form check or rest
+
+### "I felt a pop during deadlift"
+
+**Immediate concern.** Stop exercise. Assess function. If significant pain, weakness, or swelling — seek evaluation.
+
+## The Bottom Line
+
+**Normal exercise pain:**
+- Muscle burning during
+- Muscle soreness 1-3 days after
+- Mild, improving
+
+**Injury warning signs:**
+- Sharp pain
+- Joint involvement
+- Weakness
+- Swelling
+- Getting worse
+- Affects function
+
+Listen to your body. It's usually telling you something important.
+
+---
+
+*Foundational Rehab teaches appropriate pain management in all programs.*
+    \`
   }
 };
 
