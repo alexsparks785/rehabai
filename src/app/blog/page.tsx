@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'glute-activation-exercises',
+    title: 'Glute Activation Exercises: Wake Up Your Sleeping Glutes',
+    excerpt: 'Sitting turns off your glutes. These exercises turn them back on.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'mobility-routine-beginners',
+    title: 'Mobility Routine for Beginners: Move Better in 15 Minutes',
+    excerpt: 'A simple daily routine to improve how you move and feel.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-carpal-tunnel',
+    title: 'Exercises for Carpal Tunnel: Relieve Wrist and Hand Pain',
+    excerpt: 'Stretches and nerve glides that help carpal tunnel syndrome.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'how-to-push-up-properly',
+    title: 'How to Do a Push-Up Properly: Complete Form Guide',
+    excerpt: 'Master the push-up—from modified to advanced variations.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
     slug: 'upper-body-stretches',
     title: 'Upper Body Stretches: Relieve Tension from Neck to Fingers',
     excerpt: 'Complete stretching routine for shoulders, chest, arms, and neck.',
