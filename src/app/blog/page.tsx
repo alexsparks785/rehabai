@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'runners-knee-exercises',
+    title: 'Runner\\'s Knee Exercises: Patellofemoral Pain Syndrome Treatment',
+    excerpt: 'Knee pain around or behind your kneecap? Hip and quad strengthening are key to recovery.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'jumpers-knee-exercises',
+    title: 'Jumper\\'s Knee Exercises: Patellar Tendinopathy Treatment',
+    excerpt: 'Pain at the patellar tendon? Heavy slow resistance training is the proven treatment.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'shin-splints-exercises',
+    title: 'Shin Splints Exercises: Medial Tibial Stress Syndrome Treatment',
+    excerpt: 'Shin pain from running? Learn calf and hip strengthening plus a safe return-to-run protocol.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'achilles-tendonitis-exercises',
+    title: 'Achilles Tendonitis Exercises: Tendinopathy Treatment Guide',
+    excerpt: 'Achilles pain? Eccentric heel drops are the proven treatment. Learn the protocol.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '7 min read'
+  },
+  {
     slug: 'hip-impingement-exercises',
     title: 'Hip Impingement Exercises: FAI Management and Relief',
     excerpt: 'Hip impingement (FAI) causing groin pain? Learn exercises to manage symptoms and improve function.',

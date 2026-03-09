@@ -84647,6 +84647,941 @@ It does get better. Every case eventually thaws.
 
 *Foundational Rehab provides stage-specific frozen shoulder programs.*
     \`
+  },
+  'runners-knee-exercises': {
+    title: 'Runner\\'s Knee Exercises: Patellofemoral Pain Syndrome Treatment',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is Runner's Knee?
+
+Runner's knee (patellofemoral pain syndrome/PFPS) is pain around or behind the kneecap. It's one of the most common knee complaints.
+
+**Symptoms:**
+- Pain around/behind kneecap
+- Worse going downstairs
+- Worse after prolonged sitting
+- Pain with squatting or lunging
+- May feel like grinding or crunching
+
+**Who gets it:** Not just runners — affects hikers, cyclists, office workers, and athletes of all types.
+
+## Why It Happens
+
+### The Core Problem
+
+The patella (kneecap) doesn't track properly in its groove. This creates abnormal pressure and pain.
+
+### Contributing Factors
+
+**Muscle Issues:**
+- Weak quadriceps (especially VMO)
+- Weak hip muscles (glutes)
+- Tight IT band, quads, or hamstrings
+
+**Biomechanical:**
+- Knee valgus (knees caving in)
+- Overpronation of feet
+- Poor movement patterns
+
+**Training:**
+- Too much too soon
+- Inadequate recovery
+- Poor running form
+
+## Exercises for Runner's Knee
+
+### Quad Strengthening
+
+**Quad Sets**
+- Sit with leg straight
+- Push knee down into floor
+- Hold 5 seconds
+- 3 x 15
+
+**Straight Leg Raises**
+- Lie on back, one knee bent
+- Lift straight leg to bent knee height
+- Lower slowly
+- 3 x 15 each
+
+**Short Arc Quads**
+- Rolled towel under knee
+- Straighten leg, lifting foot
+- Focus on VMO contraction
+- 3 x 15
+
+**Terminal Knee Extension**
+- Band behind knee, attached to anchor
+- Start bent, straighten against resistance
+- 3 x 15
+
+### Hip Strengthening (Critical!)
+
+**Clamshells**
+- Side-lying, knees bent
+- Open top knee
+- Don't roll backward
+- 3 x 15 each side
+
+**Side-Lying Hip Abduction**
+- Lie on side, leg straight
+- Lift top leg
+- Keep hips stacked
+- 3 x 15 each side
+
+**Glute Bridges**
+- Focus on glute squeeze
+- Don't let knees cave
+- 3 x 15
+
+**Single Leg Glute Bridge**
+- Progress from double leg
+- 3 x 10 each side
+
+**Monster Walks**
+- Band around ankles
+- Squat position
+- Walk sideways
+- 2 x 15 steps each direction
+
+### Flexibility Work
+
+**Quad Stretch**
+- Standing or lying
+- Pull heel to buttock
+- 30 seconds each side
+
+**IT Band Foam Rolling**
+- Lie on roller, outer thigh
+- Roll from hip to knee
+- 60-90 seconds each side
+
+**Hip Flexor Stretch**
+- Half-kneeling
+- Squeeze glute, shift forward
+- 30 seconds each side
+
+**Calf Stretch**
+- Wall stretch, both straight and bent knee
+- 30 seconds each position
+
+### Movement Training
+
+**Wall Sits**
+- Back against wall
+- Knees at 45-60° (not deep)
+- Hold 30-60 seconds
+- 3 sets
+
+**Step-Downs (Controlled)**
+- Stand on step
+- Lower opposite foot slowly
+- Control knee alignment
+- 2 x 10 each leg
+
+**Single Leg Squat to Chair**
+- Lower to chair on one leg
+- Control knee position
+- Progress depth
+- 2 x 8 each leg
+
+## The Key: Knee Alignment
+
+With every exercise, watch that your knee:
+- Tracks over 2nd-3rd toe
+- Doesn't cave inward
+- Stays aligned throughout movement
+
+This is the primary goal of rehab.
+
+## Sample Program
+
+### Daily (15 minutes)
+
+**Stretching:**
+1. Quad stretch: 30 sec each
+2. IT band rolling: 60 sec each
+3. Hip flexor stretch: 30 sec each
+
+**Strengthening:**
+4. Quad sets: 2 x 15
+5. Clamshells: 2 x 15 each
+6. Glute bridges: 2 x 15
+
+### 3x Weekly (Add to Daily)
+
+1. Straight leg raises: 3 x 15
+2. Side-lying abduction: 3 x 15 each
+3. Monster walks: 2 x 15 steps each
+4. Wall sits: 3 x 30 seconds
+5. Step-downs: 2 x 10 each
+
+## Running Modifications
+
+### During Recovery
+
+- Reduce mileage 30-50%
+- Avoid hills initially
+- Shorten stride
+- Increase cadence
+- Soft surfaces when possible
+
+### Return to Running
+
+- No pain during or after running
+- Start with run/walk intervals
+- Increase by 10% per week
+- Continue strengthening 2-3x weekly
+
+## Taping
+
+Patellar taping (McConnell technique) may help:
+- Improves patellar tracking
+- Reduces pain during activity
+- Temporary support during rehab
+
+Consider seeing a physio for proper taping instruction.
+
+## Common Mistakes
+
+### 1. Ignoring Hip Strength
+
+**Problem:** Knee follows hip — weak hips = poor knee control
+**Fix:** Hip strengthening is essential
+
+### 2. Deep Squats Too Soon
+
+**Problem:** Increases patellofemoral pressure
+**Fix:** Stay in pain-free range, progress gradually
+
+### 3. Only Stretching
+
+**Problem:** Doesn't address root cause
+**Fix:** Strengthening is the main treatment
+
+### 4. Running Through Pain
+
+**Problem:** Prolongs recovery
+**Fix:** Modify until pain-free
+
+## Prevention
+
+- Strong glutes and quads
+- Good running form
+- Gradual training progression
+- Proper footwear
+- Cross-training
+
+## The Bottom Line
+
+Runner's knee responds to:
+1. **Hip strengthening** — Most important
+2. **Quad strengthening** — VMO especially
+3. **Movement quality** — Knee alignment
+4. **Activity modification** — While healing
+5. **Patience** — 6-12 weeks typical
+
+Most cases resolve fully with proper rehab.
+
+---
+
+*Foundational Rehab provides runner's knee recovery programs.*
+    \`
+  },
+  'jumpers-knee-exercises': {
+    title: 'Jumper\\'s Knee Exercises: Patellar Tendinopathy Treatment',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is Jumper's Knee?
+
+Jumper's knee (patellar tendinopathy) is pain at the patellar tendon — the tendon connecting your kneecap to your shinbone.
+
+**Symptoms:**
+- Pain at bottom of kneecap
+- Worse with jumping, landing, stairs
+- Stiffness after rest
+- Pain with deep squatting
+- May feel better once warmed up
+
+**Who gets it:** Athletes in jumping sports (volleyball, basketball, track and field), but also runners and recreational athletes.
+
+## Why It Happens
+
+### The Mechanism
+
+Repetitive loading exceeds tendon's capacity to recover. The tendon breaks down faster than it can repair.
+
+### Risk Factors
+
+- Sudden increase in training
+- High volume of jumping/running
+- Inadequate recovery
+- Training on hard surfaces
+- Poor landing mechanics
+- Weak quadriceps
+
+## The Evidence-Based Treatment
+
+**Heavy slow resistance (HSR)** and **eccentric exercises** are the proven treatments for patellar tendinopathy.
+
+### Phase 1: Isometric Loading (Week 1-2)
+
+**Isometric Leg Extension**
+- Leg extension machine or band
+- Hold at 60° knee flexion
+- 45 seconds x 5 sets
+- Reduces pain acutely
+
+**Spanish Squat Isometric**
+- Band around knees, anchored behind
+- Squat to 60-70°, hold
+- 45 seconds x 5 sets
+
+**Why isometrics:**
+- Reduce pain
+- Maintain strength
+- Load tendon safely
+
+### Phase 2: Heavy Slow Resistance (Week 2-8)
+
+**Squat (Slow Tempo)**
+- 3 seconds down, 3 seconds up
+- Progress weight gradually
+- 4 x 8-12 reps
+- 3x weekly
+
+**Leg Press (Slow Tempo)**
+- Same tempo
+- Full available range
+- 4 x 8-12 reps
+
+**Single Leg Squat (Progress to)**
+- When double leg is easy
+- Same slow tempo
+- 3 x 8 each leg
+
+### Phase 3: Eccentric Decline Squats (Alternative/Addition)
+
+**Decline Squat (Single Leg)**
+- Stand on decline board (25°)
+- Lower on injured leg (3 seconds)
+- Return with both legs or good leg
+- 3 x 15, twice daily
+- Classic protocol for patellar tendinopathy
+
+### Phase 4: Return to Sport (Week 8+)
+
+**Plyometric Progression:**
+1. Double leg jumping in place
+2. Single leg hopping in place
+3. Box jumps (small)
+4. Drop landings
+5. Sport-specific drills
+
+**Progress when:**
+- Pain-free during exercise
+- No increase in pain for 24 hours after
+- Strength restored
+
+## Loading Program Details
+
+### Frequency
+
+- Heavy slow resistance: 3x weekly
+- Decline eccentrics (if used): Daily
+
+### Pain Rule
+
+**0-3/10 pain during exercise:** Acceptable
+**4-5/10:** Reduce load
+**6+/10:** Stop, modify approach
+
+Pain should not increase 24 hours after exercise.
+
+### Progression
+
+- Add weight when current load feels moderate
+- Progress 5-10% per week
+- Maintain good form
+
+## Sample Weekly Program
+
+### Week 1-2
+
+**Daily:**
+- Isometric leg extension: 45 sec x 5
+- Ice after if needed
+
+**3x Weekly:**
+- Isometric Spanish squats: 45 sec x 4
+
+### Week 3-8
+
+**3x Weekly:**
+1. Squat (slow): 4 x 10
+2. Leg press (slow): 4 x 10
+3. Single leg squat (when ready): 3 x 8 each
+4. Calf raises: 3 x 15
+
+**Daily (Optional):**
+- Decline eccentrics: 3 x 15
+
+### Week 8+
+
+- Continue strengthening 2x weekly
+- Add plyometrics progressively
+- Gradual return to sport
+
+## Important Considerations
+
+### Don't Rest Completely
+
+Tendons need load to heal. Complete rest makes them weaker.
+
+### Don't Stretch Aggressively
+
+Compresses the tendon at kneecap. Avoid deep quad stretching.
+
+### Modify, Don't Stop
+
+Reduce jumping/running but maintain strength training.
+
+### Be Patient
+
+Tendons heal slowly. Expect 3-6 months for full recovery.
+
+## Common Mistakes
+
+### 1. Too Much Rest
+
+**Problem:** Tendon weakens
+**Fix:** Maintain appropriate loading
+
+### 2. Returning Too Soon
+
+**Problem:** Re-injury
+**Fix:** Complete full rehab progression
+
+### 3. Only Doing Eccentrics
+
+**Problem:** Missing full strength benefits
+**Fix:** Heavy slow resistance is equally effective
+
+### 4. Ignoring Pain Responses
+
+**Problem:** Overloading
+**Fix:** Follow pain rules strictly
+
+## Prevention
+
+- Gradual training progression
+- Adequate recovery between sessions
+- Strength training for quads and hips
+- Proper landing mechanics
+- Appropriate training surfaces
+
+## When to Seek Help
+
+- No improvement after 6-8 weeks
+- Severe pain limiting daily activities
+- Complete inability to jump/run
+- Swelling or warmth at tendon
+
+## The Bottom Line
+
+Jumper's knee requires:
+1. **Heavy loading** — Not rest
+2. **Slow controlled movement** — HSR protocol
+3. **Progressive return** — Plyometrics last
+4. **Patience** — 3-6 months
+5. **Maintenance** — Ongoing strength work
+
+The evidence is clear: load the tendon appropriately, and it heals.
+
+---
+
+*Foundational Rehab provides patellar tendinopathy rehabilitation programs.*
+    \`
+  },
+  'shin-splints-exercises': {
+    title: 'Shin Splints Exercises: Medial Tibial Stress Syndrome Treatment',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Are Shin Splints?
+
+Shin splints (medial tibial stress syndrome) is pain along the inner edge of the shinbone.
+
+**Symptoms:**
+- Pain along inner shin
+- Tenderness to touch along tibia
+- Pain during or after exercise
+- May start as dull ache, become sharp
+- Both legs often affected
+
+**Who gets them:** Runners, military recruits, dancers, athletes who run on hard surfaces.
+
+## Why They Happen
+
+### The Mechanism
+
+Repetitive stress causes inflammation where muscles attach to the tibia. Without adequate recovery, bone and tissue can't repair.
+
+### Risk Factors
+
+- Sudden increase in training
+- Running on hard surfaces
+- Poor footwear
+- Overpronation
+- Weak calf and hip muscles
+- Tight calves
+- High BMI
+
+## Is It a Stress Fracture?
+
+Shin splints and stress fractures can feel similar.
+
+**Shin Splints:**
+- Diffuse pain along shin (several inches)
+- Tender along bone edge
+- Improves with warm-up (sometimes)
+- Aching quality
+
+**Stress Fracture:**
+- Focal point tenderness (one spot)
+- Pain even at rest
+- Worsens with any activity
+- May swell
+
+**If you suspect stress fracture, see a doctor.** Imaging may be needed.
+
+## Treatment Approach
+
+### Phase 1: Acute (Week 1-2)
+
+**Relative Rest**
+- Reduce running 50-75%
+- Cross-train (swimming, cycling)
+- No high-impact activities
+
+**Ice**
+- 15-20 minutes after activity
+- Reduces inflammation
+
+**Calf Stretching**
+- Gastrocnemius stretch: knee straight
+- Soleus stretch: knee bent
+- 30 seconds each, several times daily
+
+### Phase 2: Strengthening (Week 2-6)
+
+**Calf Raises**
+- Both legs, then single leg
+- Slow and controlled
+- 3 x 15, daily
+
+**Eccentric Calf Lowering**
+- Rise on both feet
+- Lower slowly on one foot
+- 3 x 15 each leg
+
+**Toe Raises (Tibialis Anterior)**
+- Rock back on heels
+- Lift toes toward shins
+- 3 x 20
+
+**Resistance Band Dorsiflexion**
+- Band over top of foot
+- Pull toes toward shin
+- 3 x 15 each
+
+### Phase 3: Return to Running (Week 4-8)
+
+**Walk-Run Protocol**
+- Start with 1 min run / 2 min walk
+- Gradually increase run intervals
+- Progress only if pain-free
+
+**Running Form**
+- Shorten stride
+- Increase cadence
+- Land softly
+
+## Hip Strengthening (Often Overlooked!)
+
+Weak hips contribute to shin splints through biomechanical compensation.
+
+**Clamshells**
+- 3 x 15 each side
+
+**Side-Lying Hip Abduction**
+- 3 x 15 each side
+
+**Single Leg Bridges**
+- 3 x 10 each side
+
+**Monster Walks**
+- Band around ankles
+- 2 x 15 steps each direction
+
+## Sample Program
+
+### Daily (10-15 minutes)
+
+**Stretching:**
+1. Gastrocnemius stretch: 30 sec each
+2. Soleus stretch: 30 sec each
+
+**Strengthening:**
+3. Toe raises: 3 x 20
+4. Calf raises: 3 x 15 (progress to single leg)
+5. Eccentric calf lowering: 3 x 10 each
+
+**Hip Work:**
+6. Clamshells: 2 x 15 each
+7. Side-lying abduction: 2 x 15 each
+
+### Return to Running Protocol
+
+**Week 1:** Walk 20 min, 4x
+**Week 2:** 1 min run / 2 min walk x 8, 3x
+**Week 3:** 2 min run / 1 min walk x 8, 3x
+**Week 4:** 5 min run / 1 min walk x 5, 3x
+**Week 5:** 10 min continuous, 3x
+**Week 6:** 15 min continuous, 3x
+**Week 7+:** Increase 10% per week
+
+Stop and go back a week if pain returns.
+
+## Footwear and Orthotics
+
+### Proper Shoes
+
+- Replace running shoes every 300-500 miles
+- Get properly fitted at running store
+- Match shoe to foot type
+
+### Orthotics
+
+May help if you have:
+- Significant overpronation
+- Flat feet
+- Failed conservative treatment
+
+Custom or quality over-the-counter options.
+
+## Surface and Training Modifications
+
+**Avoid:**
+- Hard surfaces (concrete)
+- Sudden mileage increases
+- Daily running initially
+
+**Prefer:**
+- Softer surfaces (trails, track)
+- Gradual progression (10% rule)
+- Alternate days or cross-train
+
+## Common Mistakes
+
+### 1. Running Through Pain
+
+**Problem:** Progresses to stress fracture
+**Fix:** Rest until pain-free, then gradual return
+
+### 2. Only Resting
+
+**Problem:** Doesn't address weakness
+**Fix:** Active strengthening during rest period
+
+### 3. Returning Too Fast
+
+**Problem:** Immediate recurrence
+**Fix:** Follow walk-run protocol
+
+### 4. Ignoring Hip Strength
+
+**Problem:** Biomechanical contribution
+**Fix:** Include hip strengthening
+
+## Prevention
+
+- Gradual training increases
+- Strong calves and hips
+- Proper footwear
+- Varied running surfaces
+- Adequate recovery
+
+## When to See a Doctor
+
+- Pain at rest
+- Point tenderness (one spot)
+- No improvement after 2-3 weeks
+- Pain severe enough to alter gait
+- Swelling
+
+## The Bottom Line
+
+Shin splints require:
+1. **Relative rest** — Not complete
+2. **Calf strengthening** — Eccentrics especially
+3. **Hip strengthening** — Often forgotten
+4. **Gradual return** — Walk-run protocol
+5. **Address causes** — Shoes, surfaces, training
+
+Most shin splints resolve in 2-6 weeks with proper management.
+
+---
+
+*Foundational Rehab provides shin splint recovery programs.*
+    \`
+  },
+  'achilles-tendonitis-exercises': {
+    title: 'Achilles Tendonitis Exercises: Tendinopathy Treatment Guide',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '7 min read',
+    content: \`
+## What Is Achilles Tendonitis?
+
+Achilles tendinopathy is pain and dysfunction of the Achilles tendon — the large tendon connecting your calf muscles to your heel.
+
+**Types:**
+
+**Midportion:** Pain in middle of tendon (2-6 cm above heel)
+**Insertional:** Pain where tendon attaches to heel bone
+
+**Symptoms:**
+- Pain in Achilles area
+- Stiffness, especially in morning
+- Thickening of tendon
+- Pain with activity (running, stairs, jumping)
+- May improve briefly with warm-up
+
+## Why It Happens
+
+### The Core Problem
+
+Tendon loading exceeds recovery capacity. Repeated microtrauma without adequate healing leads to degenerative changes.
+
+### Risk Factors
+
+- Sudden training increase
+- Tight calf muscles
+- Weak calf muscles
+- Older age
+- Overpronation
+- Running hills
+- Poor footwear
+
+## The Evidence: Eccentric Loading Works
+
+The Alfredson protocol (eccentric heel drops) has strong evidence for Achilles tendinopathy.
+
+## Exercises for Midportion Tendinopathy
+
+### Phase 1: Isometrics (Week 1-2)
+
+**Isometric Calf Raise**
+- Rise onto toes (both feet)
+- Hold for 45 seconds
+- 5 sets, 2-3x daily
+- Reduces pain
+
+### Phase 2: Eccentric Loading (Week 2-12)
+
+**Eccentric Heel Drops (Straight Knee)**
+- Stand on step, heels over edge
+- Rise on both feet
+- Lower slowly on affected leg (3-5 seconds)
+- Drop heel below step level
+- Rise again on both feet
+- 3 x 15, twice daily
+
+**Eccentric Heel Drops (Bent Knee)**
+- Same as above but knee slightly bent
+- Targets soleus muscle
+- 3 x 15, twice daily
+
+**Key points:**
+- Do even if there's mild pain (0-5/10)
+- Progress by adding weight (backpack)
+- Continue for 12 weeks minimum
+
+### Phase 3: Heavy Slow Resistance (Alternative)
+
+**Calf Raise (Slow Tempo)**
+- 3 seconds up, 3 seconds down
+- Progress weight
+- 3 x 15, 3x weekly
+
+Research shows HSR is equally effective to eccentrics.
+
+## Exercises for Insertional Tendinopathy
+
+**Important:** Traditional eccentrics can worsen insertional problems due to compression.
+
+### Modified Approach
+
+**Isometrics on Flat Ground**
+- Rise onto toes
+- Hold 45 seconds
+- Don't drop heel below flat
+- 5 x 45 seconds
+
+**Heel Raises (No Overhang)**
+- Rise on toes on flat ground
+- Don't let heel drop below floor level
+- 3 x 15, slow tempo
+
+**Progress to:**
+- Single leg when ready
+- Add weight
+- Avoid positions that compress insertion
+
+## Additional Strengthening
+
+**Seated Calf Raises**
+- Weight on knees
+- Targets soleus
+- 3 x 15
+
+**Leg Press Calf Raises**
+- Full range
+- Heavy load possible
+- 3 x 15
+
+## Stretching: Be Careful
+
+### For Midportion
+
+Gentle calf stretching may help:
+- Hold 30 seconds
+- Don't overstretch
+- After exercise, not before
+
+### For Insertional
+
+**Avoid aggressive stretching.** It compresses the insertion. Skip traditional calf stretches.
+
+## Sample Program
+
+### Midportion Tendinopathy
+
+**Daily (12 weeks):**
+1. Eccentric heel drops (straight): 3 x 15
+2. Eccentric heel drops (bent): 3 x 15
+3. Gentle calf stretch: 30 sec each (after)
+
+**3x Weekly (Optional addition):**
+- Heavy slow calf raises: 3 x 15
+
+### Insertional Tendinopathy
+
+**Daily:**
+1. Isometric holds (flat): 5 x 45 seconds
+2. Heel raises (no drop): 3 x 15
+3. Avoid stretching
+
+**3x Weekly:**
+- Leg press calf raises: 3 x 15
+
+## Activity Modification
+
+### During Rehab
+
+- Reduce running volume 30-50%
+- Avoid hills initially
+- No speed work
+- Cross-train (cycling, swimming)
+
+### Return to Running
+
+- Pain-free for daily activities first
+- Start with walk-run intervals
+- Gradual progression (10% per week)
+- Continue strengthening indefinitely
+
+## Heel Raises in Shoes
+
+A temporary heel lift (1/4 to 1/2 inch) can:
+- Reduce tendon strain
+- Allow more comfortable walking
+- Bridge during early rehab
+
+Remove gradually as symptoms improve.
+
+## Common Mistakes
+
+### 1. Complete Rest
+
+**Problem:** Tendons weaken without load
+**Fix:** Active loading, not rest
+
+### 2. Stretching Insertional Tendinopathy
+
+**Problem:** Compresses the insertion
+**Fix:** Avoid for insertional type
+
+### 3. Stopping When Pain-Free
+
+**Problem:** Tendon not fully remodeled
+**Fix:** Complete 12-week protocol
+
+### 4. Too Much Too Soon
+
+**Problem:** Flare-ups
+**Fix:** Gradual progression, follow pain rules
+
+## Pain Rules
+
+**0-3/10 during exercise:** OK
+**4-5/10:** Reduce intensity
+**6+/10:** Stop, modify
+
+**24-hour rule:** Pain should not be worse the next morning.
+
+## Recovery Timeline
+
+- **4 weeks:** Pain reduction
+- **8 weeks:** Noticeable improvement
+- **12 weeks:** Significant progress
+- **3-6 months:** Full recovery for severe cases
+
+Tendons heal slowly. Be patient.
+
+## When to See a Doctor
+
+- Sudden onset of severe pain (possible rupture)
+- No improvement after 6-8 weeks
+- Complete inability to rise on toes
+- Significant swelling
+- Night pain
+
+## The Bottom Line
+
+Achilles tendinopathy requires:
+1. **Loading, not rest** — Eccentrics or HSR
+2. **Right exercise for type** — Midportion vs insertional
+3. **Consistency** — 12 weeks minimum
+4. **Patience** — Tendons are slow
+5. **Maintenance** — Ongoing calf strength
+
+The evidence is strong: load your tendon appropriately and it heals.
+
+---
+
+*Foundational Rehab provides Achilles tendinopathy rehabilitation programs.*
+    \`
   }
 };
 
