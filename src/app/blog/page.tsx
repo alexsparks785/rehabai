@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'how-to-start-exercising',
+    title: 'How to Start Exercising: A Complete Beginner\\'s Guide',
+    excerpt: 'Never exercised before? Start with 10-minute walks and build from there.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'stretching-myths',
+    title: 'Stretching Myths Debunked: What Science Actually Says',
+    excerpt: 'Static stretching before exercise? Preventing injuries? What research really shows.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-and-mental-health',
+    title: 'Exercise and Mental Health: How Movement Helps Your Mind',
+    excerpt: 'Exercise reduces depression and anxiety. Here\\'s what the research shows.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Benefits',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'daily-stretching-routine',
+    title: 'Daily Stretching Routine: 10 Minutes for Full Body Flexibility',
+    excerpt: 'A simple 10-minute routine covering neck, shoulders, back, hips, and legs.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
     slug: 'balance-exercises-adults',
     title: 'Balance Exercises: Improve Stability at Any Age',
     excerpt: 'Balance declines with age unless trained. Simple exercises to improve stability.',

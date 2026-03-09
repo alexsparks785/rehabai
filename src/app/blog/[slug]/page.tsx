@@ -92244,6 +92244,382 @@ Train hard, recover harder.
 
 *Foundational Rehab balances training with recovery.*
     \`
+  },
+  'how-to-start-exercising': {
+    title: 'How to Start Exercising: A Complete Beginner\\'s Guide',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '7 min read',
+    content: \`
+## Starting From Zero
+
+If you haven't exercised in years (or ever), this guide is for you.
+
+**The truth:** Starting is the hardest part. But it doesn't have to be complicated.
+
+## Week 1: Just Move
+
+**Goal:** Build the habit, not fitness
+
+**What to do:**
+- Walk 10 minutes, 3-4 times
+- That's it. Seriously.
+
+**Why:** You're building a habit. Consistency matters more than intensity at first.
+
+## Week 2: Add Structure
+
+**Walk:** 15 minutes, 4-5 times
+
+**Add (every other day):**
+- 5 bodyweight squats
+- 5 wall push-ups
+- 10 glute bridges
+
+**Total time:** 20 minutes
+
+## Week 3-4: Build
+
+**Walk:** 20 minutes, 5 times
+
+**Strength (3x weekly):**
+- Squats: 10 reps
+- Wall push-ups: 10 reps
+- Glute bridges: 15 reps
+- Plank: 15 seconds
+
+## Common Beginner Mistakes
+
+### 1. Too Much Too Soon
+Start easier than you think. Build up slowly.
+
+### 2. All or Nothing
+Something is always better than nothing.
+
+### 3. No Plan
+Having a simple plan beats winging it.
+
+### 4. Comparing to Others
+Focus on your own progress.
+
+## Building the Habit
+
+**Same time daily:** Anchor to existing routine
+**Start small:** 10 minutes counts
+**Don't miss twice:** One missed day is fine, two starts a pattern
+**Track it:** Check off each day
+
+## What to Expect
+
+**Week 1-2:** Might feel weird, maybe sore
+**Week 3-4:** Starting to feel natural
+**Week 5-8:** Noticing changes
+**Week 8+:** It's becoming a habit
+
+## The Bottom Line
+
+Starting exercise:
+1. **Start small** — 10 minutes is enough
+2. **Be consistent** — Same time, same days
+3. **Progress gradually** — Add a little each week
+4. **Be patient** — Results take time
+5. **Keep going** — The habit is the goal
+
+Everyone starts somewhere. Start today.
+
+---
+
+*Foundational Rehab welcomes complete beginners.*
+    \`
+  },
+  'stretching-myths': {
+    title: 'Stretching Myths Debunked: What Science Actually Says',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## Common Stretching Myths
+
+### Myth 1: "You Must Stretch Before Exercise"
+
+**Reality:** Static stretching before exercise may temporarily reduce power and performance.
+
+**What to do instead:** Dynamic warm-up before, static stretching after.
+
+### Myth 2: "Stretching Prevents Injuries"
+
+**Reality:** Research doesn't strongly support this. Strength training may be more protective.
+
+**What does help:** Proper warm-up, progressive training, adequate recovery.
+
+### Myth 3: "More Flexible = Better"
+
+**Reality:** Too much flexibility can cause instability. You need balance of mobility and stability.
+
+**Ideal:** Enough flexibility for your activities, not maximum possible.
+
+### Myth 4: "Stretching Prevents DOMS"
+
+**Reality:** Stretching doesn't significantly reduce delayed onset muscle soreness.
+
+**What helps:** Gradual progression, adequate recovery, time.
+
+### Myth 5: "Hold Stretches for 10 Seconds"
+
+**Reality:** 30+ seconds is more effective for flexibility changes.
+
+**Better approach:** 30-60 seconds per stretch.
+
+### Myth 6: "No Pain, No Gain"
+
+**Reality:** Stretching should be uncomfortable, not painful.
+
+**Proper sensation:** Mild to moderate stretch feeling, never sharp pain.
+
+### Myth 7: "Stretching 'Lengthens' Muscles"
+
+**Reality:** Muscles don't permanently lengthen from stretching. You become more tolerant of the stretch sensation.
+
+**What happens:** Nervous system adaptation, not structural change.
+
+## What Stretching Actually Does
+
+- Temporarily increases range of motion
+- May reduce muscle tension
+- Promotes relaxation
+- Part of a complete fitness routine
+
+## When to Stretch
+
+**Before workout:** Dynamic stretching only
+**After workout:** Static stretching
+**Daily:** For chronically tight areas
+
+## The Bottom Line
+
+Stretching is useful but overhyped. Focus on:
+1. **Dynamic warm-up** before exercise
+2. **Static stretching** after exercise
+3. **Adequate hold time** (30+ seconds)
+4. **Strength training** for injury prevention
+5. **Balance** of mobility and stability
+
+---
+
+*Foundational Rehab uses evidence-based approaches to flexibility.*
+    \`
+  },
+  'exercise-and-mental-health': {
+    title: 'Exercise and Mental Health: How Movement Helps Your Mind',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Benefits',
+    readTime: '5 min read',
+    content: \`
+## The Mind-Body Connection
+
+Exercise isn't just for your body. Research consistently shows mental health benefits:
+
+- Reduces depression symptoms
+- Lowers anxiety
+- Improves mood
+- Enhances sleep
+- Boosts self-esteem
+- Improves cognitive function
+
+## How Exercise Helps
+
+### Neurochemical Changes
+- Releases endorphins
+- Increases serotonin
+- Boosts dopamine
+- Reduces cortisol
+
+### Psychological Benefits
+- Sense of accomplishment
+- Distraction from worries
+- Social connection
+- Improved self-image
+
+### Brain Changes
+- Increases BDNF (brain growth factor)
+- Improves neuroplasticity
+- Protects against cognitive decline
+
+## What Type of Exercise?
+
+**Good news:** Almost any exercise helps.
+
+**Particularly effective:**
+- Aerobic exercise (walking, running, cycling)
+- Strength training
+- Yoga and mind-body practices
+- Group exercise (social benefit)
+
+## How Much Is Enough?
+
+**For mental health benefits:**
+- 30 minutes of moderate activity
+- 3-5 times per week
+- Even 10 minutes helps
+
+**More isn't always better.** Consistency matters most.
+
+## Exercise for Depression
+
+Research shows exercise can be as effective as medication for mild-moderate depression.
+
+**Best approach:**
+- Regular, scheduled sessions
+- Activities you enjoy
+- Social exercise when possible
+- Outdoor exercise adds benefits
+
+## Exercise for Anxiety
+
+Exercise reduces anxiety through:
+- Burning stress hormones
+- Providing distraction
+- Building confidence
+- Improving sleep
+
+**Helpful types:**
+- Aerobic exercise
+- Yoga
+- Any activity you enjoy
+
+## Getting Started
+
+**When motivation is low:**
+- Start with 5-10 minutes
+- Don't wait for motivation
+- Action often creates motivation
+- Any movement counts
+
+## The Bottom Line
+
+Exercise for mental health:
+1. **Proven effective** — Strong research support
+2. **Any type helps** — Find what you enjoy
+3. **Start small** — 10 minutes is valuable
+4. **Be consistent** — Regular > intense
+5. **Supplement, don't replace** — Works with other treatments
+
+Your brain benefits every time you move.
+
+---
+
+*Foundational Rehab recognizes the mental health benefits of movement.*
+    \`
+  },
+  'daily-stretching-routine': {
+    title: 'Daily Stretching Routine: 10 Minutes for Full Body Flexibility',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: \`
+## The 10-Minute Daily Routine
+
+A simple, complete routine you can do every day.
+
+### Neck (1 minute)
+
+**Neck Tilts**
+- Ear to shoulder
+- 20 seconds each side
+
+**Neck Rotation**
+- Look left, look right
+- 10 seconds each side
+
+### Shoulders (1 minute)
+
+**Cross-Body Stretch**
+- Pull arm across chest
+- 20 seconds each side
+
+**Shoulder Circles**
+- 10 forward, 10 backward
+
+### Chest (1 minute)
+
+**Doorway Stretch**
+- Arm at 90° against frame
+- 30 seconds each side
+
+### Back (2 minutes)
+
+**Cat-Cow**
+- 10 cycles
+
+**Child's Pose**
+- 30 seconds
+
+**Seated Twist**
+- 20 seconds each side
+
+### Hips (2 minutes)
+
+**Hip Flexor Stretch**
+- Half-kneeling
+- 30 seconds each side
+
+**Figure 4 Stretch**
+- Lying or seated
+- 30 seconds each side
+
+### Legs (2 minutes)
+
+**Quad Stretch**
+- Standing or lying
+- 30 seconds each side
+
+**Hamstring Stretch**
+- Standing or seated
+- 30 seconds each side
+
+### Calves (1 minute)
+
+**Wall Calf Stretch**
+- Knee straight: 20 sec each
+- Knee bent: 10 sec each
+
+## Tips for Success
+
+**Best times:**
+- Morning (reduces stiffness)
+- Evening (promotes relaxation)
+- After exercise (muscles warm)
+
+**Keys to consistency:**
+- Same time daily
+- Don't skip days
+- 10 minutes is all you need
+
+## Modifications
+
+**If something hurts:** Skip it or modify
+**If extra tight:** Hold longer
+**If time-limited:** Do half the routine
+
+## The Bottom Line
+
+Daily stretching:
+1. **Takes 10 minutes** — Anyone can find time
+2. **Covers whole body** — Nothing skipped
+3. **Builds flexibility** — Consistent practice works
+4. **Feels good** — Natural reward
+5. **Prevents stiffness** — Stay mobile
+
+Do it daily. Your body will thank you.
+
+---
+
+*Foundational Rehab promotes daily mobility practice.*
+    \`
   }
 };
 
