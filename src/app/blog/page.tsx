@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'grip-strength-training',
+    title: 'Grip Strength Training: Why It Matters and How to Build It',
+    excerpt: 'Grip strength predicts mortality better than blood pressure. Learn why it matters and how to train it.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'ankle-stability-exercises',
+    title: 'Ankle Stability Exercises: Prevent Sprains and Build Strong Ankles',
+    excerpt: 'Ankle sprains are the most common sports injury. Learn how to build stable, sprain-proof ankles.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'upper-crossed-syndrome',
+    title: 'Upper Crossed Syndrome: Causes, Symptoms, and Exercises to Fix It',
+    excerpt: 'Rounded shoulders and forward head? Learn how to identify and fix Upper Crossed Syndrome.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'lower-crossed-syndrome',
+    title: 'Lower Crossed Syndrome: Fix Your Hips and Low Back',
+    excerpt: 'Tight hip flexors and weak glutes cause most low back pain. Learn how to fix Lower Crossed Syndrome.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read'
+  },
+  {
     slug: 'hypermobility-too-flexible',
     title: 'Hypermobility: When Being Too Flexible Is a Problem',
     excerpt: 'Flexibility is good, but too much can cause problems. Here\'s what hypermobile people need to know.',
