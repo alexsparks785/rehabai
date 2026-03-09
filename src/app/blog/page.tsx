@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'desk-posture-exercises',
+    title: 'Desk Posture Exercises: Combat Sitting All Day',
+    excerpt: 'Sitting all day? These exercises and habits prevent pain from desk work.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'morning-stretching-routine',
+    title: 'Morning Stretching Routine: Wake Up Your Body Right',
+    excerpt: '5, 10, or 15-minute morning routines to reduce stiffness and start your day right.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'bedtime-stretching-routine',
+    title: 'Bedtime Stretching Routine: Relax and Sleep Better',
+    excerpt: 'Evening stretching improves sleep quality and reduces tension. Try these calming routines.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'foam-rolling-guide',
+    title: 'Foam Rolling Guide: How to Use a Foam Roller Effectively',
+    excerpt: 'Learn proper foam rolling technique for every muscle group and when to use it.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
+  },
+  {
     slug: 'hamstring-strain-exercises',
     title: 'Hamstring Strain Exercises: Recovery and Prevention',
     excerpt: 'Pulled hamstring? Nordic curls and progressive loading are key to recovery and preventing re-injury.',

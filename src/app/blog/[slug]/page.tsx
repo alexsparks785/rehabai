@@ -86608,6 +86608,981 @@ Strong glutes and avoiding compression positions are the path to recovery.
 
 *Foundational Rehab provides hip bursitis rehabilitation programs.*
     \`
+  },
+  'desk-posture-exercises': {
+    title: 'Desk Posture Exercises: Combat Sitting All Day',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '6 min read',
+    content: \`
+## The Problem with Sitting
+
+Prolonged sitting is linked to:
+- Back pain
+- Neck pain
+- Tight hip flexors
+- Weak glutes
+- Poor posture
+- Increased health risks
+
+The average office worker sits 10+ hours daily. Your body wasn't designed for this.
+
+## What Happens When You Sit
+
+### Muscle Changes
+
+**Get Tight:**
+- Hip flexors
+- Chest muscles
+- Upper trapezius
+- Hamstrings
+
+**Get Weak:**
+- Glutes (gluteal amnesia)
+- Core muscles
+- Mid-back muscles
+- Deep neck flexors
+
+### Postural Changes
+
+- Forward head posture
+- Rounded shoulders
+- Increased thoracic kyphosis
+- Anterior pelvic tilt
+- Compressed spine
+
+## The Solution: Movement Snacks
+
+You can't out-exercise 8+ hours of sitting with a single gym session. You need regular movement throughout the day.
+
+**The rule:** Move every 30-60 minutes.
+
+## Exercises to Do at Your Desk
+
+### Standing Exercises (Every 30-60 min)
+
+**Standing Hip Flexor Stretch**
+- Step one foot back
+- Tuck pelvis under
+- Squeeze back glute
+- Hold 30 seconds each side
+
+**Chest Doorway Stretch**
+- Arm at 90° against doorframe
+- Step through
+- 30 seconds each side
+
+**Chin Tucks**
+- Draw chin straight back
+- Hold 5 seconds
+- 10 reps
+
+**Shoulder Rolls**
+- Roll shoulders up, back, down
+- 10 circles each direction
+
+### Seated Exercises (Without Getting Up)
+
+**Seated Cat-Cow**
+- Hands on knees
+- Arch and round spine
+- 10 cycles
+
+**Seated Twist**
+- Cross arms on chest
+- Rotate left and right
+- 10 each direction
+
+**Neck Stretches**
+- Ear to shoulder, hold 15 sec
+- Look down to armpit, hold 15 sec
+- Each side
+
+**Glute Squeezes**
+- Squeeze glutes hard
+- Hold 5 seconds
+- 10 reps
+
+**Ankle Pumps**
+- Point and flex feet
+- 20 reps
+
+### Quick Reset Routine (2 Minutes)
+
+Do this every hour:
+1. Stand up
+2. Reach arms overhead, stretch (10 sec)
+3. Chin tucks (5 reps)
+4. Hip flexor stretch (15 sec each)
+5. Shoulder rolls (5 each direction)
+6. Glute squeeze (5 reps)
+
+## Longer Breaks: 5-Minute Routines
+
+### Morning Routine (Before Work)
+
+1. Cat-cow: 10 reps
+2. Hip flexor stretch: 30 sec each
+3. Chest stretch: 30 sec each
+4. Glute bridges: 15 reps
+5. Dead bugs: 10 each side
+
+### Lunch Break Routine
+
+1. Walking: 5-10 minutes
+2. Standing hip circles: 10 each direction
+3. Wall angels: 10 reps
+4. Squats: 15 reps
+5. Calf raises: 15 reps
+
+### End of Day Routine
+
+1. Foam roll thoracic spine: 2 minutes
+2. Pigeon stretch: 30 sec each
+3. Chest stretch: 30 sec each
+4. Child's pose: 1 minute
+5. Hip flexor stretch: 30 sec each
+
+## Workstation Setup
+
+Good ergonomics reduce the need for compensation.
+
+### Monitor
+
+- Top of screen at eye level
+- Arm's length away
+- Directly in front
+
+### Chair
+
+- Feet flat on floor
+- Knees at 90°
+- Back supported
+- Armrests at elbow height
+
+### Keyboard and Mouse
+
+- Elbows at 90°
+- Wrists neutral
+- Close to body
+
+### Standing Desk Option
+
+If you have one:
+- Alternate sit/stand (30 min each)
+- Don't just stand still
+- Use anti-fatigue mat
+
+## Building the Habit
+
+### Use Triggers
+
+- Set hourly reminders
+- Stand for every phone call
+- Walk during meetings when possible
+- Movement before/after lunch
+
+### Make It Easy
+
+- Keep resistance band at desk
+- Set up stretch station nearby
+- Use standing meeting rooms
+- Walk to colleague instead of emailing
+
+### Track Progress
+
+- Use app or manual tracking
+- Aim for 6+ movement breaks daily
+- Notice how you feel
+
+## Common Mistakes
+
+### 1. Trying to Fix Posture Through Willpower
+
+**Problem:** Exhausting, unsustainable
+**Fix:** Build strength so good posture is easy
+
+### 2. Only Stretching
+
+**Problem:** Flexibility without strength
+**Fix:** Strengthen weak muscles too
+
+### 3. Infrequent Long Breaks Only
+
+**Problem:** Damage already done
+**Fix:** Frequent short breaks are better
+
+### 4. Perfect Ergonomics, No Movement
+
+**Problem:** Even good posture + stillness is harmful
+**Fix:** Movement is the key, not just position
+
+## Beyond the Desk
+
+### Commute Options
+
+- Stand on public transit
+- Park farther away
+- Take stairs instead of elevator
+
+### Evening Habits
+
+- Don't go from desk to couch
+- Evening walk or workout
+- Mobility routine before bed
+
+### Weekend Recovery
+
+- Active recreation
+- Hiking, sports, gardening
+- Avoid all-day sitting
+
+## The Bottom Line
+
+Desk work doesn't have to wreck your body:
+
+1. **Move every 30-60 minutes** — Non-negotiable
+2. **Stretch tight muscles** — Hip flexors, chest, neck
+3. **Strengthen weak muscles** — Glutes, core, mid-back
+4. **Set up ergonomically** — Reduce strain
+5. **Build habits** — Make movement automatic
+
+The best posture is your next posture. Keep moving.
+
+---
+
+*Foundational Rehab provides desk worker wellness programs.*
+    \`
+  },
+  'morning-stretching-routine': {
+    title: 'Morning Stretching Routine: Wake Up Your Body Right',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: \`
+## Why Stretch in the Morning?
+
+After 6-8 hours of sleep, your body is:
+- Stiff from inactivity
+- Dehydrated
+- In a state of reduced blood flow
+- Often in suboptimal positions
+
+Morning stretching helps:
+- Increase blood flow
+- Reduce stiffness
+- Improve energy
+- Set a positive tone for the day
+- Reduce risk of injury
+
+## Important: Morning Stretching Is Different
+
+Your discs are more hydrated (and vulnerable) in the morning. Avoid:
+- Aggressive forward bending
+- Heavy loading
+- Extreme ranges
+
+Keep it gentle. Save intense stretching for later.
+
+## 5-Minute Morning Routine
+
+### In Bed
+
+**Knee-to-Chest**
+- Lie on back
+- Pull one knee to chest
+- Hold 20 seconds each side
+- Then both knees together
+
+**Supine Twist**
+- Knees bent
+- Let knees fall to one side
+- Arms out for stability
+- 20 seconds each side
+
+### Standing
+
+**Reach and Stretch**
+- Reach arms overhead
+- Clasp hands, lean gently left and right
+- 10 seconds each side
+
+**Hip Circles**
+- Hands on hips
+- Circle hips 10 times each direction
+
+**Cat-Cow (Standing)**
+- Hands on thighs
+- Arch and round spine
+- 10 cycles
+
+### Lower Body
+
+**Standing Quad Stretch**
+- Hold wall for balance
+- Pull heel to buttock
+- 20 seconds each side
+
+**Standing Hamstring Stretch**
+- Foot on low surface
+- Hinge forward with flat back
+- 20 seconds each side
+
+**Calf Stretch**
+- Step into wall
+- Back leg straight
+- 20 seconds each side
+
+## 10-Minute Morning Routine
+
+### Add to 5-Minute Routine:
+
+**World's Greatest Stretch**
+- Lunge position
+- Rotate and reach
+- 5 each side
+
+**Downward Dog to Cobra**
+- Flow between positions
+- 5 cycles
+
+**Hip Flexor Stretch**
+- Half-kneeling position
+- 30 seconds each side
+
+**Neck Stretches**
+- Ear to shoulder
+- Look down to armpit
+- 15 seconds each direction
+
+**Shoulder Circles**
+- 10 forward, 10 backward
+
+## 15-Minute Morning Routine
+
+### Add to 10-Minute Routine:
+
+**Foam Roll (If Available)**
+- Upper back: 1 minute
+- Quads: 30 seconds each
+- Glutes: 30 seconds each
+
+**Glute Bridges**
+- 15 reps
+- Activate glutes for the day
+
+**Dead Bugs**
+- 10 each side
+- Wake up the core
+
+**Bird Dogs**
+- 10 each side
+- Spine stability
+
+## Morning Stretches by Body Part
+
+### For Stiff Neck
+
+1. Chin tucks: 10 reps
+2. Neck rotation: 10 each way
+3. Ear to shoulder: 15 sec each
+4. Look to armpit: 15 sec each
+
+### For Low Back Stiffness
+
+1. Knee-to-chest: 20 sec each
+2. Supine twist: 20 sec each
+3. Cat-cow: 10 reps
+4. Pelvic tilts: 10 reps
+
+### For Tight Hips
+
+1. Hip circles: 10 each direction
+2. Figure 4 stretch: 20 sec each
+3. Hip flexor stretch: 30 sec each
+4. Glute bridges: 10 reps
+
+### For Stiff Shoulders
+
+1. Shoulder circles: 10 each way
+2. Arm circles: 10 each way
+3. Cross-body stretch: 15 sec each
+4. Doorway chest stretch: 20 sec
+
+## Tips for Success
+
+### Make It Automatic
+
+- Do it before anything else
+- Same time, same place
+- Link to existing habit (after alarm, before coffee)
+
+### Start Small
+
+- 5 minutes is enough to start
+- Consistency beats duration
+- Build up over time
+
+### Listen to Your Body
+
+- Morning stiffness varies
+- Adjust intensity daily
+- Don't force ranges
+
+### Hydrate
+
+- Drink water before or during
+- You're dehydrated from sleep
+- Helps tissue mobility
+
+## What NOT to Do in the Morning
+
+### Avoid Deep Forward Folds
+
+Discs are more vulnerable. Save deep toe touches for later.
+
+### Avoid Ballistic Stretching
+
+No bouncing or jerking. Keep it controlled.
+
+### Avoid High Intensity
+
+Save the hard stuff for when you're fully awake and warm.
+
+### Don't Skip If Tight
+
+Being stiff is exactly when you need it most.
+
+## Making It Stick
+
+**Week 1:** 5 minutes, just 3 days
+**Week 2:** 5 minutes, 5 days
+**Week 3:** 10 minutes, 5 days
+**Week 4:** Your routine, your choice
+
+The goal is consistency, not perfection.
+
+## The Bottom Line
+
+Morning stretching:
+1. **Reduces stiffness** — Better than coffee
+2. **Improves energy** — Natural wake-up
+3. **Prevents injury** — Prepare your body
+4. **Sets the tone** — Start day mindfully
+5. **Takes minutes** — 5-15 is enough
+
+Your body will thank you. Start tomorrow.
+
+---
+
+*Foundational Rehab provides daily mobility programs.*
+    \`
+  },
+  'bedtime-stretching-routine': {
+    title: 'Bedtime Stretching Routine: Relax and Sleep Better',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: \`
+## Why Stretch Before Bed?
+
+Evening stretching can:
+- Release muscle tension from the day
+- Activate the relaxation response
+- Improve sleep quality
+- Reduce next-day stiffness
+- Create a calming bedtime ritual
+
+Research shows stretching before bed improves sleep quality and reduces insomnia symptoms.
+
+## The Key: Relaxation, Not Intensity
+
+Bedtime stretching should be:
+- Gentle and passive
+- Focused on relaxation
+- Combined with slow breathing
+- Calming, not stimulating
+
+**Avoid:**
+- Intense or painful stretches
+- Active or dynamic movements
+- Anything that elevates heart rate
+
+## 5-Minute Bedtime Routine
+
+### Lying Down (Can Do in Bed)
+
+**Knee-to-Chest**
+- Pull one knee to chest
+- Breathe deeply
+- 30 seconds each side
+
+**Supine Figure 4**
+- Cross ankle over knee
+- Gently pull toward chest
+- 30 seconds each side
+
+**Supine Twist**
+- Both knees to one side
+- Arms out, head opposite
+- 30 seconds each side
+
+**Happy Baby**
+- Hold outsides of feet
+- Gently pull knees toward armpits
+- 30-60 seconds
+
+## 10-Minute Bedtime Routine
+
+### Add to 5-Minute Routine:
+
+**Child's Pose**
+- Knees wide, sit back
+- Arms extended or at sides
+- 1-2 minutes
+
+**Seated Forward Fold**
+- Legs extended
+- Fold forward gently
+- 30-60 seconds
+
+**Neck Stretches**
+- Ear to shoulder
+- Gentle, no forcing
+- 20 seconds each side
+
+**Legs Up the Wall**
+- Lie with legs up wall
+- Arms relaxed
+- 2-3 minutes
+
+## 15-Minute Bedtime Routine
+
+### Complete Relaxation Sequence
+
+**1. Seated Breathing (1 min)**
+- Sit comfortably
+- 4-count inhale, 6-count exhale
+- Settle into the practice
+
+**2. Gentle Neck Stretches (1 min)**
+- Ear to shoulder each side
+- Slow, mindful
+
+**3. Seated Cat-Cow (1 min)**
+- Gentle spinal movement
+- Coordinated with breath
+
+**4. Seated Side Stretch (1 min)**
+- Reach arm overhead, lean
+- 30 seconds each side
+
+**5. Seated Forward Fold (1 min)**
+- Legs extended or crossed
+- Relax into it
+
+**6. Child's Pose (2 min)**
+- Deepen relaxation
+- Focus on exhale
+
+**7. Supine Figure 4 (2 min)**
+- 1 minute each side
+- Breathe into hips
+
+**8. Supine Twist (2 min)**
+- 1 minute each side
+- Let gravity do the work
+
+**9. Knee-to-Chest (1 min)**
+- Both knees, gentle rock
+- Release low back
+
+**10. Legs Up Wall (2 min)**
+- Or just lie flat
+- Progressive relaxation
+
+**11. Savasana (1 min)**
+- Lie flat, arms at sides
+- Body scan, release tension
+
+## Breathing for Sleep
+
+Pair stretches with calming breath:
+
+**4-7-8 Breathing**
+- Inhale 4 counts
+- Hold 7 counts
+- Exhale 8 counts
+- 4-8 cycles
+
+**Extended Exhale**
+- Inhale 4 counts
+- Exhale 6-8 counts
+- Activates parasympathetic
+
+**Box Breathing**
+- Inhale 4, hold 4, exhale 4, hold 4
+- Calms the nervous system
+
+## Stretches for Common Issues
+
+### For Low Back Pain
+
+1. Knee-to-chest (both)
+2. Supine twist
+3. Child's pose
+4. Cat-cow (gentle)
+
+### For Shoulder/Neck Tension
+
+1. Neck stretches
+2. Cross-body shoulder stretch
+3. Child's pose with arms forward
+4. Thread the needle (gentle)
+
+### For Hip Tightness
+
+1. Supine figure 4
+2. Happy baby
+3. Butterfly (reclined)
+4. 90/90 stretch (gentle)
+
+### For General Tension
+
+1. Progressive muscle relaxation
+2. Body scan meditation
+3. Any gentle, passive stretches
+4. Legs up the wall
+
+## Creating the Sleep Environment
+
+Combine stretching with:
+- Dim lights
+- Cool room
+- No screens
+- Calm music or silence
+- Comfortable surface
+
+## Common Mistakes
+
+### 1. Stretching Too Intensely
+
+**Problem:** Stimulates rather than relaxes
+**Fix:** Gentle, passive stretches only
+
+### 2. Doing It Too Late
+
+**Problem:** Mind still active
+**Fix:** 15-30 minutes before sleep
+
+### 3. Rushing Through
+
+**Problem:** Doesn't calm the mind
+**Fix:** Move slowly, breathe deeply
+
+### 4. Skipping When Tired
+
+**Problem:** Miss the benefits
+**Fix:** Even 2-3 minutes helps
+
+## Making It a Ritual
+
+**Same time:** Consistent sleep schedule
+**Same place:** Bedroom or beside bed
+**Same routine:** Predictable signals sleep
+**Same duration:** Even 5 minutes counts
+
+The ritual itself tells your body it's time to sleep.
+
+## The Bottom Line
+
+Bedtime stretching:
+1. **Releases tension** — Physical and mental
+2. **Signals sleep** — Creates ritual
+3. **Improves sleep quality** — Research supported
+4. **Reduces next-day stiffness** — Wake up better
+5. **Takes minutes** — 5-15 is enough
+
+Wind down your body, and your mind follows.
+
+---
+
+*Foundational Rehab provides sleep and recovery programs.*
+    \`
+  },
+  'foam-rolling-guide': {
+    title: 'Foam Rolling Guide: How to Use a Foam Roller Effectively',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: \`
+## What Is Foam Rolling?
+
+Foam rolling is a form of self-myofascial release — using a foam cylinder to apply pressure to muscles and connective tissue.
+
+**Benefits:**
+- Increases range of motion
+- Reduces muscle soreness
+- Improves blood flow
+- Aids recovery
+- May reduce injury risk
+
+## How Foam Rolling Works
+
+The exact mechanism is debated, but likely involves:
+
+**Neurological:** Signals to nervous system reduce muscle tone
+**Mechanical:** Pressure affects fascial tissue
+**Circulatory:** Improved blood and lymph flow
+**Pain modulation:** Gate control theory
+
+**What it doesn't do:** Actually "break up" adhesions or scar tissue (requires much more force).
+
+## Basic Technique
+
+### The Fundamentals
+
+1. **Position** roller under target muscle
+2. **Support** yourself with arms/legs
+3. **Roll** slowly (1 inch per second)
+4. **Pause** on tender spots (10-30 seconds)
+5. **Breathe** and try to relax
+6. **Duration** 30-90 seconds per muscle
+
+### Pressure Guidelines
+
+**Light pressure:** Beginners, very tender areas
+**Moderate pressure:** Most applications
+**Heavy pressure:** Dense muscles, experienced users
+
+**Pain scale:** Aim for 5-7/10 discomfort. Should be "hurts so good," not "unbearable."
+
+## Foam Rolling by Body Part
+
+### Upper Back (Thoracic Spine)
+
+- Lie with roller across mid-back
+- Support head with hands
+- Lift hips slightly
+- Roll from mid-back to upper back
+- Avoid rolling on neck or low back
+- 60-90 seconds
+
+### Lats
+
+- Side-lying, roller under armpit area
+- Arm overhead
+- Roll from armpit to mid-ribcage
+- 30-60 seconds each side
+
+### Quads
+
+- Face down, roller under thighs
+- Support on elbows
+- Roll from hip to just above knee
+- Can do both legs or single leg for more pressure
+- 60-90 seconds
+
+### IT Band (Controversial)
+
+- Side-lying, roller under outer thigh
+- Support with arms
+- Roll from hip to knee
+- **Note:** Very painful for many; research on effectiveness is mixed
+- If it causes hip pain, skip it
+- 30-60 seconds each side
+
+### Hamstrings
+
+- Sit on roller, hands behind for support
+- Roll from glutes to just above knee
+- Cross one leg over for more pressure
+- 60 seconds each side
+
+### Glutes
+
+- Sit on roller
+- Cross one ankle over opposite knee
+- Lean toward crossed side
+- 60 seconds each side
+
+### Calves
+
+- Sit with roller under calves
+- Cross one leg over for more pressure
+- Roll from ankle to below knee
+- Rotate leg to hit different areas
+- 60 seconds each side
+
+### Hip Flexors
+
+- Face down, roller under front of hip
+- Roll small area carefully
+- 30-60 seconds each side
+
+## When to Foam Roll
+
+### Before Exercise (Light Rolling)
+
+- 30-60 seconds per area
+- Light pressure
+- Increase blood flow
+- Improve short-term range of motion
+
+### After Exercise (More Thorough)
+
+- 60-90 seconds per area
+- Moderate pressure
+- Aid recovery
+- Reduce soreness
+
+### On Rest Days
+
+- Full routine
+- Focus on problem areas
+- Part of recovery strategy
+
+### Before Bed
+
+- Light, relaxing rolling
+- Calming, not intense
+- May improve sleep
+
+## Sample Foam Rolling Routines
+
+### Pre-Workout (5 min)
+
+1. Thoracic spine: 60 sec
+2. Quads: 30 sec each
+3. Glutes: 30 sec each
+4. Calves: 30 sec each
+
+### Post-Workout (10 min)
+
+1. Thoracic spine: 90 sec
+2. Lats: 45 sec each
+3. Quads: 60 sec each
+4. Hamstrings: 60 sec each
+5. Glutes: 60 sec each
+6. Calves: 45 sec each
+
+### Full Body Recovery (15 min)
+
+All of the above, plus:
+- Hip flexors: 45 sec each
+- IT band (if tolerated): 45 sec each
+- Adductors: 45 sec each
+
+## What NOT to Foam Roll
+
+### Low Back
+
+- Causes hyperextension
+- No muscle mass to protect spine
+- Roll thoracic spine instead
+
+### Neck
+
+- Too many vulnerable structures
+- Use ball for targeted work if needed
+
+### Joints
+
+- Don't roll directly on knee, elbow, etc.
+- Roll muscles above and below
+
+### Injured Areas
+
+- Acute injuries need protection
+- Inflammation, bruising = skip it
+
+### Bony Prominences
+
+- Avoid direct pressure on bones
+- Roll muscle tissue only
+
+## Foam Roller Types
+
+### Standard Foam
+
+- Soft, beginner-friendly
+- Less pressure
+- Good starting point
+
+### High-Density Foam
+
+- Firmer
+- More pressure
+- Lasts longer
+
+### Grid/Textured
+
+- Varied surface
+- Different sensations
+- May target tissue differently
+
+### Vibrating Rollers
+
+- Added vibration
+- May enhance benefits
+- More expensive
+
+## Common Mistakes
+
+### 1. Rolling Too Fast
+
+**Problem:** Doesn't allow tissue response
+**Fix:** Slow down to 1 inch per second
+
+### 2. Rolling Directly on Pain Point
+
+**Problem:** Can aggravate
+**Fix:** Roll around it, approach gradually
+
+### 3. Holding Breath
+
+**Problem:** Increases tension
+**Fix:** Breathe deeply, try to relax
+
+### 4. Too Much Pressure
+
+**Problem:** Bruising, excessive pain
+**Fix:** Lighter pressure, build up over time
+
+### 5. Using It as Only Recovery
+
+**Problem:** Missing other important elements
+**Fix:** Add sleep, nutrition, active recovery
+
+## Does Foam Rolling Replace Stretching?
+
+No — they're complementary:
+
+**Foam rolling:** Affects tone, blood flow, neurological response
+**Stretching:** Lengthens muscle, improves flexibility
+
+Use both for best results.
+
+## The Bottom Line
+
+Foam rolling is a useful recovery tool:
+
+1. **Roll slowly** — 1 inch per second
+2. **Pause on tender spots** — 10-30 seconds
+3. **Moderate pressure** — "Hurts so good"
+4. **Avoid joints and low back** — Muscles only
+5. **Consistency matters** — Regular use yields results
+
+It's not magic, but it's a helpful part of a complete recovery strategy.
+
+---
+
+*Foundational Rehab includes foam rolling in recovery programs.*
+    \`
   }
 };
 
