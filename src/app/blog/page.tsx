@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'full-body-stretch-routine',
+    title: 'Full Body Stretch Routine: Head to Toe Flexibility',
+    excerpt: 'Complete stretching routine covering every major muscle group in 20 minutes.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'dumbbell-bicep-workout',
+    title: 'Dumbbell Bicep Workout: Build Bigger Arms',
+    excerpt: 'Complete bicep workout with just dumbbells. All the curls you need.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercises-for-piriformis-syndrome',
+    title: 'Exercises for Piriformis Syndrome: Relieve Deep Glute Pain',
+    excerpt: 'Stretches and strengthening for piriformis syndrome and sciatica-like symptoms.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'how-to-breathe-during-exercise',
+    title: 'How to Breathe During Exercise: Complete Guide',
+    excerpt: 'Proper breathing improves performance and prevents injury. Here\'s how.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'lower-body-stretches',
     title: 'Lower Body Stretches: Complete Leg and Hip Flexibility Guide',
     excerpt: 'Comprehensive stretching for quads, hamstrings, hips, glutes, and calves.',
