@@ -85582,6 +85582,1032 @@ The evidence is strong: load your tendon appropriately and it heals.
 
 *Foundational Rehab provides Achilles tendinopathy rehabilitation programs.*
     \`
+  },
+  'hamstring-strain-exercises': {
+    title: 'Hamstring Strain Exercises: Recovery and Prevention',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is a Hamstring Strain?
+
+A hamstring strain is a tear in one or more of the three hamstring muscles at the back of your thigh.
+
+**Grades:**
+- **Grade 1:** Mild strain, minor fiber damage
+- **Grade 2:** Partial tear, significant fiber damage
+- **Grade 3:** Complete rupture
+
+**Symptoms:**
+- Sudden pain during activity
+- Pain at back of thigh
+- Bruising (may appear after days)
+- Weakness
+- Difficulty walking (severe strains)
+
+## Why Hamstrings Get Strained
+
+### High-Risk Activities
+
+- Sprinting (most common)
+- Kicking
+- Quick acceleration/deceleration
+- Overstretching
+
+### Risk Factors
+
+- Previous hamstring injury (biggest risk)
+- Muscle weakness
+- Poor flexibility (or too much flexibility)
+- Muscle imbalances
+- Inadequate warm-up
+- Fatigue
+
+## Treatment by Phase
+
+### Acute Phase (Day 0-5)
+
+**PRICE Protocol:**
+- **P**rotect from further injury
+- **R**elative rest (not complete)
+- **I**ce: 15-20 min, several times daily
+- **C**ompression: Elastic bandage
+- **E**levation: When resting
+
+**Gentle Movement:**
+- Pain-free walking
+- Gentle range of motion
+- Avoid stretching
+
+### Subacute Phase (Day 5 - Week 3)
+
+**Begin Loading:**
+
+**Isometric Hamstring Holds**
+- Lie face down
+- Curl heel toward buttock
+- Hold against light resistance
+- 5-10 second holds
+- 3 x 10
+
+**Prone Hamstring Curls (Light)**
+- Lie face down
+- Curl heel up slowly
+- Control the lowering
+- Light resistance only
+- 3 x 15
+
+**Bridges**
+- Progress from double to single leg
+- 3 x 15
+
+**Walking:**
+- Increase duration
+- Maintain comfortable pace
+
+### Strengthening Phase (Week 3-8)
+
+**Eccentric Strengthening (Key!)**
+
+**Nordic Curls (Assisted)**
+- Kneel, partner holds ankles
+- Lower body forward slowly
+- Use arms to push back up
+- Progress by reducing assistance
+- 3 x 6-8
+
+**Romanian Deadlifts**
+- Hip hinge with weight
+- Feel hamstring stretch
+- 3 x 10-12
+
+**Single Leg Romanian Deadlifts**
+- Progress from double leg
+- 3 x 8 each leg
+
+**Sliding Leg Curls**
+- Lie on back, heels on sliders
+- Bridge up, curl heels in
+- Extend out slowly
+- 3 x 10
+
+### Return to Sport Phase (Week 6-12)
+
+**Progressive Running:**
+1. Jogging: 50% speed
+2. Striding: 70% speed
+3. Running: 85% speed
+4. Sprinting: 95%, then 100%
+
+**Agility Drills:**
+- Cutting
+- Quick direction changes
+- Sport-specific movements
+
+**Criteria for Return:**
+- No pain with full-speed sprinting
+- Strength within 10% of other leg
+- Full range of motion
+- Confidence in the leg
+
+## Sample Program
+
+### Week 1-2
+
+**Daily:**
+1. Ice: 3-4 times
+2. Gentle walking
+3. Isometric holds: 3 x 10 (when pain allows)
+
+### Week 3-4
+
+**Daily:**
+1. Prone curls (light): 3 x 15
+2. Bridges: 3 x 15
+3. Walking (increase duration)
+
+**3x Weekly:**
+4. Romanian deadlifts: 3 x 10
+
+### Week 5-8
+
+**3x Weekly:**
+1. Nordic curls (assisted): 3 x 6
+2. Single leg RDL: 3 x 8 each
+3. Sliding leg curls: 3 x 10
+4. Hip thrust: 3 x 12
+
+### Week 8+
+
+- Continue strengthening 2x weekly
+- Progressive running program
+- Sport-specific drills
+
+## Nordic Curls: The Key Exercise
+
+Research strongly supports Nordic curls for:
+- Hamstring rehabilitation
+- Hamstring injury prevention
+- Building eccentric strength
+
+**Why eccentrics matter:** Most hamstring injuries occur during eccentric loading (muscle lengthening). Train eccentrically to prevent re-injury.
+
+## Stretching: Be Careful
+
+### Acute Phase
+
+**Don't stretch.** Can worsen the injury.
+
+### Later Phases
+
+Gentle stretching when pain-free:
+- Don't push into pain
+- Hold 20-30 seconds
+- After exercise, not before
+
+**Note:** Flexibility is less important than strength for prevention.
+
+## Re-Injury Prevention
+
+Hamstring re-injury rate is high (up to 30%). Prevent it with:
+
+1. **Complete rehab** — Don't return too soon
+2. **Eccentric strengthening** — Nordics, RDLs
+3. **Hip strengthening** — Glutes support hamstrings
+4. **Proper warm-up** — Dynamic, not static stretching
+5. **Gradual return** — Progressive loading
+6. **Ongoing maintenance** — Continue strengthening
+
+## Common Mistakes
+
+### 1. Returning Too Soon
+
+**Problem:** Re-injury
+**Fix:** Meet all return criteria
+
+### 2. Skipping Eccentrics
+
+**Problem:** Weakness in lengthened position
+**Fix:** Nordics are essential
+
+### 3. Too Much Stretching
+
+**Problem:** Doesn't prevent injury; may delay healing
+**Fix:** Focus on strength
+
+### 4. Ignoring Hip Strength
+
+**Problem:** Hamstrings compensate for weak glutes
+**Fix:** Strengthen entire posterior chain
+
+## Recovery Timeline
+
+- **Grade 1:** 1-3 weeks
+- **Grade 2:** 4-8 weeks
+- **Grade 3:** 3-6 months (may need surgery)
+
+## When to See a Doctor
+
+- Severe pain or weakness
+- Large bruising
+- Unable to walk
+- Pop or snap at time of injury
+- No improvement after 2 weeks
+
+## The Bottom Line
+
+Hamstring strains require:
+1. **Early protection** — Don't push acutely
+2. **Progressive loading** — Gradual return to strength
+3. **Eccentric focus** — Nordics are essential
+4. **Complete rehab** — Don't rush return
+5. **Maintenance** — Prevent re-injury
+
+Strong hamstrings resist injury. Build them properly.
+
+---
+
+*Foundational Rehab provides hamstring rehabilitation programs.*
+    \`
+  },
+  'groin-strain-exercises': {
+    title: 'Groin Strain Exercises: Adductor Injury Recovery',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is a Groin Strain?
+
+A groin strain is an injury to the adductor muscles — the muscles on the inner thigh that pull your leg inward.
+
+**Commonly injured:**
+- Adductor longus (most common)
+- Adductor magnus
+- Adductor brevis
+- Gracilis
+- Pectineus
+
+**Symptoms:**
+- Pain in inner thigh/groin
+- Pain with kicking, cutting, sprinting
+- Tenderness to touch
+- Bruising (sometimes)
+- Weakness with leg adduction
+
+## Why Groin Strains Happen
+
+### High-Risk Activities
+
+- Rapid direction changes
+- Kicking
+- Skating
+- Sliding/lunging
+- Overstretching
+
+### Risk Factors
+
+- Previous groin injury
+- Weak adductors
+- Poor hip mobility
+- Hip muscle imbalances
+- Inadequate warm-up
+
+## Treatment Phases
+
+### Acute Phase (Day 0-7)
+
+**RICE Protocol:**
+- Rest from aggravating activities
+- Ice: 15-20 min, several times daily
+- Compression: Elastic bandage
+- Elevation: When possible
+
+**Gentle Movement:**
+- Pain-free walking
+- Avoid stretching
+- Avoid crossing legs
+
+### Subacute Phase (Week 1-3)
+
+**Isometric Adduction**
+- Ball or pillow between knees
+- Squeeze gently
+- Hold 5-10 seconds
+- 3 x 10
+
+**Supine Adduction (Sliding)**
+- Lie on back
+- Slide injured leg out and in
+- Pain-free range only
+- 3 x 15
+
+**Bridges**
+- Ball between knees
+- Squeeze while bridging
+- 3 x 15
+
+### Strengthening Phase (Week 3-8)
+
+**Side-Lying Adduction**
+- Lie on injured side
+- Lift bottom leg toward ceiling
+- 3 x 15
+
+**Copenhagen Adduction (Modified)**
+- Side plank, top foot on bench
+- Bottom leg hangs or supports
+- Progress to full Copenhagen
+- 3 x 8-10 each side
+
+**Sumo Squats**
+- Wide stance, toes out
+- Squat down, feeling inner thighs
+- 3 x 12
+
+**Lateral Lunges**
+- Step to side
+- Keep other leg straight
+- 3 x 10 each side
+
+**Cable/Band Adduction**
+- Standing, pull leg across body
+- 3 x 15 each side
+
+### Return to Sport Phase (Week 6-12)
+
+**Agility Progression:**
+1. Jogging straight
+2. Gentle curves
+3. Wide cutting
+4. Sharp cutting
+5. Sport-specific drills
+
+**Kicking Progression (If Applicable):**
+1. Gentle passing
+2. Increased power
+3. Full power
+
+## The Copenhagen Adduction Exercise
+
+Research shows Copenhagen exercises significantly reduce groin injury risk.
+
+**Progression:**
+1. Short lever (knee on bench): Easier
+2. Long lever (foot on bench): Harder
+3. Dynamic (lower and lift): Hardest
+
+**Protocol:**
+- Build to 3 x 10-15 each side
+- Include in regular training
+
+## Sample Program
+
+### Week 1-2
+
+**Daily:**
+1. Ice: 3-4 times
+2. Gentle walking
+3. Isometric adduction: 3 x 10 (when pain allows)
+
+### Week 3-4
+
+**Daily:**
+1. Side-lying adduction: 3 x 15
+2. Bridges with squeeze: 3 x 15
+3. Sliding adduction: 3 x 15
+
+**3x Weekly:**
+4. Sumo squats: 3 x 12
+
+### Week 5-8
+
+**3x Weekly:**
+1. Copenhagen (modified): 3 x 8 each
+2. Lateral lunges: 3 x 10 each
+3. Cable adduction: 3 x 15 each
+4. Single leg RDL: 3 x 8 each
+
+### Week 8+
+
+- Continue strengthening 2x weekly
+- Progressive running/cutting
+- Sport-specific drills
+
+## Hip Strengthening (Essential)
+
+Groin injuries often involve hip weakness. Include:
+
+**Glute Work:**
+- Bridges → Single leg bridges
+- Clamshells
+- Hip thrusts
+
+**Hip Flexor Work:**
+- Standing hip flexion
+- Mountain climbers (when ready)
+
+**Core Work:**
+- Planks
+- Side planks
+- Dead bugs
+
+## Stretching Considerations
+
+### Acute Phase
+
+**Don't stretch.** Can worsen injury.
+
+### Later Phases
+
+Gentle stretching when pain-free:
+- Butterfly stretch (gentle)
+- Frog stretch (careful)
+- 20-30 seconds, no forcing
+
+**Focus remains on strength**, not flexibility.
+
+## Prevention
+
+### Copenhagen Protocol
+
+Research shows including Copenhagen exercises in training reduces groin injuries by up to 41%.
+
+**Recommendation:**
+- 2-3 times per week
+- As part of regular training
+- Continue indefinitely
+
+### Other Prevention Measures
+
+- Adequate warm-up
+- Progressive training loads
+- Strong adductors AND abductors
+- Good hip mobility
+- Core stability
+
+## Common Mistakes
+
+### 1. Stretching Too Early
+
+**Problem:** Delays healing
+**Fix:** Wait until pain-free
+
+### 2. Returning Too Soon
+
+**Problem:** Re-injury (very common)
+**Fix:** Complete full rehab
+
+### 3. Ignoring Hip Strength
+
+**Problem:** Imbalances persist
+**Fix:** Comprehensive hip strengthening
+
+### 4. Skipping Copenhagen Exercises
+
+**Problem:** Missing proven prevention
+**Fix:** Make them routine
+
+## Recovery Timeline
+
+- **Grade 1:** 1-2 weeks
+- **Grade 2:** 4-8 weeks
+- **Grade 3:** 3+ months
+
+## When to See a Doctor
+
+- Severe pain
+- Significant bruising
+- Unable to walk
+- Pain with coughing/sneezing (may indicate hernia)
+- No improvement after 2 weeks
+
+## The Bottom Line
+
+Groin strains require:
+1. **Early protection** — Don't stretch acutely
+2. **Progressive adductor strengthening** — Key to recovery
+3. **Copenhagen exercises** — Proven prevention
+4. **Hip strengthening** — Address the whole chain
+5. **Patient return** — Re-injury is common
+
+Copenhagen exercises should be routine for any athlete at risk.
+
+---
+
+*Foundational Rehab provides groin injury rehabilitation programs.*
+    \`
+  },
+  'calf-strain-exercises': {
+    title: 'Calf Strain Exercises: Recovery and Return to Activity',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '5 min read',
+    content: \`
+## What Is a Calf Strain?
+
+A calf strain is a tear in the calf muscles — either the gastrocnemius (upper calf) or soleus (lower calf).
+
+**Gastrocnemius Strain:**
+- More common in younger athletes
+- Sharp pain during push-off
+- Often during sprinting or jumping
+
+**Soleus Strain:**
+- More common in endurance athletes
+- Deeper, more gradual pain
+- Often during running
+
+**Symptoms:**
+- Sudden pain in calf
+- Difficulty walking (especially on toes)
+- Swelling
+- Bruising (may appear later)
+- Possible "pop" sensation
+
+## Why Calf Strains Happen
+
+### Common Causes
+
+- Explosive movements (sprinting, jumping)
+- Quick direction changes
+- Overuse in running
+- Inadequate warm-up
+- Fatigue
+
+### Risk Factors
+
+- Previous calf injury
+- Tight calves
+- Weak calves
+- Older age
+- Sudden training increases
+
+## Treatment Phases
+
+### Acute Phase (Day 0-5)
+
+**Initial Management:**
+- Ice: 15-20 min, several times daily
+- Compression: Elastic bandage
+- Heel lift in shoe (reduces strain)
+- Crutches if needed for walking
+
+**Movement:**
+- Gentle ankle pumps
+- Pain-free walking (with heel lift)
+
+### Subacute Phase (Day 5 - Week 3)
+
+**Gentle Stretching (When Pain Allows)**
+- Wall calf stretch (knee straight)
+- Wall calf stretch (knee bent)
+- 20-30 seconds, gentle
+
+**Beginning Strengthening:**
+
+**Seated Calf Raises**
+- Sit with weight on knees
+- Rise onto toes
+- 3 x 15
+
+**Standing Calf Raises (Double Leg)**
+- Rise on both feet
+- Lower slowly
+- 3 x 15
+
+### Strengthening Phase (Week 3-8)
+
+**Single Leg Calf Raises**
+- Progress from double leg
+- Full range of motion
+- 3 x 15 each
+
+**Eccentric Calf Lowering**
+- Rise on both feet
+- Lower slowly on one foot
+- 3 x 15 each
+
+**Seated Calf Raises (Weighted)**
+- Add weight on knees
+- 3 x 15
+
+**Step Calf Raises**
+- Heels drop below step
+- Full range
+- 3 x 15
+
+### Return to Activity Phase (Week 6-12)
+
+**Progressive Return:**
+1. Walking (normal)
+2. Fast walking
+3. Jogging
+4. Running
+5. Sprinting (progressive speeds)
+6. Jumping/plyometrics
+
+**Criteria:**
+- No pain with activities
+- Full strength (single leg calf raise test)
+- Full range of motion
+- Confidence
+
+## Sample Program
+
+### Week 1
+
+**Daily:**
+1. Ice: 3-4 times
+2. Ankle pumps: 3 x 20
+3. Gentle walking with heel lift
+
+### Week 2-3
+
+**Daily:**
+1. Gentle calf stretch: 2 x 30 sec each position
+2. Seated calf raises: 3 x 15
+3. Standing calf raises (double): 3 x 15
+
+### Week 4-6
+
+**Daily:**
+1. Single leg calf raises: 3 x 10-15 each
+2. Eccentric lowering: 3 x 12 each
+
+**3x Weekly:**
+3. Weighted seated calf raises: 3 x 15
+4. Step calf raises: 3 x 15
+
+### Week 6+
+
+- Continue strengthening 3x weekly
+- Progressive return to running/sport
+- Plyometrics when ready
+
+## Gastrocnemius vs Soleus: Exercise Differences
+
+### Gastrocnemius (Upper Calf)
+
+**Targets:** Knee straight exercises
+- Standing calf raises
+- Step calf raises
+- Wall stretch (knee straight)
+
+### Soleus (Lower Calf)
+
+**Targets:** Knee bent exercises
+- Seated calf raises
+- Wall stretch (knee bent)
+- Bent knee calf raises
+
+**For complete rehab, train both positions.**
+
+## Heel Lift Strategy
+
+A heel lift (1/4 to 1/2 inch) in your shoe:
+- Reduces strain on healing calf
+- Makes walking more comfortable
+- Use temporarily during acute phase
+- Gradually reduce as healing progresses
+
+## Testing Progress
+
+### Single Leg Calf Raise Test
+
+- Stand on one leg
+- Rise on toes as many times as possible
+- Compare to other leg
+- Goal: Equal or within 10%
+
+### Hop Test
+
+- Single leg hopping in place
+- Should be pain-free
+- Equal to other side
+
+## Common Mistakes
+
+### 1. Walking on Toes Too Soon
+
+**Problem:** Re-injury
+**Fix:** Use heel lift, walk flat-footed initially
+
+### 2. Stretching Aggressively Early
+
+**Problem:** Disrupts healing
+**Fix:** Gentle stretching only when pain allows
+
+### 3. Skipping Eccentric Training
+
+**Problem:** Weakness in lengthened position
+**Fix:** Eccentric exercises are essential
+
+### 4. Rushing Return to Running
+
+**Problem:** Re-injury
+**Fix:** Progressive return, meet criteria
+
+## Prevention
+
+- Strong calves (regular calf raises)
+- Adequate warm-up
+- Gradual training progression
+- Address tightness
+- Proper footwear
+
+## Recovery Timeline
+
+- **Grade 1:** 1-2 weeks
+- **Grade 2:** 4-6 weeks
+- **Grade 3:** 3+ months
+
+## When to See a Doctor
+
+- Unable to walk
+- Significant bruising
+- Complete loss of strength
+- Pop with severe pain
+- No improvement after 2 weeks
+- Suspicion of Achilles rupture
+
+## The Bottom Line
+
+Calf strains require:
+1. **Early protection** — Heel lift, careful walking
+2. **Progressive strengthening** — Both positions
+3. **Eccentric training** — Key for recovery
+4. **Patient return** — Meet criteria before sport
+5. **Maintenance** — Ongoing calf strength
+
+Strong calves resist injury. Build them methodically.
+
+---
+
+*Foundational Rehab provides calf strain rehabilitation programs.*
+    \`
+  },
+  'hip-bursitis-exercises': {
+    title: 'Hip Bursitis Exercises: Greater Trochanteric Pain Syndrome',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is Hip Bursitis?
+
+Hip bursitis (greater trochanteric pain syndrome/GTPS) is pain on the outside of your hip.
+
+**Old understanding:** Inflammation of the bursa (fluid-filled sac)
+**Current understanding:** Usually tendinopathy of the gluteus medius/minimus + possible bursitis
+
+**Symptoms:**
+- Pain on outside of hip
+- Worse lying on that side
+- Pain walking, stairs, standing on one leg
+- May radiate down outer thigh
+- Tender to touch at hip bone
+
+## Who Gets It?
+
+**Risk factors:**
+- Women > men (3:1)
+- Age 40-60
+- Runners
+- Sedentary individuals
+- After hip surgery
+- Leg length difference
+
+## Why It Happens
+
+### The Compression Problem
+
+Lateral hip pain often comes from compression of tendons against the bone. This happens with:
+
+- Lying on the hip
+- Crossing legs
+- Standing with hip dropped
+- IT band tightness
+
+### Contributing Factors
+
+- Weak hip abductors (glutes)
+- Poor pelvic control
+- Overuse
+- Direct trauma
+
+## Treatment Approach
+
+### Phase 1: Load Management (Week 1-2)
+
+**Reduce Compression:**
+- Don't lie on painful side
+- Pillow between knees at night
+- Don't cross legs
+- Don't stand with hip dropped
+
+**Avoid Stretching:**
+- Traditional IT band stretches compress the bursa
+- Skip the figure-4 and cross-body stretches initially
+
+**Ice:**
+- 15-20 minutes for pain relief
+- Not essential for healing
+
+### Phase 2: Isometric Loading (Week 2-4)
+
+**Isometric Hip Abduction (Wall)**
+- Stand sideways to wall
+- Push outer leg into wall
+- Hold 30-45 seconds
+- 5 sets, 2-3x daily
+
+**Isometric Clam**
+- Side-lying, knees bent
+- Band around knees
+- Push into band without moving
+- Hold 30-45 seconds
+- 5 sets
+
+**Standing Isometric Abduction (Band)**
+- Band around ankles
+- Press out without moving
+- Hold 30-45 seconds
+- 5 sets
+
+### Phase 3: Strengthening (Week 4-8)
+
+**Side-Lying Hip Abduction**
+- Lie on non-painful side
+- Lift top leg
+- Don't let hip roll back
+- 3 x 15
+
+**Clamshells**
+- Side-lying, painful side up
+- Open knee against band
+- 3 x 15
+
+**Standing Hip Abduction**
+- Band around ankles
+- Lift leg out to side
+- 3 x 15 each
+
+**Single Leg Bridge**
+- Lie on back
+- Bridge on one leg
+- 3 x 10 each
+
+**Step-Ups**
+- Step up, control descent
+- 3 x 10 each
+
+### Phase 4: Functional Strengthening (Week 8+)
+
+**Single Leg Squat**
+- Control knee and hip position
+- 3 x 8 each
+
+**Lateral Band Walks**
+- Band around ankles or knees
+- Side-step with control
+- 2 x 15 each direction
+
+**Single Leg Deadlift**
+- Balance and hip strength
+- 3 x 8 each
+
+## Sample Program
+
+### Week 1-2
+
+**Daily:**
+1. Position modifications (no lying on hip, no crossing legs)
+2. Isometric wall push: 5 x 30-45 sec
+3. Ice if needed
+
+### Week 3-4
+
+**Daily:**
+1. Continue position modifications
+2. Isometric clam: 5 x 30-45 sec
+3. Standing isometric abduction: 5 x 30-45 sec
+
+### Week 5-8
+
+**3x Weekly:**
+1. Side-lying abduction: 3 x 15
+2. Clamshells: 3 x 15
+3. Standing abduction: 3 x 15
+4. Single leg bridge: 3 x 10 each
+5. Step-ups: 3 x 10 each
+
+### Week 8+
+
+**2-3x Weekly:**
+1. Lateral band walks: 2 x 15
+2. Single leg squat: 3 x 8 each
+3. Single leg deadlift: 3 x 8 each
+4. Continue abduction work
+
+## What NOT to Do
+
+### Don't Stretch IT Band
+
+Traditional IT band stretches (cross-body, figure-4) compress the lateral hip. **Avoid initially.**
+
+### Don't Foam Roll Directly on Hip
+
+Compresses the painful area. Roll above and below, not on.
+
+### Don't Lie on That Side
+
+Major compression. Use pillow between knees.
+
+### Don't Stand with Hip Dropped
+
+Loads the hip in a compressed position. Stand evenly.
+
+## Posture and Positioning
+
+### Standing
+
+- Weight even on both legs
+- Don't drop hip to one side
+- Don't lock knees
+
+### Sitting
+
+- Don't cross legs
+- Knees at or below hip level
+- Feet flat on floor
+
+### Sleeping
+
+- Don't sleep on painful side
+- Pillow between knees (side sleeping)
+- Pillow under knees (back sleeping)
+
+## Walking Modifications
+
+If walking is painful:
+- Shorten stride
+- Slow down
+- Avoid hills initially
+- Consider walking poles
+
+## Common Mistakes
+
+### 1. Stretching the IT Band
+
+**Problem:** Compresses the painful area
+**Fix:** Avoid until pain-free
+
+### 2. Only Resting
+
+**Problem:** Glutes stay weak
+**Fix:** Isometrics are safe and helpful
+
+### 3. Ignoring Positions
+
+**Problem:** Constant compression
+**Fix:** Modify sleeping, sitting, standing
+
+### 4. Too Much Too Soon
+
+**Problem:** Flares up
+**Fix:** Gradual progression
+
+## Recovery Timeline
+
+- **Mild:** 4-6 weeks
+- **Moderate:** 8-12 weeks
+- **Severe/Chronic:** 3-6+ months
+
+## When to See a Doctor
+
+- No improvement after 6-8 weeks
+- Severe pain affecting daily life
+- Night pain that doesn't improve
+- Signs of other hip pathology
+
+## The Bottom Line
+
+Hip bursitis (GTPS) requires:
+1. **Reduce compression** — Positioning is key
+2. **Don't stretch** — It makes it worse
+3. **Strengthen glutes** — Core of treatment
+4. **Progress gradually** — Isometrics first
+5. **Be patient** — Can take months
+
+Strong glutes and avoiding compression positions are the path to recovery.
+
+---
+
+*Foundational Rehab provides hip bursitis rehabilitation programs.*
+    \`
   }
 };
 

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hamstring-strain-exercises',
+    title: 'Hamstring Strain Exercises: Recovery and Prevention',
+    excerpt: 'Pulled hamstring? Nordic curls and progressive loading are key to recovery and preventing re-injury.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'groin-strain-exercises',
+    title: 'Groin Strain Exercises: Adductor Injury Recovery',
+    excerpt: 'Groin strain from sports? Copenhagen exercises are proven to help recovery and prevention.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'calf-strain-exercises',
+    title: 'Calf Strain Exercises: Recovery and Return to Activity',
+    excerpt: 'Calf muscle strain? Learn how to progress from acute injury to full return to running.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'hip-bursitis-exercises',
+    title: 'Hip Bursitis Exercises: Greater Trochanteric Pain Syndrome',
+    excerpt: 'Pain on the outside of your hip? Glute strengthening and avoiding compression positions help.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
     slug: 'runners-knee-exercises',
     title: 'Runner\\'s Knee Exercises: Patellofemoral Pain Syndrome Treatment',
     excerpt: 'Knee pain around or behind your kneecap? Hip and quad strengthening are key to recovery.',
