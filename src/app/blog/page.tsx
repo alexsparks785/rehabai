@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'overhead-press-form-guide',
+    title: 'Overhead Press Form Guide: Build Strong Shoulders Safely',
+    excerpt: 'Master the overhead press with proper technique and mobility requirements.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'deadlift-for-beginners',
+    title: 'Deadlift for Beginners: How to Lift Safely from the Floor',
+    excerpt: 'Learn the deadlift with proper setup, technique, and common mistake fixes.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'resistance-training-over-50',
+    title: 'Resistance Training Over 50: Build Strength at Any Age',
+    excerpt: 'It\'s never too late to start—strength training benefits at every age.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercise-after-heart-attack',
+    title: 'Exercise After Heart Attack: Safe Return to Physical Activity',
+    excerpt: 'Cardiac rehab and exercise guidelines for recovery after a heart event.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
     slug: 'running-form-guide',
     title: 'Running Form Guide: How to Run More Efficiently and Prevent Injuries',
     excerpt: 'Improve your running efficiency with proper posture, cadence, and foot strike.',

@@ -98468,6 +98468,730 @@ Bench press essentials:
 
 *Foundational Rehab offers lifting form coaching and injury prevention guidance.*
     `
+  },
+  'overhead-press-form-guide': {
+    title: 'Overhead Press Form Guide: Build Strong Shoulders Safely',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## The Overhead Press
+
+The overhead press (OHP) builds:
+- Shoulders (all three heads)
+- Triceps
+- Upper chest
+- Core (stability)
+
+It's a true test of upper body strength and one of the best shoulder builders.
+
+## Setup
+
+### Grip Width
+- Slightly wider than shoulder width
+- Forearms vertical at bottom position
+- Wrists straight, not bent back
+
+### Rack Position
+- Bar rests on front deltoids
+- Elbows slightly in front of bar
+- Chin tucked back (bar will pass face)
+
+### Stance
+- Feet hip to shoulder width
+- Slight knee bend allowed
+- Squeeze glutes for stability
+- Core braced throughout
+
+## The Movement
+
+### Press Phase
+- Drive bar straight up
+- Move head back slightly as bar passes face
+- Move head forward once bar clears
+- Lock out directly over mid-foot
+- Arms by ears at top
+
+### Lowering Phase
+- Controlled descent
+- Move head back as bar passes
+- Return to front delts
+- Reset before next rep
+
+### Breathing
+- Big breath and brace before pressing
+- Hold through the press
+- Exhale at top
+- Reset each rep
+
+## Common Mistakes
+
+### Pressing Around the Face
+- Arcing the bar forward wastes energy
+- Bar should go straight up
+- Move your head, not the bar path
+
+### Excessive Back Arch
+- Some is okay, too much is risky
+- Turns OHP into incline press
+- Keep ribs down, glutes tight
+
+### Soft Lockout
+- Arms should fully extend
+- Shrug up slightly at top
+- Active shoulders, not passive
+
+### Flared Elbows at Start
+- Elbows should be slightly in front
+- Creates better pressing angle
+- Not out to sides
+
+### Wrist Position
+- Wrists should be straight
+- Bar sits on heel of palm
+- Bent wrists = weak position
+
+## Mobility Requirements
+
+OHP requires good:
+- Thoracic extension
+- Shoulder flexion
+- Lat flexibility
+
+### If You Lack Mobility
+
+**Thoracic Work:**
+- Foam roller extensions
+- Cat-cow stretches
+- Thread the needle
+
+**Shoulder/Lat Work:**
+- Wall slides
+- Lat stretches
+- Shoulder dislocates with band
+
+**Temporary Fix:**
+- Wider grip
+- Seated press (less core demand)
+- Dumbbell press (more freedom)
+
+## Variations
+
+### Seated Overhead Press
+- Removes leg drive
+- Stricter on shoulders
+- Less core demand
+- Good for those with back issues
+
+### Push Press
+- Uses leg drive
+- Allows more weight
+- Good for power development
+- Dip and drive with legs
+
+### Dumbbell Press
+- More natural movement path
+- Each arm works independently
+- Often better for those with shoulder issues
+- Seated or standing
+
+### Arnold Press
+- Rotation during press
+- More deltoid activation
+- Named after Schwarzenegger
+- Good for variety
+
+## Programming
+
+### For Strength
+- 3-5 sets of 3-5 reps
+- Heavy weight
+- Full rest between sets
+
+### For Muscle Growth
+- 3-4 sets of 8-12 reps
+- Moderate weight
+- 60-90 second rest
+
+### For Beginners
+- 3 sets of 8-10 reps
+- Focus on form
+- Progress slowly
+
+## Shoulder Health
+
+### Warm-Up
+- Band pull-aparts: 15-20 reps
+- External rotations: 15 each
+- Wall slides: 10 reps
+- Light pressing to warm up
+
+### Balance Your Training
+- Row as much as you press
+- Include face pulls
+- Don't neglect rear delts
+- External rotation work
+
+## The Bottom Line
+
+Overhead press essentials:
+1. **Bar path** — Straight up, move your head
+2. **Brace hard** — Glutes and core tight
+3. **Full lockout** — Arms by ears
+4. **Mobility matters** — Work on it if lacking
+5. **Balance training** — Rows and rear delts too
+
+---
+
+*Foundational Rehab offers pressing technique coaching.*
+    `
+  },
+  'deadlift-for-beginners': {
+    title: 'Deadlift for Beginners: How to Lift Safely from the Floor',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## The Deadlift
+
+The deadlift is arguably the most functional exercise—you're simply picking weight off the floor. It builds:
+- Entire posterior chain (back, glutes, hamstrings)
+- Grip strength
+- Core stability
+- Overall strength
+
+Done right, it's incredibly safe. Done wrong, it can hurt your back.
+
+## The Setup (Everything Matters)
+
+### Foot Position
+- Feet hip-width apart
+- Toes slightly out (10-15°)
+- Bar over mid-foot (about 1 inch from shins)
+
+### The Approach
+1. Stand with bar over mid-foot
+2. Bend down and grip bar (don't move it)
+3. Bend knees until shins touch bar
+4. Chest up, back flat
+5. Take slack out of bar
+6. Lift
+
+### Grip Options
+- **Double overhand:** Best for learning
+- **Mixed grip:** One palm up, one down (heavier weights)
+- **Hook grip:** Thumb under fingers (painful but secure)
+
+### Back Position
+- Neutral spine (natural curve)
+- Not rounded, not hyperextended
+- "Proud chest" helps
+- Engage lats ("protect your armpits")
+
+## The Pull
+
+### Breaking the Floor
+- Push through whole foot
+- Drive the floor away
+- Keep bar close to body
+- Back angle doesn't change initially
+
+### Mid-Pull
+- Bar travels straight up
+- Stays close to legs
+- Knees extend as bar passes them
+- Hips and shoulders rise together
+
+### Lockout
+- Squeeze glutes to finish
+- Stand tall
+- Don't hyperextend back
+- Shoulders back naturally
+
+### Lowering
+- Hinge at hips first
+- Then bend knees once bar passes them
+- Control the weight
+- Don't drop it (unless training allows)
+
+## Common Mistakes
+
+### Rounded Back
+- Most dangerous mistake
+- Keep chest up
+- Brace core
+- If you can't keep flat back, reduce weight
+
+### Bar Drifting Forward
+- Keep bar against legs
+- Dragging is okay (wear long pants)
+- Think "push floor away"
+
+### Jerking the Bar
+- Creates injury risk
+- Take slack out first
+- Smooth, powerful pull
+- Not a yank
+
+### Hips Rising First
+- Called "stripper deadlift"
+- Hips and shoulders should rise together
+- Often from weak quads
+- Think "leg press the floor"
+
+### Hyperextending at Top
+- Don't lean back
+- Just stand tall
+- Squeeze glutes
+- Neutral spine
+
+### Looking Up
+- Strains neck
+- Keep neutral head position
+- Pick a spot on floor 10 feet ahead
+
+## Variations
+
+### Romanian Deadlift (RDL)
+- Starts from standing
+- Hinge until hamstring stretch
+- Less range, more hamstring focus
+- Great accessory exercise
+
+### Sumo Deadlift
+- Wide stance, hands inside legs
+- More quad and adductor
+- Better for some body types
+- Legal in powerlifting
+
+### Trap Bar Deadlift
+- Handles at sides
+- More quad involvement
+- Often easier on lower back
+- Great for beginners
+
+### Deficit Deadlift
+- Stand on platform
+- Increased range of motion
+- Harder off the floor
+- For intermediate/advanced
+
+## Programming for Beginners
+
+### Starting Out
+- 3 sets of 5 reps
+- Start very light (empty bar or light weight)
+- Add 5-10 lbs when form is solid
+- Once weekly is enough to start
+
+### Building Strength
+- 3-5 sets of 3-5 reps
+- Progressive overload
+- Can increase to twice weekly
+- Include RDLs for volume
+
+## Safety
+
+### When to Stop
+- Back starts rounding
+- Form breaks down
+- You're grinding reps
+- Better to end set than get hurt
+
+### Recovery
+- Deadlifts are fatiguing
+- Don't max out often
+- Sleep and eat enough
+- Listen to your body
+
+## The Bottom Line
+
+Deadlift essentials:
+1. **Setup is everything** — Bar over mid-foot, back flat
+2. **Keep bar close** — Drag it up your legs
+3. **Hips and shoulders together** — Rise as one unit
+4. **Neutral spine always** — Never round under load
+5. **Start light** — Build form before weight
+
+---
+
+*Foundational Rehab offers deadlift coaching and form correction.*
+    `
+  },
+  'resistance-training-over-50': {
+    title: 'Resistance Training Over 50: Build Strength at Any Age',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## Why Strength Training Matters More After 50
+
+After age 30, you lose 3-5% of muscle mass per decade. After 50, this accelerates. This muscle loss (sarcopenia) leads to:
+- Weakness and frailty
+- Falls and fractures
+- Metabolic decline
+- Loss of independence
+
+**Good news:** Resistance training can reverse this at any age. Studies show people in their 80s and 90s can still build significant muscle and strength.
+
+## Benefits of Strength Training Over 50
+
+- **Builds muscle mass** — Directly combats sarcopenia
+- **Strengthens bones** — Reduces osteoporosis risk
+- **Improves balance** — Reduces fall risk
+- **Boosts metabolism** — Muscle burns more calories
+- **Enhances function** — Daily activities become easier
+- **Reduces pain** — Stronger muscles protect joints
+- **Improves mood** — Exercise reduces depression
+- **Extends independence** — Stay capable longer
+
+## Getting Started Safely
+
+### Medical Clearance
+If you have:
+- Heart conditions
+- Uncontrolled blood pressure
+- Significant arthritis
+- Recent surgery
+- Other major health issues
+
+...get cleared by your doctor first. Most people can start safely.
+
+### Start Conservatively
+- Begin with light weights
+- Focus on form
+- Progress gradually
+- Listen to your body
+
+## Essential Exercises
+
+### Lower Body
+
+**Squat (or Sit-to-Stand)**
+- Most functional movement
+- Use chair for support initially
+- Progress to bodyweight, then weighted
+- 2-3 sets of 10-15
+
+**Step-Ups**
+- Use sturdy step or bench
+- Hold support if needed
+- Builds single-leg strength
+- 2-3 sets of 8-12 each leg
+
+**Deadlift/Hip Hinge**
+- Kettlebell or dumbbell deadlift
+- Builds posterior chain
+- Start very light
+- 2-3 sets of 10-12
+
+### Upper Body
+
+**Push-Ups (Modified)**
+- Wall, incline, or knee push-ups
+- Progress as strength builds
+- Builds chest, shoulders, triceps
+- 2-3 sets of 8-15
+
+**Rows**
+- Seated cable, machine, or dumbbell
+- Builds back and biceps
+- Important for posture
+- 2-3 sets of 10-12
+
+**Overhead Press**
+- Seated or standing
+- Dumbbells or machine
+- Keep weight moderate
+- 2-3 sets of 10-12
+
+### Core
+
+**Plank**
+- Modified (knees) if needed
+- Build to 30-60 seconds
+- Protects lower back
+- 2-3 holds
+
+**Dead Bug**
+- Safe for all fitness levels
+- Builds core stability
+- 2-3 sets of 8-10 each side
+
+## Sample Beginner Program
+
+### 2-3 Days Per Week (Full Body)
+
+**Warm-Up (5-10 min):**
+- Walking or stationary bike
+- Arm circles
+- Bodyweight squats
+- Hip circles
+
+**Workout:**
+1. Leg Press or Squat: 2 x 12
+2. Chest Press or Push-Up: 2 x 12
+3. Seated Row: 2 x 12
+4. Step-Ups: 2 x 10 each
+5. Shoulder Press: 2 x 12
+6. Plank: 2 x 20-30 sec
+7. Dead Bug: 2 x 8 each side
+
+**Cool-Down:**
+- Walking: 5 min
+- Stretching: 5-10 min
+
+## Progression Guidelines
+
+### Weight Increases
+- Add weight when you can complete all reps with good form
+- Increase by smallest increment available
+- Progress slower than when younger
+- Quality over quantity
+
+### Volume Progression
+- Start with 2 sets
+- Build to 3 sets over weeks
+- Focus on form, not weight
+
+### Recovery
+- 48-72 hours between sessions for same muscles
+- Sleep is critical
+- Expect slower recovery than when younger
+- Listen to your body
+
+## Common Concerns
+
+### "Won't I Get Injured?"
+- Proper form prevents injury
+- Start conservatively
+- Strength training actually reduces injury risk long-term
+- Supervised instruction helps
+
+### "I Have Arthritis"
+- Strength training often helps arthritis
+- Strengthens muscles around joints
+- Start with pain-free ranges
+- Avoid exercises that cause joint pain
+
+### "I've Never Lifted Weights"
+- It's never too late to start
+- Begin with machines (safer, easier to learn)
+- Consider a few sessions with a trainer
+- Progress to free weights gradually
+
+### "I Don't Have Time"
+- 2-3 sessions of 30-45 minutes
+- Can be done at home with minimal equipment
+- Even once weekly provides benefit
+
+## Equipment Options
+
+### At a Gym
+- Full range of machines (great for beginners)
+- Free weights for progression
+- Guidance available
+
+### At Home
+- Resistance bands (versatile, affordable)
+- Dumbbells (adjustable or set)
+- Kettlebell (one can do a lot)
+- Bodyweight exercises
+
+## The Bottom Line
+
+Strength training over 50:
+1. **Essential** — Not optional for healthy aging
+2. **Safe** — With proper form and progression
+3. **Never too late** — Benefits at any age
+4. **Start now** — Consistency matters most
+5. **Progress gradually** — Patience over ego
+
+---
+
+*Foundational Rehab offers age-appropriate strength training guidance.*
+    `
+  },
+  'exercise-after-heart-attack': {
+    title: 'Exercise After Heart Attack: Safe Return to Physical Activity',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Exercise After a Cardiac Event
+
+Exercise after a heart attack isn't just safe—it's essential. Cardiac rehabilitation reduces:
+- Risk of another heart attack by 25%
+- Cardiovascular mortality by 26%
+- Hospital readmissions
+- Depression and anxiety
+
+Your heart is a muscle. Like all muscles, it gets stronger with appropriate exercise.
+
+## Phases of Cardiac Rehabilitation
+
+### Phase I: In Hospital
+- Begins 1-2 days post-event
+- Supervised by medical team
+- Gentle movement and walking
+- Education about condition
+
+### Phase II: Outpatient Cardiac Rehab
+- Typically 12 weeks
+- Supervised exercise sessions
+- ECG monitored
+- Education and lifestyle counseling
+- HIGHLY RECOMMENDED
+
+### Phase III: Maintenance
+- Independent exercise
+- May be gym-based or home
+- Ongoing lifestyle management
+- Regular check-ups
+
+## Starting Exercise
+
+### Get Clearance First
+- Must be cleared by cardiologist
+- Stress test often performed
+- Know your exercise prescription
+- Understand warning signs
+
+### Cardiac Rehab Is Ideal
+- Supervised and monitored
+- Tailored to your condition
+- Education component
+- Support from professionals
+- Insurance often covers it
+
+## Exercise Guidelines
+
+### Aerobic Exercise
+
+**Recommended:**
+- Walking (most common)
+- Stationary cycling
+- Swimming (once cleared)
+- Elliptical
+
+**Guidelines:**
+- Start: 10-15 minutes
+- Build to: 30-60 minutes
+- Frequency: 3-5 days per week
+- Intensity: Can talk but not sing (moderate)
+
+**Rate of Perceived Exertion (RPE):**
+- Scale of 1-10
+- Target: 3-5 (moderate)
+- Should feel somewhat hard but sustainable
+
+### Resistance Training
+
+Often introduced after 2-4 weeks of aerobic training.
+
+**Guidelines:**
+- Light weights initially
+- Higher reps (12-15)
+- Major muscle groups
+- 2 days per week
+- Avoid Valsalva (breath holding)
+
+**Good Exercises:**
+- Leg press
+- Chest press (machine)
+- Seated row
+- Shoulder press
+- Leg curl
+
+### Flexibility
+- Gentle stretching after exercise
+- No breath holding
+- Important for overall function
+
+## Warning Signs to Stop
+
+**Stop immediately and seek help if:**
+- Chest pain or pressure
+- Unusual shortness of breath
+- Dizziness or lightheadedness
+- Irregular heartbeat
+- Excessive fatigue
+- Nausea
+
+**Stop and rest if:**
+- Mild discomfort
+- Unusual tiredness
+- When exceeding target heart rate
+
+Know the difference between normal exercise sensations and warning signs.
+
+## Heart Rate Guidelines
+
+Your doctor may give you a target heart rate based on stress testing.
+
+**General Guidelines:**
+- Stay below prescribed maximum
+- Use heart rate monitor
+- RPE is also valuable guide
+- Don't rely solely on "feeling"
+
+**Medications Affect Heart Rate:**
+- Beta blockers lower heart rate response
+- Don't judge intensity by heart rate alone
+- RPE becomes more important
+
+## Lifestyle Integration
+
+### Beyond Formal Exercise
+- Take stairs when able
+- Park farther away
+- Walk during breaks
+- Garden, household activities
+
+### Risk Factor Management
+- Medications as prescribed
+- Heart-healthy diet
+- Smoking cessation
+- Stress management
+- Weight management
+
+## Emotional Aspects
+
+Fear of exercise after heart attack is common and normal.
+
+**Strategies:**
+- Cardiac rehab provides safe environment
+- Start slowly, build confidence
+- Education reduces fear
+- Support groups help
+- Talk to your medical team
+
+## Long-Term Outlook
+
+With proper rehabilitation and lifestyle:
+- Many return to normal activities
+- Some return to competitive sports
+- Quality of life improves
+- Cardiac function can improve
+- Life expectancy increases
+
+## The Bottom Line
+
+Exercise after heart attack:
+1. **Essential** — Reduces future risk significantly
+2. **Safe** — When properly supervised and prescribed
+3. **Start in cardiac rehab** — Best outcomes
+4. **Progress gradually** — Patience is key
+5. **Know warning signs** — Stop if concerning symptoms
+
+---
+
+*Foundational Rehab works alongside cardiac rehabilitation programs to support recovery.*
+    `
   }
 };
 
