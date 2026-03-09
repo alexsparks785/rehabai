@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'tennis-fitness-exercises',
+    title: 'Tennis Fitness: Exercises for Better Performance and Injury Prevention',
+    excerpt: 'Improve your tennis game and prevent tennis elbow with targeted exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'basketball-injury-prevention',
+    title: 'Basketball Injury Prevention: Protect Your Knees and Ankles',
+    excerpt: 'Prevent ankle sprains, ACL tears, and jumper\'s knee with these exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'soccer-fitness-exercises',
+    title: 'Soccer Fitness: Exercises for Better Performance and Injury Prevention',
+    excerpt: 'FIFA 11+ warm-up, Nordic curls, and more for soccer injury prevention.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'rock-climbing-exercises',
+    title: 'Rock Climbing Exercises: Build Strength for the Wall',
+    excerpt: 'Finger strength, pulling power, and antagonist training for climbers.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
     slug: 'golf-fitness-exercises',
     title: 'Golf Fitness: Exercises for Better Performance and Injury Prevention',
     excerpt: 'Improve your golf game and prevent back pain with these targeted exercises.',

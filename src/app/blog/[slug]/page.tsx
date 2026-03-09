@@ -95911,6 +95911,831 @@ Massage gun essentials:
 
 *Foundational Rehab incorporates self-myofascial release into recovery protocols.*
     `
+  },
+  'tennis-fitness-exercises': {
+    title: 'Tennis Fitness: Exercises for Better Performance and Injury Prevention',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Why Tennis Fitness Matters
+
+Tennis demands a unique combination of:
+- Explosive power (serves, groundstrokes)
+- Quick lateral movement (court coverage)
+- Rotational strength (forehand, backhand)
+- Shoulder stability (overhead shots)
+- Core endurance (long matches)
+
+Without proper conditioning, compensations lead to common injuries: tennis elbow, shoulder problems, back pain, and ankle sprains.
+
+## Common Tennis Injuries
+
+### Tennis Elbow (Lateral Epicondylitis)
+- Overuse of wrist extensors
+- Worse with one-handed backhand
+- Prevention: forearm strengthening, proper technique
+
+### Shoulder Issues
+- Rotator cuff strain from serving
+- Impingement from repetitive overhead motion
+- Prevention: rotator cuff and scapular exercises
+
+### Lower Back Pain
+- Rotational stress during groundstrokes
+- Extension stress during serves
+- Prevention: core stability, hip mobility
+
+### Ankle Sprains
+- Lateral movement and quick direction changes
+- Prevention: balance training, ankle strengthening
+
+## Key Mobility for Tennis
+
+### Thoracic Rotation
+Essential for groundstrokes and serves.
+
+**Exercise: Seated Rotation**
+- Sit with hands behind head
+- Rotate upper body each direction
+- Keep hips stable
+- 10 reps per side
+
+### Shoulder Mobility
+
+**Exercise: Wall Slides**
+- Back against wall
+- Arms in goalpost position
+- Slide arms up and down
+- Maintain contact with wall
+- 15 reps
+
+### Hip Mobility
+
+**Exercise: 90/90 Stretches**
+- Both legs at 90-degree angles
+- Lean forward over front leg
+- Hold 30 seconds each side
+
+## Strength for Tennis
+
+### Rotational Power
+
+**Exercise: Medicine Ball Rotational Throws**
+- Stand perpendicular to wall
+- Rotate and throw ball into wall
+- Catch and repeat
+- 10 reps each side
+
+**Exercise: Cable Woodchops**
+- High to low and low to high
+- Mimic groundstroke patterns
+- 12 reps each direction
+
+### Shoulder Stability
+
+**Exercise: External Rotation with Band**
+- Elbow at side, bent 90 degrees
+- Rotate forearm outward
+- Control the return
+- 15 reps each arm
+
+**Exercise: Prone Y-T-W Raises**
+- Lie face down
+- Raise arms in Y, T, W patterns
+- Squeeze shoulder blades
+- 10 reps each pattern
+
+### Core Stability
+
+**Exercise: Pallof Press**
+- Resist rotation from cable or band
+- Hold at full extension
+- 10 reps each side
+
+**Exercise: Dead Bug**
+- Opposite arm and leg extension
+- Keep back flat
+- 10 reps each side
+
+### Lower Body Power
+
+**Exercise: Lateral Lunges**
+- Step wide to side
+- Push hips back
+- Return to start
+- 10 each side
+
+**Exercise: Split Squat Jumps**
+- Lunge position
+- Jump and switch legs
+- Land softly
+- 8 reps each side
+
+## Pre-Match Warm-Up (10 Minutes)
+
+1. Light jog with arm circles: 2 min
+2. Lateral shuffles: 30 sec each direction
+3. Leg swings (front/back and side): 10 each
+4. Torso rotations: 20 reps
+5. Arm circles (small to large): 20 each direction
+6. Shadow strokes (forehand, backhand, serve): 10 each
+7. Short sprints with direction changes: 5 reps
+
+## Sample Tennis Fitness Program
+
+### 2-3x Per Week (Off-Season)
+
+**Warm-Up:** 5 min cardio + dynamic stretches
+
+**Strength Circuit:**
+- Goblet squats: 3 x 10
+- Push-ups: 3 x 12
+- Rows: 3 x 10
+- Lateral lunges: 3 x 8 each
+- Pallof press: 3 x 10 each
+
+**Power:**
+- Med ball rotational throws: 3 x 8 each
+- Box jumps or squat jumps: 3 x 6
+
+**Shoulder Care:**
+- External rotation: 2 x 15
+- Y-T-W raises: 2 x 8 each
+
+**Cool-Down:** Static stretching, 5 min
+
+## Forearm Exercises for Tennis Elbow Prevention
+
+**Wrist Curls**
+- Palm up, curl weight up
+- 15 reps, light weight
+
+**Reverse Wrist Curls**
+- Palm down, extend wrist up
+- 15 reps, light weight
+
+**Wrist Rotations**
+- Hold hammer or weighted object
+- Rotate wrist slowly
+- 10 reps each direction
+
+## The Bottom Line
+
+Tennis fitness priorities:
+1. **Rotational power** — Core of every stroke
+2. **Shoulder stability** — Prevent overhead injuries
+3. **Lateral agility** — Court coverage
+4. **Forearm strength** — Tennis elbow prevention
+5. **Hip and thoracic mobility** — Foundation for rotation
+
+---
+
+*Foundational Rehab offers sport-specific training programs.*
+    `
+  },
+  'basketball-injury-prevention': {
+    title: 'Basketball Injury Prevention: Protect Your Knees and Ankles',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Basketball Injury Profile
+
+Basketball combines jumping, cutting, and contact—a recipe for injuries. Most common:
+
+- **Ankle sprains** — Most frequent basketball injury
+- **ACL tears** — Devastating knee injury from landing/cutting
+- **Patellar tendinopathy** — "Jumper's knee" from repetitive jumping
+- **Muscle strains** — Hamstrings, groin, calves
+
+The good news: Most are preventable with proper training.
+
+## Ankle Sprain Prevention
+
+### Why Ankles Are Vulnerable
+- Lateral movements
+- Landing on other players' feet
+- Quick direction changes
+- Previous sprains (biggest risk factor)
+
+### Prevention Exercises
+
+**Single-Leg Balance**
+- Stand on one foot, 30 seconds
+- Progress to eyes closed
+- Add unstable surface (pillow, balance pad)
+- Daily practice
+
+**Ankle Alphabet**
+- Trace the alphabet with your toe
+- Full range of motion
+- 1-2 times through daily
+
+**Calf Raises (All Directions)**
+- Standard (straight ahead)
+- Toes pointed in
+- Toes pointed out
+- 15 reps each direction
+
+**Resistance Band 4-Way**
+- Dorsiflexion (pull toward shin)
+- Plantarflexion (point toes)
+- Inversion (sole faces in)
+- Eversion (sole faces out)
+- 15 reps each direction
+
+### Ankle Bracing
+- Consider bracing if history of sprains
+- High-top shoes help but don't replace strength
+- Tape or brace for high-risk situations
+
+## ACL Injury Prevention
+
+### How ACL Tears Happen
+- Landing from jumps with knee straight
+- Cutting with knee collapsing inward
+- Sudden deceleration
+- Non-contact injuries are most common
+
+### Landing Mechanics Training
+
+**Box Drops**
+- Step off 12-inch box
+- Land with bent knees
+- Knees track over toes (not caving in)
+- "Soft" landing (quiet)
+- Progress to higher boxes
+
+**Depth Jumps**
+- Drop from box, immediately jump up
+- Focus on landing mechanics first
+- Knees aligned, soft landing
+
+**Single-Leg Hop and Hold**
+- Hop forward on one leg
+- Stick the landing for 3 seconds
+- Control knee position
+- Progress to lateral and diagonal hops
+
+### Strength for ACL Prevention
+
+**Nordic Hamstring Curls**
+- Kneel, partner holds ankles
+- Lower body slowly toward ground
+- Catch yourself with hands
+- Push back up and repeat
+- 3 x 5-8 reps
+
+**Lateral Band Walks**
+- Band around ankles
+- Sidestep maintaining tension
+- Keep hips level
+- 15 steps each direction
+
+**Single-Leg Romanian Deadlift**
+- Hinge at hip on one leg
+- Keep back straight
+- Control throughout
+- 3 x 8 each leg
+
+## Jumper's Knee Prevention
+
+### The Problem
+Repetitive jumping stresses the patellar tendon. Over time, this causes pain below the kneecap.
+
+### Prevention Strategies
+
+**Manage Jump Volume**
+- Track number of jumps in practice
+- Build up gradually at season start
+- Monitor for early symptoms
+
+**Eccentric Leg Exercises**
+
+**Decline Squat**
+- Stand on decline board (or heels elevated)
+- Slow squat descent (3-4 seconds)
+- Focus on lowering phase
+- 3 x 15 reps
+
+**Step-Downs**
+- Stand on step
+- Lower opposite foot slowly toward ground
+- Don't touch down, return up
+- 3 x 10 each leg
+
+**Hip Strengthening**
+Weak hips increase patellar tendon stress.
+- Clamshells
+- Side-lying hip abduction
+- Glute bridges
+
+## Pre-Practice Warm-Up
+
+**Dynamic Phase (8-10 min):**
+1. Jog with high knees: 1 min
+2. Butt kicks: 1 min
+3. Lateral shuffles: 30 sec each direction
+4. Carioca: 30 sec each direction
+5. Walking lunges with rotation: 10 each leg
+6. Leg swings (front/back): 10 each
+7. Bodyweight squats: 10 reps
+8. Jump squats (soft landing): 5 reps
+9. Single-leg hops: 5 each leg
+
+## Sample Prevention Program
+
+### 2-3x Per Week
+
+**Ankle Work:**
+- Single-leg balance: 2 x 30 sec each
+- 4-way resistance band: 2 x 15 each
+- Calf raises (all directions): 2 x 15
+
+**ACL Prevention:**
+- Nordic curls: 3 x 5
+- Single-leg RDL: 3 x 8 each
+- Lateral band walks: 2 x 15 each
+- Box drops with stick: 3 x 5
+
+**Patellar Tendon Care:**
+- Decline squats: 3 x 15
+- Step-downs: 2 x 10 each
+- Glute bridges: 3 x 15
+
+## Return from Injury
+
+If you've had an ankle sprain or knee injury:
+- Complete rehabilitation before returning
+- Progress through sport-specific drills
+- Consider preventive bracing
+- Maintain strength program long-term
+
+## The Bottom Line
+
+Basketball injury prevention:
+1. **Ankle strength and balance** — Daily practice
+2. **Landing mechanics** — Soft, knees aligned
+3. **Hamstring strength** — Nordics are key
+4. **Hip strength** — Protects knees
+5. **Load management** — Monitor jump volume
+
+---
+
+*Foundational Rehab offers basketball-specific injury prevention programs.*
+    `
+  },
+  'soccer-fitness-exercises': {
+    title: 'Soccer Fitness: Exercises for Better Performance and Injury Prevention',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Soccer Physical Demands
+
+Soccer requires:
+- Repeated sprints and direction changes
+- Single-leg stability (kicking, planting)
+- Hip mobility (kicking range)
+- Core strength (balance, shielding)
+- Endurance for 90 minutes
+
+Common injuries reflect these demands: hamstring strains, groin injuries, ACL tears, and ankle sprains.
+
+## FIFA 11+ Warm-Up Program
+
+The FIFA 11+ is the most researched injury prevention program in sports. It reduces injuries by 30-50% when performed 2-3x per week.
+
+### Part 1: Running (8 min)
+- Straight running
+- Hip out (open gate)
+- Hip in (close gate)
+- Circling partner
+- Shoulder contact with partner
+- Quick forwards and backwards
+
+### Part 2: Strength/Plyometrics (10 min)
+- Plank variations
+- Side plank
+- Nordic hamstring curls
+- Single-leg balance
+- Squats
+- Jumping with soft landings
+- Bounding
+
+### Part 3: Running (2 min)
+- Speed runs (75-80%)
+- Bounding
+- Cutting movements
+
+## Key Exercises for Soccer
+
+### Hamstring Injury Prevention
+
+Hamstring strains are extremely common in soccer. Nordic curls are the single best prevention exercise.
+
+**Nordic Hamstring Curl**
+- Kneel with ankles held by partner or fixed
+- Lower body forward slowly (3-4 sec)
+- Catch with hands, push back up
+- Build to 3 x 8-10 reps
+- Reduces hamstring injuries by 50-70%
+
+**Romanian Deadlift**
+- Hip hinge with weights
+- Feel hamstring stretch
+- Keep back straight
+- 3 x 10 reps
+
+### Groin Injury Prevention
+
+Groin strains are the second most common soccer injury.
+
+**Copenhagen Adduction**
+- Side plank with top leg on bench
+- Lower leg hangs, lift toward bench
+- Progress from knee support to ankle support
+- 3 x 5-10 each side
+
+**Lateral Lunges**
+- Wide step to side
+- Push hips back
+- Feel adductor stretch
+- 3 x 8 each side
+
+### ACL Prevention (Critical for Soccer)
+
+**Single-Leg Balance Progressions**
+- Basic balance: 30 sec
+- Eyes closed: 30 sec
+- With ball toss: 30 sec
+- With perturbation: 30 sec
+
+**Cutting Technique Drills**
+- Decelerate before cutting (not while cutting)
+- Bend hips and knees during plant
+- Avoid straight-leg planting
+- Practice at submaximal speed first
+
+**Jump Landing Drills**
+- Vertical jump with soft landing
+- Header jump and land
+- Single-leg hop and stick
+- Focus: knees over toes, soft landing
+
+### Core Stability
+
+**Plank**
+- Basic hold: 45-60 sec
+- Add arm or leg lift
+- Add ball taps
+
+**Side Plank**
+- Hold: 30-45 sec each side
+- Progress to hip dips
+- Progress to leg lifts
+
+**Dead Bug**
+- Opposite arm and leg extend
+- Keep back flat
+- 3 x 10 each side
+
+### Single-Leg Strength
+
+Essential for kicking, planting, and injury prevention.
+
+**Bulgarian Split Squat**
+- Rear foot elevated
+- Lower until thigh parallel
+- 3 x 8 each leg
+
+**Single-Leg Squat (Pistol Progression)**
+- Start with box squat
+- Lower box height over time
+- Control knee position
+
+## Position-Specific Considerations
+
+### Goalkeepers
+- Lateral diving power
+- Explosive vertical jump
+- Hip flexibility for splits
+- Shoulder stability
+
+### Defenders
+- Lateral agility
+- Acceleration/deceleration
+- Heading power
+- Physical contact strength
+
+### Midfielders
+- Endurance capacity
+- Repeated sprint ability
+- 360-degree movement
+- Core stability for shielding
+
+### Forwards
+- Acceleration speed
+- Change of direction
+- Shooting power (hip rotation)
+- Balance when challenged
+
+## Sample Weekly Program
+
+### In-Season (2x per week, light)
+
+**Pre-Practice FIFA 11+ Warm-Up:** 15-20 min
+
+**Post-Practice Maintenance:**
+- Nordic curls: 2 x 5
+- Copenhagen adduction: 2 x 5 each
+- Single-leg balance: 2 x 30 sec each
+
+### Off-Season (3x per week)
+
+**Day 1: Lower Body Strength**
+- Squats: 4 x 8
+- Romanian deadlift: 3 x 10
+- Bulgarian split squat: 3 x 8 each
+- Nordic curls: 3 x 8
+- Core circuit: 10 min
+
+**Day 2: Upper Body + Core**
+- Push-ups: 3 x 15
+- Rows: 3 x 12
+- Shoulder work: 3 x 12
+- Plank variations: 3 x 45 sec
+- Rotational exercises: 3 x 10 each
+
+**Day 3: Power + Agility**
+- Box jumps: 4 x 5
+- Lateral bounds: 3 x 6 each
+- Med ball throws: 3 x 8
+- Agility ladder: 5 min
+- Sprint intervals: 6-8 x 20m
+
+## The Bottom Line
+
+Soccer injury prevention:
+1. **Nordic curls** — Hamstring injury prevention gold standard
+2. **Copenhagen adduction** — Groin protection
+3. **FIFA 11+ warm-up** — Proven 30-50% injury reduction
+4. **Landing mechanics** — ACL prevention
+5. **Single-leg strength** — Foundation for soccer movements
+
+---
+
+*Foundational Rehab offers soccer-specific training and injury prevention programs.*
+    `
+  },
+  'rock-climbing-exercises': {
+    title: 'Rock Climbing Exercises: Build Strength for the Wall',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Climbing-Specific Fitness
+
+Rock climbing demands:
+- Grip and finger strength
+- Pulling power (back, biceps)
+- Core tension (body positioning)
+- Shoulder stability (overhead movements)
+- Hip flexibility (high steps, flagging)
+
+Climbers often get injured from overuse (fingers, elbows, shoulders) or imbalances (too much pulling, not enough pushing).
+
+## Common Climbing Injuries
+
+### Finger Pulley Injuries
+- Crimp grip stresses pulley system
+- A2 pulley most commonly injured
+- Prevention: progressive loading, warm-up
+
+### Elbow Tendinopathy
+- Medial (golfer's) or lateral (tennis) elbow
+- From repetitive gripping and pulling
+- Prevention: antagonist training, load management
+
+### Shoulder Injuries
+- Rotator cuff issues
+- Impingement from overhead positions
+- Prevention: external rotation, pushing exercises
+
+## Finger Strength Training
+
+### Hangboard Training (Intermediate/Advanced Only)
+
+**Important:** Don't start hangboard training until you've been climbing consistently for at least 1-2 years. Finger tendons adapt slowly.
+
+**Basic Hang Protocol:**
+- Use large edges (20mm+) to start
+- Hang for 7-10 seconds
+- Rest 3 minutes between sets
+- 3-5 sets, 2x per week maximum
+- Never train to failure
+
+**Half-Crimp vs Open Hand:**
+- Half-crimp: Fingers bent 90° at second knuckle
+- Open hand: Fingers more extended
+- Train both grips
+- Avoid full crimp in training (high injury risk)
+
+### No-Hang Training (Safer Alternative)
+
+**Resistance Band Finger Curls**
+- Band around fingertips
+- Curl fingers against resistance
+- 15-20 reps, 3 sets
+
+## Pulling Strength
+
+### Pull-Up Progressions
+
+**Can't do pull-ups yet:**
+- Dead hangs: Build to 30 sec
+- Negative pull-ups: Jump up, lower slowly (5 sec)
+- Band-assisted pull-ups
+- Inverted rows
+
+**Building pull-up strength:**
+- Strict pull-ups: 3 x max reps
+- Progress to weighted pull-ups
+- Vary grip: wide, narrow, neutral
+
+### Climbing-Specific Pulling
+
+**Lock-Off Training**
+- Pull to 90°, hold 5-10 seconds
+- Repeat at different heights
+- Mimics climbing positions
+
+**One-Arm Progressions**
+- Assisted one-arm hangs
+- One-arm lock-offs (assisted)
+- Very advanced: one-arm pull-ups
+
+**Rows**
+- Cable rows
+- Inverted rows
+- Single-arm rows
+
+## Core Training for Climbing
+
+Climbing requires core tension to keep feet on the wall and control body position.
+
+### Anti-Extension
+
+**Plank**
+- Basic: 45-60 sec
+- Progress: arm or leg lifts
+- Weighted plank
+
+**Ab Wheel Rollouts**
+- From knees initially
+- Control extension
+- Build to standing rollouts
+
+### Hanging Core
+
+**Hanging Knee Raises**
+- Hang from bar
+- Bring knees to chest
+- Control the lowering
+- 3 x 10-15
+
+**Hanging Leg Raises**
+- Straight legs
+- Raise to 90° or higher
+- Advanced: toes to bar
+
+**Front Lever Progressions**
+- Tuck front lever
+- Single leg front lever
+- Full front lever
+
+### Rotational Core
+
+**Oblique Crunches**
+**Russian Twists**
+**Pallof Press**
+
+## Antagonist Training (Injury Prevention)
+
+Climbers pull constantly but rarely push. This creates imbalances leading to injury.
+
+### Pushing Exercises (Essential)
+
+**Push-Ups**
+- Standard: 3 x 15-20
+- Diamond push-ups
+- Pike push-ups
+
+**Dumbbell Press**
+- Bench press or overhead press
+- 3 x 10-12
+- Balance the pulling work
+
+**Dips**
+- Parallel bar or bench dips
+- 3 x 10-15
+
+### External Rotation (Shoulder Health)
+
+**Band External Rotation**
+- Elbow at side
+- Rotate forearm outward
+- 15-20 reps, 2-3 sets
+
+**Face Pulls**
+- Cable or band
+- Pull to face, rotate externally
+- 15 reps
+
+### Wrist Extension
+
+**Reverse Wrist Curls**
+- Palm down
+- Extend wrist up
+- 15-20 reps
+
+## Hip Mobility for Climbing
+
+High steps, drop knees, and flagging require hip mobility.
+
+**Frog Stretch**
+- On all fours, knees wide
+- Rock back toward heels
+- Hold 60 seconds
+
+**Pigeon Pose**
+- Front leg bent across body
+- Lean forward
+- Hold 60 seconds each side
+
+**90/90 Stretch**
+- Both legs at 90 degrees
+- Lean over front leg
+- Rotate to lean over back leg
+
+## Sample Weekly Program
+
+### Climbing 3x/Week + Training 2x/Week
+
+**Climbing Days:**
+- 15-20 min warm-up (easy climbing, stretching)
+- Climb 60-90 min
+- 10 min cool-down stretching
+
+**Training Day 1: Upper Body**
+- Pull-ups: 4 x max
+- Rows: 3 x 10
+- Push-ups: 3 x 15
+- Dips: 3 x 10
+- External rotation: 3 x 15
+- Core: 10 min
+
+**Training Day 2: Core + Mobility**
+- Hanging leg raises: 3 x 10
+- Front lever work: 3 x hold
+- Plank variations: 3 x 45 sec
+- Hip mobility: 15 min
+- Antagonist exercises: 15 min
+
+**Hangboard (If Experienced):**
+- 1-2x per week
+- After full rest day
+- Not before climbing day
+
+## Warm-Up for Climbing
+
+**Never climb hard when cold.** Finger injuries often happen on the first few routes.
+
+1. Light cardio: 5 min (jog, jumping jacks)
+2. Arm circles and shoulder stretches
+3. Wrist circles and stretches
+4. Easy traversing: 5-10 min
+5. Gradually increase difficulty
+6. First hard attempt after 15-20 min
+
+## The Bottom Line
+
+Climbing fitness priorities:
+1. **Antagonist training** — Push to balance pull
+2. **Core strength** — Body tension on the wall
+3. **Finger strength** — Progressive, patient approach
+4. **Hip mobility** — High steps and flexibility
+5. **Proper warm-up** — Prevent finger injuries
+
+---
+
+*Foundational Rehab offers climbing-specific training and injury prevention guidance.*
+    `
   }
 };
 
