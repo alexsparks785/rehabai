@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'exercise-for-neck-pain',
+    title: 'Exercise for Neck Pain: Relieve Tension and Build Strength',
+    excerpt: 'Most neck pain responds to simple exercises. Here\'s what actually works.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'foam-roller-exercises-beginners',
+    title: 'Foam Roller Exercises for Beginners: Complete Guide',
+    excerpt: 'New to foam rolling? Start here with techniques that actually help.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'bodyweight-leg-workout',
+    title: 'Bodyweight Leg Workout: Build Strong Legs Without Equipment',
+    excerpt: 'No weights? No problem. Build powerful legs with just your bodyweight.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-for-hip-pain',
+    title: 'Exercise for Hip Pain: Strengthen and Mobilize',
+    excerpt: 'Hip pain often responds well to the right combination of mobility and strength work.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read'
+  },
+  {
     slug: 'stretches-for-runners',
     title: 'Stretches for Runners: Pre-Run, Post-Run, and Recovery',
     excerpt: 'The right stretches at the right time keep runners healthy and fast.',
