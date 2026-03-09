@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'exercise-during-period',
+    title: 'Exercise During Your Period: What to Know',
+    excerpt: 'Yes, you can exercise. It may even help cramps. Here\\'s what to know.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercise-for-energy',
+    title: 'Exercise for Energy: How Movement Boosts Your Day',
+    excerpt: 'Spend energy to gain energy. How exercise fights fatigue.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Benefits',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'pelvic-floor-exercises',
+    title: 'Pelvic Floor Exercises: Kegels and Beyond',
+    excerpt: 'Pelvic floor health matters. How to do Kegels right, and when they\\'re not enough.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'functional-movement-screen',
+    title: 'Movement Screening: Identify Your Weak Links',
+    excerpt: 'Simple tests to find mobility and stability issues before they cause problems.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'posture-correction-exercises',
     title: 'Posture Correction Exercises: Fix Common Postural Problems',
     excerpt: 'Forward head, rounded shoulders, anterior pelvic tilt. Here\\'s how to fix them.',

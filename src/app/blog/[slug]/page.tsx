@@ -94292,6 +94292,303 @@ For joint health:
 
 *Foundational Rehab prioritizes movement for joint health.*
     \`
+  },
+  'exercise-during-period': {
+    title: 'Exercise During Your Period: What to Know',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Special Populations',
+    readTime: '5 min read',
+    content: \`
+## Can You Exercise During Your Period?
+
+**Yes.** Exercise during menstruation is safe and often beneficial.
+
+## Benefits of Exercising During Period
+
+- May reduce cramps (endorphins help)
+- Can improve mood
+- May reduce bloating
+- Maintains routine
+
+## What to Expect
+
+### Menstrual Phase (Days 1-5)
+- Energy may be lower
+- Some prefer lighter workouts
+- Listen to your body
+
+### Follicular Phase (Days 6-14)
+- Energy typically increases
+- Good time for harder training
+- Strength often peaks
+
+### Ovulation (Day 14)
+- Peak energy for many
+- Injury risk may be slightly higher
+- Stay mindful of form
+
+### Luteal Phase (Days 15-28)
+- Energy decreases
+- May feel less coordinated
+- Modify as needed
+
+## Best Exercises During Period
+
+**If you feel good:** Normal training
+
+**If you feel crampy/low energy:**
+- Walking
+- Light yoga
+- Swimming
+- Gentle stretching
+
+## What to Avoid
+
+- Nothing specific—just listen to your body
+- Don't push through if you feel terrible
+- Inversions are fine (old myth)
+
+## The Bottom Line
+
+Exercise during period:
+1. **Is safe** — No restrictions needed
+2. **May help cramps** — Movement often reduces them
+3. **Varies by person** — Listen to your body
+4. **Can be modified** — Lighter is fine
+
+---
+
+*Foundational Rehab supports women through all phases.*
+    \`
+  },
+  'exercise-for-energy': {
+    title: 'Exercise for Energy: How Movement Boosts Your Day',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Benefits',
+    readTime: '5 min read',
+    content: \`
+## The Energy Paradox
+
+It seems counterintuitive: spending energy to get energy.
+
+But exercise consistently increases energy levels.
+
+## How Exercise Boosts Energy
+
+### Improved Mitochondrial Function
+- More and better mitochondria
+- Better cellular energy production
+
+### Better Sleep
+- Fall asleep faster
+- Deeper sleep
+- More restful
+
+### Reduced Stress
+- Lower cortisol
+- Better mood
+- Less mental drain
+
+### Improved Circulation
+- Better oxygen delivery
+- More efficient body
+
+## Best Exercises for Energy
+
+### Morning Movement
+- Gets you going for the day
+- Even 10 minutes helps
+- Walking, stretching, light cardio
+
+### Throughout Day
+- Movement breaks
+- Walks after meals
+- Combat afternoon slump
+
+### Not Too Late
+- Intense exercise late may disrupt sleep
+- Light movement evening is fine
+
+## Quick Energy Boosters
+
+When feeling sluggish:
+1. 5-minute walk
+2. 10 jumping jacks
+3. Stretch for 3 minutes
+4. Climb some stairs
+
+**Movement beats caffeine long-term.**
+
+## The Bottom Line
+
+Exercise for energy:
+1. **Works paradoxically** — Spend energy, gain energy
+2. **Builds over time** — Consistent exercise = more energy
+3. **Any movement helps** — Even brief activity
+4. **Better than stimulants** — Sustainable energy
+
+---
+
+*Foundational Rehab recognizes exercise as natural energy.*
+    \`
+  },
+  'pelvic-floor-exercises': {
+    title: 'Pelvic Floor Exercises: Kegels and Beyond',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is the Pelvic Floor?
+
+A group of muscles at the base of your pelvis that:
+- Support pelvic organs
+- Control bladder and bowel
+- Contribute to sexual function
+- Work with core for stability
+
+## Signs of Pelvic Floor Dysfunction
+
+- Urinary leakage (especially with cough, sneeze, jump)
+- Urgency
+- Difficulty emptying bladder/bowel
+- Pelvic pain
+- Prolapse symptoms
+
+## Kegels: The Basics
+
+### How to Find the Muscles
+- Imagine stopping urine mid-stream
+- Or preventing passing gas
+- Those are your pelvic floor muscles
+
+### Basic Kegel
+1. Contract pelvic floor muscles
+2. Hold 5-10 seconds
+3. Relax fully
+4. Repeat 10 times
+5. 3 sets daily
+
+### Common Mistakes
+- Holding breath
+- Squeezing abs, glutes, or thighs instead
+- Not relaxing fully between contractions
+- Only doing quick squeezes
+
+## Beyond Kegels
+
+### Quick Flicks
+- Fast contractions
+- 1 second on, 1 second off
+- 10-20 reps
+- Trains quick response
+
+### Coordination with Breathing
+- Exhale and lift pelvic floor
+- Inhale and relax
+- Connects breath and floor
+
+### Functional Training
+- Contract before cough/sneeze/lift
+- Practice during daily activities
+
+## When Kegels Aren't Enough
+
+Some people have TIGHT pelvic floors, not weak. For them:
+- Kegels may make things worse
+- Need relaxation techniques
+- See pelvic health PT
+
+## Who Should See a Specialist?
+
+- Persistent symptoms despite exercises
+- Pain
+- Prolapse
+- Postpartum concerns
+- Uncertainty about technique
+
+## The Bottom Line
+
+Pelvic floor health:
+1. **Kegels help many** — But not everyone
+2. **Proper technique matters** — Easy to do wrong
+3. **Beyond just squeezing** — Relaxation too
+4. **See a specialist if needed** — Pelvic health PT
+
+---
+
+*Foundational Rehab addresses pelvic health appropriately.*
+    \`
+  },
+  'functional-movement-screen': {
+    title: 'Movement Screening: Identify Your Weak Links',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: \`
+## What Is Movement Screening?
+
+Assessment of basic movement patterns to identify:
+- Mobility limitations
+- Stability weaknesses
+- Asymmetries
+- Injury risk areas
+
+## Simple Self-Screens
+
+### Deep Squat Test
+**How:** Squat as deep as possible, arms overhead
+**Look for:** Heels rising, knees caving, back rounding, can't get deep
+
+**If limited:** Work on ankle mobility, hip mobility, thoracic extension
+
+### Single Leg Balance
+**How:** Stand on one leg, eyes open, then closed
+**Look for:** Can you hold 30 seconds? Is one side worse?
+
+**If limited:** Work on balance, hip stability
+
+### Shoulder Mobility
+**How:** Reach one hand over shoulder, other behind back. Can they touch?
+**Look for:** Big difference between sides?
+
+**If limited:** Work on shoulder mobility, lat flexibility
+
+### Trunk Rotation
+**How:** Sit and rotate each direction
+**Look for:** Significant difference between sides?
+
+**If limited:** Work on thoracic mobility
+
+### Hip Hinge
+**How:** Can you hip hinge with flat back?
+**Look for:** Back rounding, inability to push hips back
+
+**If limited:** Work on hip hinge pattern, hamstring mobility
+
+## What to Do with Results
+
+1. **Identify limitations** — What's restricted?
+2. **Address mobility first** — Can't strengthen what you can't reach
+3. **Build stability** — Control the new range
+4. **Practice the pattern** — Integrate into movement
+5. **Retest** — Track improvement
+
+## The Bottom Line
+
+Movement screening:
+1. **Identifies weak links** — Where to focus
+2. **Simple tests work** — Don't overcomplicate
+3. **Guides training** — Address what matters
+4. **Should be repeated** — Track changes
+
+---
+
+*Foundational Rehab uses movement assessment to guide programs.*
+    \`
   }
 };
 
