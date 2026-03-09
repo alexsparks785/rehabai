@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'rotator-cuff-exercises',
+    title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulders',
+    excerpt: 'The four rotator cuff muscles need specific exercises. Here\\'s how to strengthen them.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'back-pain-prevention',
+    title: 'Back Pain Prevention: Daily Habits for a Healthy Spine',
+    excerpt: 'Most back pain is preventable. These habits protect your spine.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'improving-flexibility',
+    title: 'How to Improve Flexibility: A Progressive Approach',
+    excerpt: 'Flexibility takes time. Here\\'s a realistic approach that actually works.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'sitting-disease',
+    title: 'Sitting Disease: How to Combat the Effects of Too Much Sitting',
+    excerpt: 'Sitting 10+ hours daily? Here\\'s how to minimize the damage.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '5 min read'
+  },
+  {
     slug: 'how-to-start-exercising',
     title: 'How to Start Exercising: A Complete Beginner\\'s Guide',
     excerpt: 'Never exercised before? Start with 10-minute walks and build from there.',

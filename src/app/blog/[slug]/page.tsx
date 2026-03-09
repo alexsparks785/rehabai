@@ -92620,6 +92620,344 @@ Do it daily. Your body will thank you.
 
 *Foundational Rehab promotes daily mobility practice.*
     \`
+  },
+  'rotator-cuff-exercises': {
+    title: 'Rotator Cuff Exercises: Strengthen and Protect Your Shoulders',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## What Is the Rotator Cuff?
+
+Four muscles that stabilize and move your shoulder:
+- **Supraspinatus** — Lifts arm out to side
+- **Infraspinatus** — External rotation
+- **Teres Minor** — External rotation
+- **Subscapularis** — Internal rotation
+
+## Why Strengthen the Rotator Cuff?
+
+- Prevents shoulder injuries
+- Reduces impingement risk
+- Improves shoulder stability
+- Essential for overhead athletes
+- Helps after injury
+
+## Best Rotator Cuff Exercises
+
+### External Rotation
+
+**Side-Lying External Rotation**
+- Lie on side, elbow at waist
+- Rotate forearm up toward ceiling
+- 3 x 15 each side
+
+**Standing External Rotation (Band)**
+- Band at elbow height
+- Elbow at side, rotate outward
+- 3 x 15 each side
+
+### Internal Rotation
+
+**Standing Internal Rotation (Band)**
+- Band anchored to side
+- Elbow at side, rotate inward
+- 3 x 15 each side
+
+### Full Rotator Cuff
+
+**Prone Y-T-W Raises**
+- Lie face down
+- Y: Arms overhead, thumbs up
+- T: Arms to sides, thumbs up
+- W: Arms bent, elbows at sides
+- 2 x 10 each position
+
+**Face Pulls**
+- Cable or band at face height
+- Pull toward face, externally rotate
+- 3 x 15
+
+### Scapular Stability
+
+**Band Pull-Aparts**
+- Band at chest height
+- Pull apart, squeeze shoulder blades
+- 3 x 20
+
+## Sample Routine (10 min)
+
+1. External rotation (band): 15 each
+2. Internal rotation (band): 15 each
+3. Prone Y-T-W: 10 each position
+4. Face pulls: 15 reps
+5. Band pull-aparts: 20 reps
+
+**Do 2-3x weekly for prevention, daily for rehab.**
+
+## The Bottom Line
+
+Rotator cuff health requires:
+1. **Balance** — Internal and external rotation
+2. **Scapular work** — Support the rotator cuff
+3. **Consistency** — Regular maintenance
+4. **Light weight** — These are small muscles
+
+---
+
+*Foundational Rehab includes rotator cuff work in shoulder programs.*
+    \`
+  },
+  'back-pain-prevention': {
+    title: 'Back Pain Prevention: Daily Habits for a Healthy Spine',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '6 min read',
+    content: \`
+## Preventing Back Pain
+
+Most back pain is preventable with proper habits.
+
+## Daily Habits
+
+### Movement
+- Don't sit for more than 30-60 minutes
+- Walk daily
+- Maintain activity
+
+### Posture
+- Neutral spine when sitting
+- Change positions frequently
+- Avoid prolonged slouching
+
+### Lifting
+- Bend knees, not back
+- Keep load close to body
+- Don't twist while lifting
+
+### Sleep
+- Supportive mattress
+- Proper pillow height
+- Good sleep position
+
+## Exercise for Prevention
+
+### Core Strength
+- Dead bugs
+- Bird dogs
+- Planks
+- Bridges
+
+### Hip Mobility
+- Hip flexor stretches
+- Hip rotation work
+
+### Back Mobility
+- Cat-cow
+- Thoracic rotation
+
+## Workplace Setup
+
+- Monitor at eye level
+- Chair supports low back
+- Feet flat on floor
+- Frequent movement breaks
+
+## Warning Signs
+
+See a professional if:
+- Pain persists beyond 2 weeks
+- Numbness or weakness
+- Affects daily function
+
+## The Bottom Line
+
+Back pain prevention:
+1. **Move regularly** — Sitting is the enemy
+2. **Strengthen core** — Support your spine
+3. **Lift properly** — Protect during tasks
+4. **Sleep well** — Recovery matters
+5. **Act early** — Address issues before they worsen
+
+---
+
+*Foundational Rehab emphasizes prevention.*
+    \`
+  },
+  'improving-flexibility': {
+    title: 'How to Improve Flexibility: A Progressive Approach',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: \`
+## Flexibility Takes Time
+
+You can't become flexible overnight. It requires consistent work over weeks and months.
+
+## Principles of Flexibility Training
+
+### 1. Consistency Over Intensity
+Daily gentle stretching beats occasional intense sessions.
+
+### 2. Hold Long Enough
+30-60 seconds per stretch for best results.
+
+### 3. Don't Force
+Should feel stretch, not pain.
+
+### 4. Warm Up First
+Stretching is more effective when warm.
+
+### 5. Strength in New Ranges
+Build strength where you gain flexibility.
+
+## Progressive Approach
+
+### Week 1-2
+- Basic stretches
+- 20-30 second holds
+- Focus on form
+
+### Week 3-4
+- Increase hold time to 30-45 seconds
+- Add more challenging positions
+
+### Week 5-8
+- 45-60 second holds
+- Active stretching
+- Strength work in ranges
+
+## Best Practices
+
+**Frequency:** Daily for best results
+**Duration:** 10-20 minutes
+**Timing:** After exercise or with warm muscles
+**Breathing:** Slow, deep breaths
+
+## Common Mistakes
+
+- Bouncing
+- Holding breath
+- Pushing through pain
+- Inconsistency
+- Expecting fast results
+
+## Realistic Timeline
+
+- **2 weeks:** Feel slightly less tight
+- **4-6 weeks:** Noticeable improvement
+- **3 months:** Significant change
+- **Ongoing:** Maintenance required
+
+## The Bottom Line
+
+Improving flexibility:
+1. **Be patient** — Takes months
+2. **Be consistent** — Daily practice
+3. **Hold adequately** — 30+ seconds
+4. **Don't force** — Gentle, sustained
+5. **Maintain** — Or you lose it
+
+---
+
+*Foundational Rehab builds flexibility progressively.*
+    \`
+  },
+  'sitting-disease': {
+    title: 'Sitting Disease: How to Combat the Effects of Too Much Sitting',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '5 min read',
+    content: \`
+## The Problem with Sitting
+
+Prolonged sitting is linked to:
+- Back and neck pain
+- Tight hip flexors
+- Weak glutes
+- Poor posture
+- Increased disease risk
+- Reduced lifespan
+
+The average person sits 10+ hours daily.
+
+## What Happens When You Sit
+
+**Muscles that shorten:**
+- Hip flexors
+- Hamstrings
+- Chest
+
+**Muscles that weaken:**
+- Glutes
+- Core
+- Back extensors
+
+**Posture changes:**
+- Forward head
+- Rounded shoulders
+- Flat lumbar curve
+
+## How to Combat Sitting
+
+### 1. Move Every 30-60 Minutes
+- Stand up
+- Walk briefly
+- Stretch
+- Change position
+
+### 2. Stand More
+- Standing desk option
+- Stand during calls
+- Walk meetings
+
+### 3. Exercise Daily
+- Can't out-exercise 10 hours of sitting
+- But it helps significantly
+
+### 4. Targeted Exercises
+
+**For tight hip flexors:**
+- Hip flexor stretches
+- Glute activation
+
+**For weak glutes:**
+- Bridges
+- Hip thrusts
+
+**For rounded posture:**
+- Chest stretches
+- Row exercises
+
+## Movement Breaks
+
+**Every 30-60 minutes:**
+- Stand and reach overhead
+- Hip flexor stretch
+- Walk for 2-5 minutes
+- Glute squeeze
+
+**Takes 2 minutes. Huge difference.**
+
+## The Bottom Line
+
+Combat sitting disease:
+1. **Move frequently** — Every 30-60 min
+2. **Stand more** — When possible
+3. **Stretch tight areas** — Hip flexors, chest
+4. **Strengthen weak areas** — Glutes, core
+5. **Exercise daily** — Beyond just sitting less
+
+Your body was made to move.
+
+---
+
+*Foundational Rehab addresses the effects of modern sedentary life.*
+    \`
   }
 };
 
