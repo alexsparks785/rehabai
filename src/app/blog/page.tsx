@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'lower-body-stretches',
+    title: 'Lower Body Stretches: Complete Leg and Hip Flexibility Guide',
+    excerpt: 'Comprehensive stretching for quads, hamstrings, hips, glutes, and calves.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'dumbbell-chest-workout',
+    title: 'Dumbbell Chest Workout: Build a Bigger, Stronger Chest',
+    excerpt: 'Complete chest workout with just dumbbells. All angles covered.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercises-for-vertigo',
+    title: 'Exercises for Vertigo: Vestibular Rehabilitation at Home',
+    excerpt: 'Reduce dizziness and improve balance with these vestibular exercises.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-to-hip-hinge',
+    title: 'How to Hip Hinge: Master This Essential Movement',
+    excerpt: 'The hip hinge is fundamental. Here\'s how to do it right.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read'
+  },
+  {
     slug: 'glute-activation-exercises',
     title: 'Glute Activation Exercises: Wake Up Your Sleeping Glutes',
     excerpt: 'Sitting turns off your glutes. These exercises turn them back on.',
