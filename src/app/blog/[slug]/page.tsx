@@ -91249,6 +91249,645 @@ Listen to your body. It's usually telling you something important.
 
 *Foundational Rehab teaches appropriate pain management in all programs.*
     \`
+  },
+  'hip-mobility-exercises': {
+    title: 'Hip Mobility Exercises: Unlock Tight Hips',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: \`
+## Why Hip Mobility Matters
+
+Your hips are the center of movement. Limited hip mobility affects:
+- Squat depth
+- Running efficiency
+- Low back health
+- Knee function
+- Daily activities
+
+## Common Hip Mobility Issues
+
+### Tight Hip Flexors
+- From sitting
+- Limits hip extension
+- Causes anterior pelvic tilt
+
+### Limited Hip Rotation
+- Internal and external rotation
+- Affects squatting, walking, sports
+
+### Hip Flexion Restrictions
+- Can't bring knee to chest fully
+- Affects sitting, squatting
+
+## Best Hip Mobility Exercises
+
+### Hip Flexor Stretches
+
+**Half-Kneeling Hip Flexor Stretch**
+- Kneel on one knee
+- Tuck pelvis (flatten low back)
+- Squeeze back glute
+- Shift forward slightly
+- 60 seconds each side
+
+**Couch Stretch**
+- Back foot on wall or couch
+- Front foot forward
+- Squeeze back glute hard
+- 60-90 seconds each side
+
+### Hip Rotation Exercises
+
+**90/90 Stretch**
+- Sit with both legs at 90°
+- Front leg: hip and knee at 90°
+- Back leg: hip and knee at 90°
+- Stay upright, lean forward
+- 60 seconds each position
+
+**Figure 4 Stretch**
+- Lie on back
+- Ankle over opposite knee
+- Pull toward chest
+- 60 seconds each side
+
+**Pigeon Pose**
+- Front leg bent in front
+- Back leg extended behind
+- Stay upright or fold forward
+- 60-90 seconds each side
+
+### Dynamic Hip Mobility
+
+**Hip Circles (Standing)**
+- Stand on one leg
+- Circle free leg
+- 10 circles each direction
+
+**Leg Swings**
+- Front to back: 15 each leg
+- Side to side: 15 each leg
+
+**Deep Squat Hold**
+- Squat as deep as possible
+- Hold onto support if needed
+- 30-60 seconds total
+
+**World's Greatest Stretch**
+- Lunge position
+- Hand on floor inside front foot
+- Rotate toward front leg, reach up
+- 5 each side
+
+### Hip Strengthening in New Ranges
+
+**Hip CARs (Controlled Articular Rotations)**
+- Stand on one leg
+- Move free leg in largest circle possible
+- Internal rotation, external rotation
+- 3-5 each direction
+
+**Squat with Hip Shift**
+- In squat position
+- Shift weight to one side
+- Back and forth
+- 10 each side
+
+## Sample Hip Mobility Routine
+
+### Daily 10-Minute Routine
+
+1. Hip flexor stretch: 60 sec each
+2. 90/90 stretch: 60 sec each position
+3. Figure 4 stretch: 45 sec each
+4. Hip CARs: 3 each direction
+5. Deep squat hold: 60 sec total
+
+### Pre-Workout Hip Prep
+
+1. Leg swings (front-back): 10 each
+2. Leg swings (side-side): 10 each
+3. Hip circles: 5 each direction
+4. World's greatest stretch: 3 each
+5. Bodyweight squats: 10
+
+## How Long to See Results?
+
+- **Immediate:** Temporary improvement
+- **2-4 weeks:** Noticeable changes
+- **8-12 weeks:** Significant improvement
+- **Ongoing:** Maintenance required
+
+Consistency is key.
+
+## The Bottom Line
+
+Hip mobility requires:
+1. **Daily work** — Brief but consistent
+2. **Multiple directions** — Flexion, extension, rotation
+3. **Strength in new ranges** — Not just stretching
+4. **Time** — Weeks to months
+5. **Integration** — Use new mobility in movement
+
+---
+
+*Foundational Rehab prioritizes hip mobility in lower body programs.*
+    \`
+  },
+  'knee-strengthening-exercises': {
+    title: 'Knee Strengthening Exercises: Build Stable, Pain-Free Knees',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read',
+    content: \`
+## Why Strengthen Your Knees?
+
+Strong muscles around the knee:
+- Absorb shock
+- Stabilize the joint
+- Reduce pain
+- Prevent injury
+- Improve function
+
+## Key Muscles for Knee Health
+
+### Quadriceps
+- Front of thigh
+- Extends knee
+- VMO especially important for tracking
+
+### Hamstrings
+- Back of thigh
+- Flexes knee
+- Balances quadriceps
+
+### Glutes
+- Control hip, which controls knee
+- Prevent knee caving
+- Often weak in knee pain
+
+### Calves
+- Support lower leg
+- Assist with stability
+
+## Best Knee Strengthening Exercises
+
+### Quadriceps Exercises
+
+**Quad Sets**
+- Sit with leg straight
+- Tighten quad, push knee down
+- Hold 5 seconds
+- 3 x 15
+
+**Straight Leg Raises**
+- Lie on back, one knee bent
+- Lift straight leg to bent knee height
+- 3 x 15 each
+
+**Terminal Knee Extension**
+- Band behind knee, anchored
+- Start slightly bent, straighten fully
+- 3 x 15 each
+
+**Wall Sits**
+- Back against wall
+- Knees at 45-60°
+- Hold 30-60 seconds
+- 3 sets
+
+### Functional Knee Exercises
+
+**Step-Ups**
+- Step onto platform (6-12 inches)
+- Drive through heel
+- Control descent
+- 3 x 10 each leg
+
+**Step-Downs**
+- Stand on step
+- Lower opposite foot slowly
+- Control knee tracking
+- 3 x 10 each leg
+
+**Squats (Bodyweight)**
+- Feet shoulder-width
+- Sit back and down
+- Keep knees over toes
+- 3 x 15
+
+**Lunges**
+- Step forward
+- Both knees to 90°
+- Control movement
+- 3 x 10 each
+
+### Hip Exercises (Essential for Knees)
+
+**Clamshells**
+- Side-lying, knees bent
+- Open top knee
+- 3 x 15 each
+
+**Side-Lying Hip Abduction**
+- Lie on side, legs straight
+- Lift top leg
+- 3 x 15 each
+
+**Glute Bridges**
+- Lie on back, feet flat
+- Drive through heels
+- 3 x 15
+
+**Single Leg Glute Bridge**
+- Progress from double leg
+- 3 x 10 each
+
+## Sample Knee Program
+
+### Beginner (Weeks 1-4)
+
+**Daily:**
+1. Quad sets: 2 x 15
+2. Straight leg raises: 2 x 12 each
+3. Glute bridges: 2 x 15
+4. Clamshells: 2 x 15 each
+
+### Intermediate (Weeks 4-8)
+
+**3x Weekly:**
+1. Wall sits: 3 x 30 sec
+2. Step-ups: 3 x 10 each
+3. Bodyweight squats: 3 x 15
+4. Side-lying abduction: 3 x 15 each
+5. Single leg bridges: 3 x 10 each
+
+### Advanced (Weeks 8+)
+
+**3x Weekly:**
+1. Step-ups (higher/weighted): 3 x 12 each
+2. Squats: 3 x 15
+3. Lunges: 3 x 10 each
+4. Single leg squats (assisted): 3 x 8 each
+5. Hip work: Continue
+
+## Important Principles
+
+### 1. No Pain
+
+Strengthening should not cause joint pain. Modify or stop if painful.
+
+### 2. Full Range (When Possible)
+
+Use as much range as comfortable. Don't force through pain.
+
+### 3. Alignment
+
+Keep knee tracking over 2nd-3rd toe. Don't let knee cave in.
+
+### 4. Progress Gradually
+
+Add resistance slowly over weeks.
+
+### 5. Don't Skip Hips
+
+Hip strength is crucial for knee health.
+
+## The Bottom Line
+
+Knee strengthening requires:
+1. **Quad focus** — Especially VMO
+2. **Hip strengthening** — Controls the knee
+3. **Functional exercises** — Squats, lunges, steps
+4. **Pain-free range** — Don't push through pain
+5. **Consistency** — Weeks of regular work
+
+Strong muscles protect knees.
+
+---
+
+*Foundational Rehab builds knee strength progressively.*
+    \`
+  },
+  'shoulder-stretches': {
+    title: 'Shoulder Stretches: Improve Flexibility and Reduce Pain',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: \`
+## Why Stretch Your Shoulders?
+
+Tight shoulders lead to:
+- Impingement
+- Limited overhead reach
+- Poor posture
+- Neck pain
+- Reduced athletic performance
+
+## Common Tight Muscles
+
+### Pectoralis (Chest)
+- Pulls shoulders forward
+- Limits reaching back
+- Often very tight
+
+### Latissimus Dorsi (Lats)
+- Limits overhead reach
+- Affects shoulder flexion
+
+### Posterior Capsule
+- Back of shoulder
+- Limits internal rotation
+- Common in throwers
+
+### Upper Trapezius
+- Elevates shoulders
+- Contributes to neck tension
+
+## Best Shoulder Stretches
+
+### Chest/Pec Stretches
+
+**Doorway Stretch**
+- Arm at 90° against doorframe
+- Step through gently
+- 30 seconds each position
+- Low, middle, high arm positions
+
+**Corner Stretch**
+- Arms on walls in corner
+- Lean into corner
+- 30-60 seconds
+
+**Foam Roller Chest Stretch**
+- Lie lengthwise on roller
+- Arms out to sides
+- Let arms drop
+- 1-2 minutes
+
+### Lat Stretches
+
+**Lat Stretch (Kneeling)**
+- Kneel facing chair
+- Arms extended on chair
+- Sink hips back
+- 30-45 seconds
+
+**Lat Stretch (Standing)**
+- Hold doorframe or bar
+- Step back, hinge at hips
+- Sink chest toward floor
+- 30-45 seconds each arm
+
+### Posterior Shoulder
+
+**Cross-Body Stretch**
+- Pull arm across body
+- Use other hand to assist
+- 30 seconds each side
+
+**Sleeper Stretch**
+- Lie on side on shoulder
+- Forearm up, push down gently
+- 30 seconds each side
+- Be gentle with this one
+
+### Rotator Cuff/Capsule
+
+**External Rotation Stretch**
+- Arm at 90°, elbow bent
+- Partner or doorframe assists rotation
+- 30 seconds
+
+**Internal Rotation Stretch**
+- Behind back, towel assisted
+- Gently pull up
+- 30 seconds each
+
+### Upper Trap/Neck
+
+**Upper Trap Stretch**
+- Tilt ear to shoulder
+- Gently assist with hand
+- 30 seconds each side
+
+**Levator Stretch**
+- Look toward armpit
+- Assist with hand
+- 30 seconds each side
+
+## Sample Shoulder Stretching Routine
+
+### Daily Routine (5-7 min)
+
+1. Doorway pec stretch: 30 sec x 3 positions
+2. Lat stretch: 30 sec each arm
+3. Cross-body stretch: 30 sec each
+4. Upper trap stretch: 30 sec each
+5. Arm circles: 10 each direction
+
+### Post-Upper Body Workout
+
+1. Foam roller chest: 1 min
+2. Doorway stretch: 30 sec each position
+3. Lat stretch: 45 sec each
+4. Cross-body: 30 sec each
+5. Sleeper stretch: 30 sec each (if needed)
+
+## Important Considerations
+
+### Don't Overstretch
+
+Shoulders are mobile joints. Excessive stretching can cause instability.
+
+### Address Strength Too
+
+Stretching alone isn't enough. Strengthen weak areas.
+
+### Some Tightness Is Protective
+
+If you have instability, some tightness may be beneficial. Consult a professional.
+
+### Warm Up First
+
+Stretching is more effective when warm.
+
+## The Bottom Line
+
+Shoulder stretching:
+1. **Target common tight areas** — Chest, lats, posterior shoulder
+2. **Hold adequately** — 30+ seconds
+3. **Don't overdo it** — Especially if unstable
+4. **Combine with strengthening** — Both matter
+5. **Be consistent** — Daily is ideal
+
+---
+
+*Foundational Rehab balances shoulder stretching with strengthening.*
+    \`
+  },
+  'core-exercises-beginners': {
+    title: 'Core Exercises for Beginners: Build a Strong Foundation',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read',
+    content: \`
+## What Is the "Core"?
+
+Your core includes:
+- Rectus abdominis (six-pack)
+- Obliques (sides)
+- Transverse abdominis (deep stabilizer)
+- Erector spinae (low back)
+- Multifidus (deep back)
+- Pelvic floor
+- Diaphragm
+
+It's not just abs — it's your entire midsection.
+
+## Why Core Strength Matters
+
+Strong core:
+- Protects your spine
+- Improves posture
+- Enhances athletic performance
+- Reduces low back pain
+- Makes daily activities easier
+
+## Best Beginner Core Exercises
+
+### Anti-Extension (Prevents Arching)
+
+**Dead Bug**
+- Lie on back, arms up, knees at 90°
+- Lower opposite arm and leg slowly
+- Keep back flat on floor
+- 10 each side
+
+**Plank**
+- Forearms and toes
+- Body in straight line
+- Hold 20-30 seconds
+- Build up gradually
+
+**Bird Dog**
+- Hands and knees
+- Extend opposite arm and leg
+- Keep spine neutral
+- 10 each side
+
+### Anti-Rotation (Prevents Twisting)
+
+**Pallof Press**
+- Band at chest height
+- Press straight out
+- Resist rotation
+- 10 each side
+
+**Single Arm Farmer Carry**
+- Hold weight in one hand
+- Walk without leaning
+- Stay tall
+- 30 seconds each side
+
+### Anti-Lateral Flexion (Prevents Side Bending)
+
+**Side Plank (Modified)**
+- On forearm and knees
+- Body in straight line
+- Hold 15-20 seconds
+- Build up
+
+**Suitcase Carry**
+- Weight in one hand
+- Walk without leaning
+- 30 seconds each side
+
+### Flexion (Controlled)
+
+**Curl-Up**
+- Lie on back, hands under low back
+- Curl just shoulders off floor
+- Don't flatten back
+- 10 reps
+
+## Sample Beginner Core Program
+
+### Week 1-2
+
+**Daily (5 min):**
+1. Dead bugs: 2 x 8 each side
+2. Bird dogs: 2 x 8 each side
+3. Plank: 3 x 15 seconds
+
+### Week 3-4
+
+**Daily (7 min):**
+1. Dead bugs: 3 x 10 each side
+2. Bird dogs: 3 x 10 each side
+3. Plank: 3 x 20 seconds
+4. Side plank (knees): 2 x 15 sec each
+
+### Week 5-6
+
+**3-4x Weekly (10 min):**
+1. Dead bugs: 3 x 12 each side
+2. Plank: 3 x 30 seconds
+3. Side plank: 3 x 20 seconds each
+4. Bird dogs: 3 x 12 each side
+5. Pallof press: 2 x 8 each side
+
+## Common Mistakes
+
+### 1. Starting with Sit-Ups
+
+Sit-ups aren't ideal for beginners. Start with anti-movement exercises.
+
+### 2. Holding Breath
+
+Breathe throughout. Don't hold breath during planks.
+
+### 3. Too Much Too Soon
+
+Build up gradually. Core muscles fatigue quickly at first.
+
+### 4. Ignoring Form
+
+Quality over quantity. Maintain good position throughout.
+
+## Progression Tips
+
+**When to Progress:**
+- Current exercises feel moderate
+- Form remains solid throughout
+- No low back discomfort
+
+**How to Progress:**
+- Longer holds (planks)
+- More reps
+- Add movement (plank shoulder taps)
+- Remove support (full side plank)
+
+## The Bottom Line
+
+Beginner core training:
+1. **Start with stability** — Anti-movement exercises
+2. **Build gradually** — Don't rush
+3. **Quality over quantity** — Form matters
+4. **Include all directions** — Extension, rotation, lateral
+5. **Be consistent** — Daily practice
+
+A strong core is the foundation for everything else.
+
+---
+
+*Foundational Rehab builds core strength progressively in all programs.*
+    \`
   }
 };
 

@@ -16,6 +16,42 @@ interface BlogPost {
 // Blog posts data - will be replaced with CMS/MDX later
 const blogPosts: BlogPost[] = [
   {
+    slug: 'hip-mobility-exercises',
+    title: 'Hip Mobility Exercises: Unlock Tight Hips',
+    excerpt: 'Tight hips affecting your squat and causing back pain? These exercises unlock your hips.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'knee-strengthening-exercises',
+    title: 'Knee Strengthening Exercises: Build Stable, Pain-Free Knees',
+    excerpt: 'Strong muscles protect your knees. Build quad, hamstring, and glute strength.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'shoulder-stretches',
+    title: 'Shoulder Stretches: Improve Flexibility and Reduce Pain',
+    excerpt: 'Tight shoulders causing impingement? These stretches target chest, lats, and rotator cuff.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'core-exercises-beginners',
+    title: 'Core Exercises for Beginners: Build a Strong Foundation',
+    excerpt: 'Start with dead bugs and planks, not sit-ups. The right way to build core strength.',
+    date: '2026-03-09',
+    author: 'Foundational Rehab',
+    category: 'Training',
+    readTime: '6 min read'
+  },
+  {
     slug: 'nerve-flossing-exercises',
     title: 'Nerve Flossing Exercises: Relieve Numbness and Tingling',
     excerpt: 'Numbness and tingling from trapped nerves? Nerve gliding techniques can help.',
