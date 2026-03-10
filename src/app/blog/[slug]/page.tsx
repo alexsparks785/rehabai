@@ -127563,6 +127563,1077 @@ Palms together, lower hands, hold 30 seconds
 
 *Foundational Rehab provides desk worker wellness programs to combat the effects of prolonged sitting.*
     `
+  },
+  'how-to-do-a-lunge': {
+    title: 'How to Do a Lunge Correctly: Complete Form Guide and Variations',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '6 min read',
+    content: `
+## Why Lunges Matter
+
+The lunge is one of the most functional lower body exercises. You lunge every time you:
+
+- Walk up stairs
+- Get down to the floor
+- Pick something up
+- Play sports
+
+Lunges build single-leg strength, balance, and coordination—skills essential for daily life and athletics.
+
+## The Basic Lunge Pattern
+
+### Starting Position
+
+1. Stand tall, feet hip-width apart
+2. Hands on hips or at sides
+3. Core engaged, shoulders back
+
+### The Movement
+
+**Forward Lunge:**
+1. Step forward with one leg
+2. Lower hips straight down
+3. Both knees bend to approximately 90°
+4. Front knee stays over ankle (not past toes excessively)
+5. Back knee hovers just above ground
+6. Push through front heel to return to start
+
+**Key Points:**
+- Torso stays upright
+- Front shin relatively vertical
+- Weight distributed through front heel
+- Core engaged throughout
+
+## Common Lunge Mistakes
+
+### 1. Knee Caving In
+
+**Problem:** Front knee collapses inward.
+**Cause:** Weak glutes, poor motor control.
+**Fix:** Push knee out over toes, strengthen glutes, use shorter stride.
+
+### 2. Knee Too Far Forward
+
+**Problem:** Front knee extends way past toes, heel comes up.
+**Cause:** Stride too short, ankle mobility limitation.
+**Fix:** Take longer step, work on ankle mobility.
+
+### 3. Forward Lean
+
+**Problem:** Torso leans forward excessively.
+**Cause:** Weak core, tight hip flexors.
+**Fix:** Keep chest up, engage core, hip flexor stretching.
+
+### 4. Hips Rotating
+
+**Problem:** Hips twist during the lunge.
+**Cause:** Weak core, tight hip flexors.
+**Fix:** Keep hips square, shorter stride, core engagement.
+
+### 5. Back Knee Hitting Ground
+
+**Problem:** Crashing back knee to floor.
+**Cause:** Not controlling descent.
+**Fix:** Slow down, hover above ground, use padding initially.
+
+### 6. Rising on Back Toe
+
+**Problem:** Back foot rolls too far forward.
+**Cause:** Poor balance, stride issues.
+**Fix:** Focus on stability, ensure proper stride length.
+
+## Lunge Progressions
+
+### Level 1: Split Squat (Stationary)
+
+**Form:**
+1. Start in staggered stance (no stepping)
+2. Lower straight down
+3. Push back up
+4. All reps one side, then switch
+
+**Why:** Removes balance challenge of stepping, focuses on strength.
+
+### Level 2: Reverse Lunge
+
+**Form:**
+1. Step backward into lunge
+2. Lower straight down
+3. Push through front foot to return
+
+**Why:** Easier to control than forward lunge, better for beginners.
+
+### Level 3: Forward Lunge
+
+**Form:**
+1. Step forward into lunge
+2. Lower down
+3. Push back to start
+
+**Why:** More challenging for balance and deceleration.
+
+### Level 4: Walking Lunge
+
+**Form:**
+1. Lunge forward
+2. Push through to step forward
+3. Immediately lunge with other leg
+4. Continue walking
+
+**Why:** Continuous movement, more challenging, sport-specific.
+
+## Lunge Variations
+
+### Reverse Lunge (Easiest on Knees)
+
+**Best for:** Beginners, knee issues, learning the pattern.
+
+**Form:**
+1. Step backward
+2. Lower down
+3. Push through front heel
+4. Return to standing
+
+### Forward Lunge
+
+**Best for:** Athletic training, functional strength.
+
+**Form:** Standard lunge described above.
+
+### Walking Lunge
+
+**Best for:** Endurance, sport prep, conditioning.
+
+**Form:** Continuous lunges moving forward.
+
+### Lateral Lunge
+
+**Best for:** Hip mobility, inner thigh strength, lateral movement.
+
+**Form:**
+1. Step wide to one side
+2. Sit back into that hip
+3. Keep other leg straight
+4. Push back to start
+
+### Curtsy Lunge
+
+**Best for:** Glute medius, hip stability.
+
+**Form:**
+1. Step one foot behind and across
+2. Lower into lunge
+3. Like a curtsy movement
+4. Return to start
+
+### Bulgarian Split Squat
+
+**Best for:** Maximum single-leg strength.
+
+**Form:**
+1. Back foot elevated on bench
+2. Front foot forward
+3. Lower straight down
+4. Most challenging variation
+
+### Jump Lunge
+
+**Best for:** Power, plyometrics, athletics.
+
+**Form:**
+1. Start in lunge position
+2. Jump and switch legs in air
+3. Land in lunge on opposite side
+4. Advanced—master static lunge first
+
+## Lunge Workout Programming
+
+### For Beginners
+
+**Start with:** Split squats, reverse lunges
+**Reps:** 3 sets of 8-10 each leg
+**Focus:** Form over depth
+
+### For Intermediate
+
+**Exercises:** Forward lunges, walking lunges, lateral lunges
+**Reps:** 3-4 sets of 10-12 each leg
+**Progression:** Add dumbbells
+
+### For Advanced
+
+**Exercises:** Bulgarian split squats, jump lunges, weighted variations
+**Reps:** 3-4 sets of 8-12 each leg
+**Progression:** Heavier weights, deficit lunges
+
+## Sample Lunge Workouts
+
+### Lunge-Focused Lower Body
+
+1. Reverse lunges: 3x10 each leg
+2. Walking lunges: 3x12 each leg
+3. Lateral lunges: 3x10 each leg
+4. Bulgarian split squats: 3x8 each leg
+
+### Quick Lunge Finisher
+
+1. Reverse lunges: 2x12 each leg
+2. Jump lunges: 2x8 each leg
+
+### Lunge Ladder
+
+1. 10 reverse lunges each leg
+2. 8 walking lunges each leg
+3. 6 lateral lunges each leg
+4. 4 jump lunges each leg
+5. Rest, repeat 2-3 times
+
+## Adding Weight
+
+### Bodyweight First
+
+Master form before adding weight. You should be able to:
+- Complete 12+ reps with good form
+- Not feel unstable
+- No pain
+
+### Weight Options
+
+**Dumbbells at sides:** Most common, easier balance
+**Goblet hold:** Single weight at chest, keeps torso upright
+**Barbell on back:** Most challenging for balance
+**Overhead:** Most difficult, requires mobility
+
+### Weight Progression
+
+1. Start with 10-15% of body weight
+2. Increase gradually (5 lbs at a time)
+3. Maintain form as weight increases
+
+## Lunges for Specific Goals
+
+### For Knee Health
+
+**Best variation:** Reverse lunge
+**Focus:** Control, don't rush
+**Depth:** Only as deep as comfortable
+**Key:** Strengthen, don't stress
+
+### For Athletic Performance
+
+**Best variations:** Walking lunges, jump lunges, lateral lunges
+**Focus:** Power, speed, multi-directional
+**Integration:** With sport-specific movements
+
+### For Glute Development
+
+**Best variations:** Walking lunges, Bulgarian split squats
+**Focus:** Long stride, lean forward slightly
+**Key:** Feel glutes working
+
+### For Hip Mobility
+
+**Best variations:** Lateral lunges, walking lunges with twist
+**Focus:** Deep positions, movement through range
+
+## The Bottom Line
+
+1. **Start with reverse lunges** — Easier to control
+2. **Keep knee over ankle** — Not excessively forward
+3. **Torso upright** — Engage core
+4. **Lower straight down** — Not forward
+5. **Progress gradually** — Form before load
+
+---
+
+*Foundational Rehab includes lunge progressions in lower body programs for building functional single-leg strength.*
+    `
+  },
+  'exercises-for-tmj-pain': {
+    title: 'Exercises for TMJ Pain: Jaw Relief and Prevention',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '6 min read',
+    content: `
+## Understanding TMJ Disorders
+
+The temporomandibular joint (TMJ) connects your jaw to your skull. TMJ disorders (TMD) cause pain and dysfunction in this joint and the muscles that control it.
+
+**Symptoms:**
+- Jaw pain or tenderness
+- Pain around the ear
+- Difficulty or pain while chewing
+- Clicking or popping sounds
+- Locking of the joint
+- Headaches
+- Neck pain
+
+**Common causes:**
+- Teeth grinding or clenching (bruxism)
+- Stress and tension
+- Jaw injury
+- Arthritis
+- Disc problems
+- Muscle tension/imbalance
+
+## When to See a Professional
+
+**Seek help if:**
+- Jaw locks open or closed
+- Severe pain
+- Unable to open mouth normally
+- Pain doesn't improve with self-care
+- Recent jaw trauma
+- Symptoms affecting eating or speaking
+
+## Self-Care First Steps
+
+### Heat/Cold Therapy
+
+**Heat:** Relaxes muscles, improves blood flow
+- Warm compress for 15-20 minutes
+- Best for chronic tension
+
+**Cold:** Reduces inflammation
+- Ice pack (wrapped) for 10-15 minutes
+- Best for acute pain or swelling
+
+### Soft Food Diet (Temporarily)
+
+During flare-ups:
+- Avoid hard, chewy, or crunchy foods
+- Cut food into small pieces
+- Avoid wide mouth opening (big bites, yawning)
+
+### Awareness of Habits
+
+**Notice and stop:**
+- Teeth clenching
+- Jaw tensing
+- Nail biting
+- Gum chewing
+- Resting jaw on hand
+
+**Ideal jaw position:** Lips together, teeth slightly apart, tongue on roof of mouth.
+
+## TMJ Exercises
+
+### Jaw Relaxation Exercises
+
+**Controlled Opening:**
+1. Place tongue on roof of mouth behind front teeth
+2. Allow jaw to drop open slowly
+3. Keep tongue in place (limits opening)
+4. Hold 5 seconds
+5. Close slowly
+6. Repeat 10 times
+
+**"N" Position:**
+1. Say the letter "N"
+2. Notice where tongue and teeth are
+3. This is the resting position
+4. Practice returning to this position throughout day
+
+### Stretching Exercises
+
+**Mouth Opening Stretch:**
+1. Open mouth as wide as comfortable
+2. Hold 10 seconds
+3. Close slowly
+4. Repeat 5-10 times
+
+**Resisted Opening:**
+1. Place thumb under chin
+2. Open mouth slowly while gently resisting with thumb
+3. Hold 5 seconds
+4. Repeat 5-10 times
+
+**Resisted Closing:**
+1. Open mouth
+2. Place finger between front teeth
+3. Close mouth slowly against gentle resistance
+4. Hold 5 seconds
+5. Repeat 5-10 times
+
+### Lateral Movements
+
+**Side-to-Side Stretch:**
+1. Open mouth slightly
+2. Move jaw slowly to the left
+3. Hold 5 seconds
+4. Return to center
+5. Move jaw to the right
+6. Hold 5 seconds
+7. Repeat 5 times each side
+
+**Resisted Side Movement:**
+1. Place hand on side of jaw
+2. Move jaw toward hand against resistance
+3. Hold 3-5 seconds
+4. Repeat each side 5 times
+
+### Chin Tucks (For Jaw-Neck Connection)
+
+TMJ problems often relate to neck posture.
+
+**Form:**
+1. Sit or stand tall
+2. Draw chin straight back (double chin)
+3. Hold 5 seconds
+4. Release
+5. Repeat 10 times
+
+## Massage and Release Techniques
+
+### Masseter Massage
+
+The masseter (main chewing muscle) is on the side of your face.
+
+**Technique:**
+1. Find the muscle (clench teeth, feel the bulge)
+2. Apply gentle pressure with fingertips
+3. Make small circles
+4. Work from cheekbone down to jaw angle
+5. 1-2 minutes each side
+
+### Temporalis Massage
+
+This muscle is at your temples.
+
+**Technique:**
+1. Place fingertips on temples
+2. Apply gentle pressure
+3. Make small circles
+4. 1-2 minutes each side
+
+### Pterygoid Release (Inside Mouth)
+
+**Technique:**
+1. Wash hands thoroughly
+2. Open mouth
+3. Place finger inside, against back of cheek
+4. Press gently toward jaw joint
+5. Hold tender spots for 30-60 seconds
+6. Can be uncomfortable—be gentle
+
+### Neck Muscle Release
+
+Neck tension contributes to TMJ issues.
+
+**Upper trap release:**
+Apply pressure to tender spots, hold 30-60 seconds
+
+**SCM release:**
+Pinch and massage the muscle on front/side of neck
+
+## Daily TMJ Routine
+
+### Morning (5 Minutes)
+
+1. Warm compress: 5 minutes (while doing other tasks)
+2. Jaw relaxation: 10 controlled openings
+3. Side-to-side movement: 5 each way
+4. Chin tucks: 10 reps
+
+### Throughout Day
+
+- Check jaw position hourly (lips together, teeth apart, tongue up)
+- Notice and release tension
+- Avoid habits (clenching, chewing gum)
+
+### Evening (5-10 Minutes)
+
+1. Masseter massage: 1-2 min each side
+2. Temporalis massage: 1 min each side
+3. Resisted opening: 5 reps
+4. Resisted closing: 5 reps
+5. Mouth opening stretch: 5 reps
+6. Chin tucks: 10 reps
+7. Warm compress if needed
+
+## Stress Management
+
+Stress is a major TMJ contributor.
+
+**Strategies:**
+- Deep breathing exercises
+- Progressive muscle relaxation
+- Regular exercise
+- Adequate sleep
+- Stress reduction techniques
+
+### Progressive Jaw Relaxation
+
+1. Clench jaw tightly for 5 seconds
+2. Release and let jaw hang loose
+3. Notice the difference
+4. Repeat 5 times
+5. Finish with 30 seconds of complete relaxation
+
+## Sleep Considerations
+
+### Position
+
+- Back or side sleeping preferred
+- Avoid sleeping on stomach
+- Don't rest jaw on hand
+
+### Night Guard
+
+If you grind at night:
+- Consider a night guard (dentist-fitted best)
+- Can significantly reduce symptoms
+- Over-the-counter options available for trial
+
+## Prevention
+
+### Long-Term Strategies
+
+- Maintain good posture (especially head/neck)
+- Manage stress
+- Avoid excessive gum chewing
+- Don't chew on non-food items (pens, nails)
+- Practice jaw relaxation throughout day
+- Address teeth grinding with night guard
+
+### Posture Connection
+
+Forward head posture stresses the TMJ.
+
+**Address with:**
+- Chin tucks multiple times daily
+- Upper back strengthening
+- Chest stretching
+- Workstation ergonomics
+
+## The Bottom Line
+
+1. **Rest position matters** — Lips together, teeth apart, tongue up
+2. **Gentle exercises** — Don't force or cause pain
+3. **Massage helps** — Masseter and temporalis
+4. **Address posture** — Neck position affects jaw
+5. **Manage stress** — Major contributor to TMJ
+
+---
+
+*Foundational Rehab provides TMJ management programs including exercises, massage techniques, and posture correction.*
+    `
+  },
+  'post-workout-stretching-routine': {
+    title: 'Post-Workout Stretching Routine: Best Cool Down Stretches',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: `
+## Why Stretch After Exercise?
+
+Post-workout is the ideal time for static stretching because:
+
+- Muscles are warm and pliable
+- Blood flow is elevated
+- You can stretch deeper with less injury risk
+- Helps transition from exercise to rest
+- Can improve flexibility over time
+
+**Note:** Post-workout stretching doesn't prevent soreness (that's a myth), but it does offer real flexibility benefits.
+
+## Post-Workout Stretching Guidelines
+
+### Duration
+
+- Hold each stretch 30-60 seconds
+- Longer holds (60-90 seconds) may be more effective for flexibility gains
+- 10-15 minutes total is ideal
+
+### Intensity
+
+- Stretch to the point of tension, not pain
+- Should feel like a 6-7 out of 10 stretch
+- No bouncing—hold steady
+
+### Breathing
+
+- Breathe deeply and slowly
+- Exhale as you move deeper into stretch
+- Use breathing to relax into position
+
+## Full Body Post-Workout Routine
+
+### Lower Body Stretches
+
+**1. Quad Stretch (30-60 sec each)**
+- Stand, hold wall for balance
+- Pull heel to glute
+- Keep knees together
+- Push hips slightly forward
+
+**2. Hamstring Stretch (30-60 sec each)**
+- Foot on low surface (bench, step)
+- Lean forward with flat back
+- Feel stretch behind thigh
+
+**3. Hip Flexor Stretch (30-60 sec each)**
+- Half-kneeling position
+- Tuck pelvis under (posterior tilt)
+- Lean forward slightly
+- Squeeze back glute
+
+**4. Glute Stretch (30-60 sec each)**
+- Lie on back
+- Cross ankle over opposite knee
+- Pull bottom leg toward chest
+
+**5. Calf Stretch (30 sec each, both muscles)**
+- Against wall, back leg straight (gastrocnemius)
+- Then bend back knee (soleus)
+- Heel stays down for both
+
+**6. Inner Thigh Stretch (30-60 sec)**
+- Seated butterfly position
+- Soles of feet together
+- Gently press knees down
+
+### Upper Body Stretches
+
+**7. Chest Stretch (30 sec each side)**
+- Forearm on doorframe
+- Step through
+- Feel stretch in chest
+- Do at different arm angles
+
+**8. Shoulder Stretch (30 sec each)**
+- Pull arm across chest
+- Hold above elbow
+- Feel stretch in back of shoulder
+
+**9. Tricep Stretch (30 sec each)**
+- Arm overhead, elbow bent
+- Gently push elbow back
+- Feel stretch in back of arm
+
+**10. Lat Stretch (30 sec each)**
+- Hold pole or doorframe
+- Sit hips back
+- Feel stretch along side of back
+
+**11. Upper Back Stretch (30 sec)**
+- Clasp hands in front
+- Round upper back
+- Push hands away
+
+### Spine/Core Stretches
+
+**12. Cat-Cow (10 cycles)**
+- On hands and knees
+- Alternate arching and rounding
+- Slow and controlled
+
+**13. Child's Pose (30-60 sec)**
+- Sit back toward heels
+- Arms extended forward
+- Relax and breathe
+
+**14. Supine Twist (30 sec each)**
+- On back, knees bent
+- Drop knees to one side
+- Arms out, look opposite
+
+## Quick Post-Workout Routines
+
+### 5-Minute Full Body
+
+1. Quad stretch: 30 sec each
+2. Hamstring stretch: 30 sec each
+3. Hip flexor stretch: 30 sec each
+4. Chest stretch: 30 sec total
+5. Child's pose: 30 sec
+
+### 10-Minute Lower Body Focus
+
+1. Quad stretch: 45 sec each
+2. Hamstring stretch: 45 sec each
+3. Hip flexor stretch: 45 sec each
+4. Glute stretch: 45 sec each
+5. Calf stretch: 30 sec each (both muscles)
+6. Inner thigh stretch: 45 sec
+7. Supine twist: 30 sec each
+
+### 10-Minute Upper Body Focus
+
+1. Chest stretch: 30 sec each position (3 angles)
+2. Shoulder stretch: 45 sec each
+3. Tricep stretch: 30 sec each
+4. Lat stretch: 45 sec each
+5. Upper back stretch: 30 sec
+6. Neck stretches: 20 sec each direction
+7. Child's pose: 45 sec
+
+### 15-Minute Complete Routine
+
+**Lower Body (6 min):**
+1. Quad: 45 sec each
+2. Hamstring: 45 sec each
+3. Hip flexor: 45 sec each
+4. Glute: 30 sec each
+5. Calves: 30 sec each
+
+**Upper Body (4 min):**
+6. Chest: 30 sec each side
+7. Shoulders: 30 sec each
+8. Triceps: 30 sec each
+9. Upper back: 30 sec
+
+**Spine (5 min):**
+10. Cat-cow: 1 min
+11. Child's pose: 1 min
+12. Supine twist: 45 sec each
+13. Lying flat, deep breathing: 1 min
+
+## Sport-Specific Post-Workout Stretches
+
+### After Running
+
+Focus: Calves, hip flexors, hamstrings, IT band
+1. Calf stretch (both muscles): 45 sec each
+2. Hip flexor stretch: 60 sec each
+3. Hamstring stretch: 60 sec each
+4. Quad stretch: 45 sec each
+5. IT band stretch: 30 sec each
+6. Pigeon pose: 45 sec each
+
+### After Cycling
+
+Focus: Hip flexors, quads, lower back, chest (from hunching)
+1. Hip flexor stretch: 60 sec each
+2. Quad stretch: 60 sec each
+3. Hamstring stretch: 45 sec each
+4. Lower back stretch: 45 sec
+5. Chest stretch: 45 sec each
+6. Neck stretches: 30 sec each
+
+### After Weightlifting
+
+Stretch the muscles you worked:
+- Chest day: Chest, shoulders, triceps stretches
+- Back day: Lats, upper back, biceps stretches
+- Leg day: Quads, hamstrings, hip flexors, glutes, calves
+- Full body: All major muscle groups
+
+### After Swimming
+
+Focus: Shoulders, chest, lats, ankles
+1. Chest stretch: 45 sec each side
+2. Shoulder stretch: 45 sec each
+3. Lat stretch: 45 sec each
+4. Tricep stretch: 30 sec each
+5. Ankle circles: 10 each direction
+
+## Enhancing Your Stretching
+
+### Add Breathing
+
+- Inhale to prepare
+- Exhale to deepen stretch
+- Long, slow breaths
+
+### Add Relaxation
+
+- Consciously relax tense muscles
+- Let gravity help
+- Don't fight the stretch
+
+### Track Progress
+
+- Note improvements in range
+- Motivates consistency
+- Helps identify tight areas
+
+## The Bottom Line
+
+1. **Post-workout is ideal** — Muscles are warm
+2. **Hold 30-60 seconds** — Longer for more gains
+3. **Tension, not pain** — 6-7/10 intensity
+4. **Breathe and relax** — Don't fight the stretch
+5. **Be consistent** — Regular stretching builds flexibility
+
+---
+
+*Foundational Rehab includes post-workout stretching routines tailored to your activities and flexibility goals.*
+    `
+  },
+  'exercises-during-pregnancy': {
+    title: 'Exercises During Pregnancy: Safe Workouts for Each Trimester',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Benefits of Exercise During Pregnancy
+
+Exercise during a healthy pregnancy is not only safe—it's beneficial:
+
+- Reduces back pain
+- Improves sleep
+- Helps manage weight gain
+- Reduces risk of gestational diabetes
+- Improves mood and energy
+- Prepares body for labor
+- Faster postpartum recovery
+
+**Most important:** Get clearance from your healthcare provider before starting or continuing exercise.
+
+## General Guidelines
+
+### Recommended Amount
+
+- 150 minutes of moderate activity per week
+- Can be broken into shorter sessions
+- Something is better than nothing
+
+### What "Moderate" Means
+
+- Can talk but not sing
+- Slightly breathless
+- RPE (rate of perceived exertion) 5-6 out of 10
+
+### Warning Signs to Stop
+
+Stop exercising and contact your provider if you experience:
+- Vaginal bleeding
+- Dizziness or faintness
+- Shortness of breath before starting
+- Chest pain
+- Headache
+- Calf pain or swelling
+- Regular, painful contractions
+- Fluid leaking from vagina
+
+## What to Avoid
+
+### Exercises to Skip
+
+- Contact sports
+- Activities with fall risk (skiing, horseback riding)
+- Hot yoga or exercising in excessive heat
+- Lying flat on back after first trimester (modified positions)
+- Scuba diving
+- High altitude activities (above 6,000 feet if not acclimatized)
+- Heavy lifting with breath holding
+
+### Movements to Modify
+
+- Jumping and bouncing (reduce impact)
+- Deep twisting
+- Exercises lying on back (after week 16-20)
+- Wide leg exercises as pregnancy progresses
+- Any movement that causes pain or discomfort
+
+## First Trimester (Weeks 1-12)
+
+### What's Happening
+
+- Fatigue is common
+- Nausea may limit activity
+- Most can continue pre-pregnancy exercise
+
+### Best Exercises
+
+**Walking:** Low impact, adjust pace to energy levels
+**Swimming:** Supports weight, reduces joint stress
+**Prenatal yoga:** Modified poses, breathing, relaxation
+**Light strength training:** Focus on form, moderate weights
+
+### First Trimester Workout
+
+**Warm-up (5 min):** Walking or marching
+
+**Strength (15-20 min):**
+1. Squats (bodyweight or light): 2x12
+2. Wall push-ups: 2x12
+3. Seated rows with band: 2x12
+4. Glute bridges: 2x12
+5. Bird dogs: 2x8 each side
+
+**Cardio (10-20 min):** Walking, swimming, or stationary bike
+
+**Cool-down (5-10 min):** Gentle stretching
+
+## Second Trimester (Weeks 13-27)
+
+### What's Happening
+
+- Energy often returns
+- Belly growing—balance changes
+- May need to modify lying positions
+
+### Modifications Needed
+
+- Avoid lying flat on back (use incline or side-lying)
+- Widen stance for balance
+- Reduce intensity if needed
+- Stay hydrated
+
+### Best Exercises
+
+**Walking:** Often feels great
+**Swimming/Water aerobics:** Excellent as weight increases
+**Prenatal Pilates:** Core stability focus
+**Modified strength training:** Lighter weights, higher reps
+
+### Second Trimester Workout
+
+**Warm-up (5 min):** Walking, arm circles, hip circles
+
+**Strength (20 min):**
+1. Sumo squats: 2x12
+2. Incline push-ups: 2x10
+3. Band rows: 2x12
+4. Single-leg deadlift (supported): 2x8 each
+5. Side-lying leg raises: 2x12 each
+6. Bird dogs: 2x10 each
+7. Modified planks (incline): 2x20 sec
+
+**Cardio (15-20 min):** Swimming, walking, stationary bike
+
+**Cool-down (5-10 min):** Side-lying stretches, cat-cow
+
+## Third Trimester (Weeks 28-40)
+
+### What's Happening
+
+- Belly is large—balance significantly affected
+- Joint laxity increases
+- May feel more uncomfortable
+- Prepare for labor
+
+### Modifications Needed
+
+- Wide stance for all exercises
+- Avoid anything that feels unstable
+- Reduce intensity as needed
+- Focus on preparing for birth
+
+### Best Exercises
+
+**Walking:** As tolerated
+**Swimming:** Takes weight off joints
+**Pelvic floor exercises:** Preparation for labor
+**Gentle prenatal yoga:** Focus on hip opening, relaxation
+**Deep breathing:** Labor preparation
+
+### Third Trimester Workout
+
+**Warm-up (5 min):** Gentle walking, marching
+
+**Strength (15 min):**
+1. Wall squats: 2x10
+2. Wall push-ups: 2x10
+3. Seated band rows: 2x12
+4. Clamshells: 2x12 each
+5. Modified bird dog (table only): 2x8 each
+6. Pelvic tilts: 2x10
+
+**Movement (10-15 min):** Walking or water exercise
+
+**Preparation (10 min):**
+1. Deep squat holds (supported): 3x30 sec
+2. Hip circles on ball
+3. Deep breathing practice
+
+**Cool-down:** Side-lying stretches, relaxation
+
+## Important Exercises Throughout Pregnancy
+
+### Pelvic Floor Exercises (Kegels)
+
+**Why:** Supports organs, prepares for labor, aids recovery
+
+**How:**
+1. Squeeze pelvic floor (like stopping urine flow)
+2. Hold 5-10 seconds
+3. Release fully
+4. 10-15 reps, 3x daily
+
+**Also practice quick contractions:** Quick squeeze-release, 10-15 reps
+
+### Deep Breathing
+
+**Diaphragmatic breathing:**
+1. Place hands on belly
+2. Inhale, belly rises
+3. Exhale, belly falls
+4. Practice 5-10 minutes daily
+
+**Benefits:** Relaxation, prepares for labor breathing
+
+### Cat-Cow
+
+**Why:** Relieves back pain, maintains spine mobility
+
+**How:**
+1. On hands and knees
+2. Arch back, lift head (cow)
+3. Round back, tuck chin (cat)
+4. 10-15 cycles
+
+### Supported Deep Squat
+
+**Why:** Hip opening, prepares for labor positions
+
+**How:**
+1. Hold something sturdy
+2. Lower into deep squat
+3. Knees wide, heels down if possible
+4. Hold 30-60 seconds
+
+## Exercises for Common Pregnancy Issues
+
+### Back Pain
+
+- Cat-cow stretches
+- Pelvic tilts
+- Glute strengthening (bridges, clamshells)
+- Swimming
+
+### Swelling
+
+- Walking
+- Ankle circles
+- Leg elevation
+- Swimming
+
+### Pelvic Pain
+
+- Pelvic floor exercises
+- Avoid single-leg standing
+- Keep knees together when turning
+- See pelvic floor PT if severe
+
+## Postpartum Considerations
+
+After delivery (with provider clearance):
+- Begin pelvic floor exercises first
+- Start with gentle walking
+- Gradually return to pre-pregnancy activities
+- Allow 6-12 weeks for recovery
+- Longer if cesarean birth
+
+## The Bottom Line
+
+1. **Get medical clearance** — Before starting any exercise
+2. **Listen to your body** — Modify as needed
+3. **Stay cool and hydrated** — Avoid overheating
+4. **Modify by trimester** — Adjust as pregnancy progresses
+5. **Focus on function** — Prepare for labor and recovery
+
+---
+
+*Foundational Rehab offers prenatal exercise guidance. Always consult your healthcare provider for personalized advice during pregnancy.*
+    `
   }
 };
 
