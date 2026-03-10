@@ -105250,6 +105250,1017 @@ Don't wait until you can't work. Early intervention prevents chronic problems.
 
 *Foundational Rehab offers healthcare worker programs designed for demanding shift schedules.*
     `
+  },
+  'how-to-improve-squat-depth': {
+    title: 'How to Improve Squat Depth: Mobility and Technique Fixes',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Can't I Squat Deep?
+
+Limited squat depth usually comes from one or more of these:
+- Ankle mobility restriction
+- Hip mobility restriction
+- Poor motor control
+- Fear/unfamiliarity
+- Structural limitations (rare)
+
+The good news: Most limitations are fixable with targeted work.
+
+## How to Assess Your Limitation
+
+### Ankle Test
+
+**Knee-to-wall test:**
+- Face wall, foot 4-5 inches away
+- Keep heel down, drive knee to wall
+- Can you touch? If not, ankle is likely limiting
+
+### Hip Test
+
+**Deep squat with elevated heels:**
+- Place heels on 1-2 inch elevation (plates, books)
+- Try to squat deep
+- If significantly better, ankles are the main issue
+- If still limited, hips are contributing
+
+### Motor Control Test
+
+**Goblet squat test:**
+- Hold weight at chest (kettlebell, dumbbell)
+- Try to squat deep
+- If better than bodyweight squat, it's partly motor control
+
+## Fixing Ankle Mobility
+
+### Banded Ankle Mobilization (Most Effective)
+
+**How to:**
+- Band anchored low, around front of ankle
+- Step into lunge, back knee down
+- Drive knee forward over toes repeatedly
+- Band pulls joint back, creating space
+- 2 sets of 20 reps each side
+
+### Calf Stretches
+
+**Gastrocnemius (straight knee):**
+- Wall stretch, back leg straight
+- 45-60 seconds each side
+
+**Soleus (bent knee):**
+- Same position, bend back knee
+- 45-60 seconds each side
+
+### Ankle Rocks
+
+**How to:**
+- Half-kneeling position
+- Rock forward, driving knee past toes
+- Keep heel down
+- 2 sets of 15 each side
+
+## Fixing Hip Mobility
+
+### 90/90 Stretch
+
+**How to:**
+- Sit with both legs at 90° angles
+- Front leg externally rotated
+- Back leg internally rotated
+- Lean forward over front leg
+- 60 seconds each side
+
+### Pigeon Pose
+
+**How to:**
+- From hands and knees, bring one knee forward
+- Extend back leg straight
+- Square hips to floor
+- 60-90 seconds each side
+
+### Frog Stretch
+
+**How to:**
+- On hands and knees, widen knees
+- Keep feet in line with knees
+- Sit hips back toward heels
+- 60 seconds, gently pulse
+
+### Hip Flexor Stretch
+
+**How to:**
+- Kneeling lunge
+- Tuck pelvis, squeeze back glute
+- 60 seconds each side
+
+Tight hip flexors can limit squat depth by restricting hip extension.
+
+## Improving Motor Control
+
+### Goblet Squat Practice
+
+**How to:**
+- Hold weight at chest
+- Elbows inside knees
+- Use elbows to push knees out
+- Sit down between your legs
+- Practice daily
+
+### Supported Deep Squat Hold
+
+**How to:**
+- Hold onto something sturdy (door frame, post)
+- Squat as deep as possible
+- Use support to achieve depth you can't unassisted
+- Hold 30-60 seconds
+- Work toward doing without support
+
+### Box Squats with Progressive Depth
+
+**How to:**
+- Start with box at current depth
+- Squat to box, stand
+- Over weeks, use progressively lower boxes
+- Build confidence at each depth
+
+## Squat Technique Fixes
+
+### Stance Width
+
+**Try wider:**
+- Many people squat better with wider stance
+- Allows hips to drop between legs
+- Experiment with foot position
+
+### Toe Angle
+
+**Try more turnout:**
+- 15-30° toe angle common
+- Match knee tracking to toe direction
+- Find what feels natural
+
+### Weight Distribution
+
+**Stay midfoot:**
+- Not too far forward (on toes)
+- Not too far back (heels only)
+- Whole foot pressing into ground
+
+### Torso Position
+
+**Stay more upright:**
+- If folding forward, may be hip mobility or core issue
+- Arms forward can help (goblet position)
+- Look slightly up
+
+## The Deep Squat Accumulation Method
+
+**Daily practice:**
+- Accumulate 5-10 minutes in a deep squat position
+- Use support if needed
+- Break into multiple sessions
+- Cultures that squat regularly maintain the ability
+
+## Sample Daily Routine (10 Minutes)
+
+### Pre-Squat Warm-Up
+
+1. Ankle rocks: 15 each side
+2. Banded ankle mobilization: 15 each side
+3. 90/90 stretch: 45 sec each side
+4. Goblet squat hold: 30 seconds
+
+### Squat Practice
+
+5. Goblet squats: 10 slow reps (focus on depth)
+6. Supported deep squat hold: 60 seconds total
+
+### Post-Practice
+
+7. Hip flexor stretch: 30 sec each side
+8. Calf stretch: 30 sec each side
+
+## How Long to See Results?
+
+**Week 1-2:** Feeling looser after mobility work
+
+**Week 3-4:** Measurable improvement in depth
+
+**Week 5-8:** Significant improvement (often 2-4 inches deeper)
+
+**Week 9-12:** Major gains if consistent
+
+**Ongoing:** Maintenance required
+
+## Common Mistakes
+
+### Only Stretching
+
+Mobility work plus actual squat practice is more effective than stretching alone.
+
+### Ignoring Ankles
+
+Many people focus only on hips. Ankles are often the primary limitation.
+
+### Inconsistent Practice
+
+Squat depth requires regular exposure. Once a week won't cut it.
+
+### Forcing Depth with Bad Form
+
+Better to squat to good depth with proper form than force deeper with compensations (butt wink, forward lean).
+
+## When Depth Won't Improve
+
+Some people have structural limitations:
+- Hip socket shape (acetabular coverage)
+- Femur angle
+- Bone-on-bone contact
+
+If you've done consistent work for 3+ months with no improvement, you may be at your structural limit. That's okay — squat to your depth safely.
+
+## The Bottom Line
+
+1. **Assess the limitation** — Ankles vs. hips vs. motor control
+2. **Target your weak link** — Focus mobility work appropriately
+3. **Practice the squat** — Daily exposure to deep position
+4. **Be patient** — Takes 6-12 weeks for significant change
+5. **Accept your structure** — Some limitation may be permanent
+
+---
+
+*Foundational Rehab offers squat mobility programs with personalized assessment and progression.*
+    `
+  },
+  'why-do-my-joints-crack': {
+    title: 'Why Do My Joints Crack? Causes, Concerns, and When to Worry',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Sound Explained
+
+Joint cracking (crepitus) is extremely common. Most of the time, it's harmless. Understanding what causes it can ease your worry.
+
+## Types of Joint Sounds
+
+### Cavitation (The "Pop")
+
+**What it is:**
+- Gas bubbles releasing in joint fluid
+- The classic "knuckle crack" sound
+- Single, loud pop
+
+**Caused by:**
+- Stretching or manipulating the joint
+- Gas dissolved in synovial fluid comes out of solution
+- Creates a bubble that collapses = pop
+
+**Is it harmful?**
+- No evidence of joint damage
+- No link to arthritis
+- Temporary relief is real
+
+### Crepitus (Grinding/Crackling)
+
+**What it is:**
+- Grinding, grating, or crackling sounds
+- Often with movement
+- Can be felt as well as heard
+
+**Caused by:**
+- Rough cartilage surfaces
+- Tendons/ligaments moving over bone
+- Air in soft tissues (rare)
+
+**Is it concerning?**
+- Painless crepitus usually not a problem
+- Painful crepitus may indicate cartilage issues
+- Worth mentioning to a doctor if painful
+
+### Snapping/Clicking
+
+**What it is:**
+- Snapping sound with movement
+- Often reproducible at same point in range
+
+**Caused by:**
+- Tendons snapping over bones
+- Ligaments shifting
+- Meniscus or labrum catching
+
+**Is it concerning?**
+- Painless snapping often benign
+- Painful snapping may need evaluation
+- Especially in hips (snapping hip syndrome) and knees
+
+## Common Joint Sounds by Location
+
+### Knees
+
+**Possible causes:**
+- Patella (kneecap) tracking
+- Cartilage wear (more common with age)
+- Meniscus issues (if painful or catching)
+- Tendons over bone
+
+**When to worry:**
+- Pain accompanies the sound
+- Swelling present
+- Knee gives way or locks
+
+### Shoulders
+
+**Possible causes:**
+- Tendons moving over bone (common)
+- Labrum issues
+- Arthritis (less common in shoulders)
+
+**When to worry:**
+- Pain with movement
+- Weakness
+- Feeling of instability
+
+### Hips
+
+**Possible causes:**
+- Snapping hip syndrome (IT band or psoas)
+- Labral tears
+- Arthritis (especially if over 50)
+
+**When to worry:**
+- Pain deep in groin
+- Catching or locking
+- Limited range of motion
+
+### Neck and Back
+
+**Possible causes:**
+- Facet joints (most common)
+- Ligaments shifting
+- Gas release (same as knuckles)
+
+**When to worry:**
+- Pain accompanies sounds
+- Numbness or tingling
+- Weakness in arms or legs
+
+### Ankles
+
+**Possible causes:**
+- Peroneal tendons snapping
+- Loose bodies (if locking)
+- Arthritis (especially after past injuries)
+
+**When to worry:**
+- Pain
+- Instability
+- History of significant ankle injuries
+
+## When Joint Sounds Are Normal
+
+### Generally Not Concerning
+
+- Painless popping or cracking
+- Sound without swelling
+- Full range of motion maintained
+- No weakness
+- Sound you've had for years without change
+
+### Common and Benign
+
+- Morning stiffness with initial cracks (resolves quickly)
+- Cracking after staying still (sitting, sleeping)
+- Knuckle cracking
+- Occasional popping during exercise
+
+## When to See a Doctor
+
+### Red Flags
+
+- Pain accompanies the sound
+- Swelling present
+- Joint feels unstable or "gives way"
+- Locking (can't fully bend or straighten)
+- Sound is new and associated with injury
+- Progressive worsening
+- Grinding with pain in weight-bearing joints
+
+### Conditions That May Cause Concerning Sounds
+
+- Osteoarthritis (wear and tear)
+- Meniscal or labral tears
+- Tendon issues
+- Loose bodies in joint
+- Inflammatory arthritis (if other symptoms present)
+
+## What About Cracking More as You Age?
+
+### Normal Changes
+
+- Cartilage surfaces become less smooth
+- More crepitus is common
+- Doesn't necessarily mean damage
+
+### The Key Question
+
+**Painful or painless?**
+- Painless age-related sounds: Usually nothing to worry about
+- Painful sounds: Worth evaluation
+
+## Should You Stop Cracking Your Joints?
+
+### Knuckles
+
+Research shows no link to arthritis. Crack away if you want (though others may find it annoying).
+
+### Neck
+
+Be more cautious. Aggressive neck manipulation carries small but real risks. Gentle stretches are safer.
+
+### Back
+
+Self-cracking is generally fine if gentle. Avoid having others "adjust" you forcefully.
+
+## Reducing Unwanted Joint Sounds
+
+### Stay Active
+
+- Regular movement keeps joints healthy
+- Synovial fluid production improves with movement
+- Muscles support joints better
+
+### Strength Training
+
+- Strong muscles stabilize joints
+- Reduces stress on joint surfaces
+- May reduce some clicking/popping
+
+### Mobility Work
+
+- Keeps joints moving through full range
+- Prevents stiffness that leads to cracking
+
+### Maintain Healthy Weight
+
+- Less load on weight-bearing joints
+- Especially important for knees and hips
+
+## The Bottom Line
+
+1. **Painless = usually fine** — Most joint sounds are harmless
+2. **Painful = get checked** — Pain changes the equation
+3. **Cavitation (pops)** — Normal gas release, not damage
+4. **Crepitus (grinding)** — Common with age, concerning if painful
+5. **New sounds after injury** — Worth evaluation
+
+---
+
+*Foundational Rehab offers joint health programs to keep you moving smoothly.*
+    `
+  },
+  'exercises-after-knee-replacement': {
+    title: 'Exercises After Knee Replacement: Recovery Guide by Phase',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Post-Surgery',
+    readTime: '7 min read',
+    content: `
+## The Recovery Journey
+
+Knee replacement recovery follows predictable phases. Exercise is crucial at every stage — but the right exercises at the right time.
+
+**Typical timeline:**
+- Hospital: Days 1-3
+- Early home: Weeks 1-6
+- Intermediate: Weeks 6-12
+- Advanced: Months 3-6
+- Full recovery: 6-12 months
+
+Always follow your surgeon's and physical therapist's specific instructions. This guide provides general education.
+
+## Immediate Post-Op (Hospital: Days 1-3)
+
+### Goals
+
+- Prevent blood clots
+- Control swelling
+- Begin gentle motion
+- Learn safe mobility
+
+### Exercises
+
+**Ankle Pumps**
+- Point and flex feet
+- Every hour while awake
+- 20-30 reps
+- Prevents blood clots
+
+**Quad Sets**
+- Tighten thigh muscle
+- Push back of knee into bed
+- Hold 5 seconds
+- 10-20 reps, multiple times daily
+
+**Heel Slides (Assisted)**
+- Slide heel toward buttock
+- Use strap or towel to assist
+- Pain-free range only
+- 10-15 reps
+
+**Straight Leg Raises (If Cleared)**
+- Tighten quad, lift leg 6-12 inches
+- Hold 3-5 seconds
+- 10 reps
+- May need to wait until quad firing well
+
+### Walking
+
+- Start with walker, day of or day after surgery
+- Short distances initially
+- Increase as tolerated
+- Weight-bearing per surgeon's instructions
+
+## Early Home Phase (Weeks 1-6)
+
+### Goals
+
+- Achieve 90° knee flexion (bending)
+- Full knee extension (straightening)
+- Independent walking with assistive device
+- Manage swelling and pain
+
+### Exercises
+
+**Seated Knee Flexion**
+- Sit on chair, slide foot back
+- Use other foot to assist if needed
+- Hold 10-20 seconds at end range
+- 10-15 reps, multiple times daily
+
+Goal: 90° flexion by week 2-3, 110°+ by week 6
+
+**Prone Knee Flexion**
+- Lie face down
+- Bend knee, bringing heel toward buttock
+- Use strap to assist
+- 10-15 reps
+
+**Knee Extension Stretch**
+- Sit with heel propped on chair/ottoman
+- Let gravity straighten knee
+- Place light weight on thigh if needed
+- Hold 5-10 minutes, several times daily
+
+Goal: Full extension (0°) as soon as possible
+
+**Straight Leg Raises**
+- All directions: front, side, back
+- 10-15 reps each direction
+- 2-3 sets
+
+**Standing Knee Flexion**
+- Stand holding support
+- Bend knee, bringing heel toward buttock
+- Hold 3 seconds
+- 10-15 reps
+
+**Mini Squats**
+- Hold onto support
+- Bend knees 30-45°
+- Keep weight even on both legs
+- 10-15 reps
+
+**Step-Ups (Later in Phase)**
+- Low step (4-6 inches)
+- Step up with surgical leg
+- Step down with non-surgical leg
+- 10 reps each leg
+
+### Swelling Management
+
+- Ice 20 minutes, several times daily
+- Elevate leg when resting
+- Compression if recommended
+- Movement helps (ankle pumps, walking)
+
+### Walking Progression
+
+- Walker → cane (typically weeks 2-4)
+- Increase distance gradually
+- Goal: Walk without assistive device by week 6
+
+## Intermediate Phase (Weeks 6-12)
+
+### Goals
+
+- Achieve 115-120° flexion
+- Full strength for daily activities
+- Walk without assistive device
+- Manage stairs comfortably
+
+### Exercises
+
+**Stationary Bike**
+- Start when you have enough flexion
+- Low resistance initially
+- 10-20 minutes
+- Excellent for motion and endurance
+
+**Progressive Squats**
+- Deeper range as tolerated
+- Can add light resistance
+- 3 sets of 10-15
+
+**Lunges (Supported)**
+- Hold onto support initially
+- Short stride
+- Progress range and independence
+- 10 each leg
+
+**Step-Ups (Progressive)**
+- Increase step height (6-8 inches)
+- Add weight when appropriate
+- 3 sets of 10 each leg
+
+**Leg Press (If Gym Access)**
+- Light weight, high reps initially
+- Full safe range
+- Progress weight gradually
+
+**Balance Exercises**
+- Single-leg stance
+- Tandem walking (heel-to-toe)
+- Progress to unstable surfaces
+
+### Walking and Cardio
+
+- Walking without assistive device
+- 20-30 minute walks
+- Pool walking/exercises if available
+- Low-impact cardio (bike, elliptical)
+
+## Advanced Phase (Months 3-6)
+
+### Goals
+
+- Full functional motion (130°+)
+- Return to recreational activities
+- Full strength
+
+### Exercises
+
+**Full Squats**
+- As deep as comfortable and safe
+- Add resistance progressively
+
+**Walking Lunges**
+- Full stride
+- Add dumbbells when ready
+
+**Single-Leg Exercises**
+- Single-leg squats (supported)
+- Step-downs
+- Single-leg deadlifts
+
+**Resistance Training**
+- Leg press
+- Leg extensions (if approved)
+- Hamstring curls
+- Calf raises
+
+**Balance and Agility**
+- Single-leg balance challenges
+- Direction changes
+- Light agility work
+
+### Activity Return
+
+- Golf: Often cleared around 3-4 months
+- Swimming: Usually cleared early (check incision)
+- Tennis doubles: 4-6 months
+- Tennis singles: 6+ months
+- Low-impact hiking: 3-4 months
+
+## What to Avoid
+
+### General Precautions (Discuss with Surgeon)
+
+**Early phase:**
+- High-impact activities
+- Twisting on planted foot
+- Kneeling on surgical knee (may need pad permanently)
+- Deep squatting (initially)
+
+**Long-term considerations:**
+- Running (most surgeons advise against)
+- High-impact sports (skiing, basketball — controversial)
+- Heavy labor involving kneeling
+
+### Signs of Problems
+
+**Contact your surgeon if:**
+- Increasing pain (not improving)
+- New redness, warmth, or swelling
+- Fever
+- Drainage from incision
+- Sudden worsening of motion
+- Knee feels unstable
+
+## Tips for Success
+
+### Be Consistent
+
+- Do exercises as prescribed
+- Multiple short sessions beat one long session
+- Daily commitment accelerates recovery
+
+### Manage Pain Wisely
+
+- Ice after exercise
+- Take pain medication before PT (if needed)
+- Pain shouldn't be severe during exercises
+
+### Be Patient
+
+- Recovery takes 6-12 months
+- Progress isn't always linear
+- Celebrate small victories
+
+### Don't Compare
+
+- Everyone recovers differently
+- Your anatomy, age, and pre-surgery condition matter
+- Focus on your own progress
+
+## The Bottom Line
+
+1. **Extension is priority** — Get the knee straight first
+2. **Flexion follows** — Gradually achieve bending
+3. **Walking matters** — Progressive independence
+4. **Strength rebuilds** — Takes months, be patient
+5. **Follow your team** — Surgeon and PT know your case
+
+---
+
+*Foundational Rehab offers post-knee replacement programs with phase-appropriate progression.*
+    `
+  },
+  'how-to-fix-rounded-shoulders': {
+    title: 'How to Fix Rounded Shoulders: Complete Correction Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: `
+## What Are Rounded Shoulders?
+
+Rounded shoulders (protracted shoulders) is when shoulders roll forward, causing:
+- Hunched appearance
+- Forward head posture (often accompanies)
+- Tight chest muscles
+- Weak upper back muscles
+- Increased risk of shoulder problems
+
+Extremely common in people who sit, drive, or use phones/computers frequently.
+
+## The Muscle Imbalance
+
+### Tight/Overactive Muscles
+
+**Pectoralis major and minor** (chest)
+- Shortened from forward reaching
+- Pull shoulders forward
+
+**Anterior deltoid** (front shoulder)
+- Overworked in forward positions
+
+**Upper trapezius** (often tight, not always)
+- Compensating for weak middle/lower trap
+
+### Weak/Underactive Muscles
+
+**Rhomboids** (between shoulder blades)
+- Pull shoulder blades together
+- Often weak and overstretched
+
+**Middle and lower trapezius**
+- Stabilize shoulder blades
+- Weak from disuse
+
+**Deep neck flexors**
+- Weak with forward head posture
+- Often accompanies rounded shoulders
+
+**Serratus anterior**
+- Stabilizes shoulder blade on rib cage
+- Often weak
+
+## How to Fix Rounded Shoulders
+
+### Step 1: Release Tight Muscles
+
+**Pec Foam Rolling/Ball Release**
+
+**How to:**
+- Lie on floor, lacrosse ball under chest
+- Position ball below collarbone, toward armpit
+- Find tender spots and hold
+- 60-90 seconds each side
+
+**Lat Release**
+
+**How to:**
+- Foam roller under armpit area
+- Roll from armpit to mid-back
+- Pause on tight spots
+- 60 seconds each side
+
+### Step 2: Stretch Shortened Muscles
+
+**Doorway Pec Stretch (Essential)**
+
+**How to:**
+- Stand in doorway, forearm on frame
+- Arm at 90° from body
+- Step through and rotate away
+- Hold 45-60 seconds each side
+- Do at multiple arm angles (high, middle, low)
+
+**Corner Stretch**
+
+**How to:**
+- Face corner, forearms on walls
+- Lean into corner
+- Feel stretch across chest
+- Hold 45-60 seconds
+
+**Lat Stretch**
+
+**How to:**
+- Kneel in front of chair/bench
+- Place elbows on surface
+- Sit hips back, drop chest
+- Hold 45-60 seconds
+
+### Step 3: Strengthen Weak Muscles
+
+**Face Pulls (Crucial Exercise)**
+
+**How to:**
+- Band or cable at face height
+- Pull toward face, elbows high
+- Squeeze shoulder blades at end
+- 3 sets of 15-20 reps
+
+Targets middle traps, rhomboids, and external rotators.
+
+**Band Pull-Aparts**
+
+**How to:**
+- Band in front at shoulder height
+- Pull apart, squeezing shoulder blades
+- Control the return
+- 3 sets of 15-20 reps
+
+**Prone Y-T-W Raises**
+
+**How to:**
+- Lie face down
+- Y: Arms overhead at 45°, thumbs up, lift
+- T: Arms out to sides, thumbs up, lift
+- W: Elbows bent, squeeze shoulder blades, lift
+- 10 reps each position, 2-3 sets
+
+**Rows (Any Variation)**
+
+**How to:**
+- Focus on squeezing shoulder blades
+- Don't shrug shoulders up
+- 3 sets of 12-15 reps
+
+**Wall Angels**
+
+**How to:**
+- Stand with back against wall
+- Arms at 90° (goal post position)
+- Slide arms up and down
+- Keep lower back, head, arms touching wall
+- 2 sets of 10-15 slow reps
+
+### Step 4: Practice Proper Position
+
+**Posture Reset (Throughout Day)**
+
+**How to:**
+- Roll shoulders up, back, and down
+- Squeeze shoulder blades gently
+- Bring head back (chin tuck)
+- Hold 10 seconds
+- Repeat every 30-60 minutes
+
+**Brugger's Relief Position**
+
+**How to:**
+- Sit at edge of chair
+- Feet wide, turned out
+- Arch lower back slightly
+- Turn palms forward, spread fingers
+- Squeeze shoulder blades, bring shoulders back
+- Hold 10-30 seconds
+- Do hourly when sitting
+
+## Sample Daily Routine (15 Minutes)
+
+### Morning (5 Minutes)
+
+1. Pec ball release: 45 sec each side
+2. Doorway stretch: 30 sec each side
+3. Wall angels: 10 reps
+
+### During Day
+
+- Posture resets every 30-60 minutes
+- Brugger's position during sitting
+
+### Evening (10 Minutes)
+
+1. Doorway stretch: 45 sec each side (multiple angles)
+2. Lat stretch: 45 sec
+3. Face pulls or band pull-aparts: 3 x 15
+4. Prone Y-T-W: 10 each
+5. Rows (if equipment): 3 x 12
+
+## Timeline for Correction
+
+**Week 1-2:** Improved awareness, muscles feel different after exercises
+
+**Week 3-4:** Easier to hold proper position, less tension
+
+**Week 5-8:** Visible improvement in photos, easier to maintain
+
+**Week 9-12:** Significant correction, becoming more automatic
+
+**Ongoing:** Maintenance required (modern life keeps fighting you)
+
+## Common Mistakes
+
+### Only Stretching Pecs
+
+Without strengthening upper back, shoulders will roll forward again as soon as you stop focusing.
+
+### Overtraining Upper Traps
+
+Shrugs won't fix rounded shoulders — may make it worse. Focus on middle and lower traps.
+
+### Ignoring Forward Head
+
+Rounded shoulders and forward head usually go together. Address both.
+
+### Expecting Quick Results
+
+Took years to develop, takes months to fix. Be consistent.
+
+## Ergonomic Fixes
+
+### Computer Setup
+
+- Monitor at eye level
+- Keyboard and mouse close (elbows at 90°)
+- Chair supporting lower back
+
+### Phone Use
+
+- Bring phone to eye level
+- Don't hunch over phone
+
+### Driving
+
+- Proper seat position
+- Mirrors adjusted to discourage hunching
+- Hands at 9 and 3 (not 10 and 2)
+
+### Sleeping
+
+- Avoid fetal position (curled forward)
+- Back sleeping or side with support
+
+## The Bottom Line
+
+1. **Stretch chest daily** — Doorway stretch is essential
+2. **Strengthen upper back** — Face pulls, rows, prone raises
+3. **Practice position** — Hourly resets throughout day
+4. **Fix ergonomics** — Environment affects posture
+5. **Be patient** — Takes 8-12 weeks for lasting change
+
+---
+
+*Foundational Rehab offers posture correction programs targeting rounded shoulders and related issues.*
+    `
   }
 };
 
