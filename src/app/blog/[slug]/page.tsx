@@ -136029,6 +136029,1033 @@ Light resistance when cleared:
 
 *Foundational Rehab supports your surgical recovery with safe, progressive exercise guidance.*
     `
+  },
+  'bodyweight-exercises': {
+    title: 'Bodyweight Exercises: Complete Home Workout Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '8 min read',
+    content: `
+## Why Bodyweight Training Works
+
+No gym? No problem. Your body is the only equipment you need:
+
+**Benefits:**
+- Free and accessible anywhere
+- Functional movement patterns
+- Lower injury risk than heavy weights
+- Builds relative strength (strength-to-weight ratio)
+- Can be done daily
+
+**Can you build muscle with bodyweight?** Yes—through progressive overload (harder variations, more reps, slower tempo).
+
+## Upper Body Exercises
+
+### Push-Ups
+
+The king of upper body exercises:
+
+**Standard Push-Up:**
+1. Hands shoulder-width, fingers forward
+2. Body straight from head to heels
+3. Lower chest to floor
+4. Push back up
+5. Don't let hips sag or pike
+
+**Progressions:**
+- Wall push-ups (easiest)
+- Incline push-ups (hands on bench)
+- Knee push-ups
+- Standard push-ups
+- Diamond push-ups
+- Decline push-ups
+- Archer push-ups
+- One-arm push-up (hardest)
+
+### Pike Push-Ups (Shoulders)
+
+1. Start in downward dog position
+2. Hands and feet on floor, hips high
+3. Bend elbows, lower head toward floor
+4. Push back up
+5. Progress to elevated pike, then handstand push-ups
+
+### Dips
+
+1. Use parallel bars, chairs, or bench
+2. Lower body by bending elbows
+3. Go until upper arms parallel to floor
+4. Push back up
+5. Keep body upright for chest, lean forward for triceps
+
+### Pull-Ups/Chin-Ups
+
+1. Hang from bar, hands shoulder-width
+2. Pull until chin over bar
+3. Lower with control
+4. Chin-ups (palms toward you) = more biceps
+5. Pull-ups (palms away) = more back
+
+**Progressions:**
+- Dead hangs
+- Scapular pulls
+- Negative pull-ups (lower slowly)
+- Band-assisted pull-ups
+- Full pull-ups
+- Weighted pull-ups
+
+### Inverted Rows
+
+1. Set bar at waist height (or use table)
+2. Hang underneath, body straight
+3. Pull chest to bar
+4. Lower with control
+5. Great pull-up progression
+
+## Lower Body Exercises
+
+### Squats
+
+**Bodyweight Squat:**
+1. Feet shoulder-width, toes slightly out
+2. Sit back and down
+3. Keep chest up, knees tracking toes
+4. Stand back up
+
+**Progressions:**
+- Assisted squat (hold onto something)
+- Box squat
+- Full squat
+- Pause squat
+- Jump squat
+- Pistol squat (single leg)
+
+### Lunges
+
+**Forward Lunge:**
+1. Step forward into lunge
+2. Lower back knee toward ground
+3. Push back to start
+
+**Variations:**
+- Reverse lunge (step back)
+- Walking lunges
+- Lateral lunges
+- Bulgarian split squat (back foot elevated)
+- Jumping lunges
+
+### Hip Hinges
+
+**Romanian Deadlift (Single Leg):**
+1. Stand on one leg
+2. Hinge forward at hip
+3. Opposite leg extends behind
+4. Return to standing
+5. Excellent for hamstrings and glutes
+
+**Good Morning:**
+1. Hands behind head
+2. Hinge forward at hips
+3. Keep back flat
+4. Return to standing
+
+### Glute Bridges
+
+1. Lie on back, knees bent
+2. Drive through heels, lift hips
+3. Squeeze glutes at top
+4. Progress to single leg
+
+### Calf Raises
+
+1. Stand on edge of step
+2. Rise up on toes
+3. Lower heels below step
+4. Progress to single leg
+
+## Core Exercises
+
+### Plank
+
+1. Forearms and toes on floor
+2. Body straight
+3. Hold 20-60 seconds
+4. Variations: side plank, plank shoulder taps
+
+### Dead Bug
+
+1. Lie on back, arms up, knees 90°
+2. Lower opposite arm and leg
+3. Keep back flat
+4. 10 reps each side
+
+### Hollow Body Hold
+
+1. Lie on back
+2. Lift shoulders and legs off floor
+3. Lower back pressed to ground
+4. Arms by ears or at sides
+5. Hold 20-30 seconds
+
+### Mountain Climbers
+
+1. Push-up position
+2. Drive knees toward chest alternating
+3. Keep hips level
+4. 20-30 seconds
+
+### Leg Raises
+
+1. Lie on back, legs straight
+2. Lift legs to 90°
+3. Lower slowly
+4. Keep back pressed to floor
+
+## Full Body Movements
+
+### Burpees
+
+1. Stand, squat down, hands on floor
+2. Jump feet back to push-up position
+3. Do a push-up (optional)
+4. Jump feet to hands
+5. Jump up with arms overhead
+
+### Bear Crawl
+
+1. On hands and feet, knees hovering
+2. Crawl forward, opposite arm and leg
+3. Keep back flat
+4. Great for coordination and conditioning
+
+## Sample Workouts
+
+### Beginner (20 min)
+
+*3 rounds:*
+- Wall push-ups: 10
+- Assisted squats: 10
+- Plank: 20 sec
+- Glute bridge: 15
+- Rest 60 seconds between rounds
+
+### Intermediate (30 min)
+
+*4 rounds:*
+- Push-ups: 12
+- Squats: 15
+- Inverted rows: 10
+- Lunges: 10 each leg
+- Dead bug: 10 each side
+- Rest 45 seconds between rounds
+
+### Advanced (40 min)
+
+*5 rounds:*
+- Diamond push-ups: 12
+- Pistol squat progression: 6 each leg
+- Pull-ups: 8
+- Bulgarian split squat: 10 each leg
+- Pike push-ups: 10
+- Hollow body hold: 30 sec
+- Rest 30 seconds between rounds
+
+### Quick Daily (15 min)
+
+*3 rounds:*
+- Push-ups: 10
+- Squats: 15
+- Plank: 30 sec
+- Glute bridge: 15
+- Minimal rest
+
+## Progression Strategies
+
+### More Reps
+
+Build from 8 to 15+ reps before progressing to harder variation.
+
+### Slower Tempo
+
+3 seconds down, pause, 3 seconds up.
+
+### Pause Reps
+
+Hold at hardest position for 2-3 seconds.
+
+### 1.5 Reps
+
+Go down, come halfway up, go down again, come all the way up = 1 rep.
+
+### Harder Variations
+
+Progress to more challenging versions of each exercise.
+
+## Weekly Schedule
+
+**Option 1 - Full Body (3x/week):**
+- Monday: Full body
+- Wednesday: Full body
+- Friday: Full body
+
+**Option 2 - Upper/Lower Split (4x/week):**
+- Monday: Upper
+- Tuesday: Lower
+- Thursday: Upper
+- Friday: Lower
+
+**Option 3 - Push/Pull/Legs (6x/week):**
+- Push (chest, shoulders, triceps)
+- Pull (back, biceps)
+- Legs
+- Repeat
+
+## The Bottom Line
+
+1. **Master basics first** — Perfect push-ups before diamond push-ups
+2. **Progressive overload** — Harder variations or more reps
+3. **Full range of motion** — Don't cheat depth
+4. **Consistency beats intensity** — Regular training wins
+5. **Recover properly** — Sleep and nutrition matter
+
+---
+
+*Foundational Rehab builds functional strength with progressive bodyweight training programs.*
+    `
+  },
+  'exercises-for-scoliosis': {
+    title: 'Exercises for Scoliosis: Safe Movement for Spinal Curves',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Understanding Scoliosis
+
+Scoliosis is a sideways curve of the spine, often with rotation:
+
+**Types:**
+- **Idiopathic** — Unknown cause, most common
+- **Congenital** — Present at birth
+- **Neuromuscular** — From conditions like cerebral palsy
+- **Degenerative** — Develops in adults
+
+**Curve severity:**
+- Mild: Under 25°
+- Moderate: 25-40°
+- Severe: Over 40°
+
+Exercise is most effective for mild to moderate curves and can help manage symptoms at any severity.
+
+## Goals of Scoliosis Exercise
+
+1. **Reduce pain** — Strengthen supporting muscles
+2. **Improve posture** — Better alignment habits
+3. **Increase flexibility** — Address tight areas
+4. **Slow progression** — In growing adolescents
+5. **Improve function** — Better movement quality
+
+## Important Principles
+
+### Work with Your Curve
+
+Exercises should be tailored to YOUR specific curve pattern. What helps one person may not help another.
+
+### Avoid Worsening the Curve
+
+Some exercises may increase curve. Work with a physical therapist familiar with scoliosis.
+
+### Consistency Matters
+
+Daily exercises are more effective than occasional sessions.
+
+### Strengthening AND Stretching
+
+Both are needed for balance.
+
+## General Exercises (Safe for Most)
+
+### Pelvic Tilts
+
+1. Lie on back, knees bent
+2. Flatten lower back to floor
+3. Hold 5 seconds
+4. Release
+5. 15 reps
+
+### Cat-Cow (Controlled)
+
+1. On hands and knees
+2. Slowly arch back (cow)
+3. Slowly round back (cat)
+4. Move through comfortable range
+5. 10 cycles
+
+### Bird Dog
+
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep back flat, don't rotate
+4. Hold 5 seconds
+5. 10 reps each side
+
+### Dead Bug
+
+1. Lie on back, arms up, knees 90°
+2. Lower opposite arm and leg
+3. Keep back pressed to floor
+4. 10 reps each side
+
+### Side Plank (Modified)
+
+1. Lie on side, prop on elbow
+2. Knees bent, lift hips
+3. Hold 15-30 seconds
+4. Do both sides (may focus more on convex side per PT guidance)
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor
+4. Hold 30-60 seconds
+5. Can reach to one side for targeted stretch
+
+## Schroth Method Exercises
+
+The Schroth method is a specific approach for scoliosis:
+
+### Core Principles
+
+- **Rotational breathing** — Breathing into the concave side
+- **Postural correction** — Learning neutral alignment
+- **Mirror work** — Visual feedback for posture
+- **Muscle activation** — Strengthening weak areas
+
+### Sample Schroth-Inspired Exercises
+
+**Wall Elongation:**
+1. Stand with back against wall
+2. Press head, shoulders, and hips into wall
+3. Reach arms overhead along wall
+4. Hold 30 seconds
+
+**Rotational Breathing:**
+1. Identify concave (compressed) side of curve
+2. Place hand on that side
+3. Breathe deeply, trying to expand ribs into hand
+4. 10 breaths
+
+## Stretches for Scoliosis
+
+### Lat Stretch (Concave Side)
+
+1. Stand, reach arm overhead
+2. Lean away from that arm
+3. Feel stretch along side
+4. Hold 30 seconds
+5. Focus on tighter side
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone, shift forward
+3. Hold 30 seconds each side
+
+### Chest Stretch
+
+1. Doorway stretch
+2. Forearm on frame, step through
+3. Hold 30 seconds each side
+
+### Thoracic Rotation
+
+1. Lie on side, knees bent
+2. Rotate upper body, opening chest
+3. Follow with eyes
+4. Hold 30 seconds each side
+
+## Strengthening for Scoliosis
+
+### Core Stability
+
+- Planks (front and side)
+- Dead bugs
+- Bird dogs
+- Pallof press
+
+### Back Extensors
+
+- Prone back extensions (gentle)
+- Swimming exercise (prone, alternate arm/leg lifts)
+
+### Hip Strengthening
+
+- Glute bridges
+- Clamshells
+- Side-lying leg lifts
+
+## Swimming and Scoliosis
+
+Swimming is often recommended for scoliosis:
+
+**Benefits:**
+- Non-weight-bearing
+- Symmetrical movement (backstroke especially)
+- Builds back strength
+- Improves posture
+
+**Best strokes:**
+- Backstroke — Most symmetrical
+- Freestyle — Good for back strength
+
+**Use caution with:**
+- Butterfly — High back extension
+- Breaststroke — May not be symmetric
+
+## Activities to Consider Carefully
+
+### May Need Modification
+
+- Running — Impact may aggravate
+- Contact sports — Check with doctor
+- Gymnastics — Extreme flexibility may worsen curve
+- Heavy weightlifting — Needs careful form
+
+### Generally Safe
+
+- Walking
+- Swimming
+- Cycling
+- Yoga (with modifications)
+- Pilates (with scoliosis-trained instructor)
+
+## Daily Routine for Scoliosis
+
+**Morning (10 min):**
+- Cat-cow: 10 cycles
+- Bird dog: 10 each side
+- Child's pose: 60 seconds
+- Wall elongation: 30 seconds
+
+**Throughout Day:**
+- Posture awareness
+- Movement breaks
+- Avoid prolonged positions
+
+**Evening (15 min):**
+- Pelvic tilts: 15 reps
+- Dead bug: 10 each side
+- Side plank: 30 sec each side
+- Stretches: 30 seconds each
+- Rotational breathing: 5 minutes
+
+## When to See a Specialist
+
+- Curve is progressing
+- Pain is significant or worsening
+- Neurological symptoms (numbness, weakness)
+- Breathing difficulties
+- Want a specific exercise prescription
+
+## The Bottom Line
+
+1. **Individualize** — Work with PT who knows scoliosis
+2. **Both sides matter** — But focus may differ by curve
+3. **Core stability is key** — Supports the spine
+4. **Consistency wins** — Daily practice over time
+5. **Swimming is your friend** — Great low-impact option
+
+---
+
+*Foundational Rehab provides scoliosis-specific exercise guidance tailored to your curve pattern.*
+    `
+  },
+  'how-to-strengthen-your-back': {
+    title: 'How to Strengthen Your Back: Complete Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read',
+    content: `
+## Why Back Strength Matters
+
+A strong back is essential for:
+
+- **Pain prevention** — Weak backs are vulnerable backs
+- **Good posture** — Muscles hold you upright
+- **Daily function** — Lifting, carrying, bending
+- **Athletic performance** — Power generation
+- **Injury resistance** — Protects the spine
+
+Most people have relatively weak backs from too much sitting and not enough pulling exercises.
+
+## Back Anatomy Basics
+
+### Upper Back
+
+- **Trapezius** — Large diamond-shaped muscle
+- **Rhomboids** — Between shoulder blades
+- **Rear deltoids** — Back of shoulders
+
+### Mid/Lower Back
+
+- **Latissimus dorsi** — Large "V" shape muscle
+- **Erector spinae** — Muscles along the spine
+- **Multifidus** — Deep spinal stabilizers
+
+A complete back program trains all of these.
+
+## Upper Back Exercises
+
+### Rows (Any Variation)
+
+The fundamental back exercise:
+
+**Bent-Over Row:**
+1. Hinge forward at hips, flat back
+2. Pull weight toward lower chest
+3. Squeeze shoulder blades
+4. Lower with control
+5. 10-12 reps
+
+**Variations:**
+- Dumbbell rows
+- Cable rows
+- Inverted rows (bodyweight)
+- Machine rows
+
+### Face Pulls
+
+1. Cable or band at face height
+2. Pull toward face, elbows high
+3. Squeeze shoulder blades, externally rotate
+4. 15-20 reps
+5. Great for upper back and shoulder health
+
+### Reverse Flyes
+
+1. Bent over or face down on bench
+2. Arms hanging, slight elbow bend
+3. Raise arms to sides
+4. Squeeze shoulder blades
+5. 12-15 reps
+
+### Shrugs
+
+1. Hold heavy weights at sides
+2. Shrug shoulders toward ears
+3. Hold 1 second at top
+4. 12-15 reps
+5. Targets upper traps
+
+## Lat Exercises
+
+### Pull-Ups/Chin-Ups
+
+1. Hang from bar
+2. Pull until chin over bar
+3. Lower with control
+4. Best lat builder
+
+### Lat Pulldowns
+
+1. Grip bar wider than shoulders
+2. Pull to upper chest
+3. Control the return
+4. 10-12 reps
+5. Good pull-up alternative
+
+### Straight Arm Pulldowns
+
+1. Stand at cable machine
+2. Arms straight, pull bar to thighs
+3. Squeeze lats at bottom
+4. 12-15 reps
+5. Great lat isolation
+
+## Lower Back/Erector Exercises
+
+### Deadlifts
+
+The king of back exercises:
+
+**Conventional Deadlift:**
+1. Bar over mid-foot
+2. Grip outside knees
+3. Flat back, chest up
+4. Drive through floor
+5. Stand tall, squeeze glutes
+6. 5-8 reps
+
+**Romanian Deadlift:**
+1. Start standing with weight
+2. Push hips back, lower weight
+3. Keep slight knee bend
+4. Feel hamstring stretch
+5. Return to standing
+6. 8-10 reps
+
+### Good Mornings
+
+1. Bar on back (or hands behind head)
+2. Hinge at hips, push butt back
+3. Keep back flat
+4. Return to standing
+5. 10-12 reps
+
+### Back Extensions
+
+1. On hyperextension bench
+2. Lower torso toward floor
+3. Raise until body is straight
+4. Don't hyperextend
+5. 12-15 reps
+
+### Bird Dog
+
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Hold 5 seconds
+4. 10 reps each side
+5. Great for deep stabilizers
+
+## Sample Back Workouts
+
+### Beginner (Bodyweight)
+
+- Inverted rows: 3 × 8-10
+- Bird dog: 3 × 10 each side
+- Back extensions (floor): 3 × 12
+- Face pulls (band): 3 × 15
+
+### Intermediate
+
+- Pull-ups or lat pulldown: 4 × 8
+- Bent-over row: 3 × 10
+- Face pulls: 3 × 15
+- Romanian deadlift: 3 × 10
+- Back extension: 3 × 12
+
+### Advanced
+
+- Deadlift: 4 × 5
+- Weighted pull-ups: 4 × 6
+- Barbell row: 4 × 8
+- Face pulls: 3 × 15
+- Good mornings: 3 × 10
+- Farmer carries: 3 × 40 steps
+
+## Back Training Tips
+
+### Pull More Than Push
+
+Most people do more pushing (bench press) than pulling. Balance it out:
+- Aim for 2:1 or at least 1:1 pull to push ratio
+
+### Squeeze the Shoulder Blades
+
+On every rowing motion, focus on squeezing shoulder blades together.
+
+### Don't Round the Lower Back
+
+On deadlifts and rows, keep a flat back. Rounding under load risks injury.
+
+### Use Full Range of Motion
+
+Stretch at the bottom, squeeze at the top.
+
+### Progress Gradually
+
+Add weight slowly. Back injuries from ego lifting are common.
+
+## Back for Posture
+
+If your goal is better posture:
+
+**Focus on:**
+- Face pulls (daily)
+- Rows (horizontal pulling)
+- Mid-trap exercises (reverse flyes)
+- Bird dog and plank for stability
+
+**Stretch:**
+- Chest muscles
+- Lats
+- Hip flexors
+
+## Back for Pain Prevention
+
+**Emphasize:**
+- Core stability (plank, dead bug)
+- Hip hinge pattern (Romanian deadlift)
+- Posterior chain strength (glutes, hamstrings, back)
+- Balanced program (all planes of motion)
+
+## Weekly Back Training
+
+**Option 1 - Full Body (3x/week):**
+- Include 2-3 back exercises each session
+
+**Option 2 - Upper/Lower Split:**
+- Upper days: 3-4 back exercises
+- 2 upper days per week
+
+**Option 3 - Pull Day:**
+- Dedicated back/biceps day
+- 5-6 back exercises
+
+## The Bottom Line
+
+1. **Pull equals push** — Balance your training
+2. **Train all areas** — Upper, lats, lower
+3. **Deadlifts are king** — Learn proper form
+4. **Rows build thickness** — Include them weekly
+5. **Don't neglect stability** — Core strength protects back
+
+---
+
+*Foundational Rehab builds strong, resilient backs with balanced strength training programs.*
+    `
+  },
+  'exercises-for-cyclists': {
+    title: 'Exercises for Cyclists: Prevent Pain and Improve Performance',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '7 min read',
+    content: `
+## The Cyclist's Body
+
+Cycling creates specific imbalances:
+
+**What gets tight:**
+- Hip flexors (always bent)
+- Hamstrings
+- Calves
+- Chest and shoulders (hunched position)
+- Neck (looking up while bent over)
+
+**What gets weak:**
+- Glutes (not fully activated)
+- Core (no stability demand on the bike)
+- Upper back (rounded posture)
+- Hip extensors
+
+**Common cyclist complaints:**
+- Lower back pain
+- Knee pain
+- Neck and shoulder pain
+- Saddle discomfort
+- Numbness in hands
+
+## Mobility for Cyclists
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Shift weight forward
+4. Hold 30-60 seconds each side
+5. Critical for cyclists
+
+### Couch Stretch
+
+1. Back foot on wall or couch
+2. Front foot forward in lunge
+3. Squeeze glute on back leg
+4. Hold 60-90 seconds each side
+
+### Pigeon Pose
+
+1. Front shin roughly parallel to shoulders
+2. Back leg extended
+3. Fold forward
+4. Hold 60-90 seconds each side
+
+### Thoracic Extension on Roller
+
+1. Foam roller across upper back
+2. Support head with hands
+3. Extend over roller
+4. Move roller to different spots
+5. 2-3 minutes
+
+### Chest Stretch
+
+1. Doorway or corner stretch
+2. Forearms on frame
+3. Step through
+4. Hold 30 seconds
+
+### Neck Stretches
+
+1. Upper trap stretch (ear to shoulder)
+2. Levator stretch (look toward armpit)
+3. Gentle neck rotations
+4. 30 seconds each
+
+## Strength for Cyclists
+
+### Glute Strengthening
+
+**Hip Thrust:**
+1. Upper back on bench
+2. Drive through heels
+3. Squeeze glutes hard at top
+4. 12-15 reps, 3 sets
+
+**Single-Leg Glute Bridge:**
+1. One leg extended
+2. Drive through planted foot
+3. 10-12 reps each leg
+
+**Clamshells:**
+1. Lie on side, knees bent
+2. Lift top knee
+3. 15-20 reps each side
+
+### Core Stability
+
+**Plank:**
+1. Forearms and toes
+2. Body straight
+3. Hold 30-60 seconds
+
+**Dead Bug:**
+1. Lower opposite arm and leg
+2. Keep back flat
+3. 10 reps each side
+
+**Side Plank:**
+1. Stack feet or stagger
+2. Hold 30 seconds each side
+
+**Pallof Press:**
+1. Resist rotation
+2. 10 reps each side
+
+### Back Strengthening
+
+**Rows:**
+1. Dumbbell or cable rows
+2. Squeeze shoulder blades
+3. 12-15 reps
+
+**Reverse Flyes:**
+1. Bent over, arms out to sides
+2. 12-15 reps
+
+**Face Pulls:**
+1. Pull to face, elbows high
+2. 15-20 reps
+
+### Leg Strength (Single-Leg Focus)
+
+**Bulgarian Split Squat:**
+1. Back foot on bench
+2. Lower until back knee near ground
+3. 10 reps each leg
+
+**Step-Ups:**
+1. 12-18 inch box
+2. Drive through top foot only
+3. 10 reps each leg
+
+**Single-Leg Deadlift:**
+1. Hinge on one leg
+2. Opposite leg extends behind
+3. 10 reps each leg
+
+## Knee Pain Prevention
+
+Cyclist knee pain often comes from:
+- Weak glutes (knee tracks inward)
+- Tight IT band
+- Poor bike fit
+- Too much too soon
+
+**Exercises:**
+- Clamshells
+- Lateral band walks
+- VMO strengthening (terminal knee extension)
+- IT band foam rolling (gently)
+
+## Lower Back Pain Prevention
+
+**Causes:**
+- Poor core stability
+- Tight hip flexors
+- Weak glutes
+- Too aggressive position
+
+**Exercises:**
+- Hip flexor stretches
+- Glute bridges
+- Core stability work
+- Cat-cow mobility
+
+## Sample Cycling Strength Routine
+
+**2-3x Per Week (Off-Bike Days):**
+
+*Warm-Up (5 min):*
+- Hip circles
+- Leg swings
+- Cat-cow
+- Bodyweight squats
+
+*Mobility (10 min):*
+- Hip flexor stretch: 60 sec each
+- Pigeon: 60 sec each
+- Thoracic extension: 2 min
+- Chest stretch: 30 sec each
+
+*Strength (20 min):*
+- Hip thrust: 3 × 12
+- Bulgarian split squat: 3 × 10 each
+- Single-leg RDL: 3 × 10 each
+- Rows: 3 × 12
+- Plank: 3 × 30 sec
+- Side plank: 2 × 20 sec each
+
+*Cool-Down:*
+- Calf stretch: 30 sec each
+- Quad stretch: 30 sec each
+
+## Pre-Ride Routine (5 min)
+
+- Hip circles: 10 each direction
+- Leg swings: 10 forward/back, 10 side to side
+- Bodyweight squats: 10
+- Walking lunges: 10
+- Arm circles: 10 each direction
+- Easy spinning: 5-10 min
+
+## Post-Ride Routine (10 min)
+
+- Walking: 2-3 min
+- Hip flexor stretch: 30 sec each
+- Quad stretch: 30 sec each
+- Hamstring stretch: 30 sec each
+- Calf stretch: 30 sec each
+- Pigeon pose: 30 sec each
+- Chest stretch: 30 sec
+- Neck stretches: 30 sec each direction
+
+## The Bottom Line
+
+1. **Stretch hip flexors daily** — They're always shortened on the bike
+2. **Strengthen glutes** — They're underused in cycling
+3. **Build core stability** — Supports your position
+4. **Don't neglect upper body** — Posture matters
+5. **Single-leg work** — Addresses pedaling imbalances
+
+---
+
+*Foundational Rehab keeps cyclists riding stronger and longer with targeted mobility and strength programs.*
+    `
   }
 };
 

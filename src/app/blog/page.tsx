@@ -4316,6 +4316,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '7 min read'
+  },
+  {
+    slug: 'bodyweight-exercises',
+    title: 'Bodyweight Exercises: Complete Home Workout Guide',
+    excerpt: 'Build strength anywhere with progressive bodyweight exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'exercises-for-scoliosis',
+    title: 'Exercises for Scoliosis: Safe Movement for Spinal Curves',
+    excerpt: 'Safe exercises and stretches for managing scoliosis.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'how-to-strengthen-your-back',
+    title: 'How to Strengthen Your Back: Complete Guide',
+    excerpt: 'Build a strong, resilient back with rows, deadlifts, and targeted exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-cyclists',
+    title: 'Exercises for Cyclists: Prevent Pain and Improve Performance',
+    excerpt: 'Mobility and strength work to keep cyclists riding pain-free.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '7 min read'
   }
 ];
 
