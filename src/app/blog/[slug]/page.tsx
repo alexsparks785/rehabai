@@ -112134,6 +112134,929 @@ Self-massage for plantar fascia.
 
 *Foundational Rehab offers foot pain programs targeting common conditions like plantar fasciitis.*
     `
+  },
+  'exercises-for-tight-shoulders': {
+    title: 'Exercises for Tight Shoulders: Release Tension and Restore Mobility',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Shoulders Get Tight
+
+Shoulder tightness commonly results from:
+- Desk work and computer use
+- Phone/tablet use (head forward, arms in)
+- Stress (tension in upper traps)
+- Lack of overhead movement
+- Sleeping position
+- Carrying bags on one side
+- Post-workout tightness
+
+The shoulder is the most mobile joint in the body — it needs regular movement to stay healthy.
+
+## Identifying Your Tight Areas
+
+### Common Tight Spots
+
+**Upper traps:** Shoulder-to-neck tension (stress area)
+**Pecs:** Chest muscles (desk posture)
+**Lats:** Side/back (overhead restriction)
+**Posterior shoulder:** Back of shoulder (reaching behind difficulty)
+**Rotator cuff:** Deep shoulder muscles
+
+### Quick Tests
+
+**Overhead reach:** Can you touch your arms to your ears overhead?
+**Behind-back reach:** Can you touch your hands behind your back (one over, one under)?
+**External rotation:** Arm at side, elbow bent, can you rotate forearm out 90°?
+
+## Release Techniques
+
+### Upper Trap Ball Release
+
+**How to:**
+- Lie on back, ball between shoulder and neck
+- Relax into ball
+- Turn head slowly side to side
+- 60-90 seconds each side
+
+### Pec Ball Release
+
+**How to:**
+- Stand facing wall, ball under collarbone toward armpit
+- Lean into ball
+- Move arm slowly
+- 60 seconds each side
+
+### Lat Foam Roll
+
+**How to:**
+- Side-lying, roller under armpit area
+- Arm extended overhead
+- Roll slowly from armpit to mid-back
+- 60 seconds each side
+
+### Posterior Shoulder Ball Release
+
+**How to:**
+- Lie on back, ball behind shoulder
+- Bring arm across chest
+- Roll to find tender spots
+- 60 seconds each side
+
+## Stretching Exercises
+
+### Doorway Pec Stretch
+
+**How to:**
+- Forearm on door frame
+- Step through, rotate away
+- 45-60 seconds each side
+- Do at different arm heights
+
+Essential for desk workers.
+
+### Cross-Body Shoulder Stretch
+
+**How to:**
+- Bring arm across body
+- Use other hand to pull closer
+- Keep shoulder down (don't shrug)
+- 30-45 seconds each side
+
+### Overhead Lat Stretch
+
+**How to:**
+- Hold onto door frame or pole
+- Step back, let body hang
+- Feel stretch under arm/side
+- 45-60 seconds each side
+
+### Sleeper Stretch
+
+**How to:**
+- Lie on side, bottom arm at 90°
+- Press hand toward floor with other hand
+- Gentle pressure — don't force
+- 30-45 seconds each side
+
+### Thread the Needle
+
+**How to:**
+- On hands and knees
+- Thread one arm under body
+- Let shoulder drop toward floor
+- 30-45 seconds each side
+
+### Eagle Arms
+
+**How to:**
+- Cross arms at elbows
+- Wrap forearms, palms together if possible
+- Lift elbows slightly
+- 30-45 seconds, switch arm position
+
+## Mobility Exercises
+
+### Shoulder CARs (Controlled Articular Rotations)
+
+**How to:**
+- Stand tall
+- Move arm in largest circle possible
+- Keep body still
+- 5 slow circles each direction, each arm
+
+Essential for shoulder maintenance.
+
+### Wall Slides
+
+**How to:**
+- Back against wall
+- Arms at 90° (goal post)
+- Slide arms up and down
+- Keep everything touching wall
+- 10-15 slow reps
+
+### T-Spine Rotations
+
+**How to:**
+- Side-lying, knees bent
+- Open top arm, rotating through upper back
+- Follow hand with eyes
+- 10-15 each side
+
+Shoulder mobility depends on thoracic mobility.
+
+### Band Pull-Aparts
+
+**How to:**
+- Hold band at shoulder height
+- Arms straight
+- Pull apart, squeezing shoulder blades
+- Control return
+- 15-20 reps
+
+### Shoulder Circles
+
+**How to:**
+- Arms at sides
+- Large circles forward
+- Large circles backward
+- 10-15 each direction
+
+Simple but effective for daily maintenance.
+
+## Strengthening (Important!)
+
+Tight muscles are often weak. Strengthening creates lasting change.
+
+### External Rotation
+
+**How to:**
+- Band or light weight
+- Elbow at side, bent 90°
+- Rotate forearm outward
+- 15-20 reps each side
+
+### Face Pulls
+
+**How to:**
+- Band at face height
+- Pull toward face, elbows high
+- Squeeze shoulder blades
+- 15-20 reps
+
+### Prone Y-T-W
+
+**How to:**
+- Lie face down
+- Y: Arms overhead, thumbs up, lift
+- T: Arms to sides, lift
+- W: Elbows bent, squeeze shoulder blades
+- 10 each position
+
+### Rows
+
+**How to:**
+- Any row variation
+- Squeeze shoulder blades at end
+- 12-15 reps
+
+## Sample Daily Routine
+
+### Morning (5 Minutes)
+
+1. Shoulder CARs: 5 each direction, each arm
+2. Shoulder circles: 10 each direction
+3. Doorway stretch: 30 sec each side
+
+### Work Breaks (Every 2 Hours)
+
+1. Shoulder rolls: 10 each direction
+2. Overhead stretch: 15 sec each side
+3. Cross-body stretch: 15 sec each side
+
+### Evening (10 Minutes)
+
+1. Upper trap ball release: 60 sec each
+2. Pec ball release: 60 sec each
+3. Doorway stretch: 45 sec each, multiple angles
+4. Thread the needle: 30 sec each
+5. T-spine rotations: 10 each side
+6. Band pull-aparts: 15 reps
+
+## For Desk Workers Specifically
+
+### Priority Stretches
+
+1. Pecs (doorway stretch)
+2. Upper traps (stretch and release)
+3. Lats (overhead stretch)
+
+### Workspace Fixes
+
+- Monitor at eye level
+- Arms supported when typing
+- Frequent position changes
+- Regular breaks
+
+### Throughout Day
+
+- Shoulder rolls every 30-60 minutes
+- Quick stretches between tasks
+- Stand and reach overhead periodically
+
+## The Bottom Line
+
+1. **Release tension first** — Ball work on tight spots
+2. **Stretch what's short** — Pecs, lats, upper traps
+3. **Mobilize daily** — CARs, circles, movements
+4. **Strengthen** — Face pulls, external rotation
+5. **Frequent breaks** — Don't stay in one position
+
+---
+
+*Foundational Rehab offers shoulder mobility programs for desk workers and athletes.*
+    `
+  },
+  'how-to-fix-butt-wink-in-squats': {
+    title: 'How to Fix Butt Wink in Squats: Causes and Solutions',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Technique',
+    readTime: '6 min read',
+    content: `
+## What Is Butt Wink?
+
+Butt wink is when your pelvis tucks under (posterior tilt) at the bottom of a squat, causing your lower back to round.
+
+**What it looks like:**
+- Pelvis tucks under at bottom of squat
+- Lower back rounds
+- Tailbone tucks toward knees
+
+**Why it matters:**
+- Can stress lower back (especially under load)
+- May indicate mobility limitations
+- Reduces squat efficiency
+- Worth addressing for heavy squatting
+
+## Is Butt Wink Always Bad?
+
+**Minor butt wink:** Usually fine, especially for unloaded or light squats. Many people have some and squat pain-free for years.
+
+**Significant butt wink:** Worth addressing, especially if:
+- You're lifting heavy weights
+- You experience back pain when squatting
+- It happens early in the squat (not just at the very bottom)
+
+## What Causes Butt Wink?
+
+### 1. Ankle Mobility
+
+**The connection:**
+- Limited ankle mobility prevents knees from traveling forward
+- Forces you to compensate elsewhere
+- Pelvis tucks to maintain balance
+
+**Test:** Knee-to-wall test. Can you touch your knee to the wall with heel down from 4-5 inches away?
+
+### 2. Hip Mobility
+
+**The connection:**
+- Limited hip flexion range
+- Pelvis tucks when hips run out of range
+- Can't maintain neutral spine at depth
+
+**Test:** Can you pull knee to chest while lying down without lower back rounding?
+
+### 3. Hip Anatomy (Structure)
+
+**The connection:**
+- Hip socket depth and angle vary
+- Some structures limit deep squat range
+- May not be fixable with mobility work
+
+**Reality check:** Some people are built for deep squats, others aren't. Work with your anatomy.
+
+### 4. Motor Control
+
+**The connection:**
+- Not engaging core properly
+- Not knowing how to maintain neutral spine
+- Habit of tucking under
+
+**Test:** Can you maintain neutral spine in easier squat variations?
+
+### 5. Hamstring Tightness (Sometimes)
+
+**The connection:**
+- Hamstrings attach to pelvis
+- Very tight hamstrings may pull pelvis under
+- Usually not the primary cause
+
+## How to Fix It
+
+### Fix Ankle Mobility
+
+**Banded Ankle Mobilization**
+- Band around front of ankle
+- Step into lunge position
+- Drive knee forward and back
+- 2 x 20 reps each side
+
+**Calf Stretches**
+- Both straight and bent knee versions
+- 45-60 seconds each
+- Daily
+
+**Ankle Rocks**
+- Half-kneeling, drive knee forward
+- Keep heel down
+- 2 x 15 each side
+
+### Fix Hip Mobility
+
+**90/90 Stretch**
+- Sit with legs at 90° angles
+- Lean forward over front leg
+- 60 seconds each side
+
+**Deep Squat Hold**
+- Supported if needed
+- Work up to 2-3 minutes accumulated daily
+- Focus on relaxing at bottom
+
+**Pigeon Pose**
+- Classic yoga hip opener
+- 60-90 seconds each side
+
+### Improve Motor Control
+
+**Box Squats**
+- Squat to box at depth where wink begins
+- Practice maintaining neutral spine
+- Gradually lower box over time
+
+**Goblet Squats**
+- Counterbalance helps maintain upright position
+- Focus on keeping spine neutral
+- Great teaching tool
+
+**Pause Squats**
+- Pause at various depths
+- Check position, maintain neutral spine
+- Builds awareness and control
+
+### Cue Differently
+
+**Try these cues:**
+- "Spread the floor with your feet"
+- "Screw your feet into the ground"
+- "Push your knees out"
+- "Keep your chest up"
+- "Proud chest"
+- "Big breath, brace hard"
+
+### Adjust Stance
+
+**Experiment with:**
+- Wider stance
+- More toe turnout
+- Finding what works for YOUR anatomy
+
+Some people butt wink with narrow stance but not with wide. Find your optimal position.
+
+### Elevate Heels
+
+**Temporary or permanent:**
+- Heels on small plates or wedge
+- Weightlifting shoes
+- Reduces ankle mobility demand
+- Valid long-term solution if needed
+
+### Stop Before the Wink
+
+**Practical option:**
+- Don't squat deeper than you can control
+- Depth isn't everything
+- Pain-free squatting matters more than ATG
+
+## Sample Improvement Program
+
+### Pre-Squat Routine (5 Minutes)
+
+1. Ankle rocks: 15 each side
+2. Banded ankle mobilization: 15 each side
+3. 90/90 hip stretch: 45 sec each side
+4. Goblet squat hold: 30 seconds
+
+### Daily Mobility (5 Minutes)
+
+1. Calf stretches (both types): 45 sec each
+2. Hip 90/90: 60 sec each side
+3. Deep squat hold: 60 seconds accumulated
+
+### Squat Practice
+
+- Start with goblet squats
+- Focus on maintaining neutral spine
+- Gradually increase depth as mobility allows
+- Add load only when movement is controlled
+
+## Realistic Expectations
+
+### Can Improve
+
+- Ankle mobility (usually)
+- Hip mobility (somewhat)
+- Motor control (definitely)
+- Stance optimization (immediately)
+
+### Can't Change
+
+- Hip socket anatomy
+- Femur length ratios
+- Fundamental structure
+
+### Timeline
+
+**2-4 weeks:** Improved post-mobility work squat
+**4-8 weeks:** Noticeable depth improvement
+**8-12 weeks:** Significant change
+**Ongoing:** May need continued mobility maintenance
+
+## When to Accept Your Depth
+
+If you've done consistent mobility work for 3+ months and still have significant butt wink at a certain depth:
+
+- That may be your structural limit
+- Squat to a depth you can control
+- Don't force a movement your body isn't built for
+- Parallel or slightly above is fine
+
+## The Bottom Line
+
+1. **Assess the cause** — Ankles, hips, or motor control?
+2. **Mobilize appropriately** — Target your limitations
+3. **Practice the pattern** — Goblet squats, pause squats
+4. **Adjust stance** — Find YOUR optimal position
+5. **Accept your structure** — Not everyone squats ATG
+
+---
+
+*Foundational Rehab offers squat mobility programs with personalized assessments.*
+    `
+  },
+  'exercises-for-better-sleep': {
+    title: 'Exercises for Better Sleep: Move Your Way to Rest',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '5 min read',
+    content: `
+## How Exercise Improves Sleep
+
+Exercise is one of the most effective natural sleep aids. It helps by:
+- Reducing time to fall asleep
+- Increasing deep sleep
+- Reducing nighttime awakenings
+- Decreasing anxiety and depression
+- Regulating circadian rhythms
+- Tiring the body appropriately
+
+But timing and type of exercise matter.
+
+## Best Timing for Sleep
+
+### Morning Exercise
+
+**Benefits:**
+- Helps set circadian rhythm
+- Exposure to daylight (if outdoors)
+- Energizes you for the day
+- Sleep benefits occur by nighttime
+
+### Afternoon/Early Evening
+
+**Benefits:**
+- Body temperature peaks, then drops (sleep signal)
+- Most people are physically at their best
+- 4-6 hours before bed often ideal
+
+### Late Evening Exercise
+
+**Caution:**
+- Vigorous exercise <2-3 hours before bed may disrupt sleep
+- Raises body temperature and adrenaline
+- Some people tolerate it fine; others don't
+- Light exercise/stretching is usually okay
+
+### The Individual Factor
+
+Some people sleep great after evening workouts. Others can't. Experiment and track what works for you.
+
+## Best Types of Exercise for Sleep
+
+### Aerobic Exercise
+
+**Examples:** Walking, jogging, cycling, swimming
+
+**Evidence:** Strongest research support for sleep improvement
+
+**Guidelines:**
+- 30+ minutes, 3-5 days per week
+- Moderate intensity
+- Not too close to bedtime
+
+### Strength Training
+
+**Evidence:** Also improves sleep quality
+
+**Guidelines:**
+- 2-3 days per week
+- Complete 2-3 hours before bed
+- Full body or split routine
+
+### Yoga
+
+**Evidence:** Particularly good for sleep
+
+**Benefits:**
+- Combines movement with relaxation
+- Reduces cortisol
+- Calms nervous system
+- Can be done close to bedtime
+
+### Stretching
+
+**Evidence:** May improve sleep, especially if done as relaxation routine
+
+**Benefits:**
+- Releases muscle tension
+- Promotes relaxation
+- Safe close to bedtime
+- Creates wind-down ritual
+
+## Evening Relaxation Routine (15 Minutes)
+
+Do this 1-2 hours before bed:
+
+### Gentle Stretching (10 Minutes)
+
+**1. Child's Pose (60 seconds)**
+- Calming, forward fold
+- Breathe deeply
+
+**2. Supine Twist (45 seconds each side)**
+- Relaxes lower back
+- Gentle rotation
+
+**3. Knee-to-Chest (30 seconds each)**
+- Releases lower back
+- Calming hip flexion
+
+**4. Figure-4 Stretch (45 seconds each)**
+- Releases hips and glutes
+- Common tension area
+
+**5. Legs Up the Wall (2-3 minutes)**
+- Promotes venous return
+- Very calming
+- Can stay here longer
+
+**6. Neck Stretches (30 seconds each)**
+- Releases day's tension
+- Gentle and soothing
+
+### Breathing Exercise (5 Minutes)
+
+**4-7-8 Breathing:**
+- Inhale for 4 counts
+- Hold for 7 counts
+- Exhale for 8 counts
+- Repeat 4-6 cycles
+
+This activates the parasympathetic nervous system and prepares you for sleep.
+
+## What to Avoid Before Bed
+
+### Vigorous Cardio
+
+- Running, HIIT, intense cycling
+- Raises heart rate and body temperature
+- Finish 2-3 hours before bed
+
+### Heavy Strength Training
+
+- Large muscle group workouts
+- High intensity
+- Can keep you wired
+
+### Stimulating Activities
+
+- Competitive sports
+- Stressful workouts
+- Anything that raises adrenaline
+
+## Daytime Exercise Guidelines for Better Sleep
+
+### Consistency
+
+Regular exercise improves sleep more than occasional intense workouts.
+
+### Outdoor Exercise
+
+Natural light exposure helps regulate circadian rhythms. Morning outdoor exercise is particularly beneficial.
+
+### Not Too Much
+
+Overtraining can actually disrupt sleep. Rest days are important.
+
+### Not Too Little
+
+Sedentary lifestyle is associated with poor sleep. Move daily.
+
+## Special Considerations
+
+### If You Have Insomnia
+
+- Morning exercise may be best
+- Avoid evening high intensity
+- Yoga and relaxation especially helpful
+- Be patient — may take weeks to see improvement
+
+### If You Work Night Shift
+
+- Exercise timing is more complex
+- Work with your schedule
+- Light exposure management matters more
+
+### If You Exercise in the Evening (Only Option)
+
+- Finish 2-3 hours before bed if doing intense exercise
+- Consider yoga or walking instead of HIIT
+- Experiment to find what works
+- Cool shower after to lower body temperature
+
+## Building the Habit
+
+### Make It Automatic
+
+- Same time each day
+- Part of routine
+- Non-negotiable
+
+### Start Small
+
+- 10 minutes is better than nothing
+- Build gradually
+- Consistency > intensity
+
+### Track Sleep
+
+- Notice patterns
+- Adjust exercise timing if needed
+- Be patient with changes
+
+## The Bottom Line
+
+1. **Exercise improves sleep** — Strong evidence supports this
+2. **Timing matters** — 4-6 hours before bed often ideal for intense exercise
+3. **Evening stretching is great** — Relaxation promotes sleep
+4. **Be consistent** — Regular moderate exercise beats occasional intense
+5. **Experiment** — Individual responses vary
+
+---
+
+*Foundational Rehab offers relaxation and evening stretch routines to improve your sleep.*
+    `
+  },
+  'why-do-my-hips-pop': {
+    title: 'Why Do My Hips Pop? Causes and What to Do About It',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Hip Popping Is Common
+
+Hip clicking, popping, or snapping is extremely common. In most cases, it's completely harmless. Understanding what causes it can ease your mind.
+
+## Types of Hip Popping
+
+### External Snapping Hip
+
+**What it is:** IT band or gluteus maximus snapping over the greater trochanter (outside of hip)
+
+**What you'll notice:**
+- Snapping on outside of hip
+- Often visible (can see/feel the snap)
+- Common with hip flexion/extension
+- Usually painless
+
+### Internal Snapping Hip
+
+**What it is:** Iliopsoas (hip flexor) tendon snapping over pelvic bone or femoral head
+
+**What you'll notice:**
+- Snapping in front of hip/groin area
+- Often with hip flexion from extended position
+- Common in dancers and athletes
+- May or may not be painful
+
+### Intra-articular (Inside the Joint)
+
+**What it is:** Something inside the hip joint causing the sound
+
+**Possible causes:**
+- Labral tear
+- Loose bodies
+- Cartilage damage
+
+**What you'll notice:**
+- Often accompanied by pain
+- May have catching or locking
+- Usually needs medical evaluation
+
+### Cavitation (Gas Release)
+
+**What it is:** Same as knuckle cracking — gas bubbles releasing in joint fluid
+
+**What you'll notice:**
+- Occasional pop with movement
+- Feels satisfying
+- No pain
+- Can't reproduce immediately
+
+## Is It Something to Worry About?
+
+### Usually Not Concerning
+
+- Painless popping
+- No swelling
+- Full range of motion
+- Consistent pattern you've had for years
+- No weakness or instability
+
+### Worth Evaluation
+
+- Pain accompanies the popping
+- Catching or locking sensation
+- Swelling
+- Weakness
+- Decreased range of motion
+- Getting progressively worse
+- Started after injury
+
+## What Causes the Common Types
+
+### External Snapping (IT Band)
+
+**Causes:**
+- Tight IT band
+- Weak hip abductors (glute med)
+- Repetitive hip flexion/extension
+- Leg length difference (sometimes)
+
+### Internal Snapping (Iliopsoas)
+
+**Causes:**
+- Tight hip flexor
+- Sudden increase in hip flexion activities
+- Weak core (hip flexor compensates)
+- Common in dancers, gymnasts, runners
+
+## How to Address Hip Popping
+
+### For External Snapping (IT Band)
+
+**Foam Rolling**
+- Roll IT band and TFL (top front of thigh)
+- 60-90 seconds each side
+- Not directly on the snapping spot
+
+**Stretch Glutes**
+- Figure-4 stretch
+- Pigeon pose
+- 45-60 seconds each
+
+**Strengthen Hip Abductors**
+- Clamshells
+- Side-lying leg raises
+- Banded walks
+- 2-3 sets of 15-20
+
+### For Internal Snapping (Iliopsoas)
+
+**Hip Flexor Stretch**
+- Kneeling hip flexor stretch
+- Tuck pelvis, squeeze glute
+- 60-90 seconds each side
+
+**Strengthen Core**
+- Dead bugs
+- Planks
+- Reduces hip flexor compensations
+
+**Psoas Release**
+- Ball release (carefully)
+- Below hip bone, inside of hip
+- Very tender area — be gentle
+
+### For General Hip Health
+
+**Hip CARs (Controlled Articular Rotations)**
+- Full circles with hip
+- 5 each direction, each hip
+- Daily
+
+**90/90 Stretch**
+- Addresses internal and external rotation
+- 60 seconds each position
+
+**Hip Strengthening**
+- Glute bridges
+- Clamshells
+- Step-ups
+
+## When Stretching Makes It Worse
+
+Sometimes excessive stretching actually aggravates snapping hip.
+
+**If stretching isn't helping:**
+- Focus on strengthening instead
+- The snapping may be from hypermobility
+- See a professional if persistent
+
+## Sample Daily Routine
+
+### For External Snapping
+
+1. Foam roll IT band/TFL: 60 sec each
+2. Figure-4 stretch: 45 sec each
+3. Hip CARs: 5 each direction
+4. Clamshells: 2 x 15 each
+5. Side-lying leg raises: 2 x 15 each
+
+### For Internal Snapping
+
+1. Hip flexor stretch: 60 sec each
+2. Psoas release (gentle): 60 sec each
+3. Dead bugs: 2 x 10 each side
+4. Glute bridges: 2 x 15
+5. Hip CARs: 5 each direction
+
+## When to See a Professional
+
+### See a Doctor/PT If
+
+- Pain with the popping
+- Popping is getting worse
+- Limiting your activities
+- Doesn't respond to home treatment
+- You're unsure what's causing it
+
+### What They Might Do
+
+- Assessment to identify the cause
+- Manual therapy
+- Specific exercise prescription
+- Imaging if intra-articular cause suspected
+
+## The Bottom Line
+
+1. **Usually harmless** — Painless popping is common
+2. **Two main types** — External (IT band) and internal (hip flexor)
+3. **Address the cause** — Tightness or weakness usually involved
+4. **Strengthen and mobilize** — Better than just stretching
+5. **Seek help if painful** — Pain changes the equation
+
+---
+
+*Foundational Rehab offers hip mobility programs addressing snapping hip and general hip health.*
+    `
   }
 };
 
