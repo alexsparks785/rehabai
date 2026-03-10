@@ -4208,6 +4208,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Strength',
     readTime: '7 min read'
+  },
+  {
+    slug: 'tight-hip-flexors',
+    title: 'Tight Hip Flexors: Causes, Symptoms, and Fixes',
+    excerpt: 'Why your hip flexors are tight from sitting and how to release them properly.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-to-strengthen-your-core',
+    title: 'How to Strengthen Your Core: Beyond Crunches',
+    excerpt: 'Anti-movement core training that actually protects your spine.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'stretches-for-runners',
+    title: 'Stretches for Runners: Pre and Post-Run Routines',
+    excerpt: 'Dynamic warm-up and static cool-down routines for runners.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-tennis-elbow',
+    title: 'Exercises for Tennis Elbow: Lateral Epicondylitis Relief',
+    excerpt: 'Eccentric loading exercises to heal tennis elbow—the evidence-based approach.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
   }
 ];
 

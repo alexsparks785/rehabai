@@ -133338,6 +133338,853 @@ Balance training protects knees from injury:
 
 *Foundational Rehab builds strong, stable knees with progressive strengthening programs.*
     `
+  },
+  'tight-hip-flexors': {
+    title: 'Tight Hip Flexors: Causes, Symptoms, and Fixes',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Hip Flexors Get Tight
+
+Your hip flexors (primarily the psoas and iliacus) connect your spine to your legs. They're responsible for lifting your knee and bending at the hip.
+
+**Why they tighten:**
+- Prolonged sitting (8+ hours daily)
+- Sleeping in fetal position
+- Excessive running or cycling
+- Weak glutes (hip flexors compensate)
+- Core weakness
+
+**Symptoms of tight hip flexors:**
+- Lower back pain
+- Hip pain or stiffness
+- Anterior pelvic tilt (arched lower back)
+- Difficulty standing up straight after sitting
+- Tight feeling in front of hip
+
+## The Sitting Problem
+
+When you sit, your hip flexors are shortened. Do this 8+ hours daily, and they adapt:
+
+1. Hip flexors shorten
+2. Glutes become inhibited
+3. Lower back compensates
+4. Pain develops
+
+Breaking this cycle requires stretching AND strengthening.
+
+## Hip Flexor Stretches
+
+### Half-Kneeling Hip Flexor Stretch
+
+1. Kneel on one knee, other foot forward
+2. Tuck your tailbone under (posterior pelvic tilt)
+3. Shift weight forward while maintaining tuck
+4. Feel stretch in front of back hip
+5. Hold 30-60 seconds each side
+6. **Key:** The tuck is crucial—without it, you're not stretching the hip flexor
+
+### Couch Stretch
+
+1. Place back knee against couch/wall
+2. Front foot forward in lunge
+3. Squeeze glute on back leg side
+4. Stay upright
+5. Hold 60-90 seconds each side
+6. Intense but effective
+
+### Standing Hip Flexor Stretch
+
+1. Staggered stance, back foot turned slightly out
+2. Tuck tailbone under
+3. Squeeze back glute
+4. Raise same-side arm overhead
+5. Lean slightly away from back leg
+6. Hold 30 seconds each side
+
+### Prone Hip Flexor Stretch
+
+1. Lie face down
+2. Bend one knee, grab ankle
+3. Pull heel toward butt
+4. Push hip into floor
+5. Hold 30 seconds each side
+
+## Psoas-Specific Release
+
+The psoas is deep and hard to stretch. Try these:
+
+### Psoas Release with Ball
+
+1. Lie face down
+2. Place soft ball (slightly deflated) below and to the side of navel
+3. Relax body weight onto ball
+4. Breathe deeply for 60-90 seconds
+5. Move ball to different spots
+6. Be gentle—this area is sensitive
+
+### Active Psoas Stretch
+
+1. Lie on back at edge of bed
+2. Pull one knee to chest
+3. Let other leg hang off edge
+4. Hold 60 seconds
+5. Actively press hanging leg toward floor
+
+## Strengthening Weak Areas
+
+Tight hip flexors often mean weak glutes and core:
+
+### Glute Bridges
+
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Hold 3 seconds at top
+4. 15 reps
+
+### Clamshells
+
+1. Lie on side, knees bent 45°
+2. Lift top knee without rotating hips
+3. 15-20 reps each side
+
+### Dead Bug
+
+1. Lie on back, arms up, knees at 90°
+2. Lower opposite arm and leg
+3. Keep lower back pressed to floor
+4. 10 reps each side
+
+### Hip Flexor Strengthening (Yes, Strengthen Them Too!)
+
+Tight doesn't always mean strong. Often tight muscles are also weak:
+
+**Seated Knee Raise:**
+1. Sit on edge of chair
+2. Lift knee toward chest
+3. Hold 5 seconds
+4. 10 reps each side
+
+**Standing March:**
+1. Stand tall
+2. March in place with high knees
+3. Controlled movement
+4. 20 reps
+
+## Daily Routine for Tight Hip Flexors
+
+**Morning (5 min):**
+- Half-kneeling hip flexor stretch: 30 sec each
+- Glute bridges: 15 reps
+- Standing hip flexor stretch: 30 sec each
+
+**Throughout Day (every hour of sitting):**
+- Stand up and walk for 2 minutes
+- Standing hip flexor stretch: 20 sec each
+- Squeeze glutes for 10 seconds
+
+**Evening (10 min):**
+- Couch stretch: 60 sec each
+- Psoas release: 60 sec each side
+- Dead bugs: 10 reps each side
+- Glute bridges: 15 reps
+- Half-kneeling stretch: 60 sec each
+
+## Lifestyle Changes
+
+### Sit Less
+
+- Stand up every 30-60 minutes
+- Consider standing desk
+- Walk during phone calls
+- Take stairs
+
+### Sleep Position
+
+- Avoid fetal position
+- Try sleeping on back with pillow under knees
+- Or side sleeping with pillow between knees, legs extended
+
+### Posture Awareness
+
+- Stand tall, squeeze glutes occasionally
+- Don't let pelvis tip forward
+- Engage core when standing
+
+## The Bottom Line
+
+1. **Stretch with a tuck** — Posterior pelvic tilt is key
+2. **Strengthen glutes** — They're probably inhibited
+3. **Break up sitting** — Every hour at minimum
+4. **Be patient** — Months of sitting take weeks to fix
+5. **Address the cause** — Lifestyle changes matter most
+
+---
+
+*Foundational Rehab addresses tight hip flexors with combined stretching, strengthening, and movement strategies.*
+    `
+  },
+  'how-to-strengthen-your-core': {
+    title: 'How to Strengthen Your Core: Beyond Crunches',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read',
+    content: `
+## What Is Your Core (Really)?
+
+Your core is more than just abs. It's the entire cylinder of muscles around your midsection:
+
+**Core muscles include:**
+- Rectus abdominis (six-pack muscle)
+- Transverse abdominis (deep stabilizer)
+- Internal and external obliques (sides)
+- Erector spinae (lower back)
+- Multifidus (deep back stabilizers)
+- Diaphragm (breathing muscle)
+- Pelvic floor
+
+**Function:** The core's job is to stabilize the spine and transfer force—NOT to create movement like crunches do.
+
+## Why Crunches Aren't Great
+
+Crunches and sit-ups:
+- Only work rectus abdominis
+- Put repeated stress on spinal discs
+- Don't train core function (stability)
+- Can worsen back pain
+
+Better approach: Train the core to resist movement (anti-movement exercises).
+
+## The Anti-Movement Approach
+
+Train your core to resist:
+
+### Anti-Extension (Resist Arching)
+
+**Plank:**
+1. Forearms and toes on floor
+2. Body straight from head to heels
+3. Don't let hips sag or pike
+4. Squeeze glutes, brace abs
+5. Hold 20-60 seconds
+
+**Dead Bug:**
+1. Lie on back, arms up, knees at 90°
+2. Press lower back into floor
+3. Lower opposite arm and leg
+4. Return before back arches
+5. 10 reps each side
+
+**Ab Wheel Rollout (Advanced):**
+1. Kneel, hands on ab wheel
+2. Roll forward, keeping core tight
+3. Only go as far as you can without back arching
+4. Roll back
+5. 8-10 reps
+
+### Anti-Rotation (Resist Twisting)
+
+**Pallof Press:**
+1. Stand sideways to cable or band anchor
+2. Hold handle at chest
+3. Press straight out
+4. Don't let band rotate you
+5. Hold 5 seconds, 10 reps each side
+
+**Bird Dog:**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep hips level (don't rotate)
+4. Hold 5 seconds
+5. 10 reps each side
+
+**Single-Arm Farmer Carry:**
+1. Hold heavy weight in one hand
+2. Walk without leaning to either side
+3. 30-40 steps each side
+
+### Anti-Lateral Flexion (Resist Side Bending)
+
+**Side Plank:**
+1. Lie on side, prop on elbow
+2. Lift hips, body straight
+3. Hold 20-45 seconds each side
+4. Modify: knees bent, or from knees
+
+**Suitcase Carry:**
+1. Hold weight in one hand
+2. Walk without leaning
+3. Core works to keep you upright
+4. 30-40 steps each side
+
+### Anti-Flexion (Resist Rounding)
+
+**Good Morning:**
+1. Barbell on back or hands behind head
+2. Hinge at hips, pushing butt back
+3. Keep back flat
+4. Return to standing
+5. 10-12 reps
+
+**Romanian Deadlift:**
+1. Hold weight in front of thighs
+2. Push hips back, lower weight
+3. Keep back flat
+4. Feel hamstring stretch
+5. Return to standing
+6. 10-12 reps
+
+## Breathing and Bracing
+
+Proper breathing is essential for core strength:
+
+### Diaphragmatic Breathing
+
+1. Lie on back, knees bent
+2. One hand on chest, one on belly
+3. Breathe into belly (belly rises)
+4. Chest stays relatively still
+5. Practice 5 minutes daily
+
+### Bracing
+
+1. Take a breath into belly
+2. Brace like someone's going to punch your stomach
+3. Maintain brace while breathing shallowly
+4. This is how you should brace during lifts
+
+## Core Workout Routine
+
+**Warm-Up:**
+- Diaphragmatic breathing: 10 breaths
+- Cat-cow: 10 cycles
+- Bird dog: 5 each side
+
+**Main Workout (15 min):**
+
+*Anti-Extension:*
+- Plank: 3 × 30 sec
+- Dead bug: 3 × 10 each side
+
+*Anti-Rotation:*
+- Pallof press: 3 × 10 each side
+- Bird dog: 3 × 8 each side
+
+*Anti-Lateral Flexion:*
+- Side plank: 3 × 20 sec each side
+- Suitcase carry: 2 × 30 steps each side
+
+**Frequency:** 3-4x per week
+
+## Progression
+
+### Plank Progressions
+
+1. Plank from knees
+2. Full plank
+3. Plank with shoulder taps
+4. Plank with arm/leg lifts
+5. RKC plank (maximum tension)
+
+### Dead Bug Progressions
+
+1. Basic dead bug
+2. Dead bug with slower tempo
+3. Dead bug with band around feet
+4. Dead bug with weight in hands
+
+### Side Plank Progressions
+
+1. Side plank from knees
+2. Full side plank
+3. Side plank with hip dip
+4. Side plank with rotation
+5. Copenhagen plank
+
+## Core Mistakes
+
+### Training Abs Daily
+
+Core muscles need recovery like any other. 3-4x per week is plenty.
+
+### Only Doing Flexion Exercises
+
+Crunches and sit-ups ignore most core functions.
+
+### Holding Breath
+
+Breathe during exercises. Holding breath raises blood pressure and doesn't improve training.
+
+### Neglecting Lower Back
+
+Your erector spinae are part of your core. Train them with hinges and back extensions.
+
+### Going Too Fast
+
+Core stability requires control. Slow, controlled movements beat fast reps.
+
+## The Bottom Line
+
+1. **Core = stability** — Train it to resist movement
+2. **Ditch the crunches** — Anti-movement exercises are better
+3. **Learn to brace** — Foundation of core strength
+4. **Include all directions** — Extension, rotation, lateral flexion
+5. **Quality over quantity** — 15 minutes of good work beats 30 minutes of crunches
+
+---
+
+*Foundational Rehab builds functional core strength that protects your spine and improves performance.*
+    `
+  },
+  'stretches-for-runners': {
+    title: 'Stretches for Runners: Pre and Post-Run Routines',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '6 min read',
+    content: `
+## Why Runners Need to Stretch
+
+Running creates repetitive stress on the same muscles:
+
+**Common tight areas for runners:**
+- Hip flexors
+- Hamstrings
+- Calves
+- IT band
+- Quads
+- Glutes
+
+**Benefits of stretching:**
+- Maintains range of motion
+- May reduce injury risk
+- Aids recovery between runs
+- Reduces post-run stiffness
+
+## Pre-Run: Dynamic Stretching
+
+Static stretching before running can temporarily decrease power. Use dynamic stretches instead:
+
+### Leg Swings (Forward/Back)
+
+1. Hold onto something for balance
+2. Swing leg forward and back
+3. Keep leg relaxed
+4. Gradually increase range
+5. 15-20 swings each leg
+
+### Leg Swings (Side to Side)
+
+1. Face your support
+2. Swing leg across body and out to side
+3. Keep torso stable
+4. 15-20 swings each leg
+
+### Walking Lunges
+
+1. Step forward into lunge
+2. Back knee toward ground
+3. Push off, step into next lunge
+4. 10 each leg
+
+### High Knees
+
+1. March or jog in place
+2. Drive knees up toward chest
+3. Pump arms
+4. 20-30 reps
+
+### Butt Kicks
+
+1. Jog in place
+2. Kick heels toward butt
+3. Quick, light movement
+4. 20-30 reps
+
+### A-Skips
+
+1. Skip forward with high knee drive
+2. Opposite arm drives up
+3. Focus on quick ground contact
+4. 10-15 each leg
+
+### Ankle Circles
+
+1. Lift one foot
+2. Circle ankle 10 times each direction
+3. Switch feet
+
+## 5-Minute Pre-Run Routine
+
+1. Walking (2 min)
+2. Leg swings forward/back (15 each)
+3. Leg swings side to side (15 each)
+4. Walking lunges (10 each)
+5. High knees (20 reps)
+6. Butt kicks (20 reps)
+
+## Post-Run: Static Stretching
+
+After running, your muscles are warm. Now is the time for static stretches:
+
+### Standing Quad Stretch
+
+1. Stand on one leg
+2. Pull other foot toward butt
+3. Keep knees together
+4. Hold 30-45 seconds each side
+
+### Standing Hamstring Stretch
+
+1. Place foot on elevated surface
+2. Keep both legs straight
+3. Hinge forward at hips
+4. Hold 30-45 seconds each side
+
+### Hip Flexor Stretch
+
+1. Kneel on one knee
+2. Tuck tailbone under
+3. Shift weight forward
+4. Hold 30-45 seconds each side
+
+### Calf Stretch (Gastrocnemius)
+
+1. Hands on wall
+2. Step one foot back, heel down
+3. Lean into wall, back leg straight
+4. Hold 30-45 seconds each side
+
+### Calf Stretch (Soleus)
+
+1. Same position
+2. Bend back knee while keeping heel down
+3. Feel stretch lower in calf
+4. Hold 30-45 seconds each side
+
+### IT Band Stretch
+
+1. Cross one leg behind the other
+2. Lean away from back leg
+3. Feel stretch along outer thigh
+4. Hold 30-45 seconds each side
+
+### Glute Stretch (Figure 4)
+
+1. Sit or lie down
+2. Cross ankle over opposite knee
+3. Pull bottom thigh toward chest
+4. Hold 30-45 seconds each side
+
+### Pigeon Pose
+
+1. From hands and knees, bring one knee forward
+2. Extend back leg behind
+3. Fold forward over front leg
+4. Hold 60-90 seconds each side
+
+## 10-Minute Post-Run Routine
+
+1. Walking cool-down (2 min)
+2. Quad stretch (30 sec each)
+3. Hamstring stretch (30 sec each)
+4. Hip flexor stretch (30 sec each)
+5. Calf stretch - straight leg (30 sec each)
+6. Calf stretch - bent knee (30 sec each)
+7. Glute stretch (30 sec each)
+8. Pigeon pose (60 sec each)
+
+## Foam Rolling for Runners
+
+Add foam rolling 2-3x per week:
+
+**Roll each area 60-90 seconds:**
+- Quads
+- Hamstrings
+- Calves
+- IT band (go easy—it's sensitive)
+- Glutes
+
+## Stretches for Common Runner Issues
+
+### Tight IT Band
+
+- Foam roll IT band and quads
+- Figure 4 stretch
+- Standing IT band stretch
+- Strengthen glutes (they feed into IT band)
+
+### Tight Calves
+
+- Calf stretches (both straight and bent knee)
+- Downward dog
+- Step stretches (heels off edge)
+- Foam roll calves
+
+### Tight Hip Flexors
+
+- Half-kneeling hip flexor stretch
+- Couch stretch
+- Strengthen glutes (they're probably weak)
+
+### Hamstring Issues
+
+- Don't over-stretch if injured
+- Active hamstring stretches (leg swings)
+- Standing hamstring stretch
+- Strengthen hamstrings eccentrically
+
+## Weekly Flexibility Plan for Runners
+
+**Before every run:**
+- 5-minute dynamic warm-up
+
+**After every run:**
+- 10-minute static stretching
+
+**2-3x per week:**
+- Foam rolling (15 min)
+- Extended stretching session (20 min)
+
+**Focus areas:**
+- Whatever feels tightest
+- Areas that tend to get injured
+
+## The Bottom Line
+
+1. **Dynamic before, static after** — Don't static stretch cold muscles before running
+2. **Don't skip the cool-down** — Walking + stretching aids recovery
+3. **Target running muscles** — Hip flexors, hamstrings, calves, glutes
+4. **Foam roll regularly** — Helps with recovery and maintenance
+5. **Listen to your body** — Extra attention to tight/problem areas
+
+---
+
+*Foundational Rehab helps runners stay flexible and injury-free with targeted mobility programs.*
+    `
+  },
+  'exercises-for-tennis-elbow': {
+    title: 'Exercises for Tennis Elbow: Lateral Epicondylitis Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## What Is Tennis Elbow?
+
+Tennis elbow (lateral epicondylitis) is pain on the outside of the elbow:
+
+**Symptoms:**
+- Pain on outer elbow
+- Weak grip strength
+- Pain with gripping, twisting, lifting
+- Tenderness at the bony bump on outside of elbow
+
+**Causes:**
+- Repetitive wrist/arm motions
+- Gripping activities
+- Poor technique in racquet sports
+- Overuse (typing, using tools, lifting)
+
+Despite the name, most people with tennis elbow don't play tennis.
+
+## Understanding the Problem
+
+Tennis elbow is typically a tendinopathy—the wrist extensor tendons are overloaded and damaged:
+
+- **Not inflammation** — It's degeneration of the tendon
+- **Needs loading** — Tendons heal with gradual progressive loading
+- **Rest alone doesn't work** — Complete rest often makes it worse
+
+The key treatment: Eccentric and progressive loading exercises.
+
+## Pain Management (Acute Phase)
+
+### Ice
+
+- 15-20 minutes on outer elbow
+- After activities that aggravate
+- Can help with pain
+
+### Activity Modification
+
+- Reduce aggravating activities
+- Use a larger grip on tools/racquets
+- Lift with palm up (supinated) instead of palm down
+- Avoid repetitive wrist movements
+
+### Brace/Strap
+
+- Counterforce brace below elbow
+- Reduces strain on tendon attachment
+- Use during aggravating activities
+
+## Stretching Exercises
+
+### Wrist Extensor Stretch
+
+1. Extend arm, palm down
+2. Use other hand to bend wrist down
+3. Keep elbow straight
+4. Hold 30 seconds
+5. 3 reps, several times daily
+
+### Wrist Flexor Stretch
+
+1. Extend arm, palm up
+2. Use other hand to bend wrist down (fingers toward floor)
+3. Keep elbow straight
+4. Hold 30 seconds
+5. 3 reps
+
+## Strengthening Exercises
+
+### Eccentric Wrist Extension (KEY EXERCISE)
+
+This is the most evidence-based exercise for tennis elbow:
+
+1. Sit with forearm supported on table, wrist hanging off edge
+2. Hold light dumbbell (1-3 lbs), palm down
+3. Use other hand to lift weight up
+4. Slowly lower weight down over 3-5 seconds (this is the eccentric part)
+5. Use other hand to lift again—don't lift with affected arm
+6. 10-15 reps, 3 sets
+7. Do daily
+
+**Progression:**
+- Start with very light weight
+- Add weight when you can do 3 × 15 pain-free
+- May take 6-12 weeks for full recovery
+
+### Eccentric Wrist Curls (Flexion)
+
+1. Same position but palm up
+2. Use good hand to curl weight up
+3. Slowly lower over 3-5 seconds
+4. 10-15 reps, 3 sets
+
+### Wrist Extension (Isometric)
+
+1. Rest forearm on table, wrist hanging off
+2. Make fist, palm down
+3. Press fist upward against other hand
+4. Hold 10 seconds
+5. 5-10 reps
+6. Good for early stages when eccentric hurts
+
+### Grip Strengthening
+
+1. Use a soft ball or therapy putty
+2. Squeeze and hold 5 seconds
+3. 10-15 reps
+4. 2-3 times daily
+5. Only when grip doesn't cause pain
+
+### Tyler Twist (with FlexBar)
+
+If you have a Theraband FlexBar:
+
+1. Hold FlexBar vertically in affected hand
+2. Grab top with other hand
+3. Twist with good hand (wrist flexion)
+4. While holding twist, extend both elbows
+5. Slowly release twist using affected wrist
+6. 10-15 reps, 3 sets daily
+
+## Massage and Self-Release
+
+### Forearm Massage
+
+1. Place forearm on table, palm down
+2. Use other thumb to massage extensor muscles
+3. Work from elbow toward wrist
+4. 2-3 minutes daily
+
+### Ball Release
+
+1. Place lacrosse or tennis ball on table
+2. Roll forearm over ball
+3. Focus on tender spots
+4. 2-3 minutes
+
+## Daily Routine for Tennis Elbow
+
+**Morning:**
+- Wrist stretches: 30 sec each, 3 reps
+- Isometric holds if acute pain present
+
+**Afternoon:**
+- Eccentric wrist extension: 3 × 15
+- Eccentric wrist curl: 3 × 15
+- Forearm massage: 3 minutes
+
+**Evening:**
+- Wrist stretches: 30 sec each
+- Ice if needed: 15 minutes
+
+## Activity Modifications
+
+### At Work
+
+- Use ergonomic mouse and keyboard
+- Keep wrist neutral when typing
+- Take breaks every 30 minutes
+- Use larger grip tools
+
+### In Sports
+
+- Check racquet grip size (may be too small)
+- Have technique assessed
+- Use a counterforce brace
+- Reduce playing time temporarily
+
+### Lifting
+
+- Lift with palm up when possible
+- Avoid lifting heavy with palm down
+- Use both hands for heavy items
+
+## Timeline for Recovery
+
+**Week 1-2:**
+- Pain management, stretching
+- Isometrics if eccentric too painful
+
+**Week 2-6:**
+- Eccentric exercises daily
+- Gradual increase in weight
+
+**Week 6-12:**
+- Continue eccentric program
+- Gradually return to activities
+- Most people see significant improvement
+
+**Note:** Full recovery can take 3-6 months. Patience is essential.
+
+## When to See a Doctor
+
+Seek professional help if:
+- No improvement after 6 weeks of exercises
+- Pain is severe or worsening
+- Significant weakness in grip
+- Numbness or tingling
+- Pain at rest or at night
+
+## The Bottom Line
+
+1. **Eccentric loading is key** — Slowly lowering weight is the treatment
+2. **Progress gradually** — Start light, add weight slowly
+3. **Be patient** — Recovery takes weeks to months
+4. **Modify activities** — Reduce strain while healing
+5. **Don't rely on rest alone** — Loading helps tendons heal
+
+---
+
+*Foundational Rehab provides tennis elbow rehabilitation programs with progressive loading protocols.*
+    `
   }
 };
 
