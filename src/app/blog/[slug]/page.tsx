@@ -129714,6 +129714,767 @@ After being upright all day, your back can handle more.
 
 *Foundational Rehab provides back care programs combining stretching, strengthening, and movement education.*
     `
+  },
+  'exercises-for-carpal-tunnel': {
+    title: 'Exercises for Carpal Tunnel: Hand and Wrist Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Understanding Carpal Tunnel Syndrome
+
+Carpal tunnel syndrome occurs when the median nerve gets compressed as it passes through the carpal tunnel in your wrist. This causes:
+
+- Numbness and tingling in thumb, index, middle, and half of ring finger
+- Weakness in grip strength
+- Pain that may radiate up the arm
+- Symptoms often worse at night
+
+Exercises can help reduce pressure on the nerve, but won't reverse severe cases that may need surgery.
+
+## Nerve Gliding Exercises
+
+These exercises help the median nerve move freely through the carpal tunnel:
+
+### Median Nerve Glide #1
+
+1. Start with fist closed, wrist neutral
+2. Extend fingers straight, wrist still neutral
+3. Extend wrist back (fingers still straight)
+4. Extend thumb away from palm
+5. Turn forearm palm-up
+6. Gently use other hand to pull thumb back
+
+**Perform:** 5-10 repetitions, 3x daily
+
+### Median Nerve Glide #2 (Simpler Version)
+
+1. Extend arm straight in front, palm up
+2. Bend wrist down (fingers point to floor)
+3. Add side neck bend away from the arm
+4. Return to start
+
+**Perform:** 10 reps each arm, 2-3x daily
+
+## Tendon Gliding Exercises
+
+These help the tendons move smoothly through the carpal tunnel:
+
+### Five Position Sequence
+
+Move through these positions smoothly:
+
+1. **Straight:** Fingers extended, together
+2. **Hook:** Bend at middle and end joints only (like a hook)
+3. **Fist:** Full fist
+4. **Table top:** Bend at knuckles only, fingers straight
+5. **Straight fist:** Fingers touch palm, but stay straight
+
+**Perform:** 10 cycles, 2-3x daily
+
+## Stretches for Carpal Tunnel
+
+### Prayer Stretch
+
+1. Press palms together in front of chest
+2. Lower hands toward waist while keeping palms together
+3. Feel stretch in wrists and forearms
+4. Hold 15-30 seconds
+
+### Wrist Flexor Stretch
+
+1. Extend arm, palm up
+2. Use other hand to pull fingers down and back
+3. Keep elbow straight
+4. Hold 30 seconds each side
+
+### Wrist Extensor Stretch
+
+1. Extend arm, palm down
+2. Use other hand to push top of hand down
+3. Feel stretch on top of forearm
+4. Hold 30 seconds each side
+
+## Strengthening Exercises
+
+Once acute symptoms improve, add strength work:
+
+### Wrist Curls
+
+1. Rest forearm on table, wrist hanging off edge
+2. Hold light weight (1-3 lbs) or can of soup
+3. Curl wrist up and down
+4. 15 reps palm up, 15 reps palm down
+
+### Grip Strengthening
+
+1. Use a soft stress ball or therapy putty
+2. Squeeze and hold 5 seconds
+3. 10-15 reps, 2-3x daily
+4. Progress to tennis ball when easy
+
+### Finger Spreads with Rubber Band
+
+1. Place rubber band around all fingertips
+2. Spread fingers against resistance
+3. Hold 2 seconds
+4. 15-20 reps, 2x daily
+
+## Lifestyle Modifications
+
+Exercises work best combined with:
+
+- **Wrist splints at night** — Keeps wrist neutral while sleeping
+- **Ergonomic setup** — Keyboard/mouse at proper height
+- **Regular breaks** — Every 30 minutes during computer work
+- **Avoid extreme positions** — No prolonged flexion or extension
+
+## Sample Daily Routine
+
+**Morning (5 minutes):**
+1. Nerve glides: 10 reps each hand
+2. Prayer stretch: 30 seconds
+3. Tendon glides: 5 cycles
+
+**Throughout day (every hour):**
+1. Shake out hands
+2. Prayer stretch: 15 seconds
+3. Make fists, spread fingers: 10x
+
+**Evening (5 minutes):**
+1. Full nerve glide sequence: 5 reps
+2. Wrist flexor/extensor stretches: 30 sec each
+3. Tendon glides: 10 cycles
+
+## When to See a Doctor
+
+Seek professional help if:
+
+- Symptoms persist despite 2-3 weeks of exercises
+- Numbness is constant (not just intermittent)
+- Noticeable muscle wasting at base of thumb
+- Grip strength significantly weakened
+- Dropping objects frequently
+
+## The Bottom Line
+
+1. **Nerve glides are key** — Help the median nerve move freely
+2. **Be consistent** — Multiple short sessions beat one long one
+3. **Don't push through pain** — Exercises should feel stretchy, not painful
+4. **Address the cause** — Ergonomics and habits matter
+5. **Splint at night** — Prevents wrist from bending during sleep
+
+---
+
+*Foundational Rehab helps you manage carpal tunnel with evidence-based exercises and movement guidance.*
+    `
+  },
+  'how-to-improve-balance': {
+    title: 'How to Improve Balance: Exercises for Stability at Any Age',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Why Balance Matters
+
+Good balance prevents falls, improves athletic performance, and maintains independence as you age:
+
+- **Falls are dangerous** — Leading cause of injury in adults 65+
+- **Balance declines with age** — But is highly trainable
+- **Athletes need it** — Every sport requires balance
+- **Daily life depends on it** — Stairs, uneven surfaces, carrying things
+
+The good news: Balance improves quickly with practice, at any age.
+
+## The Three Balance Systems
+
+Your balance relies on three systems working together:
+
+### 1. Visual System
+Your eyes tell your brain where you are in space. That's why balance is harder with eyes closed.
+
+### 2. Vestibular System (Inner Ear)
+Fluid-filled canals detect head position and movement. Disorders here cause vertigo.
+
+### 3. Proprioception (Body Awareness)
+Sensors in joints and muscles tell your brain about body position. This is trainable.
+
+Good balance training challenges all three systems.
+
+## Beginner Balance Exercises
+
+Start here if you're new or feel unsteady:
+
+### Single Leg Stand
+
+1. Stand near a wall or counter for safety
+2. Lift one foot slightly off the ground
+3. Hold as long as possible (goal: 30+ seconds)
+4. Switch sides
+
+**Progression:** Move away from support, add arm movements
+
+### Heel-to-Toe Walk
+
+1. Walk in a straight line (real or imagined)
+2. Place heel directly against toes with each step
+3. Arms out for balance
+4. 10-20 steps
+
+### Weight Shifts
+
+1. Stand with feet hip-width apart
+2. Shift weight fully to right foot
+3. Shift weight fully to left foot
+4. 10-15 shifts each direction
+
+## Intermediate Balance Exercises
+
+Once you can hold single leg stand for 30 seconds:
+
+### Single Leg with Eyes Closed
+
+1. Same as single leg stand
+2. Close your eyes (stay near support!)
+3. Goal: 15+ seconds
+4. This trains proprioception
+
+### Tandem Stance
+
+1. Stand heel-to-toe (like on a tightrope)
+2. Hold 30 seconds
+3. Try with eyes closed for challenge
+
+### Single Leg Reaches
+
+1. Stand on one leg
+2. Reach opposite arm forward, back, side
+3. Reach same-side leg forward, back, side
+4. 5 reaches each direction
+
+### Clock Taps
+
+1. Stand on one leg
+2. Imagine standing in center of a clock
+3. Tap other foot to 12, 3, 6, 9 o'clock positions
+4. Return to center between each tap
+5. 2 rounds each leg
+
+## Advanced Balance Challenges
+
+For athletes or after mastering intermediates:
+
+### BOSU Ball Stand
+
+1. Stand on dome side of BOSU ball
+2. Progress: two feet → single leg → eyes closed
+3. Add squats or arm movements
+
+### Dynamic Single Leg Activities
+
+1. Single leg squats
+2. Single leg Romanian deadlifts
+3. Single leg hop and stick
+4. Lateral hops
+
+### Perturbation Training
+
+1. Have someone gently push you while balancing
+2. Practice recovering from unexpected challenges
+3. Start small, progress gradually
+
+## Balance for Specific Goals
+
+### Fall Prevention (Seniors)
+
+Focus on:
+- Tandem stance and walking
+- Sit-to-stand without hands
+- Walking over obstacles
+- Quick recovery steps
+
+Train 3x weekly, build confidence gradually.
+
+### Sports Performance
+
+Emphasize:
+- Single leg power (jumps, hops)
+- Dynamic movements (cutting, pivoting)
+- Sport-specific positions
+- Reactive drills
+
+### Post-Injury Rehab
+
+Start with:
+- Supported stance (injured leg)
+- Weight shifting
+- Progress to single leg only when pain-free
+- Add sport demands last
+
+## Sample Balance Workout
+
+**Warm-Up (2 min):**
+- Weight shifts: 10 each direction
+- Heel-to-toe walk: 10 steps
+
+**Main Work (10 min):**
+- Single leg stand: 30 sec each leg (2 sets)
+- Clock taps: 1 round each leg
+- Tandem stance: 30 sec (2 sets)
+- Single leg reaches: 5 each direction, each leg
+- Single leg stand, eyes closed: 15 sec each leg
+
+**Cool-Down:**
+- Regular walking
+- Deep breathing
+
+## How Often to Train Balance
+
+- **Minimum:** 3x per week
+- **Optimal:** Daily short sessions (5-10 min)
+- **Progress:** Add challenge every 1-2 weeks
+- **Maintain:** 2x weekly once goals achieved
+
+## Common Mistakes
+
+1. **Holding breath** — Breathe normally throughout
+2. **Tensing up** — Stay relaxed, let muscles react
+3. **Progressing too fast** — Master each level first
+4. **Only training one side** — Always do both legs
+5. **Giving up too soon** — Wobbling is training!
+
+## The Bottom Line
+
+1. **Challenge your systems** — Vision, vestibular, proprioception
+2. **Progress gradually** — Stability → instability → dynamic
+3. **Train frequently** — Short daily sessions work best
+4. **Make it harder** — Unstable surfaces, eyes closed, movement
+5. **Be patient** — Balance improves steadily with practice
+
+---
+
+*Foundational Rehab builds your stability from the ground up with progressive balance training programs.*
+    `
+  },
+  'hip-bursitis-exercises': {
+    title: 'Hip Bursitis Exercises: Relief for Greater Trochanteric Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## What Is Hip Bursitis?
+
+Hip bursitis (greater trochanteric pain syndrome) causes pain on the outside of the hip. It's actually often more about tendons than the bursa:
+
+**Symptoms:**
+- Pain on outside of hip
+- Worse when lying on affected side
+- Pain with stairs, walking, or running
+- Tender to touch over hip bone
+
+**Contributing factors:**
+- IT band tightness
+- Weak glutes (especially glute medius)
+- Overuse from running/walking
+- Poor hip mechanics
+
+## What to Avoid (Initially)
+
+During the acute phase, avoid:
+
+- Stretching the IT band aggressively
+- Crossing legs when sitting
+- Lying on the painful side
+- High-impact activities
+- Deep stretches that compress the bursa
+
+## Phase 1: Pain Relief (Weeks 1-2)
+
+### Ice and Positioning
+
+- Ice for 15-20 minutes several times daily
+- Sleep with pillow between knees
+- Don't sit with legs crossed
+
+### Gentle Hip Circles
+
+1. Lie on back, affected leg bent
+2. Make small circles with knee
+3. 10 circles each direction
+4. Keep movement pain-free
+
+### Glute Squeezes (Isometric)
+
+1. Lie on back, knees bent
+2. Squeeze glutes without lifting hips
+3. Hold 5 seconds
+4. 10-15 reps
+
+### Clamshells (Modified)
+
+1. Lie on non-painful side
+2. Knees bent 45°, heels together
+3. Lift top knee slightly (small motion)
+4. Hold 2 seconds, lower slowly
+5. 10-15 reps
+
+**Important:** Keep range of motion small to avoid compression.
+
+## Phase 2: Strengthening (Weeks 2-6)
+
+Once pain decreases, add progressive loading:
+
+### Standing Hip Abduction
+
+1. Stand holding wall or chair
+2. Lift leg out to side (toes forward)
+3. Don't lean trunk
+4. 15 reps each side, 2-3 sets
+5. Progress to resistance band
+
+### Side-Lying Hip Abduction
+
+1. Lie on non-painful side
+2. Keep body in straight line
+3. Lift top leg toward ceiling
+4. Control the lower slowly
+5. 15 reps, 2-3 sets
+
+### Wall Sit Abduction
+
+1. Sit against wall, knees bent 60°
+2. Place resistance band around thighs
+3. Press knees out against band
+4. Hold 30 seconds
+5. 3-5 reps
+
+### Single Leg Bridge
+
+1. Lie on back, one leg bent, one extended
+2. Lift hips using bent leg
+3. Hold 3 seconds at top
+4. 10 reps each side, 2 sets
+
+## Phase 3: Functional Training (Weeks 6+)
+
+Progress to real-world movements:
+
+### Step-Ups
+
+1. Use 4-6 inch step
+2. Step up with affected leg
+3. Control the descent
+4. 10-15 reps, 2-3 sets
+5. Progress step height gradually
+
+### Single Leg Stance Challenges
+
+1. Stand on affected leg
+2. Add arm movements
+3. Add reaching
+4. Progress to unstable surfaces
+
+### Lateral Band Walks
+
+1. Band around ankles or thighs
+2. Slight squat position
+3. Step sideways 10 steps
+4. Keep toes forward, don't waddle
+5. 2-3 sets each direction
+
+### Single Leg Romanian Deadlift
+
+1. Stand on affected leg
+2. Hinge forward at hip
+3. Opposite leg extends behind
+4. Keep hip level (don't rotate)
+5. 8-10 reps each side
+
+## Stretching Guidelines
+
+For hip bursitis, stretch cautiously:
+
+### Hip Flexor Stretch (Safe)
+
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Shift weight forward slightly
+4. Feel stretch in front of back hip
+5. Hold 30 seconds
+
+### Gentle Piriformis Stretch (If Needed)
+
+1. Lie on back
+2. Cross affected ankle over opposite knee
+3. Gently pull toward chest
+4. Stop if pain on outside of hip
+5. Hold 30 seconds
+
+### Avoid Deep IT Band Stretches
+
+Traditional IT band stretches can compress the bursa and irritate tendons. Focus on strengthening instead.
+
+## Sample Weekly Program
+
+**Daily:**
+- Glute squeezes: 15 reps
+- Hip circles: 10 each direction
+- Ice if needed
+
+**3x per Week (non-consecutive days):**
+
+*Week 1-2:*
+- Clamshells: 2 × 15
+- Glute bridges: 2 × 12
+- Hip flexor stretch: 30 sec each
+
+*Week 3-4:*
+- Standing hip abduction: 2 × 15
+- Side-lying abduction: 2 × 15
+- Single leg bridge: 2 × 10
+
+*Week 5+:*
+- Lateral band walks: 2 × 10 each direction
+- Step-ups: 2 × 10 each leg
+- Single leg RDL: 2 × 8 each leg
+
+## Return to Activity
+
+Before resuming running or high-impact:
+
+- ✅ Pain-free with daily activities
+- ✅ Single leg squat without hip drop
+- ✅ 30+ seconds single leg balance
+- ✅ Pain-free lateral band walks
+- ✅ Gradual return over 2-4 weeks
+
+## The Bottom Line
+
+1. **Strengthen, don't just stretch** — Weak glutes are usually the problem
+2. **Avoid compression** — No aggressive IT band stretching
+3. **Progress gradually** — Rushing causes setbacks
+4. **Check your mechanics** — Hip drop during walking/running is common
+5. **Be patient** — Full recovery often takes 6-12 weeks
+
+---
+
+*Foundational Rehab provides hip strengthening programs that address the root causes of bursitis.*
+    `
+  },
+  'morning-stretches': {
+    title: 'Morning Stretches: The Best 5-Minute Wake-Up Routine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Routines',
+    readTime: '5 min read',
+    content: `
+## Why Stretch in the Morning?
+
+After 6-8 hours of sleep, your body is:
+
+- **Stiff** — Muscles tighten during immobility
+- **Compressed** — Spinal discs rehydrate overnight
+- **Sluggish** — Blood flow is reduced
+
+A short morning routine:
+- Increases blood flow
+- Reduces stiffness
+- Improves alertness
+- Sets a positive tone for the day
+
+**Important:** Don't force deep stretches immediately after waking. Your spine is more vulnerable. Keep it gentle.
+
+## The 5-Minute Morning Routine
+
+Do this sequence in bed or on the floor:
+
+### 1. Full Body Stretch (30 seconds)
+
+1. Lie on your back
+2. Reach arms overhead
+3. Point toes away from you
+4. Stretch like you're making yourself taller
+5. Hold 10 seconds, release, repeat 3x
+
+### 2. Knee to Chest (45 seconds)
+
+1. Hug one knee toward chest
+2. Keep other leg straight or slightly bent
+3. Hold 15 seconds
+4. Switch legs
+5. Then hug both knees
+
+This gently stretches the lower back without spinal flexion loading.
+
+### 3. Supine Twist (60 seconds)
+
+1. Lie on back, arms out to sides
+2. Bend knees, feet flat
+3. Lower both knees to right
+4. Look toward left hand
+5. Hold 30 seconds, switch sides
+
+Great for spinal mobility after sleeping.
+
+### 4. Cat-Cow (45 seconds)
+
+1. Come to hands and knees
+2. **Cat:** Round spine up, tuck chin
+3. **Cow:** Arch back, lift head
+4. Move slowly between positions
+5. 6-8 cycles
+
+This mobilizes the entire spine.
+
+### 5. Child's Pose (30 seconds)
+
+1. Sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor (or bed)
+4. Breathe deeply
+5. Hold 30 seconds
+
+Opens hips and lower back.
+
+### 6. Seated Forward Fold (30 seconds)
+
+1. Sit with legs extended
+2. Reach toward toes (don't force!)
+3. Keep slight knee bend if needed
+4. Focus on lengthening spine
+5. Hold 30 seconds
+
+Gentle hamstring wake-up.
+
+### 7. Standing Reach (30 seconds)
+
+1. Stand tall
+2. Interlace fingers, turn palms up
+3. Reach toward ceiling
+4. Side bend gently right, then left
+5. Return to center
+
+Final full-body opener.
+
+**Total time: 5 minutes**
+
+## Expanded 10-Minute Version
+
+Add these for a longer routine:
+
+### Neck Rolls (30 seconds)
+
+1. Slowly circle head clockwise (5x)
+2. Circle counterclockwise (5x)
+3. Don't force through any pain
+
+### Thread the Needle (60 seconds)
+
+1. Start on hands and knees
+2. Reach right arm under body to left
+3. Rest right shoulder on floor
+4. Hold 30 seconds, switch sides
+
+Deep upper back rotation.
+
+### Hip Flexor Stretch (60 seconds)
+
+1. Step into lunge position
+2. Back knee on floor
+3. Tuck tailbone slightly
+4. Hold 30 seconds each side
+
+Counteracts hip flexion from sleeping curled up.
+
+### Shoulder Rolls (30 seconds)
+
+1. Roll shoulders backward (10x)
+2. Roll shoulders forward (10x)
+3. Make circles as big as possible
+
+### Doorway Chest Stretch (30 seconds)
+
+1. Place forearm on doorframe
+2. Step through until stretch in chest
+3. Hold 15 seconds each side
+
+Opens chest after sleeping on side.
+
+## Tips for Morning Stretching
+
+### Don't Force It
+
+Your muscles are cold and your spine is vulnerable. Keep stretches gentle — about 60% of your maximum.
+
+### Move Slowly
+
+No bouncing or jerky movements. Ease into each position.
+
+### Breathe
+
+Deep breathing helps muscles relax. Exhale as you ease deeper.
+
+### Stay Warm
+
+Cold muscles don't stretch well. Keep your pajamas on or cover yourself.
+
+### Be Consistent
+
+5 minutes daily beats 30 minutes once a week. Make it a habit.
+
+### Skip What Hurts
+
+If something causes pain (not just stretch sensation), skip it.
+
+## Morning Movements to Avoid
+
+**Don't do these first thing:**
+
+- Heavy forward folds (disc risk when spine is hydrated)
+- Sit-ups or crunches
+- Deep back bends
+- High-impact jumping
+- Heavy lifting
+
+Wait at least 30-60 minutes after waking for these.
+
+## Adapting for Your Needs
+
+### If You Have Back Pain
+
+- Skip seated forward fold
+- Avoid deep twists
+- Focus on cat-cow and gentle knee-to-chest
+- Consider standing stretches instead
+
+### If You're Very Stiff
+
+- Start even gentler — 30% intensity
+- Hold positions shorter (15 seconds)
+- Focus on breathing and relaxing
+- Gradually increase over weeks
+
+### If You Wake Up Energized
+
+- Move through faster
+- Add dynamic movements (arm circles, leg swings)
+- Finish with light jumping jacks
+
+## The Bottom Line
+
+1. **Keep it gentle** — Morning bodies need coaxing, not forcing
+2. **Be consistent** — 5 minutes daily creates lasting change
+3. **Move with breath** — Inhale to prepare, exhale to deepen
+4. **Protect your spine** — No heavy flexion right after waking
+5. **Make it enjoyable** — If you dread it, you won't do it
+
+---
+
+*Foundational Rehab helps you start every day feeling better with guided morning routines.*
+    `
   }
 };
 

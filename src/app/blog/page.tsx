@@ -4064,6 +4064,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '5 min read'
+  },
+  {
+    slug: 'exercises-for-carpal-tunnel',
+    title: 'Exercises for Carpal Tunnel: Hand and Wrist Relief',
+    excerpt: 'Nerve glides, stretches, and strengthening exercises to relieve carpal tunnel symptoms.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-to-improve-balance',
+    title: 'How to Improve Balance: Exercises for Stability at Any Age',
+    excerpt: 'Progressive balance exercises from beginner to advanced for fall prevention and athletic performance.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'hip-bursitis-exercises',
+    title: 'Hip Bursitis Exercises: Relief for Greater Trochanteric Pain',
+    excerpt: 'Strengthen your glutes and relieve hip bursitis with this phased exercise program.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'morning-stretches',
+    title: 'Morning Stretches: The Best 5-Minute Wake-Up Routine',
+    excerpt: 'A gentle 5-minute stretching routine to start your day feeling loose and energized.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Routines',
+    readTime: '5 min read'
   }
 ];
 
