@@ -139960,6 +139960,972 @@ Stretching should feel like a stretch, not pain. Ease off if too intense.
 
 *Foundational Rehab keeps your calves flexible with targeted stretching programs.*
     `
+  },
+  'hamstring-stretches': {
+    title: 'Hamstring Stretches: Relieve Tightness Safely',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Hamstrings Get Tight
+
+Your hamstrings (back of thigh) are prone to tightness:
+
+**Common causes:**
+- Prolonged sitting
+- Weak glutes (hamstrings compensate)
+- Running and sports
+- Lower back issues
+- Lack of stretching
+- Anterior pelvic tilt
+
+**Problems from tight hamstrings:**
+- Lower back pain
+- Limited hip mobility
+- Reduced athletic performance
+- Increased injury risk
+- Difficulty touching toes
+
+## Important: Are They Actually Tight?
+
+Sometimes hamstrings FEEL tight but aren't actually short:
+
+**Neural tension:** Nerve irritation can create a tight sensation
+**Protective tension:** Hamstrings tighten to stabilize a weak core or back
+
+If aggressive stretching doesn't help (or makes things worse), the issue might not be muscle length.
+
+## Static Hamstring Stretches
+
+### Standing Hamstring Stretch
+
+1. Place foot on elevated surface (chair, step)
+2. Keep both legs straight
+3. Hinge forward at hips (don't round back)
+4. Feel stretch in back of thigh
+5. Hold 30-60 seconds each side
+
+### Seated Forward Fold
+
+1. Sit with legs extended
+2. Reach toward toes
+3. Keep slight bend in knees if needed
+4. Hinge from hips, not lower back
+5. Hold 30-60 seconds
+
+### Supine Hamstring Stretch
+
+1. Lie on back
+2. Lift one leg, keep it straight
+3. Hold behind thigh or calf
+4. Pull gently toward chest
+5. Hold 30-60 seconds each side
+
+### Doorway Hamstring Stretch
+
+1. Lie in doorway
+2. One leg through door, one leg up on wall
+3. Scoot closer for more stretch
+4. Keep raised leg straight
+5. Hold 60+ seconds each side
+
+### Towel/Strap Hamstring Stretch
+
+1. Lie on back
+2. Loop towel around foot
+3. Lift leg using towel
+4. Keep leg straight
+5. Hold 30-60 seconds each side
+
+## Dynamic Hamstring Stretches
+
+For warm-ups:
+
+### Leg Swings (Forward/Back)
+
+1. Hold onto something for balance
+2. Swing leg forward and back
+3. Keep leg relaxed
+4. Gradually increase range
+5. 15-20 swings each leg
+
+### Inchworms
+
+1. Stand tall
+2. Bend forward, touch floor
+3. Walk hands out to plank
+4. Walk hands back to feet
+5. Stand up
+6. 5-10 reps
+
+### Walking Toe Touches
+
+1. Walk forward
+2. Kick one leg up, touch with opposite hand
+3. Keep leg mostly straight
+4. Alternate legs
+5. 10 each leg
+
+### Frankensteins
+
+1. Walk forward
+2. Kick leg straight out in front
+3. Reach toward toes
+4. Keep torso upright
+5. 10 each leg
+
+## PNF Hamstring Stretch
+
+Most effective for rapid flexibility gains:
+
+### Contract-Relax Method
+
+1. Lie on back, leg raised (partner or strap)
+2. Push leg down against resistance for 5-10 seconds
+3. Relax
+4. Stretch deeper
+5. Repeat 2-3 times each leg
+
+### Hold-Relax with Agonist Contraction
+
+1. Same starting position
+2. Push down for 5-10 seconds
+3. Relax
+4. Now actively pull leg toward you using hip flexors
+5. Repeat 2-3 times
+
+## Strengthening Tight Hamstrings
+
+Sometimes you need to strengthen, not just stretch:
+
+### Romanian Deadlift
+
+1. Hold weight, push hips back
+2. Lower weight along legs
+3. Feel stretch in hamstrings
+4. Stand back up
+5. 10-12 reps
+
+### Good Mornings
+
+1. Hands behind head or bar on back
+2. Hinge at hips
+3. Keep back flat
+4. Return to standing
+5. 10-12 reps
+
+### Nordic Hamstring Curls
+
+1. Kneel, ankles anchored
+2. Lower body slowly (eccentric)
+3. Use hands to push back up
+4. 5-10 reps
+
+## Addressing the Root Cause
+
+### If Caused by Sitting
+
+- Take movement breaks every 30-60 minutes
+- Stretch throughout the day
+- Consider a standing desk
+
+### If Caused by Weak Glutes
+
+Hamstrings often tighten to compensate for weak glutes:
+- Add glute bridges
+- Add hip thrusts
+- Add clamshells
+- As glutes get stronger, hamstrings often loosen
+
+### If Caused by Back Issues
+
+- See a professional
+- Address the back issue first
+- Aggressive stretching may make things worse
+
+### If Caused by Anterior Pelvic Tilt
+
+- Stretch hip flexors too
+- Strengthen glutes and abs
+- Work on pelvic positioning
+
+## Daily Hamstring Routine
+
+**Morning (3 min):**
+- Leg swings: 15 each leg
+- Standing hamstring stretch: 30 sec each
+
+**After Sitting (Every 2 Hours):**
+- Stand up and walk
+- Standing stretch: 20 sec each
+- Or seated stretch at desk
+
+**Evening (5 min):**
+- Supine stretch: 45 sec each
+- Doorway stretch: 60 sec each
+- RDL (light or bodyweight): 10 reps
+
+## Common Mistakes
+
+### Rounding the Back
+
+Hinge at hips, not lower back. Rounding reduces hamstring stretch.
+
+### Locking Out Knees
+
+Keep a tiny bend to protect the joint and target the muscle.
+
+### Bouncing
+
+Hold stretches steady. Bouncing is counterproductive.
+
+### Overstretching
+
+Pain is not gain. Stretch to tension, not pain.
+
+### Only Stretching
+
+If stretching alone isn't working, you may need to strengthen instead.
+
+## The Bottom Line
+
+1. **Hinge from hips** — Don't round your back
+2. **Hold 30-60 seconds** — Minimum for static stretches
+3. **Try PNF** — Most effective for rapid gains
+4. **Consider strengthening** — Sometimes that helps more than stretching
+5. **Address root cause** — Sitting, weak glutes, or back issues
+
+---
+
+*Foundational Rehab helps you achieve lasting hamstring flexibility with targeted approaches.*
+    `
+  },
+  'exercises-for-chronic-pain': {
+    title: 'Exercises for Chronic Pain: Safe Movement Strategies',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Understanding Chronic Pain
+
+Chronic pain lasts longer than 3 months and is different from acute pain:
+
+**Key differences:**
+- **Acute pain:** Warning signal, related to tissue damage
+- **Chronic pain:** Often persists after tissues have healed
+
+**Contributing factors:**
+- Central sensitization (nervous system becomes hypersensitive)
+- Fear of movement
+- Deconditioning from inactivity
+- Stress, anxiety, depression
+- Sleep problems
+
+**Good news:** Exercise is one of the most effective treatments for chronic pain.
+
+## Why Exercise Helps Chronic Pain
+
+**Physical benefits:**
+- Reduces pain sensitivity
+- Increases strength and endurance
+- Improves function
+- Releases endorphins
+- Improves sleep
+
+**Psychological benefits:**
+- Reduces fear of movement
+- Improves mood
+- Builds confidence
+- Provides distraction
+- Sense of accomplishment
+
+## Safe Movement Principles
+
+### Start Low, Go Slow
+
+- Begin below what you think you can do
+- Increase very gradually
+- Better to do less and succeed than push and flare up
+
+### Consistency Over Intensity
+
+- Regular gentle movement beats occasional intense sessions
+- Daily short sessions are ideal
+- Build a routine
+
+### Expect Some Discomfort
+
+- Discomfort during exercise doesn't mean damage
+- Pain during exercise is okay if it returns to baseline within 24 hours
+- "Hurt" does not equal "harm"
+
+### Don't Fear Flare-Ups
+
+- Flare-ups happen—they don't mean you've caused damage
+- Stay as active as possible during flares
+- Return to routine when flare settles
+
+### Pacing
+
+- Don't do too much on good days
+- Don't do too little on bad days
+- Aim for consistent activity level regardless of pain
+
+## Low-Impact Exercises
+
+### Walking
+
+- Best starting exercise for most people
+- Start with 5-10 minutes
+- Gradually increase duration
+- Use flat surfaces initially
+
+### Swimming/Water Exercise
+
+- Buoyancy reduces joint stress
+- Warm water soothes pain
+- Full-body movement
+- Excellent for most chronic pain conditions
+
+### Cycling
+
+- Low impact on joints
+- Stationary bike is safest
+- Easy to control intensity
+- Good for building endurance
+
+### Yoga (Gentle)
+
+- Combines movement, breathing, relaxation
+- Choose gentle/restorative styles
+- Modify as needed
+- Many chronic pain-specific classes available
+
+### Tai Chi
+
+- Slow, controlled movements
+- Improves balance and flexibility
+- Meditative quality
+- Research-supported for chronic pain
+
+## Strengthening Exercises
+
+Start with bodyweight or very light resistance:
+
+### Chair Stand
+
+1. Sit at edge of sturdy chair
+2. Stand up without using hands (if possible)
+3. Sit back down with control
+4. Start with 5-10 reps
+
+### Wall Push-Up
+
+1. Hands on wall, arms straight
+2. Lean in, bend elbows
+3. Push back
+4. 10-15 reps
+
+### Glute Bridge
+
+1. Lie on back, knees bent
+2. Lift hips
+3. Lower slowly
+4. 10-15 reps
+
+### Bird Dog
+
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Hold 5 seconds
+4. 5-10 reps each side
+
+### Standing Balance
+
+1. Hold onto chair
+2. Lift one foot slightly
+3. Hold 10-30 seconds
+4. Progress to no hands
+
+## Flexibility and Mobility
+
+### Gentle Stretching
+
+- Never force stretches
+- Hold 20-30 seconds
+- Breathe into stretches
+- Full body routine
+
+### Cat-Cow
+
+1. On hands and knees
+2. Alternate arching and rounding
+3. Move slowly
+4. 10 cycles
+
+### Knee to Chest
+
+1. Lie on back
+2. Gently hug one knee
+3. Hold 20-30 seconds each side
+
+### Seated Twist
+
+1. Sit in chair
+2. Gently rotate upper body
+3. Hold 20-30 seconds each side
+
+## Creating Your Program
+
+### Week 1-2: Foundation
+
+- Walking: 5-10 min daily
+- Gentle stretching: 5-10 min
+- 1-2 strengthening exercises
+
+### Week 3-4: Building
+
+- Walking: 10-15 min
+- Add variety (swimming, cycling)
+- 3-4 strengthening exercises
+- Maintain stretching
+
+### Week 5+: Progressing
+
+- Gradually increase duration/intensity
+- Add exercises as tolerated
+- Listen to your body
+- Maintain consistency
+
+## Managing Flare-Ups
+
+### During a Flare
+
+- Reduce but don't stop activity
+- Do gentle movement (walking, stretching)
+- Use relaxation techniques
+- This will pass
+
+### After a Flare
+
+- Gradually return to routine
+- Don't rush back to previous level
+- Learn from what triggered it
+- Adjust program if needed
+
+## Mindset Matters
+
+### Fear-Avoidance
+
+Avoiding movement because of pain leads to:
+- Deconditioning
+- More sensitivity
+- More pain
+- Less function
+
+Breaking this cycle is essential.
+
+### Building Confidence
+
+- Start with what you CAN do
+- Celebrate small wins
+- Progress gradually
+- Trust the process
+
+## The Bottom Line
+
+1. **Movement is medicine** — Exercise helps chronic pain
+2. **Start low, go slow** — Better to build than to flare
+3. **Consistency matters** — Regular movement over time
+4. **Pain doesn't equal damage** — Safe to move through discomfort
+5. **Mindset counts** — Reduce fear of movement
+
+---
+
+*Foundational Rehab helps people with chronic pain return to movement safely and confidently.*
+    `
+  },
+  'how-to-warm-up': {
+    title: 'How to Warm Up Before Exercise: Complete Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Why Warming Up Matters
+
+A proper warm-up prepares your body for exercise:
+
+**Benefits:**
+- Increases blood flow to muscles
+- Raises body temperature
+- Improves muscle elasticity
+- Activates the nervous system
+- Reduces injury risk
+- Enhances performance
+
+**Skipping warm-up risks:**
+- Muscle strains
+- Reduced performance
+- Poor movement quality
+- Longer time to hit stride
+
+## Components of a Good Warm-Up
+
+### 1. General Cardiovascular Activity
+
+Get blood flowing:
+- Light jogging
+- Jumping jacks
+- Cycling
+- Rowing
+- Brisk walking
+
+**Duration:** 5-10 minutes
+**Intensity:** Light to moderate (can talk easily)
+
+### 2. Dynamic Stretching
+
+Active movement through range of motion:
+- Leg swings
+- Arm circles
+- Hip circles
+- Walking lunges
+- High knees
+
+**Duration:** 5-10 minutes
+**Focus:** Muscles you'll use in the workout
+
+### 3. Movement Preparation
+
+Activity-specific movements at lower intensity:
+- Practice the movements you'll do
+- Start light, gradually increase
+- Build up to working intensity
+
+## Dynamic Warm-Up Exercises
+
+### Upper Body
+
+**Arm Circles:**
+- Small to large circles
+- Forward and backward
+- 15-20 each direction
+
+**Shoulder Rotations:**
+- Arms out to sides
+- Rotate forward/back
+- 15 reps each
+
+**Chest Opener:**
+- Arms behind, clasp hands
+- Lift chest, squeeze shoulder blades
+- Hold 2 seconds, release
+- 10 reps
+
+### Lower Body
+
+**Leg Swings (Front/Back):**
+- Hold support
+- Swing leg forward and back
+- Increase range gradually
+- 15-20 each leg
+
+**Leg Swings (Side to Side):**
+- Face support
+- Swing leg across body and out
+- 15-20 each leg
+
+**Hip Circles:**
+- Lift knee, circle outward
+- Then circle inward
+- 10 each direction, each leg
+
+**Walking Lunges:**
+- Step forward into lunge
+- Drive through, step into next lunge
+- 10 each leg
+
+**High Knees:**
+- March or jog in place
+- Drive knees up
+- 20-30 reps
+
+**Butt Kicks:**
+- Jog in place
+- Kick heels toward butt
+- 20-30 reps
+
+### Core
+
+**Cat-Cow:**
+- On hands and knees
+- Alternate arching and rounding
+- 10 cycles
+
+**World's Greatest Stretch:**
+- Lunge position
+- Rotate torso, reach toward ceiling
+- Return, repeat other side
+- 5 each side
+
+**Inchworms:**
+- Bend forward, touch floor
+- Walk hands to plank
+- Walk hands back
+- Stand up
+- 5 reps
+
+## Sport-Specific Warm-Ups
+
+### For Running
+
+1. Walk: 2 min
+2. Light jog: 3 min
+3. Leg swings: 15 each leg
+4. High knees: 20 reps
+5. Butt kicks: 20 reps
+6. A-skips: 10 each leg
+7. Strides: 3-4 at increasing pace
+
+### For Weightlifting
+
+1. Light cardio: 5 min
+2. Dynamic stretches for target muscles
+3. Movement practice with empty bar or light weight
+4. Warm-up sets: progressively heavier
+   - Example: 50% × 5, 70% × 3, 85% × 1, then work weight
+
+### For Team Sports
+
+1. Jog: 5 min
+2. Dynamic stretching: 5 min
+3. Sport-specific movements:
+   - Cutting and change of direction
+   - Sport skills (passing, shooting)
+   - Short sprints
+4. Gradually increase intensity
+
+### For Yoga/Flexibility Work
+
+1. Light movement: 3-5 min (walking, gentle cardio)
+2. Joint circles: ankles, knees, hips, spine, shoulders
+3. Gentle flowing movements
+4. Sun salutations
+
+## How Long Should You Warm Up?
+
+**General guideline:** 10-15 minutes
+
+**Factors that increase warm-up time:**
+- Cold weather/environment
+- Morning workouts (body is stiff)
+- High-intensity activities
+- Older age
+- Previous injuries
+
+**Factors that reduce needed warm-up:**
+- Already active (second workout of day)
+- Warm environment
+- Low-intensity activity planned
+
+## Warm-Up Mistakes
+
+### Skipping It
+
+Even 5 minutes is better than nothing.
+
+### Static Stretching Before Exercise
+
+Save static stretching for after. It can temporarily reduce power.
+
+### Going Too Hard
+
+Warm-up should prepare, not fatigue. Keep intensity moderate.
+
+### Same Warm-Up for Everything
+
+Match your warm-up to your activity.
+
+### Rushing Through
+
+Take your time. Let your body adapt.
+
+## Quick 5-Minute Warm-Up
+
+When time is short:
+
+1. Jumping jacks: 30 seconds
+2. High knees: 30 seconds
+3. Arm circles: 20 reps
+4. Leg swings: 10 each leg
+5. Hip circles: 10 each leg
+6. Walking lunges: 10 total
+7. Light activity-specific movement: 1 min
+
+## The Bottom Line
+
+1. **Never skip it** — Even 5 minutes helps
+2. **Start light, build up** — Progressive intensity
+3. **Dynamic over static** — Save holds for after
+4. **Be activity-specific** — Prepare the muscles you'll use
+5. **Listen to your body** — Warm up longer if needed
+
+---
+
+*Foundational Rehab helps you prepare properly for any workout with targeted warm-up routines.*
+    `
+  },
+  'exercises-for-office-workers': {
+    title: 'Exercises for Office Workers: Stay Active at Your Desk',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Routines',
+    readTime: '6 min read',
+    content: `
+## The Office Worker Problem
+
+Sitting 8+ hours a day takes a toll:
+
+**Common issues:**
+- Neck and shoulder pain
+- Lower back pain
+- Tight hip flexors
+- Weak glutes
+- Poor posture
+- Low energy
+- Reduced circulation
+
+**The solution:** Regular movement breaks and targeted exercises.
+
+## At-Desk Exercises
+
+Do these without leaving your chair:
+
+### Seated Marching
+
+1. Sit tall
+2. March feet in place
+3. Lift knees as high as comfortable
+4. 30-60 seconds
+5. Gets blood flowing
+
+### Seated Leg Extensions
+
+1. Sit tall
+2. Straighten one leg, hold 5 seconds
+3. Lower slowly
+4. 10 reps each leg
+5. Strengthens quads
+
+### Ankle Circles
+
+1. Lift one foot
+2. Circle ankle 10 times each direction
+3. Both feet
+4. Prevents stiffness and improves circulation
+
+### Seated Spinal Twist
+
+1. Sit tall
+2. Cross one leg or place hand on opposite knee
+3. Rotate toward that side
+4. Hold 15-20 seconds each side
+
+### Chin Tucks
+
+1. Pull chin straight back (double chin)
+2. Hold 5 seconds
+3. 10-15 reps
+4. Counteracts forward head posture
+
+### Shoulder Shrugs
+
+1. Raise shoulders toward ears
+2. Hold 5 seconds
+3. Drop and relax
+4. 10 reps
+5. Releases upper trap tension
+
+### Shoulder Blade Squeezes
+
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. 15-20 reps
+4. Fights rounded shoulders
+
+### Seated Cat-Cow
+
+1. Hands on knees
+2. Round back, tuck chin (cat)
+3. Arch back, lift chest (cow)
+4. 10 cycles
+
+### Wrist Circles
+
+1. Extend arms
+2. Circle wrists 10 times each direction
+3. Prevents carpal tunnel symptoms
+
+## Standing Desk Exercises
+
+If you have a standing desk or can stand up:
+
+### Calf Raises
+
+1. Rise up on toes
+2. Lower slowly
+3. 15-20 reps
+4. Improves circulation
+
+### Standing Hip Flexor Stretch
+
+1. Step one foot back
+2. Tuck tailbone under
+3. Feel stretch in front of hip
+4. Hold 30 seconds each side
+
+### Wall Push-Ups
+
+1. Hands on wall
+2. Lean in, push back
+3. 10-15 reps
+4. Activates upper body
+
+### Standing Back Extension
+
+1. Hands on lower back
+2. Lean backward gently
+3. Hold 5 seconds
+4. 5-10 reps
+
+### Standing Side Stretch
+
+1. Reach one arm overhead
+2. Lean away from raised arm
+3. Hold 15-20 seconds each side
+
+## Movement Break Routines
+
+### 2-Minute Break (Every Hour)
+
+1. Stand up
+2. Shoulder rolls: 10 forward, 10 back
+3. Chin tucks: 5 reps
+4. March in place: 30 seconds
+5. Standing hip flexor stretch: 15 sec each
+
+### 5-Minute Break (Every 2 Hours)
+
+1. Walk around: 1 min
+2. Standing back extension: 5 reps
+3. Neck stretches: 15 sec each direction
+4. Calf raises: 15 reps
+5. Shoulder blade squeezes: 15 reps
+6. Hip flexor stretch: 30 sec each
+7. Wrist circles: 10 each direction
+
+### 10-Minute Break (Lunch/Mid-Afternoon)
+
+1. Walk: 3 min
+2. Full neck routine (rotations, side bends): 2 min
+3. Standing stretches (chest, hips, calves): 3 min
+4. Squats or wall sit: 1 min
+5. Shoulder routine: 1 min
+
+## Preventing Specific Problems
+
+### For Neck Pain
+
+Do every 1-2 hours:
+- Chin tucks: 5-10 reps
+- Neck rotations: 3-5 each way
+- Upper trap stretch: 15 sec each
+
+### For Lower Back Pain
+
+Do every 1-2 hours:
+- Stand up and walk: 2 min
+- Standing back extension: 5 reps
+- Hip flexor stretch: 20 sec each
+- Pelvic tilts (seated or standing)
+
+### For Shoulder/Upper Back Pain
+
+Do every 1-2 hours:
+- Shoulder blade squeezes: 10 reps
+- Doorway chest stretch (if available): 20 sec
+- Shoulder rolls: 10 each direction
+- Wall angels (if space permits): 5 reps
+
+### For Wrist/Hand Pain
+
+Do every hour:
+- Wrist circles: 10 each direction
+- Finger stretches: spread wide, make fist
+- Prayer stretch: 15 seconds
+- Typing breaks: 30 sec rest
+
+## Desk Ergonomics
+
+Exercise helps, but setup matters too:
+
+### Monitor
+- Top of screen at eye level
+- 20-26 inches from face
+- No glare
+
+### Chair
+- Feet flat on floor
+- Knees at 90°
+- Back supported
+- Armrests support elbows
+
+### Keyboard/Mouse
+- Elbows at 90°
+- Wrists neutral (not bent)
+- Close to body
+
+### General
+- Take breaks every 30-60 minutes
+- Change positions regularly
+- Consider sit-stand desk
+
+## Making It Happen
+
+### Set Reminders
+
+- Phone alarm every hour
+- Computer notifications
+- Sticky note on monitor
+- Habit stack (after certain work tasks)
+
+### Start Small
+
+- One 2-min break per hour is achievable
+- Build from there
+- Consistency beats perfection
+
+### Involve Coworkers
+
+- Group stretch breaks
+- Walking meetings
+- Accountability partners
+
+## The Bottom Line
+
+1. **Move every hour** — Set reminders
+2. **Target problem areas** — Neck, back, hips
+3. **Counteract sitting** — Stretch what's tight, strengthen what's weak
+4. **Fix your setup** — Ergonomics prevent problems
+5. **Small consistent effort** — Minutes add up
+
+---
+
+*Foundational Rehab keeps office workers moving with simple, effective desk-friendly exercises.*
+    `
   }
 };
 

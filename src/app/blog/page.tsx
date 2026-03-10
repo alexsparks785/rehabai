@@ -4460,6 +4460,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Mobility',
     readTime: '5 min read'
+  },
+  {
+    slug: 'hamstring-stretches',
+    title: 'Hamstring Stretches: Relieve Tightness Safely',
+    excerpt: 'Static, dynamic, and PNF stretches for tight hamstrings.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-chronic-pain',
+    title: 'Exercises for Chronic Pain: Safe Movement Strategies',
+    excerpt: 'How to exercise safely and effectively with chronic pain.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'how-to-warm-up',
+    title: 'How to Warm Up Before Exercise: Complete Guide',
+    excerpt: 'Proper warm-up technique with dynamic stretches and movement prep.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-office-workers',
+    title: 'Exercises for Office Workers: Stay Active at Your Desk',
+    excerpt: 'At-desk exercises and movement breaks to combat sitting all day.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Routines',
+    readTime: '6 min read'
   }
 ];
 
