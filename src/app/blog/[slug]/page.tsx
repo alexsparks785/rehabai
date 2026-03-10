@@ -103318,6 +103318,976 @@ For most people, the answer is actually both — but strategically:
 
 *Foundational Rehab offers assessments to determine whether you need stretching, strengthening, or both.*
     `
+  },
+  'how-to-improve-ankle-mobility': {
+    title: 'How to Improve Ankle Mobility: Complete Guide for Better Movement',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Ankle Mobility Matters
+
+Limited ankle mobility affects your entire body:
+- Squat depth limited
+- Knee pain (compensating)
+- Lower back stress
+- Running mechanics compromised
+- Balance problems
+- Injury risk increased
+
+If you can't get your knee past your toes in a deep squat, ankle mobility is likely a factor.
+
+## How to Test Your Ankle Mobility
+
+### Wall Test (Knee-to-Wall)
+
+**How to:**
+- Face a wall, foot about 4 inches away
+- Keep heel down
+- Try to touch knee to wall
+- Move foot back until you can just barely touch
+
+**Normal:** 4-5 inches from wall
+**Limited:** Less than 4 inches
+**Good:** 5+ inches
+
+### Deep Squat Test
+
+**How to:**
+- Squat as deep as possible, feet hip-width
+- Heels must stay down
+- If heels lift, ankle mobility is limited
+
+## What Limits Ankle Mobility
+
+### Calf Tightness
+
+**Gastrocnemius:** The big calf muscle, crosses the knee
+**Soleus:** Deeper calf muscle, doesn't cross the knee
+
+Both need to be addressed differently.
+
+### Joint Capsule Restriction
+
+The ankle joint itself may be restricted from:
+- Past injuries
+- Lack of movement
+- Scar tissue
+
+### Bony Limitations
+
+Some people have bone structures that limit mobility. You can't stretch bone, but you can maximize what you have.
+
+## Calf Stretches (Foundation)
+
+### Gastrocnemius Stretch (Straight Knee)
+
+**How to:**
+- Face wall, hands on wall
+- Step one foot back, keep leg straight
+- Keep heel down, lean forward
+- Hold 45-60 seconds each side
+- 2-3 times daily
+
+### Soleus Stretch (Bent Knee)
+
+**How to:**
+- Same position as above
+- Bend back knee while keeping heel down
+- You'll feel it lower in the calf
+- Hold 45-60 seconds each side
+
+**Key:** You must do BOTH stretches. Gastrocnemius and soleus need different approaches.
+
+### Elevated Calf Stretch
+
+**How to:**
+- Stand on step, heels hanging off
+- Let heels drop below step level
+- Hold 30-60 seconds
+- Can do straight and bent knee versions
+
+## Joint Mobilizations
+
+### Banded Ankle Mobilization
+
+**How to:**
+- Resistance band anchored low
+- Band around front of ankle (just below the bump)
+- Step forward into lunge position
+- Drive knee forward and back
+- Band pulls joint back, creating space
+- 2 sets of 20 reps each side
+
+**Key:** This is the most effective exercise for true joint restriction.
+
+### Weight-Bearing Ankle Rocks
+
+**How to:**
+- Half-kneeling position
+- Rock forward, driving knee over toes
+- Keep heel down
+- 2 sets of 15-20 each side
+
+### Wall Knee Drives
+
+**How to:**
+- Face wall, foot a few inches back
+- Drive knee toward wall, past toes
+- Keep heel down
+- 2 sets of 15-20 each side
+
+## Soft Tissue Work
+
+### Calf Foam Rolling
+
+**How to:**
+- Sit with calf on foam roller
+- Roll from ankle to below knee
+- Pause on tender spots
+- Rotate leg in/out to get all angles
+- 60-90 seconds each leg
+
+### Lacrosse Ball to Soleus
+
+**How to:**
+- Sit on floor, knees bent
+- Lacrosse ball under calf (lower portion)
+- Cross other leg over for pressure
+- Move ball to find tight spots
+- 60 seconds each spot
+
+### Tibialis Anterior Release
+
+**How to:**
+- Foam roller or hands
+- Muscle on front/outside of shin
+- Roll or massage gently
+- 30-60 seconds each leg
+
+## Advanced Techniques
+
+### PNF Calf Stretching
+
+**How to:**
+- In calf stretch position
+- Push against wall with toes (contract calf) for 5-10 seconds
+- Relax and stretch deeper
+- Repeat 3-4 times
+
+More effective than static stretching alone.
+
+### Eccentric Calf Drops
+
+**How to:**
+- Stand on step, rise up on both feet
+- Shift weight to one foot
+- Lower slowly (3-5 seconds)
+- Rise with both feet, repeat
+- 3 sets of 15 each leg
+
+Builds strength and flexibility simultaneously.
+
+## Sample Daily Routine (10 Minutes)
+
+### Morning
+
+1. Calf foam rolling: 60 sec each
+2. Gastrocnemius stretch: 45 sec each
+3. Soleus stretch: 45 sec each
+4. Wall knee drives: 15 each
+
+### Before Squatting/Exercise
+
+1. Ankle rocks: 15 each side
+2. Banded mobilization: 20 each side
+3. Deep squat hold: 30 seconds
+
+## How Long for Results?
+
+**Week 1-2:** Feeling looser after mobility work
+
+**Week 3-4:** Measurable improvement in wall test
+
+**Week 5-8:** Noticeable difference in squat depth
+
+**Week 9-12:** Significant improvement consolidated
+
+**Ongoing:** Maintenance required (2-3x per week minimum)
+
+## Common Mistakes
+
+### Only Stretching
+
+Joint mobilization (banded work) is often more important than stretching for true ankle restriction.
+
+### Ignoring Soleus
+
+Most people only stretch with straight knee. Bent knee stretching is crucial.
+
+### Not Enough Frequency
+
+Ankle mobility needs daily work initially. Once a week won't cut it.
+
+### Forcing Range
+
+Pushing into pain doesn't help. Consistent, moderate work over time wins.
+
+## When Ankle Mobility Won't Improve
+
+If you've done consistent work for 6-8 weeks with no improvement:
+
+**Consider:**
+- Past ankle injury causing scar tissue
+- Bone spur or structural issue
+- Need for professional assessment
+- Accepting your structural limitation and working around it
+
+Some people have structural limitations that can't be stretched away. Heel lifts in shoes or elevating heels when squatting are valid workarounds.
+
+## The Bottom Line
+
+1. **Test yourself** — Know your baseline (wall test)
+2. **Stretch BOTH calf muscles** — Straight AND bent knee
+3. **Mobilize the joint** — Banded work is key
+4. **Daily initially** — Then 3x per week for maintenance
+5. **Takes time** — Expect 6-12 weeks for significant change
+
+---
+
+*Foundational Rehab offers ankle mobility programs with daily guidance and progress tracking.*
+    `
+  },
+  'exercises-for-truck-drivers': {
+    title: 'Exercises for Truck Drivers: Stay Healthy on the Road',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '6 min read',
+    content: `
+## The Trucker's Body Challenge
+
+Long-haul driving creates specific problems:
+- 10+ hours of sitting daily
+- Vibration stress on spine
+- Limited movement opportunities
+- Tight hip flexors and hamstrings
+- Weak glutes
+- Lower back pain (extremely common)
+- Neck and shoulder tension
+- Poor circulation
+
+The good news: Strategic exercises can help, even with limited time and space.
+
+## At the Truck Stop (10-15 Minutes)
+
+### The Essential Stop Routine
+
+Do this at every stop, minimum:
+
+**1. Walking (3-5 Minutes)**
+- Walk around the truck
+- Take a loop around the parking lot
+- Brisk pace to get blood flowing
+
+**2. Hip Flexor Stretch (2 Minutes)**
+- Use the truck step or wheel
+- Step one foot up, other leg back
+- Squeeze back glute, lean forward
+- 45 seconds each side
+
+This is the single most important stretch for drivers.
+
+**3. Standing Back Extension (1 Minute)**
+- Hands on lower back
+- Lean backward gently
+- Hold 5 seconds
+- 10 reps
+
+Counteracts the flexed driving position.
+
+**4. Shoulder Circles and Shrugs (1 Minute)**
+- Big arm circles: 10 each direction
+- Shoulder shrugs: 15 reps
+
+Releases upper body tension.
+
+**5. Leg Swings (1 Minute)**
+- Hold truck for balance
+- Swing leg forward and back: 15 each
+- Swing leg side to side: 10 each
+
+Gets hips moving after sitting.
+
+### Extended Stop Routine (When You Have Time)
+
+Add these for a more complete session:
+
+**Bodyweight Squats**
+- Feet shoulder-width
+- Squat as deep as comfortable
+- 20 reps
+
+**Calf Raises**
+- Use truck step for added range
+- Rise up, lower slowly
+- 20 reps
+
+**Torso Rotations**
+- Feet planted, rotate upper body
+- 15 each direction
+
+**Neck Stretches**
+- Tilt ear to shoulder: 20 sec each
+- Rotate and look over shoulder: 20 sec each
+
+## In the Cab (While Stopped)
+
+### Seated Exercises
+
+**Glute Squeezes**
+- Squeeze glutes like holding a pencil
+- Hold 5 seconds
+- 15-20 reps
+
+Keeps glutes active despite sitting.
+
+**Ankle Pumps and Circles**
+- Point and flex feet: 20 reps
+- Circles: 10 each direction
+
+Prevents blood pooling in legs.
+
+**Seated Knee Lifts**
+- Lift one knee toward chest
+- Lower slowly
+- 10 each leg
+
+Activates hip flexors and core.
+
+**Chin Tucks**
+- Pull chin back (make double chin)
+- Hold 5 seconds
+- 15 reps
+
+Counters forward head from watching the road.
+
+**Shoulder Blade Squeezes**
+- Squeeze shoulder blades together
+- Hold 5 seconds
+- 15 reps
+
+Counteracts rounded driving posture.
+
+## At the Hotel/Home (20-30 Minutes)
+
+### The Full Recovery Routine
+
+**Foam Rolling (5 Minutes)**
+- If you carry a roller or ball
+- Back: 2 minutes
+- Glutes: 1 minute each side
+- Calves: 30 seconds each
+
+**Stretching (10 Minutes)**
+- Hip flexor stretch: 60 sec each
+- Hamstring stretch: 45 sec each
+- Chest stretch (doorway): 45 sec each
+- Upper trap stretch: 30 sec each
+- Figure-4 glute stretch: 45 sec each
+
+**Strengthening (10 Minutes)**
+- Glute bridges: 3x15
+- Dead bugs: 3x10 each side
+- Bird dogs: 3x10 each side
+- Wall push-ups: 3x15
+- Bodyweight squats: 3x15
+
+### Minimal Equipment Options
+
+**Resistance bands:** Pack light, highly effective
+- Band pull-aparts for upper back
+- Banded squats for legs
+- Band rows for back
+
+**Lacrosse ball:** For trigger point work
+- Works better than foam roller in tight spaces
+
+## Prevention: Cab Ergonomics
+
+### Seat Position
+
+- Seat close enough to reach pedals without stretching
+- Back supported, slight recline (100-110°)
+- Lumbar support (built-in or add-on)
+- Headrest at mid-head height
+
+### Steering Position
+
+- Arms slightly bent when holding wheel
+- Shoulders relaxed, not shrugged
+- Wrists neutral
+
+### Mirror Adjustments
+
+- Minimize neck turning
+- Set mirrors to reduce twisting
+
+### Lumbar Support
+
+- If seat doesn't have good support, add a roll
+- Rolled towel or small pillow works
+- Position at lower back curve
+
+## During Driving
+
+### Movement Snacks
+
+Every 30-60 minutes:
+- Glute squeezes: 10 reps
+- Ankle pumps: 20 reps
+- Shoulder shrugs: 10 reps
+- Shift sitting position
+
+### Posture Checks
+
+Hourly reminders:
+- Chin tucked
+- Shoulders back
+- Core lightly engaged
+- Weight even on both sit bones
+
+## Common Trucker Issues and Solutions
+
+### Lower Back Pain
+
+**Causes:** Prolonged sitting, vibration, weak core
+
+**Solutions:**
+- Lumbar support
+- Frequent stops
+- Hip flexor stretching
+- Core strengthening
+- Consider seat cushion
+
+### Sciatica
+
+**Causes:** Sitting pressure on nerves, disc issues
+
+**Solutions:**
+- Cushion that reduces pressure on sciatic nerve
+- Standing/walking breaks
+- Hip and piriformis stretching
+- See a professional if severe
+
+### Neck Pain
+
+**Causes:** Forward head posture, tension
+
+**Solutions:**
+- Chin tucks
+- Proper mirror positioning
+- Neck stretches at stops
+- Upper back strengthening
+
+### Leg Circulation Issues
+
+**Causes:** Prolonged sitting, blood pooling
+
+**Solutions:**
+- Ankle pumps while driving
+- Walk at every stop
+- Compression socks (consider them)
+- Hydrate adequately
+
+## The Bottom Line
+
+1. **Every stop matters** — 5-10 minutes of movement adds up
+2. **Hip flexors are priority** — Stretch them at every opportunity
+3. **Move in the cab** — Glute squeezes, ankle pumps
+4. **Ergonomics matter** — Good seat position prevents problems
+5. **Consistency wins** — Small frequent efforts beat occasional big workouts
+
+---
+
+*Foundational Rehab offers trucker-specific mobility programs designed for life on the road.*
+    `
+  },
+  'is-cracking-your-neck-bad': {
+    title: 'Is Cracking Your Neck Bad? Safety, Risks, and Alternatives',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Quick Answer
+
+Gentle, occasional neck cracking is probably fine for most people. But aggressive, frequent, or forceful neck manipulation carries real risks and should be avoided.
+
+The neck is different from the back — it's more vulnerable and the consequences of problems are more severe.
+
+## What Happens When Your Neck Cracks
+
+### Cavitation (Usually)
+
+The pop is typically gas bubbles releasing from joint fluid:
+- Normal joint physiology
+- Harmless in itself
+- Provides temporary relief
+
+### Other Sounds
+
+Sometimes it's:
+- Tendons or ligaments moving over bone
+- Facet joints shifting
+- Usually also harmless
+
+## The Risks of Neck Cracking
+
+### Vertebral Artery Dissection
+
+**The serious risk:**
+
+The vertebral arteries run through your neck to supply blood to your brain. Aggressive rotation can damage them:
+- Tear in artery wall
+- Can cause stroke
+- Rare but documented
+- More common with forceful manipulation
+
+**Risk factors:**
+- Aggressive, forceful cracking
+- High-velocity rotation
+- Having someone else do it
+- Connective tissue disorders
+- History of neck trauma
+
+### Hypermobility Over Time
+
+Frequent cracking may:
+- Stretch ligaments
+- Create joint laxity
+- Make you need to crack more often
+- Reduce natural stability
+
+### Muscle Guarding
+
+Aggressive cracking can:
+- Trigger muscle spasms
+- Increase tension (opposite of intended effect)
+- Create a cycle of tension-crack-tension
+
+## Safe vs. Unsafe Neck Movement
+
+### Generally Safe
+
+- Gentle neck rotations (looking over shoulder)
+- Slow tilting side to side
+- Movement that happens naturally
+- Occasional, unforced cracking
+
+### Avoid
+
+- Forceful, rapid rotation
+- Twisting neck to extreme ranges
+- Using hands to force movement
+- Having friends "adjust" your neck
+- Frequent, habitual cracking
+- Cracking through pain
+
+## What to Do Instead
+
+### Gentle Neck Mobility
+
+**Chin Tucks**
+- Pull chin straight back
+- Hold 5 seconds
+- 15-20 reps
+
+Often relieves the urge to crack better than cracking.
+
+**Slow Neck Rotations**
+- Turn head slowly side to side
+- Don't force end range
+- 10 each direction
+
+**Neck Tilts**
+- Tilt ear toward shoulder (don't force)
+- Hold 10-15 seconds
+- Repeat other side
+
+**Neck Circles**
+- Very slow, small circles
+- Both directions
+- Not appropriate if you have neck issues
+
+### Stretches for Neck Tension
+
+**Upper Trap Stretch**
+- Tilt head away from tight side
+- Gentle hand pressure
+- Hold 30 seconds
+
+**Levator Scapulae Stretch**
+- Look down toward opposite armpit
+- Gentle overpressure
+- Hold 30 seconds
+
+**Scalene Stretch**
+- Tilt head away
+- Reach same-side hand toward floor
+- Hold 30 seconds
+
+### Strengthening
+
+Often the best long-term solution for neck that constantly wants to crack:
+
+**Deep Neck Flexor Strengthening**
+- Lie on back, small towel roll under neck
+- Tuck chin, press head gently into floor
+- Hold 10 seconds, 10 reps
+
+**Isometric Holds**
+- Hand on forehead, resist pushing forward
+- Hand on side, resist tilting
+- Hold 5 seconds, 10 reps each direction
+
+### Address Root Causes
+
+**If your neck constantly feels like it needs cracking:**
+
+- Improve workstation ergonomics
+- Check pillow and sleep position
+- Address posture (chin tucks)
+- Strengthen neck muscles
+- Manage stress (causes tension)
+- See a professional if persistent
+
+## When Cracking Happens Naturally
+
+If your neck cracks during normal movement (looking over your shoulder, morning stretch):
+- Usually fine
+- Doesn't carry the risks of forced manipulation
+- No need to worry about occasional natural pops
+
+## When to See a Professional
+
+**See someone if:**
+- Constant urge to crack (suggests underlying problem)
+- Pain accompanies cracking
+- Numbness or tingling in arms
+- Headaches related to neck
+- Limited range of motion
+- History of neck injury
+
+**What they might do:**
+- Assess what's actually wrong
+- Provide safe manual therapy if appropriate
+- Identify contributing factors
+- Give you specific exercises
+
+## The Habit Loop
+
+If neck cracking has become a habit:
+
+### Why It Feels Good
+
+- Endorphin release
+- Temporary tension relief
+- Nervous system reset
+- Satisfying sensation
+
+### Breaking the Habit
+
+1. **Replace it:** When you feel the urge, do chin tucks instead
+2. **Address the cause:** Why does it feel like it needs cracking?
+3. **Strengthen:** Strong neck muscles reduce the urge
+4. **Be patient:** Habits take time to change
+
+## The Bottom Line
+
+1. **Gentle, occasional = probably fine** — Don't panic about natural pops
+2. **Forceful, frequent = avoid** — Real risks with aggressive manipulation
+3. **Neck is different from back** — More vulnerable anatomy
+4. **Alternatives exist** — Stretches, strengthening, mobility work
+5. **Constant urge = see someone** — May indicate underlying issue
+
+---
+
+*Foundational Rehab offers neck health programs to reduce tension without risky manipulation.*
+    `
+  },
+  'best-exercises-for-lower-back-pain': {
+    title: 'Best Exercises for Lower Back Pain: Evidence-Based Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '7 min read',
+    content: `
+## The Truth About Back Pain Exercise
+
+Exercise is the most effective treatment for most lower back pain. Research consistently shows:
+- Exercise works better than rest
+- Movement reduces pain and disability
+- Specific exercises aren't necessarily better than general movement
+- Consistency matters more than exercise choice
+
+But some exercises help more than others for specific situations.
+
+## First: Know Your Direction Preference
+
+### Extension-Biased (Most Common)
+
+**You might be extension-biased if:**
+- Pain is worse with sitting or bending forward
+- Pain improves with standing, walking, or arching back
+- Morning stiffness improves with movement
+- Pain centralizes (moves toward spine) with extension
+
+**Best exercises:** Back extensions, press-ups, prone lying
+
+### Flexion-Biased
+
+**You might be flexion-biased if:**
+- Pain is worse with standing or walking
+- Pain improves with sitting or bending forward
+- Extension (arching back) makes pain worse
+- Often associated with spinal stenosis
+
+**Best exercises:** Knees-to-chest, posterior pelvic tilts, flexion stretches
+
+### Neutral/Both
+
+Many people do well with both directions at different times. Listen to your body.
+
+## The Core Foundation Exercises
+
+### Bird Dog
+
+**Why it works:** Builds stability without loading the spine
+
+**How to:**
+- On hands and knees
+- Extend opposite arm and leg
+- Keep spine neutral (don't arch)
+- Hold 3-5 seconds
+- 10 reps each side, 2-3 sets
+
+### Dead Bug
+
+**Why it works:** Anti-extension core training
+
+**How to:**
+- On back, arms up, knees at 90°
+- Press lower back into floor
+- Extend opposite arm and leg
+- Return, switch sides
+- 10 reps each side, 2-3 sets
+
+**Key:** If your back arches, you've gone too far.
+
+### Modified Side Plank
+
+**Why it works:** Lateral stability, QL and obliques
+
+**How to:**
+- Lie on side, elbow under shoulder
+- Knees bent at 90° (modified version)
+- Lift hips off floor
+- Hold 15-30 seconds each side
+- 3 sets each side
+
+Progress to full side plank when ready.
+
+### Glute Bridges
+
+**Why it works:** Activates glutes, which often "go to sleep" with back pain
+
+**How to:**
+- On back, feet flat, knees bent
+- Squeeze glutes and lift hips
+- Hold top 2-3 seconds
+- Lower with control
+- 15-20 reps, 2-3 sets
+
+## Extension Exercises (If Extension Helps You)
+
+### Prone Press-Ups (McKenzie)
+
+**Why it works:** Centralizes pain, restores extension mobility
+
+**How to:**
+- Lie face down
+- Place hands under shoulders
+- Press up, keeping hips on floor
+- Let back arch
+- Return to start
+- 10 reps, repeat hourly if helpful
+
+**Key:** Pain should centralize (move toward spine) or decrease. If peripheralizing (spreading), stop.
+
+### Standing Back Extension
+
+**Why it works:** Easy to do anywhere, counteracts sitting
+
+**How to:**
+- Stand with hands on lower back
+- Lean back gently
+- Hold 2-3 seconds
+- 10 reps, several times daily
+
+### Prone Lying
+
+**Why it works:** Passive extension, good for acute pain
+
+**How to:**
+- Lie face down
+- Arms by sides or hands under forehead
+- Relax completely
+- Stay 5-10 minutes if comfortable
+
+## Flexion Exercises (If Flexion Helps You)
+
+### Knees to Chest
+
+**Why it works:** Opens spinal canal, stretches extensors
+
+**How to:**
+- On back, pull one knee to chest
+- Hold 20-30 seconds
+- Repeat with other knee
+- Can do both knees together
+
+### Posterior Pelvic Tilts
+
+**Why it works:** Activates abs, reduces lumbar curve
+
+**How to:**
+- On back, knees bent
+- Flatten lower back into floor
+- Hold 5 seconds
+- 15-20 reps
+
+### Child's Pose
+
+**Why it works:** Gentle flexion stretch
+
+**How to:**
+- Kneel, sit back on heels
+- Reach arms forward, chest toward floor
+- Hold 30-60 seconds
+
+## Hip Exercises (Often Key to Back Pain)
+
+### Hip Flexor Stretch
+
+**Why it works:** Tight hip flexors tilt pelvis and stress lower back
+
+**How to:**
+- Kneeling lunge position
+- Tuck pelvis, squeeze back glute
+- Lean forward
+- 45-60 seconds each side, daily
+
+### Piriformis Stretch
+
+**Why it works:** Tight piriformis can contribute to back and sciatic pain
+
+**How to:**
+- On back, cross ankle over opposite knee
+- Pull bottom leg toward chest
+- 45-60 seconds each side
+
+### 90/90 Hip Stretch
+
+**Why it works:** Addresses multiple hip rotators
+
+**How to:**
+- Sit with legs in 90/90 position
+- Lean forward over front leg
+- 45-60 seconds each side
+
+## Walking
+
+The most underrated back exercise:
+- Gentle movement
+- Promotes blood flow
+- Reduces stiffness
+- Low risk
+- Free and accessible
+
+**Recommendation:** 20-30 minutes daily, or as tolerated
+
+## What NOT to Do
+
+### Avoid (Especially When Acute)
+
+- Sit-ups and crunches (spine flexion under load)
+- Leg raises with back arched
+- Heavy deadlifts (until recovered)
+- Toe touches (loaded flexion)
+- Twisting under load
+
+### Be Careful With
+
+- Any exercise that makes pain peripheralize (spread away from spine)
+- Exercises that increase pain for more than 24 hours
+- Pushing through sharp pain
+
+## Sample Daily Routine
+
+### Morning (5 Minutes)
+
+1. Cat-cow: 10 reps (gentle)
+2. Knees to chest: 20 seconds each
+3. Bird dog: 8 each side
+
+### Throughout Day
+
+- Walking: accumulate 20+ minutes
+- Standing extensions: 5 reps every hour
+- Position changes: every 30 minutes
+
+### Evening (10 Minutes)
+
+1. Hip flexor stretch: 45 sec each
+2. Piriformis stretch: 45 sec each
+3. Dead bugs: 10 each side
+4. Glute bridges: 15 reps
+5. Side plank: 20 sec each side
+6. Cat-cow: 10 reps (wind down)
+
+## When to Progress
+
+Once acute pain subsides:
+- Gradually increase exercise difficulty
+- Add resistance to bridges (single leg, banded)
+- Progress planks and bird dogs
+- Consider gym exercises (properly progressed deadlifts, squats)
+- Build general fitness
+
+## When Exercises Aren't Helping
+
+See a professional if:
+- No improvement after 2-4 weeks of consistent exercise
+- Pain is severe or getting worse
+- Numbness, tingling, or weakness in legs
+- Loss of bladder or bowel control (emergency)
+- Pain after trauma
+
+## The Bottom Line
+
+1. **Movement is medicine** — Exercise beats rest for most back pain
+2. **Find your direction** — Extension or flexion preference matters
+3. **Core stability first** — Bird dogs, dead bugs, bridges
+4. **Hips matter** — Don't ignore hip flexors and rotators
+5. **Walk daily** — Simple and effective
+6. **Be consistent** — 10 minutes daily beats 60 minutes weekly
+
+---
+
+*Foundational Rehab offers personalized lower back pain programs based on your specific needs.*
+    `
   }
 };
 
