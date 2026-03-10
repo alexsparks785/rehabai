@@ -99420,6 +99420,920 @@ Whether you train BJJ, Muay Thai, karate, or MMA, you need:
 
 *Foundational Rehab supports martial artists with strength and mobility programs.*
     `
+  },
+  'exercises-after-sitting-all-day': {
+    title: 'Exercises After Sitting All Day: Undo 8+ Hours at a Desk',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '6 min read',
+    content: `
+## The Sitting Problem
+
+8+ hours of sitting creates predictable patterns:
+- Tight hip flexors (shortened all day)
+- Weak glutes (not working)
+- Rounded upper back
+- Forward head posture
+- Stiff thoracic spine
+- Compressed lower back
+
+You can't out-exercise a full day of sitting, but you can significantly reduce its impact.
+
+## Immediately After Work (5-10 Minutes)
+
+### 1. Standing Hip Flexor Stretch
+
+Your hip flexors have been shortened all day. Open them up:
+
+**How to do it:**
+- Step into a lunge, back knee down
+- Tuck your pelvis (flatten lower back)
+- Lean forward slightly
+- Squeeze your back glute
+- Hold 60 seconds each side
+
+**Key:** The glute squeeze makes this work. Without it, you're not actually stretching the hip flexor.
+
+### 2. Thoracic Extension Over Chair
+
+Counter the desk hunch:
+
+**How to do it:**
+- Kneel in front of a chair or couch
+- Place elbows on the surface
+- Drop your chest toward the floor
+- Hold 30-60 seconds
+- Breathe into your upper back
+
+### 3. Chest Doorway Stretch
+
+Open your pec muscles:
+
+**How to do it:**
+- Stand in doorway, forearm on frame
+- Arm at 90° angle
+- Step forward and rotate away
+- Hold 30 seconds each side
+- Try at different arm heights
+
+### 4. Glute Bridges
+
+Wake up your glutes:
+
+**How to do it:**
+- Lie on back, feet flat, knees bent
+- Squeeze glutes and lift hips
+- Hold top for 3 seconds
+- Slow lower
+- 15-20 reps
+
+### 5. Cat-Cow Stretches
+
+Move your entire spine:
+
+**How to do it:**
+- On hands and knees
+- Arch back, head up (cow)
+- Round back, tuck chin (cat)
+- Flow between for 10 reps
+- Move slowly, feel each segment
+
+## The Full Post-Work Reset (15-20 Minutes)
+
+If you have more time, add these:
+
+### World's Greatest Stretch
+
+The ultimate all-in-one movement:
+
+**How to do it:**
+- Lunge forward, back leg straight
+- Place opposite hand on floor
+- Rotate and reach up
+- Hold 3 seconds, return
+- 5 each side
+
+### 90/90 Hip Stretch
+
+Address both internal and external rotation:
+
+**How to do it:**
+- Sit with both legs at 90° angles
+- Front leg externally rotated
+- Back leg internally rotated
+- Lean forward over front leg
+- Hold 60 seconds, switch sides
+
+### Wall Angels
+
+Improve shoulder mobility and posture:
+
+**How to do it:**
+- Stand with back flat against wall
+- Arms at 90° (goal post position)
+- Slide arms up and down
+- Keep lower back, head, arms touching wall
+- 10-15 slow reps
+
+### Dead Bug
+
+Activate your deep core:
+
+**How to do it:**
+- Lie on back, arms up, knees at 90°
+- Press lower back into floor
+- Slowly extend opposite arm and leg
+- Keep back flat throughout
+- 10 each side
+
+### Couch Stretch
+
+Deep hip flexor release:
+
+**How to do it:**
+- Back knee against couch/wall
+- Front foot forward in lunge
+- Stay upright, squeeze glute
+- Hold 60-90 seconds each side
+- Brutal but effective
+
+## Movement Snacks During the Day
+
+Don't wait until after work. Every 30-60 minutes:
+
+**30-Second Options:**
+- Stand and reach overhead
+- Hip circles (10 each direction)
+- Shoulder rolls (10 each direction)
+- Neck tilts (hold 10 seconds each side)
+- Seated spinal twist
+
+**2-Minute Options:**
+- Walk to get water
+- Standing hip flexor stretch
+- Wall push-ups (10 reps)
+- Bodyweight squats (10 reps)
+- Desk push-aways (chair back extensions)
+
+## The Evening Walk
+
+After your stretching routine:
+
+**Why it helps:**
+- Further opens hip flexors through movement
+- Gets blood flowing to tight muscles
+- Reduces stress (compound effect of sitting)
+- Improves sleep quality
+
+**Minimum:** 10-15 minute walk after work
+**Ideal:** 30 minutes of walking
+
+## Long-Term Solutions
+
+### Morning Routine (5 Minutes)
+
+Start your day with:
+- Cat-cow stretches (10 reps)
+- Hip flexor stretch (30 sec each)
+- Thoracic rotations (10 each way)
+- Glute bridges (15 reps)
+
+This "pre-loads" your body before the sitting assault.
+
+### Standing Desk Strategy
+
+If you have one:
+- Alternate sit/stand every 30-60 minutes
+- Standing doesn't fix everything — still move
+- Consider a balance board or stepping stool
+
+### Strength Training
+
+The real long-term fix:
+- Strong glutes counteract sitting
+- Strong upper back resists hunching
+- Strong core supports your spine
+- 2-3 sessions per week minimum
+
+## Red Flags
+
+See a professional if:
+- Numbness or tingling in legs
+- Sharp pain with movement
+- Pain doesn't improve with stretching
+- Significant pain with standing/walking
+
+## The Bottom Line
+
+1. **Do something immediately** — 5 minutes post-work beats nothing
+2. **Hip flexors and glutes** — The biggest sitting victims
+3. **Movement snacks** — Break up the sitting all day
+4. **Walk after work** — Simple but powerful
+5. **Long-term** — Strength training is the real solution
+
+---
+
+*Foundational Rehab offers desk worker recovery programs to combat the effects of prolonged sitting.*
+    `
+  },
+  'herniated-disc-recovery-timeline': {
+    title: 'Herniated Disc Recovery Timeline: What to Expect Week by Week',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## The Honest Truth About Recovery
+
+Most herniated discs improve significantly within 6-12 weeks with conservative care. But "improve" doesn't mean "100% better" — it means manageable, functional, and continuing to heal.
+
+**Key stat:** 90% of herniated discs resolve without surgery.
+
+## Understanding Your Injury
+
+### What Actually Happened
+
+The outer ring of your disc (annulus) tore, allowing the inner gel (nucleus) to bulge or leak out. This can press on nerve roots, causing pain, numbness, or weakness.
+
+### Healing Happens
+
+Contrary to popular belief, discs do heal:
+- The body reabsorbs some of the herniated material
+- Inflammation reduces over time
+- Nerves adapt to the new environment
+- Scar tissue forms and stabilizes
+
+## Week-by-Week Timeline
+
+### Weeks 1-2: Acute Phase
+
+**What to expect:**
+- Significant pain (often severe)
+- Possible radiating symptoms (sciatica if lumbar, arm pain if cervical)
+- Difficulty finding comfortable positions
+- Muscle guarding and spasms
+
+**What to do:**
+- Rest from aggravating activities (not bed rest)
+- Find positions of comfort (often lying with knees bent)
+- Ice or heat — whichever helps you
+- Anti-inflammatories if appropriate (ask your doctor)
+- Gentle walking if tolerable
+
+**What NOT to do:**
+- Complete bed rest (makes things worse)
+- Heavy lifting or bending
+- Sitting for long periods
+- High-impact exercise
+- Ignore severe symptoms (see red flags below)
+
+### Weeks 3-4: Early Recovery
+
+**What to expect:**
+- Pain starts decreasing (not linear — good days and bad days)
+- Radiating symptoms may begin to "centralize" (move toward spine)
+- More positions become tolerable
+- Still significant limitations
+
+**What to do:**
+- Start gentle movement (McKenzie exercises if they help)
+- Short walks (gradually increase)
+- Avoid prolonged sitting
+- Continue managing inflammation
+
+**Signs of progress:**
+- Leg/arm pain reduces or moves closer to spine
+- Longer periods without severe pain
+- Better sleep
+
+### Weeks 5-8: Active Recovery
+
+**What to expect:**
+- Noticeable improvement for most people
+- Can return to many daily activities
+- Exercise tolerance improving
+- Some residual symptoms common
+
+**What to do:**
+- Begin structured exercise program
+- Core stability exercises (bird dog, dead bug)
+- Walking program (20-30+ minutes)
+- Light swimming or aquatic exercise
+- Avoid sitting still for hours
+
+**Activities to add gradually:**
+- Light household tasks
+- Easy cycling (if tolerated)
+- Gentle stretching
+- Bodyweight exercises
+
+**Still avoid:**
+- Heavy lifting
+- Running/jumping
+- Aggressive stretching
+- Prolonged sitting
+
+### Weeks 9-12: Progressive Loading
+
+**What to expect:**
+- Major improvement in most cases
+- Able to do most daily activities
+- Can start returning to exercise
+- May still have some symptoms
+
+**What to do:**
+- Progress to resistance training (light weights)
+- Longer walks or light jogging if ready
+- Continue core strengthening
+- Practice proper lifting mechanics
+
+**Milestones:**
+- Can sit through a meal/movie
+- Walking 30+ minutes comfortably
+- Returning to work (or modified work)
+- Light exercise without flare-ups
+
+### Months 3-6: Return to Normal
+
+**What to expect:**
+- Significant recovery for most people
+- Can return to most activities
+- Periodic reminders (stiffness, occasional pain)
+- Strength and conditioning rebuilding
+
+**What to do:**
+- Full exercise program (with good form)
+- Sport-specific training if applicable
+- Ongoing core maintenance
+- Smart training choices (avoid unnecessary risks)
+
+**Limitations may remain:**
+- Heavy deadlifts might not be wise
+- First thing in morning — spine still vulnerable
+- Long car rides may need breaks
+- Some positions might always be uncomfortable
+
+### Months 6-12: Full Recovery
+
+**What to expect:**
+- Near-complete recovery for most
+- Occasional flare-ups possible
+- Need ongoing maintenance
+- Some adapt completely; others have residual symptoms
+
+**Maintenance:**
+- Regular exercise (especially core)
+- Good posture habits
+- Proper lifting mechanics
+- Listen to warning signs
+
+## Factors That Affect Recovery
+
+### Faster Recovery
+
+- Younger age
+- Good overall fitness
+- Non-smoker
+- Smaller herniation
+- Early appropriate treatment
+- Good compliance with rehab
+
+### Slower Recovery
+
+- Larger herniation
+- Significant nerve compression
+- Older age
+- Sedentary lifestyle
+- Smoking
+- Obesity
+- Poor compliance with treatment
+
+## Red Flags (Seek Immediate Help)
+
+**Emergency symptoms:**
+- Loss of bladder or bowel control
+- Saddle numbness (around groin/inner thighs)
+- Rapidly worsening weakness
+- Severe, uncontrolled pain
+
+These could indicate cauda equina syndrome — a surgical emergency.
+
+**See a doctor if:**
+- Symptoms not improving after 6 weeks
+- Significant weakness developing
+- Unable to work or function
+- Night pain that won't let you sleep
+
+## When Surgery Might Be Needed
+
+Surgery is considered if:
+- Conservative treatment fails after 6-12 weeks
+- Significant, progressive weakness
+- Unbearable pain despite treatment
+- Cauda equina syndrome
+
+**Surgery success rates:**
+- 85-90% have significant improvement
+- Best outcomes: large disc with clear nerve compression
+- Surgery doesn't guarantee 100% recovery
+
+## The Bottom Line
+
+1. **Most herniated discs heal** — 90% without surgery
+2. **6-12 weeks** — Typical improvement timeline
+3. **Progress isn't linear** — Expect good and bad days
+4. **Keep moving** — Controlled movement helps healing
+5. **Core strength** — Your long-term protection
+6. **Watch for red flags** — Some symptoms need immediate attention
+
+---
+
+*Foundational Rehab offers structured herniated disc recovery programs with week-by-week guidance.*
+    `
+  },
+  'hip-flexor-strain-recovery': {
+    title: 'Hip Flexor Strain Recovery: Complete Healing Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: `
+## Understanding Hip Flexor Strains
+
+Hip flexor strains happen when the muscles at the front of your hip (primarily iliopsoas and rectus femoris) are overstretched or torn. Common in:
+- Runners and sprinters
+- Soccer/football players
+- Martial artists
+- Anyone who sits a lot then exercises intensely
+
+## Strain Grades
+
+### Grade 1 (Mild)
+- Minor fiber damage
+- Pain with activity but can continue
+- Minimal strength loss
+- Recovery: 1-3 weeks
+
+### Grade 2 (Moderate)
+- Partial tear of muscle fibers
+- Significant pain, especially with resistance
+- Noticeable weakness
+- May have bruising
+- Recovery: 4-8 weeks
+
+### Grade 3 (Severe)
+- Complete tear or rupture
+- Severe pain and weakness
+- Usually can't walk normally
+- Visible deformity possible
+- Recovery: 3+ months, may need surgery
+
+## Phase 1: Acute Phase (Days 1-7)
+
+### Goals
+- Protect the injury
+- Reduce inflammation
+- Maintain some movement
+
+### What to Do
+
+**PRICE Protocol:**
+- **P**rotect — Avoid aggravating movements
+- **R**est — Relative rest (not complete inactivity)
+- **I**ce — 15-20 minutes, several times daily
+- **C**ompression — If swelling present
+- **E**levation — Lying with legs slightly elevated
+
+**Gentle Movement:**
+- Walking (if tolerable) — short distances
+- Gentle knee lifts while lying down
+- Avoid stretching the hip flexor (too early)
+
+**What to Avoid:**
+- Running, sprinting, kicking
+- Deep lunges or hip extension
+- Aggressive stretching
+- Sitting for long periods (shortens hip flexors)
+
+## Phase 2: Early Rehab (Weeks 1-2)
+
+### Goals
+- Restore basic range of motion
+- Begin gentle strengthening
+- Progress walking
+
+### Exercises
+
+**Supine Knee Slides**
+- Lie on back, slide heel toward buttock
+- Keep movement pain-free
+- 10-15 reps, 3 sets
+
+**Gentle Hip Circles**
+- Lie on back, knee toward chest
+- Small circles with knee
+- 10 each direction, 3 sets
+
+**Isometric Hip Flexion**
+- Sit with knee at 90°
+- Press thigh into hand (don't move)
+- Hold 5-10 seconds
+- 10 reps, 3 sets
+
+**Standing Weight Shifts**
+- Stand with feet hip-width
+- Shift weight side to side
+- Progress to single-leg stance
+
+### Signs You Can Progress
+- Walking is comfortable
+- Minimal pain at rest
+- Can do isometrics without sharp pain
+
+## Phase 3: Strengthening (Weeks 2-4)
+
+### Goals
+- Build hip flexor strength
+- Restore full range of motion
+- Begin activity-specific movements
+
+### Exercises
+
+**Seated Knee Raises**
+- Sit in chair
+- Lift knee toward chest
+- Slow and controlled
+- 3 x 10-15
+
+**Standing Knee Raises**
+- Stand holding support
+- Lift knee to hip height
+- Control the lowering
+- 3 x 10 each leg
+
+**Supine Straight Leg Raises**
+- Lie on back, one knee bent
+- Raise straight leg to 45°
+- Hold 3 seconds, lower slowly
+- 3 x 10
+
+**Psoas March**
+- Lie on back, both knees up
+- Slowly lower one foot to floor
+- Return and switch
+- 3 x 10 each side
+
+### Gentle Stretching (If No Pain)
+
+**Kneeling Hip Flexor Stretch**
+- Light stretch only
+- Hold 20-30 seconds
+- No forcing or bouncing
+- Stop if painful
+
+**Prone Quad Stretch**
+- Lie face down
+- Bend knee, reach back for ankle
+- Light stretch only
+
+## Phase 4: Functional Rehab (Weeks 4-6)
+
+### Goals
+- Return to activity-specific movements
+- Build power and endurance
+- Prevent re-injury
+
+### Exercises
+
+**Walking Lunges**
+- Start with short stride
+- Progress stride length as tolerated
+- 3 x 10 each leg
+
+**Step-Ups**
+- Start with low step (6 inches)
+- Drive knee up at top
+- Progress step height
+- 3 x 10 each leg
+
+**Resistance Band Hip Flexion**
+- Band around ankle
+- March in place against resistance
+- 3 x 15 each leg
+
+**Mountain Climbers (Slow)**
+- Plank position
+- Alternate bringing knees to chest
+- Controlled movement
+- 3 x 10 each leg
+
+## Phase 5: Return to Sport (Weeks 6+)
+
+### Progression
+
+**Week 6-7:**
+- Light jogging (start with 50% speed)
+- Sport-specific drills at low intensity
+- Continue strengthening
+
+**Week 7-8:**
+- Increase speed to 75%
+- Add direction changes
+- Sport-specific movements
+
+**Week 8+:**
+- Gradual return to full activity
+- Monitor for any recurrence
+- Maintain flexibility and strength program
+
+### Return Criteria
+- Full range of motion
+- Equal strength both sides
+- No pain with sport-specific movements
+- Passes functional tests (single-leg hop, sprint)
+
+## Prevention (Crucial)
+
+### Why Hip Flexors Strain
+
+1. **Tight AND weak** — Sitting shortens and weakens them
+2. **Sudden explosive movement** — Sprinting without warm-up
+3. **Overuse** — Running volume increases too fast
+4. **Weak core** — Hip flexors compensate
+
+### Prevention Strategy
+
+**Daily:**
+- Hip flexor stretching (30-60 seconds each side)
+- Movement breaks if desk job
+
+**Before Exercise:**
+- Dynamic warm-up (leg swings, high knees)
+- Gradual intensity increase
+- Never sprint cold
+
+**Training:**
+- Strengthen hip flexors (not just stretch)
+- Core stability exercises
+- Progress training gradually (10% rule)
+
+**Strength Exercises:**
+- Hanging knee raises
+- Cable hip flexion
+- Psoas marches
+- Single-leg deadlifts
+
+## The Bottom Line
+
+1. **Grade matters** — Mild strains heal fast; severe strains take months
+2. **Don't stretch too early** — Strengthening is priority
+3. **Progress gradually** — Each phase prepares for the next
+4. **Prevention is key** — Strengthen, not just stretch
+5. **Full recovery is possible** — Most return to full activity
+
+---
+
+*Foundational Rehab offers hip flexor recovery programs with daily guidance and progression tracking.*
+    `
+  },
+  'exercises-for-gamers': {
+    title: 'Exercises for Gamers: Combat the Effects of Long Gaming Sessions',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '6 min read',
+    content: `
+## The Gamer Body Problem
+
+Gaming for hours creates specific issues:
+- Wrist and hand strain (mouse/controller use)
+- Neck and upper back tension (looking at screen)
+- Hip flexor tightness (prolonged sitting)
+- Eye strain (screen focus)
+- Rounded shoulders (reaching forward)
+- Lower back pain (poor posture)
+
+Professional esports athletes now have physical trainers. You should too.
+
+## Hand and Wrist Care (Critical)
+
+Gaming puts enormous stress on hands and wrists. Carpal tunnel, tendonitis, and "gamer's thumb" are real injuries.
+
+### Wrist Circles
+- Extend arms forward
+- Make slow circles with wrists
+- 10 each direction
+- Do between matches
+
+### Prayer Stretch
+- Press palms together
+- Lower hands while keeping palms pressed
+- Hold 30 seconds
+- Opens the wrist flexors
+
+### Reverse Prayer Stretch
+- Press backs of hands together
+- Raise hands while keeping them pressed
+- Hold 30 seconds
+- Opens the wrist extensors
+
+### Finger Extensions
+- Spread fingers as wide as possible
+- Use rubber band around fingers for resistance
+- 15-20 reps
+- Counteracts grip tension
+
+### Thumb Circles
+- Circle your thumbs slowly
+- 10 each direction
+- Essential for controller players
+
+### Nerve Glides
+- Extend arm, palm up
+- Extend wrist back
+- Turn head away
+- Hold 3 seconds
+- 10 reps each arm
+- Helps prevent carpal tunnel
+
+## Neck and Upper Back
+
+Hours of looking at a screen tightens neck and upper back muscles.
+
+### Chin Tucks
+- Sit or stand tall
+- Pull chin straight back (make double chin)
+- Hold 5 seconds
+- 10-15 reps
+- The #1 exercise for gaming posture
+
+### Neck Tilts
+- Tilt ear toward shoulder
+- Hold 30 seconds each side
+- Keep shoulders down
+- Don't force it
+
+### Upper Trap Stretch
+- Reach one hand behind back
+- Tilt head away
+- Hold 30 seconds each side
+- Major tension release
+
+### Thoracic Extensions
+- Sit in chair, hands behind head
+- Extend upper back over chair top
+- Hold 5 seconds
+- 10 reps
+- Counters the hunch
+
+### Shoulder Blade Squeezes
+- Squeeze shoulder blades together
+- Hold 5 seconds
+- 15 reps
+- Strengthens upper back
+
+### Wall Angels
+- Stand with back against wall
+- Arms at 90° (goal post)
+- Slide up and down
+- Keep lower back, head, arms touching wall
+- 10 slow reps
+
+## Hip and Lower Back
+
+Sitting for hours shortens hip flexors and weakens glutes.
+
+### Standing Hip Flexor Stretch
+- Lunge position, back knee down
+- Tuck pelvis, squeeze back glute
+- Hold 60 seconds each side
+- Non-negotiable for gamers
+
+### Glute Bridges
+- Lie on back, feet flat
+- Squeeze glutes, lift hips
+- Hold top 3 seconds
+- 15-20 reps
+- Wakes up dormant glutes
+
+### 90/90 Stretch
+- Sit with both legs at 90°
+- Lean forward over front leg
+- 60 seconds each side
+- Deep hip opener
+
+### Cat-Cow Stretches
+- On hands and knees
+- Alternate arching and rounding
+- 10-15 reps
+- Mobilizes entire spine
+
+### Dead Bug
+- Lie on back, arms up, knees at 90°
+- Lower opposite arm and leg
+- Keep back flat
+- 10 each side
+- Core stability
+
+## Eye and Mental Break
+
+Not just physical — your eyes and brain need breaks too.
+
+### 20-20-20 Rule
+- Every 20 minutes
+- Look at something 20 feet away
+- For 20 seconds
+- Reduces eye strain
+
+### Eye Circles
+- Look up, right, down, left
+- Full slow circles
+- 5 each direction
+- Relaxes eye muscles
+
+### Palming
+- Rub hands to warm them
+- Cup over closed eyes
+- Relax for 30-60 seconds
+- Total darkness rest for eyes
+
+## The Gaming Session Protocol
+
+### Before Gaming (5 Minutes)
+- Wrist circles (10 each direction)
+- Shoulder rolls (10 each direction)
+- Neck tilts (10 seconds each side)
+- Stand and move for 1-2 minutes
+
+### During Gaming (Every 30-60 Minutes)
+- Stand and stretch for 30-60 seconds
+- Wrist stretches
+- 20-20-20 eye rule
+- Walk to get water
+
+### After Gaming (5-10 Minutes)
+- Hip flexor stretch (60 sec each side)
+- Thoracic extensions (10 reps)
+- Chin tucks (10 reps)
+- Wrist stretches (30 sec each)
+- Short walk
+
+## Desk Setup Matters
+
+### Monitor
+- Top of screen at eye level
+- Arm's length away
+- Reduce blue light (night mode)
+
+### Chair
+- Feet flat on floor
+- Knees at 90°
+- Lower back supported
+- Consider standing desk option
+
+### Keyboard/Mouse
+- Elbows at 90°
+- Wrists neutral (not bent)
+- Consider ergonomic options
+- Mouse at same level as keyboard
+
+## Strength Training for Gamers
+
+Long-term protection requires strength:
+
+**Upper Back (2-3x per week):**
+- Rows
+- Face pulls
+- Reverse flies
+
+**Forearms and Grip:**
+- Wrist curls
+- Reverse wrist curls
+- Grip trainers
+
+**Core:**
+- Planks
+- Dead bugs
+- Bird dogs
+
+**Lower Body:**
+- Squats
+- Lunges
+- Glute bridges
+
+## The Bottom Line
+
+1. **Hands and wrists** — Take this seriously before injury hits
+2. **Every 30-60 minutes** — Get up and move
+3. **Strength training** — 2-3x per week protects long-term
+4. **Desk setup** — Ergonomics matter
+5. **Consistency** — 5 minutes of stretching beats 0 minutes
+
+---
+
+*Foundational Rehab offers gamer-specific mobility programs designed for esports athletes and casual gamers alike.*
+    `
   }
 };
 
