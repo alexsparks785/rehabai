@@ -118732,6 +118732,1237 @@ A stiff upper back makes forward head posture worse.
 
 *Foundational Rehab provides posture correction programs combining strengthening, mobility, and habit formation.*
     `
+  },
+  'exercises-for-hip-pain': {
+    title: 'Exercises for Hip Pain: Relieve Pain and Build Strength',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '7 min read',
+    content: `
+## Understanding Hip Pain
+
+The hip is a complex joint that can hurt for many reasons. Location helps identify the cause:
+
+**Front of hip (anterior):**
+- Hip flexor strain/tendinopathy
+- Hip impingement (FAI)
+- Labral tear
+- Arthritis
+
+**Side of hip (lateral):**
+- Greater trochanteric pain syndrome (GTPS)
+- IT band issues
+- Gluteus medius tendinopathy
+
+**Back of hip (posterior):**
+- Piriformis syndrome
+- Sacroiliac joint dysfunction
+- Referred pain from spine
+
+**Deep in hip/groin:**
+- Hip arthritis
+- Labral tear
+- Adductor strain
+
+## When to See a Professional First
+
+- Unable to bear weight
+- Significant swelling
+- Visible deformity
+- Severe pain at rest
+- Fever with hip pain
+- Pain after a fall (especially if older)
+
+## Phase 1: Pain Relief
+
+### Gentle Range of Motion
+
+**Hip circles (lying down):**
+1. Lie on back, one knee bent
+2. Make small circles with knee
+3. 10 each direction, each hip
+
+**Knee drops:**
+1. Lie on back, knees bent, feet flat
+2. Gently let both knees drop to one side
+3. Return to center
+4. Alternate sides
+5. 10 each side
+
+### Piriformis Release
+
+**With ball:**
+1. Sit on tennis or lacrosse ball
+2. Position under buttock (piriformis area)
+3. Lean into tender spots
+4. Hold 30-60 seconds per spot
+
+### Hip Flexor Release
+
+**Prone position:**
+1. Lie face down
+2. Place ball under front of hip
+3. Rock gently side to side
+4. 1-2 minutes per side
+
+## Phase 2: Mobility
+
+### Hip Flexor Stretch
+
+**Half-kneeling:**
+1. Lunge position, back knee on pad
+2. Tuck pelvis under (posterior tilt)
+3. Squeeze glute of back leg
+4. Lean forward slightly
+5. Hold 30-60 seconds each side
+
+**Key:** The pelvic tuck is essential—don't just push forward.
+
+### Piriformis Stretch (Figure-4)
+
+**Form:**
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull bottom leg toward chest
+4. Feel stretch in buttock
+5. Hold 30-60 seconds each side
+
+### 90-90 Stretch
+
+**Form:**
+1. Sit with front leg at 90°, back leg at 90°
+2. Front shin parallel to your chest
+3. Lean forward over front leg
+4. Hold 30 seconds
+5. Switch sides
+
+### Adductor (Groin) Stretch
+
+**Butterfly stretch:**
+1. Sit, soles of feet together
+2. Knees out to sides
+3. Gently press knees down
+4. Hold 30-60 seconds
+
+**Side-lying adductor stretch:**
+1. Lie on side
+2. Top leg bent, foot on floor in front
+3. Bottom leg straight
+4. Lift bottom leg (feel inner thigh stretch)
+5. Hold 30 seconds
+
+### Hip Flexion Stretch (Couch Stretch)
+
+**Form:**
+1. Kneel with back foot on couch/wall
+2. Front foot flat on floor in lunge
+3. Keep torso upright
+4. Hold 60-90 seconds each side
+
+## Phase 3: Strengthening
+
+### Glute Bridges
+
+**Form:**
+1. Lie on back, knees bent, feet flat
+2. Press through heels
+3. Lift hips, squeeze glutes at top
+4. Lower slowly
+5. 3 sets of 15
+
+**Progression:** Single-leg bridges
+
+### Clamshells
+
+**Form:**
+1. Side-lying, knees bent 45°
+2. Keep feet together
+3. Lift top knee (like clamshell opening)
+4. Don't let pelvis roll back
+5. Lower slowly
+
+**Reps:** 3 sets of 15 each side
+
+**Progression:** Add resistance band above knees
+
+### Side-Lying Hip Abduction
+
+**Form:**
+1. Lie on side, bottom knee bent for stability
+2. Top leg straight
+3. Lift top leg toward ceiling
+4. Keep toe pointing forward (not up)
+5. Lower slowly
+
+**Reps:** 3 sets of 15 each side
+
+### Fire Hydrants
+
+**Form:**
+1. On hands and knees
+2. Keep knee bent 90°
+3. Lift knee out to side
+4. Don't shift weight to opposite side
+5. Lower slowly
+
+**Reps:** 3 sets of 12 each side
+
+### Hip Hinge (Romanian Deadlift Pattern)
+
+**Form:**
+1. Stand on both legs (or single leg)
+2. Push hips back, slight knee bend
+3. Lower torso, keeping back flat
+4. Feel stretch in hamstrings
+5. Squeeze glutes to return
+
+**Reps:** 3 sets of 10-12
+
+### Standing Hip Abduction
+
+**With band:**
+1. Band around ankles
+2. Stand on one leg
+3. Lift other leg out to side
+4. Control the return
+
+**Reps:** 3 sets of 15 each side
+
+## Phase 4: Functional Strength
+
+### Squats (Pain-Free Range)
+
+**Form:**
+1. Feet hip-width or slightly wider
+2. Toes slightly out
+3. Push hips back, bend knees
+4. Depth based on comfort
+5. Drive through heels to stand
+
+**Reps:** 3 sets of 12-15
+
+### Lateral Band Walks
+
+**Form:**
+1. Band around ankles (or above knees)
+2. Quarter squat position
+3. Step sideways
+4. Maintain tension throughout
+5. Don't let knees cave
+
+**Reps:** 15 steps each direction, 3 sets
+
+### Step-Ups
+
+**Form:**
+1. Start with low step
+2. Drive through heel of working leg
+3. Don't push off with back leg
+4. Control the descent
+
+**Reps:** 3 sets of 10 each leg
+
+### Single-Leg Stance
+
+**Form:**
+1. Stand on one leg
+2. Maintain level pelvis
+3. Don't let hip drop on non-stance side
+4. Hold 30 seconds each side
+
+**Progression:** Eyes closed, unstable surface
+
+### Bulgarian Split Squat
+
+**Form:**
+1. Back foot on bench behind you
+2. Front foot forward
+3. Lower straight down
+4. Front knee tracks over toes
+5. Push through front heel
+
+**Reps:** 3 sets of 8-10 each leg
+
+## Condition-Specific Guidance
+
+### Hip Impingement (FAI)
+
+**Avoid:**
+- Deep squatting initially
+- Bringing knee to chest
+- Exercises that pinch the front
+
+**Focus:**
+- Hip flexor mobility
+- Core stability
+- Glute strengthening
+- Modify range of motion
+
+### Greater Trochanteric Pain Syndrome
+
+**Avoid:**
+- Stretching IT band directly over painful area
+- Side-lying on painful side
+- Crossing legs
+
+**Focus:**
+- Gluteus medius strengthening (key)
+- Gradual load progression
+- Avoid compression
+
+### Hip Arthritis
+
+**Focus:**
+- Low-impact movement (walking, water, cycling)
+- Range of motion maintenance
+- Strengthening within pain tolerance
+- Weight management
+
+**Best exercises:**
+- Water walking/exercises
+- Recumbent bike
+- Gentle stretching
+- Isometric strengthening
+
+### Piriformis Syndrome
+
+**Focus:**
+- Piriformis stretching and release
+- Glute strengthening (especially medius)
+- Neural glides if sciatic symptoms
+- Posture and sitting habits
+
+## Sample Programs
+
+### Daily Hip Maintenance (10 Minutes)
+
+1. Hip circles: 10 each direction
+2. Piriformis stretch: 30 sec each
+3. Hip flexor stretch: 30 sec each
+4. Glute bridges: 15 reps
+5. Clamshells: 15 each side
+
+### Progressive Hip Rehab (3x/Week)
+
+**Week 1-2:**
+- Range of motion exercises
+- Gentle stretching
+- Glute bridges, clamshells
+
+**Week 3-4:**
+- Add standing exercises
+- Hip hinge pattern
+- Lateral band walks
+
+**Week 5-6:**
+- Step-ups
+- Single-leg work
+- Squats (limited range)
+
+**Week 7+:**
+- Full range exercises
+- Progressive loading
+- Sport-specific if applicable
+
+## Common Mistakes
+
+### 1. Ignoring the Glutes
+
+Weak glutes are behind most hip pain. Prioritize glute strengthening.
+
+### 2. Over-Stretching the Hip Flexors
+
+Tight-feeling hip flexors are often weak, not tight. Strengthen, don't just stretch.
+
+### 3. Pushing Through Pain
+
+Hip joints are sensitive. Respect pain signals and modify accordingly.
+
+### 4. Forgetting Single-Leg Work
+
+Most daily activities are single-leg dominant. Train accordingly.
+
+### 5. Poor Form on Exercises
+
+Quality over quantity. Bad form reinforces dysfunction.
+
+## The Bottom Line
+
+1. **Location matters** — Different causes require different approaches
+2. **Strengthen the glutes** — Almost always part of the solution
+3. **Mobility AND stability** — Need both for healthy hips
+4. **Progress gradually** — Hips respond to progressive loading
+5. **Don't just stretch** — Strengthen what feels "tight"
+
+---
+
+*Foundational Rehab provides comprehensive hip programs tailored to your specific condition.*
+    `
+  },
+  'how-to-squat-properly': {
+    title: 'How to Squat Properly: Complete Form Guide for All Levels',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Why Squatting Matters
+
+The squat is the most fundamental human movement pattern. You squat every time you:
+
+- Sit down and stand up
+- Pick something off the floor
+- Get on and off the toilet
+- Play with kids or pets
+
+A good squat protects your back, builds leg strength, and maintains mobility as you age. A bad squat leads to knee pain, back problems, and limited function.
+
+## The Basic Squat Pattern
+
+### Setup
+
+**Stance:**
+- Feet shoulder-width apart (or slightly wider)
+- Toes pointed slightly out (15-30°)
+- Weight distributed across entire foot
+
+**Posture:**
+- Chest up, shoulders back
+- Neutral spine (natural curves)
+- Eyes forward or slightly up
+
+### The Movement
+
+**Going Down:**
+1. Initiate by pushing hips back (like sitting into a chair)
+2. Bend knees as you descend
+3. Keep chest up—don't round forward
+4. Knees track over toes (same direction as feet point)
+5. Descend to comfortable depth
+
+**Coming Up:**
+1. Drive through whole foot (not just toes)
+2. Push knees out (don't let them cave)
+3. Squeeze glutes at the top
+4. Stand tall, don't hyperextend back
+
+### Depth
+
+**Ideal depth:** Thighs parallel to floor or below (hip crease at or below knee level)
+
+**If you can't reach parallel:**
+- That's okay—work on mobility
+- Squat to your current comfortable range
+- Progressively work deeper over time
+
+## Common Squat Mistakes (And Fixes)
+
+### 1. Knees Caving In
+
+**What it looks like:** Knees drift toward each other during the squat.
+
+**Why it happens:** Weak glutes, tight adductors, poor motor control.
+
+**Fixes:**
+- Place band above knees, push out against it
+- Strengthen glutes (clamshells, lateral band walks)
+- Cue "spread the floor" with your feet
+- Use lighter weight or bodyweight until fixed
+
+### 2. Heels Lifting
+
+**What it looks like:** Heels come off the ground at bottom of squat.
+
+**Why it happens:** Tight calves, limited ankle mobility.
+
+**Fixes:**
+- Elevate heels on small plates or wedge
+- Calf stretches and ankle mobility work
+- Wider stance with more toe-out angle
+- Address ankle mobility long-term
+
+### 3. Forward Lean / Chest Dropping
+
+**What it looks like:** Torso folds forward excessively, chest points at floor.
+
+**Why it happens:** Weak quads, tight ankles/hips, weak core.
+
+**Fixes:**
+- Goblet squats (weight in front forces upright posture)
+- Improve ankle and hip mobility
+- Strengthen core
+- Cue "chest up" and "proud chest"
+
+### 4. Lower Back Rounding (Butt Wink)
+
+**What it looks like:** Lower back tucks under at the bottom.
+
+**Why it happens:** Hip mobility limitation, motor control issues, going too deep.
+
+**Fixes:**
+- Reduce depth to where spine stays neutral
+- Hip mobility work (90-90, pigeon)
+- Brace core throughout movement
+- Gradually work deeper as mobility improves
+
+### 5. Knees Shooting Forward
+
+**What it looks like:** Knees travel way past toes, heels lift.
+
+**Why it happens:** Poor hip hinge, quad dominance.
+
+**Fixes:**
+- Practice box squats (teaches sitting back)
+- Cue "hips back first"
+- Hip hinge drills
+- Strengthen glutes and hamstrings
+
+## Squat Progressions (Beginner to Advanced)
+
+### Level 1: Box Squat
+
+**Form:**
+1. Chair or box behind you
+2. Squat down and touch (don't plop)
+3. Pause briefly
+4. Stand up
+
+**Why:** Teaches depth control, builds confidence, reinforces sitting back.
+
+### Level 2: Goblet Squat
+
+**Form:**
+1. Hold weight at chest (dumbbell, kettlebell)
+2. Elbows inside knees at bottom
+3. Use weight as counterbalance
+
+**Why:** Weight in front keeps torso upright, great teaching tool.
+
+### Level 3: Bodyweight Squat
+
+**Form:**
+1. No external load
+2. Hands in front for balance if needed
+3. Focus on perfect form
+
+**Why:** Master the pattern before adding weight.
+
+### Level 4: Back Squat
+
+**Form:**
+1. Bar on upper back (high bar) or rear delts (low bar)
+2. Brace core, unrack weight
+3. Squat with barbell
+
+**Why:** Allows progressive loading for strength.
+
+### Level 5: Front Squat
+
+**Form:**
+1. Bar on front of shoulders
+2. Elbows high
+3. Very upright torso required
+
+**Why:** More quad-dominant, forces good posture.
+
+## Squat Variations for Different Goals
+
+### For Mobility-Limited Squatters
+
+**Heels-elevated squat:**
+- Plates or wedge under heels
+- Compensates for ankle mobility
+- Good temporary solution
+
+**Wide-stance squat:**
+- Feet wider than shoulders
+- Toes pointed out more
+- Easier for tight hips
+
+### For Knee Issues
+
+**Box squat:**
+- Controls depth precisely
+- Teaches proper sitting back
+- Reduces knee stress
+
+**Wall squat (isometric):**
+- Back against wall
+- Hold position
+- Builds strength without movement
+
+### For Back Issues
+
+**Goblet squat:**
+- Light load, upright torso
+- Easier on spine than back squat
+
+**Belt squat or leg press:**
+- Removes spinal loading
+- Still trains legs effectively
+
+### For Glute Emphasis
+
+**Sumo squat:**
+- Wide stance, toes out
+- More glute and adductor activation
+
+**Pause squat:**
+- 2-3 second pause at bottom
+- Eliminates stretch reflex, more glute work
+
+## Mobility Work for Better Squats
+
+### Ankle Mobility
+
+**Wall ankle stretch:**
+1. Foot 4-6 inches from wall
+2. Drive knee toward wall over toes
+3. Keep heel down
+4. 30 seconds each side
+
+**Banded ankle mobilization:**
+1. Band around ankle, anchored behind
+2. Drive knee forward against band
+3. 10-15 reps each side
+
+### Hip Mobility
+
+**90-90 stretch:**
+1. Sit in 90-90 position
+2. Lean forward over front leg
+3. 30-45 seconds each side
+
+**Deep squat hold:**
+1. Squat as deep as possible
+2. Hold onto support if needed
+3. Accumulate 2-3 minutes daily
+
+### Thoracic Mobility
+
+**Foam roller extension:**
+1. Roller across upper back
+2. Extend over roller
+3. 10 extensions at each segment
+
+## Sample Squat Programs
+
+### Beginner (First 4 Weeks)
+
+**3x per week:**
+- Box squats: 3 sets of 10
+- Goblet squats: 3 sets of 8
+- Ankle mobility: 2 minutes
+- Hip mobility: 2 minutes
+
+### Intermediate
+
+**2-3x per week:**
+- Back or front squats: 4 sets of 6-8
+- Goblet squats: 2 sets of 12 (warm-up/technique)
+- Single-leg work: 3 sets of 8 each
+- Mobility as needed
+
+### Squat Every Day (Advanced)
+
+**Daily practice:**
+- Deep squat accumulation: 5+ minutes
+- Light squat variation: 2-3 sets
+- Heavy squats: 1-2x per week only
+
+## The Bottom Line
+
+1. **Master the basics** — Box squat, then goblet, then load
+2. **Fix mobility limitations** — Ankles and hips especially
+3. **Knees track toes** — Don't let them cave
+4. **Chest up** — Maintain spinal position
+5. **Depth comes with time** — Don't force it
+
+---
+
+*Foundational Rehab helps you build the mobility and strength for perfect, pain-free squats.*
+    `
+  },
+  'exercises-for-wrist-pain': {
+    title: 'Exercises for Wrist Pain: Strengthen and Protect Your Wrists',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '6 min read',
+    content: `
+## Common Causes of Wrist Pain
+
+Wrist pain has many sources:
+
+**Repetitive strain:**
+- Typing and mouse use
+- Gaming
+- Manual labor
+- Sports (tennis, golf, weightlifting)
+
+**Specific conditions:**
+- Carpal tunnel syndrome (numbness, tingling in thumb/fingers)
+- De Quervain's tenosynovitis (thumb-side pain)
+- Wrist tendinopathy
+- Ganglion cyst
+- Arthritis
+
+**Acute injuries:**
+- Sprains
+- Fractures (see a doctor!)
+- TFCC injury (pinky-side pain)
+
+## When to See a Doctor
+
+- Significant swelling or deformity
+- Unable to move wrist
+- Numbness that doesn't resolve
+- Pain after a fall on outstretched hand
+- Symptoms not improving after 2-3 weeks
+
+## Phase 1: Pain Relief
+
+### Rest and Modification
+
+**Don't stop everything—modify:**
+- Use ergonomic keyboard/mouse
+- Take frequent breaks (every 20-30 minutes)
+- Avoid pain-provoking positions
+- Use wrist brace at night if needed
+
+### Ice
+
+- 15-20 minutes as needed
+- Especially after activity
+- Wrap in thin towel
+
+### Gentle Range of Motion
+
+**Wrist circles:**
+1. Make gentle circles with wrist
+2. 10 each direction
+3. Pain-free only
+
+**Prayer stretch (gentle):**
+1. Palms together in front of chest
+2. Lower hands while keeping palms pressed
+3. Feel gentle stretch in forearms
+4. Hold 15-30 seconds
+
+## Phase 2: Stretching
+
+### Wrist Flexor Stretch
+
+**Form:**
+1. Extend arm in front, palm up
+2. Use other hand to pull fingers down and back
+3. Keep elbow straight
+4. Feel stretch in inner forearm
+5. Hold 30 seconds
+
+### Wrist Extensor Stretch
+
+**Form:**
+1. Extend arm in front, palm down
+2. Use other hand to push hand down
+3. Feel stretch in outer forearm
+4. Hold 30 seconds
+
+### Pronator/Supinator Stretch
+
+**Form:**
+1. Elbow at side, bent 90°
+2. Partner or other hand rotates forearm
+3. Hold at end range: palm up, then palm down
+4. 30 seconds each position
+
+### Thumb Stretches (For De Quervain's)
+
+**Finkelstein stretch:**
+1. Make fist with thumb inside
+2. Bend wrist toward pinky side
+3. Feel stretch at thumb base
+4. Hold gently 15-30 seconds
+
+**Caution:** This can be intense. Don't force it.
+
+## Phase 3: Strengthening
+
+### Wrist Curls (Flexion)
+
+**Form:**
+1. Forearm supported on table or thigh
+2. Palm up, weight in hand
+3. Curl wrist up
+4. Lower slowly
+5. 3 sets of 15
+
+**Start light:** 1-2 lbs or soup can
+
+### Reverse Wrist Curls (Extension)
+
+**Form:**
+1. Forearm supported, palm down
+2. Extend wrist up against weight
+3. Lower slowly
+4. 3 sets of 15
+
+### Pronation/Supination
+
+**Form:**
+1. Hold hammer or weight at end of handle
+2. Forearm supported
+3. Rotate palm up (supination)
+4. Rotate palm down (pronation)
+5. Control both directions
+
+**Reps:** 3 sets of 15 each direction
+
+### Grip Strengthening
+
+**With grip trainer or ball:**
+1. Squeeze and hold 3-5 seconds
+2. Release slowly
+3. 3 sets of 10-15
+
+**Finger extensions (balance grip strength):**
+1. Rubber band around fingertips
+2. Spread fingers against resistance
+3. 3 sets of 15
+
+### Radial/Ulnar Deviation
+
+**Form:**
+1. Hold weight, arm at side, palm toward body
+2. Lift weight by bending wrist up (radial deviation)
+3. Lower slowly
+4. 3 sets of 15
+
+## Phase 4: Stability and Control
+
+### Wrist Stability Ball Circles
+
+**Form:**
+1. Palm on ball against wall
+2. Make circles while pressing into ball
+3. 10 each direction
+
+### Plank Progressions
+
+**Wall plank:**
+1. Hands on wall, plank position
+2. Wrists at comfortable angle
+3. Hold 30 seconds
+
+**Table plank:**
+1. Hands on table/countertop
+2. Progress to floor as tolerated
+
+**Full plank:**
+1. On hands (or fists if wrists sensitive)
+2. Keep wrists straight
+3. Build duration gradually
+
+### Finger Walking
+
+**Form:**
+1. Hand flat on table
+2. "Walk" fingers to pull hand forward
+3. Then "walk" back
+4. 2 sets of 10 forward/back
+
+## Condition-Specific Exercises
+
+### Carpal Tunnel Syndrome
+
+**Nerve glides (median nerve):**
+1. Start: arm at side, wrist bent, fingers in fist
+2. End: arm out to side, wrist extended, fingers open
+3. Move smoothly through range
+4. 10-15 reps
+
+**Tendon glides:**
+1. Straight fingers → hook fist → full fist → table top → straight
+2. Move through each position
+3. 10 full cycles
+
+### De Quervain's Tenosynovitis
+
+**Thumb isometrics:**
+1. Press thumb against table (not moving)
+2. Hold 5 seconds
+3. 10 reps, multiple directions
+
+**Thumb extension with band:**
+1. Loop band around thumb
+2. Extend thumb against resistance
+3. 3 sets of 15
+
+### Wrist Tendinopathy
+
+**Isometrics first:**
+1. Press wrist into resistance (not moving)
+2. Flexion, extension, radial, ulnar
+3. Hold 30-45 seconds each
+
+**Progress to eccentrics:**
+1. Slow lowering against resistance
+2. Use other hand to return to start
+3. 3 sets of 15
+
+## Ergonomic Tips
+
+### Keyboard Position
+
+- Wrists neutral (not bent up or down)
+- Keyboard flat or with negative tilt
+- Elbows at 90° or slightly more
+
+### Mouse Use
+
+- Mouse close to keyboard (no reaching)
+- Vertical mouse reduces pronation
+- Trackball reduces wrist movement
+
+### Workstation Setup
+
+- Desk at proper height
+- Chair with armrests
+- Frequent position changes
+
+### Gaming
+
+- Proper wrist support
+- Regular breaks (every 30 minutes)
+- Hand stretches between sessions
+- Consider ergonomic controller/keyboard
+
+## Sample Programs
+
+### Daily Maintenance (5 Minutes)
+
+1. Wrist circles: 10 each direction
+2. Flexor stretch: 30 sec each
+3. Extensor stretch: 30 sec each
+4. Grip squeezes: 10 reps
+5. Finger extensions: 10 reps
+
+### Rehab Protocol (For Active Issues)
+
+**Phase 1 (Week 1-2):**
+- Rest and modification
+- Gentle ROM
+- Ice as needed
+- Stretches 2-3x/day
+
+**Phase 2 (Week 2-4):**
+- Add isometric strengthening
+- Continue stretches
+- Nerve/tendon glides if applicable
+
+**Phase 3 (Week 4-6):**
+- Isotonic strengthening
+- Gradual return to activity
+- Ergonomic modifications in place
+
+**Phase 4 (Week 6+):**
+- Full strengthening program
+- Progressive return to full activity
+- Maintenance program
+
+## Prevention Strategies
+
+### For Computer Users
+
+- Take breaks every 20-30 minutes
+- Stretch hands/wrists during breaks
+- Proper workstation setup
+- Consider voice typing for long documents
+
+### For Athletes
+
+- Proper technique and grip
+- Wrist warm-up before activity
+- Strengthen supporting muscles
+- Don't push through wrist pain
+
+### For Everyone
+
+- Maintain grip strength
+- Balance flexors and extensors
+- Keep wrists mobile
+- Address problems early (don't ignore)
+
+## The Bottom Line
+
+1. **Identify the cause** — Different conditions need different approaches
+2. **Modify, don't stop** — Complete rest often backfires
+3. **Balance strength** — Flexors AND extensors
+4. **Fix ergonomics** — Crucial for computer-related issues
+5. **Nerve/tendon glides** — Important for carpal tunnel and tendinopathy
+
+---
+
+*Foundational Rehab provides wrist recovery programs with ergonomic guidance and progressive strengthening.*
+    `
+  },
+  'morning-stretching-routine': {
+    title: 'Morning Stretching Routine: The Best Way to Start Your Day',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: `
+## Why Morning Stretching Works
+
+Morning is when your body is stiffest. After hours of sleep:
+
+- Discs have rehydrated and are more vulnerable
+- Muscles have shortened from inactivity
+- Joints lack lubrication
+- Fascia has stiffened
+
+A morning routine helps:
+- Wake up your body gradually
+- Reduce stiffness and pain
+- Improve energy and alertness
+- Set a positive tone for the day
+- Prevent injuries from sudden movement
+
+## Important: What NOT to Do
+
+**Avoid these first thing in the morning:**
+- Deep forward bending (discs are vulnerable)
+- Aggressive stretching (muscles aren't warm)
+- High-intensity exercise without warm-up
+- Bouncing or ballistic movements
+
+**Instead:** Start gentle and gradually increase intensity.
+
+## The 5-Minute Morning Routine
+
+Perfect for busy mornings or beginners.
+
+### 1. Cat-Cow in Bed (60 seconds)
+
+**Form:**
+1. On hands and knees (or seated)
+2. Inhale: arch back, look up (cow)
+3. Exhale: round back, tuck chin (cat)
+4. Move slowly with breath
+
+**Why:** Wakes up the spine gently, lubricates joints.
+
+### 2. Supine Twist (60 seconds total)
+
+**Form:**
+1. Lie on back, knees bent
+2. Drop both knees to one side
+3. Arms out, look opposite direction
+4. Hold 30 seconds each side
+
+**Why:** Releases lower back tension from sleep position.
+
+### 3. Knee to Chest (60 seconds total)
+
+**Form:**
+1. Lie on back
+2. Pull one knee to chest
+3. Keep other leg straight or bent
+4. Hold 30 seconds each side
+
+**Why:** Stretches lower back and glutes.
+
+### 4. Figure-4 Stretch (60 seconds total)
+
+**Form:**
+1. Cross ankle over opposite knee
+2. Either: stay on back or sit up and lean forward
+3. Feel stretch in buttock
+4. 30 seconds each side
+
+**Why:** Opens hips after night of compression.
+
+### 5. Standing Side Stretch (60 seconds total)
+
+**Form:**
+1. Stand tall, reach arms overhead
+2. Grab one wrist, lean to opposite side
+3. Feel stretch along side body
+4. 30 seconds each side
+
+**Why:** Lengthens side body, opens ribs for better breathing.
+
+## The 10-Minute Morning Routine
+
+More comprehensive for those with extra time.
+
+### Minutes 1-2: Bed Stretches
+
+**Cat-Cow:** 30 seconds
+**Supine Twist:** 30 seconds each side
+**Knees to Chest:** 30 seconds
+
+### Minutes 3-4: Hip Opening
+
+**Figure-4 Stretch:** 30 seconds each side
+**Happy Baby:** 45 seconds (hold feet, rock gently)
+
+### Minutes 5-6: Standing Wake-Up
+
+**Standing Side Stretch:** 20 seconds each side
+**Standing Forward Fold:** 30 seconds (let gravity work, don't force)
+**Ragdoll:** 30 seconds (arms crossed, sway gently)
+
+### Minutes 7-8: Upper Body
+
+**Shoulder Rolls:** 10 forward, 10 backward
+**Neck Circles:** 5 each direction (half circles only)
+**Doorway Pec Stretch:** 30 seconds
+
+### Minutes 9-10: Dynamic Movement
+
+**Hip Circles:** 10 each direction, each leg
+**Arm Circles:** 10 forward, 10 backward
+**Gentle Squats:** 10 reps (not deep)
+
+## The 15-Minute Complete Routine
+
+For those prioritizing morning mobility.
+
+### On the Bed (3 Minutes)
+
+1. **Gentle spinal twist:** Knees side to side, 5 each way
+2. **Single knee to chest:** 30 sec each
+3. **Happy baby:** 60 seconds
+
+### On the Floor (7 Minutes)
+
+4. **Cat-cow:** 10 cycles, slow
+5. **Child's pose:** 60 seconds
+6. **Thread the needle:** 30 seconds each side
+7. **Downward dog to cobra flow:** 5 cycles
+8. **Low lunge with twist:** 30 seconds each side
+9. **Pigeon pose:** 45 seconds each side
+
+### Standing (5 Minutes)
+
+10. **Forward fold:** 30 seconds
+11. **Side bends:** 20 seconds each
+12. **Standing quad stretch:** 30 seconds each
+13. **Standing hip flexor stretch:** 30 seconds each
+14. **Shoulder and neck movements:** 90 seconds
+15. **10 gentle squats to finish**
+
+## Add-On Stretches for Specific Issues
+
+### For Morning Back Pain
+
+**Before getting out of bed:**
+1. Pelvic tilts: 10 reps (flatten back, then arch)
+2. Single knee to chest: 30 sec each
+3. Bridge: 10 reps (gentle)
+
+**Wait 30+ minutes before deep forward bending.**
+
+### For Morning Neck Stiffness
+
+1. Chin tucks: 10 reps
+2. Gentle neck rotation: 5 each way
+3. Upper trap stretch: 20 seconds each side
+4. Levator stretch: 20 seconds each side
+
+### For Hip Tightness
+
+1. Figure-4 stretch in bed: 30 sec each
+2. Hip circles on all fours: 10 each direction
+3. Frog stretch: 30 seconds
+4. Standing hip flexor stretch: 30 seconds each
+
+## Making It a Habit
+
+### Habit Stacking
+
+Link to existing morning routine:
+- "After I turn off my alarm, I do cat-cow"
+- "While coffee brews, I stretch"
+- "Before my shower, I do 5 minutes"
+
+### Start Small
+
+- Week 1: 2 minutes (just 2-3 stretches)
+- Week 2: 3-4 minutes
+- Week 3: 5 minutes
+- Week 4+: Build to desired length
+
+### Set Up for Success
+
+- Keep yoga mat by bed
+- Sleep in stretching-friendly clothes
+- Set reminder on phone
+- Prepare warm socks if floor is cold
+
+### Track Progress
+
+Notice changes:
+- Less morning stiffness
+- Faster "wake-up" time
+- Better mood
+- Fewer aches throughout day
+
+## Common Mistakes
+
+### 1. Going Too Hard
+
+Morning isn't the time for maximum stretching. Stay at 5-6/10 intensity.
+
+### 2. Skipping Warm-Up
+
+Even your stretching routine needs a warm-up. Start with gentlest movements.
+
+### 3. Forcing Deep Forward Bends
+
+Your spine is most vulnerable in the morning. Save deep flexion for later.
+
+### 4. All-or-Nothing Thinking
+
+5 minutes is better than 0. Don't skip because you can't do your full routine.
+
+### 5. Same Routine Forever
+
+Adjust based on how you feel. Some days need more hip work, others more back.
+
+## Benefits You'll Notice
+
+**Immediately:**
+- Feel more awake
+- Reduced stiffness
+- Better mood
+
+**Within 2-4 Weeks:**
+- Less overall stiffness
+- Better mobility
+- Morning becomes easier
+
+**Long-Term:**
+- Improved flexibility
+- Fewer aches and pains
+- Consistent energy levels
+- Healthy aging
+
+## The Bottom Line
+
+1. **Start gentle** — Morning isn't for max stretching
+2. **Consistency beats intensity** — Brief daily > long occasionally
+3. **Adapt to your body** — Some days need different stretches
+4. **Avoid deep forward bends** — Wait 30+ minutes after waking
+5. **Make it automatic** — Habit stack with existing routine
+
+---
+
+*Foundational Rehab includes morning mobility routines designed to wake up your body safely and effectively.*
+    `
   }
 };
 
