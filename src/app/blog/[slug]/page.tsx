@@ -130475,6 +130475,968 @@ Wait at least 30-60 minutes after waking for these.
 
 *Foundational Rehab helps you start every day feeling better with guided morning routines.*
     `
+  },
+  'exercises-for-sciatica': {
+    title: 'Exercises for Sciatica: Relieve Nerve Pain at Home',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Understanding Sciatica
+
+Sciatica is pain that travels along the sciatic nerve—from your lower back, through your hip, down the back of your leg:
+
+**Common symptoms:**
+- Sharp, shooting pain down one leg
+- Numbness or tingling in the leg or foot
+- Weakness in the affected leg
+- Pain that worsens with sitting
+
+**Common causes:**
+- Herniated disc (most common)
+- Spinal stenosis
+- Piriformis syndrome
+- Degenerative disc disease
+
+The right exercises depend on what's causing your sciatica.
+
+## First: Find Your Direction Preference
+
+Most people with sciatica feel better with either flexion (bending forward) or extension (bending backward):
+
+### Extension Test
+1. Lie face down
+2. Prop up on elbows (mini cobra)
+3. Does leg pain decrease or centralize (move toward spine)?
+
+### Flexion Test
+1. Lie on back
+2. Hug both knees to chest
+3. Does leg pain decrease?
+
+**If extension helps:** Focus on McKenzie exercises (press-ups, prone lying)
+**If flexion helps:** Focus on knee-to-chest, child's pose
+**If neither helps:** Stick with nerve glides and gentle movement
+
+## Nerve Gliding Exercises
+
+These help the sciatic nerve move freely:
+
+### Sciatic Nerve Glide (Seated)
+
+1. Sit at edge of chair
+2. Straighten affected leg, point toes up
+3. Slump shoulders and look down (increases tension)
+4. Then sit tall and point toes away (decreases tension)
+5. Alternate smoothly: slump + flex foot / sit tall + point toes
+6. 10-15 reps, 2-3x daily
+
+### Sciatic Nerve Glide (Lying)
+
+1. Lie on back, hold behind thigh
+2. Straighten knee while flexing foot toward you
+3. Lower leg and point toes away
+4. Keep movement smooth, no jerking
+5. 10-15 reps
+
+**Key:** Nerve glides should be tension, not pain. Never force.
+
+## Extension-Based Exercises
+
+If extension feels better (most disc-related sciatica):
+
+### Prone Lying
+
+1. Lie face down, arms at sides
+2. Relax completely
+3. Stay 5-10 minutes if comfortable
+4. Let lower back sag into the floor
+
+### Prone on Elbows
+
+1. Lie face down
+2. Prop onto elbows
+3. Keep hips on the floor
+4. Hold 30-60 seconds
+5. Repeat 5-10 times throughout day
+
+### Press-Ups (McKenzie)
+
+1. Lie face down, hands under shoulders
+2. Press upper body up, keeping hips down
+3. Arms can be partially or fully extended
+4. Lower slowly
+5. 10 reps, multiple times daily
+
+**Goal:** Centralization—leg pain moving closer to spine (even if back pain temporarily increases).
+
+## Flexion-Based Exercises
+
+If flexion feels better (stenosis, some other causes):
+
+### Single Knee to Chest
+
+1. Lie on back
+2. Hug one knee toward chest
+3. Keep other leg straight or slightly bent
+4. Hold 20-30 seconds
+5. Switch sides
+
+### Double Knee to Chest
+
+1. Lie on back
+2. Hug both knees toward chest
+3. Gently rock side to side
+4. Hold 30 seconds
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor
+4. Hold 30-60 seconds
+
+## Piriformis Stretches
+
+If piriformis syndrome is suspected (pain deep in buttock):
+
+### Figure-4 Stretch
+
+1. Lie on back
+2. Cross affected ankle over opposite knee
+3. Pull bottom thigh toward chest
+4. Feel stretch deep in buttock
+5. Hold 30-60 seconds
+
+### Seated Piriformis Stretch
+
+1. Sit in chair
+2. Cross affected ankle over opposite knee
+3. Lean forward with straight back
+4. Hold 30-60 seconds
+
+### Pigeon Pose (Advanced)
+
+1. Start in hands and knees
+2. Bring affected knee forward, shin angled
+3. Extend back leg straight behind
+4. Lower torso over front leg
+5. Hold 60 seconds (only if comfortable)
+
+## Core Stabilization
+
+Weak core contributes to sciatica. Add these once acute pain subsides:
+
+### Dead Bug
+
+1. Lie on back, knees bent 90°, arms up
+2. Lower opposite arm and leg toward floor
+3. Keep lower back pressed to floor
+4. Return, switch sides
+5. 10 reps each side
+
+### Bird Dog
+
+1. Start on hands and knees
+2. Extend opposite arm and leg
+3. Hold 5 seconds, don't let hips rotate
+4. Return, switch sides
+5. 10 reps each side
+
+### Modified Plank
+
+1. Forearms and knees on floor
+2. Keep body straight from shoulders to knees
+3. Hold 20-30 seconds
+4. Progress to full plank when ready
+
+## What to Avoid
+
+**During acute sciatica:**
+- Prolonged sitting
+- Bending forward to pick things up
+- Heavy lifting
+- High-impact activities
+- Stretches that increase leg pain
+
+**General rule:** If an exercise makes leg pain worse or travel further down, stop.
+
+## Sample Daily Routine
+
+**Morning (5 min):**
+- Prone lying: 3 minutes
+- Prone on elbows: 5 × 30 seconds
+- Press-ups (if extension helps): 10 reps
+
+**Midday (5 min):**
+- Nerve glides: 15 reps
+- Piriformis stretch: 30 seconds each side
+- Walking: 5-10 minutes
+
+**Evening (10 min):**
+- Press-ups or knee-to-chest (based on preference): 10 reps
+- Figure-4 stretch: 60 seconds each side
+- Dead bug: 10 reps each side
+- Bird dog: 10 reps each side
+
+## When to See a Doctor
+
+Seek immediate medical attention for:
+
+- Loss of bladder or bowel control
+- Progressive weakness in leg
+- Numbness in groin area (saddle anesthesia)
+- Severe pain that doesn't respond to position changes
+- Symptoms in both legs
+
+## The Bottom Line
+
+1. **Find your direction** — Extension or flexion preference guides exercise choice
+2. **Nerve glides are essential** — Help the sciatic nerve move freely
+3. **Movement beats rest** — Gentle activity is better than bed rest
+4. **Centralization is good** — Pain moving toward spine means improvement
+5. **Stop what worsens leg pain** — Listen to your body
+
+---
+
+*Foundational Rehab provides sciatica relief programs tailored to your specific cause and direction preference.*
+    `
+  },
+  'fix-rounded-shoulders': {
+    title: 'How to Fix Rounded Shoulders: Posture Correction Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: `
+## What Causes Rounded Shoulders?
+
+Rounded shoulders happen when your shoulders roll forward, creating a hunched appearance:
+
+**Contributing factors:**
+- Desk work and computer use
+- Phone use (looking down)
+- Driving
+- Weak upper back muscles
+- Tight chest muscles
+- Poor body awareness
+
+The good news: Rounded shoulders are highly correctable with consistent effort.
+
+## The Problem Chain
+
+Rounded shoulders don't exist alone. They're part of a pattern:
+
+1. **Tight pecs** pull shoulders forward
+2. **Weak rhomboids/mid-traps** can't pull them back
+3. **Tight lats** internally rotate the shoulders
+4. **Weak external rotators** can't counteract
+5. **Forward head** often follows
+
+Fixing rounded shoulders means addressing all of these.
+
+## Self-Assessment
+
+### Wall Test
+
+1. Stand with back against wall
+2. Heels, butt, and upper back should touch
+3. Try to touch back of head to wall without tilting chin up
+4. Note: How far are your shoulders from the wall?
+
+**Ideal:** Shoulders touch or nearly touch the wall comfortably.
+
+### Posture Check
+
+1. Stand naturally
+2. Look at your hands—where do thumbs point?
+3. **Ideal:** Thumbs forward
+4. **Rounded shoulders:** Thumbs point toward each other
+
+## Stretches for Rounded Shoulders
+
+### Doorway Chest Stretch
+
+1. Stand in doorway
+2. Place forearms on door frame (elbow at shoulder height)
+3. Step one foot through
+4. Lean forward until stretch in chest
+5. Hold 30-60 seconds
+6. Repeat with arms higher and lower
+
+### Corner Stretch (Both Sides)
+
+1. Face corner of room
+2. Place forearms on each wall
+3. Lean into corner
+4. Feel stretch across both pecs
+5. Hold 30-60 seconds
+
+### Lat Stretch
+
+1. Grab door frame or pole at head height
+2. Step back, hinge at hips
+3. Let arm straighten, feel stretch in lat
+4. Hold 30 seconds each side
+
+### Supine Chest Opener
+
+1. Lie on foam roller lengthwise (along spine)
+2. Arms out to sides, palms up
+3. Let gravity open chest
+4. Hold 2-3 minutes
+5. Relax and breathe
+
+## Strengthening Exercises
+
+### Face Pulls (Band or Cable)
+
+1. Attach band at face height
+2. Pull toward face, elbows high and wide
+3. Squeeze shoulder blades at end
+4. 15-20 reps, 3 sets
+5. Focus on external rotation
+
+### Prone Y-T-W Raises
+
+**Y Raise:**
+1. Lie face down, arms overhead in Y
+2. Lift arms toward ceiling, thumbs up
+3. Hold 3 seconds
+4. 10 reps
+
+**T Raise:**
+1. Arms out to sides (T position)
+2. Lift toward ceiling, thumbs up
+3. Hold 3 seconds
+4. 10 reps
+
+**W Raise:**
+1. Elbows bent 90°, pulled back
+2. Lift and squeeze shoulder blades
+3. Hold 3 seconds
+4. 10 reps
+
+### Rows (Any Variation)
+
+1. Bent-over row, seated row, or band row
+2. Focus on squeezing shoulder blades together
+3. Don't shrug shoulders up
+4. 12-15 reps, 3 sets
+
+### Wall Angels
+
+1. Stand with back against wall
+2. Arms in "goalpost" position against wall
+3. Slide arms up and down, keeping contact with wall
+4. 10-15 reps
+5. Harder than it looks!
+
+### Chin Tucks
+
+1. Sit or stand tall
+2. Pull chin straight back (make a double chin)
+3. Hold 5 seconds
+4. 10-15 reps
+5. Addresses forward head that accompanies rounded shoulders
+
+## Posture Exercises
+
+### Brugger's Relief Position
+
+1. Sit at edge of chair
+2. Spread legs slightly, turn feet out
+3. Tilt pelvis forward (arch lower back slightly)
+4. Turn palms forward
+5. Pinch shoulder blades together
+6. Tuck chin
+7. Hold 30 seconds, repeat hourly
+
+### Scapular Squeezes
+
+1. Sit or stand tall
+2. Squeeze shoulder blades together and down
+3. Hold 5 seconds
+4. 15-20 reps
+5. Do throughout the day
+
+### Posture Reset
+
+1. Stand tall
+2. Big breath in, raise shoulders to ears
+3. Roll shoulders back
+4. Drop shoulders down
+5. This is your neutral position
+
+## Daily Routine
+
+**Morning (5 min):**
+- Supine chest opener: 2 minutes
+- Wall angels: 10 reps
+- Chin tucks: 10 reps
+
+**Throughout day (every hour):**
+- Brugger's position: 30 seconds
+- Scapular squeezes: 10 reps
+- Posture reset: 3 reps
+
+**Workout (add to regular routine):**
+- Doorway stretch: 60 seconds
+- Rows: 3 × 12
+- Face pulls: 3 × 15
+- Y-T-W: 1 set each
+
+**Evening (5 min):**
+- Corner stretch: 60 seconds
+- Lat stretch: 30 seconds each side
+- Foam roller chest opener: 2 minutes
+
+## Environmental Changes
+
+Exercises help, but address the cause:
+
+- **Monitor at eye level** — No looking down
+- **Keyboard and mouse close** — Elbows at sides
+- **Take breaks** — Stand every 30-60 minutes
+- **Phone use** — Bring phone to eye level
+- **Driving** — Adjust seat upright, mirrors to encourage posture
+
+## Timeline for Results
+
+With consistent effort:
+
+- **Week 1-2:** Improved awareness, some muscle soreness
+- **Week 3-4:** Easier to maintain good posture
+- **Week 5-8:** Visible improvement in standing posture
+- **Week 8-12:** New posture feels more natural
+- **Ongoing:** Maintenance to prevent regression
+
+## The Bottom Line
+
+1. **Stretch the front** — Chest and lats are tight
+2. **Strengthen the back** — Rhomboids, mid-traps, external rotators
+3. **Build awareness** — Catch yourself slouching
+4. **Fix your environment** — Desk setup matters
+5. **Be patient** — Years of poor posture take months to fix
+
+---
+
+*Foundational Rehab helps you stand tall with posture correction programs that address the root cause.*
+    `
+  },
+  'ankle-strengthening-exercises': {
+    title: 'Ankle Strengthening Exercises: Build Stability and Prevent Sprains',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## Why Ankle Strength Matters
+
+Strong, stable ankles prevent injury and improve performance:
+
+- **Sprain prevention** — Ankles that recover quickly from wobbles
+- **Better balance** — Foundation for all standing activities
+- **Athletic performance** — Power transfer from ground up
+- **Pain reduction** — Strong muscles support the joint
+
+If you've sprained your ankle before, strengthening is essential—once sprained, always vulnerable (unless you train it).
+
+## Ankle Anatomy Basics
+
+Your ankle moves in multiple directions:
+
+- **Dorsiflexion:** Toes toward shin
+- **Plantarflexion:** Pointing toes
+- **Inversion:** Sole turns inward
+- **Eversion:** Sole turns outward
+
+Strength and control in all directions = stable ankle.
+
+## Range of Motion Exercises
+
+Start here, especially post-injury:
+
+### Ankle Circles
+
+1. Sit with leg extended or hanging
+2. Make circles with foot (not whole leg)
+3. 10 circles each direction
+4. Do both ankles
+
+### Alphabet Writing
+
+1. Sit with leg extended
+2. "Write" the alphabet with your big toe
+3. Move from ankle, not hip
+4. Complete A-Z each foot
+
+### Dorsiflexion Stretch
+
+1. Stand facing wall, hands on wall
+2. Step back foot back, keep heel down
+3. Bend front knee toward wall
+4. Feel stretch in calf of back leg
+5. Hold 30 seconds each side
+
+## Basic Strengthening
+
+### 4-Way Ankle with Band
+
+Use a resistance band anchored to something sturdy:
+
+**Dorsiflexion:**
+1. Band around top of foot, pulling forward
+2. Pull toes toward shin against resistance
+3. 15 reps
+
+**Plantarflexion:**
+1. Band around ball of foot, anchored behind
+2. Point toes against resistance
+3. 15 reps
+
+**Inversion:**
+1. Band around inside of foot, anchored to side
+2. Turn sole inward against resistance
+3. 15 reps
+
+**Eversion:**
+1. Band around outside of foot, anchored to opposite side
+2. Turn sole outward against resistance
+3. 15 reps
+
+### Calf Raises
+
+1. Stand on edge of step, heels hanging off
+2. Rise onto toes
+3. Lower slowly below step level
+4. 15-20 reps
+5. Progress: single leg, add weight
+
+### Tibialis Raises
+
+1. Lean back against wall, feet out in front
+2. Lift toes off ground (heels stay down)
+3. Lower with control
+4. 15-20 reps
+5. Strengthens front of ankle (often neglected)
+
+## Balance Exercises
+
+### Single Leg Stand
+
+1. Stand on one foot
+2. Goal: 30 seconds without touching down
+3. Progress: eyes closed, on pillow, catching ball
+
+### Tandem Stance
+
+1. Heel-to-toe position (like on tightrope)
+2. Hold 30 seconds
+3. Progress: eyes closed
+
+### Single Leg Reach
+
+1. Stand on one foot
+2. Reach other foot forward, back, side
+3. Return to center between each
+4. 5 reaches each direction
+
+## Advanced Stability
+
+### BOSU Ball Exercises
+
+1. Stand on dome side (unstable)
+2. Progress: two feet → one foot → squats
+3. Challenges ankle constantly
+
+### Wobble Board
+
+1. Stand on wobble board
+2. Try to keep edges from touching ground
+3. Progress to single leg
+
+### Single Leg Hops
+
+1. Small hops in place on one foot
+2. Hop forward/back, side to side
+3. Hop and stick (land and hold)
+4. Progress to plyometric jumps
+
+### Lateral Band Walks
+
+1. Band around ankles
+2. Side step with control
+3. 10 steps each direction
+4. Strengthens evertors (sprain prevention)
+
+## Sport-Specific Training
+
+### For Runners
+
+- Single leg calf raises: 3 × 15
+- Single leg balance: 30 sec each
+- Hop and stick drills
+- Hill running (builds eccentric strength)
+
+### For Basketball/Court Sports
+
+- Lateral agility drills
+- Jump and land training
+- Change of direction with ankle focus
+- Plyometric progressions
+
+### For Hikers
+
+- Single leg step-downs (mimic downhill)
+- Uneven surface balance training
+- Loaded calf raises (with backpack)
+- Ankle circles before and after
+
+## Post-Sprain Protocol
+
+If recovering from an ankle sprain:
+
+**Week 1-2 (Acute):**
+- RICE (rest, ice, compression, elevation)
+- Gentle ankle circles
+- Alphabet writing
+- Isometric resistance (no movement)
+
+**Week 2-4 (Subacute):**
+- 4-way band exercises (light resistance)
+- Double leg calf raises
+- Weight bearing as tolerated
+- Beginning balance work
+
+**Week 4-8 (Strengthening):**
+- Progressive resistance exercises
+- Single leg exercises
+- Balance board training
+- Sport-specific movements
+
+**Week 8+ (Return to Sport):**
+- Plyometrics
+- Agility drills
+- Full sport participation
+- Ongoing maintenance
+
+## Sample Workout
+
+**Warm-Up:**
+- Ankle circles: 10 each direction
+- Calf stretch: 30 seconds each
+
+**Strength Circuit (2-3 rounds):**
+- Calf raises: 15 reps
+- Tibialis raises: 15 reps
+- 4-way band exercises: 15 reps each
+- Single leg balance: 30 seconds each
+
+**Balance Challenge:**
+- Single leg reaches: 5 each direction
+- Hop and stick: 5 reps each foot
+- Single leg eyes closed: 15 seconds each
+
+**Cool-Down:**
+- Calf stretch: 30 seconds each
+- Dorsiflexion stretch: 30 seconds each
+
+## The Bottom Line
+
+1. **Train all directions** — Dorsiflexion, plantarflexion, inversion, eversion
+2. **Balance is key** — Proprioception prevents sprains
+3. **Progress gradually** — Stable → unstable → dynamic
+4. **Don't skip after sprains** — Rehab prevents re-injury
+5. **Make it sport-specific** — Train how you play
+
+---
+
+*Foundational Rehab builds bulletproof ankles with progressive strengthening and balance programs.*
+    `
+  },
+  'exercises-for-arthritis': {
+    title: 'Exercises for Arthritis: Safe Movement for Joint Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Why Exercise Helps Arthritis
+
+It seems counterintuitive—exercise painful joints? But research is clear: movement is one of the best treatments for arthritis:
+
+**Benefits:**
+- Reduces pain and stiffness
+- Strengthens muscles that support joints
+- Maintains range of motion
+- Improves function and independence
+- Helps with weight management
+- Boosts mood and energy
+
+**The alternative:** Avoiding movement leads to weaker muscles, stiffer joints, and more pain.
+
+## Types of Arthritis
+
+The two most common types:
+
+### Osteoarthritis (OA)
+- "Wear and tear" arthritis
+- Cartilage breaks down
+- Most common in knees, hips, hands, spine
+- Exercise is a primary treatment
+
+### Rheumatoid Arthritis (RA)
+- Autoimmune condition
+- Affects joint lining
+- Often symmetric (both sides)
+- Exercise helps, but timing matters (avoid during flares)
+
+Exercise benefits both, but approach may differ.
+
+## General Principles
+
+### Start Low, Go Slow
+
+- Begin with 10-15 minutes
+- Low intensity
+- Increase gradually over weeks
+
+### Respect Pain
+
+- Mild discomfort during exercise: OK
+- Sharp pain or lasting pain: Too much
+- Pain 2+ hours after: Reduce intensity next time
+
+### Consistency Over Intensity
+
+- Regular gentle movement beats occasional hard workouts
+- Aim for daily movement, even just 10 minutes
+
+### Protect Your Joints
+
+- Use full range of motion when possible
+- Avoid high-impact activities if joints are inflamed
+- Use proper form to reduce joint stress
+
+## Range of Motion Exercises
+
+Maintain joint mobility with gentle movements:
+
+### Finger Exercises
+
+1. Make a fist, then spread fingers wide
+2. Touch thumb to each fingertip
+3. 10 reps each hand
+4. Do throughout the day
+
+### Wrist Circles
+
+1. Extend arm, make gentle circles with wrist
+2. 10 each direction
+3. Both wrists
+
+### Shoulder Circles
+
+1. Roll shoulders forward (10x)
+2. Roll shoulders backward (10x)
+3. Make circles as big as comfortable
+
+### Knee Extension
+
+1. Sit in chair, extend one leg straight
+2. Hold 5 seconds
+3. Lower slowly
+4. 10 reps each leg
+
+### Hip Circles
+
+1. Stand holding chair
+2. Lift one knee, make circles with it
+3. 10 circles each direction
+4. Both legs
+
+## Strengthening Exercises
+
+Strong muscles protect joints:
+
+### Chair Stand
+
+1. Sit at edge of sturdy chair
+2. Stand up without using hands (if possible)
+3. Sit back down with control
+4. 10 reps
+5. Use hands for assist if needed
+
+### Wall Push-Up
+
+1. Stand arm's length from wall
+2. Place hands on wall, shoulder height
+3. Bend elbows, lean toward wall
+4. Push back
+5. 10-15 reps
+
+### Seated Leg Raise
+
+1. Sit in chair with good posture
+2. Straighten one leg, hold 5 seconds
+3. Lower slowly
+4. 10 reps each leg
+
+### Clamshells
+
+1. Lie on side, knees bent
+2. Keep feet together, lift top knee
+3. Lower with control
+4. 15 reps each side
+
+### Bridge
+
+1. Lie on back, knees bent, feet flat
+2. Lift hips toward ceiling
+3. Hold 5 seconds
+4. Lower slowly
+5. 10-15 reps
+
+### Mini Squats
+
+1. Stand holding chair back
+2. Bend knees slightly (partial squat)
+3. Keep weight in heels
+4. Stand back up
+5. 10-15 reps
+6. Only go as deep as comfortable
+
+## Low-Impact Cardio
+
+Get your heart pumping without stressing joints:
+
+### Walking
+
+- Start with 10 minutes, increase gradually
+- Flat surfaces are easiest
+- Good supportive shoes
+- Can use walking poles for stability
+
+### Swimming/Water Exercise
+
+- Water supports body weight (buoyancy)
+- Excellent for arthritis
+- Water temperature: Warm is often more comfortable
+- Water aerobics classes available at many pools
+
+### Cycling
+
+- Low impact on joints
+- Stationary bike is safest
+- Start with low resistance
+- Recumbent bikes good for back issues
+
+### Elliptical
+
+- Lower impact than treadmill
+- Smooth motion
+- Can use just lower body
+
+## Flexibility Exercises
+
+Gentle stretches to maintain range of motion:
+
+### Hamstring Stretch
+
+1. Sit at edge of chair
+2. Extend one leg, heel on floor
+3. Lean forward with straight back
+4. Hold 30 seconds each leg
+
+### Calf Stretch
+
+1. Stand facing wall
+2. Step one foot back, keep heel down
+3. Lean into wall
+4. Hold 30 seconds each side
+
+### Quad Stretch (Supported)
+
+1. Stand holding chair
+2. Bend knee, hold foot behind you
+3. Keep knees together
+4. Hold 30 seconds each leg
+
+### Chest Stretch
+
+1. Stand in doorway
+2. Forearm on door frame
+3. Step through until stretch in chest
+4. Hold 30 seconds each side
+
+## Sample Weekly Plan
+
+**Daily (10 min):**
+- Range of motion exercises
+- Walking (even just 10 minutes)
+
+**3x Per Week (20-30 min):**
+- Warm-up: 5 min easy movement
+- Strengthening: Chair stands, wall push-ups, bridges, clamshells
+- Cardio: Walking, swimming, or cycling
+- Stretching: 5 minutes
+
+**Listen to Your Body:**
+- Reduce on bad days (still do gentle movement)
+- Increase on good days
+
+## Managing Flares
+
+When arthritis flares up:
+
+- Continue gentle range of motion
+- Reduce intensity significantly
+- Avoid high-resistance exercises
+- Ice after if needed
+- Don't stop completely unless doctor advises
+
+## Tips for Success
+
+### Timing
+
+- Many people feel stiffest in the morning
+- Some exercise after joints "warm up"
+- Others do gentle morning routine to loosen up
+- Find what works for you
+
+### Heat and Cold
+
+- Warm up before exercise (warm shower, heating pad)
+- Ice after if joints feel inflamed
+- Experiment to find what helps
+
+### Water Exercise
+
+If land exercise is too painful:
+- Pool exercise removes 90% of body weight
+- Warm water soothes joints
+- Progress to land as tolerated
+
+### Get Support
+
+- Physical therapist can create personalized plan
+- Group classes provide motivation
+- Arthritis Foundation offers resources
+
+## The Bottom Line
+
+1. **Movement is medicine** — Exercise reduces arthritis symptoms
+2. **Start small** — 10 minutes daily beats sporadic intense sessions
+3. **Protect your joints** — Low impact, good form
+4. **Strengthen supporting muscles** — Takes load off joints
+5. **Listen to your body** — Mild discomfort OK, sharp pain means stop
+
+---
+
+*Foundational Rehab provides arthritis-friendly exercise programs that keep you moving safely.*
+    `
   }
 };
 

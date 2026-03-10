@@ -4100,6 +4100,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Routines',
     readTime: '5 min read'
+  },
+  {
+    slug: 'exercises-for-sciatica',
+    title: 'Exercises for Sciatica: Relieve Nerve Pain at Home',
+    excerpt: 'Direction-specific exercises and nerve glides to relieve sciatic nerve pain.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'fix-rounded-shoulders',
+    title: 'How to Fix Rounded Shoulders: Posture Correction Guide',
+    excerpt: 'Stretch the front, strengthen the back, and fix your desk setup for better posture.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'ankle-strengthening-exercises',
+    title: 'Ankle Strengthening Exercises: Build Stability and Prevent Sprains',
+    excerpt: 'Build bulletproof ankles with progressive strengthening and balance training.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-arthritis',
+    title: 'Exercises for Arthritis: Safe Movement for Joint Pain',
+    excerpt: 'Movement is medicine—safe exercises for osteoarthritis and rheumatoid arthritis.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
   }
 ];
 
