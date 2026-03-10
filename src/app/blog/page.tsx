@@ -4496,6 +4496,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Routines',
     readTime: '6 min read'
+  },
+  {
+    slug: 'cool-down-exercises',
+    title: 'Cool Down Exercises: Post-Workout Recovery Routine',
+    excerpt: 'Proper cool-down technique with static stretches for better recovery.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read'
+  },
+  {
+    slug: 'exercises-for-herniated-disc',
+    title: 'Exercises for Herniated Disc: Safe Movement Guide',
+    excerpt: 'McKenzie exercises and safe movements for herniated disc recovery.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'how-to-build-endurance',
+    title: 'How to Build Endurance: Cardiovascular Training Guide',
+    excerpt: 'Build cardiovascular endurance with progressive training plans.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-weak-knees',
+    title: 'Exercises for Weak Knees: Build Strength and Stability',
+    excerpt: 'Strengthen weak knees with progressive quad and glute exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
   }
 ];
 

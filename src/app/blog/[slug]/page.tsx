@@ -140926,6 +140926,927 @@ Exercise helps, but setup matters too:
 
 *Foundational Rehab keeps office workers moving with simple, effective desk-friendly exercises.*
     `
+  },
+  'cool-down-exercises': {
+    title: 'Cool Down Exercises: Post-Workout Recovery Routine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: `
+## Why Cooling Down Matters
+
+A proper cool-down helps your body transition from exercise to rest:
+
+**Benefits:**
+- Gradually lowers heart rate
+- Prevents blood pooling in legs
+- Reduces muscle soreness (DOMS)
+- Improves flexibility (muscles are warm)
+- Promotes relaxation
+- Clears metabolic waste
+
+**Skipping cool-down risks:**
+- Dizziness from sudden stop
+- Increased muscle soreness
+- Missed flexibility opportunity
+- Poor recovery
+
+## Components of a Good Cool-Down
+
+### 1. Light Cardiovascular Activity
+
+Gradually bring heart rate down:
+- Slow walking
+- Easy cycling
+- Light movement
+
+**Duration:** 3-5 minutes
+**Intensity:** Decreasing to very light
+
+### 2. Static Stretching
+
+Now is the time for static stretches:
+- Hold 30-60 seconds per stretch
+- Focus on muscles used in workout
+- Breathe deeply
+- Don't bounce
+
+### 3. Relaxation/Breathing
+
+Wind down mentally:
+- Deep breathing
+- Relaxed lying down
+- Mental transition from exercise to rest
+
+## Static Stretches for Cool-Down
+
+### Lower Body
+
+**Quadriceps Stretch:**
+1. Stand on one leg
+2. Pull other foot toward butt
+3. Keep knees together
+4. Hold 30-45 seconds each
+
+**Hamstring Stretch:**
+1. Foot on elevated surface
+2. Leg straight, hinge forward
+3. Hold 30-45 seconds each
+
+**Hip Flexor Stretch:**
+1. Half-kneeling position
+2. Tuck tailbone, shift forward
+3. Hold 30-45 seconds each
+
+**Glute Stretch (Figure 4):**
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull toward chest
+4. Hold 30-45 seconds each
+
+**Calf Stretch:**
+1. Wall stretch, back leg straight
+2. Then bent knee for soleus
+3. Hold 30 seconds each position
+
+### Upper Body
+
+**Chest Stretch:**
+1. Arm on doorframe or wall
+2. Step through
+3. Hold 30 seconds each side
+
+**Shoulder Stretch:**
+1. Pull arm across body
+2. Hold at elbow
+3. Hold 30 seconds each
+
+**Triceps Stretch:**
+1. Reach behind head
+2. Pull elbow with other hand
+3. Hold 30 seconds each
+
+**Lat Stretch:**
+1. Hold onto doorframe or pole
+2. Lean away, feel stretch in side
+3. Hold 30 seconds each
+
+### Full Body
+
+**Child's Pose:**
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor
+4. Hold 60 seconds
+
+**Supine Twist:**
+1. Lie on back
+2. Knees to one side
+3. Look opposite direction
+4. Hold 30-45 seconds each side
+
+**Cat-Cow:**
+1. On hands and knees
+2. Alternate arching and rounding
+3. 8-10 slow cycles
+
+## Workout-Specific Cool-Downs
+
+### After Running
+
+1. Walk: 3-5 minutes
+2. Quad stretch: 30 sec each
+3. Hamstring stretch: 30 sec each
+4. Hip flexor stretch: 30 sec each
+5. Calf stretch (straight + bent): 30 sec each
+6. Glute stretch: 30 sec each
+
+### After Weightlifting
+
+1. Light movement: 3 minutes
+2. Stretch muscles trained:
+   - Upper body day: Chest, shoulders, triceps, lats
+   - Lower body day: Quads, hamstrings, glutes, hips
+3. Hold each 30-45 seconds
+4. Full body stretch if needed
+
+### After HIIT/Cardio
+
+1. Slow walk or light movement: 3-5 minutes
+2. Full body static stretching: 8-10 minutes
+3. Deep breathing: 2 minutes
+
+### After Yoga/Flexibility
+
+1. Already stretchy—focus on relaxation
+2. Savasana (corpse pose): 5-10 minutes
+3. Deep breathing
+
+## Quick Cool-Down Routine (5 min)
+
+When time is short:
+
+1. Walk slowly: 1 min
+2. Quad stretch: 20 sec each
+3. Hamstring stretch: 20 sec each
+4. Chest/shoulder stretch: 20 sec each
+5. Deep breaths: 30 seconds
+
+## Full Cool-Down Routine (10-15 min)
+
+Complete recovery:
+
+1. Light walking/movement: 3 min
+2. Quads: 30 sec each
+3. Hamstrings: 30 sec each
+4. Hip flexors: 30 sec each
+5. Glutes: 30 sec each
+6. Calves: 30 sec each (both positions)
+7. Chest: 30 sec each
+8. Shoulders: 30 sec each
+9. Child's pose: 60 sec
+10. Supine twist: 30 sec each
+11. Deep breathing: 1-2 min
+
+## Additional Recovery Tips
+
+### Hydration
+
+Drink water after exercise to replace fluids lost through sweat.
+
+### Nutrition
+
+Eat protein and carbs within 30-60 minutes of hard workouts.
+
+### Foam Rolling
+
+Can be added to cool-down for additional muscle recovery.
+
+### Sleep
+
+The most important recovery tool. Prioritize 7-9 hours.
+
+## The Bottom Line
+
+1. **Don't skip it** — Cool-down aids recovery
+2. **Start with light movement** — Gradually decrease intensity
+3. **Stretch while warm** — Best time for flexibility work
+4. **Hold 30+ seconds** — Minimum for static stretches
+5. **Breathe and relax** — Transition body and mind
+
+---
+
+*Foundational Rehab helps you recover fully with targeted cool-down routines.*
+    `
+  },
+  'exercises-for-herniated-disc': {
+    title: 'Exercises for Herniated Disc: Safe Movement Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Understanding Herniated Discs
+
+A herniated disc occurs when the inner gel of a spinal disc pushes through the outer ring:
+
+**Symptoms:**
+- Back pain
+- Leg pain (sciatica if in lower back)
+- Numbness or tingling
+- Weakness in affected area
+- Symptoms often worse with sitting, bending
+
+**Important:** Many disc herniations heal without surgery. Exercise is often a key part of recovery.
+
+## Red Flags—See a Doctor Immediately
+
+- Loss of bladder or bowel control
+- Progressive weakness in legs
+- Numbness in groin area
+- Severe pain that doesn't change with position
+
+## The McKenzie Approach
+
+Most lumbar disc herniations respond to extension exercises:
+
+### Why Extension Helps
+
+- May help push disc material back toward center
+- Opens up space for nerves
+- Centralizes pain (moves it from leg toward back)
+- Reduces pressure on the disc
+
+### Centralization Is Good
+
+If exercises cause leg pain to move closer to the spine (even if back pain temporarily increases), that's usually a good sign.
+
+### Peripheralization Is Bad
+
+If exercises cause pain to move further down the leg, stop and try something else.
+
+## Extension-Based Exercises
+
+### 1. Prone Lying
+
+1. Lie face down
+2. Arms at sides, head turned
+3. Let lower back relax and sag
+4. Stay 2-5 minutes
+5. Start here—simplest position
+
+### 2. Prone on Elbows
+
+1. Lie face down
+2. Prop up on elbows
+3. Keep hips on floor
+4. Let back sag
+5. Hold 30-60 seconds
+6. Repeat several times
+
+### 3. Press-Ups
+
+1. Lie face down, hands under shoulders
+2. Press upper body up, hips stay down
+3. Arms can be straight or partially bent
+4. Lower and repeat
+5. 10 reps, multiple times daily
+6. Key exercise for disc problems
+
+### 4. Standing Back Extension
+
+1. Hands on lower back
+2. Lean backward gently
+3. Hold 2-3 seconds
+4. Return to standing
+5. 10 reps
+6. Good for doing throughout day
+
+## If Extension Doesn't Help
+
+Some herniations respond better to flexion:
+
+### Knee to Chest
+
+1. Lie on back
+2. Gently pull one knee toward chest
+3. Hold 20-30 seconds
+4. Try both sides
+
+### Double Knee to Chest
+
+1. Hug both knees
+2. Rock gently
+3. Hold 30 seconds
+
+**If flexion helps and extension doesn't**, you may have a different pattern. Work with a professional.
+
+## Exercises to Avoid (Initially)
+
+**Generally avoid:**
+- Sit-ups and crunches
+- Toe touches
+- Heavy lifting
+- Twisting under load
+- Prolonged sitting
+- High-impact activities
+
+## Core Stabilization
+
+Once acute pain decreases, add core stability:
+
+### Bird Dog
+
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep back flat
+4. Hold 5 seconds
+5. 10 reps each side
+
+### Dead Bug
+
+1. Lie on back, knees at 90°
+2. Press lower back into floor
+3. Lower opposite arm and leg
+4. Return before back arches
+5. 10 reps each side
+
+### Modified Plank
+
+1. Forearms and knees on floor
+2. Keep body straight
+3. Hold 20-30 seconds
+4. Don't let back sag
+
+## Walking
+
+Walking is one of the best exercises for disc problems:
+- Promotes healing
+- Gentle spinal movement
+- Non-impact
+- Start with short walks, build up
+
+## Daily Routine for Herniated Disc
+
+**Every 2 hours:**
+- Prone on elbows: 30-60 seconds
+- Standing back extension: 5-10 reps
+
+**Morning:**
+- Prone lying: 3-5 minutes
+- Press-ups: 10 reps
+- Walking: 10-15 minutes
+
+**Evening:**
+- Prone lying: 3-5 minutes
+- Press-ups: 10 reps
+- Bird dog: 10 reps each side
+- Walking: 10-15 minutes
+
+## Recovery Timeline
+
+**Week 1-2:**
+- Focus on pain management
+- Extension exercises frequently
+- Walking
+
+**Week 2-4:**
+- Continue extension program
+- Add core stabilization
+- Gradually increase activity
+
+**Week 4-8:**
+- Progressive strengthening
+- Return to normal activities
+- Maintain extension exercises
+
+**Note:** Full healing may take 3-6 months. Most people improve significantly in first 6-8 weeks.
+
+## Prevention of Recurrence
+
+Once recovered:
+- Maintain core strength
+- Practice good lifting mechanics
+- Avoid prolonged sitting
+- Regular movement breaks
+- Keep up extension exercises
+
+## The Bottom Line
+
+1. **Extension usually helps** — Press-ups are key
+2. **Centralization is good** — Pain moving toward spine is progress
+3. **Walking helps** — Gentle movement promotes healing
+4. **Build core stability** — Protects the spine
+5. **Be patient** — Healing takes time, but most improve
+
+---
+
+*Foundational Rehab provides disc-friendly exercise programs to support your recovery.*
+    `
+  },
+  'how-to-build-endurance': {
+    title: 'How to Build Endurance: Cardiovascular Training Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '7 min read',
+    content: `
+## What Is Cardiovascular Endurance?
+
+Cardiovascular endurance is your heart, lungs, and muscles' ability to sustain exercise over time:
+
+**Benefits:**
+- Stronger heart
+- Better oxygen delivery
+- More efficient metabolism
+- Improved recovery
+- Lower resting heart rate
+- Better stamina for daily life
+- Reduced disease risk
+
+## Types of Cardio Training
+
+### Low-Intensity Steady State (LISS)
+
+- Sustained moderate effort
+- 30-60+ minutes
+- Can hold a conversation
+- Example: Walking, easy cycling, swimming
+
+### High-Intensity Interval Training (HIIT)
+
+- Short bursts of intense effort
+- 15-30 minutes total
+- Intervals of work and rest
+- Example: Sprint 30 sec, rest 60 sec
+
+### Moderate-Intensity Continuous Training
+
+- Middle ground
+- 20-40 minutes
+- Challenging but sustainable pace
+- Example: Jogging, moderate cycling
+
+## Building Endurance from Scratch
+
+### Week 1-2: Foundation
+
+- Walking: 20-30 minutes daily
+- Very easy pace
+- Build the habit
+- No intensity yet
+
+### Week 3-4: Adding Duration
+
+- Walking: 30-45 minutes
+- Add slight hills or inclines
+- Still conversational pace
+
+### Week 5-6: Adding Intensity
+
+- Start jog/walk intervals
+- Example: Walk 4 min, jog 1 min
+- Total time: 30 minutes
+
+### Week 7-8: Progressing
+
+- Increase jog intervals
+- Example: Walk 3 min, jog 2 min
+- Or continuous light jogging
+
+### Beyond
+
+- Gradually increase duration and/or intensity
+- Follow 10% rule (don't increase more than 10% per week)
+- Add variety
+
+## Heart Rate Zones
+
+Training in different zones builds different aspects of fitness:
+
+### Zone 1 (50-60% max HR)
+- Recovery and warm-up
+- Very easy
+- Can talk freely
+
+### Zone 2 (60-70% max HR)
+- Base building
+- Conversational
+- Should feel easy
+- Where most training should happen
+
+### Zone 3 (70-80% max HR)
+- Tempo/moderate
+- Harder to hold conversation
+- Challenging but sustainable
+
+### Zone 4 (80-90% max HR)
+- Threshold
+- Can only speak in short phrases
+- Hard effort
+
+### Zone 5 (90-100% max HR)
+- Maximum effort
+- Cannot speak
+- Short duration only
+
+**Estimate max HR:** 220 - your age (rough formula)
+
+## Cardio Workout Options
+
+### Walking
+
+- Perfect for beginners
+- Low impact
+- Progress to brisk walking, hills, rucking
+
+### Running/Jogging
+
+- Higher intensity than walking
+- Builds endurance quickly
+- Progress from walk/jog to continuous
+
+### Cycling
+
+- Low impact
+- Indoor or outdoor
+- Easy to control intensity
+
+### Swimming
+
+- Full body
+- Zero impact
+- Good for those with joint issues
+
+### Rowing
+
+- Full body
+- Low impact
+- Great for intervals
+
+### Jump Rope
+
+- High intensity
+- Improves coordination
+- Can do anywhere
+
+### Elliptical
+
+- Low impact
+- Indoor option
+- Easy to adjust intensity
+
+## Sample Training Plans
+
+### Beginner (3-4 days/week)
+
+**Week 1-4:**
+- 30 min walking
+- Easy pace
+- Build consistency
+
+**Week 5-8:**
+- 30-40 min walk/jog
+- Start with 4:1 walk to jog ratio
+- Progress to 2:1 or 1:1
+
+### Intermediate (4-5 days/week)
+
+- 2-3 days: 30-45 min moderate cardio
+- 1 day: 20-30 min HIIT or intervals
+- 1-2 days: 45-60 min easy (Zone 2)
+- Build a base with easy days, push on hard days
+
+### Advanced (5-6 days/week)
+
+- 2 days: Long slow distance (60+ min, Zone 2)
+- 2 days: Moderate tempo (30-45 min, Zone 3)
+- 1-2 days: Intervals/HIIT (20-30 min)
+- 1 day: Easy recovery or rest
+
+## Interval Workout Examples
+
+### Beginner Intervals
+
+- Warm-up: 5 min easy
+- Work: 1 min slightly harder
+- Rest: 2 min easy
+- Repeat 5-8 times
+- Cool-down: 5 min easy
+
+### Intermediate Intervals
+
+- Warm-up: 5 min
+- Work: 2 min hard
+- Rest: 2 min easy
+- Repeat 6-8 times
+- Cool-down: 5 min
+
+### HIIT
+
+- Warm-up: 5 min
+- Work: 30 sec all-out
+- Rest: 60-90 sec easy
+- Repeat 8-10 times
+- Cool-down: 5 min
+
+## Common Mistakes
+
+### Too Much Too Soon
+
+- Follow 10% rule
+- Build gradually
+- Patience prevents injury
+
+### Only Hard Workouts
+
+- Easy days are essential
+- 80% should be easy, 20% hard
+- Hard every day leads to burnout
+
+### Skipping Warm-Up/Cool-Down
+
+- Prepare your body
+- Recover properly
+- Reduces injury risk
+
+### Ignoring Strength Training
+
+- Stronger muscles improve endurance
+- Include 2-3 strength sessions weekly
+- Protects against injury
+
+## The Bottom Line
+
+1. **Start easy** — Build base with low intensity
+2. **Increase gradually** — 10% rule for progression
+3. **Mix it up** — Different intensities serve different purposes
+4. **Stay consistent** — Regular training beats sporadic hard efforts
+5. **Be patient** — Endurance takes weeks and months to build
+
+---
+
+*Foundational Rehab helps you build lasting cardiovascular fitness with progressive training plans.*
+    `
+  },
+  'exercises-for-weak-knees': {
+    title: 'Exercises for Weak Knees: Build Strength and Stability',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Why Knees Feel Weak
+
+Knee weakness can come from several sources:
+
+**Common causes:**
+- Weak quadriceps (especially VMO)
+- Weak glutes (hip control)
+- Previous injury
+- Arthritis
+- Post-surgery
+- Lack of exercise
+
+**Symptoms:**
+- Knee gives way
+- Difficulty with stairs
+- Pain with activity
+- Instability or wobbliness
+- Swelling after use
+
+## Key Muscles for Knee Strength
+
+### Quadriceps
+
+The most important muscle for knee stability:
+- Straightens the knee
+- Absorbs impact
+- Controls descent (like going down stairs)
+
+### Hamstrings
+
+- Bend the knee
+- Protect the ACL
+- Work with quads for stability
+
+### Glutes
+
+- Control hip position
+- Prevent knee from caving in
+- Power for stairs and squatting
+
+### Calves
+
+- Support behind the knee
+- Help with balance
+- Push-off power
+
+## Phase 1: Foundation Exercises
+
+Start here if knees are very weak or painful:
+
+### Quad Sets
+
+1. Sit or lie with leg straight
+2. Tighten quad by pushing knee down
+3. Hold 5-10 seconds
+4. 15-20 reps
+5. Can do multiple times daily
+
+### Straight Leg Raise
+
+1. Lie on back, one knee bent
+2. Tighten quad of straight leg
+3. Lift leg to height of bent knee
+4. Hold 3 seconds, lower slowly
+5. 15 reps, 2-3 sets
+
+### Seated Knee Extension
+
+1. Sit in chair
+2. Straighten one leg
+3. Hold 5 seconds
+4. Lower slowly
+5. 15 reps each leg
+
+### Glute Squeezes
+
+1. Lie on back or stomach
+2. Squeeze buttocks together
+3. Hold 5 seconds
+4. 15-20 reps
+
+## Phase 2: Strengthening
+
+Progress when Phase 1 is easy:
+
+### Mini Squats
+
+1. Stand holding chair or counter
+2. Squat down a quarter to half depth
+3. Keep weight in heels
+4. Stand back up
+5. 15 reps, 2-3 sets
+
+### Step-Ups (Low)
+
+1. Use 4-6 inch step
+2. Step up with weaker leg
+3. Don't push off back leg
+4. Step down slowly
+5. 10-15 reps each leg
+
+### Wall Sit
+
+1. Back against wall
+2. Slide down until thighs at comfortable angle
+3. Hold 20-60 seconds
+4. 3 sets
+
+### Terminal Knee Extension
+
+1. Place rolled towel under knee
+2. Straighten leg, lifting heel
+3. Focus on last 15° of extension
+4. Hold 5 seconds
+5. 15 reps each leg
+
+### Glute Bridge
+
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Hold 3 seconds
+4. 15 reps
+
+### Clamshells
+
+1. Lie on side, knees bent 45°
+2. Keep feet together
+3. Lift top knee
+4. 15-20 reps each side
+
+## Phase 3: Functional Strength
+
+Progress when Phase 2 is easy:
+
+### Full Squats
+
+1. Feet shoulder-width
+2. Squat as deep as comfortable
+3. Keep knees tracking over toes
+4. 12-15 reps
+
+### Lunges
+
+1. Step forward into lunge
+2. Lower back knee toward ground
+3. Push back to start
+4. 10 reps each leg
+
+### Step-Ups (Higher)
+
+1. Use 8-12 inch step
+2. Same technique as low step-ups
+3. Progress to no hand support
+
+### Single-Leg Balance
+
+1. Stand on one leg
+2. Hold 30 seconds
+3. Progress to eyes closed
+
+### Single-Leg Deadlift
+
+1. Stand on one leg
+2. Hinge forward, opposite leg back
+3. Keep back flat
+4. 10 reps each leg
+
+## Balance Training
+
+Stability requires balance:
+
+### Tandem Stance
+
+1. Heel-to-toe position
+2. Hold 30 seconds
+3. Switch which foot is in front
+
+### Single-Leg Stance with Movement
+
+1. Stand on one leg
+2. Move arms around
+3. Or reach with other leg
+4. 30 seconds each leg
+
+### Wobble Board/BOSU (Advanced)
+
+1. Stand on unstable surface
+2. Two feet first, then one
+3. Challenge balance systems
+
+## Low-Impact Cardio Options
+
+Build endurance without stressing knees:
+
+- Swimming
+- Cycling
+- Elliptical
+- Water aerobics
+- Walking (flat surfaces)
+
+## Daily Routine for Weak Knees
+
+**Morning (5 min):**
+- Quad sets: 15 reps each
+- Glute squeezes: 15 reps
+- Mini squats: 15 reps
+
+**Evening (15 min):**
+- Straight leg raises: 2 × 15 each
+- Terminal knee extension: 2 × 15
+- Step-ups: 2 × 10 each
+- Wall sit: 2 × 30 seconds
+- Glute bridges: 2 × 15
+- Clamshells: 2 × 15 each
+- Single-leg balance: 30 sec each
+
+## Tips for Exercising with Weak Knees
+
+### Ice After Exercise
+
+If knees swell or ache after exercise, ice for 15-20 minutes.
+
+### Don't Push Through Sharp Pain
+
+Muscle fatigue is okay. Sharp or increasing pain is not.
+
+### Progress Slowly
+
+Better to progress slowly than to flare up and have to stop.
+
+### Consider Supportive Footwear
+
+Good shoes help alignment and shock absorption.
+
+### Maintain Healthy Weight
+
+Less weight = less stress on knees.
+
+## The Bottom Line
+
+1. **Quads are key** — Strengthen them first
+2. **Don't forget glutes** — They control the knee
+3. **Start easy** — Build up gradually
+4. **Balance matters** — Include stability work
+5. **Stay consistent** — Regular exercise builds lasting strength
+
+---
+
+*Foundational Rehab builds strong, stable knees with progressive strengthening programs.*
+    `
   }
 };
 
