@@ -4136,6 +4136,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Conditions',
     readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-lower-back-pain',
+    title: 'Exercises for Lower Back Pain: Evidence-Based Relief',
+    excerpt: 'Find your direction preference and relieve lower back pain with targeted exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'how-to-squat-correctly',
+    title: 'How to Do a Squat Correctly: Complete Form Guide',
+    excerpt: 'Master the squat with proper setup, common mistake fixes, and mobility drills.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'neck-pain-exercises',
+    title: 'Neck Pain Exercises: Relieve Tension and Stiffness',
+    excerpt: 'Chin tucks, stretches, and strengthening exercises to relieve neck pain.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'foam-rolling-guide',
+    title: 'Foam Rolling Guide: How to Use a Foam Roller Effectively',
+    excerpt: 'Proper technique for foam rolling every muscle group plus a full-body routine.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
   }
 ];
 

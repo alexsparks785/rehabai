@@ -131437,6 +131437,914 @@ If land exercise is too painful:
 
 *Foundational Rehab provides arthritis-friendly exercise programs that keep you moving safely.*
     `
+  },
+  'exercises-for-lower-back-pain': {
+    title: 'Exercises for Lower Back Pain: Evidence-Based Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '8 min read',
+    content: `
+## The Truth About Lower Back Pain
+
+Lower back pain affects 80% of people at some point. The good news: Most cases improve with the right exercises, not rest.
+
+**Key facts:**
+- Imaging often shows "abnormalities" in pain-free people
+- Bed rest usually makes things worse
+- Movement is medicine for most back pain
+- Strength and mobility prevent recurrence
+
+## Find Your Direction Preference
+
+Like sciatica, most back pain responds better to either flexion or extension:
+
+### Extension Preference (Most Common)
+- Pain centralizes (moves toward spine) with backward bending
+- Often disc-related
+- Worse with sitting, bending forward
+- Better with standing, walking, lying flat
+
+### Flexion Preference
+- Pain centralizes with forward bending
+- Often stenosis or facet-related
+- Worse with standing, walking
+- Better with sitting, bending forward
+
+**Try both carefully to find what helps YOUR back.**
+
+## Acute Phase (First 1-2 Weeks)
+
+### Pain-Free Movement
+
+1. Walk frequently—even just 5-10 minutes
+2. Change positions often
+3. Avoid prolonged sitting OR standing
+4. Sleep in comfortable position (side with pillow between knees often helps)
+
+### Gentle Exercises
+
+**Pelvic Tilts:**
+1. Lie on back, knees bent
+2. Flatten lower back against floor (tilt pelvis)
+3. Hold 5 seconds
+4. 10-15 reps
+
+**Knee to Chest (Single):**
+1. Lie on back
+2. Gently hug one knee toward chest
+3. Keep other leg straight or bent
+4. Hold 20-30 seconds each side
+
+**Cat-Cow (Gentle):**
+1. On hands and knees
+2. Slowly arch back (cat)
+3. Slowly sag back (cow)
+4. Move through pain-free range only
+5. 10 cycles
+
+## Extension-Based Exercises
+
+If extension feels better:
+
+### Prone Lying
+
+1. Lie face down, arms at sides
+2. Relax completely
+3. Stay 5-10 minutes
+4. Let back sag naturally
+
+### Prone on Elbows
+
+1. Lie face down
+2. Prop up on elbows
+3. Keep hips on floor
+4. Hold 30-60 seconds
+5. Repeat often throughout day
+
+### Press-Ups
+
+1. Lie face down, hands under shoulders
+2. Press upper body up, keep hips down
+3. Lower slowly
+4. 10 reps, multiple times daily
+5. Progress depth gradually
+
+### Standing Extension
+
+1. Stand with hands on lower back
+2. Lean backward gently
+3. Hold 2-3 seconds
+4. 10 reps
+5. Good for doing at work
+
+## Flexion-Based Exercises
+
+If flexion feels better:
+
+### Double Knee to Chest
+
+1. Lie on back
+2. Hug both knees toward chest
+3. Rock gently side to side
+4. Hold 30 seconds
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward on floor
+3. Rest forehead down
+4. Hold 30-60 seconds
+
+### Seated Forward Fold
+
+1. Sit with legs extended
+2. Reach toward toes
+3. Keep slight knee bend if needed
+4. Hold 30 seconds
+
+## Core Strengthening
+
+Weak core = unstable spine. Build these:
+
+### Dead Bug
+
+1. Lie on back, arms up, knees at 90°
+2. Lower opposite arm and leg toward floor
+3. Keep lower back pressed to floor
+4. Return, switch sides
+5. 10 reps each side
+
+### Bird Dog
+
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep back flat (don't rotate)
+4. Hold 5 seconds
+5. 10 reps each side
+
+### Modified Plank
+
+1. Forearms and knees on floor
+2. Keep body straight from head to knees
+3. Hold 20-30 seconds
+4. Progress to full plank
+
+### Side Plank (Modified)
+
+1. Lie on side, prop on elbow
+2. Lift hips, support on elbow and knees
+3. Keep body straight
+4. Hold 15-30 seconds each side
+
+### Glute Bridges
+
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes, lift hips
+3. Hold 5 seconds at top
+4. Lower slowly
+5. 15 reps
+
+## Hip Mobility
+
+Tight hips stress the lower back:
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Shift weight forward
+4. Feel stretch in front of back hip
+5. Hold 30-60 seconds each side
+
+### 90-90 Hip Stretch
+
+1. Sit with both legs at 90° angles
+2. Front leg: knee out to side
+3. Back leg: knee behind you
+4. Sit tall, hold 30 seconds
+5. Switch sides
+
+### Figure-4 Stretch
+
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull bottom thigh toward chest
+4. Hold 30 seconds each side
+
+## Daily Routine
+
+**Morning (5 min):**
+- Cat-cow: 10 cycles
+- Pelvic tilts: 10 reps
+- Single knee to chest: 30 sec each
+- Bird dog: 5 each side
+
+**Midday (5 min):**
+- Walking: 5-10 minutes
+- Standing extension (if helps): 10 reps
+- Hip flexor stretch: 30 sec each
+
+**Evening (10 min):**
+- Full core routine (dead bug, bird dog, plank, bridges)
+- Hip stretches: 30 sec each
+- Direction-specific exercise: 10 reps
+
+## What to Avoid
+
+**During acute pain:**
+- Heavy lifting
+- Twisting under load
+- Prolonged sitting
+- High-impact activities
+
+**Always:**
+- Rounding back while lifting (hip hinge instead)
+- Sit-ups and crunches (stress the spine)
+- Exercises that increase leg symptoms
+
+## Red Flags—See a Doctor
+
+Seek medical attention for:
+- Loss of bladder/bowel control
+- Progressive leg weakness
+- Numbness in groin area
+- Severe pain that doesn't change with position
+- Pain following trauma
+- Unexplained weight loss with back pain
+
+## Prevention
+
+After acute pain resolves:
+
+1. **Keep moving** — Daily walks, regular exercise
+2. **Strengthen core** — 3x weekly
+3. **Maintain hip mobility** — Daily stretching
+4. **Practice good mechanics** — Hip hinge, lift with legs
+5. **Manage weight** — Less load on spine
+
+## The Bottom Line
+
+1. **Movement beats rest** — Gentle activity helps healing
+2. **Find your direction** — Extension or flexion preference
+3. **Build core strength** — Stable spine = less pain
+4. **Don't forget hips** — Tight hips cause back problems
+5. **Be patient** — Most back pain improves in weeks, not days
+
+---
+
+*Foundational Rehab provides personalized back pain programs based on your specific needs and direction preference.*
+    `
+  },
+  'how-to-squat-correctly': {
+    title: 'How to Do a Squat Correctly: Complete Form Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read',
+    content: `
+## Why Squats Matter
+
+The squat is fundamental to human movement—you do it every time you sit down and stand up:
+
+**Benefits:**
+- Builds leg and glute strength
+- Improves hip and ankle mobility
+- Strengthens core stability
+- Transfers to daily activities
+- Increases bone density
+
+Master the bodyweight squat before adding weight.
+
+## Perfect Squat Setup
+
+### Stance
+
+- Feet shoulder-width apart (or slightly wider)
+- Toes pointing slightly out (15-30°)
+- Weight distributed across whole foot
+- Find what feels natural for YOUR body
+
+### Starting Position
+
+- Stand tall, core engaged
+- Shoulders back and down
+- Head neutral, eyes forward
+- Arms can be forward for balance
+
+## The Movement
+
+### Going Down (Eccentric)
+
+1. **Initiate with hips** — Push hips back slightly
+2. **Bend knees** — Track over toes (same direction toes point)
+3. **Keep chest up** — Don't round forward
+4. **Maintain neutral spine** — Natural curve in lower back
+5. **Descend controlled** — Don't drop
+
+### Depth
+
+- Ideal: Thighs parallel to floor or below
+- Reality: Go as deep as you can with good form
+- Limited by: Ankle mobility, hip mobility, body proportions
+
+### Coming Up (Concentric)
+
+1. **Drive through whole foot** — Not just toes
+2. **Push knees out** — Don't let them cave in
+3. **Lead with chest** — Keep torso upright
+4. **Squeeze glutes at top** — Full hip extension
+
+## Common Mistakes
+
+### Knee Cave (Valgus)
+
+**Problem:** Knees collapse inward
+**Cause:** Weak glutes, poor motor control
+**Fix:** Cue "push knees out," strengthen glutes, use mini band above knees
+
+### Butt Wink
+
+**Problem:** Pelvis tucks under at bottom
+**Cause:** Limited hip mobility, going too deep
+**Fix:** Reduce depth temporarily, work on hip mobility, strengthen core
+
+### Forward Lean
+
+**Problem:** Torso tips forward excessively
+**Cause:** Weak core, tight ankles, long femurs
+**Fix:** Elevate heels slightly, strengthen core, widen stance
+
+### Heels Rising
+
+**Problem:** Heels come off ground
+**Cause:** Limited ankle dorsiflexion
+**Fix:** Ankle mobility work, elevate heels, widen stance and turn toes out more
+
+### Knees Too Far Forward
+
+**Problem:** Weight shifts to toes
+**Cause:** Over-cueing "sit back," limited ankle mobility
+**Fix:** Some forward knee travel is fine and natural—focus on whole-foot pressure
+
+## Squat Variations
+
+### Goblet Squat
+
+1. Hold weight at chest (dumbbell or kettlebell)
+2. Elbows between knees at bottom
+3. Great for learning—weight acts as counterbalance
+4. Builds depth naturally
+
+### Box Squat
+
+1. Squat down to a box or bench
+2. Pause briefly, then stand
+3. Teaches proper depth
+4. Builds confidence
+
+### Wall Squat (Isometric)
+
+1. Back against wall
+2. Slide down until thighs parallel
+3. Hold 30-60 seconds
+4. Builds strength at weak point
+
+### Split Squat
+
+1. Feet staggered front to back
+2. Lower back knee toward ground
+3. Front knee stays over ankle
+4. Great for single-leg strength
+
+### Bulgarian Split Squat
+
+1. Back foot elevated on bench
+2. Front foot forward
+3. Lower until back knee nears ground
+4. Advanced single-leg exercise
+
+## Mobility for Better Squats
+
+### Ankle Mobility
+
+**Wall Ankle Stretch:**
+1. Face wall, one foot back
+2. Front knee drives toward wall
+3. Keep heel down
+4. 30 seconds each side
+
+**Heel Elevated Squats:**
+1. Place heels on small plates or slant board
+2. Squat with elevated heels
+3. Reduces ankle mobility demand
+
+### Hip Mobility
+
+**90-90 Stretch:**
+1. Sit with legs in 90-90 position
+2. Lean toward front shin
+3. 30 seconds, switch sides
+
+**Deep Squat Hold:**
+1. Squat as deep as possible
+2. Hold onto something for support if needed
+3. Hang out for 1-2 minutes
+4. Rock side to side
+
+**Frog Stretch:**
+1. On hands and knees
+2. Spread knees wide, feet together
+3. Rock back toward heels
+4. 60 seconds
+
+## Building Your Squat
+
+### Beginner Progression
+
+1. **Assisted squat** — Hold onto something, focus on form
+2. **Box squat** — Squat to target, build confidence
+3. **Bodyweight squat** — Full depth, controlled
+4. **Goblet squat** — Add light weight
+
+### If You Can't Squat Deep
+
+Work on:
+1. Ankle mobility daily
+2. Hip mobility daily
+3. Squat to a box at achievable depth
+4. Gradually lower the box over weeks
+
+### Sample Squat Workout
+
+**Warm-Up:**
+- Ankle circles: 10 each
+- Hip circles: 10 each
+- Bodyweight squats: 10 easy reps
+
+**Working Sets:**
+- Goblet squats: 3 × 10
+- Split squats: 3 × 8 each leg
+- Wall squat hold: 2 × 30 seconds
+
+**Mobility:**
+- Deep squat hold: 2 minutes total
+- Hip flexor stretch: 30 seconds each
+
+## Squat Cues That Work
+
+**"Spread the floor"** — Push feet apart (without moving them) to activate glutes
+
+**"Chest up"** — Keeps torso upright
+
+**"Sit between your hips"** — Opens up space for depth
+
+**"Knees out"** — Prevents cave-in
+
+**"Drive through the whole foot"** — Keeps balanced
+
+## The Bottom Line
+
+1. **Master bodyweight first** — Form before load
+2. **Knees tracking toes is fine** — Old "knees behind toes" cue is outdated
+3. **Depth depends on your body** — Work toward full depth over time
+4. **Mobility is key** — Ankles and hips limit most people
+5. **Train consistently** — Squatting regularly improves squatting
+
+---
+
+*Foundational Rehab helps you build a strong, deep squat with mobility work and progressive training.*
+    `
+  },
+  'neck-pain-exercises': {
+    title: 'Neck Pain Exercises: Relieve Tension and Stiffness',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Understanding Neck Pain
+
+Most neck pain comes from muscle tension, poor posture, or minor strain—not serious structural problems:
+
+**Common causes:**
+- Forward head posture (tech neck)
+- Stress and tension
+- Poor sleeping position
+- Prolonged desk work
+- Muscle weakness
+
+**Good news:** Exercise and posture changes help most neck pain.
+
+## Warning: When NOT to Exercise
+
+See a doctor first if you have:
+- Neck pain after trauma (car accident, fall)
+- Pain radiating down both arms
+- Numbness or weakness in arms
+- Difficulty walking or balance problems
+- Severe headache with stiff neck
+
+## Gentle Range of Motion
+
+Start here for acute pain:
+
+### Chin Tucks
+
+1. Sit or stand tall
+2. Pull chin straight back (make a double chin)
+3. Hold 5 seconds
+4. 10-15 reps
+5. Most important exercise for neck pain
+
+### Neck Rotation
+
+1. Sit tall, shoulders relaxed
+2. Slowly turn head to look right
+3. Hold 5 seconds
+4. Return to center, turn left
+5. 5-10 reps each direction
+
+### Neck Side Bend
+
+1. Sit tall, look straight ahead
+2. Tilt right ear toward right shoulder
+3. Don't rotate or lift shoulder
+4. Hold 5 seconds
+5. Return, tilt left
+6. 5-10 reps each side
+
+### Neck Flexion/Extension
+
+1. Slowly look down (chin toward chest)
+2. Hold 5 seconds
+3. Slowly look up (chin toward ceiling)
+4. Hold 5 seconds
+5. Keep movements gentle
+6. 5-10 cycles
+
+## Stretches for Neck Tension
+
+### Upper Trapezius Stretch
+
+1. Sit tall, hold chair seat with right hand
+2. Tilt left ear toward left shoulder
+3. Add gentle pressure with left hand on head
+4. Hold 30 seconds
+5. Switch sides
+
+### Levator Scapulae Stretch
+
+1. Sit tall, turn head 45° to the right
+2. Look down toward right armpit
+3. Gently assist with right hand
+4. Hold 30 seconds
+5. Switch sides
+
+### Scalene Stretch
+
+1. Sit tall, hold chair seat with right hand
+2. Tilt left ear to left shoulder
+3. Rotate chin slightly upward
+4. Hold 30 seconds
+5. Switch sides
+
+### Suboccipital Release
+
+1. Place fingers at base of skull
+2. Apply firm pressure
+3. Nod head gently (small yes motion)
+4. Continue 60 seconds
+5. Can also use tennis balls lying down
+
+## Strengthening Exercises
+
+### Deep Neck Flexor Activation
+
+1. Lie on back, knees bent
+2. Tuck chin gently (don't lift head)
+3. Hold 10 seconds
+4. 10 reps
+5. Builds deep stabilizers
+
+### Isometric Neck Exercises
+
+**Flexion:**
+1. Place palm on forehead
+2. Push head into hand, don't move
+3. Hold 5 seconds, 5 reps
+
+**Extension:**
+1. Place hands behind head
+2. Push head back into hands
+3. Hold 5 seconds, 5 reps
+
+**Side Bend:**
+1. Place hand on side of head
+2. Push head into hand sideways
+3. Hold 5 seconds, 5 reps each side
+
+**Rotation:**
+1. Place hand on side of head
+2. Try to turn head into hand
+3. Hold 5 seconds, 5 reps each side
+
+### Wall Angels
+
+1. Stand with back against wall
+2. Arms in goalpost position against wall
+3. Slide arms up and down
+4. Keep back of head touching wall
+5. 10 reps
+
+### Rows (For Upper Back)
+
+Weak upper back contributes to neck pain:
+
+1. Band or cable row
+2. Squeeze shoulder blades together
+3. Don't shrug shoulders
+4. 15 reps, 3 sets
+
+## Posture Corrections
+
+### Desk Setup
+
+- Monitor at eye level
+- Keyboard/mouse close (elbows at sides)
+- Chair supporting lower back
+- Feet flat on floor
+
+### Phone Use
+
+- Hold phone at eye level
+- Use voice-to-text
+- Take breaks from scrolling
+
+### Sleeping Position
+
+- Pillow should keep neck neutral
+- Side sleepers: pillow fills gap between shoulder and head
+- Back sleepers: thin pillow, don't flex neck forward
+
+## Daily Routine for Neck Pain
+
+**Morning (5 min):**
+- Chin tucks: 10 reps
+- Gentle neck rotations: 5 each way
+- Upper trap stretch: 30 sec each
+
+**Throughout Day (every hour):**
+- Chin tucks: 5 reps
+- Shoulder rolls: 10 forward, 10 back
+- Posture reset
+
+**Evening (10 min):**
+- All range of motion exercises
+- All stretches: 30 seconds each
+- Isometric strengthening
+- Suboccipital release: 60 seconds
+
+## Heat vs. Ice
+
+**Heat:**
+- Better for muscle tension
+- Use before stretching
+- 15-20 minutes
+
+**Ice:**
+- Better for acute injury/inflammation
+- Use after exercises if sore
+- 15-20 minutes with cloth barrier
+
+## When to Progress
+
+Move to strengthening when:
+- Acute pain has decreased
+- Full range of motion (or close)
+- No increase in pain with movement
+
+## The Bottom Line
+
+1. **Chin tucks are king** — Do them constantly
+2. **Posture matters** — Fix your desk, phone habits
+3. **Stretch the front, strengthen the back** — Address muscle imbalances
+4. **Move frequently** — Don't stay in one position too long
+5. **Be patient** — Neck pain often takes 2-6 weeks to fully resolve
+
+---
+
+*Foundational Rehab provides neck pain relief programs combining mobility, strength, and posture correction.*
+    `
+  },
+  'foam-rolling-guide': {
+    title: 'Foam Rolling Guide: How to Use a Foam Roller Effectively',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: `
+## What Foam Rolling Actually Does
+
+Foam rolling is a form of self-myofascial release (SMR):
+
+**What research shows:**
+- Increases range of motion temporarily
+- May reduce muscle soreness
+- Can decrease muscle tension
+- Does NOT "break up" scar tissue or "release" fascia
+
+**Best uses:**
+- Warm-up before exercise
+- Recovery between sessions
+- Addressing tight, tender spots
+
+## Foam Rolling Basics
+
+### Equipment
+
+- **Soft foam roller** — Good for beginners
+- **Firm foam roller** — More pressure, standard choice
+- **Textured roller** — Extra pressure points
+- **Lacrosse ball/tennis ball** — For smaller areas
+
+### General Technique
+
+1. Position body weight over roller on target muscle
+2. Roll slowly (1-2 inches per second)
+3. When you find a tender spot, pause 20-30 seconds
+4. Breathe and try to relax
+5. Don't roll over bones or joints
+6. Spend 1-2 minutes per muscle group
+
+### Intensity
+
+- Should feel like "good pain" (5-7/10)
+- Not so intense you can't relax
+- Reduce pressure if tensing up against roller
+
+## Lower Body Foam Rolling
+
+### Quadriceps
+
+1. Face down, roller under front of thighs
+2. Support on forearms
+3. Roll from hip to just above knee
+4. Turn slightly to hit inner and outer quad
+
+### IT Band
+
+1. Lie on side, roller under outer thigh
+2. Support on bottom forearm
+3. Roll from hip to just above knee
+4. This can be intense—use top leg to reduce pressure
+
+### Hamstrings
+
+1. Sit on roller, legs extended
+2. Roll from sit bones to just above knee
+3. Rotate leg in/out to hit different areas
+4. Cross one leg over other for more pressure
+
+### Glutes
+
+1. Sit on roller, cross one ankle over opposite knee
+2. Lean toward crossed leg side
+3. Roll around the glute
+4. Can also use lacrosse ball for deeper work
+
+### Calves
+
+1. Sit with roller under one calf
+2. Cross other leg over for pressure
+3. Roll from ankle to below knee
+4. Rotate foot in/out to hit different areas
+
+### Adductors (Inner Thigh)
+
+1. Face down, one leg out to side
+2. Roller under inner thigh
+3. Roll from groin to knee
+4. Adjust angle to cover whole area
+
+## Upper Body Foam Rolling
+
+### Upper Back (Thoracic Spine)
+
+1. Lie on roller horizontally across upper back
+2. Support head with hands
+3. Lift hips and roll from mid-back to shoulders
+4. Don't roll lower back (too much extension)
+
+### Lats
+
+1. Lie on side, arm extended overhead
+2. Roller under armpit/side of back
+3. Roll from armpit to bottom of ribs
+4. Rotate slightly forward to catch more lat
+
+### Chest/Pecs
+
+1. Lie face down, roller at angle under chest
+2. Or use lacrosse ball against wall
+3. Roll from shoulder toward sternum
+4. Don't crush your shoulder joint
+
+## When to Foam Roll
+
+### Before Workout (2-3 min)
+
+- Brief rolling to warm up muscles
+- Focus on tight areas
+- Don't overdo it—save energy for training
+
+### After Workout (5-10 min)
+
+- More thorough rolling
+- Focus on muscles you trained
+- Helps with recovery
+
+### Rest Days (10-15 min)
+
+- Full body routine
+- Take your time on problem areas
+- Good for overall maintenance
+
+## What NOT to Foam Roll
+
+**Avoid:**
+- Lower back (spine) — Too much pressure on vertebrae
+- Neck — Too delicate
+- Directly over bones — No benefit, just pain
+- Joints — Roll muscles, not joints
+- Acute injuries — Don't roll strains/sprains
+
+## Sample Full Body Routine
+
+**Lower Body (8 min):**
+1. Calves: 60 sec each
+2. Hamstrings: 60 sec each
+3. Quads: 60 sec each
+4. IT band: 60 sec each
+5. Adductors: 60 sec each
+6. Glutes: 60 sec each
+
+**Upper Body (4 min):**
+1. Upper back: 90 sec
+2. Lats: 60 sec each
+3. Chest (ball): 60 sec each
+
+**Total: ~12 minutes**
+
+## Common Mistakes
+
+### Rolling Too Fast
+
+Slow down. Fast rolling doesn't allow muscles to relax.
+
+### Only Rolling Where It Hurts
+
+Tension in one area often causes problems elsewhere. Roll systematically.
+
+### Too Much Pressure
+
+If you're tensing up against the roller, reduce pressure.
+
+### Expecting Miracles
+
+Foam rolling helps but doesn't replace stretching, strengthening, or proper training.
+
+### Rolling Directly on Pain
+
+If there's acute injury or sharp pain, don't roll it. See a professional.
+
+## Foam Rolling vs. Other Tools
+
+### Lacrosse Ball
+- Smaller, more targeted
+- Good for: glutes, pecs, feet, shoulder blade area
+
+### Massage Gun
+- Percussive therapy
+- Faster, less effort
+- Good for: warm-up, between sets
+
+### Stick Roller
+- Self-controlled pressure
+- Good for: calves, quads, IT band
+
+## The Bottom Line
+
+1. **Roll slowly** — 1-2 inches per second
+2. **Pause on tender spots** — 20-30 seconds
+3. **Breathe and relax** — Don't fight the roller
+4. **Be consistent** — Regular rolling beats occasional sessions
+5. **It's a tool, not a cure** — Combine with stretching and strengthening
+
+---
+
+*Foundational Rehab includes foam rolling protocols in our recovery programming.*
+    `
   }
 };
 
