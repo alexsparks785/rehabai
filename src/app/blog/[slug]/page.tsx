@@ -114004,6 +114004,936 @@ Only if it doesn't aggravate symptoms.
 
 *Foundational Rehab offers hip bursitis programs with progressive loading protocols.*
     `
+  },
+  'exercises-for-tech-neck': {
+    title: 'Exercises for Tech Neck: Fix Forward Head Posture from Devices',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '5 min read',
+    content: `
+## What Is Tech Neck?
+
+Tech neck is forward head posture caused by looking down at devices:
+- Phones
+- Tablets
+- Laptops
+- Gaming
+
+For every inch your head moves forward, it adds 10 pounds of strain on your neck. Looking down at a phone can create 50-60 pounds of neck stress.
+
+## Symptoms of Tech Neck
+
+- Neck pain and stiffness
+- Upper back pain
+- Headaches (often at base of skull)
+- Shoulder tension
+- Reduced neck mobility
+- Rounded upper back
+
+## The Fix: Three Components
+
+### 1. Strengthen What's Weak
+
+Deep neck flexors and upper back muscles are typically weak.
+
+### 2. Stretch What's Tight
+
+Chest, front of neck, and upper traps are usually tight.
+
+### 3. Change the Habit
+
+Device habits must change, or exercises won't help long-term.
+
+## Essential Exercises
+
+### Chin Tucks (THE Exercise)
+
+**The single most important exercise for tech neck.**
+
+**How to:**
+- Sit or stand tall
+- Pull chin straight back (not down)
+- Make a double chin
+- Hold 5 seconds
+- 15-20 reps, multiple times daily
+
+**Advanced:** Do against wall or lying down for more challenge.
+
+### Deep Neck Flexor Strengthening
+
+**How to:**
+- Lie on back, small towel under neck
+- Tuck chin and press back of head into floor
+- Keep chin tucked throughout
+- Hold 10 seconds
+- 10 reps, 2-3 times daily
+
+Strengthens muscles that hold your head in proper position.
+
+### Prone Cobra
+
+**How to:**
+- Lie face down, arms at sides
+- Lift chest, squeeze shoulder blades back
+- Rotate palms outward
+- Tuck chin (don't crane neck back)
+- Hold 5-10 seconds
+- 10 reps
+
+Strengthens entire posterior chain of the neck and upper back.
+
+### Wall Angels
+
+**How to:**
+- Stand with back against wall
+- Arms at 90° (goal post position)
+- Press head, back, and arms into wall
+- Slide arms up and down
+- 10-15 slow reps
+
+Strengthens upper back while training proper head position.
+
+### Face Pulls / Band Pull-Aparts
+
+**How to:**
+- Band at face height (or chest height for pull-aparts)
+- Pull toward face / pull apart
+- Squeeze shoulder blades
+- 3 sets of 15-20
+
+Strengthens muscles that counter forward posture.
+
+## Stretches
+
+### Upper Trap Stretch
+
+**How to:**
+- Tilt ear toward shoulder
+- Add gentle hand pressure
+- Keep opposite shoulder down
+- Hold 30 seconds each side
+
+### Levator Scapulae Stretch
+
+**How to:**
+- Look down toward opposite armpit
+- Add gentle hand pressure
+- Hold 30 seconds each side
+
+Often the tight spot causing headaches.
+
+### Chest Stretch
+
+**How to:**
+- Doorway stretch
+- Forearm on frame, step through
+- 30-45 seconds each side
+
+Opens chest that pulls shoulders forward.
+
+### Suboccipital Release
+
+**How to:**
+- Two tennis balls in a sock
+- Lie on back, balls at base of skull
+- Let head relax onto balls
+- 2-3 minutes
+
+Releases tension at skull base (common headache trigger).
+
+## Daily Routine
+
+### Morning (5 Minutes)
+
+1. Chin tucks: 15 reps
+2. Deep neck flexor holds: 5 x 10 sec
+3. Cat-cow: 10 reps
+
+### Throughout Day (Every Hour)
+
+1. Chin tucks: 5 reps
+2. Shoulder rolls: 10 each direction
+3. Check device position
+
+### Evening (10 Minutes)
+
+1. Suboccipital release: 2 min
+2. Upper trap stretch: 30 sec each
+3. Levator scapulae stretch: 30 sec each
+4. Doorway stretch: 30 sec each
+5. Chin tucks: 15 reps
+6. Prone cobra: 10 reps
+
+## Habit Changes (Essential)
+
+### Phone Use
+
+- Raise phone to eye level
+- Use both hands
+- Take breaks every 10-15 minutes
+- Voice commands when possible
+
+### Computer Use
+
+- Monitor at eye level
+- Arms supported
+- Screen arm's length away
+- Take breaks every 30 minutes
+
+### General
+
+- Be aware of head position
+- Posture check reminders
+- Strengthen the habit of good posture
+
+## For Children and Teens
+
+Tech neck is increasingly common in young people.
+
+**Teach:**
+- How to hold devices properly
+- Importance of breaks
+- Posture awareness
+
+**Limit:**
+- Screen time
+- Prolonged device use without breaks
+
+## The Bottom Line
+
+1. **Chin tucks are essential** — Multiple times daily
+2. **Strengthen weak muscles** — Deep neck flexors, upper back
+3. **Stretch tight muscles** — Traps, levator, chest
+4. **Change device habits** — Exercises alone won't fix it
+5. **Consistency wins** — Daily practice, hourly awareness
+
+---
+
+*Foundational Rehab offers tech neck correction programs with daily reminders and exercises.*
+    `
+  },
+  'exercises-for-hand-arthritis': {
+    title: 'Exercises for Hand Arthritis: Maintain Function and Reduce Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Arthritis',
+    readTime: '6 min read',
+    content: `
+## Understanding Hand Arthritis
+
+Hand arthritis commonly affects:
+- Finger joints (DIP, PIP, MCP)
+- Base of thumb (CMC joint)
+- Wrist
+
+It can cause:
+- Pain and stiffness
+- Reduced grip strength
+- Difficulty with fine motor tasks
+- Joint swelling
+- Reduced range of motion
+
+Exercise can help maintain function and reduce symptoms.
+
+## Benefits of Hand Exercise
+
+- Maintains joint range of motion
+- Preserves grip strength
+- Reduces stiffness
+- Improves blood flow
+- Maintains dexterity
+- May slow progression
+
+## When to Exercise
+
+**Best times:**
+- After warm shower (joints looser)
+- Mid-morning (less stiff than early morning)
+- When joints feel relatively good
+
+**Avoid:**
+- During active flares (severe swelling, heat)
+- If causing increased pain
+
+## Range of Motion Exercises
+
+### Finger Bends
+
+**How to:**
+- Start with fingers straight
+- Bend all fingers at the knuckles (hook shape)
+- Return to straight
+- Then make a full fist
+- Open fully
+- 10 reps, 2-3 times daily
+
+### Finger Spreads
+
+**How to:**
+- Hold hand flat
+- Spread fingers as wide as possible
+- Bring back together
+- 10 reps
+
+### Thumb Circles
+
+**How to:**
+- Move thumb in slow circles
+- 5 circles each direction
+- Repeat several times daily
+
+### Thumb-to-Finger Touch
+
+**How to:**
+- Touch thumb to each fingertip
+- Make an "O" shape with each
+- 2-3 rounds
+
+### Wrist Circles
+
+**How to:**
+- Slow circles in both directions
+- 10 each direction
+
+### Wrist Flexion/Extension
+
+**How to:**
+- Rest forearm on table, hand hanging off
+- Bend wrist up, then down
+- 10-15 reps
+
+## Strengthening Exercises
+
+### Grip Squeeze
+
+**How to:**
+- Squeeze soft ball or therapy putty
+- Hold 5 seconds
+- 10-15 reps
+- Don't squeeze too hard — moderate pressure
+
+### Pinch Strengthening
+
+**How to:**
+- Pinch therapy putty between thumb and fingers
+- Hold 5 seconds
+- 10 reps
+
+### Finger Extension with Rubber Band
+
+**How to:**
+- Place rubber band around fingers
+- Spread fingers against resistance
+- 10-15 reps
+
+### Towel Squeeze
+
+**How to:**
+- Roll up small towel
+- Squeeze with whole hand
+- Hold 5 seconds
+- 10 reps
+
+## Thumb-Specific Exercises
+
+The CMC joint (base of thumb) is commonly affected.
+
+### Thumb Extension
+
+**How to:**
+- Place hand flat on table
+- Lift thumb up (away from palm)
+- Lower slowly
+- 10-15 reps
+
+### Opposition
+
+**How to:**
+- Touch thumb to base of pinky finger
+- Return to starting position
+- 10 reps
+
+### Thumb Circles
+
+**How to:**
+- Large, slow circles
+- 5-10 each direction
+
+### Thumb Press
+
+**How to:**
+- Press thumb into palm
+- Hold 5 seconds
+- 10 reps
+
+## Gentle Stretches
+
+### Finger Extension Stretch
+
+**How to:**
+- Use other hand to gently straighten each finger
+- Hold 15-20 seconds
+- Don't force — gentle stretch only
+
+### Prayer Stretch
+
+**How to:**
+- Press palms together in front of chest
+- Lower hands while keeping palms pressed
+- Feel stretch in wrists/fingers
+- Hold 15-20 seconds
+
+### Wrist Flexor Stretch
+
+**How to:**
+- Extend arm, palm up
+- Use other hand to gently press fingers back
+- 15-20 seconds each
+
+## Warm-Up Techniques
+
+### Before Exercise
+
+**Warm water soak:**
+- 5-10 minutes in warm (not hot) water
+- Add Epsom salt if desired
+
+**Heating pad:**
+- 10-15 minutes of gentle heat
+- Wrap in towel
+
+**Hand rub:**
+- Massage hands with lotion
+- Gently mobilize each joint
+
+## Sample Daily Routine
+
+### Morning (5 Minutes)
+
+*After warm water soak:*
+1. Finger bends: 10 reps
+2. Thumb circles: 5 each direction
+3. Wrist circles: 10 each direction
+4. Grip squeeze (gentle): 10 reps
+
+### Midday (3 Minutes)
+
+1. Finger spreads: 10 reps
+2. Thumb-to-finger touch: 2 rounds
+3. Wrist flexion/extension: 10 reps
+
+### Evening (5 Minutes)
+
+1. All range of motion exercises
+2. Gentle stretches
+3. Self-massage with lotion
+
+## Joint Protection Tips
+
+### Distribute Force
+
+- Use larger joints when possible
+- Use both hands for heavy objects
+- Use palms rather than fingers
+
+### Assistive Devices
+
+- Built-up handles (utensils, pens)
+- Jar openers
+- Button hooks
+- Ergonomic tools
+
+### Avoid
+
+- Sustained tight gripping
+- Repetitive forceful movements
+- Prolonged static positions
+- Carrying heavy bags by handles
+
+## During Flares
+
+### What to Do
+
+- Rest the affected joints
+- Use ice or heat (whichever helps)
+- Very gentle range of motion (no strengthening)
+- Medication as prescribed
+
+### What to Avoid
+
+- Strengthening exercises
+- Stretching into pain
+- Ignoring increased symptoms
+
+## When to See a Doctor
+
+**Seek evaluation if:**
+- Significant increased pain or swelling
+- New joint deformity
+- Difficulty with daily activities
+- Current treatments not helping
+- You're unsure about diagnosis
+
+## The Bottom Line
+
+1. **Movement helps** — Gentle exercise maintains function
+2. **Warm up first** — Heat or warm water before exercise
+3. **Don't force it** — Pain-free range only
+4. **Consistency matters** — Daily gentle exercise beats occasional intense
+5. **Protect your joints** — Assistive devices and good mechanics
+
+---
+
+*Foundational Rehab offers hand arthritis programs with gentle daily exercises.*
+    `
+  },
+  'how-to-release-a-tight-psoas': {
+    title: 'How to Release a Tight Psoas: The Hidden Hip Flexor',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Self-Treatment',
+    readTime: '6 min read',
+    content: `
+## What Is the Psoas?
+
+The psoas (so-az) is a deep hip flexor muscle that:
+- Connects your lower spine to your femur
+- Runs through your pelvis
+- Is the only muscle connecting your spine to your legs
+- Affects posture, breathing, and even emotions
+
+It's often called the "muscle of the soul" due to its connection to the fight-or-flight response.
+
+## Signs of a Tight Psoas
+
+- Lower back pain (especially with standing)
+- Pain in the front of the hip
+- Difficulty standing up straight after sitting
+- One hip feels tighter than the other
+- Discomfort lying flat on your back
+- Shortened stride when walking
+
+## Why the Psoas Gets Tight
+
+### Sitting
+
+The #1 cause. Sitting keeps the psoas in a shortened position for hours.
+
+### Stress
+
+The psoas is connected to the fight-or-flight response. Chronic stress = chronic psoas tension.
+
+### Core Weakness
+
+When the core is weak, the psoas overworks to stabilize the spine.
+
+### Running and Cycling
+
+Repetitive hip flexion without adequate stretching.
+
+### Protective Guarding
+
+After injury or surgery, the psoas may guard the area.
+
+## Psoas Release Techniques
+
+### Ball Release (Most Effective Self-Treatment)
+
+**How to:**
+- Lie face down
+- Place ball (tennis or softer) below hip bone, inside of hip
+- You're targeting the muscle running along the front of the spine
+- Find tender spot and relax into it
+- Hold 60-90 seconds
+- Breathe deeply
+- Move ball to find other tender areas
+
+**Caution:** This area is sensitive. Start gentle. Avoid if you have abdominal conditions, are pregnant, or feel pulsing (artery).
+
+### Constructive Rest Position
+
+**How to:**
+- Lie on back, knees bent, feet flat
+- Feet slightly wider than hips
+- Let knees fall together
+- Arms relaxed at sides or on belly
+- Stay 10-20 minutes
+- Allows psoas to release passively
+
+This is a neurological release — the psoas relaxes when it feels safe.
+
+### Supported Hip Flexor Position
+
+**How to:**
+- Lie on back at edge of bed
+- Let one leg hang off, supported by floor
+- Other knee pulled gently toward chest
+- Hold 2-3 minutes each side
+- Gravity creates gentle stretch
+
+## Stretches for the Psoas
+
+### Kneeling Hip Flexor Stretch (Classic)
+
+**How to:**
+- Kneel on one knee
+- Tuck pelvis under (flatten lower back)
+- Squeeze back glute
+- Stay upright — don't lean forward
+- Hold 60-90 seconds each side
+
+**Key:** The pelvic tuck and glute squeeze are essential. Without them, you're not actually stretching the psoas.
+
+### Low Lunge with Reach
+
+**How to:**
+- Same as above
+- Add same-side arm reach overhead
+- Lean away slightly
+- Feel deeper stretch
+- Hold 45-60 seconds each side
+
+### Supine Psoas Stretch
+
+**How to:**
+- Lie at edge of bed
+- Pull one knee to chest
+- Let other leg hang toward floor
+- Hold 60-90 seconds each side
+- Gravity stretches the hanging leg's psoas
+
+## Strengthening (Important!)
+
+A tight psoas is often also a weak psoas. Strengthening helps long-term.
+
+### Marching (Core Engaged)
+
+**How to:**
+- Lie on back, knees bent
+- Engage core (flatten back slightly)
+- Lift one knee toward chest
+- Lower slowly, switch
+- 10-15 each side
+
+### Standing Psoas March
+
+**How to:**
+- Stand tall, core engaged
+- Lift knee to hip height
+- Hold 3-5 seconds
+- Lower with control
+- 10 each side
+
+### Dead Bugs
+
+**How to:**
+- Lie on back, arms up, knees at 90°
+- Lower opposite arm and leg
+- Keep back flat
+- 10 each side
+
+Strengthens core, reducing psoas compensation.
+
+## Addressing the Root Cause
+
+### Sitting
+
+- Take breaks every 30-60 minutes
+- Stand and stretch hip flexors
+- Consider standing desk
+- Sit differently (varied positions)
+
+### Stress
+
+- The psoas responds to stress reduction
+- Deep breathing activates relaxation
+- Yoga and meditation help
+- Address life stressors
+
+### Core Weakness
+
+- Build core strength (planks, dead bugs)
+- Reduce psoas compensation
+- Improve overall stability
+
+## Daily Routine
+
+### Morning (5 Minutes)
+
+1. Constructive rest position: 5 min (can do while waking up)
+2. Kneeling hip flexor stretch: 45 sec each
+
+### Throughout Day
+
+- Stand and stretch after prolonged sitting
+- Hip flexor stretch at desk
+- Movement breaks
+
+### Evening (10 Minutes)
+
+1. Ball release: 60 sec each side
+2. Kneeling hip flexor stretch: 60 sec each
+3. Low lunge with reach: 45 sec each
+4. Constructive rest: 5 min
+
+## When Professional Help Is Needed
+
+### See a Therapist If
+
+- Self-treatment isn't helping
+- Pain is significant
+- You can't find the psoas
+- Underlying conditions present
+- Symptoms are worsening
+
+### Professional Options
+
+- Massage therapy
+- Physical therapy
+- Myofascial release
+- Dry needling
+
+## The Bottom Line
+
+1. **Sitting is the main culprit** — Address it directly
+2. **Release techniques first** — Ball work, constructive rest
+3. **Stretch correctly** — Pelvic tuck, glute squeeze
+4. **Strengthen too** — Weak psoas often also tight
+5. **Address stress** — Psoas responds to nervous system state
+
+---
+
+*Foundational Rehab offers psoas release programs addressing the physical and stress components.*
+    `
+  },
+  'how-to-prevent-muscle-cramps': {
+    title: 'How to Prevent Muscle Cramps: Causes and Solutions',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## What Causes Muscle Cramps?
+
+Muscle cramps have several potential causes:
+- Muscle fatigue
+- Dehydration
+- Electrolyte imbalance
+- Poor circulation
+- Muscle tightness
+- Nerve compression
+- Medications
+
+Often it's a combination of factors.
+
+## Types of Cramps
+
+### Exercise-Associated Cramps
+
+- Occur during or after exercise
+- Usually in muscles being used
+- Related to fatigue and possibly hydration/electrolytes
+
+### Nocturnal Leg Cramps
+
+- Occur during sleep
+- Usually calves, sometimes feet or thighs
+- More common with age
+
+### Heat Cramps
+
+- Occur in hot environments
+- Related to sweat loss and electrolyte depletion
+
+## Prevention Strategies
+
+### Stay Hydrated
+
+**How much:**
+- 8-10 glasses of water daily (more if active)
+- Drink before, during, and after exercise
+- Monitor urine color (pale yellow is good)
+
+**Signs of dehydration:**
+- Dark urine
+- Thirst
+- Fatigue
+- Dry mouth
+
+### Maintain Electrolyte Balance
+
+**Key electrolytes:**
+- Sodium
+- Potassium
+- Magnesium
+- Calcium
+
+**Food sources:**
+- Bananas, potatoes, avocados (potassium)
+- Nuts, seeds, leafy greens (magnesium)
+- Dairy, leafy greens, fortified foods (calcium)
+- Table salt, sports drinks (sodium)
+
+**When to supplement:**
+- Heavy sweaters
+- Very long exercise
+- Hot conditions
+- Doctor-recommended
+
+### Don't Overexert
+
+**Exercise-induced cramps:**
+- Progress training gradually
+- Don't push beyond your fitness level
+- Allow adequate recovery
+- Build endurance over time
+
+### Warm Up and Cool Down
+
+**Before exercise:**
+- 5-10 minutes of light activity
+- Dynamic stretching
+- Gradual intensity increase
+
+**After exercise:**
+- 5-10 minutes of easy movement
+- Static stretching
+- Particularly cramp-prone muscles
+
+### Stretch Regularly
+
+**Target cramp-prone areas:**
+- Calves (both straight and bent knee)
+- Hamstrings
+- Quadriceps
+- Feet
+
+**When:**
+- Daily stretching routine
+- Before and after exercise
+- Before bed (for nocturnal cramps)
+
+### Strengthen the Muscles
+
+**Why it helps:**
+- Stronger muscles resist fatigue
+- Better neuromuscular control
+- Improved circulation
+
+**Focus areas:**
+- Calves: calf raises
+- Thighs: squats, lunges
+- Core: general stability
+
+## Immediate Treatment When Cramps Occur
+
+### What to Do
+
+**1. Stretch the muscle**
+- Gently stretch in the opposite direction of the cramp
+- For calf: flex foot, pull toes toward shin
+- Hold until cramp releases
+
+**2. Massage**
+- Gently massage the cramped muscle
+- Don't push too hard
+- Move toward the heart
+
+**3. Apply heat (after cramp stops)**
+- Warm towel or heating pad
+- Helps muscle relax
+
+**4. Walk it out**
+- Gentle movement once cramp releases
+- Gets blood flowing
+
+### For Calf Cramps Specifically
+
+**Standing stretch:**
+- Face wall, hands on wall
+- Step affected leg back
+- Press heel down, lean forward
+- Hold until cramp releases
+
+**Towel stretch:**
+- Sit, wrap towel around foot
+- Pull foot toward you
+- Keep knee straight
+
+## For Nocturnal Leg Cramps
+
+### Prevention
+
+- Stretch calves before bed
+- Stay hydrated throughout day (not just before bed)
+- Keep sheets loose (tight sheets plantar flex feet)
+- Consider magnesium supplement (ask doctor)
+- Warm bath before bed
+
+### If They Wake You
+
+- Flex foot (pull toes toward shin)
+- Stand and walk
+- Massage the muscle
+- Apply heat after
+
+## When to See a Doctor
+
+### Red Flags
+
+- Cramps are severe and frequent
+- Don't improve with self-care
+- Accompanied by muscle weakness
+- Swelling or numbness
+- Cramps in multiple areas
+- No obvious cause
+
+### Possible Underlying Causes
+
+- Peripheral artery disease
+- Nerve compression
+- Thyroid disorders
+- Kidney disease
+- Medication side effects
+- Diabetes
+
+## Specific Situations
+
+### Cramps During Running
+
+- Slow down or walk
+- Stretch the muscle
+- Reassess hydration and electrolytes
+- May need to improve conditioning gradually
+
+### Cramps During Swimming
+
+- Stop and float
+- Stretch in water if possible
+- Get to edge of pool safely
+- Common due to combination of effort and temperature
+
+### Pregnancy-Related Cramps
+
+- Common, especially third trimester
+- Stay hydrated
+- Calcium and magnesium may help
+- Gentle stretching before bed
+- Consult OB if severe or frequent
+
+## The Bottom Line
+
+1. **Stay hydrated** — Most common preventable cause
+2. **Mind electrolytes** — Sodium, potassium, magnesium, calcium
+3. **Don't overdo it** — Progress exercise gradually
+4. **Stretch regularly** — Especially cramp-prone muscles
+5. **See a doctor if frequent** — Rule out underlying causes
+
+---
+
+*Foundational Rehab offers flexibility and hydration guidance to prevent muscle cramps.*
+    `
   }
 };
 
