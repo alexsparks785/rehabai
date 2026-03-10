@@ -125135,6 +125135,1313 @@ Warm-up shouldn't be a workout. Save energy for the main event.
 
 *Foundational Rehab includes warm-up protocols in all programs to optimize performance and reduce injury risk.*
     `
+  },
+  'cool-down-after-exercise': {
+    title: 'Cool Down After Exercise: Why It Matters and How to Do It',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: `
+## Why Cool Down?
+
+While cooling down may not prevent soreness (common myth), it does serve important purposes:
+
+**Physiological benefits:**
+- Gradual return of heart rate to normal
+- Helps clear metabolic byproducts
+- Prevents blood pooling in extremities
+- Reduces post-exercise dizziness
+
+**Practical benefits:**
+- Transition from exercise to rest
+- Good time for flexibility work
+- Mental reset and relaxation
+- Habit that signals "workout complete"
+
+## What Happens If You Skip It?
+
+**Immediate effects:**
+- Possible lightheadedness or dizziness
+- Blood pooling in legs
+- Abrupt heart rate changes
+
+**Long-term effects:**
+- Missed opportunity for flexibility work
+- No negative effects on recovery (research shows cooling down doesn't reduce DOMS)
+
+**The truth:** Cooling down is good practice but not as critical as warming up. That said, it's still worth doing.
+
+## Components of a Cool Down
+
+### 1. Gradual Intensity Reduction (3-5 Minutes)
+
+Keep moving but at decreasing intensity.
+
+**After cardio:**
+- Slow your pace gradually
+- Walk for 3-5 minutes
+- Let heart rate come down naturally
+
+**After strength training:**
+- Light walking
+- Easy movement on bike or elliptical
+- General movement around the gym
+
+### 2. Static Stretching (5-10 Minutes)
+
+Now is the ideal time for static stretching—muscles are warm.
+
+**Benefits of post-workout stretching:**
+- Muscles are warm and pliable
+- May improve flexibility over time
+- Helps with relaxation
+- Good habit formation
+
+**Key:** Hold each stretch 30-60 seconds, no bouncing.
+
+### 3. Breathing and Relaxation (Optional, 2-3 Minutes)
+
+Transition your nervous system from "fight or flight" to "rest and digest."
+
+**Options:**
+- Deep breathing exercises
+- Brief meditation
+- Simply lying down and relaxing
+
+## Cool Down Stretches
+
+### Lower Body
+
+**Quad Stretch**
+1. Stand, hold wall for balance
+2. Pull heel to glute
+3. Keep knees together
+4. Hold 30-60 seconds each
+
+**Hamstring Stretch**
+1. Foot on low surface
+2. Lean forward with flat back
+3. Feel stretch behind thigh
+4. Hold 30-60 seconds each
+
+**Hip Flexor Stretch**
+1. Half-kneeling position
+2. Tuck pelvis under
+3. Lean forward slightly
+4. Hold 30-60 seconds each
+
+**Calf Stretch**
+1. Against wall, back leg straight
+2. Push heel down
+3. Lean in for stretch
+4. Hold 30-60 seconds each
+
+**Glute Stretch (Figure-4)**
+1. Cross ankle over opposite knee
+2. Gently press knee away or pull toward chest
+3. Hold 30-60 seconds each
+
+### Upper Body
+
+**Chest Stretch**
+1. Doorway or wall
+2. Forearm on surface
+3. Lean through for stretch
+4. Hold 30-60 seconds each side
+
+**Shoulder Stretch (Cross-Body)**
+1. Pull arm across chest
+2. Hold above elbow
+3. Feel stretch in back of shoulder
+4. Hold 30-60 seconds each
+
+**Tricep Stretch**
+1. Arm overhead, elbow bent
+2. Gently push elbow back
+3. Hold 30-60 seconds each
+
+**Upper Back Stretch**
+1. Clasp hands in front
+2. Round upper back
+3. Push hands away
+4. Hold 30-60 seconds
+
+**Neck Stretches**
+1. Tilt ear to shoulder
+2. Gently increase with hand
+3. Hold 20-30 seconds each side
+
+### Full Body
+
+**Child's Pose**
+1. Knees wide, sit back toward heels
+2. Arms extended forward
+3. Relax and breathe
+4. Hold 30-60 seconds
+
+**Supine Twist**
+1. On back, knees bent
+2. Drop knees to one side
+3. Arms out, look opposite
+4. Hold 30-60 seconds each side
+
+**Cat-Cow**
+1. On hands and knees
+2. Alternate arching and rounding
+3. 8-10 cycles, slow and controlled
+
+## Cool Down Templates
+
+### After Cardio (8-10 Minutes)
+
+1. Walking: 3-5 minutes (gradually slower)
+2. Quad stretch: 30 sec each
+3. Hamstring stretch: 30 sec each
+4. Calf stretch: 30 sec each
+5. Hip flexor stretch: 30 sec each
+6. Child's pose: 30-60 seconds
+
+### After Lower Body Workout (10-12 Minutes)
+
+1. Light walking: 3 minutes
+2. Quad stretch: 45 sec each
+3. Hamstring stretch: 45 sec each
+4. Hip flexor stretch: 45 sec each
+5. Glute stretch: 45 sec each
+6. Calf stretch: 30 sec each
+7. Supine twist: 30 sec each side
+8. Child's pose: 60 seconds
+
+### After Upper Body Workout (8-10 Minutes)
+
+1. Light walking or arm circles: 2-3 minutes
+2. Chest stretch: 30 sec each position
+3. Shoulder stretch: 30 sec each
+4. Tricep stretch: 30 sec each
+5. Upper back stretch: 30 seconds
+6. Neck stretches: 20 sec each direction
+7. Cat-cow: 8-10 cycles
+8. Deep breathing: 1-2 minutes
+
+### After Full Body Workout (12-15 Minutes)
+
+1. Light walking: 3-5 minutes
+2. Quad stretch: 30 sec each
+3. Hamstring stretch: 30 sec each
+4. Hip flexor stretch: 30 sec each
+5. Glute stretch: 30 sec each
+6. Chest stretch: 30 sec each
+7. Shoulder stretch: 30 sec each
+8. Upper back stretch: 30 sec
+9. Child's pose: 60 seconds
+10. Supine twist: 30 sec each
+11. Deep breathing: 1-2 minutes
+
+## Breathing Exercises for Cool Down
+
+### Box Breathing
+
+1. Inhale 4 counts
+2. Hold 4 counts
+3. Exhale 4 counts
+4. Hold 4 counts
+5. Repeat 5-10 cycles
+
+### Extended Exhale
+
+1. Inhale 4 counts
+2. Exhale 6-8 counts
+3. Repeat 5-10 times
+
+**Why it works:** Longer exhale activates parasympathetic nervous system.
+
+### 4-7-8 Breathing
+
+1. Inhale 4 counts
+2. Hold 7 counts
+3. Exhale 8 counts
+4. Repeat 4-8 cycles
+
+## Common Mistakes
+
+### 1. Skipping It Entirely
+
+Take at least 5 minutes. It's worth it for the flexibility work alone.
+
+### 2. Stopping Abruptly
+
+Don't go from intense exercise to sitting. Gradual transition is better.
+
+### 3. Only Stretching Problem Areas
+
+Stretch everything you used, not just what feels tight.
+
+### 4. Bouncing Through Stretches
+
+Hold stretches steady. Bouncing can cause injury.
+
+### 5. Rushing
+
+Cool down is supposed to be relaxing. Don't race through it.
+
+## When to Skip Cool Down
+
+**Acceptable to skip if:**
+- Medical emergency
+- Severely limited time (but try for 3-5 minutes minimum)
+
+**Not acceptable excuses:**
+- "I don't have time" (you do, make it)
+- "It doesn't matter" (it does for flexibility)
+- "I'll stretch later" (you won't)
+
+## The Bottom Line
+
+1. **Gradual slowdown** — Don't stop abruptly
+2. **Perfect time for stretching** — Muscles are warm
+3. **Hold stretches** — 30-60 seconds, no bouncing
+4. **Full body** — Stretch everything you used
+5. **Mental transition** — Signal workout complete
+
+---
+
+*Foundational Rehab includes cool down protocols in all programs to support recovery and flexibility.*
+    `
+  },
+  'exercises-for-rotator-cuff-injury': {
+    title: 'Exercises for Rotator Cuff Injury: Rehab and Prevention',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '7 min read',
+    content: `
+## Understanding the Rotator Cuff
+
+The rotator cuff is a group of four muscles that stabilize and move the shoulder:
+
+- **Supraspinatus:** Initiates arm lifting
+- **Infraspinatus:** External rotation
+- **Teres Minor:** External rotation
+- **Subscapularis:** Internal rotation
+
+Together, they keep the ball (humeral head) centered in the socket during all shoulder movements.
+
+## Types of Rotator Cuff Problems
+
+### Tendinitis/Tendinopathy
+- Inflammation or degeneration of tendons
+- Often from overuse
+- Responds well to exercise
+
+### Impingement
+- Tendons pinched during movement
+- Often related to posture and muscle imbalances
+- Exercise is primary treatment
+
+### Partial Tear
+- Some tendon fibers damaged
+- Many heal with conservative treatment
+- Exercise is crucial for recovery
+
+### Full Tear
+- Complete tendon rupture
+- May require surgery depending on age, activity level
+- Still needs rehab (before or after surgery)
+
+## When to See a Doctor
+
+**Seek evaluation if:**
+- Significant weakness
+- Unable to lift arm
+- Night pain that wakes you
+- Injury from trauma
+- No improvement after 6-8 weeks of exercise
+
+## Phase 1: Pain Management and Protection
+
+*Focus: Reduce inflammation, maintain gentle movement*
+
+### Rest and Modification
+
+**Don't stop completely—modify:**
+- Avoid painful overhead movements
+- Avoid sleeping on affected side
+- Reduce aggravating activities
+- Keep moving within pain-free range
+
+### Ice
+
+- 15-20 minutes, several times daily
+- Helps with acute inflammation
+- Use after exercise if sore
+
+### Pendulum Exercises
+
+**Form:**
+1. Lean on table with good arm
+2. Let affected arm hang
+3. Swing gently in circles, forward/back, side to side
+4. Let momentum do the work
+5. 2-3 minutes, 3-4 times daily
+
+### Passive Range of Motion
+
+**Assisted overhead reach:**
+1. Use good arm or stick to help affected arm move
+2. Lift arm forward or to side
+3. Only to comfortable range
+4. 10-15 reps, several times daily
+
+## Phase 2: Mobility and Early Strengthening
+
+*Focus: Restore range of motion, begin rotator cuff activation*
+
+### Stretching
+
+**Cross-body stretch:**
+1. Pull affected arm across chest
+2. Hold above elbow
+3. Gentle stretch in back of shoulder
+4. Hold 30 seconds
+
+**Sleeper stretch:**
+1. Lie on affected side
+2. Arm at 90° in front
+3. Gently push forearm toward floor
+4. Hold 30 seconds
+
+**Doorway pec stretch:**
+1. Forearm on doorframe
+2. Step through for stretch
+3. Do at different angles
+4. Hold 30 seconds each
+
+### Isometric Exercises
+
+**Isometric external rotation:**
+1. Elbow at side, bent 90°
+2. Press back of hand into wall or doorframe
+3. Hold 5-10 seconds
+4. No movement, just resistance
+
+**Isometric internal rotation:**
+1. Same position
+2. Press palm into wall or doorframe
+3. Hold 5-10 seconds
+
+**Isometric abduction:**
+1. Stand sideways to wall
+2. Press outside of arm into wall
+3. Hold 5-10 seconds
+
+**Reps:** 10-15 each direction, 2-3 times daily
+
+## Phase 3: Progressive Strengthening
+
+*Focus: Build rotator cuff strength through range*
+
+### External Rotation with Band
+
+**Form:**
+1. Band anchored at elbow height
+2. Elbow at side, bent 90°
+3. Rotate forearm away from body
+4. Keep elbow pinned to side
+5. Slow controlled return
+
+**Reps:** 3 sets of 15
+
+### Internal Rotation with Band
+
+**Form:**
+1. Same setup, rotate toward body
+2. Keep elbow at side
+3. Control both directions
+
+**Reps:** 3 sets of 15
+
+### Side-Lying External Rotation
+
+**Form:**
+1. Lie on uninvolved side
+2. Elbow of affected arm at side, bent 90°
+3. Rotate forearm up (toward ceiling)
+4. Keep elbow pinned
+5. Lower slowly
+
+**Reps:** 3 sets of 15
+
+**Progression:** Add light weight (1-5 lbs)
+
+### Prone Y Raises
+
+**Form:**
+1. Face down on bench or floor
+2. Arms at 45° overhead (Y shape)
+3. Thumbs up
+4. Lift arms toward ceiling
+5. Squeeze shoulder blades
+
+**Reps:** 3 sets of 15
+
+### Prone T Raises
+
+**Form:**
+1. Face down
+2. Arms straight out to sides (T shape)
+3. Thumbs up
+4. Lift arms toward ceiling
+
+**Reps:** 3 sets of 15
+
+### Prone W Raises
+
+**Form:**
+1. Face down
+2. Elbows bent, upper arms at 45°
+3. Squeeze shoulder blades back
+4. Rotate forearms up (external rotation)
+
+**Reps:** 3 sets of 15
+
+## Phase 4: Functional Strengthening
+
+*Focus: Prepare for return to activities*
+
+### Rows
+
+**Form:**
+1. Band or dumbbell
+2. Pull toward body
+3. Squeeze shoulder blade back
+4. Control return
+
+**Reps:** 3 sets of 12-15
+
+### Face Pulls
+
+**Form:**
+1. Band at face height
+2. Pull toward face
+3. Separate hands at end (external rotation)
+4. Squeeze shoulder blades
+
+**Reps:** 3 sets of 15-20
+
+### Shoulder Flexion (Forward Raise)
+
+**Form:**
+1. Start with band or light weight
+2. Raise arm forward to shoulder height
+3. Thumb up
+4. Lower slowly
+
+**Reps:** 3 sets of 12-15
+
+### Scaption (Plane of Scapula)
+
+**Form:**
+1. Raise arm at 30-45° angle from front
+2. Thumb up
+3. Shoulder height or as tolerated
+
+**Reps:** 3 sets of 12-15
+
+### Push-Up Progression
+
+**Start easy:**
+1. Wall push-ups
+2. Incline push-ups
+3. Knee push-ups
+4. Full push-ups
+
+**Key:** Elbows at 45° angle, not flared out
+
+## Scapular Exercises
+
+Scapular stability is crucial for rotator cuff health.
+
+### Scapular Squeezes
+
+**Form:**
+1. Sit or stand tall
+2. Squeeze shoulder blades together
+3. Hold 5 seconds
+4. Don't shrug shoulders
+
+**Reps:** 15-20
+
+### Wall Slides
+
+**Form:**
+1. Back against wall
+2. Arms in "goalpost" position
+3. Slide arms up while maintaining contact
+4. Only as high as you can with good form
+
+**Reps:** 10-12
+
+### Serratus Push-Up
+
+**Form:**
+1. Plank position
+2. Without bending arms, push shoulder blades apart
+3. Then let them come back together
+4. Protraction/retraction movement
+
+**Reps:** 10-15
+
+## Sample Programs
+
+### Daily Rehab Routine (15 Minutes)
+
+1. Pendulums (if acute): 2-3 min
+2. Cross-body stretch: 30 sec each
+3. Sleeper stretch: 30 sec each
+4. External rotation with band: 15 reps each
+5. Internal rotation with band: 15 reps each
+6. Prone Y-T-W: 10 each position
+7. Scapular squeezes: 15 reps
+
+### Progressive Program
+
+**Weeks 1-2:**
+- Pendulums
+- Passive ROM
+- Isometrics
+- Stretches
+
+**Weeks 3-4:**
+- Add band external/internal rotation
+- Side-lying external rotation
+- Continue stretches
+
+**Weeks 5-6:**
+- Add prone Y-T-W
+- Rows, face pulls
+- Progress resistance
+
+**Weeks 7-8:**
+- Shoulder flexion/scaption
+- Push-up progression
+- Full scapular exercises
+
+**Weeks 9+:**
+- Gradual return to activities
+- Maintenance program
+- Sport-specific if applicable
+
+## Prevention
+
+### Maintain Rotator Cuff Strength
+
+Include in regular routine:
+- External rotation exercises
+- Prone Y-T-W
+- Face pulls
+
+### Address Posture
+
+- Rounded shoulders stress the rotator cuff
+- Upper back strengthening
+- Chest stretching
+
+### Proper Technique
+
+- Don't lift with arms flared out
+- Control overhead movements
+- Warm up before shoulder work
+
+### Progress Gradually
+
+- Don't increase volume/intensity too fast
+- Allow recovery between shoulder sessions
+- Listen to warning signs
+
+## The Bottom Line
+
+1. **Phase-based approach** — Match exercises to healing stage
+2. **External rotation is key** — Often the weakest link
+3. **Scapular stability matters** — Supports rotator cuff function
+4. **Be patient** — Full recovery takes 3-6 months
+5. **Prevention is best** — Maintain strength to avoid re-injury
+
+---
+
+*Foundational Rehab provides rotator cuff recovery programs with proper progression from pain relief to full function.*
+    `
+  },
+  'how-to-stretch-hip-flexors': {
+    title: 'How to Stretch Hip Flexors: Proper Technique for Tight Hips',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Understanding Hip Flexors
+
+Your hip flexors are a group of muscles that lift your knee toward your chest:
+
+- **Iliopsoas** (psoas + iliacus): The primary hip flexor, deep in the pelvis
+- **Rectus femoris:** Part of the quadriceps, crosses hip and knee
+- **TFL (tensor fasciae latae):** Also contributes to hip flexion
+- **Sartorius:** The longest muscle in your body
+
+## Why Hip Flexors Get Tight
+
+**Modern life causes hip flexor tightness:**
+- Prolonged sitting (8+ hours daily for many)
+- Driving
+- Sleeping in fetal position
+- Too much hip flexion exercise (cycling, running)
+- Too little hip extension
+
+When hip flexors are chronically shortened, they:
+- Pull the pelvis forward (anterior pelvic tilt)
+- Contribute to lower back pain
+- Inhibit glute activation
+- Affect posture and movement
+
+## The Big Mistake: Just Stretching
+
+Here's what most people get wrong: **Hip flexors often feel tight but aren't actually short.** They may be:
+
+- Weak and overworked
+- Neurally guarded
+- Compensating for weak glutes
+- Actually at normal length
+
+**If this is the case:** Stretching alone won't help (and may make things worse).
+
+**How to tell:** If stretching provides only temporary relief that doesn't last, you probably need strengthening, not more stretching.
+
+## When to Stretch vs. Strengthen
+
+### Stretch If:
+
+- You sit most of the day
+- You have anterior pelvic tilt
+- Hip extension is limited (can't extend hip behind you)
+- Stretching provides lasting relief
+
+### Strengthen If:
+
+- Stretching provides only temporary relief
+- You have hip flexor pain or cramping
+- Your hip flexors are weak despite feeling tight
+- You're a runner, cyclist, or do lots of hip flexion
+
+**Best approach:** Usually both—stretch AND strengthen.
+
+## The Key to Effective Hip Flexor Stretching
+
+### Posterior Pelvic Tilt
+
+This is the secret most people miss. Without a posterior pelvic tilt, you'll:
+- Stretch your back instead of hip flexors
+- Not target the psoas effectively
+- Waste your time
+
+**How to do it:**
+1. Tuck your tailbone under
+2. Imagine pulling your belt buckle toward your chin
+3. Flatten your lower back
+4. Engage your abs and glutes
+
+**Then** lean forward into the stretch.
+
+## The Stretches
+
+### Half-Kneeling Hip Flexor Stretch (The Gold Standard)
+
+**Form:**
+1. Kneel on one knee, other foot forward
+2. Back knee directly under hip
+3. **Tuck pelvis under (posterior tilt)—critical**
+4. Squeeze glute of back leg
+5. Lean forward slightly (from the hips, not back)
+6. Feel stretch in front of hip of back leg
+
+**Key points:**
+- If you feel it in your low back, you're doing it wrong
+- Keep torso upright
+- The glute squeeze is essential
+
+**Hold:** 30-60 seconds each side, 2-3 sets
+
+### Couch Stretch (Intense)
+
+**Form:**
+1. Knee on floor against wall or couch
+2. Foot up the wall behind you
+3. Other foot forward, lunge position
+4. **Tuck pelvis under**
+5. Stay upright or lean back slightly
+
+**Key:** This targets the rectus femoris (quad portion) more. Very intense.
+
+**Hold:** 30-60 seconds each side
+
+### Standing Hip Flexor Stretch
+
+**Form:**
+1. Staggered stance, affected leg back
+2. Back heel can come up
+3. **Tuck pelvis under**
+4. Squeeze back glute
+5. Lean forward from hips
+
+**Good for:** When you can't get on the floor
+
+**Hold:** 30-45 seconds each side
+
+### Supine Hip Flexor Stretch
+
+**Form:**
+1. Lie on bed or bench, edge at glutes
+2. Pull one knee to chest
+3. Let other leg hang off edge
+4. **Press lower back flat to surface**
+5. Feel stretch in hanging leg's hip flexor
+
+**Also useful as Thomas Test:** If hanging leg can't reach horizontal, hip flexors are truly tight.
+
+**Hold:** 30-60 seconds each side
+
+### 90-90 Hip Flexor Stretch
+
+**Form:**
+1. Half-kneeling, front leg at 90°
+2. Raise arm on same side as back knee
+3. Side bend away from back knee
+4. **Maintain pelvic tilt**
+
+**Targets:** Psoas specifically, including lateral fibers
+
+**Hold:** 30-45 seconds each side
+
+## Strengthening Exercises
+
+Remember: Tight-feeling doesn't always mean short. Often hip flexors need strength.
+
+### Psoas March
+
+**Form:**
+1. Lie on back, band around feet
+2. Lift one knee toward chest against resistance
+3. Control return
+4. Alternate
+
+**Reps:** 15-20 each leg
+
+### Hanging Knee Raise (Hip Flexor Focused)
+
+**Form:**
+1. Hang from bar
+2. Raise knees toward chest
+3. Control the descent
+4. Focus on hip flexion, not just ab crunch
+
+**Reps:** 10-15
+
+### Standing Hip Flexion with Band
+
+**Form:**
+1. Band around ankle, anchored behind
+2. Lift knee against resistance
+3. Control return
+
+**Reps:** 15 each leg
+
+## Glute Activation (Critical)
+
+Weak glutes = tight hip flexors. Always pair hip flexor stretching with glute activation.
+
+### Glute Bridge
+
+**Form:**
+1. Lie on back, feet flat
+2. Drive through heels
+3. Lift hips, squeeze glutes at top
+4. Hold 2-3 seconds
+
+**Reps:** 15-20
+
+### Single-Leg Glute Bridge
+
+**Form:**
+1. Same as above, one leg extended
+2. Focus on glute of working leg
+
+**Reps:** 10-12 each leg
+
+### Quadruped Hip Extension
+
+**Form:**
+1. On hands and knees
+2. Extend one leg straight back
+3. Squeeze glute at top
+4. Don't arch low back
+
+**Reps:** 12-15 each leg
+
+## Daily Routine
+
+### Morning Hip Flexor Routine (5 Minutes)
+
+1. Half-kneeling stretch: 45 sec each
+2. Glute bridge: 15 reps
+3. Standing hip flexor stretch: 30 sec each
+
+### Comprehensive Routine (10-15 Minutes)
+
+1. Glute bridges: 15 reps (activate glutes first)
+2. Half-kneeling stretch: 60 sec each
+3. 90-90 stretch with reach: 45 sec each
+4. Couch stretch: 30-45 sec each
+5. Single-leg glute bridge: 10 each
+6. Psoas march: 15 each leg
+
+### Throughout the Day
+
+**If you sit a lot:**
+- Stand up every 30-60 minutes
+- Do a quick hip flexor stretch
+- Squeeze glutes throughout day
+
+## Common Mistakes
+
+### 1. Forgetting the Pelvic Tilt
+
+Without posterior tilt, you're not stretching hip flexors effectively.
+
+### 2. Arching the Back
+
+If your lower back arches, the stretch goes there instead of hip flexors.
+
+### 3. Only Stretching
+
+If tight-feeling persists despite stretching, you may need strengthening.
+
+### 4. Ignoring Glutes
+
+Weak glutes and tight hip flexors are two sides of the same coin. Address both.
+
+### 5. Not Being Consistent
+
+Occasional stretching won't overcome 8+ hours of sitting. Do it daily.
+
+## The Bottom Line
+
+1. **Posterior pelvic tilt is essential** — The key to effective stretching
+2. **Squeeze the glute** — Activates opposing muscle, deepens stretch
+3. **Stretch AND strengthen** — Often both are needed
+4. **Activate glutes** — Always pair with hip flexor work
+5. **Be consistent** — Daily work counteracts daily sitting
+
+---
+
+*Foundational Rehab includes comprehensive hip mobility programs addressing both tightness and weakness.*
+    `
+  },
+  'exercises-for-seniors': {
+    title: 'Exercises for Seniors: Stay Strong, Mobile, and Independent',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Why Exercise Matters More as We Age
+
+After age 30, we lose muscle mass at 3-5% per decade (more after 60). Without intervention:
+
+- Muscle loss leads to weakness
+- Weakness leads to falls
+- Falls lead to fractures and loss of independence
+
+**The good news:** Exercise can slow, stop, and even reverse this decline at any age. People in their 80s and 90s can still build muscle and improve function.
+
+## The Four Pillars of Senior Fitness
+
+### 1. Strength Training
+Builds and maintains muscle mass, protects bones, improves daily function.
+
+### 2. Balance Training
+Prevents falls (the #1 cause of injury-related death in seniors).
+
+### 3. Flexibility/Mobility
+Maintains range of motion for daily activities.
+
+### 4. Cardiovascular Health
+Supports heart, brain, and overall health.
+
+**All four are essential.** A complete program includes all of them.
+
+## Before Starting
+
+### Clearance
+
+Talk to your doctor before starting if you have:
+- Heart conditions
+- Uncontrolled blood pressure
+- Recent surgery
+- Significant balance issues
+- Any concerns
+
+### Safety Guidelines
+
+- Start slow and progress gradually
+- Use support (chair, wall) when needed
+- Stop if you feel pain, dizziness, or shortness of breath
+- Stay hydrated
+- Exercise with supervision initially if needed
+
+## Balance Exercises (Fall Prevention Priority)
+
+### Single-Leg Stance
+
+**Form:**
+1. Stand near wall or chair for support
+2. Lift one foot slightly off ground
+3. Hold as long as comfortable
+4. Switch sides
+
+**Goal:** Build to 30 seconds each side
+
+**Progression:** Less hand support → Eyes closed
+
+### Heel-to-Toe Walk
+
+**Form:**
+1. Walk in straight line
+2. Place heel directly in front of opposite toe
+3. Use wall for light touch support if needed
+4. 10-20 steps
+
+### Weight Shifts
+
+**Form:**
+1. Stand feet hip-width apart
+2. Shift weight to one foot
+3. Lift other foot slightly
+4. Hold 5-10 seconds
+5. Alternate sides
+
+**Reps:** 10-15 each side
+
+### Sit-to-Stand (No Hands)
+
+**Form:**
+1. Sit in sturdy chair
+2. Cross arms on chest
+3. Stand up without using hands
+4. Sit down slowly, controlled
+
+**Reps:** 10-15
+
+**If too hard:** Use hands to help, progress to no hands.
+
+### Marching in Place
+
+**Form:**
+1. Hold wall or chair lightly
+2. March in place, lifting knees
+3. Stay controlled, not fast
+
+**Reps:** 20-30 steps
+
+### Side Steps
+
+**Form:**
+1. Step to side
+2. Bring other foot to meet it
+3. Continue in same direction
+4. 10 steps each direction
+
+**Progression:** Add resistance band above knees.
+
+## Strength Exercises
+
+### Lower Body
+
+**Chair Squat**
+
+**Form:**
+1. Stand in front of chair
+2. Lower like sitting down
+3. Touch chair lightly (don't plop)
+4. Stand back up
+
+**Reps:** 10-15
+
+**Progression:** Lower chair, don't touch, add weight.
+
+**Leg Extension (Seated)**
+
+**Form:**
+1. Sit in chair
+2. Straighten one leg
+3. Hold 2-3 seconds
+4. Lower slowly
+
+**Reps:** 15 each leg
+
+**Progression:** Add ankle weights.
+
+**Heel Raises**
+
+**Form:**
+1. Hold chair for balance
+2. Rise up on toes
+3. Hold 2-3 seconds
+4. Lower slowly
+
+**Reps:** 15-20
+
+**Progression:** Single leg, add weight.
+
+**Hip Abduction (Standing)**
+
+**Form:**
+1. Hold chair
+2. Lift leg out to side
+3. Keep body upright
+4. Lower slowly
+
+**Reps:** 12-15 each leg
+
+**Glute Bridge**
+
+**Form:**
+1. Lie on back, knees bent
+2. Push through heels
+3. Lift hips
+4. Squeeze glutes at top
+5. Lower slowly
+
+**Reps:** 15-20
+
+### Upper Body
+
+**Wall Push-Up**
+
+**Form:**
+1. Hands on wall at chest height
+2. Lean in, bending elbows
+3. Push back to start
+4. Body stays straight
+
+**Reps:** 10-15
+
+**Progression:** Lower surface (counter, then chair, then floor).
+
+**Seated Row (with Band)**
+
+**Form:**
+1. Sit tall, band around feet
+2. Pull band toward body
+3. Squeeze shoulder blades
+4. Slow return
+
+**Reps:** 12-15
+
+**Shoulder Press (Seated)**
+
+**Form:**
+1. Sit tall, weights or band
+2. Press overhead
+3. Control the lowering
+
+**Reps:** 12-15
+
+**Bicep Curls**
+
+**Form:**
+1. Sit or stand
+2. Curl weights toward shoulders
+3. Lower slowly
+
+**Reps:** 12-15
+
+### Core
+
+**Seated Knee Lift**
+
+**Form:**
+1. Sit tall in chair
+2. Lift one knee toward chest
+3. Hold 2-3 seconds
+4. Lower slowly
+
+**Reps:** 10-12 each leg
+
+**Seated Rotation**
+
+**Form:**
+1. Sit tall, arms crossed on chest
+2. Rotate torso to one side
+3. Return to center
+4. Rotate to other side
+
+**Reps:** 10 each side
+
+**Modified Plank**
+
+**Form:**
+1. Forearms on counter or chair
+2. Body straight
+3. Hold position
+
+**Time:** 15-30 seconds
+
+## Flexibility Exercises
+
+### Neck Stretches
+
+**Form:**
+1. Gently tilt ear toward shoulder
+2. Hold 15-20 seconds
+3. Repeat other side
+4. Gently turn head each direction
+
+### Shoulder Stretch
+
+**Form:**
+1. Bring arm across chest
+2. Hold above elbow
+3. Hold 20-30 seconds each side
+
+### Chest Stretch
+
+**Form:**
+1. Clasp hands behind back
+2. Gently squeeze shoulder blades
+3. Lift arms slightly if comfortable
+4. Hold 20-30 seconds
+
+### Seated Hamstring Stretch
+
+**Form:**
+1. Sit at edge of chair
+2. Extend one leg, heel on floor
+3. Lean forward with flat back
+4. Hold 20-30 seconds each leg
+
+### Calf Stretch
+
+**Form:**
+1. Face wall, hands on it
+2. Step back with one leg
+3. Keep heel down
+4. Hold 20-30 seconds each leg
+
+### Hip Flexor Stretch
+
+**Form:**
+1. Stand, hold chair
+2. Step back into small lunge
+3. Tuck hips under slightly
+4. Hold 20-30 seconds each side
+
+## Sample Programs
+
+### Beginner (3 Days/Week, 20-30 Minutes)
+
+**Each session:**
+
+**Warm-up (3 min):**
+- Marching in place
+- Arm circles
+- Ankle circles
+
+**Balance (5 min):**
+- Single-leg stance: 30 sec each (with support)
+- Heel-to-toe walk: 2 lengths
+- Weight shifts: 10 each side
+
+**Strength (15 min):**
+- Chair squats: 2x10
+- Seated leg extension: 2x12 each
+- Heel raises: 2x15
+- Wall push-ups: 2x10
+- Seated rows: 2x12
+
+**Cool-down/Stretching (5 min):**
+- Major muscle stretches, 20-30 sec each
+
+### Intermediate (3-4 Days/Week, 30-40 Minutes)
+
+**Balance (5-8 min):**
+- Single-leg stance (less support): 3x30 sec each
+- Heel-to-toe walk: 3 lengths
+- Sit-to-stand: 15 reps
+
+**Strength (20-25 min):**
+- Chair squats: 3x12
+- Leg extensions with weight: 3x12 each
+- Hip abduction: 3x12 each
+- Heel raises: 3x15
+- Glute bridge: 3x15
+- Push-ups (incline): 3x10
+- Seated row: 3x12
+- Shoulder press: 3x12
+- Bicep curls: 2x12
+
+**Flexibility (5-10 min):**
+- Full body stretching routine
+
+### Cardio Guidelines
+
+**Aim for:** 150 minutes moderate activity per week
+
+**Options:**
+- Walking (best for most)
+- Swimming or water aerobics
+- Cycling (stationary or outdoor)
+- Dancing
+- Gardening
+
+**Start:** 10-15 minutes, add 5 minutes each week
+
+## Important Tips
+
+### Progression
+
+- Increase difficulty gradually
+- Add reps before adding resistance
+- When 15 reps feels easy, increase challenge
+
+### Consistency
+
+- 3-4 days per week minimum
+- Something is always better than nothing
+- Make it a habit
+
+### Listen to Your Body
+
+- Mild discomfort during exercise: okay
+- Sharp pain: stop
+- Pain that persists: see doctor
+
+### Social Support
+
+- Exercise with friends or groups
+- Consider senior fitness classes
+- Family involvement helps
+
+## The Bottom Line
+
+1. **All four pillars matter** — Strength, balance, flexibility, cardio
+2. **Balance is priority** — Falls are the biggest risk
+3. **Start where you are** — Use support, progress gradually
+4. **Consistency wins** — Regular exercise beats occasional effort
+5. **It's never too late** — Significant improvement possible at any age
+
+---
+
+*Foundational Rehab provides senior-friendly programs focused on independence, fall prevention, and quality of life.*
+    `
   }
 };
 
