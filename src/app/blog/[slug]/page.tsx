@@ -116140,6 +116140,1258 @@ Mental cues while walking:
 
 *Foundational Rehab helps correct movement patterns through targeted mobility and strength work.*
     `
+  },
+  'exercises-for-plantar-fasciitis': {
+    title: 'Exercises for Plantar Fasciitis: Heel Pain Relief That Works',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '7 min read',
+    content: `
+## Understanding Plantar Fasciitis
+
+Plantar fasciitis is the most common cause of heel pain. The plantar fascia is a thick band of tissue running from your heel to your toes, supporting your arch. When it becomes irritated or degenerates, you get that classic stabbing pain with your first morning steps.
+
+**Typical symptoms:**
+- Sharp heel pain with first steps in morning
+- Pain after prolonged sitting
+- Pain with prolonged standing
+- Tenderness on heel bottom
+- Pain that improves after walking a bit
+
+**Risk factors:**
+- Tight calves
+- Flat feet or high arches
+- Sudden increase in activity
+- Standing jobs
+- Being overweight
+- Poor footwear
+
+## Why Morning Pain Is Worst
+
+During sleep, your foot relaxes into a pointed position. The plantar fascia tightens and shortens. When you step down, the sudden stretch causes micro-tears and pain.
+
+**Solution:** Night splints or morning stretching before stepping down.
+
+## Phase 1: Immediate Relief
+
+### Before Getting Out of Bed
+
+**Towel stretch:**
+1. Keep a towel by your bed
+2. Loop it around ball of foot
+3. Gently pull toes toward you
+4. Hold 30 seconds
+5. Then step down
+
+**Plantar fascia stretch (in bed):**
+1. Cross affected foot over opposite knee
+2. Pull toes back toward shin
+3. Feel stretch along arch
+4. Hold 30 seconds
+5. Massage the fascia while stretching
+
+### Ice Massage
+
+Roll your foot on a frozen water bottle:
+- 10-15 minutes
+- Provides ice and massage simultaneously
+- Do after activity or end of day
+
+### Arch Support
+
+Immediate relief strategies:
+- Supportive shoes (avoid flat or barefoot)
+- Over-the-counter orthotics
+- Heel cups for cushioning
+- Avoid walking barefoot on hard floors
+
+## Phase 2: Stretching (Essential)
+
+### Calf Stretches (Critical)
+
+Tight calves are the #1 contributor to plantar fasciitis.
+
+**Gastrocnemius stretch:**
+1. Face wall, hands on wall
+2. Step back with affected leg
+3. Keep back knee straight
+4. Lean in until calf stretch felt
+5. Hold 30-60 seconds
+
+**Soleus stretch:**
+1. Same position
+2. But BEND the back knee
+3. Keep heel down
+4. This targets deeper calf muscle
+5. Hold 30-60 seconds
+
+**Do both:** The soleus is often neglected but crucial.
+
+### Plantar Fascia Stretch
+
+**Seated stretch:**
+1. Cross foot over opposite thigh
+2. Grab toes, pull back toward shin
+3. Feel stretch along arch
+4. Hold 30 seconds
+5. 3 repetitions, 3 times daily
+
+**Research shows:** This specific stretch done 3x/day significantly improves outcomes.
+
+### Achilles Stretch on Step
+
+**Form:**
+1. Stand on step, heels off edge
+2. Lower heels below step level
+3. Hold 30-60 seconds
+4. Can do both legs or one at a time
+
+## Phase 3: Strengthening (The Fix)
+
+Stretching provides relief, but strengthening creates lasting change.
+
+### Towel Scrunches
+
+**Form:**
+1. Sit with foot on towel
+2. Scrunch towel toward you using toes
+3. Spread towel back out
+4. Repeat
+
+**Reps:** 2-3 sets of 10-15 scrunches
+
+### Marble Pickups
+
+**Form:**
+1. Place marbles (or small objects) on floor
+2. Pick up with toes, place in container
+3. Works intrinsic foot muscles
+
+**Reps:** 20 pickups, 2-3 times daily
+
+### Short Foot Exercise (Foot Doming)
+
+This is the gold standard for foot strength.
+
+**Form:**
+1. Sit or stand
+2. Keep toes relaxed on ground
+3. Try to shorten your foot by lifting the arch
+4. Imagine pulling the ball of foot toward heel
+5. Don't curl toes
+6. Hold 5 seconds
+
+**Reps:** 15-20 reps, 3 sets
+
+### Calf Raises
+
+Progressive calf strengthening protects the fascia.
+
+**Form:**
+1. Stand on edge of step
+2. Rise up on toes
+3. Lower slowly (3-4 seconds)
+4. Full range of motion
+
+**Progression:**
+- Week 1-2: Two legs, flat ground
+- Week 3-4: Two legs, off step
+- Week 5-6: Single leg, flat ground
+- Week 7+: Single leg, off step
+
+**Reps:** 3 sets of 15-20
+
+### Heel Raises with Towel
+
+Research-backed exercise for plantar fasciitis.
+
+**Form:**
+1. Place rolled towel under toes
+2. Perform calf raise
+3. The towel keeps fascia in stretched position
+4. This loads the fascia progressively
+
+**Reps:** 3 sets of 12, every other day
+
+## Phase 4: Advanced Strengthening
+
+### Single-Leg Balance
+
+**Form:**
+1. Stand on affected foot
+2. Maintain arch position (short foot)
+3. Hold 30 seconds
+4. Progress to unstable surface
+
+### Toe Yoga
+
+**Form:**
+1. Lift big toe while pressing others down
+2. Then lift small toes while pressing big toe down
+3. Develops toe control and arch strength
+
+**Reps:** 10 each way, 2-3 sets
+
+### Intrinsic Foot Strengthening
+
+**Toe spreads:**
+1. Spread all toes apart
+2. Hold 5 seconds
+3. Relax
+4. 15-20 reps
+
+## Self-Massage Techniques
+
+### Tennis Ball Roll
+
+**Technique:**
+1. Place ball under arch
+2. Roll from heel to ball of foot
+3. Apply moderate pressure
+4. 2-3 minutes per foot
+5. Morning and evening
+
+### Thumb Massage
+
+**Technique:**
+1. Cross foot over knee
+2. Use thumbs to massage along arch
+3. Focus on tender spots
+4. Strip from heel toward toes
+5. 2-3 minutes
+
+### Calf Massage
+
+Don't forget the calves—they're connected to your foot problem.
+
+**With foam roller:**
+1. Sit with calf on roller
+2. Cross other leg on top for pressure
+3. Roll slowly from ankle to knee
+4. Pause on tender spots
+
+## Sample Daily Program
+
+### Morning (5 Minutes)
+
+**Before getting up:**
+- Towel stretch: 30 sec
+- Plantar fascia stretch: 3x30 sec
+- Ankle circles: 10 each direction
+
+### Throughout Day
+
+- Calf stretch at wall: Every 2-3 hours
+- Short foot exercise: While sitting at desk
+
+### Evening (10-15 Minutes)
+
+**Stretching:**
+- Gastrocnemius stretch: 2x60 sec
+- Soleus stretch: 2x60 sec
+- Step stretch: 2x30 sec
+
+**Strengthening:**
+- Towel scrunches: 3x15
+- Calf raises: 3x15
+- Short foot: 3x15
+
+**Self-care:**
+- Tennis ball roll: 2-3 min
+- Frozen water bottle: 10 min (if needed)
+
+## What to Avoid
+
+### During Acute Phase
+
+- Going barefoot on hard surfaces
+- Worn-out shoes
+- Flat shoes (flip-flops, ballet flats)
+- High heels
+- Sudden increases in walking/running
+- Ignoring the pain
+
+### Common Mistakes
+
+- Stretching only (without strengthening)
+- Stretching too aggressively
+- Not addressing calf tightness
+- Returning to activity too soon
+- Inconsistent treatment
+
+## Footwear Guidelines
+
+**Good features:**
+- Supportive arch
+- Cushioned heel
+- Slight heel drop
+- Firm heel counter
+
+**Consider:**
+- Motion control if you overpronate
+- Custom orthotics for persistent cases
+- Night splints if morning pain is severe
+
+## How Long Does Recovery Take?
+
+**Typical timeline:**
+- Weeks 1-2: Pain management, reduced morning pain
+- Weeks 2-6: Progressive improvement
+- Weeks 6-12: Significant relief
+- Months 3-6: Full resolution (most cases)
+
+**Patience is key:** Plantar fasciitis often takes 6-12 months to fully resolve. Consistent daily work speeds recovery.
+
+## When to Seek Help
+
+**See a professional if:**
+- No improvement after 6-8 weeks
+- Severe pain affecting daily life
+- Numbness or tingling
+- Pain at rest or at night
+- Swelling or warmth in heel
+
+**Treatment options:**
+- Physical therapy
+- Custom orthotics
+- Corticosteroid injection (temporary relief)
+- Extracorporeal shockwave therapy
+- PRP injection
+- Surgery (rare, last resort)
+
+## The Bottom Line
+
+1. **Stretch calves religiously** — Both gastrocnemius AND soleus
+2. **Strengthen the foot** — Short foot exercise, calf raises
+3. **Wear supportive shoes** — Always, especially in morning
+4. **Be consistent** — Daily work for 3-6 months minimum
+5. **Address the cause** — Not just the symptoms
+
+---
+
+*Foundational Rehab provides comprehensive plantar fasciitis recovery programs with daily progression.*
+    `
+  },
+  'exercises-for-golfers-elbow': {
+    title: "Exercises for Golfer's Elbow: Medial Epicondylitis Relief",
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '6 min read',
+    content: `
+## Understanding Golfer's Elbow
+
+Golfer's elbow (medial epicondylitis) is pain on the inside of the elbow where the forearm flexor muscles attach. It's similar to tennis elbow but affects the opposite side.
+
+**Common causes:**
+- Gripping activities
+- Throwing sports
+- Golf (especially poor swing mechanics)
+- Weightlifting (curls, pull-ups)
+- Typing and mouse use
+- Manual labor
+
+**Symptoms:**
+- Pain on inner elbow
+- Weak grip strength
+- Pain with wrist flexion
+- Pain when gripping or lifting
+- Stiffness in the elbow
+- Numbness/tingling in ring and pinky fingers (sometimes)
+
+## How It Differs from Tennis Elbow
+
+| Tennis Elbow | Golfer's Elbow |
+|--------------|----------------|
+| Outer elbow | Inner elbow |
+| Wrist extensors | Wrist flexors |
+| Pain extending wrist | Pain flexing wrist |
+| Backhand motions | Forehand/gripping |
+
+Treatment approaches are similar but exercise direction differs.
+
+## Phase 1: Pain Management (Weeks 1-2)
+
+### Activity Modification
+
+**Modify, don't stop:**
+- Reduce gripping intensity
+- Use larger grip handles
+- Take frequent breaks
+- Avoid painful motions
+
+**Avoid:**
+- Heavy carrying
+- Repetitive wrist flexion
+- Pushups (palm position stresses flexors)
+- Pull-ups (initially)
+
+### Ice and Compression
+
+- Ice 15-20 minutes after activity
+- Counterforce brace below elbow
+- Position strap 1-2 inches below pain point
+
+### Gentle Movement
+
+Keep the area mobile without loading.
+
+**Wrist circles:** 10 each direction, gently
+**Forearm rotation:** Palm up, palm down, slowly
+
+## Phase 2: Isometric Loading (Weeks 2-4)
+
+Isometrics begin loading the tendon safely.
+
+### Isometric Wrist Flexion
+
+**Form:**
+1. Forearm supported on table, palm up
+2. Make a fist
+3. Use other hand to resist wrist flexion
+4. Push into resistance (no movement)
+5. Hold 30-45 seconds
+
+**Dose:** 5 reps, 3-4 times daily
+
+**Pain guide:** Keep at 3-4/10 pain or less.
+
+### Isometric Pronation
+
+**Form:**
+1. Elbow at 90°, palm facing in (thumb up)
+2. Other hand resists forearm rotation
+3. Try to rotate palm down (no movement)
+4. Hold 30-45 seconds
+
+**Dose:** 5 reps, 3 times daily
+
+### Isometric Grip
+
+**Form:**
+1. Squeeze soft ball or grip trainer
+2. Hold 30-45 seconds
+3. Moderate intensity
+
+**Dose:** 5 reps, 3 times daily
+
+## Phase 3: Eccentric Loading (Weeks 4-8)
+
+Eccentric exercises are the gold standard for tendinopathy.
+
+### Eccentric Wrist Flexion
+
+**Form:**
+1. Sit, forearm supported on thigh, palm UP
+2. Hold light weight (1-2 lbs)
+3. Use other hand to help curl wrist UP
+4. Slowly lower weight DOWN (3-4 seconds)
+5. Other hand helps return to start
+
+**Dose:** 3 sets of 15, once daily
+
+### Eccentric Pronation
+
+**Form:**
+1. Hold hammer or weight at end of handle
+2. Elbow supported, palm facing in
+3. Use other hand to rotate palm up (supination)
+4. Slowly rotate palm down (3-4 seconds) - eccentric
+5. Other hand returns to start
+
+**Dose:** 3 sets of 15, once daily
+
+### Reverse Tyler Twist
+
+Using FlexBar (opposite direction from tennis elbow).
+
+**Form:**
+1. Hold bar vertically
+2. Affected hand grips bottom, palm facing IN
+3. Non-affected hand grips top
+4. Twist bar with top hand
+5. Extend arms to horizontal
+6. Slowly release with affected hand
+
+**Dose:** 3 sets of 15, twice daily
+
+## Phase 4: Strengthening (Weeks 8-12)
+
+Add concentric strengthening once pain is manageable.
+
+### Wrist Curls
+
+**Form:**
+1. Forearm supported, palm UP
+2. Weight in hand
+3. Curl wrist up
+4. Lower slowly
+5. Full range of motion
+
+**Dose:** 3 sets of 15
+
+### Pronation/Supination (Full Range)
+
+**Form:**
+1. Hold hammer or weighted object
+2. Forearm supported
+3. Rotate palm up and down
+4. Controlled motion both directions
+
+**Dose:** 3 sets of 15 each direction
+
+### Grip Strengthening
+
+**Form:**
+1. Grip strengthener or ball
+2. Squeeze, hold 3 seconds, release
+3. Progress resistance gradually
+
+**Dose:** 3 sets of 15
+
+### Reverse Wrist Curls
+
+Balance with extensors (prevents future issues).
+
+**Form:**
+1. Forearm supported, palm DOWN
+2. Extend wrist up with weight
+3. Lower slowly
+
+**Dose:** 3 sets of 15
+
+## Phase 5: Functional Strengthening
+
+### Towel Wring
+
+**Form:**
+1. Hold towel with both hands
+2. Wring like wringing out water
+3. One direction, then reverse
+
+**Reps:** 10 wrings each direction, 2 sets
+
+### Ball Squeeze Variations
+
+- Squeeze and hold
+- Squeeze and release
+- Squeeze with fingers extended
+- Individual finger squeezes
+
+### Resistance Band Wrist Exercises
+
+**Band flexion:**
+1. Step on band, palm up
+2. Curl wrist against resistance
+3. Control the return
+
+**Band rotation:**
+1. Band anchored at side
+2. Rotate forearm against resistance
+
+## Stretching Protocol
+
+### Wrist Flexor Stretch
+
+**Form:**
+1. Extend arm in front, palm UP
+2. Use other hand to pull fingers DOWN
+3. Straighten elbow
+4. Feel stretch on inner forearm
+5. Hold 30 seconds
+
+### Wrist Extensor Stretch
+
+For balance:
+1. Extend arm, palm DOWN
+2. Pull hand down and toward body
+3. Hold 30 seconds
+
+### Pronator Stretch
+
+**Form:**
+1. Arm at side, elbow bent 90°
+2. Partner or other hand rotates forearm into supination
+3. Gentle stretch
+4. Hold 30 seconds
+
+## Self-Massage Techniques
+
+### Forearm Flexor Release
+
+**Technique:**
+1. Find tender points in inner forearm
+2. Apply pressure with thumb or ball
+3. While pressing, slowly flex and extend wrist
+4. 1-2 minutes per tender area
+
+### Cross-Fiber Massage
+
+**Technique:**
+1. Locate the muscle bellies (2-3 inches below elbow)
+2. Massage across the muscle fibers
+3. Moderate pressure
+4. 2-3 minutes
+
+## Sample Weekly Program
+
+### Weeks 1-2
+- Isometric wrist flexion: 5x30 sec, 3x/day
+- Isometric pronation: 5x30 sec, 3x/day
+- Gentle stretches: 2x30 sec, 3x/day
+- Ice as needed
+
+### Weeks 3-6
+- Eccentric wrist flexion: 3x15, 1x/day
+- Eccentric pronation: 3x15, 1x/day
+- Reverse Tyler Twist: 3x15, 2x/day
+- Stretches: 2x30 sec, 2x/day
+
+### Weeks 7-12
+- Wrist curls: 3x15
+- Pronation/supination: 3x15
+- Grip strengthening: 3x15
+- Reverse curls: 3x15
+- Eccentric maintenance: 1x15
+- Stretches as needed
+
+## Activity-Specific Considerations
+
+### Golf
+
+- Check grip pressure (lighter is better)
+- Review swing mechanics with pro
+- Strengthen the "pulling" motion
+- Warm up wrists before playing
+
+### Climbing/Pull-ups
+
+- Reduce volume initially
+- Use open grip vs. closed
+- Strengthen grip endurance
+- Eccentric work is crucial
+
+### Weightlifting
+
+- Avoid pain-provoking grips
+- Use straps temporarily
+- Focus on grip strengthening
+- Check bar positioning
+
+## When to Seek Help
+
+**See a professional if:**
+- No improvement after 6-8 weeks
+- Severe pain affecting daily activities
+- Numbness or tingling (ulnar nerve involvement)
+- Significant weakness
+- Pain at rest
+
+## The Bottom Line
+
+1. **Isometrics first** — Build tolerance safely
+2. **Eccentric loading** — The key intervention
+3. **Don't neglect extensors** — Balance prevents recurrence
+4. **Address the cause** — Technique and ergonomics matter
+5. **Be patient** — 3-6 months is typical recovery
+
+---
+
+*Foundational Rehab provides golfer's elbow recovery programs with progressive loading protocols.*
+    `
+  },
+  'how-to-improve-thoracic-mobility': {
+    title: 'How to Improve Thoracic Mobility: Unlock Your Upper Back',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read',
+    content: `
+## Why Thoracic Mobility Matters
+
+The thoracic spine (upper and mid back) is designed for movement—especially rotation and extension. But modern life locks it up:
+
+- Sitting hunched over devices
+- Driving
+- Desk work
+- Looking down at phones
+
+When the thoracic spine gets stiff, problems happen elsewhere:
+
+**Neck pain:** Cervical spine compensates for lack of thoracic mobility
+**Shoulder problems:** Can't fully raise arms without thoracic extension
+**Low back pain:** Lumbar spine rotates to compensate
+**Poor breathing:** Restricted ribcage limits lung expansion
+**Bad posture:** Can't stand upright without thoracic extension
+
+## Quick Assessment
+
+### Extension Test
+
+**Wall angel:**
+1. Back against wall
+2. Try to raise arms overhead while keeping back flat
+3. Can you touch thumbs to wall above your head?
+
+**Limitation:** Arms can't go fully overhead = limited thoracic extension
+
+### Rotation Test
+
+**Seated rotation:**
+1. Sit upright, arms crossed on chest
+2. Rotate to each side
+3. Should achieve 45-50° rotation each way
+
+**Limitation:** Less than 40° or significant asymmetry = limited rotation
+
+## Category 1: Extension Exercises
+
+### Foam Roller Thoracic Extension
+
+The classic mobility exercise.
+
+**Form:**
+1. Foam roller across upper back (perpendicular to spine)
+2. Knees bent, feet flat
+3. Support head with hands
+4. Extend back over roller
+5. Move roller up/down and repeat at each segment
+
+**Key points:**
+- Don't go into low back—stay mid/upper back
+- 5-10 extensions at each level
+- 2-3 positions from shoulder blades to mid back
+
+### Cat-Cow Focus on Thoracic
+
+**Form:**
+1. On hands and knees
+2. Cow: Focus on lifting chest (not just belly)
+3. Cat: Round upper back specifically
+4. Isolate the thoracic movement
+
+**Reps:** 10-15 cycles
+
+### Prone Press-Up Thoracic Focus
+
+**Form:**
+1. Lie face down
+2. Hands under shoulders
+3. Press up while keeping hips on ground
+4. Focus on extending through upper back (not just low back)
+5. Push through hands, let chest rise
+
+**Reps:** 10 reps, hold 2-3 seconds at top
+
+### Bench Thoracic Extension
+
+**Form:**
+1. Kneel facing bench/couch
+2. Elbows on bench, hands together (prayer position)
+3. Sit hips back toward heels
+4. Let chest drop through toward floor
+5. Feel stretch in upper back
+
+**Hold:** 30-60 seconds, 3 sets
+
+## Category 2: Rotation Exercises
+
+### Open Books (Side-Lying Rotation)
+
+**Form:**
+1. Lie on side, knees stacked and bent 90°
+2. Arms straight out in front, palms together
+3. Rotate top arm up and over, following with eyes
+4. Try to get top shoulder to floor
+5. Keep knees together throughout
+
+**Reps:** 10-15 each side, slow and controlled
+
+### Thread the Needle
+
+**Form:**
+1. On hands and knees
+2. Reach one arm under body, rotating torso
+3. Follow hand with eyes
+4. Slight stretch at end range
+5. Return and repeat
+
+**Reps:** 10 each side
+
+### Quadruped Thoracic Rotation
+
+**With hand behind head:**
+1. On hands and knees
+2. One hand behind head
+3. Rotate that elbow up toward ceiling
+4. Then rotate down toward opposite elbow
+5. Keep hips still
+
+**Reps:** 10-15 each side
+
+### Seated Rotation with Reach
+
+**Form:**
+1. Sit on floor, legs straight or crossed
+2. Arms out to sides
+3. Rotate torso, reaching front hand to back heel
+4. Other arm reaches forward
+5. Keep both sit bones down
+
+**Reps:** 10 alternating sides
+
+## Category 3: Combined Movements
+
+### World's Greatest Stretch (Thoracic Focus)
+
+**Form:**
+1. Lunge position, hands on floor
+2. Rotate toward front leg, reaching that arm to ceiling
+3. Follow hand with eyes
+4. Return hand to floor
+5. Alternate sides
+
+**Reps:** 5-8 each side
+
+### Windmill
+
+**Form:**
+1. Lie on side, top leg bent and resting on floor in front
+2. Top arm starts forward, in line with bottom arm
+3. Make big circle with top arm—up, back, down, forward
+4. Keep top knee pinned down throughout
+5. Entire arm should trace the floor
+
+**Reps:** 5-10 circles each direction, each side
+
+### Bretzel Stretch
+
+**Form:**
+1. Lie on side
+2. Bottom leg straight
+3. Top leg bent, knee on floor in front (use hand to hold)
+4. Rotate upper body back, trying to get top shoulder to floor
+5. Reach top arm back
+
+**Hold:** 30-60 seconds each side
+
+## Category 4: Active Strengthening
+
+Mobility without strength doesn't stick.
+
+### Y-T-W Raises
+
+**Form (lying face down or standing):**
+- **Y:** Arms at 45° overhead, thumbs up, lift and hold
+- **T:** Arms at 90° (T shape), lift and hold
+- **W:** Elbows bent, squeeze shoulder blades, lift
+
+**Reps:** 10 each position, 2-3 sets
+
+### Face Pulls
+
+**With band:**
+1. Band at face height
+2. Pull toward face, separating hands
+3. External rotate shoulders at end
+4. Squeeze shoulder blades
+
+**Reps:** 15-20, 3 sets
+
+### Banded Pull-Aparts
+
+**Form:**
+1. Band at chest height, arms extended
+2. Pull band apart, squeezing shoulder blades
+3. Control return
+
+**Reps:** 15-20, 3 sets
+
+### Dead Bug with Rotation
+
+**Form:**
+1. Dead bug position (on back, arms up, knees at 90°)
+2. Lower opposite arm and leg
+3. Add slight rotation toward the extended leg
+4. Return and alternate
+
+**Reps:** 8-10 each side
+
+## Sample Daily Routine
+
+### Quick Version (5 Minutes)
+
+**Do daily:**
+1. Foam roller extension: 2 minutes (moving through positions)
+2. Open books: 8 each side
+3. Thread the needle: 8 each side
+
+### Full Version (15 Minutes)
+
+**3-4 times per week:**
+
+**Extension (5 min):**
+- Foam roller: 2 min
+- Bench extension: 3x30 sec
+- Cat-cow: 10 reps
+
+**Rotation (5 min):**
+- Open books: 10 each side
+- Thread the needle: 10 each side
+- Quadruped rotation: 10 each side
+
+**Strengthening (5 min):**
+- Y-T-W: 10 each position
+- Band pull-aparts: 15 reps
+
+## Breathing Integration
+
+The thoracic spine houses your ribs. Breathing work improves mobility.
+
+### 90-90 Breathing
+
+**Form:**
+1. Lie on back, legs on chair (90° hips and knees)
+2. Breathe into your back ribs
+3. Feel back expand against floor
+4. Exhale fully, let ribs drop
+5. 5-10 breaths
+
+### Crocodile Breathing
+
+**Form:**
+1. Lie face down, forehead on hands
+2. Breathe into your belly and back
+3. Feel back rise
+4. Focus on 360° expansion
+
+**Reps:** 10 breaths
+
+## Common Mistakes
+
+### 1. Moving from Low Back Instead
+
+**Fix:** Keep low back still. Think about moving from between the shoulder blades.
+
+### 2. Holding Breath
+
+**Fix:** Breathe throughout. Exhale into the stretch.
+
+### 3. Forcing Range
+
+**Fix:** Move to end range, then relax into it. Don't force.
+
+### 4. Inconsistency
+
+**Fix:** Brief daily work beats occasional long sessions.
+
+### 5. Only Stretching
+
+**Fix:** Combine mobility work with strengthening to keep gains.
+
+## How Long Does Improvement Take?
+
+**Realistic timeline:**
+- Week 1-2: Movement feels easier, less stiff
+- Week 3-4: Noticeable range increase
+- Week 5-8: Significant improvement
+- Ongoing: Maintenance to keep gains
+
+**Key factor:** Consistency beats intensity. 5 minutes daily > 30 minutes once a week.
+
+## Integration Tips
+
+### At Your Desk
+
+- Seated rotations: Every 1-2 hours
+- Upper back extension over chair: When you feel stiff
+- Chin tucks: Frequently
+
+### Before Exercise
+
+- Foam roller extension
+- Thread the needle
+- Cat-cow
+
+### Before Overhead Work (Pressing, Climbing)
+
+- Thoracic extension is required
+- Y-T-W activation
+- Wall slides
+
+## The Bottom Line
+
+1. **Daily mobility work** — Consistency is key
+2. **Extension AND rotation** — Both matter
+3. **Strengthen the position** — Keep what you gain
+4. **Breathe into it** — Ribcage mobility connects to breathing
+5. **Protect other joints** — Good thoracic mobility saves your neck and low back
+
+---
+
+*Foundational Rehab provides thoracic mobility programs that complement our full-body approach.*
+    `
+  },
+  'stretches-before-bed': {
+    title: 'Stretches Before Bed: The Perfect Evening Routine for Better Sleep',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '5 min read',
+    content: `
+## Why Stretching Before Bed Works
+
+Evening stretching does more than improve flexibility—it prepares your body and mind for sleep:
+
+**Physical benefits:**
+- Releases muscle tension from the day
+- Reduces next-day stiffness
+- Decreases restless legs symptoms
+- Relieves pain that interferes with sleep
+
+**Mental benefits:**
+- Activates parasympathetic nervous system
+- Provides transition ritual from day to night
+- Reduces racing thoughts through body focus
+- Lowers cortisol levels
+
+## Ground Rules
+
+### Keep It Gentle
+
+**Don't:**
+- Push to maximum stretch
+- Do intense, sweaty exercise
+- Stimulate your nervous system
+
+**Do:**
+- Move slowly
+- Breathe deeply
+- Focus on relaxation, not gains
+
+### Timing
+
+- 30-60 minutes before bed works best
+- Right before bed is fine too
+- 5-15 minutes is plenty
+
+### Environment
+
+- Dim lights
+- Quiet space (or calm music)
+- Comfortable surface
+- Cool room temperature
+
+## The 10-Minute Bedtime Routine
+
+### 1. Seated Forward Fold (90 seconds)
+
+**Form:**
+1. Sit with legs extended
+2. Fold forward from hips
+3. Let gravity do the work
+4. Arms rest wherever comfortable
+5. Breathe slowly
+
+**Why:** Calms the nervous system, stretches hamstrings and back.
+
+### 2. Supine Twist (60 seconds each side)
+
+**Form:**
+1. Lie on back
+2. Hug one knee to chest
+3. Guide knee across body to opposite side
+4. Arms out in T, look away from knee
+5. Let knee fall toward floor (doesn't need to touch)
+
+**Why:** Releases lower back tension, wrings out the spine.
+
+### 3. Figure-4 Stretch (60 seconds each side)
+
+**Form:**
+1. Lie on back
+2. Cross one ankle over opposite knee
+3. Pull bottom leg toward chest
+4. Keep head on floor
+5. Gentle pressure only
+
+**Why:** Releases hip tension accumulated from sitting.
+
+### 4. Happy Baby (90 seconds)
+
+**Form:**
+1. Lie on back
+2. Grab outsides of feet
+3. Pull knees toward armpits
+4. Keep low back on floor
+5. Rock gently side to side
+
+**Why:** Opens hips, decompresses spine, deeply relaxing.
+
+### 5. Legs Up the Wall (2-3 minutes)
+
+**Form:**
+1. Sit sideways against wall
+2. Swing legs up, lie back
+3. Scoot hips close to wall (or not—both work)
+4. Arms relaxed at sides, palms up
+5. Close eyes, breathe slowly
+
+**Why:** Promotes circulation, reduces leg swelling, deeply calming. Can stay here longer if it feels good.
+
+### 6. Child's Pose (90 seconds)
+
+**Form:**
+1. Knees wide, big toes touching
+2. Sit back toward heels
+3. Arms extended forward OR by sides
+4. Forehead rests on floor (or pillow)
+5. Let everything soften
+
+**Why:** Full-body relaxation, releases back and hips.
+
+## Alternative Quick Routine (5 Minutes)
+
+When you're too tired for the full routine:
+
+1. **Supine twist:** 45 sec each side
+2. **Figure-4:** 45 sec each side
+3. **Legs up the wall:** 2 minutes
+
+Done. Three stretches, five minutes, significantly better sleep.
+
+## Stretches for Specific Issues
+
+### For Lower Back Pain
+
+**Knee-to-chest:**
+1. Lie on back
+2. Pull one knee to chest, then both
+3. Hold 30-60 seconds
+
+**Cat-cow (gentle):**
+1. On hands and knees
+2. Slowly alternate arching and rounding
+3. 8-10 cycles, very slow
+
+### For Tight Neck and Shoulders
+
+**Neck rolls (gentle):**
+1. Drop chin to chest
+2. Slowly roll ear to shoulder
+3. Half circles only (not full)
+4. 5-8 each direction
+
+**Thread the needle:**
+1. On hands and knees
+2. Slide one arm under body
+3. Rest shoulder and head on floor
+4. 30 seconds each side
+
+### For Restless Legs
+
+**Calf stretch:**
+1. Against wall or on step
+2. 30 seconds each leg
+
+**Hamstring stretch:**
+1. Lie on back, strap around foot
+2. Straighten leg toward ceiling
+3. 60 seconds each side
+
+### For Hip Tightness
+
+**90-90 stretch:**
+1. Sit with both legs at 90°
+2. Lean forward over front leg
+3. Switch sides
+4. 45 seconds each
+
+## Breathing Integration
+
+### Box Breathing During Stretches
+
+1. Inhale 4 counts
+2. Hold 4 counts
+3. Exhale 4 counts
+4. Hold 4 counts
+5. Repeat
+
+### Extended Exhale
+
+For deeper relaxation:
+1. Inhale 4 counts
+2. Exhale 6-8 counts
+3. Longer exhale activates "rest and digest"
+
+## What to Avoid
+
+### Before Bed, Skip:
+
+- **Dynamic stretching** (leg swings, arm circles) — too stimulating
+- **Deep intense stretching** — activates stress response
+- **Any stretch that causes pain** — keeps you alert
+- **Stretches requiring lots of effort** — raises heart rate
+
+### Signs You're Pushing Too Hard:
+
+- Holding breath
+- Muscles shaking
+- Can't maintain slow breathing
+- Mind racing instead of calming
+
+## Building the Habit
+
+### Habit Stacking
+
+Link stretching to existing routine:
+- "After I brush my teeth, I stretch"
+- "After I set my alarm, I stretch"
+- "When I get into bed, I do legs up the wall"
+
+### Environment Design
+
+- Keep a yoga mat by bed
+- Have a pillow ready for support
+- Set a gentle reminder
+
+### Start Small
+
+- Week 1: Just legs up the wall (2 minutes)
+- Week 2: Add one more stretch
+- Week 3: Build to 5 minutes
+- Week 4+: Full routine if desired
+
+## Signs It's Working
+
+**Within days:**
+- Falling asleep faster
+- Less tossing and turning
+- Mind quieter at bedtime
+
+**Within weeks:**
+- Less morning stiffness
+- Better sleep quality
+- More consistent sleep schedule
+
+**Long-term:**
+- Improved flexibility
+- Reduced chronic tension
+- Bedtime stretching becomes automatic
+
+## The Bottom Line
+
+1. **Gentle, not intense** — Goal is relaxation
+2. **Consistency matters** — Brief nightly > long occasionally
+3. **Focus on breath** — Slow breathing is the key
+4. **Customize for your body** — Choose what feels good
+5. **Make it a ritual** — Same time, same routine
+
+---
+
+*Foundational Rehab includes evening mobility routines designed for recovery and better sleep.*
+    `
   }
 };
 
