@@ -132345,6 +132345,999 @@ If there's acute injury or sharp pain, don't roll it. See a professional.
 
 *Foundational Rehab includes foam rolling protocols in our recovery programming.*
     `
+  },
+  'shoulder-pain-exercises': {
+    title: 'Shoulder Pain Exercises: Relieve and Strengthen',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Understanding Shoulder Pain
+
+The shoulder is the most mobile joint in your body—which makes it vulnerable:
+
+**Common causes:**
+- Rotator cuff issues (tendinitis, tears, impingement)
+- Frozen shoulder (adhesive capsulitis)
+- Bursitis
+- Arthritis
+- Poor posture (rounded shoulders)
+
+**Good news:** Most shoulder pain responds to exercise—but you need the right exercises.
+
+## Warning Signs—See a Doctor
+
+Get evaluated first if you have:
+- Pain after trauma or fall
+- Inability to raise arm
+- Shoulder looks deformed
+- Severe pain at rest
+- Numbness or tingling in arm
+
+## Phase 1: Pain Relief
+
+### Pendulum Exercise
+
+1. Lean forward, hand on table for support
+2. Let affected arm hang straight down
+3. Swing arm gently in small circles
+4. 10 circles clockwise, 10 counterclockwise
+5. Also swing forward/back and side to side
+
+### Passive External Rotation
+
+1. Hold a stick or towel with both hands
+2. Keep elbows at sides, bent 90°
+3. Use good arm to push affected arm outward
+4. Hold 30 seconds at comfortable end range
+5. 5 reps
+
+### Cross-Body Stretch
+
+1. Bring affected arm across chest
+2. Use other hand to gently pull at elbow
+3. Keep shoulder down (don't shrug)
+4. Hold 30 seconds
+5. Should feel stretch, not pain
+
+## Phase 2: Mobility
+
+### Sleeper Stretch
+
+1. Lie on affected side
+2. Affected arm straight out from shoulder
+3. Bend elbow 90°, forearm up
+4. Use other hand to push forearm toward floor
+5. Hold 30 seconds
+6. Stretches internal rotators
+
+### Doorway Stretch
+
+1. Stand in doorway
+2. Forearm on door frame, elbow at shoulder height
+3. Step through until stretch in front of shoulder
+4. Hold 30 seconds
+5. Repeat at different arm heights
+
+### Thread the Needle
+
+1. Start on hands and knees
+2. Reach one arm under body to opposite side
+3. Let shoulder rotate and rest on floor
+4. Hold 30 seconds each side
+5. Great for upper back and shoulder
+
+## Phase 3: Strengthening
+
+### External Rotation with Band
+
+1. Attach band at elbow height
+2. Stand sideways, affected arm away from anchor
+3. Keep elbow at side, bent 90°
+4. Rotate forearm away from body
+5. 15 reps, 2-3 sets
+6. Key rotator cuff exercise
+
+### Internal Rotation with Band
+
+1. Same setup, but turn around
+2. Affected arm toward anchor
+3. Rotate forearm toward body
+4. 15 reps, 2-3 sets
+
+### Side-Lying External Rotation
+
+1. Lie on non-affected side
+2. Affected arm on top, elbow at side
+3. Hold light dumbbell (2-5 lbs)
+4. Rotate forearm toward ceiling
+5. Lower slowly
+6. 15 reps, 2-3 sets
+
+### Prone Y-T-I Raises
+
+**Y Raise:**
+1. Lie face down, arms overhead in Y shape
+2. Thumbs up
+3. Lift arms toward ceiling
+4. Hold 3 seconds
+5. 10 reps
+
+**T Raise:**
+1. Arms out to sides (T shape)
+2. Thumbs up
+3. Lift arms toward ceiling
+4. 10 reps
+
+**I Raise:**
+1. Arms straight alongside body
+2. Thumbs up
+3. Lift arms toward ceiling
+4. 10 reps
+
+### Rows
+
+1. Band or dumbbell row
+2. Squeeze shoulder blade back and down
+3. Don't shrug shoulder up
+4. 15 reps, 3 sets
+
+### Wall Push-Up Plus
+
+1. Do a push-up against wall
+2. At top, push extra to protract shoulder blades
+3. Feel shoulder blades spread apart
+4. 15 reps
+5. Strengthens serratus anterior
+
+## Scapular Exercises
+
+The shoulder blade must move well for the shoulder to function:
+
+### Scapular Squeezes
+
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. 15 reps
+4. Do throughout the day
+
+### Wall Slides
+
+1. Stand with back against wall
+2. Arms in goalpost position against wall
+3. Slide arms up and down
+4. Keep arms in contact with wall
+5. 10 reps
+
+### Prone Scapular Retraction
+
+1. Lie face down, arms hanging off bed/bench
+2. Squeeze shoulder blades together
+3. Hold 5 seconds
+4. 10 reps
+
+## Specific Conditions
+
+### Impingement
+
+Focus on:
+- Rotator cuff strengthening
+- Scapular control
+- Posture correction
+- Avoid overhead activities initially
+
+### Frozen Shoulder
+
+Focus on:
+- Gentle stretching (don't force!)
+- Pendulum exercises
+- Heat before mobility work
+- Patience (can take 12-24 months)
+
+### Rotator Cuff Tendinitis
+
+Focus on:
+- Relative rest (avoid painful activities)
+- Ice after exercise
+- Gradual strengthening
+- External rotation strength
+
+## Daily Routine
+
+**Morning (5 min):**
+- Pendulum: 30 seconds each direction
+- Cross-body stretch: 30 seconds each
+- Doorway stretch: 30 seconds
+
+**Strength Days (3x/week):**
+- External rotation: 2 × 15
+- Internal rotation: 2 × 15
+- Y-T-I raises: 1 set each
+- Rows: 2 × 15
+- Wall push-up plus: 2 × 15
+
+**Evening (5 min):**
+- Sleeper stretch: 30 seconds
+- Thread the needle: 30 seconds each
+- Pendulum if stiff
+
+## Tips for Success
+
+### Posture Matters
+
+- Rounded shoulders contribute to impingement
+- Work on thoracic extension
+- Strengthen upper back
+
+### Don't Push Through Pain
+
+- Mild discomfort during exercise: OK
+- Sharp pain: Stop that exercise
+- Pain after: Reduce intensity next time
+
+### Progress Gradually
+
+- Start with no weight or light resistance
+- Add weight only when current level is easy
+- Increase by small increments
+
+## The Bottom Line
+
+1. **Rotator cuff matters** — Strengthen external rotators especially
+2. **Scapula is key** — Shoulder blade must move properly
+3. **Posture affects shoulders** — Fix rounded shoulders
+4. **Progress slowly** — Shoulders are delicate
+5. **Be patient** — Shoulder issues often take 6-12 weeks
+
+---
+
+*Foundational Rehab provides shoulder rehabilitation programs targeting your specific condition.*
+    `
+  },
+  'how-to-improve-flexibility': {
+    title: 'How to Improve Flexibility: A Complete Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read',
+    content: `
+## What Is Flexibility?
+
+Flexibility is the ability of muscles to lengthen, allowing joints to move through their full range of motion:
+
+**Benefits:**
+- Reduces injury risk
+- Improves performance
+- Decreases muscle tension
+- Better posture
+- Easier daily movements
+
+**Mobility vs. Flexibility:**
+- Flexibility = passive range (how far you can be stretched)
+- Mobility = active range (how far you can move under control)
+
+Both matter. This guide covers both.
+
+## Why You're Inflexible
+
+Common causes of poor flexibility:
+
+- **Sedentary lifestyle** — Muscles adapt to positions you hold
+- **Lack of stretching** — Use it or lose it
+- **Previous injuries** — Scar tissue, protective tension
+- **Dehydration** — Muscles need water
+- **Age** — Flexibility decreases but remains trainable
+- **Genetics** — Some people are naturally stiffer
+
+## Types of Stretching
+
+### Static Stretching
+
+- Hold a stretch for 30-60 seconds
+- Best for: Cool-down, dedicated flexibility work
+- Don't do before explosive activities
+
+### Dynamic Stretching
+
+- Active movement through range of motion
+- Best for: Warm-up
+- Examples: leg swings, arm circles
+
+### PNF (Proprioceptive Neuromuscular Facilitation)
+
+- Contract muscle, then stretch
+- Most effective for rapid flexibility gains
+- Example: Contract hamstring 5 sec, then stretch deeper
+
+### Active Stretching
+
+- Use antagonist muscles to create stretch
+- Builds flexibility AND strength
+- Example: Lift leg with hip flexors to stretch hamstrings
+
+## General Flexibility Routine
+
+### Hamstrings
+
+**Standing Hamstring Stretch:**
+1. Place foot on elevated surface (chair, step)
+2. Keep both legs straight
+3. Hinge forward at hips
+4. Hold 30-60 seconds each side
+
+**Seated Forward Fold:**
+1. Sit with legs extended
+2. Reach toward toes
+3. Keep slight knee bend if needed
+4. Hold 60 seconds
+
+### Hip Flexors
+
+**Half-Kneeling Hip Flexor Stretch:**
+1. Kneel on one knee
+2. Tuck tailbone under
+3. Shift weight forward
+4. Hold 30-60 seconds each side
+
+**Couch Stretch:**
+1. Back foot on couch or wall
+2. Front foot forward in lunge
+3. Stay upright
+4. Intense hip flexor stretch
+5. Hold 60 seconds each side
+
+### Quadriceps
+
+**Standing Quad Stretch:**
+1. Stand on one leg
+2. Pull other foot toward butt
+3. Keep knees together
+4. Hold 30 seconds each side
+
+### Glutes and Hips
+
+**Pigeon Pose:**
+1. Front shin roughly parallel to front of mat
+2. Back leg extended behind
+3. Fold forward over front leg
+4. Hold 60-90 seconds each side
+
+**90-90 Stretch:**
+1. Sit with both legs at 90° angles
+2. Lean toward front shin
+3. Hold 30 seconds
+4. Rotate to other side
+
+### Calves
+
+**Wall Calf Stretch:**
+1. Hands on wall
+2. Step one foot back, heel down
+3. Lean into wall
+4. Hold 30 seconds each side
+5. Repeat with back knee bent (for soleus)
+
+### Upper Back
+
+**Thread the Needle:**
+1. Start on hands and knees
+2. Reach one arm under body
+3. Let shoulder rest on floor
+4. Hold 30 seconds each side
+
+**Cat-Cow:**
+1. On hands and knees
+2. Alternate arching and rounding spine
+3. 10 cycles
+
+### Shoulders and Chest
+
+**Doorway Chest Stretch:**
+1. Forearm on doorframe
+2. Step through doorway
+3. Hold 30 seconds
+4. Repeat at different arm heights
+
+**Cross-Body Shoulder Stretch:**
+1. Pull arm across chest
+2. Use other hand at elbow
+3. Hold 30 seconds each side
+
+## How to Get More Flexible Faster
+
+### Consistency Over Intensity
+
+- Daily short sessions beat weekly long sessions
+- 10-15 minutes daily > 60 minutes once a week
+
+### Hold Longer
+
+- 30 seconds minimum
+- 60-90 seconds for stubborn areas
+- 2+ minutes for maximal gains
+
+### Use PNF
+
+1. Stretch to limit
+2. Contract muscle being stretched (5-10 seconds)
+3. Relax and stretch deeper
+4. Repeat 2-3 times
+
+### Strengthen in Stretched Position
+
+- Build strength at end range
+- Makes flexibility "usable"
+- Examples: RDLs for hamstrings, deep squats for hips
+
+### Stay Consistent
+
+- Results take weeks to months
+- Don't skip days
+- Track progress
+
+## Sample Weekly Plan
+
+**Daily (10-15 min):**
+- Full body stretching routine
+- Focus extra time on tight areas
+
+**3x Per Week:**
+- PNF stretching for problem areas
+- Longer holds (90+ seconds)
+
+**Strength Training Days:**
+- Dynamic stretching warm-up
+- Static stretching cool-down
+- Include full ROM exercises
+
+## Common Flexibility Goals
+
+### Touch Your Toes
+
+**Focus on:**
+- Hamstring stretches (multiple angles)
+- Hip hinge practice
+- Calf flexibility
+
+**Timeline:** 4-8 weeks with daily work
+
+### Full Squat (Ass to Grass)
+
+**Focus on:**
+- Ankle dorsiflexion
+- Hip flexor length
+- Hip external rotation
+
+**Timeline:** 4-12 weeks depending on starting point
+
+### Splits
+
+**Focus on:**
+- Hamstrings (front leg)
+- Hip flexors (back leg)
+- Adductors (middle split)
+- Progressive overload with stretching
+
+**Timeline:** 3-12 months for most people
+
+## Flexibility Mistakes
+
+### Bouncing
+
+- Creates micro-tears
+- Triggers stretch reflex
+- Hold stretches steady instead
+
+### Stretching Cold Muscles
+
+- Light activity first (walking, jumping jacks)
+- Warm muscles stretch better
+
+### Holding Breath
+
+- Breathe deeply
+- Exhale into the stretch
+
+### Expecting Quick Results
+
+- Flexibility takes time
+- Weeks to months, not days
+
+### Only Stretching Tight Areas
+
+- Imbalances cause problems
+- Full body approach is better
+
+## The Bottom Line
+
+1. **Stretch daily** — Consistency is everything
+2. **Hold 30+ seconds** — Longer for stubborn areas
+3. **Breathe and relax** — Don't fight the stretch
+4. **Strengthen at end range** — Make flexibility usable
+5. **Be patient** — Weeks to months for real change
+
+---
+
+*Foundational Rehab builds flexibility you can actually use with combined stretching and strengthening programs.*
+    `
+  },
+  'exercises-for-plantar-fasciitis': {
+    title: 'Exercises for Plantar Fasciitis: Heel Pain Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## What Is Plantar Fasciitis?
+
+Plantar fasciitis is inflammation (or degeneration) of the plantar fascia—the thick band of tissue running along the bottom of your foot:
+
+**Symptoms:**
+- Sharp heel pain, especially first steps in the morning
+- Pain that improves with movement, then worsens with prolonged activity
+- Tenderness on the bottom of the heel
+- Pain after (not during) exercise
+
+**Common causes:**
+- Tight calves and Achilles
+- Weak foot muscles
+- Overuse (especially running)
+- Poor footwear
+- Sudden increase in activity
+
+## First Steps for Relief
+
+### Morning Routine
+
+Before getting out of bed:
+1. Flex and point your feet 10 times
+2. Spell the alphabet with each foot
+3. Gently stretch your calf by pulling toes toward shin
+4. Put on supportive shoes before walking
+
+### Ice
+
+- Roll foot on frozen water bottle: 10 minutes
+- Ice after activity
+- Reduces inflammation and pain
+
+## Stretching Exercises
+
+### Plantar Fascia Stretch
+
+1. Sit and cross affected foot over opposite knee
+2. Pull toes back toward shin
+3. Feel stretch along arch
+4. Hold 30 seconds
+5. 10 reps, especially before first morning steps
+
+### Calf Stretch (Gastrocnemius)
+
+1. Stand facing wall, hands on wall
+2. Step affected foot back, keep heel down
+3. Lean into wall, keep back leg straight
+4. Hold 30 seconds
+5. 3 reps each side
+
+### Calf Stretch (Soleus)
+
+1. Same position as above
+2. But bend back knee while keeping heel down
+3. Feel stretch lower in the calf
+4. Hold 30 seconds
+5. 3 reps each side
+
+### Achilles Stretch
+
+1. Stand on step, heels hanging off
+2. Lower heels below step level
+3. Hold 30 seconds
+4. Can do both feet at once or one at a time
+
+## Strengthening Exercises
+
+### Towel Scrunches
+
+1. Place towel flat on floor
+2. Use toes to scrunch towel toward you
+3. Spread it back out
+4. 2 sets of 10 scrunches
+
+### Marble Pick-Ups
+
+1. Place marbles on floor
+2. Pick up each marble with toes
+3. Place in cup
+4. 2 sets of 10-20 marbles
+
+### Short Foot Exercise
+
+1. Sit or stand
+2. Try to raise arch without curling toes
+3. Imagine pulling ball of foot toward heel
+4. Hold 5 seconds
+5. 15-20 reps
+
+### Toe Yoga
+
+1. Lift big toe while keeping other toes down
+2. Then lift other toes while keeping big toe down
+3. Alternate
+4. 10 reps each way
+5. Builds intrinsic foot strength
+
+### Calf Raises (Eccentric Focus)
+
+1. Stand on step, balls of feet on edge
+2. Rise up on both feet
+3. Shift weight to affected foot
+4. Lower slowly (3-5 seconds) on one foot
+5. 15 reps
+6. This is key for plantar fascia healing
+
+## Rolling and Massage
+
+### Tennis Ball Roll
+
+1. Place tennis ball under affected foot
+2. Roll ball along arch
+3. Apply moderate pressure
+4. 2-3 minutes each foot
+5. Can use frozen golf ball for more intensity
+
+### Thumb Massage
+
+1. Cross foot over opposite knee
+2. Use thumbs to massage along plantar fascia
+3. Work from heel toward toes
+4. 2-3 minutes
+5. Can do while watching TV
+
+## Daily Routine
+
+**Morning (5 min before getting up):**
+- Plantar fascia stretch: 10 reps
+- Calf stretch: 30 sec each
+- Ankle circles: 10 each direction
+
+**Throughout Day:**
+- Wear supportive shoes
+- Avoid going barefoot on hard surfaces
+- Short foot exercises when sitting
+
+**Evening (10 min):**
+- Calf stretches: 30 sec each, 3 reps
+- Eccentric calf raises: 15 reps
+- Towel scrunches: 2 × 10
+- Tennis ball roll: 3 minutes
+- Ice if needed: 10 minutes
+
+## Lifestyle Modifications
+
+### Footwear
+
+- Supportive shoes with good arch support
+- Avoid flat shoes and flip-flops
+- Consider orthotics or heel cups
+- Replace worn running shoes
+
+### Activity Modification
+
+- Reduce running temporarily
+- Cross-train with low-impact activities (swimming, cycling)
+- Gradual return to activity as pain improves
+
+### Night Splints
+
+- Keep foot in dorsiflexed position overnight
+- Prevents plantar fascia from tightening
+- Can significantly reduce morning pain
+
+## Timeline for Recovery
+
+**Week 1-2:**
+- Focus on pain management
+- Stretching multiple times daily
+- Reduce aggravating activities
+
+**Week 2-6:**
+- Add strengthening exercises
+- Continue stretching
+- Gradual return to activity
+
+**Week 6-12:**
+- Full strengthening program
+- Progressive loading
+- Return to normal activities
+
+**Note:** Plantar fasciitis can take 6-12 months for full recovery. Patience is key.
+
+## When to See a Doctor
+
+Seek professional help if:
+- No improvement after 2-3 weeks of self-treatment
+- Severe pain affecting daily activities
+- Numbness or tingling in foot
+- Pain at rest or at night
+- Visible swelling or bruising
+
+## The Bottom Line
+
+1. **Stretch before walking** — Especially those first morning steps
+2. **Strengthen the foot** — Weak intrinsic muscles contribute
+3. **Don't forget calves** — Tight calves stress the plantar fascia
+4. **Eccentric calf raises are key** — Most evidence-based exercise
+5. **Be patient** — Full recovery takes months, not weeks
+
+---
+
+*Foundational Rehab provides plantar fasciitis recovery programs combining stretching, strengthening, and load management.*
+    `
+  },
+  'knee-strengthening-exercises': {
+    title: 'Knee Strengthening Exercises: Build Stable Knees',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read',
+    content: `
+## Why Knee Strength Matters
+
+Strong muscles around the knee protect the joint and reduce pain:
+
+**Benefits:**
+- Less knee pain
+- Better stability
+- Injury prevention (ACL, meniscus)
+- Improved function (stairs, squatting, walking)
+- Slower arthritis progression
+
+The knee is mainly a hinge joint—it needs the muscles above (quads, hamstrings, glutes) and below (calves) to be strong.
+
+## Key Muscles for Knee Health
+
+### Quadriceps
+
+- Front of thigh
+- Straightens the knee
+- Most important for knee stability
+- VMO (inner quad) often weak
+
+### Hamstrings
+
+- Back of thigh
+- Bends the knee
+- Protects ACL
+- Balance with quad strength important
+
+### Glutes
+
+- Butt muscles
+- Control hip position
+- Prevent knee from caving inward
+- Often overlooked for knee health
+
+### Calves
+
+- Back of lower leg
+- Support behind the knee
+- Important for stability
+
+## Quadriceps Exercises
+
+### Quad Sets (Isometric)
+
+1. Sit with leg extended
+2. Tighten quad by pushing knee down
+3. Hold 5-10 seconds
+4. 15-20 reps
+5. Great for early rehab or arthritic knees
+
+### Straight Leg Raise
+
+1. Lie on back, one knee bent, one leg straight
+2. Tighten quad of straight leg
+3. Lift leg to height of bent knee
+4. Lower slowly
+5. 15 reps, 2-3 sets each leg
+
+### Terminal Knee Extension
+
+1. Place rolled towel under knee
+2. Straighten knee, lifting heel off ground
+3. Tighten quad fully
+4. Hold 5 seconds
+5. 15 reps
+6. Targets last 15° of extension (VMO)
+
+### Wall Sit
+
+1. Back against wall, slide down
+2. Thighs parallel to floor (or higher if painful)
+3. Hold 30-60 seconds
+4. 3 sets
+
+### Step-Ups
+
+1. Use 4-8 inch step
+2. Step up with one leg
+3. Tap other foot on step
+4. Lower slowly
+5. 10-15 reps each leg
+
+### Leg Press (if available)
+
+1. Use machine with light weight
+2. Feet shoulder-width apart
+3. Don't lock out knees
+4. 15 reps, 3 sets
+
+## Hamstring Exercises
+
+### Hamstring Curl (Prone)
+
+1. Lie face down
+2. Bend knee, heel toward butt
+3. Use ankle weight or band for resistance
+4. Lower slowly
+5. 15 reps each leg
+
+### Hamstring Curl (Standing)
+
+1. Stand holding chair
+2. Bend knee behind you
+3. Use ankle weight or band
+4. 15 reps each leg
+
+### Bridge
+
+1. Lie on back, knees bent, feet flat
+2. Lift hips toward ceiling
+3. Squeeze glutes at top
+4. Hold 3 seconds
+5. 15 reps
+
+### Single Leg Bridge
+
+1. Same as bridge but one leg extended
+2. Lift with one leg only
+3. Much harder
+4. 10 reps each leg
+
+### Nordic Hamstring Curl (Advanced)
+
+1. Kneel on pad, feet anchored
+2. Slowly lower body forward
+3. Use hamstrings to control descent
+4. Push off floor to return
+5. 5-10 reps
+
+## Glute Exercises
+
+### Clamshells
+
+1. Lie on side, knees bent 45°
+2. Keep feet together
+3. Lift top knee, opening like a clamshell
+4. Don't rotate hips back
+5. 15-20 reps each side
+
+### Side-Lying Hip Abduction
+
+1. Lie on side, legs straight
+2. Lift top leg toward ceiling
+3. Keep toe pointing forward (not up)
+4. 15 reps each side
+
+### Monster Walks
+
+1. Band around ankles or above knees
+2. Slight squat position
+3. Step diagonally forward and out
+4. 10 steps each direction
+
+### Hip Thrust
+
+1. Upper back on bench, feet flat
+2. Drive hips up by squeezing glutes
+3. Hold at top
+4. 12-15 reps
+
+## Calf Exercises
+
+### Calf Raises
+
+1. Stand on edge of step
+2. Rise up on toes
+3. Lower heels below step
+4. 15-20 reps
+5. Progress to single leg
+
+### Seated Calf Raise
+
+1. Sit with balls of feet on step
+2. Weight on knees if desired
+3. Rise and lower
+4. 15-20 reps
+5. Targets soleus
+
+## Balance Exercises
+
+Balance training protects knees from injury:
+
+### Single Leg Stand
+
+1. Stand on one leg
+2. Hold 30 seconds
+3. Progress: eyes closed, unstable surface
+
+### Single Leg Reach
+
+1. Stand on one leg
+2. Reach other foot forward, back, side
+3. Return to center
+4. 5 reaches each direction
+
+## Sample Knee Strengthening Routine
+
+**Warm-Up (5 min):**
+- Walking or cycling
+- Leg swings
+- Bodyweight squats
+
+**Quad Focus:**
+- Wall sit: 3 × 30 sec
+- Step-ups: 3 × 12 each leg
+- Terminal knee extension: 2 × 15
+
+**Hamstring Focus:**
+- Bridges: 3 × 15
+- Hamstring curls: 3 × 12 each leg
+
+**Glute Focus:**
+- Clamshells: 2 × 15 each
+- Side-lying hip abduction: 2 × 15 each
+
+**Balance:**
+- Single leg stand: 30 sec each leg
+- Single leg reaches: 5 each direction
+
+**Frequency:** 3x per week, non-consecutive days
+
+## Tips for Knee Pain
+
+### If Squats Hurt
+
+- Reduce depth (half or quarter squat)
+- Use wall sit instead (less knee bend)
+- Focus on quad sets and straight leg raises
+
+### If Stairs Hurt
+
+- Step up with stronger leg
+- Step down with weaker leg
+- Use railing
+- Strengthen with step-ups at comfortable height
+
+### If Walking Hurts
+
+- Start with seated exercises
+- Isometric quad sets
+- Pool walking if available
+
+## The Bottom Line
+
+1. **Quads are key** — Strongest protection for knees
+2. **Don't forget glutes** — They control knee position
+3. **Balance hamstrings** — Prevents muscle imbalances
+4. **Progress gradually** — Increase slowly to avoid flare-ups
+5. **Consistency matters** — Regular training beats occasional hard sessions
+
+---
+
+*Foundational Rehab builds strong, stable knees with progressive strengthening programs.*
+    `
   }
 };
 

@@ -4172,6 +4172,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Recovery',
     readTime: '6 min read'
+  },
+  {
+    slug: 'shoulder-pain-exercises',
+    title: 'Shoulder Pain Exercises: Relieve and Strengthen',
+    excerpt: 'Rotator cuff strengthening and mobility exercises for shoulder pain relief.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'how-to-improve-flexibility',
+    title: 'How to Improve Flexibility: A Complete Guide',
+    excerpt: 'Stretching techniques, routines, and tips to improve flexibility at any age.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-plantar-fasciitis',
+    title: 'Exercises for Plantar Fasciitis: Heel Pain Relief',
+    excerpt: 'Stretches, strengthening, and recovery strategies for plantar fasciitis.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'knee-strengthening-exercises',
+    title: 'Knee Strengthening Exercises: Build Stable Knees',
+    excerpt: 'Quad, hamstring, and glute exercises to strengthen and protect your knees.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read'
   }
 ];
 
