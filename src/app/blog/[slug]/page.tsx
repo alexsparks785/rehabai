@@ -100334,6 +100334,1044 @@ Long-term protection requires strength:
 
 *Foundational Rehab offers gamer-specific mobility programs designed for esports athletes and casual gamers alike.*
     `
+  },
+  'how-long-does-it-take-to-get-flexible': {
+    title: 'How Long Does It Take to Get Flexible? Realistic Timelines',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Honest Answer
+
+It depends. But here are realistic expectations:
+
+**Noticeable improvement:** 2-4 weeks
+**Significant gains:** 2-3 months
+**Major flexibility goals:** 6-12+ months
+
+Anyone promising dramatic results in days is selling something.
+
+## What Affects Your Timeline
+
+### Starting Point
+
+If you can barely touch your knees, touching your toes takes longer than if you're already close. The more restricted you are, the more room for improvement — but also more time needed.
+
+### Age
+
+Younger people generally gain flexibility faster. But adults can absolutely become more flexible — it just takes more consistency and patience.
+
+### Genetics
+
+Some people are naturally more flexible due to connective tissue properties. You can't change your genetics, but you can maximize what you have.
+
+### Consistency
+
+This is the biggest factor you control. Stretching 5 minutes daily beats 30 minutes twice a week.
+
+### Type of Flexibility Goal
+
+- **Hamstrings:** 4-8 weeks for noticeable gains
+- **Hip flexors:** 2-6 weeks (often tightness, not true shortness)
+- **Shoulders:** 4-12 weeks depending on the issue
+- **Splits:** 6 months to years (depends on starting point)
+
+## Week-by-Week Expectations
+
+### Weeks 1-2: Tolerance Changes
+
+What's happening:
+- Nervous system adapting to stretching
+- Muscles learning to relax into stretch
+- Pain tolerance increasing
+
+What you'll notice:
+- Stretches feel slightly easier
+- Less discomfort at same positions
+- Might not see visible change yet
+
+### Weeks 3-4: Measurable Progress
+
+What's happening:
+- Actual tissue adaptations beginning
+- Muscle fibers lengthening slightly
+- Nervous system more permissive
+
+What you'll notice:
+- Can reach further than before
+- Stretches feel less intense
+- Friends might not notice, but you will
+
+### Weeks 5-8: Visible Improvement
+
+What's happening:
+- Significant tissue remodeling
+- New sarcomeres forming
+- Connective tissue adapting
+
+What you'll notice:
+- Others may comment on flexibility
+- Functional improvements in exercise
+- Some stretches become easy
+
+### Months 3-6: Substantial Gains
+
+What's happening:
+- Major structural adaptations
+- Joint capsule changes
+- Muscle architecture changes
+
+What you'll notice:
+- Can do things you couldn't before
+- Positions that were impossible now achievable
+- Plateau and breakthrough cycles
+
+### Months 6+: Mastery Goals
+
+What's happening:
+- Continuing refinement
+- Strength in new ranges
+- Permanent changes consolidating
+
+What you'll notice:
+- Approaching genetic potential
+- Progress slows but continues
+- Maintenance becomes easier
+
+## Common Goals and Timelines
+
+### Touch Your Toes
+
+**Starting point:** Can't reach past knees
+**Timeline:** 4-8 weeks of daily stretching
+**Key exercises:** Hamstring stretches, hip hinges, nerve glides
+
+**Starting point:** Reach to shins
+**Timeline:** 2-4 weeks
+**Key exercises:** Forward folds, seated stretches
+
+### Full Squat (Ass to Grass)
+
+**Average person:** 4-12 weeks
+**Key limitations:** Ankle mobility, hip mobility, motor control
+**Key exercises:** Ankle stretches, hip openers, goblet squat holds
+
+### Splits
+
+**Front splits (if close):** 3-6 months
+**Front splits (from scratch):** 6-18 months
+**Middle splits:** 6 months to 2+ years
+**Key exercises:** Progressive stretching, PNF, strength in range
+
+### Overhead Shoulder Mobility
+
+**For pressing/handstands:** 4-12 weeks
+**Key limitations:** Lat tightness, thoracic mobility, shoulder capsule
+**Key exercises:** Lat stretches, thoracic extensions, wall slides
+
+## How to Speed Up Progress
+
+### Daily Practice
+
+5-10 minutes every day beats longer sessions less frequently. Consistency signals your body that this range is needed.
+
+### Hold Stretches Longer
+
+Research suggests 30-60 seconds minimum for hamstrings. Some areas benefit from 2+ minute holds.
+
+### Add Strength
+
+Flexibility without strength is less useful and less lasting. Train muscles in their new ranges.
+
+### Use PNF/Contract-Relax
+
+Contract the muscle you're stretching for 5-10 seconds, then relax and stretch further. More effective than static stretching alone.
+
+### Stay Warm
+
+Warm muscles stretch more easily. Stretch after exercise or use a hot shower.
+
+### Address the Real Limitation
+
+Sometimes "tight hamstrings" are actually neural tension or hip mobility issues. Target the actual problem.
+
+## Common Mistakes That Slow Progress
+
+### Inconsistency
+
+Stretching hard for a week, then nothing for two weeks. You lose gains faster than you build them.
+
+### Overstretching
+
+Pushing into pain causes muscle guarding and can cause injury. Moderate, consistent stretching beats aggressive occasional sessions.
+
+### Only Stretching
+
+Without strengthening in new ranges, flexibility gains are harder to maintain and less functional.
+
+### Ignoring Other Factors
+
+Sleep, hydration, stress, and overall movement affect flexibility. It's not just about stretching.
+
+### Wrong Target
+
+You might be stretching your hamstrings when your hip flexors are the problem. Assess before assuming.
+
+## Maintaining Flexibility
+
+Good news: Maintenance is easier than building.
+
+**Maintenance needs:**
+- 2-3 stretching sessions per week (vs. daily for gains)
+- Regular movement and exercise
+- Brief stretches after workouts
+
+**You'll lose flexibility if:**
+- You stop completely for weeks
+- You sit all day and don't move
+- You only do strength training without mobility
+
+## The Bottom Line
+
+1. **2-4 weeks** — You'll feel the difference
+2. **2-3 months** — Others will see the difference
+3. **6+ months** — Major goals achieved
+4. **Consistency > intensity** — Daily short sessions win
+5. **Add strength** — Flexibility + strength = mobility
+
+---
+
+*Foundational Rehab offers progressive flexibility programs with realistic timelines and daily guidance.*
+    `
+  },
+  'physical-therapy-exercises-at-home': {
+    title: 'Physical Therapy Exercises at Home: A Complete Self-Treatment Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Rehabilitation',
+    readTime: '7 min read',
+    content: `
+## When Home PT Works
+
+Physical therapy exercises at home can effectively treat:
+- Mild to moderate muscle strains
+- Overuse injuries
+- Post-acute recovery (after initial PT)
+- General mobility and strength deficits
+- Chronic pain management
+- Injury prevention
+
+## When to See a Professional First
+
+**Red flags requiring evaluation:**
+- Severe pain that doesn't improve
+- Significant weakness
+- Numbness or tingling
+- Joint instability ("giving way")
+- Post-surgical recovery
+- Suspected fractures
+- Symptoms after trauma
+
+If in doubt, get checked first. Then do your home program.
+
+## The PT Framework
+
+Professional physical therapy follows a logical structure. You can apply the same thinking:
+
+### 1. Assess the Problem
+
+Where does it hurt? When? What makes it better or worse? What can't you do?
+
+### 2. Address Acute Issues
+
+Reduce pain and inflammation first. You can't strengthen through severe pain.
+
+### 3. Restore Range of Motion
+
+Can you move the joint through its full range? If not, work on that before strengthening.
+
+### 4. Build Strength
+
+Strengthen weak muscles and stabilizers. Progress gradually.
+
+### 5. Functional Training
+
+Return to normal activities. Practice the movements that matter.
+
+### 6. Prevention
+
+Maintain gains and prevent recurrence.
+
+## Common Conditions and Home Protocols
+
+### Lower Back Pain
+
+**Phase 1: Acute (Days 1-7)**
+- Walking (short distances, as tolerated)
+- Gentle movements: cat-cow, knee rocks
+- Find positions of relief
+- Avoid prolonged sitting
+
+**Phase 2: Motion Restoration (Weeks 1-2)**
+- Cat-cow stretches: 10-15 reps, 3x/day
+- Knee-to-chest stretches: 30 sec each, 3x/day
+- Pelvic tilts: 15 reps, 3x/day
+- Bird dogs: 10 each side, 2 sets
+
+**Phase 3: Strengthening (Weeks 2-4+)**
+- Dead bugs: 10 each side, 3 sets
+- Glute bridges: 15 reps, 3 sets
+- Side planks: 20-30 sec, 3 each side
+- Farmer carries: 30 seconds, 3 sets
+
+### Knee Pain (General)
+
+**Phase 1: Pain Reduction**
+- Isometric quad sets: 10 reps, hold 10 sec
+- Straight leg raises: 10 reps, 3 sets
+- Ice if swollen
+- Avoid aggravating activities
+
+**Phase 2: Mobility**
+- Heel slides: 15 reps, 3 sets
+- Gentle cycling (stationary)
+- Quad and hamstring stretches
+
+**Phase 3: Strengthening**
+- Mini squats: 15 reps, 3 sets
+- Step-ups (low step): 10 each leg, 3 sets
+- Single-leg balance: 30 seconds each
+- Terminal knee extensions: 15 reps, 3 sets
+
+**Phase 4: Functional**
+- Walking program progression
+- Stair climbing
+- Sport-specific movements (gradual)
+
+### Shoulder Pain
+
+**Phase 1: Pain Reduction**
+- Pendulum exercises: 1-2 min, 3x/day
+- Isometric rotations: 10 reps each direction
+- Ice as needed
+- Avoid overhead reaching
+
+**Phase 2: Mobility**
+- Passive range of motion (use other arm to help)
+- Wall slides: 10-15 reps
+- Sleeper stretch: 30 seconds, 3x/day
+
+**Phase 3: Strengthening**
+- External rotation with band: 15 reps, 3 sets
+- Internal rotation with band: 15 reps, 3 sets
+- Prone Y-T-W: 10 each, 3 sets
+- Rows: 15 reps, 3 sets
+
+### Neck Pain
+
+**Phase 1: Pain Reduction**
+- Gentle range of motion (pain-free only)
+- Heat or ice (whichever helps)
+- Posture awareness
+- Avoid sustained positions
+
+**Phase 2: Mobility**
+- Chin tucks: 10 reps, hold 5 sec, 3x/day
+- Gentle neck rotations: 10 each way
+- Upper trap stretches: 30 sec each side
+
+**Phase 3: Strengthening**
+- Isometric neck exercises: 10 reps each direction
+- Deep neck flexor training: 10 reps, 3 sets
+- Scapular squeezes: 15 reps, 3 sets
+
+## Building Your Home Program
+
+### Daily Structure
+
+**Morning (5-10 min):**
+- Mobility exercises
+- Light stretching
+- Prepare body for the day
+
+**Throughout Day:**
+- Movement breaks every 30-60 min
+- Postural resets
+- Quick stretches
+
+**Evening (10-15 min):**
+- Main exercise program
+- Strengthening work
+- Longer stretches
+
+### Progression Principles
+
+**Pain-free first:** If an exercise hurts, modify or skip it.
+
+**Start easy:** Begin with fewer reps, shorter holds, easier variations.
+
+**Progress gradually:** Add reps before adding resistance. Add difficulty slowly.
+
+**Be consistent:** Daily > intense but sporadic.
+
+### Equipment Suggestions
+
+**Essential (free-$20):**
+- Your body
+- Floor space
+- Doorway (for stretches)
+- Chair or step
+
+**Helpful ($20-50):**
+- Resistance bands (multiple strengths)
+- Foam roller
+- Yoga mat
+- Tennis/lacrosse ball
+
+**Nice to have ($50+):**
+- Light dumbbells
+- Stability ball
+- Pull-up bar
+- Suspension trainer
+
+## Common Mistakes
+
+### Doing Too Much Too Soon
+
+More isn't always better. Aggressive exercise can worsen inflammation and delay healing.
+
+### Skipping Phases
+
+Jumping to strengthening before restoring motion. Strengthening a joint that can't move properly leads to compensation.
+
+### Ignoring Pain
+
+"Working through" sharp pain is not heroic. It's counterproductive. Mild discomfort during exercise is okay; sharp pain means stop.
+
+### Inconsistency
+
+Three good days followed by a week off. Healing requires consistent stimulus.
+
+### Not Progressing
+
+Doing the same easy exercises forever. Once something becomes easy, progress it.
+
+## When Home PT Isn't Enough
+
+Seek professional help if:
+- No improvement after 2-3 weeks
+- Symptoms getting worse
+- Pain is severe or limiting function
+- You're unsure what's wrong
+- Complex injury or post-surgical
+
+A few PT sessions for diagnosis and program design can guide months of effective home work.
+
+## The Bottom Line
+
+1. **Follow the phases** — Pain → mobility → strength → function
+2. **Be consistent** — Daily small doses beat weekly intense sessions
+3. **Progress gradually** — Increase difficulty as you improve
+4. **Listen to your body** — Pain is information
+5. **Know when to get help** — Some things need professional evaluation
+
+---
+
+*Foundational Rehab provides structured home PT programs with daily guidance and progression tracking.*
+    `
+  },
+  'best-stretches-for-tight-muscles': {
+    title: 'Best Stretches for Tight Muscles: Target Every Problem Area',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '7 min read',
+    content: `
+## Why Muscles Get Tight
+
+Before stretching, understand the cause:
+
+**Positional tightness:** Muscles adapt to prolonged positions (sitting = tight hip flexors)
+
+**Weakness tightness:** Weak muscles feel tight because they're overworked
+
+**Protective tightness:** Muscles guard against perceived threat or instability
+
+**Neural tension:** Nerve sensitivity can mimic muscle tightness
+
+Sometimes stretching helps. Sometimes it doesn't. This guide covers what actually works.
+
+## Neck and Upper Traps
+
+### Upper Trap Stretch
+
+The classic tension spot for desk workers and stress.
+
+**How to:**
+- Sit or stand tall
+- Place one hand behind your back
+- Tilt head away from that side
+- Add slight rotation (look toward opposite armpit)
+- Hold 30-60 seconds each side
+
+**Make it better:** Gently pull head with opposite hand for deeper stretch.
+
+### Levator Scapulae Stretch
+
+That knot between your neck and shoulder blade.
+
+**How to:**
+- Look down toward opposite armpit
+- Use hand on head for gentle overpressure
+- Hold 30-60 seconds each side
+
+### Chin Tucks
+
+Not a stretch, but often more effective than stretching for neck tightness.
+
+**How to:**
+- Pull chin straight back (make a double chin)
+- Hold 5 seconds
+- 15-20 reps throughout day
+
+## Shoulders and Chest
+
+### Doorway Pec Stretch
+
+Opens chest muscles that get tight from desk work and phone use.
+
+**How to:**
+- Stand in doorway, forearm on frame
+- Arm at 90° angle from body
+- Step forward and rotate away
+- Hold 30-60 seconds
+- Repeat at different arm angles (higher and lower)
+
+### Cross-Body Shoulder Stretch
+
+For posterior shoulder tightness.
+
+**How to:**
+- Bring arm across body at shoulder height
+- Use other hand to pull arm closer
+- Keep shoulder down (don't shrug)
+- Hold 30 seconds each side
+
+### Lat Stretch
+
+Often overlooked cause of shoulder tightness.
+
+**How to:**
+- Kneel in front of bench or chair
+- Place elbows on surface, palms together
+- Sit hips back, drop chest
+- Hold 30-60 seconds
+
+## Upper Back (Thoracic Spine)
+
+### Thoracic Extension Over Roller
+
+For that hunched upper back.
+
+**How to:**
+- Foam roller under upper back
+- Support head with hands
+- Extend back over roller
+- Move roller to different segments
+- 5-10 extensions at each level
+
+### Open Book Rotation
+
+Improve thoracic rotation.
+
+**How to:**
+- Lie on side, knees bent at 90°
+- Rotate top arm and upper back
+- Follow hand with eyes
+- 10 reps each side
+
+### Thread the Needle
+
+Rotation with flexion bias.
+
+**How to:**
+- On hands and knees
+- Thread one arm under your body
+- Rotate and reach
+- 10 reps each side
+
+## Lower Back
+
+### Cat-Cow
+
+Gentle movement for stiff lower backs.
+
+**How to:**
+- On hands and knees
+- Arch back, head up (cow)
+- Round back, tuck chin (cat)
+- Flow between for 10-15 reps
+- Move slowly, feel each segment
+
+### Child's Pose
+
+Gentle extension and flexion.
+
+**How to:**
+- Kneel, sit back on heels
+- Reach arms forward
+- Hold 30-60 seconds
+- Walk hands to each side for lateral stretch
+
+### Knee-to-Chest Stretch
+
+Simple but effective.
+
+**How to:**
+- Lie on back
+- Pull one knee toward chest
+- Keep other leg straight or bent
+- Hold 30 seconds each side
+
+**Note:** If this makes your pain worse, skip it. Some backs prefer extension.
+
+## Hip Flexors
+
+### Kneeling Hip Flexor Stretch
+
+The #1 stretch for desk workers.
+
+**How to:**
+- Kneel on one knee, other foot forward
+- Tuck pelvis (flatten lower back)
+- Squeeze back glute
+- Lean forward slightly
+- Hold 60+ seconds each side
+
+**Make it better:** Reach same-side arm overhead for added stretch.
+
+### Couch Stretch
+
+Deeper hip flexor and quad stretch.
+
+**How to:**
+- Back knee against wall or couch
+- Front foot forward in lunge
+- Stay upright, squeeze glute
+- Hold 60-90 seconds each side
+
+## Glutes and Piriformis
+
+### Figure-4 Stretch
+
+Classic glute and piriformis stretch.
+
+**How to:**
+- Lie on back
+- Cross ankle over opposite knee
+- Pull bottom leg toward chest
+- Hold 30-60 seconds each side
+
+### Pigeon Pose
+
+Deeper glute stretch.
+
+**How to:**
+- From hands and knees, bring one knee forward
+- Extend back leg straight behind
+- Square hips to floor
+- Hold 60-90 seconds each side
+
+### Supine Twist
+
+Glutes plus spinal rotation.
+
+**How to:**
+- Lie on back, pull one knee across body
+- Keep shoulders flat
+- Hold 30-60 seconds each side
+
+## Hamstrings
+
+### Standing Hamstring Stretch
+
+Simple and accessible.
+
+**How to:**
+- Place heel on low surface
+- Hinge at hips (not waist)
+- Keep back flat
+- Hold 30-60 seconds each side
+
+### Supine Hamstring Stretch
+
+More controllable intensity.
+
+**How to:**
+- Lie on back
+- Lift one leg, hold behind thigh or calf
+- Keep knee as straight as tolerable
+- Hold 30-60 seconds each side
+
+### Sciatic Nerve Glide
+
+If "hamstring tightness" is actually neural.
+
+**How to:**
+- Sit on edge of chair
+- Straighten one leg
+- Point and flex foot
+- Move gently, don't hold
+- 15-20 reps each leg
+
+## Quadriceps
+
+### Standing Quad Stretch
+
+Basic but effective.
+
+**How to:**
+- Stand on one leg (hold support if needed)
+- Grab ankle, pull heel toward glute
+- Keep knees together
+- Stand tall (don't lean forward)
+- Hold 30 seconds each side
+
+### Prone Quad Stretch
+
+More intense option.
+
+**How to:**
+- Lie face down
+- Reach back and grab ankle
+- Pull heel toward glute
+- Keep hip down on floor
+- Hold 30-60 seconds each side
+
+## Calves
+
+### Wall Calf Stretch (Gastrocnemius)
+
+**How to:**
+- Hands on wall, one foot back
+- Back knee straight
+- Press heel down
+- Hold 30 seconds each side
+
+### Bent-Knee Calf Stretch (Soleus)
+
+**How to:**
+- Same position as above
+- Bend back knee while keeping heel down
+- You'll feel it lower in the calf
+- Hold 30 seconds each side
+
+## Full-Body Daily Routine
+
+### 5-Minute Quick Routine
+
+1. Neck circles and tilts (1 min)
+2. Doorway chest stretch (30 sec each side)
+3. Cat-cow (1 min)
+4. Hip flexor stretch (30 sec each side)
+5. Hamstring stretch (30 sec each side)
+
+### 10-Minute Complete Routine
+
+1. Neck stretches (1 min)
+2. Upper trap stretch (30 sec each)
+3. Doorway pec stretch (30 sec each)
+4. Thoracic rotation (10 each side)
+5. Cat-cow (1 min)
+6. Hip flexor stretch (45 sec each)
+7. Figure-4 stretch (30 sec each)
+8. Hamstring stretch (30 sec each)
+9. Calf stretches (30 sec each)
+
+## The Bottom Line
+
+1. **Stretch what's actually tight** — Not everything needs stretching
+2. **Hold 30-60 seconds minimum** — Quick bounces don't work
+3. **Daily beats intense** — 5 minutes every day > 30 minutes weekly
+4. **Consider the cause** — Sometimes strengthening works better than stretching
+5. **Pain-free range** — Stretching shouldn't hurt
+
+---
+
+*Foundational Rehab offers personalized stretching programs targeting your specific tight areas.*
+    `
+  },
+  'exercises-for-office-workers': {
+    title: 'Exercises for Office Workers: Combat Desk Job Damage',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '6 min read',
+    content: `
+## The Office Worker Body
+
+8+ hours at a desk creates a predictable pattern:
+- Forward head posture
+- Rounded shoulders
+- Tight chest muscles
+- Weak upper back
+- Tight hip flexors
+- Weak glutes
+- Stiff thoracic spine
+- Lower back pain
+
+The good news: These are fixable.
+
+## At-Desk Exercises (No One Will Notice)
+
+### Seated Posture Reset
+
+Do this every 30 minutes:
+- Sit tall, pull shoulders back
+- Tuck chin slightly
+- Engage core gently
+- Hold 10 seconds
+- Repeat 3 times
+
+### Under-Desk Heel Raises
+
+**How to:**
+- Feet flat on floor
+- Raise heels, squeeze calves
+- Lower slowly
+- 15-20 reps
+
+Keeps blood flowing and works calves.
+
+### Seated Glute Squeezes
+
+**How to:**
+- Squeeze glutes like holding a pencil
+- Hold 5 seconds
+- Release
+- 10-15 reps
+
+Wakes up dormant glutes.
+
+### Seated Leg Extensions
+
+**How to:**
+- Extend one leg straight
+- Hold 5 seconds
+- Lower slowly
+- 10 reps each leg
+
+Engages quads, gets blood moving.
+
+### Seated Spinal Twist
+
+**How to:**
+- Sit sideways in chair
+- Rotate toward chair back
+- Hold 20 seconds
+- Switch sides
+
+Mobilizes stiff spine.
+
+### Chair Squats
+
+**How to:**
+- Stand up from chair
+- Sit back down with control
+- Don't use hands
+- 10-15 reps
+
+Gets you moving without being obvious.
+
+## Away-From-Desk Exercises (2-Minute Breaks)
+
+### Wall Push-Ups
+
+**How to:**
+- Hands on wall at shoulder height
+- Lower chest toward wall
+- Push back
+- 10-15 reps
+
+Works chest and triceps, counteracts rounded posture.
+
+### Standing Hip Flexor Stretch
+
+**How to:**
+- Staggered stance, back heel up
+- Tuck pelvis, squeeze back glute
+- Lean forward slightly
+- 30 seconds each side
+
+Critical for desk workers.
+
+### Doorway Chest Stretch
+
+**How to:**
+- Forearm on doorframe
+- Step through and rotate
+- 30 seconds each side
+
+Opens tight pecs.
+
+### Wall Angels
+
+**How to:**
+- Back against wall
+- Arms at 90° (goal post position)
+- Slide up and down
+- Keep everything touching wall
+- 10 reps
+
+Improves shoulder mobility and upper back strength.
+
+### Chin Tucks
+
+**How to:**
+- Pull chin straight back
+- Make a double chin
+- Hold 5 seconds
+- 10-15 reps
+
+The #1 exercise for forward head posture.
+
+## Lunch Break Routine (10-15 Minutes)
+
+If you have time for a real break:
+
+### Walking (5 Minutes)
+
+Get outside if possible. Movement is medicine.
+
+### Stretching Circuit (5 Minutes)
+
+- Hip flexor stretch: 45 sec each side
+- Chest stretch: 30 sec each side
+- Upper trap stretch: 30 sec each side
+- Figure-4 glute stretch: 30 sec each side
+
+### Quick Strength (5 Minutes)
+
+- Wall push-ups: 15 reps
+- Chair squats: 15 reps
+- Glute bridges (find a private space): 15 reps
+- Plank: 30 seconds
+
+## Before and After Work
+
+### Morning Prep Routine (5 Minutes)
+
+Prime your body before the sitting assault:
+
+1. Cat-cow stretches: 10 reps
+2. Bird dogs: 8 each side
+3. Glute bridges: 15 reps
+4. Arm circles: 10 each direction
+5. Neck circles: 5 each direction
+
+### After-Work Recovery (10 Minutes)
+
+Undo the day's damage:
+
+1. Hip flexor stretch: 60 sec each side
+2. Thoracic extension over chair: 10 reps
+3. Chest doorway stretch: 30 sec each side
+4. Figure-4 stretch: 45 sec each side
+5. Chin tucks: 15 reps
+6. Cat-cow: 10 reps
+
+Then: Go for a walk. Even 10-15 minutes helps.
+
+## Strength Training for Office Workers
+
+The real long-term fix is building strength in the muscles that get weak from sitting.
+
+### Priority Muscles
+
+**Upper back:** Rows, face pulls, reverse flies
+**Glutes:** Bridges, hip thrusts, squats
+**Core:** Planks, dead bugs, bird dogs
+**Posterior chain:** Deadlifts, Romanian deadlifts
+
+### Sample Weekly Plan
+
+**Day 1:**
+- Rows: 3 x 12
+- Chest press: 3 x 12
+- Goblet squats: 3 x 12
+- Dead bugs: 3 x 10 each side
+
+**Day 2:**
+- Pull-ups or lat pulldowns: 3 x 10
+- Face pulls: 3 x 15
+- Romanian deadlifts: 3 x 10
+- Glute bridges: 3 x 15
+
+**Day 3:**
+- Overhead press: 3 x 10
+- Rows: 3 x 12
+- Lunges: 3 x 10 each
+- Planks: 3 x 30 sec
+
+## Desk Setup Matters
+
+Exercise can't fully compensate for a terrible setup.
+
+### Monitor
+- Top of screen at eye level
+- Arm's length away
+- Directly in front of you (not off to side)
+
+### Chair
+- Feet flat on floor
+- Knees at roughly 90°
+- Lower back supported
+- Armrests allowing shoulders to relax
+
+### Keyboard and Mouse
+- Elbows at 90°
+- Wrists neutral (not bent)
+- Mouse close to keyboard
+
+### Standing Desk Option
+- Alternate sitting/standing (30-60 min intervals)
+- Standing still isn't much better than sitting still
+- Move even when standing
+
+## The Movement Mindset
+
+### Set Timers
+
+Every 30-60 minutes:
+- Stand up
+- Move for 30-60 seconds
+- Reset posture when you sit
+
+### Walking Meetings
+
+If possible, take calls while walking.
+
+### Parking Far
+
+Small movement additions throughout the day add up.
+
+### Stairs
+
+Take them when you can. Skip the elevator for a few floors.
+
+## The Bottom Line
+
+1. **Move every 30-60 minutes** — Set a timer
+2. **Morning routine** — Prep before you sit all day
+3. **After-work routine** — Undo the damage
+4. **Strength training** — 2-3x per week for long-term protection
+5. **Desk setup** — Ergonomics matter
+
+---
+
+*Foundational Rehab offers desk worker recovery programs to reverse the effects of prolonged sitting.*
+    `
   }
 };
 
