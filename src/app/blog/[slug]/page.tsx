@@ -126442,6 +126442,1127 @@ Talk to your doctor before starting if you have:
 
 *Foundational Rehab provides senior-friendly programs focused on independence, fall prevention, and quality of life.*
     `
+  },
+  'exercises-for-vertigo': {
+    title: 'Exercises for Vertigo: BPPV Relief and Vestibular Rehabilitation',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '6 min read',
+    content: `
+## Understanding Vertigo
+
+Vertigo is the sensation that you or your surroundings are spinning. It's not just dizziness—it's a specific rotational sensation, often triggered by head movements.
+
+**Common causes:**
+- **BPPV** (Benign Paroxysmal Positional Vertigo): Most common, caused by displaced ear crystals
+- **Vestibular neuritis/labyrinthitis:** Inner ear inflammation
+- **Meniere's disease:** Inner ear disorder with vertigo, hearing loss, tinnitus
+- **Vestibular migraine:** Migraine-related vertigo
+- **Central causes:** Less common, related to brain
+
+**Important:** See a doctor for proper diagnosis before attempting exercises. Some causes require medical treatment.
+
+## BPPV: The Most Common Vertigo
+
+BPPV occurs when tiny calcium crystals (otoconia) in your inner ear become dislodged and enter the semicircular canals, where they don't belong.
+
+**Symptoms:**
+- Brief episodes (less than 1 minute) of intense spinning
+- Triggered by specific head positions (looking up, rolling over in bed, bending down)
+- May cause nausea
+- Improves when holding still
+
+**The good news:** BPPV is very treatable with specific repositioning maneuvers.
+
+## Repositioning Maneuvers for BPPV
+
+### Epley Maneuver (Posterior Canal BPPV)
+
+The most common type of BPPV affects the posterior canal. The Epley maneuver moves crystals out.
+
+**For RIGHT ear (reverse sides for left):**
+
+1. **Start sitting** on bed, head turned 45° to the right
+2. **Lie back quickly** with head still turned, head hanging slightly off bed
+3. **Wait 30 seconds** (or until vertigo stops)
+4. **Turn head 90° to the left** (now looking 45° left)
+5. **Wait 30 seconds**
+6. **Roll onto left side**, turning head to look at floor
+7. **Wait 30 seconds**
+8. **Sit up slowly** from side-lying position
+
+**Tips:**
+- Have someone help you the first time
+- Expect vertigo during the maneuver—that means it's working
+- Stay upright for a few hours after
+- May need to repeat 2-3 times
+
+### Half Somersault Maneuver (Alternative)
+
+Easier to do alone than the Epley.
+
+**For RIGHT ear:**
+
+1. **Kneel**, look up at ceiling briefly
+2. **Put head on floor** (like child's pose), wait 30 seconds
+3. **Turn head 45° toward right shoulder**, wait 30 seconds
+4. **Raise head** to back level (still turned), wait 30 seconds
+5. **Sit up**, head still turned
+6. **Return head to center**
+
+**Repeat 2-3 times if needed.**
+
+### Brandt-Daroff Exercises
+
+These are habituation exercises that help the brain compensate, rather than repositioning crystals.
+
+**Form:**
+1. Sit on edge of bed
+2. Lie down quickly on one side, nose pointing up at 45°
+3. Stay 30 seconds (or until vertigo stops)
+4. Sit up for 30 seconds
+5. Lie down on other side
+6. Sit up for 30 seconds
+7. That's one repetition
+
+**Do:** 5 repetitions, 3 times daily for 2 weeks
+
+**When to use:** If repositioning maneuvers haven't fully worked, or for habituation.
+
+## Vestibular Rehabilitation Exercises
+
+For vertigo that isn't BPPV, or to retrain balance after vestibular problems.
+
+### Gaze Stabilization Exercises
+
+**VOR x1 (Basic):**
+1. Hold a card with a letter at arm's length
+2. Keep eyes fixed on letter
+3. Move head side to side (like saying "no")
+4. Keep the letter clear and focused
+5. Start slowly, gradually increase speed
+6. 1 minute, 3 times daily
+
+**VOR x1 Vertical:**
+Same exercise, but move head up and down (nodding "yes").
+
+**VOR x2 (Advanced):**
+1. Hold card at arm's length
+2. Move head one direction while moving card the opposite direction
+3. Keep eyes on letter
+4. Much harder than x1
+
+### Balance Exercises
+
+**Feet Together Stand:**
+1. Stand with feet together
+2. Arms at sides
+3. Hold 30 seconds
+4. Progress: eyes closed
+
+**Tandem Stance:**
+1. One foot directly in front of other
+2. Heel to toe
+3. Hold 30 seconds each foot forward
+4. Progress: eyes closed
+
+**Single-Leg Stance:**
+1. Stand on one foot
+2. Hold 30 seconds
+3. Progress: eyes closed, head turns
+
+**Walking with Head Turns:**
+1. Walk in straight line
+2. Turn head side to side while walking
+3. Start slow, increase speed
+4. 1-2 minutes
+
+### Motion Sensitivity Exercises
+
+For people sensitive to movement or visual motion:
+
+**Seated Turns:**
+1. Sit in swivel chair
+2. Turn body (chair rotates)
+3. Stop and let dizziness subside
+4. Repeat in both directions
+5. Progress to faster turns
+
+**Ball Toss with Head Movement:**
+1. Toss ball hand to hand
+2. Move head to follow ball
+3. Start slow, increase speed
+
+## Daily Vestibular Rehab Program
+
+### Mild Symptoms (10-15 Minutes Daily)
+
+1. Gaze stabilization (horizontal): 1 min
+2. Gaze stabilization (vertical): 1 min
+3. Feet together standing: 30 sec x 3
+4. Tandem stance: 30 sec each way
+5. Walking with head turns: 1 min
+
+### Moderate Symptoms (20-25 Minutes Daily)
+
+1. Gaze stabilization (horizontal): 2 min
+2. Gaze stabilization (vertical): 2 min
+3. Feet together standing (eyes closed): 30 sec x 3
+4. Tandem stance: 1 min each way
+5. Single-leg stance: 30 sec each
+6. Walking with head turns: 2 min
+7. Seated turns: 1 min each direction
+
+## What to Expect
+
+### BPPV (with repositioning)
+- Often resolves in 1-3 treatments
+- May recur (repeat maneuvers as needed)
+- 80-90% success rate with proper technique
+
+### Vestibular Rehab
+- Improvement typically begins in 2-4 weeks
+- Full recovery may take 6-12 weeks
+- Consistency is crucial
+
+### Important Notes
+- Some dizziness during exercises is expected
+- Dizziness should subside shortly after stopping
+- If symptoms worsen significantly, stop and consult provider
+
+## Lifestyle Modifications
+
+### During Recovery
+
+- Move slowly, especially when changing positions
+- Use handrails on stairs
+- Avoid heights and ladders
+- Don't drive if having vertigo episodes
+- Sit down if vertigo begins
+
+### Sleep Position (for BPPV)
+
+- Sleep on unaffected side
+- Use extra pillow to elevate head slightly
+- Avoid sleeping on affected side
+
+### Triggers to Avoid
+
+- Quick head movements
+- Looking up for extended periods
+- Bending over
+- Certain visual environments (busy patterns, scrolling)
+
+## When to See a Doctor
+
+**Seek immediate care if vertigo accompanied by:**
+- Severe headache
+- Difficulty speaking or walking
+- Numbness or weakness
+- Vision changes
+- Loss of consciousness
+
+**See a doctor if:**
+- First episode of vertigo (need diagnosis)
+- Vertigo doesn't improve with home exercises
+- Hearing loss or ear symptoms
+- Frequent recurrences
+
+## The Bottom Line
+
+1. **Get diagnosed first** — Different causes need different treatments
+2. **BPPV is very treatable** — Repositioning maneuvers work well
+3. **Vestibular rehab takes time** — 6-12 weeks for full improvement
+4. **Consistency matters** — Daily exercises needed for habituation
+5. **Expect some dizziness** — It's part of the retraining process
+
+---
+
+*Foundational Rehab provides vestibular rehabilitation guidance. Consult a vestibular specialist for persistent vertigo.*
+    `
+  },
+  'how-to-improve-flexibility': {
+    title: 'How to Improve Flexibility: Complete Guide to Getting More Limber',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read',
+    content: `
+## What Is Flexibility?
+
+Flexibility is the ability of your muscles and other soft tissues to stretch. It's different from mobility (which includes joint function), though they're related.
+
+**Flexibility is determined by:**
+- Muscle length and elasticity
+- Connective tissue properties
+- Nervous system tolerance (often the biggest factor)
+- Joint structure (can't change this)
+
+**Why it matters:**
+- Reduces injury risk
+- Improves movement quality
+- Reduces muscle tension and pain
+- Supports daily activities
+- Enhances athletic performance
+
+## The Truth About Flexibility
+
+### What Most People Get Wrong
+
+**Myth:** You just need to stretch more/harder.
+**Reality:** Flexibility is largely a nervous system issue. Your brain limits your range of motion to protect you.
+
+**Myth:** You're either flexible or you're not.
+**Reality:** Almost everyone can significantly improve flexibility with consistent practice.
+
+**Myth:** Stretching is the only way to improve flexibility.
+**Reality:** Strength training through full range of motion also improves flexibility.
+
+### What Actually Works
+
+1. **Consistency over intensity** — Daily moderate stretching beats occasional aggressive stretching
+2. **Time under stretch** — Longer holds (30-120 seconds) work better
+3. **Nervous system training** — Relaxation techniques, PNF, loaded stretching
+4. **Strength in range** — Being strong at end range improves functional flexibility
+
+## Types of Stretching
+
+### Static Stretching
+
+**What it is:** Holding a stretch position for time.
+
+**How to do it:**
+- Move into stretch position
+- Hold at point of tension (not pain)
+- Breathe and try to relax
+- Hold 30-120 seconds
+
+**When to use:** After workouts, dedicated flexibility sessions, before bed.
+
+**Effectiveness:** Good for improving flexibility over time.
+
+### Dynamic Stretching
+
+**What it is:** Moving through ranges of motion without holding.
+
+**Examples:** Leg swings, arm circles, walking lunges.
+
+**When to use:** Before workouts as warm-up.
+
+**Effectiveness:** Good for preparing muscles, limited for improving flexibility.
+
+### PNF Stretching (Proprioceptive Neuromuscular Facilitation)
+
+**What it is:** Contract-relax techniques that trick the nervous system.
+
+**How to do it:**
+1. Stretch to end range
+2. Contract the stretched muscle (push into resistance) for 5-10 seconds
+3. Relax and move deeper into stretch
+4. Repeat 2-4 times
+
+**When to use:** Dedicated flexibility sessions.
+
+**Effectiveness:** Most effective technique for rapid flexibility gains.
+
+### Loaded Stretching
+
+**What it is:** Stretching with external resistance (weights).
+
+**Examples:**
+- Deep squat holds
+- Romanian deadlifts at bottom
+- Dumbbell flyes at full stretch
+
+**When to use:** During strength training.
+
+**Effectiveness:** Builds strength AND flexibility simultaneously.
+
+## Flexibility by Body Area
+
+### Hamstrings
+
+**Static stretch:**
+- Seated forward fold
+- Supine leg raise with strap
+
+**PNF technique:**
+1. Lie on back, leg raised with strap
+2. Push leg down into strap (contract hamstring) 5 seconds
+3. Relax and pull leg closer
+4. Repeat 3-4 times
+
+**Loaded stretch:**
+- Romanian deadlifts, pause at bottom
+
+### Hip Flexors
+
+**Static stretch:**
+- Half-kneeling hip flexor stretch
+- Couch stretch
+
+**Key:** Posterior pelvic tilt is essential for effective hip flexor stretching.
+
+**PNF technique:**
+1. In half-kneeling stretch
+2. Push back knee into ground (contract hip flexor) 5 seconds
+3. Relax and lean forward more
+4. Repeat 3-4 times
+
+### Hips (External Rotation)
+
+**Static stretch:**
+- Pigeon pose
+- Figure-4 stretch
+- 90-90 stretch
+
+**Loaded stretch:**
+- Deep goblet squat holds
+
+### Shoulders
+
+**Static stretch:**
+- Cross-body stretch
+- Doorway pec stretch
+- Sleeper stretch
+
+**Loaded stretch:**
+- Dumbbell flyes at full stretch
+- Hang from bar
+
+### Thoracic Spine
+
+**Mobility work:**
+- Foam roller extension
+- Cat-cow
+- Thread the needle
+
+**Note:** Thoracic spine is more about mobility than muscle flexibility.
+
+### Calves
+
+**Static stretch:**
+- Wall calf stretch (straight leg for gastrocnemius)
+- Wall calf stretch (bent knee for soleus)
+
+**Loaded stretch:**
+- Calf raises with full stretch at bottom
+
+## Sample Flexibility Programs
+
+### Quick Daily Routine (10 Minutes)
+
+**Focus on major tight areas:**
+1. Hip flexor stretch: 60 sec each
+2. Hamstring stretch: 60 sec each
+3. Pigeon pose: 60 sec each
+4. Chest stretch: 30 sec each side
+5. Cat-cow: 10 reps
+
+### Comprehensive Routine (25-30 Minutes)
+
+**Full body flexibility:**
+1. Cat-cow: 10 reps
+2. Child's pose: 60 sec
+3. Thread the needle: 45 sec each
+4. Downward dog: 60 sec
+5. Low lunge with reach: 45 sec each
+6. Half-kneeling hip flexor: 60 sec each
+7. Pigeon pose: 90 sec each
+8. Seated forward fold: 90 sec
+9. Supine twist: 60 sec each
+10. Chest stretch (doorway): 30 sec each position
+
+### PNF Session (Targeted, 15 Minutes)
+
+**For specific areas:**
+1. Choose 3-4 target stretches
+2. Do 3-4 PNF contractions per stretch
+3. Hold final stretch 30-60 seconds
+
+### Loaded Stretching (During Strength Training)
+
+**Incorporate:**
+- Deep squat holds (30-60 sec total)
+- RDL pauses at bottom
+- Dumbbell fly pauses at stretch
+- Lat pulldown pauses at full stretch
+
+## How Long Does It Take?
+
+### Realistic Timeline
+
+**Week 1-2:** Slight improvement, reduced tightness sensation
+**Week 3-4:** Noticeable range of motion improvement
+**Week 5-8:** Significant gains if consistent
+**Week 9-12:** Approaching your realistic potential
+**Ongoing:** Maintenance to keep gains
+
+### Factors That Affect Progress
+
+**Faster progress:**
+- Younger age
+- Previous flexibility
+- Consistency
+- Proper technique
+- Including PNF and loaded stretching
+
+**Slower progress:**
+- Older age
+- Never stretched before
+- Inconsistency
+- Only static stretching
+- Structural limitations
+
+## Tips for Faster Progress
+
+### 1. Stretch When Warm
+
+Muscles stretch better when warm. After exercise or hot shower is ideal.
+
+### 2. Breathe and Relax
+
+Tension fights stretching. Focus on deep breathing and letting go.
+
+### 3. Be Consistent
+
+Daily stretching (even brief) beats occasional long sessions.
+
+### 4. Use PNF Techniques
+
+Contract-relax methods produce faster gains than static stretching alone.
+
+### 5. Get Strong in Range
+
+Strength training through full range builds functional flexibility.
+
+### 6. Don't Force It
+
+Pain doesn't equal gain. Moderate discomfort, not sharp pain.
+
+### 7. Track Progress
+
+Measure and record your ranges. Progress motivates consistency.
+
+## Common Mistakes
+
+### 1. Inconsistency
+
+Occasional stretching doesn't create lasting change. Daily practice does.
+
+### 2. Only Stretching Before Exercise
+
+Pre-workout isn't for flexibility gains. Dedicate separate time.
+
+### 3. Bouncing
+
+Ballistic stretching can cause injury. Hold stretches steady.
+
+### 4. Ignoring Strength
+
+Flexibility without strength creates instability. Do both.
+
+### 5. Expecting Quick Results
+
+Flexibility takes weeks to months. Be patient.
+
+### 6. Only Doing What's Easy
+
+Stretch what's tight, not just what's already flexible.
+
+## The Bottom Line
+
+1. **Consistency is everything** — Daily practice beats occasional effort
+2. **PNF works best** — Contract-relax techniques are most effective
+3. **Longer holds** — 30-120 seconds for static stretches
+4. **Include loaded stretching** — Strength through range builds flexibility
+5. **Be patient** — Real change takes 6-12 weeks of consistent work
+
+---
+
+*Foundational Rehab includes flexibility programs with proven techniques for lasting improvement.*
+    `
+  },
+  'exercises-for-shin-splints': {
+    title: 'Exercises for Shin Splints: Relief, Rehab, and Prevention',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '6 min read',
+    content: `
+## Understanding Shin Splints
+
+"Shin splints" (medial tibial stress syndrome) is pain along the inner edge of the shinbone. It's one of the most common running injuries.
+
+**Symptoms:**
+- Pain along inner/lower shin
+- Pain during and after exercise
+- Tenderness when pressing the shin
+- Pain that improves with rest
+- May start as ache and progress to sharp pain
+
+**Causes:**
+- Overuse (too much, too soon)
+- Running on hard surfaces
+- Worn-out shoes
+- Flat feet or overpronation
+- Tight calves
+- Weak foot/ankle muscles
+- Sudden increase in training
+
+## Shin Splints vs. Stress Fracture
+
+**Shin splints:**
+- Pain along a large area of the shin
+- Pain decreases with warm-up
+- No pain when hopping on one leg
+
+**Stress fracture:**
+- Pinpoint pain in one spot
+- Pain worsens with activity
+- Pain when hopping on one leg
+- Requires medical attention
+
+**If you suspect stress fracture:** Stop running and see a doctor.
+
+## Phase 1: Acute Pain Management
+
+### Rest (Relative, Not Complete)
+
+**Don't do:** Continue running through pain
+**Do:** Switch to low-impact activities (swimming, cycling, pool running)
+
+The goal is to reduce impact while maintaining fitness.
+
+### Ice
+
+- 15-20 minutes, several times daily
+- Especially after activity
+- Reduces inflammation
+
+### Compression
+
+- Compression sleeves may help with comfort
+- Not proven to speed healing but doesn't hurt
+
+### Massage/Self-Release
+
+**Calf rolling:**
+1. Foam roller under calves
+2. Roll from ankle to knee
+3. Rotate leg to hit all angles
+4. 2-3 minutes per leg
+
+**Shin massage:**
+1. Cross leg over knee
+2. Use thumbs to massage along shin
+3. Avoid direct pressure on most painful spots
+4. 2-3 minutes per leg
+
+## Phase 2: Stretching
+
+Tight calves are a major contributor to shin splints.
+
+### Gastrocnemius Stretch
+
+**Form:**
+1. Face wall, hands on it
+2. Step back with leg to stretch
+3. Keep back leg straight, heel down
+4. Lean in until calf stretch felt
+5. Hold 30-60 seconds each leg
+
+### Soleus Stretch
+
+**Form:**
+1. Same position as above
+2. Bend back knee (keep heel down)
+3. Feel stretch lower in calf
+4. Hold 30-60 seconds each leg
+
+**Key:** Soleus is often the tight one. Don't skip this.
+
+### Anterior Tibialis Stretch
+
+**Form:**
+1. Kneel with tops of feet on ground
+2. Sit back toward heels
+3. Feel stretch in front of shins
+4. Hold 30 seconds
+5. Can also do standing, pointing toes and pressing top of foot into ground
+
+## Phase 3: Strengthening
+
+Weak foot and lower leg muscles contribute to shin splints. Strengthening is crucial for prevention.
+
+### Toe Raises (Tibialis Anterior)
+
+**Form:**
+1. Stand with back against wall
+2. Raise toes and forefoot, keeping heels down
+3. Lower slowly
+4. 3 sets of 15-20
+
+**Progression:** Add resistance band over toes.
+
+### Calf Raises
+
+**Form:**
+1. Stand on edge of step
+2. Rise up on toes
+3. Lower heels below step level
+4. Full range of motion
+5. 3 sets of 15-20
+
+**Progression:** Single leg, add weight.
+
+### Eccentric Calf Raises
+
+**Form:**
+1. Rise up on both feet
+2. Lower slowly on one foot (3-4 seconds)
+3. Use both feet to rise again
+4. 3 sets of 10-12 each leg
+
+### Towel Scrunches
+
+**Form:**
+1. Sit with foot on towel
+2. Scrunch towel toward you using toes
+3. Spread it back out
+4. 3 sets of 15-20
+
+### Marble Pickups
+
+**Form:**
+1. Place marbles on floor
+2. Pick up with toes, place in container
+3. 20-30 pickups per foot
+
+### Ankle Inversions with Band
+
+**Form:**
+1. Band around forefoot, anchored to side
+2. Turn foot inward against resistance
+3. 3 sets of 15 each foot
+
+### Single-Leg Balance
+
+**Form:**
+1. Stand on one foot
+2. Hold 30-60 seconds
+3. Progress to unstable surface
+
+## Phase 4: Return to Running
+
+### Gradual Return Protocol
+
+**Week 1:** Walk only, 20-30 minutes
+**Week 2:** Walk/jog intervals (1 min jog, 2 min walk) x 6-8
+**Week 3:** Increase jog intervals (2 min jog, 1 min walk) x 6-8
+**Week 4:** Continuous easy jog 15-20 minutes
+**Week 5+:** Gradually increase duration, then intensity
+
+**Rules:**
+- No pain during or after runs
+- If pain returns, go back a step
+- Increase mileage by max 10% per week
+
+### Running Form Considerations
+
+**May help:**
+- Shorter stride length
+- Higher cadence (170-180 steps/min)
+- Soft, quiet footstrike
+- Avoid overstriding
+
+## Prevention Strategies
+
+### Training
+
+- Gradual mileage increases (10% rule)
+- Include rest days
+- Cross-train (swimming, cycling)
+- Avoid running on concrete when possible
+- Mix up running surfaces
+
+### Equipment
+
+- Replace running shoes every 300-500 miles
+- Consider motion control shoes if you overpronate
+- Custom orthotics may help some people
+
+### Maintenance
+
+- Stretch calves daily (both muscles)
+- Strengthen foot/ankle 2-3x per week
+- Foam roll calves regularly
+- Don't ignore early warning signs
+
+## Sample Shin Splints Program
+
+### Acute Phase (Week 1-2)
+
+**Daily:**
+- Ice: 15-20 min, 2-3x daily
+- Calf stretches: 3x30 sec each, 3x daily
+- Foam rolling calves: 2-3 minutes each
+- Cross-train: swim, bike, pool run
+
+### Rehab Phase (Week 2-4)
+
+**Daily:**
+- Calf stretches: 2x30 sec each
+- Anterior tibialis stretch: 30 seconds
+
+**3x per week:**
+- Toe raises: 3x15
+- Calf raises: 3x15
+- Eccentric calf raises: 3x10 each
+- Towel scrunches: 2x15
+- Single-leg balance: 30 sec each
+
+**Cross-training:** Continue low-impact activities
+
+### Return Phase (Week 4+)
+
+- Begin walk/jog program
+- Continue stretching daily
+- Continue strengthening 2-3x per week
+- Monitor for any pain return
+
+### Maintenance (Ongoing)
+
+- Calf stretches after every run
+- Calf/foot strengthening 2x per week
+- Replace shoes regularly
+- Follow 10% mileage increase rule
+
+## When to See a Doctor
+
+**Seek help if:**
+- Pain doesn't improve with rest
+- Pinpoint pain (possible stress fracture)
+- Pain when not exercising
+- Significant swelling
+- Numbness or tingling
+- Pain lasting more than 2-3 weeks despite treatment
+
+## The Bottom Line
+
+1. **Rest from running** — But stay active with low-impact
+2. **Stretch the calves** — Both gastrocnemius AND soleus
+3. **Strengthen foot/ankle** — Key for prevention
+4. **Return gradually** — Follow a walk/jog protocol
+5. **Address causes** — Shoes, surfaces, training errors
+
+---
+
+*Foundational Rehab provides shin splints recovery programs with progressive return-to-running protocols.*
+    `
+  },
+  'desk-exercises': {
+    title: 'Desk Exercises: Stay Active and Pain-Free at Work',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '6 min read',
+    content: `
+## The Problem with Sitting
+
+The average office worker sits 10+ hours per day. This leads to:
+
+- Tight hip flexors and hamstrings
+- Weak glutes
+- Rounded shoulders and forward head
+- Lower back pain
+- Neck and shoulder tension
+- Reduced circulation
+- Decreased energy and focus
+
+**The solution:** Regular movement breaks throughout the day. Even brief exercises make a significant difference.
+
+## The Movement Break Framework
+
+### Frequency
+
+**Ideal:** Every 30 minutes
+**Minimum:** Every 60 minutes
+**Method:** Set a timer or use an app
+
+### Duration
+
+- Quick break: 1-2 minutes
+- Standard break: 3-5 minutes
+- Extended break: 5-10 minutes (every 2-3 hours)
+
+## At-Desk Exercises (Discreet)
+
+These can be done without leaving your desk or drawing attention.
+
+### Seated Posture Reset
+
+**Form:**
+1. Sit tall, feet flat on floor
+2. Squeeze shoulder blades together
+3. Tuck chin slightly
+4. Hold 5 seconds, release
+5. Repeat 5-10 times
+
+### Chin Tucks
+
+**Form:**
+1. Sit or stand tall
+2. Draw chin straight back (double chin)
+3. Hold 5 seconds
+4. Release
+5. Repeat 10-15 times
+
+### Seated Glute Squeezes
+
+**Form:**
+1. Sit up straight
+2. Squeeze glutes as hard as possible
+3. Hold 5-10 seconds
+4. Release
+5. Repeat 10-15 times
+
+### Ankle Circles
+
+**Form:**
+1. Lift foot slightly off floor
+2. Circle ankle slowly
+3. 10 circles each direction
+4. Switch feet
+
+### Seated Leg Extensions
+
+**Form:**
+1. Sit up straight
+2. Extend one leg, hold 3 seconds
+3. Lower slowly
+4. 10-15 each leg
+
+### Shoulder Shrugs
+
+**Form:**
+1. Raise shoulders toward ears
+2. Hold 3 seconds
+3. Release and relax
+4. Repeat 10 times
+
+### Desk Push-Ups (Modified)
+
+**Form:**
+1. Hands on desk edge
+2. Step feet back
+3. Lower chest toward desk
+4. Push back up
+5. 10-15 reps
+
+## Standing Exercises (By Your Desk)
+
+### Standing Hip Flexor Stretch
+
+**Form:**
+1. Staggered stance, one foot back
+2. Tuck pelvis under
+3. Lean forward slightly
+4. Hold 30 seconds each side
+
+### Standing Quad Stretch
+
+**Form:**
+1. Hold desk for balance
+2. Pull heel toward glute
+3. Keep knees together
+4. Hold 30 seconds each side
+
+### Wall Chest Stretch
+
+**Form:**
+1. Forearm on wall or doorframe
+2. Turn body away
+3. Feel stretch in chest
+4. Hold 30 seconds each side
+
+### Calf Raises
+
+**Form:**
+1. Stand behind chair (hold for balance)
+2. Rise up on toes
+3. Lower slowly
+4. 15-20 reps
+
+### Standing Cat-Cow
+
+**Form:**
+1. Hands on thighs
+2. Round back (cat), then arch (cow)
+3. 10 cycles
+
+### Hip Circles
+
+**Form:**
+1. Stand on one leg (hold something)
+2. Make circles with other knee
+3. 10 each direction, each leg
+
+## 5-Minute Movement Breaks
+
+### Break 1: Mobility Focus
+
+1. Chin tucks: 10 reps
+2. Shoulder circles: 10 each direction
+3. Standing hip flexor stretch: 30 sec each
+4. Calf raises: 15 reps
+5. Neck stretches: 15 sec each side
+
+### Break 2: Activation Focus
+
+1. Glute squeezes: 10x5 second holds
+2. Desk push-ups: 15 reps
+3. Squats (or chair squats): 15 reps
+4. Wall push-ups: 10 reps
+5. March in place: 30 seconds
+
+### Break 3: Stretch Focus
+
+1. Standing quad stretch: 30 sec each
+2. Chest stretch: 30 sec each side
+3. Upper trap stretch: 20 sec each
+4. Seated spinal twist: 20 sec each
+5. Forward fold (standing): 30 seconds
+
+## Exercises for Specific Problems
+
+### For Neck/Shoulder Tension
+
+**Chin tucks:**
+10-15 reps, multiple times daily
+
+**Upper trap stretch:**
+Tilt ear to shoulder, gentle pressure, 20 seconds each
+
+**Shoulder rolls:**
+10 forward, 10 backward
+
+**Doorway chest stretch:**
+30 seconds, 2-3 times daily
+
+### For Lower Back Pain
+
+**Seated pelvic tilts:**
+Tilt pelvis forward and back, 15 reps
+
+**Standing extension:**
+Hands on lower back, lean back gently, 5-10 reps
+
+**Hip flexor stretch:**
+30-60 seconds each side
+
+**Cat-cow:**
+10 cycles
+
+### For Tight Hips
+
+**Seated figure-4:**
+Cross ankle over knee, lean forward, 30 seconds each
+
+**Standing hip flexor stretch:**
+30-60 seconds each side
+
+**Hip circles:**
+10 each direction, each leg
+
+**Seated hip rotations:**
+Rotate knee in and out, 15 each side
+
+### For Wrist Pain (Computer Use)
+
+**Wrist circles:**
+10 each direction
+
+**Wrist extension stretch:**
+30 seconds each
+
+**Wrist flexion stretch:**
+30 seconds each
+
+**Finger spreads:**
+Spread and close fingers, 15 reps
+
+**Prayer stretch:**
+Palms together, lower hands, hold 30 seconds
+
+## Ergonomic Reminders
+
+### Monitor Position
+
+- Top of screen at eye level
+- Arm's length away
+- Directly in front
+
+### Chair Setup
+
+- Feet flat on floor
+- Knees at 90°
+- Lumbar support
+- Armrests at elbow height
+
+### Keyboard/Mouse
+
+- Elbows at 90°
+- Wrists neutral (not bent)
+- Mouse close to keyboard
+
+## Creating a Daily Routine
+
+### Sample Workday Schedule
+
+**9:00 AM:** Start work, do morning posture reset
+**9:30 AM:** Quick stretch break (2 min)
+**10:00 AM:** Movement break #1 (5 min)
+**10:30-12:00 PM:** Quick stretches every 30 min
+**12:00 PM:** Lunch—walk if possible
+**1:00 PM:** Posture reset after sitting back down
+**1:30 PM:** Quick stretch break
+**2:00 PM:** Movement break #2 (5 min)
+**2:30-4:00 PM:** Quick stretches every 30 min
+**4:00 PM:** Movement break #3 (5 min)
+**4:30-5:00 PM:** Quick stretches
+**5:00 PM:** End of day—longer stretch routine
+
+### Habit Building Tips
+
+**Use triggers:**
+- After every meeting
+- Every time you get water/coffee
+- When you send an email
+
+**Use tools:**
+- Phone timers
+- Computer apps (Stand Up!, Time Out)
+- Fitness trackers
+
+**Start small:**
+- Week 1: One break per hour
+- Week 2: Two breaks per hour
+- Week 3: Every 30 minutes
+
+## The Bottom Line
+
+1. **Move every 30-60 minutes** — Set reminders
+2. **Brief is better than nothing** — Even 1-2 minutes helps
+3. **Target problem areas** — Neck, hips, wrists especially
+4. **Combine with ergonomics** — Desk setup matters
+5. **Make it automatic** — Build habits with triggers
+
+---
+
+*Foundational Rehab provides desk worker wellness programs to combat the effects of prolonged sitting.*
+    `
   }
 };
 
