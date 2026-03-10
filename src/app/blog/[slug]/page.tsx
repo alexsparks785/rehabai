@@ -111158,6 +111158,982 @@ This didn't develop overnight. It won't resolve overnight.
 
 *Foundational Rehab offers kyphosis correction programs with daily exercise guidance.*
     `
+  },
+  'how-to-get-rid-of-muscle-knots-in-back': {
+    title: 'How to Get Rid of Muscle Knots in Back: Self-Treatment Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Self-Treatment',
+    readTime: '6 min read',
+    content: `
+## What Are Muscle Knots?
+
+Muscle knots (trigger points) are hyperirritable spots in muscle tissue that:
+- Feel like a small bump or tight band
+- Are tender when pressed
+- Can refer pain to other areas
+- Limit flexibility and cause discomfort
+
+Common back locations: upper traps, rhomboids, levator scapulae, lower back muscles.
+
+## Why They Form
+
+### Common Causes
+
+- Sustained poor posture
+- Repetitive movements
+- Stress and tension
+- Overuse or fatigue
+- Injury or trauma
+- Dehydration
+- Sleep position
+
+### The Cycle
+
+Muscle tension → reduced blood flow → metabolic waste buildup → more tension → knot formation
+
+Breaking this cycle requires releasing the knot AND addressing the cause.
+
+## Finding Your Knots
+
+### How to Locate Them
+
+- Press into muscle with fingers
+- Roll on tennis ball or foam roller
+- You'll know it when you find it: tender spot that makes you wince
+
+### Common Back Knot Locations
+
+**Upper traps:** Between neck and shoulder
+
+**Levator scapulae:** Side of neck to top of shoulder blade
+
+**Rhomboids:** Between spine and shoulder blade
+
+**Lower back:** Along spine and in QL (side of lower back)
+
+**Lats:** Side of back under armpit
+
+## Self-Release Techniques
+
+### Tennis Ball Release
+
+**How to:**
+- Lie on back
+- Place ball between you and floor
+- Position ball on knot (not on spine)
+- Relax body weight onto ball
+- Hold 60-90 seconds per spot
+- Breathe and let muscle release
+
+**Intensity:** 6-7 out of 10. Uncomfortable but not excruciating.
+
+### Lacrosse Ball (More Intense)
+
+Same technique as tennis ball, but firmer. Better for dense knots once you've used tennis ball.
+
+### Foam Roller
+
+**How to:**
+- Lie on roller
+- Position under target area
+- Roll slowly, pausing on tight spots
+- 60-90 seconds per area
+- Avoid rolling directly on spine
+
+Good for larger areas; tennis/lacrosse ball better for specific knots.
+
+### Wall Ball Release
+
+**How to:**
+- Place ball between back and wall
+- Lean into ball
+- Move body to position ball on knot
+- Control pressure with legs
+
+Good for upper back and shoulders when lying down isn't practical.
+
+### Pressure + Movement
+
+**How to:**
+- Find knot with ball
+- Apply pressure
+- Move the limb that muscle controls
+- Example: Ball on rhomboid, move arm in circles
+- Creates "pin and stretch" effect
+
+More effective than static pressure alone.
+
+## Specific Areas
+
+### Upper Traps
+
+**Position:** Lie on back, ball between shoulder and neck
+**Technique:** Relax into ball, turn head slowly side to side
+**Duration:** 60-90 seconds each side
+
+### Between Shoulder Blades (Rhomboids)
+
+**Position:** Lie on back, ball between spine and shoulder blade
+**Technique:** Cross arms for more pressure, small movements
+**Duration:** 60-90 seconds each side
+
+### Levator Scapulae
+
+**Position:** Stand against wall, ball at top of shoulder blade
+**Technique:** Lean into ball, drop chin, rotate head
+**Duration:** 60 seconds each side
+
+### Lower Back
+
+**Position:** Lie on back, ball beside spine (not ON spine)
+**Technique:** Knees bent, rock slightly side to side
+**Duration:** 60-90 seconds each side
+**Caution:** Avoid direct spine pressure
+
+### Lats
+
+**Position:** Side-lying, ball under armpit/side of back
+**Technique:** Roll slowly, arm overhead
+**Duration:** 60-90 seconds each side
+
+## After Release: What to Do Next
+
+### Stretch
+
+After releasing, stretch the muscle to maintain new length.
+
+**Upper traps:** Tilt head away, hold 30 seconds
+**Rhomboids:** Cross-body arm pull, hold 30 seconds
+**Lower back:** Knees to chest, child's pose
+
+### Move
+
+Light movement helps:
+- Shoulder circles
+- Arm swings
+- Gentle twists
+- Walking
+
+### Heat
+
+Apply heat after release to increase blood flow and continue relaxation.
+
+### Hydrate
+
+Drink water. Dehydration contributes to knot formation.
+
+## Prevention
+
+### Address Root Causes
+
+**Posture:** Fix your workstation, take breaks
+**Stress:** Practice stress management
+**Movement:** Don't stay in one position too long
+**Strength:** Strong muscles resist knots
+
+### Regular Maintenance
+
+- Self-release 2-3x per week
+- Don't wait until knots are severe
+- Maintenance is easier than treatment
+
+### Strengthen the Area
+
+Weak muscles develop knots more easily.
+- Upper back: Rows, face pulls, Y-T-W raises
+- Lower back: Bird dogs, back extensions
+
+## When Self-Treatment Isn't Enough
+
+### See a Professional If
+
+- Knots don't respond after 2-3 weeks
+- Pain is severe
+- Numbness or tingling present
+- Knots keep returning quickly
+- You're not sure what's causing them
+
+### Professional Options
+
+- Massage therapy
+- Physical therapy
+- Dry needling
+- Trigger point injections (severe cases)
+
+## Sample Routine
+
+### Daily (5 Minutes)
+
+1. Upper trap release: 60 sec each
+2. Shoulder blade area: 60 sec each
+3. Quick stretches after
+
+### Thorough (15-20 Minutes, 2-3x/Week)
+
+1. Foam roller warm-up: 2 minutes
+2. Upper traps: 90 sec each
+3. Levator scapulae: 60 sec each
+4. Rhomboids: 90 sec each
+5. Lats: 60 sec each
+6. Lower back: 90 sec each
+7. Stretching: 5 minutes
+8. Light movement
+
+## The Bottom Line
+
+1. **Find the knots** — Tennis ball exploration
+2. **Sustained pressure** — 60-90 seconds per spot
+3. **Not too aggressive** — 6-7/10 intensity
+4. **Stretch after** — Maintain the release
+5. **Address the cause** — Posture, stress, weakness
+6. **Regular maintenance** — Prevention beats treatment
+
+---
+
+*Foundational Rehab offers trigger point release programs for back pain relief.*
+    `
+  },
+  'exercises-for-weak-legs': {
+    title: 'Exercises for Weak Legs: Build Strength from the Ground Up',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## Why Leg Strength Matters
+
+Strong legs are essential for:
+- Walking and climbing stairs
+- Getting up from chairs
+- Balance and fall prevention
+- Independence as you age
+- Overall metabolism
+- Athletic performance
+
+Weak legs make everything harder and increase injury risk.
+
+## Signs of Weak Legs
+
+- Difficulty standing from a chair without using arms
+- Trouble climbing stairs
+- Legs tire quickly when walking
+- Poor balance
+- Knee or hip pain with activity
+- Avoiding activities because legs can't handle them
+
+## Where to Start
+
+### If You're Very Weak or Deconditioned
+
+Start with seated and supported exercises. Build a foundation before progressing.
+
+### If You Have Some Strength
+
+Start with bodyweight exercises. Progress to resistance.
+
+### If Recovering from Injury
+
+Follow your PT's guidance. This is general information.
+
+## Beginner Exercises (Start Here)
+
+### Chair Squats (Sit-to-Stand)
+
+**The most functional leg exercise.**
+
+**How to:**
+- Sit in sturdy chair
+- Feet flat, hip-width apart
+- Stand up without using arms if possible
+- Sit back down with control
+- 10-15 reps, 2-3 sets
+
+**Too hard?** Use arms to help, gradually reduce assistance.
+
+### Wall Sits
+
+**How to:**
+- Back against wall
+- Slide down until thighs parallel (or as far as comfortable)
+- Hold 15-30 seconds
+- 3-5 holds
+
+Builds quad endurance.
+
+### Heel Raises
+
+**How to:**
+- Stand holding chair or wall
+- Rise up on toes
+- Lower slowly
+- 15-20 reps, 2-3 sets
+
+Strengthens calves for walking and balance.
+
+### Seated Leg Extensions
+
+**How to:**
+- Sit in chair
+- Extend one leg straight
+- Hold 3-5 seconds
+- Lower slowly
+- 10-15 each leg, 2 sets
+
+Targets quadriceps.
+
+### Standing Marches
+
+**How to:**
+- Stand holding support
+- March in place, lifting knees
+- 30 seconds to 1 minute
+- 2-3 sets
+
+Builds hip flexor strength and endurance.
+
+## Intermediate Exercises
+
+### Bodyweight Squats
+
+**How to:**
+- Feet shoulder-width apart
+- Squat as low as comfortable
+- Keep heels down, chest up
+- Stand fully
+- 15-20 reps, 3 sets
+
+### Lunges (Supported if Needed)
+
+**How to:**
+- Step forward
+- Lower back knee toward ground
+- Push back to start
+- 10 each leg, 2-3 sets
+
+**Easier:** Hold onto something for balance.
+
+### Step-Ups
+
+**How to:**
+- Face a step or sturdy platform
+- Step up with one leg
+- Bring other leg up
+- Step down with control
+- 10-12 each leg, 2-3 sets
+
+### Glute Bridges
+
+**How to:**
+- Lie on back, knees bent
+- Squeeze glutes, lift hips
+- Hold 3 seconds at top
+- 15-20 reps, 3 sets
+
+Critical for hip strength.
+
+### Side-Lying Leg Raises
+
+**How to:**
+- Lie on side
+- Lift top leg toward ceiling
+- Lower with control
+- 15-20 each side, 2-3 sets
+
+Targets hip abductors (outer hip).
+
+## Advanced Exercises
+
+### Bulgarian Split Squats
+
+**How to:**
+- Back foot on bench or chair
+- Front foot forward
+- Lower into lunge
+- 10-12 each leg, 3 sets
+
+Challenging single-leg strength.
+
+### Single-Leg Romanian Deadlifts
+
+**How to:**
+- Stand on one leg
+- Hinge forward, reach toward floor
+- Keep back flat
+- 10 each leg, 3 sets
+
+Hamstring and balance challenge.
+
+### Jump Squats (If Appropriate)
+
+**How to:**
+- Squat down
+- Explode up, leaving ground
+- Land softly
+- 10-15 reps, 2-3 sets
+
+Only when ready for impact.
+
+### Weighted Squats and Lunges
+
+Add dumbbells, kettlebells, or barbell when bodyweight becomes easy.
+
+## Sample Programs
+
+### Beginner (First 4 Weeks)
+
+**3 Days Per Week:**
+1. Chair squats: 2 x 10
+2. Wall sits: 3 x 15 sec
+3. Heel raises: 2 x 15
+4. Seated leg extensions: 2 x 10 each
+5. Standing marches: 2 x 30 sec
+
+### Intermediate (Weeks 5-12)
+
+**3 Days Per Week:**
+1. Bodyweight squats: 3 x 15
+2. Lunges: 2 x 10 each leg
+3. Step-ups: 2 x 12 each leg
+4. Glute bridges: 3 x 15
+5. Heel raises: 3 x 20
+6. Side-lying leg raises: 2 x 15 each
+
+### Advanced
+
+**3-4 Days Per Week:**
+1. Squats (weighted): 3 x 12
+2. Bulgarian split squats: 3 x 10 each
+3. Romanian deadlifts: 3 x 12
+4. Step-ups (weighted): 3 x 10 each
+5. Hip thrusts: 3 x 12
+6. Calf raises (weighted): 3 x 15
+
+## Progression Tips
+
+### How to Progress
+
+1. First: Add reps (10 → 15 → 20)
+2. Then: Add sets (2 → 3)
+3. Then: Add difficulty (easier variation → harder variation)
+4. Then: Add weight
+
+### Don't Rush
+
+- Master each exercise before progressing
+- Form over weight
+- Gradual progression prevents injury
+
+### Track Your Progress
+
+- Write down reps/sets
+- Note when exercises become easy
+- Celebrate improvements
+
+## Common Mistakes
+
+### Skipping Basics
+
+Jumping to advanced exercises before ready. Build the foundation.
+
+### Ignoring Balance
+
+Weak legs often mean poor balance. Include balance work.
+
+### Only Training Quads
+
+Don't forget hamstrings, glutes, and calves. All are important.
+
+### Not Challenging Yourself
+
+Once something is easy, progress. Staying at same level means no gains.
+
+## The Bottom Line
+
+1. **Start where you are** — Chair squats are a valid starting point
+2. **Hit all muscles** — Quads, hamstrings, glutes, calves
+3. **Progress gradually** — Reps → sets → difficulty → weight
+4. **Consistency wins** — 3x per week minimum
+5. **Functional focus** — Can you get up from a chair easily? Climb stairs?
+
+---
+
+*Foundational Rehab offers leg strengthening programs for all fitness levels.*
+    `
+  },
+  'why-does-stretching-feel-good': {
+    title: 'Why Does Stretching Feel Good? The Science of the Stretch',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Satisfying Stretch
+
+There's something deeply pleasurable about a good stretch. That morning stretch after waking, the hip opener after sitting, the tension release after exercise — why does it feel so good?
+
+The answer involves your nervous system, muscles, and brain chemistry.
+
+## The Nervous System Response
+
+### Sensory Receptors
+
+Muscles and connective tissue contain sensory receptors that respond to stretch:
+
+**Muscle spindles:** Detect changes in muscle length
+**Golgi tendon organs:** Detect tension
+**Mechanoreceptors:** Detect pressure and movement
+
+When you stretch, these receptors send signals to your brain.
+
+### The Relaxation Response
+
+Sustained, gentle stretching activates your parasympathetic nervous system (rest and digest):
+- Heart rate decreases
+- Blood pressure drops
+- Muscle tension reduces
+- Stress hormones decrease
+
+This is why stretching feels calming, not just in the muscles but throughout your body.
+
+### Gate Control Theory
+
+Stretching sensations may "gate out" pain signals:
+- Stretch signals travel fast
+- Pain signals travel slower
+- Stretch sensation may override discomfort
+- Similar to why rubbing a sore spot helps
+
+## The Chemical Response
+
+### Endorphin Release
+
+Stretching triggers endorphin release:
+- Natural pain-relievers
+- Create feelings of well-being
+- Similar to "runner's high" (milder)
+- Explain the "afterglow" of good stretching
+
+### Reduced Cortisol
+
+Stretching, especially when combined with deep breathing:
+- Lowers cortisol (stress hormone)
+- Reduces anxiety
+- Promotes relaxation
+
+### Increased Blood Flow
+
+Stretching improves circulation:
+- Brings oxygen to muscles
+- Removes metabolic waste
+- Creates warmth and comfort
+- Nourishes tissues
+
+## The Mechanical Response
+
+### Fascial Release
+
+Fascia (connective tissue surrounding muscles) can become restricted. Stretching:
+- Creates movement in fascial layers
+- Releases adhesions
+- Improves sliding between tissues
+- This release sensation feels satisfying
+
+### Muscle Tension Reduction
+
+Tight muscles are uncomfortable. Stretching:
+- Reduces muscle tone
+- Allows fibers to lengthen
+- Relieves the "tight" sensation
+- Restores normal resting length
+
+### Joint Fluid Movement
+
+Stretching moves synovial fluid in joints:
+- Lubricates joint surfaces
+- Reduces stiffness
+- Explains why movement after stillness feels good
+
+## The Brain's Role
+
+### Body Awareness
+
+Stretching increases proprioception (body awareness):
+- You become more aware of your body
+- This attention feels good
+- Connects mind and body
+- Similar to mindfulness effects
+
+### Reward Centers
+
+Pleasant stretching activates reward centers in the brain:
+- Similar to other pleasurable activities
+- Creates positive association with stretching
+- Motivates future stretching
+
+### The "Pandiculation" Response
+
+Pandiculation is the instinctive stretch-and-yawn upon waking. It's universal in mammals:
+- Resets muscle tone
+- Prepares body for movement
+- Deeply hardwired and satisfying
+- We share this with cats, dogs, and other animals
+
+## Why Some Stretches Feel Better Than Others
+
+### The "Good Pain" Zone
+
+Optimal stretching intensity:
+- Noticeable sensation
+- Not actual pain
+- About 5-7/10 intensity
+- This zone triggers positive response
+
+### Targeting Tight Areas
+
+Stretching tight muscles feels better than stretching loose ones:
+- Greater change in sensation
+- More relief of discomfort
+- Bigger "release" feeling
+
+### Duration Matters
+
+Longer holds (30+ seconds):
+- Allow nervous system to relax
+- Create more complete release
+- Feel more satisfying than quick stretches
+
+### Breathing
+
+Deep breathing during stretching:
+- Enhances parasympathetic activation
+- Increases relaxation
+- Makes the stretch feel better
+
+## Why Stretching Feels Especially Good at Certain Times
+
+### Morning
+
+- Discs have rehydrated overnight
+- Muscles are stiff from immobility
+- Blood flow is reduced
+- Stretching reverses all of these → big relief
+
+### After Sitting
+
+- Hip flexors shortened
+- Blood pooled in legs
+- Spine compressed
+- Stretching opens, circulates, decompresses → relief
+
+### After Exercise
+
+- Muscles are warm
+- Metabolic waste present
+- Nervous system activated
+- Stretching aids transition to rest → calming
+
+### When Stressed
+
+- Muscles tense from stress response
+- Breathing shallow
+- Stretching releases physical tension → emotional relief
+
+## Maximizing the Good Feeling
+
+### Best Practices
+
+- Warm up first (or stretch warm muscles)
+- Hold 30-60 seconds
+- Breathe deeply throughout
+- Stay in the "good pain" zone
+- Focus attention on the sensation
+- Stretch what's actually tight
+
+### Creating a Ritual
+
+- Same time each day
+- Calm environment
+- Combine with deep breathing
+- No rushing
+
+## The Bottom Line
+
+1. **It's neurological** — Stretching activates relaxation response
+2. **It's chemical** — Endorphins and reduced cortisol
+3. **It's mechanical** — Fascial release and fluid movement
+4. **It's instinctive** — Pandiculation is hardwired in mammals
+5. **It's therapeutic** — The pleasure motivates healthy behavior
+
+---
+
+*Foundational Rehab offers stretching programs designed to maximize the benefits and enjoyment of flexibility work.*
+    `
+  },
+  'exercises-for-foot-pain': {
+    title: 'Exercises for Foot Pain: Strengthen and Stretch for Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read',
+    content: `
+## Common Causes of Foot Pain
+
+Foot pain often comes from:
+- Plantar fasciitis (heel/arch pain)
+- Achilles tendonitis
+- Flat feet or high arches
+- Bunions
+- Morton's neuroma
+- General weakness/overuse
+
+Exercises can help many of these conditions, but proper diagnosis matters.
+
+## When to See a Doctor First
+
+**Seek evaluation if:**
+- Pain after injury or trauma
+- Severe pain
+- Visible deformity
+- Signs of infection (redness, warmth, fever)
+- Pain doesn't improve with rest
+- Numbness or tingling
+- Unable to bear weight
+
+## Stretching Exercises
+
+### Calf Stretch (Gastrocnemius)
+
+**How to:**
+- Face wall, hands on wall
+- Step one foot back, keep leg straight
+- Keep heel down, lean forward
+- 30-45 seconds each side
+- 2-3 times daily
+
+Tight calves contribute to many foot problems.
+
+### Calf Stretch (Soleus)
+
+**How to:**
+- Same position as above
+- Bend back knee while keeping heel down
+- Feel stretch lower in calf
+- 30-45 seconds each side
+
+Targets different part of calf — both are important.
+
+### Plantar Fascia Stretch
+
+**How to:**
+- Sit and cross affected foot over knee
+- Pull toes back toward shin
+- Feel stretch along arch
+- 30-45 seconds
+- Multiple times daily (especially morning)
+
+Essential for plantar fasciitis.
+
+### Achilles Stretch
+
+**How to:**
+- Stand on step, heels hanging off
+- Let heels drop below step level
+- Hold 30-60 seconds
+- Can do straight and bent knee
+
+### Toe Stretches
+
+**How to:**
+- Sit with foot accessible
+- Gently pull each toe back
+- Spread toes apart with fingers
+- 30 seconds total
+
+Helps with toe cramping and stiffness.
+
+## Strengthening Exercises
+
+### Towel Scrunches
+
+**How to:**
+- Sit with foot on towel on floor
+- Scrunch towel toward you using toes
+- Release and repeat
+- 2-3 sets of 15-20 scrunches
+
+Strengthens arch muscles.
+
+### Marble Pickups
+
+**How to:**
+- Place marbles on floor
+- Pick up with toes, place in bowl
+- 10-20 marbles
+- Both feet
+
+Fun way to strengthen toe muscles.
+
+### Calf Raises
+
+**How to:**
+- Stand holding support
+- Rise up on toes
+- Lower slowly (3 seconds down)
+- 2-3 sets of 15-20
+
+Strengthens calves and supports foot function.
+
+### Heel Walks
+
+**How to:**
+- Walk on heels only
+- 30-60 seconds
+- Strengthens tibialis anterior (shin muscle)
+
+### Toe Walks
+
+**How to:**
+- Walk on toes
+- 30-60 seconds
+- Strengthens calf and foot intrinsic muscles
+
+### Single-Leg Balance
+
+**How to:**
+- Stand on one foot
+- Hold 30 seconds
+- Progress to eyes closed, unstable surfaces
+- Both feet
+
+Builds proprioception and foot stability.
+
+### Short Foot Exercise
+
+**How to:**
+- Sit or stand
+- Try to shorten your foot by lifting arch
+- Don't curl toes — lift the arch
+- Hold 5-10 seconds
+- 10-15 reps
+
+Builds arch strength without toe gripping.
+
+## Mobility Exercises
+
+### Ankle Circles
+
+**How to:**
+- Lift foot off ground
+- Circle ankle in both directions
+- 10-15 each direction
+- Both feet
+
+### Toe Yoga
+
+**How to:**
+- Sit with feet flat
+- Try to lift just big toe (others down)
+- Then lift other toes, big toe down
+- Difficult but builds control
+- Practice daily
+
+### Foot Rolling
+
+**How to:**
+- Golf ball or frozen water bottle under foot
+- Roll back and forth
+- Apply pressure on tight spots
+- 2-3 minutes each foot
+
+Self-massage for plantar fascia.
+
+## Condition-Specific Recommendations
+
+### Plantar Fasciitis
+
+**Focus on:**
+- Plantar fascia stretch (especially morning)
+- Calf stretches (both types)
+- Foot rolling
+- Calf raises (eccentric emphasis)
+- Short foot exercise
+
+### Achilles Tendonitis
+
+**Focus on:**
+- Eccentric calf raises (slow lowering)
+- Calf stretches (especially soleus)
+- Gradual loading progression
+- Avoid pushing through pain
+
+### Flat Feet
+
+**Focus on:**
+- Short foot exercise
+- Single-leg balance
+- Calf raises
+- Toe strengthening
+
+### General Foot Pain/Weakness
+
+**Focus on:**
+- All-around program
+- Strengthen and stretch
+- Balance work
+- Footwear check
+
+## Sample Daily Routine
+
+### Morning (5 Minutes)
+
+1. Plantar fascia stretch: 30 sec each
+2. Calf stretch (both types): 30 sec each
+3. Ankle circles: 10 each direction
+
+### Evening (10 Minutes)
+
+1. Foot rolling: 2 min each
+2. Calf stretches: 45 sec each type, each side
+3. Towel scrunches: 2 x 15
+4. Calf raises: 2 x 15
+5. Short foot exercise: 10 reps each
+6. Single-leg balance: 30 sec each
+
+## Footwear Considerations
+
+### Supportive Shoes
+
+- Proper arch support
+- Cushioning appropriate for your activity
+- Room for toes
+- Replace worn shoes
+
+### When to Go Barefoot
+
+- Strengthens foot muscles
+- Improves proprioception
+- Start gradually
+- Good surfaces (indoors, grass)
+
+### Orthotics
+
+- May help certain conditions
+- Custom vs. over-the-counter
+- Consult podiatrist if considering
+
+## The Bottom Line
+
+1. **Stretch calves** — Tight calves cause many foot problems
+2. **Strengthen arch** — Towel scrunches, short foot
+3. **Build balance** — Proprioception matters
+4. **Roll the fascia** — Daily self-massage helps
+5. **Check footwear** — Bad shoes cause problems
+
+---
+
+*Foundational Rehab offers foot pain programs targeting common conditions like plantar fasciitis.*
+    `
   }
 };
 
