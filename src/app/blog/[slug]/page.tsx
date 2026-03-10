@@ -137056,6 +137056,1016 @@ Cyclist knee pain often comes from:
 
 *Foundational Rehab keeps cyclists riding stronger and longer with targeted mobility and strength programs.*
     `
+  },
+  'wrist-pain-exercises': {
+    title: 'Wrist Pain Exercises: Strengthen and Relieve Discomfort',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Common Causes of Wrist Pain
+
+Wrist pain is increasingly common due to:
+
+- **Computer/phone use** — Repetitive typing and scrolling
+- **Weight training** — Heavy loads on wrists
+- **Sports** — Tennis, golf, gymnastics
+- **Arthritis** — Wear and tear
+- **Carpal tunnel** — Nerve compression
+- **Tendinitis** — Overuse inflammation
+
+Most wrist pain responds well to targeted exercises.
+
+## When to See a Doctor
+
+Get evaluated if you have:
+- Pain after a fall or injury
+- Visible deformity
+- Numbness or tingling that persists
+- Severe swelling
+- Inability to move wrist
+- Symptoms worsening despite self-care
+
+## Mobility Exercises
+
+### Wrist Circles
+
+1. Extend arm, make a fist
+2. Circle wrist clockwise 10 times
+3. Circle counterclockwise 10 times
+4. Do both wrists
+
+### Wrist Flexion/Extension
+
+1. Extend arm, palm down
+2. Bend wrist down, then up
+3. Move through full range
+4. 15-20 reps each wrist
+
+### Wrist Deviation (Side to Side)
+
+1. Arm extended, thumb up
+2. Move wrist side to side (like waving)
+3. 15-20 reps each wrist
+
+### Prayer Stretch
+
+1. Press palms together at chest
+2. Lower hands toward waist
+3. Keep palms together
+4. Feel stretch in wrists
+5. Hold 30 seconds
+
+### Reverse Prayer Stretch
+
+1. Press backs of hands together
+2. Fingers pointing down
+3. Raise hands toward chest
+4. Hold 30 seconds
+
+## Stretching Exercises
+
+### Wrist Flexor Stretch
+
+1. Extend arm, palm up
+2. Use other hand to pull fingers down
+3. Feel stretch in forearm
+4. Hold 30 seconds each
+
+### Wrist Extensor Stretch
+
+1. Extend arm, palm down
+2. Use other hand to press top of hand down
+3. Feel stretch on top of forearm
+4. Hold 30 seconds each
+
+### Finger Stretch
+
+1. Spread fingers wide
+2. Hold 5 seconds
+3. Make tight fist
+4. Hold 5 seconds
+5. 10 cycles
+
+## Strengthening Exercises
+
+### Wrist Curls
+
+1. Rest forearm on table, wrist hanging off
+2. Hold light weight (1-5 lbs)
+3. Curl wrist up (palm up position)
+4. Lower slowly
+5. 15 reps each wrist
+
+### Reverse Wrist Curls
+
+1. Same position, palm down
+2. Lift top of hand toward ceiling
+3. Lower slowly
+4. 15 reps each wrist
+
+### Radial/Ulnar Deviation with Weight
+
+1. Hold weight with arm at side, thumb up
+2. Lift weight by bending wrist up (thumb toward ceiling)
+3. Lower slowly
+4. 15 reps each wrist
+
+### Grip Strengthening
+
+**Stress Ball Squeeze:**
+1. Squeeze soft ball
+2. Hold 5 seconds
+3. 15 reps
+
+**Rubber Band Spread:**
+1. Rubber band around fingertips
+2. Spread fingers against resistance
+3. 15-20 reps
+
+**Towel Wring:**
+1. Hold wet towel
+2. Wring out water
+3. Twist both directions
+4. 10 reps each direction
+
+### Pronation/Supination
+
+1. Hold hammer or weighted object at end
+2. Rotate forearm palm up to palm down
+3. Controlled movement
+4. 15 reps each arm
+
+## Nerve Glides
+
+For carpal tunnel or nerve-related symptoms:
+
+### Median Nerve Glide
+
+1. Start with fist at shoulder
+2. Open fingers
+3. Extend wrist back
+4. Extend elbow
+5. Move smoothly through positions
+6. 10 reps
+
+### Ulnar Nerve Glide
+
+1. Make "OK" sign with hand
+2. Flip hand and bring to eye (like a mask)
+3. 10 reps each hand
+
+## Wrist-Safe Exercise Modifications
+
+### For Push-Ups
+
+- Use push-up handles (neutral wrist)
+- Perform on fists
+- Use dumbbells as handles
+- Do incline push-ups
+
+### For Planks
+
+- Forearm plank instead of hands
+- Fist position
+- Use push-up handles
+
+### For Weight Training
+
+- Use wrist wraps for heavy pressing
+- Maintain neutral wrist position
+- Don't over-grip
+- Consider lifting straps for pulling
+
+## Daily Wrist Care Routine
+
+**Morning (3 min):**
+- Wrist circles: 10 each direction
+- Prayer stretch: 30 seconds
+- Reverse prayer: 30 seconds
+
+**Throughout Day (Every 1-2 Hours of Computer Work):**
+- Wrist circles: 5 each direction
+- Shake hands out
+- Finger spreads: 10 reps
+- 30-second break from typing
+
+**Evening (5 min):**
+- All mobility exercises
+- Wrist curls: 2 × 15
+- Reverse curls: 2 × 15
+- Grip exercises: 15 reps
+- Stretches: 30 seconds each
+
+## Ergonomic Tips
+
+### Computer Setup
+
+- Keyboard at elbow height
+- Wrists neutral (not bent up or down)
+- Consider ergonomic keyboard
+- Use wrist rest for breaks (not while typing)
+
+### Mouse Use
+
+- Keep close to body
+- Consider vertical mouse
+- Alternate hands occasionally
+- Click gently
+
+### Phone Use
+
+- Avoid excessive thumb scrolling
+- Use voice-to-text
+- Take breaks from phone
+- Support phone rather than gripping
+
+## The Bottom Line
+
+1. **Move frequently** — Don't stay in one position
+2. **Stretch both directions** — Flexors AND extensors
+3. **Build grip strength** — Supports the wrist
+4. **Check your ergonomics** — Prevention is key
+5. **Progress gradually** — Don't overdo strengthening
+
+---
+
+*Foundational Rehab helps you maintain healthy, pain-free wrists with targeted mobility and strength work.*
+    `
+  },
+  'exercises-for-better-sleep': {
+    title: 'Exercises for Better Sleep: Movement for Rest',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '6 min read',
+    content: `
+## How Exercise Improves Sleep
+
+Regular exercise is one of the best things you can do for sleep:
+
+**Benefits:**
+- Fall asleep faster
+- Deeper sleep stages
+- Longer total sleep time
+- Reduced anxiety and stress
+- Better sleep quality
+
+**The science:** Exercise increases adenosine (promotes sleepiness), regulates circadian rhythm, and reduces stress hormones.
+
+## Timing Matters
+
+### Best Times to Exercise
+
+**Morning:**
+- Helps regulate circadian rhythm
+- Exposure to daylight boosts melatonin at night
+- Won't interfere with sleep
+
+**Afternoon:**
+- Body temperature peaks (optimal performance)
+- Still allows time to wind down
+
+**Evening (with caution):**
+- Finish 2-3 hours before bed
+- Avoid high-intensity exercise late
+- Gentle movement is fine close to bedtime
+
+### Avoid
+
+- Intense exercise within 2 hours of bedtime
+- Heavy weightlifting late at night
+- High-intensity cardio after dinner
+
+## Daytime Exercise for Better Sleep
+
+### Cardiovascular Exercise
+
+**Benefits:** Most studied for sleep improvement
+
+**Options:**
+- Walking (30+ minutes)
+- Jogging or running
+- Cycling
+- Swimming
+- Dancing
+
+**Frequency:** Most days of the week
+
+### Strength Training
+
+**Benefits:** Improves sleep quality, reduces nighttime awakenings
+
+**Tips:**
+- 2-3 sessions per week
+- Earlier in the day is better
+- Moderate intensity
+
+### Yoga
+
+**Benefits:** Reduces stress, promotes relaxation
+
+**Best for sleep:**
+- Gentle or restorative styles
+- Avoid vigorous vinyasa before bed
+
+## Evening Relaxation Routine
+
+Do these 30-60 minutes before bed:
+
+### Gentle Stretching
+
+**Child's Pose:**
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Rest forehead on floor
+4. Hold 1-2 minutes
+5. Deep, slow breaths
+
+**Supine Twist:**
+1. Lie on back
+2. Hug one knee to chest
+3. Let it cross over body
+4. Look opposite direction
+5. Hold 1 minute each side
+
+**Happy Baby:**
+1. Lie on back
+2. Hold feet, knees bent
+3. Pull knees toward armpits
+4. Rock gently side to side
+5. Hold 1-2 minutes
+
+**Legs Up the Wall:**
+1. Sit sideways against wall
+2. Swing legs up the wall
+3. Lie back, arms relaxed
+4. Stay 5-10 minutes
+5. Deeply relaxing
+
+**Reclining Butterfly:**
+1. Lie on back
+2. Soles of feet together, knees out
+3. Arms relaxed at sides
+4. Hold 2-3 minutes
+
+### Breathing Exercises
+
+**4-7-8 Breathing:**
+1. Inhale through nose: 4 counts
+2. Hold: 7 counts
+3. Exhale through mouth: 8 counts
+4. Repeat 4 cycles
+5. Activates parasympathetic system
+
+**Box Breathing:**
+1. Inhale: 4 counts
+2. Hold: 4 counts
+3. Exhale: 4 counts
+4. Hold: 4 counts
+5. Repeat 4-6 cycles
+
+**Diaphragmatic Breathing:**
+1. Hand on belly
+2. Breathe into belly (hand rises)
+3. Slow exhale
+4. 5-10 minutes
+
+### Progressive Muscle Relaxation
+
+1. Start at feet
+2. Tense muscles for 5 seconds
+3. Release completely
+4. Notice the relaxation
+5. Move up: calves, thighs, glutes, abs, chest, arms, face
+6. Takes 10-15 minutes
+
+## Restorative Yoga Sequence for Sleep
+
+**10-Minute Pre-Bed Routine:**
+
+1. **Seated forward fold** (2 min)
+   - Sit, legs extended
+   - Fold forward, relax
+   - Don't force depth
+
+2. **Supine twist** (1 min each side)
+   - Gentle spinal release
+
+3. **Happy baby** (2 min)
+   - Releases lower back and hips
+
+4. **Legs up wall** (3 min)
+   - Ultimate relaxation pose
+
+5. **Savasana** (2+ min)
+   - Lie flat, arms at sides
+   - Complete stillness
+   - Focus on breath
+
+## Exercise to Avoid Before Bed
+
+- HIIT workouts
+- Heavy weightlifting
+- Running or intense cardio
+- Competitive sports
+- Anything that significantly raises heart rate
+
+## Sleep Hygiene + Exercise
+
+Combine exercise with:
+
+- **Consistent sleep schedule** — Same bed/wake time
+- **Cool bedroom** — 65-68°F ideal
+- **Dark room** — Block all light
+- **No screens 1 hour before bed** — Blue light disrupts melatonin
+- **Avoid caffeine after noon** — Can affect sleep even hours later
+- **Limit alcohol** — Disrupts sleep quality
+
+## Sample Schedule for Better Sleep
+
+**Morning:**
+- 30-min walk or jog
+- Exposure to sunlight
+
+**Afternoon:**
+- Strength training (2-3x/week)
+- Or additional cardio
+
+**Evening (2-3 hours before bed):**
+- Light walk after dinner
+- Avoid intense exercise
+
+**Pre-Bed (30-60 min before):**
+- Gentle stretching: 10 min
+- Breathing exercises: 5 min
+- Progressive relaxation: 10 min
+
+## The Bottom Line
+
+1. **Exercise regularly** — Most powerful sleep aid
+2. **Morning is best** — Regulates circadian rhythm
+3. **Avoid late intensity** — Finish hard workouts early
+4. **Gentle evening movement** — Stretching and breathing help
+5. **Consistency is key** — Regular exercise = regular sleep
+
+---
+
+*Foundational Rehab helps you move better during the day so you sleep better at night.*
+    `
+  },
+  'prevent-sports-injuries': {
+    title: 'How to Prevent Sports Injuries: Prehab Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '7 min read',
+    content: `
+## What Is Prehab?
+
+Prehab is proactive training to prevent injuries before they happen:
+
+- **Identify weaknesses** — Find problem areas
+- **Address imbalances** — Fix asymmetries
+- **Build resilience** — Prepare tissues for sport demands
+- **Move better** — Improve mechanics
+
+The goal: Arrive at your sport already prepared, not just hoping you won't get hurt.
+
+## Common Sports Injuries by Area
+
+### Knee
+
+- ACL tears
+- Meniscus injuries
+- Patellofemoral pain
+- IT band syndrome
+
+### Ankle
+
+- Sprains
+- Achilles tendinitis
+
+### Shoulder
+
+- Rotator cuff strains
+- Labral injuries
+- Impingement
+
+### Lower Back
+
+- Disc issues
+- Muscle strains
+- SI joint dysfunction
+
+### Hamstrings
+
+- Strains and tears
+
+## General Prehab Principles
+
+### 1. Warm Up Properly
+
+**Every session should include:**
+- 5-10 min light cardio
+- Dynamic stretching
+- Movement prep specific to activity
+
+**Never skip warm-up.** Cold tissues don't stretch or absorb force well.
+
+### 2. Build Base Strength
+
+Strong muscles protect joints. Minimum standards:
+- Squat your bodyweight
+- Push-up/pressing strength
+- Pulling strength (rows, pull-ups)
+- Single-leg stability
+
+### 3. Train All Planes
+
+Don't just move forward/back. Include:
+- Lateral movements
+- Rotational movements
+- Multi-directional agility
+
+### 4. Address Weak Links
+
+Everyone has them. Common areas:
+- Hip stability
+- Core control
+- Ankle mobility
+- Shoulder stability
+
+### 5. Progressive Loading
+
+Gradually increase training stress. Too much too soon = injury.
+
+## Knee Prehab
+
+### Essential Exercises
+
+**Squats and Variations:**
+- Build quad and glute strength
+- Progress to single-leg
+
+**Lateral Band Walks:**
+- Hip stability
+- Prevents knee valgus (caving)
+
+**Single-Leg Balance:**
+- Proprioception
+- Progress to unstable surfaces
+
+**Nordic Hamstring Curls:**
+- Eccentric hamstring strength
+- Protects ACL
+
+**Step-Downs:**
+- Quad control through range
+- Mimics landing and stairs
+
+### Sample Knee Prehab Routine
+
+- Lateral band walks: 15 each direction
+- Single-leg balance: 30 sec each
+- Squats: 15 reps
+- Single-leg RDL: 10 each
+- Step-downs: 10 each leg
+- Nordic curl negatives: 5 reps
+
+## Ankle Prehab
+
+### Essential Exercises
+
+**4-Way Band Exercises:**
+- Dorsiflexion, plantarflexion
+- Inversion, eversion
+
+**Single-Leg Balance:**
+- Progress to eyes closed
+- Progress to unstable surfaces
+
+**Calf Raises:**
+- Build calf strength
+- Progress to single-leg
+
+**Lateral Hops:**
+- Reactive stability
+- Progress to longer holds
+
+### Sample Ankle Prehab Routine
+
+- Ankle circles: 10 each direction
+- 4-way band: 15 each direction
+- Calf raises: 20 reps
+- Single-leg balance: 30 sec each
+- Lateral hops and stick: 10 each direction
+
+## Shoulder Prehab
+
+### Essential Exercises
+
+**External Rotation:**
+- Band or dumbbell
+- Protects rotator cuff
+
+**Face Pulls:**
+- Upper back and external rotators
+- Counters internal rotation dominance
+
+**Prone Y-T-W:**
+- Lower trap and rotator cuff
+- Scapular control
+
+**Serratus Punches:**
+- Scapular stability
+- Push-up plus motion
+
+### Sample Shoulder Prehab Routine
+
+- Band pull-aparts: 20 reps
+- External rotation: 15 each arm
+- Face pulls: 15 reps
+- Prone Y-T-W: 10 reps each
+- Push-up plus: 10 reps
+
+## Hamstring Prehab
+
+### Essential Exercises
+
+**Romanian Deadlifts:**
+- Eccentric loading
+- Build length and strength
+
+**Nordic Hamstring Curls:**
+- Best exercise for hamstring injury prevention
+- Start with negatives only
+
+**Single-Leg RDL:**
+- Unilateral strength
+- Balance component
+
+**Hip Bridges:**
+- Glute and hamstring activation
+
+### Sample Hamstring Prehab Routine
+
+- Hip bridges: 15 reps
+- Romanian deadlift: 12 reps
+- Single-leg RDL: 10 each
+- Nordic curl negatives: 5 reps
+
+## Core Prehab
+
+A stable core protects everything else:
+
+**Essential Exercises:**
+- Dead bug
+- Bird dog
+- Plank (front and side)
+- Pallof press
+
+### Sample Core Prehab Routine
+
+- Dead bug: 10 each side
+- Bird dog: 10 each side
+- Plank: 30 sec
+- Side plank: 20 sec each
+- Pallof press: 10 each side
+
+## Sport-Specific Prehab
+
+### Running
+
+Focus on:
+- Hip stability
+- Single-leg strength
+- Calf endurance
+- Ankle mobility
+
+### Basketball/Soccer
+
+Focus on:
+- Lateral movement
+- Landing mechanics
+- Knee stability
+- Ankle strength
+
+### Throwing Sports
+
+Focus on:
+- Shoulder external rotation
+- Scapular control
+- Core rotation stability
+- Hip mobility
+
+### Weightlifting
+
+Focus on:
+- Mobility (hips, ankles, thoracic)
+- Core stability
+- Shoulder health
+- Balanced programming
+
+## Weekly Prehab Schedule
+
+**Option 1 - Daily Mini Routine (10 min):**
+- Rotate through body areas
+- Do before training or on off days
+
+**Option 2 - Dedicated Sessions (2x/week):**
+- Full body prehab
+- 20-30 minutes
+- On lighter training days
+
+**Option 3 - Integrated:**
+- Include prehab in warm-up
+- Add activation before main lifts
+
+## The Bottom Line
+
+1. **Prevention beats treatment** — Prehab is easier than rehab
+2. **Address YOUR weak links** — Everyone has different needs
+3. **Consistency matters** — Regular small doses
+4. **Warm up always** — Non-negotiable
+5. **Progress gradually** — Build up training loads slowly
+
+---
+
+*Foundational Rehab helps you stay in the game with targeted injury prevention programs.*
+    `
+  },
+  'exercises-for-posture': {
+    title: 'Exercises for Posture: Stand Taller and Feel Better',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read',
+    content: `
+## Why Posture Matters
+
+Good posture isn't just about appearance:
+
+**Benefits:**
+- Less back and neck pain
+- Better breathing
+- Improved confidence
+- Reduced headaches
+- Better energy levels
+- Healthier joints
+
+**The reality:** Modern life (sitting, screens, driving) promotes poor posture. It takes conscious effort to counteract.
+
+## Common Posture Problems
+
+### Forward Head
+
+- Head sits in front of shoulders
+- Causes: Phone use, computer work
+- Leads to: Neck pain, headaches
+
+### Rounded Shoulders
+
+- Shoulders roll forward
+- Causes: Desk work, weak upper back
+- Leads to: Shoulder pain, impingement
+
+### Kyphosis (Hunchback)
+
+- Excessive upper back curve
+- Causes: Slouching, weak extensors
+- Leads to: Back pain, breathing issues
+
+### Anterior Pelvic Tilt
+
+- Hips tip forward, exaggerated low back curve
+- Causes: Tight hip flexors, weak glutes/abs
+- Leads to: Lower back pain
+
+### Swayback
+
+- Hips push forward, chest leans back
+- Causes: Weak core, habit
+- Leads to: Lower back pain
+
+## Posture Assessment
+
+### Side View Check
+
+Have someone photograph you from the side. Ideal alignment:
+- Ear over shoulder
+- Shoulder over hip
+- Hip over ankle
+
+### Wall Test
+
+Stand with back against wall:
+- Heels, butt, shoulders, head should touch
+- Small space at lower back (hand-sized)
+- If head doesn't touch comfortably: Forward head posture
+
+## Exercises to Fix Forward Head
+
+### Chin Tucks
+
+1. Pull chin straight back (double chin)
+2. Keep eyes level
+3. Hold 5 seconds
+4. 10-15 reps, multiple times daily
+
+### Deep Neck Flexor Strengthening
+
+1. Lie on back, no pillow
+2. Tuck chin slightly
+3. Hold 10 seconds
+4. 10 reps
+
+### Suboccipital Stretch
+
+1. Place fingers at base of skull
+2. Tuck chin
+3. Gently pull head forward and down
+4. Hold 30 seconds
+
+## Exercises to Fix Rounded Shoulders
+
+### Doorway Chest Stretch
+
+1. Forearm on doorframe
+2. Step through
+3. Feel stretch across chest
+4. Hold 30 seconds each side, different heights
+
+### Wall Angels
+
+1. Back against wall
+2. Arms in goalpost position
+3. Slide up and down
+4. Keep contact with wall
+5. 10-15 reps
+
+### Face Pulls
+
+1. Pull band/cable to face
+2. Elbows high and wide
+3. Squeeze shoulder blades
+4. 15-20 reps
+
+### Rows
+
+1. Pull toward lower chest
+2. Squeeze shoulder blades together
+3. Don't shrug
+4. 12-15 reps
+
+## Exercises to Fix Kyphosis
+
+### Thoracic Extension on Foam Roller
+
+1. Roller across upper back
+2. Support head with hands
+3. Extend over roller
+4. Hold 30 seconds
+5. Move to different spots
+
+### Prone Y Raises
+
+1. Lie face down
+2. Arms overhead in Y shape
+3. Lift arms toward ceiling
+4. Squeeze shoulder blades
+5. 10-15 reps
+
+### Cat-Cow
+
+1. On hands and knees
+2. Alternate arching and rounding
+3. Focus on thoracic movement
+4. 10-15 cycles
+
+## Exercises to Fix Anterior Pelvic Tilt
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Shift forward
+4. Hold 30-60 seconds each side
+
+### Glute Bridges
+
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Don't hyperextend
+4. 15 reps
+
+### Dead Bug
+
+1. Back pressed to floor throughout
+2. Lower opposite arm and leg
+3. If back arches, reduce range
+4. 10 reps each side
+
+### Posterior Pelvic Tilt Practice
+
+1. Stand against wall
+2. Flatten lower back to wall
+3. Hold 10 seconds
+4. Learn what neutral feels like
+
+## Core Exercises for Posture
+
+### Plank
+
+1. Forearms and toes
+2. Body straight
+3. Don't sag or pike
+4. Hold 30-60 seconds
+
+### Side Plank
+
+1. Elbow and feet
+2. Hips off ground
+3. Body straight
+4. 20-30 seconds each side
+
+### Bird Dog
+
+1. Opposite arm and leg
+2. Keep back flat
+3. Don't rotate
+4. 10 reps each side
+
+## Daily Posture Routine
+
+**Morning (5 min):**
+- Chin tucks: 10 reps
+- Cat-cow: 10 cycles
+- Wall angels: 10 reps
+- Hip flexor stretch: 30 sec each
+
+**Every Hour of Sitting:**
+- Stand up
+- Chin tucks: 5 reps
+- Shoulder blade squeezes: 10 reps
+- Hip flexor stretch: 20 sec each
+
+**Evening (10 min):**
+- Thoracic extension: 2 minutes
+- Doorway chest stretch: 30 sec each
+- Dead bug: 10 each side
+- Glute bridges: 15 reps
+- Deep neck flexor hold: 3 × 10 sec
+- Face pulls or rows: 15 reps
+
+## Lifestyle Changes
+
+### Workspace
+
+- Screen at eye level
+- Chair supporting lower back
+- Feet flat on floor
+- Elbows at 90°
+
+### Phone Use
+
+- Bring phone to eye level
+- Don't hunch over it
+- Limit time
+
+### Sleep
+
+- Appropriate pillow height
+- Avoid stomach sleeping
+- Consider back sleeping
+
+### Awareness
+
+- Set posture reminders
+- Check in regularly
+- Correct when you catch yourself
+
+## Timeline for Improvement
+
+- **Week 1-2:** Increased awareness
+- **Week 3-4:** Exercises become easier
+- **Week 6-8:** Noticeable improvements
+- **Week 8-12:** New habits forming
+- **Ongoing:** Maintenance required
+
+## The Bottom Line
+
+1. **Awareness is step one** — Notice your posture
+2. **Stretch the front** — Chest, hip flexors
+3. **Strengthen the back** — Upper back, core
+4. **Fix your environment** — Desk setup matters
+5. **Be consistent** — Daily effort compounds
+
+---
+
+*Foundational Rehab helps you stand taller and feel better with comprehensive posture correction programs.*
+    `
   }
 };
 

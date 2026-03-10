@@ -4352,6 +4352,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Sport-Specific',
     readTime: '7 min read'
+  },
+  {
+    slug: 'wrist-pain-exercises',
+    title: 'Wrist Pain Exercises: Strengthen and Relieve Discomfort',
+    excerpt: 'Mobility, stretches, and strengthening for wrist pain relief.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-better-sleep',
+    title: 'Exercises for Better Sleep: Movement for Rest',
+    excerpt: 'How exercise improves sleep plus a relaxing bedtime routine.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'prevent-sports-injuries',
+    title: 'How to Prevent Sports Injuries: Prehab Guide',
+    excerpt: 'Proactive exercises to prevent common sports injuries before they happen.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Prevention',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-posture',
+    title: 'Exercises for Posture: Stand Taller and Feel Better',
+    excerpt: 'Fix forward head, rounded shoulders, and other posture problems.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read'
   }
 ];
 
