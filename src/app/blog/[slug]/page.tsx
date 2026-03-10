@@ -101372,6 +101372,1011 @@ Take them when you can. Skip the elevator for a few floors.
 
 *Foundational Rehab offers desk worker recovery programs to reverse the effects of prolonged sitting.*
     `
+  },
+  'how-to-fix-anterior-pelvic-tilt': {
+    title: 'How to Fix Anterior Pelvic Tilt: Complete Correction Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read',
+    content: `
+## What Is Anterior Pelvic Tilt?
+
+Anterior pelvic tilt (APT) is when your pelvis tips forward, causing:
+- Excessive lower back curve (lordosis)
+- Protruding belly (even if you're lean)
+- Tight hip flexors
+- Weak glutes and abs
+- Often associated with lower back pain
+
+It's extremely common, especially in people who sit a lot.
+
+## How to Check If You Have APT
+
+### Wall Test
+
+- Stand with back against wall
+- Feet about 6 inches from wall
+- Try to flatten lower back against wall
+
+**Normal:** Can flatten with slight effort
+**APT:** Large gap that's hard to close
+
+### Side View Photo
+
+Have someone take a side photo:
+- Normal: Pelvis roughly level
+- APT: Front of pelvis lower than back, belly pushed forward
+
+### ASIS-PSIS Angle
+
+**Technical test:**
+- Find hip bones in front (ASIS)
+- Find dimples in back (PSIS)
+- ASIS should be level with or slightly higher than PSIS
+- If ASIS is significantly lower, you have APT
+
+## Why APT Happens
+
+### The Muscle Imbalance Pattern
+
+**Tight muscles:**
+- Hip flexors (psoas, rectus femoris)
+- Lower back extensors
+
+**Weak muscles:**
+- Glutes
+- Abdominals (especially lower abs)
+- Hamstrings
+
+### Root Causes
+
+**Prolonged sitting:** Hip flexors stay shortened for hours
+
+**Weak core:** Abs can't counterbalance back extensors
+
+**Poor posture habits:** Standing with belly pushed forward
+
+**Lack of glute activation:** Glutes don't fire properly
+
+## The Fix: A 4-Part Approach
+
+APT correction requires addressing all four components:
+1. Release tight hip flexors
+2. Stretch shortened muscles
+3. Strengthen weak muscles
+4. Practice proper positioning
+
+### Part 1: Release Tight Hip Flexors
+
+#### Psoas Release
+
+**How to:**
+- Lie face down
+- Place tennis or lacrosse ball below hip bone, inside of hip
+- Find tender spot
+- Relax into it for 60-90 seconds
+- Move ball to find other tight spots
+
+#### Quad/Rec Fem Release
+
+**How to:**
+- Foam roller under front of thigh
+- Roll from hip to just above knee
+- Pause on tender spots
+- 60-90 seconds each leg
+
+### Part 2: Stretch Shortened Muscles
+
+#### Kneeling Hip Flexor Stretch (KEY EXERCISE)
+
+**How to:**
+- Kneel on one knee, other foot forward
+- Tuck pelvis under (flatten lower back)
+- Squeeze back glute hard
+- Lean forward slightly
+- Hold 60-90 seconds each side
+- Do 2-3x daily
+
+**Critical:** The glute squeeze and pelvic tuck are essential. Without them, you're not actually stretching the hip flexor.
+
+#### Couch Stretch
+
+**How to:**
+- Back knee against wall or couch
+- Front foot forward in lunge
+- Stay upright, squeeze glute, tuck pelvis
+- Hold 60-90 seconds each side
+
+#### Lower Back Stretch
+
+**How to:**
+- Child's pose: 60 seconds
+- Knees to chest: 30 seconds
+- Cat stretch (rounding): 10 reps
+
+### Part 3: Strengthen Weak Muscles
+
+#### Glute Bridges (Foundation)
+
+**How to:**
+- Lie on back, feet flat, knees bent
+- Tuck pelvis first (flatten back)
+- Then squeeze glutes and lift hips
+- Hold top for 3 seconds
+- 3 sets of 15-20 reps
+
+**Progression:** Single-leg bridges, hip thrusts
+
+#### Dead Bugs (Core)
+
+**How to:**
+- Lie on back, arms up, knees at 90°
+- Press lower back into floor (this is the key)
+- Slowly extend opposite arm and leg
+- Keep back flat throughout
+- 3 sets of 10 each side
+
+**Progression:** Add weight, extend both legs
+
+#### Plank with Posterior Tilt
+
+**How to:**
+- Standard plank position
+- Tuck pelvis under (squeeze glutes, round lower back slightly)
+- Hold this corrected position
+- 3 sets of 20-30 seconds
+
+Most people plank with APT. Don't.
+
+#### Reverse Crunches
+
+**How to:**
+- Lie on back, knees bent
+- Lift knees toward chest
+- Curl pelvis up off floor
+- Lower slowly
+- 3 sets of 15 reps
+
+Targets lower abs specifically.
+
+#### Romanian Deadlifts
+
+**How to:**
+- Stand with slight knee bend
+- Hinge at hips, push butt back
+- Keep back flat
+- Feel stretch in hamstrings
+- Squeeze glutes to return
+- 3 sets of 10-12 reps
+
+### Part 4: Practice Proper Positioning
+
+#### Standing Posture
+
+**How to:**
+- Stand tall
+- Squeeze glutes slightly
+- Tuck pelvis under
+- Draw belly button in
+- Practice throughout the day
+
+#### Sitting Posture
+
+**How to:**
+- Sit on sit bones (not tailbone)
+- Keep pelvis neutral
+- Engage core gently
+- Avoid slouching OR over-arching
+
+#### Walking
+
+**How to:**
+- Lead with chest, not belly
+- Squeeze glutes with each step
+- Keep pelvis neutral
+
+## Daily Correction Routine
+
+### Morning (5 Minutes)
+
+1. Hip flexor stretch: 60 sec each side
+2. Dead bugs: 10 each side
+3. Glute bridges: 15 reps
+
+### Throughout Day
+
+- Posture checks every hour
+- Standing pelvic tilt practice
+- Glute squeezes while standing
+
+### Evening (10 Minutes)
+
+1. Psoas release: 60 sec each side
+2. Hip flexor stretch: 60 sec each side
+3. Couch stretch: 60 sec each side
+4. Dead bugs: 10 each side
+5. Glute bridges: 20 reps
+6. Plank with posterior tilt: 30 sec
+
+## Timeline for Correction
+
+**Week 1-2:** Learn the exercises, build awareness
+
+**Week 3-4:** Notice improved ability to tuck pelvis
+
+**Week 5-8:** Visible posture improvement
+
+**Week 9-12:** Significant correction, becoming automatic
+
+**Ongoing:** Maintenance required (sitting will always fight you)
+
+## Common Mistakes
+
+### Only Stretching
+
+Stretching without strengthening doesn't fix the problem long-term. You need strong glutes and abs.
+
+### Wrong Hip Flexor Stretch Form
+
+Not tucking pelvis and squeezing glute. The stretch looks right but isn't effective.
+
+### Overcorrecting
+
+Tucking too hard and creating posterior tilt. Aim for neutral, not the opposite extreme.
+
+### Inconsistency
+
+This takes daily work for weeks. Occasional effort won't fix years of postural habit.
+
+## The Bottom Line
+
+1. **It's fixable** — But it takes consistent daily work
+2. **4-part approach** — Release, stretch, strengthen, practice
+3. **Hip flexor stretch** — The single most important exercise (done correctly)
+4. **Glutes and core** — Must strengthen, not just stretch
+5. **Daily practice** — 10-15 minutes minimum, ongoing maintenance
+
+---
+
+*Foundational Rehab offers APT correction programs with daily guidance and progress tracking.*
+    `
+  },
+  'exercises-for-bad-posture': {
+    title: 'Exercises for Bad Posture: Fix Your Alignment',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: `
+## Common Posture Problems
+
+Most people have one or more of these issues:
+
+**Forward head posture:** Head juts forward, straining neck
+
+**Rounded shoulders:** Shoulders roll inward, chest tight
+
+**Kyphosis:** Excessive upper back rounding (hunchback)
+
+**Anterior pelvic tilt:** Pelvis tips forward, belly protrudes
+
+**Swayback:** Hips pushed forward, leaning back
+
+Each has specific exercises. Let's fix them.
+
+## Forward Head Posture
+
+For every inch your head moves forward, it adds 10 pounds of strain on your neck.
+
+### Chin Tucks (THE Exercise)
+
+**How to:**
+- Sit or stand tall
+- Pull chin straight back (make double chin)
+- Keep eyes level (don't look down)
+- Hold 5 seconds
+- 15-20 reps, multiple times daily
+
+This is the single most important exercise for forward head posture.
+
+### Deep Neck Flexor Strengthening
+
+**How to:**
+- Lie on back, small towel under neck
+- Tuck chin and press back of head into floor
+- Hold 10 seconds
+- 10 reps, 3 sets
+
+Strengthens the muscles that hold your head back.
+
+### Upper Trap Stretch
+
+**How to:**
+- Tilt ear toward shoulder
+- Add gentle pressure with hand
+- Hold 30 seconds each side
+
+Releases overworked upper traps.
+
+## Rounded Shoulders
+
+Caused by tight chest muscles and weak upper back.
+
+### Doorway Pec Stretch
+
+**How to:**
+- Stand in doorway, forearm on frame
+- Step through and rotate away
+- Hold 30-60 seconds each side
+- Do at multiple arm angles
+
+Opens tight chest muscles.
+
+### Wall Angels
+
+**How to:**
+- Stand with back flat against wall
+- Arms at 90° (goal post position)
+- Slide arms up and down
+- Keep lower back, head, arms touching wall
+- 10-15 slow reps
+
+Strengthens upper back while stretching chest.
+
+### Face Pulls / Band Pull-Aparts
+
+**How to:**
+- Resistance band at face height
+- Pull toward face, squeeze shoulder blades
+- Hold 2 seconds
+- 3 sets of 15-20 reps
+
+Strengthens rear shoulders and upper back.
+
+### Rows
+
+**How to:**
+- Any rowing variation (cable, dumbbell, band)
+- Squeeze shoulder blades together
+- 3 sets of 12-15 reps
+
+Builds upper back strength.
+
+## Upper Back Kyphosis (Hunchback)
+
+Excessive thoracic curve, often from prolonged sitting.
+
+### Thoracic Extension Over Foam Roller
+
+**How to:**
+- Foam roller under upper back
+- Support head with hands
+- Extend back over roller
+- Move to different segments
+- 10 extensions at each level
+
+### Cat-Cow Emphasis on Extension
+
+**How to:**
+- On hands and knees
+- Focus on cow (extension) phase
+- Really arch upper back, look up
+- 15-20 reps
+
+### Prone Y-T-W Raises
+
+**How to:**
+- Lie face down
+- Y: Arms overhead at 45°, lift
+- T: Arms out to sides, lift
+- W: Elbows bent, squeeze shoulder blades
+- 10 reps each position
+
+Strengthens extension muscles.
+
+### Thoracic Rotation
+
+**How to:**
+- Side-lying, knees bent at 90°
+- Rotate top arm and upper back
+- Follow hand with eyes
+- 10 reps each side
+
+Improves thoracic mobility.
+
+## Anterior Pelvic Tilt
+
+Pelvis tips forward, causing lower back arch and belly protrusion.
+
+### Hip Flexor Stretch
+
+**How to:**
+- Kneeling lunge position
+- Tuck pelvis (flatten lower back)
+- Squeeze back glute
+- Lean forward
+- Hold 60+ seconds each side
+
+### Glute Bridges
+
+**How to:**
+- Lie on back, feet flat
+- Tuck pelvis first
+- Squeeze glutes and lift
+- Hold 3 seconds at top
+- 3 sets of 15-20
+
+### Dead Bugs
+
+**How to:**
+- Lie on back, arms up, knees at 90°
+- Press lower back into floor
+- Extend opposite arm and leg
+- Keep back flat
+- 3 sets of 10 each side
+
+### Plank with Posterior Tilt
+
+**How to:**
+- Plank position
+- Tuck pelvis under, squeeze glutes
+- Hold corrected position
+- 3 sets of 30 seconds
+
+## Swayback Posture
+
+Hips pushed forward, upper body leaning back.
+
+### Hip Flexor Stretch
+
+Same as APT — hip flexors are often tight.
+
+### Standing Posture Practice
+
+**How to:**
+- Stand against wall
+- Pull hips back until touching wall
+- Stack ribs over pelvis
+- Practice this alignment throughout day
+
+### Core Strengthening
+
+Pallof press, dead bugs, and planks help maintain proper alignment.
+
+## Full Posture Correction Routine
+
+### Daily Minimum (5-10 Minutes)
+
+**Morning:**
+1. Chin tucks: 15 reps
+2. Cat-cow: 10 reps
+3. Hip flexor stretch: 45 sec each side
+
+**Throughout Day:**
+- Posture check every hour
+- Chin tucks at desk
+- Stand and move regularly
+
+**Evening:**
+1. Doorway pec stretch: 30 sec each side
+2. Thoracic extension: 10 reps
+3. Glute bridges: 15 reps
+4. Dead bugs: 10 each side
+
+### Comprehensive Routine (15-20 Minutes)
+
+**Mobility (5 min):**
+1. Thoracic foam roller: 2 min
+2. Cat-cow: 15 reps
+3. Thread the needle: 8 each side
+
+**Stretching (5 min):**
+1. Hip flexor stretch: 60 sec each
+2. Doorway pec stretch: 45 sec each
+3. Upper trap stretch: 30 sec each
+
+**Strengthening (10 min):**
+1. Chin tucks: 20 reps
+2. Wall angels: 15 reps
+3. Face pulls: 3 x 15
+4. Glute bridges: 3 x 15
+5. Dead bugs: 3 x 10 each
+6. Plank: 3 x 30 sec
+
+## How Long Does It Take?
+
+**2-4 weeks:** Improved awareness, some positions easier
+
+**1-2 months:** Noticeable improvement, better default posture
+
+**3-6 months:** Significant correction, new habits forming
+
+**Ongoing:** Maintenance required (gravity and sitting always fight you)
+
+## The Bottom Line
+
+1. **Identify your pattern** — Most people have multiple issues
+2. **Consistency wins** — Daily practice beats occasional effort
+3. **Strengthen AND stretch** — Both are required
+4. **Awareness matters** — Check posture throughout day
+5. **Be patient** — Posture habits took years to form
+
+---
+
+*Foundational Rehab offers personalized posture correction programs based on your specific alignment issues.*
+    `
+  },
+  'muscle-knots-how-to-release': {
+    title: 'Muscle Knots: How to Release Trigger Points at Home',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Self-Treatment',
+    readTime: '6 min read',
+    content: `
+## What Are Muscle Knots?
+
+Muscle knots (trigger points) are hyperirritable spots in muscle that:
+- Feel like a small bump or nodule
+- Are tender when pressed
+- Can refer pain to other areas
+- Limit muscle flexibility and strength
+
+They're caused by:
+- Overuse or repetitive strain
+- Sustained positions (sitting, sleeping)
+- Stress and tension
+- Injury or trauma
+- Poor posture
+
+## Finding Trigger Points
+
+### Common Locations
+
+**Upper traps:** Between neck and shoulder — stress and computer work
+
+**Levator scapulae:** Side of neck to shoulder blade — sleeping wrong, phone use
+
+**Rhomboids:** Between shoulder blades — rounded shoulders
+
+**Piriformis:** Deep in buttock — sitting, sciatica-like symptoms
+
+**Hip flexors:** Front of hip — prolonged sitting
+
+**Calves:** Back of lower leg — running, heels
+
+### How to Find Them
+
+Press into the muscle with:
+- Your fingers
+- A tennis ball
+- A lacrosse ball
+- A foam roller
+
+You'll know when you find one:
+- Tenderness that makes you wince
+- Possibly referred pain elsewhere
+- "Good hurt" sensation
+- Often feels like a knot or band
+
+## Release Techniques
+
+### Sustained Pressure
+
+**How to:**
+- Apply pressure to the trigger point
+- Use about 7/10 pain intensity
+- Hold for 30-90 seconds
+- Breathe and relax into it
+- Pressure should gradually decrease as muscle releases
+
+**Tools:**
+- Tennis ball (gentle)
+- Lacrosse ball (firm)
+- Foam roller (broader area)
+- Your fingers (precise)
+- Massage gun (pulsing pressure)
+
+### Pin and Stretch
+
+**How to:**
+- Apply pressure to trigger point
+- While maintaining pressure, stretch the muscle
+- Hold 30-60 seconds
+- Release
+
+More effective than pressure alone for some spots.
+
+### Contract-Relax
+
+**How to:**
+- Apply pressure to trigger point
+- Contract the muscle against the pressure for 5-10 seconds
+- Relax and sink deeper into the pressure
+- Repeat 3-5 times
+
+Uses your nervous system to help release.
+
+## Body Area Guides
+
+### Upper Traps
+
+**Position:** Lie on back, ball between shoulder and neck
+
+**Technique:**
+- Find tender spot
+- Apply pressure with body weight
+- Turn head away to increase stretch
+- Hold 60-90 seconds
+
+### Levator Scapulae
+
+**Position:** Stand against wall, ball on side of neck/shoulder blade
+
+**Technique:**
+- Find spot between neck and shoulder blade
+- Apply pressure and turn head
+- Hold 60 seconds
+
+### Between Shoulder Blades (Rhomboids)
+
+**Position:** Lie on back, ball between spine and shoulder blade
+
+**Technique:**
+- Find tender spots
+- Roll slightly or hold
+- Avoid pressing directly on spine
+- 60-90 seconds each side
+
+### Pecs (Chest)
+
+**Position:** Stand facing wall, ball on chest
+
+**Technique:**
+- Ball below collarbone, toward armpit
+- Lean into wall
+- Move arm slowly for pin-and-stretch
+- 60 seconds each side
+
+### Piriformis
+
+**Position:** Sit on floor or firm chair, ball under buttock
+
+**Technique:**
+- Ball in center of buttock
+- Cross same-side ankle over opposite knee
+- Lean toward ball side
+- Hold 60-90 seconds each side
+
+### Hip Flexors
+
+**Position:** Lie face down, ball below hip bone
+
+**Technique:**
+- Ball inside of hip bone
+- Relax body weight onto ball
+- Very tender — start gently
+- 60 seconds each side
+
+### Calves
+
+**Position:** Sit with calf on foam roller or ball
+
+**Technique:**
+- Roll to find tender spots
+- Hold on tight spots
+- Point and flex foot for pin-and-stretch
+- 60-90 seconds each leg
+
+### IT Band and Quads
+
+**Position:** Side-lying for IT band, face down for quads
+
+**Technique:**
+- Foam roller works well for larger areas
+- Find tender spots and hold
+- 60-90 seconds each area
+
+## Massage Gun Tips
+
+If you have a percussion massager:
+
+**Do:**
+- Use on large muscle groups
+- Start on low setting
+- Move slowly across muscle
+- Spend extra time on tight spots
+
+**Don't:**
+- Use on bones or joints
+- Use on neck (front)
+- Use too long in one spot (burns)
+- Use on acute injuries
+
+## When to Release
+
+### Best Times
+
+- After exercise (when muscles are warm)
+- After hot shower
+- Before bed (for sleep-disrupting tension)
+- During breaks from desk work
+
+### How Often
+
+- Acute knots: Daily until resolved
+- Maintenance: 2-3x per week
+- Prevention: After workouts
+
+## After Releasing
+
+### Stretch
+
+Gentle stretching after release helps maintain the new length.
+
+### Move
+
+Light movement helps the muscle remember its full range.
+
+### Hydrate
+
+Drink water — myofascial release can release metabolic waste.
+
+### Don't Overdo It
+
+Too much pressure or too frequent can cause bruising and more tension. Listen to your body.
+
+## When Self-Treatment Isn't Enough
+
+See a professional if:
+- Knots don't respond to self-treatment
+- Pain is severe or worsening
+- Numbness or tingling present
+- Symptoms persist for weeks
+- You're not sure what's causing the problem
+
+Sometimes you need hands-on treatment or a proper diagnosis.
+
+## The Bottom Line
+
+1. **Trigger points are common** — Most people have them
+2. **Self-release works** — With proper technique
+3. **Sustained pressure** — 30-90 seconds minimum
+4. **Right intensity** — 7/10 pain, not torture
+5. **Combine with stretching** — For lasting results
+6. **Be consistent** — Regular maintenance prevents buildup
+
+---
+
+*Foundational Rehab offers guided trigger point release programs for common problem areas.*
+    `
+  },
+  'stretches-before-running': {
+    title: 'Stretches Before Running: The Right Warm-Up Routine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '5 min read',
+    content: `
+## The Pre-Run Mistake
+
+Most runners either:
+- Do nothing and start running cold
+- Do static stretches that actually hurt performance
+
+Both are wrong. Here's what works.
+
+## Why Static Stretching Before Running Is Bad
+
+Research consistently shows that static stretching (holding stretches) before running:
+- Temporarily weakens muscles (up to 30 minutes)
+- Reduces running economy
+- May increase injury risk
+- Doesn't prevent injuries
+
+**Save static stretches for after your run.**
+
+## What to Do Instead: Dynamic Warm-Up
+
+Dynamic stretching (movement-based) before running:
+- Increases heart rate gradually
+- Warms muscles and increases blood flow
+- Activates the muscles you'll use
+- Improves range of motion temporarily
+- Actually reduces injury risk
+
+## The 5-Minute Pre-Run Routine
+
+### 1. Walking (1 Minute)
+
+Start with 1 minute of brisk walking to begin raising your heart rate.
+
+### 2. Leg Swings (30 Seconds Each Direction)
+
+**Forward/Back:**
+- Hold something for balance
+- Swing leg forward and back
+- Gradually increase range
+- 15-20 swings each leg
+
+**Side to Side:**
+- Swing leg across body and out
+- Keep torso stable
+- 15-20 swings each leg
+
+Warms hip joints and activates hip flexors, glutes, and adductors.
+
+### 3. Walking Lunges (30 Seconds)
+
+**How to:**
+- Step forward into lunge
+- Keep torso upright
+- Push off and step into next lunge
+- 10-12 lunges total
+
+Activates glutes, quads, and stretches hip flexors dynamically.
+
+### 4. High Knees (30 Seconds)
+
+**How to:**
+- March in place, lifting knees high
+- Stay on balls of feet
+- Pump arms
+- Progress to jogging version
+
+Activates hip flexors and gets heart rate up.
+
+### 5. Butt Kicks (30 Seconds)
+
+**How to:**
+- Jog in place, kicking heels to glutes
+- Keep torso upright
+- Pump arms
+
+Activates hamstrings and increases heart rate.
+
+### 6. A-Skips (30 Seconds)
+
+**How to:**
+- Skip forward with high knee drive
+- Emphasize the "pop" off the ground
+- Arm action opposite to legs
+- 10-15 skips each leg
+
+Activates calves, hip flexors, and coordinates running mechanics.
+
+### 7. Carioca/Grapevine (30 Seconds)
+
+**How to:**
+- Move sideways
+- Cross one foot in front, then behind
+- Keep hips rotating
+- Both directions
+
+Warms hip rotators and improves coordination.
+
+### 8. Easy Jog (1 Minute)
+
+Finish with 1 minute of easy jogging before starting your run.
+
+## The 10-Minute Extended Warm-Up
+
+For speed workouts, races, or cold weather, add:
+
+### Toy Soldiers (30 Seconds)
+
+**How to:**
+- Walk forward, kicking leg straight up
+- Touch opposite hand to foot
+- 10-12 each leg
+
+Dynamic hamstring activation.
+
+### Walking Quad Pulls (30 Seconds)
+
+**How to:**
+- Walk forward, pull heel to glute each step
+- Hold briefly, release, step
+- 10-12 each leg
+
+Dynamic quad stretch.
+
+### Inchworms (30 Seconds)
+
+**How to:**
+- Bend forward, walk hands out to plank
+- Walk feet to hands
+- Stand and repeat
+- 5-8 reps
+
+Full body warm-up, stretches hamstrings and calves.
+
+### Lateral Lunges (30 Seconds)
+
+**How to:**
+- Step wide to one side
+- Bend that knee, keeping other leg straight
+- Push back to center
+- Alternate sides
+- 10-12 total
+
+Warms adductors and prepares for lateral stability.
+
+### Running Drills (1-2 Minutes)
+
+**Quick feet:** Fast, short steps in place (10 seconds)
+
+**Skips for height:** Skip as high as possible (10 seconds)
+
+**Skips for distance:** Skip as far as possible (10 seconds)
+
+### Strides (2-3 Minutes)
+
+**How to:**
+- 4-6 accelerations of 50-100 meters
+- Build to 80-90% speed
+- Walk back between
+- Loose, relaxed form
+
+Prepares neuromuscular system for faster running.
+
+## Warm-Up Adjustments
+
+### Cold Weather
+
+- Longer warm-up (10-15 minutes)
+- Start indoors if possible
+- Wear layers to retain heat
+- Add more dynamic movements
+
+### Hot Weather
+
+- Shorter warm-up (5-7 minutes)
+- Stay in shade
+- Don't overheat before starting
+
+### Easy Runs
+
+- Minimal warm-up needed
+- Start with walk/slow jog
+- Let first mile be the warm-up
+
+### Speed Work / Racing
+
+- Full 10-minute routine
+- Include strides
+- Be fully warm before hard efforts
+- Consider jogging to start line
+
+## After Your Run: Now Static Stretch
+
+Post-run is when static stretching helps:
+- Muscles are warm
+- Improves flexibility over time
+- Aids recovery
+- Feels good
+
+**Key areas to stretch:**
+- Hip flexors
+- Quads
+- Hamstrings
+- Calves
+- IT band/glutes
+
+Hold each stretch 30-60 seconds.
+
+## The Bottom Line
+
+1. **No static stretching before** — Save it for after
+2. **Dynamic warm-up** — Movement-based preparation
+3. **5 minutes minimum** — More for hard efforts
+4. **Start easy** — Progress intensity gradually
+5. **Be warm, not tired** — Warm-up shouldn't exhaust you
+
+---
+
+*Foundational Rehab offers runner-specific warm-up and recovery programs.*
+    `
   }
 };
 
