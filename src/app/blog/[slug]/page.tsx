@@ -135077,6 +135077,958 @@ When you notice tension building:
 
 *Foundational Rehab keeps desk workers moving with targeted stretch routines and movement breaks.*
     `
+  },
+  'hip-mobility-exercises': {
+    title: 'Hip Mobility Exercises: Unlock Tight Hips',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read',
+    content: `
+## Why Hip Mobility Matters
+
+Your hips are the center of movement. When they're tight, everything suffers:
+
+**Consequences of tight hips:**
+- Lower back pain (spine compensates)
+- Knee pain (improper mechanics)
+- Poor posture
+- Limited athletic performance
+- Difficulty squatting, lunging, bending
+
+**The sitting problem:** Hours of sitting shortens hip flexors and tightens the hip capsule.
+
+## Hip Mobility vs. Flexibility
+
+- **Flexibility:** Passive range (how far you can be stretched)
+- **Mobility:** Active range (how far you can move under control)
+
+You need both. Someone might be flexible but not mobile—they can be stretched into a position but can't get there or control it themselves.
+
+## Hip Movement Directions
+
+Hips move in multiple directions. Train all of them:
+
+- **Flexion:** Knee toward chest
+- **Extension:** Leg behind you
+- **Abduction:** Leg out to side
+- **Adduction:** Leg across body
+- **Internal rotation:** Knee turns inward
+- **External rotation:** Knee turns outward
+
+## Dynamic Hip Mobility (Warm-Up)
+
+### Leg Swings (Forward/Back)
+
+1. Hold onto something for support
+2. Swing leg forward and back
+3. Keep leg relaxed
+4. Gradually increase range
+5. 15-20 each leg
+
+### Leg Swings (Side to Side)
+
+1. Face your support
+2. Swing leg across body and out to side
+3. Keep hips facing forward
+4. 15-20 each leg
+
+### Hip Circles
+
+1. Stand on one leg
+2. Lift knee to hip height
+3. Make circles with knee
+4. 10 circles each direction, each leg
+
+### Walking Knee Hugs
+
+1. Walk forward
+2. Pull one knee to chest
+3. Rise onto toes of standing leg
+4. Alternate legs
+5. 10 each leg
+
+### Walking Quad Pulls
+
+1. Walk forward
+2. Pull heel toward butt
+3. Feel stretch in hip flexor
+4. 10 each leg
+
+### 90-90 Transitions
+
+1. Sit in 90-90 position (both knees bent 90°)
+2. Lift knees and rotate to other side
+3. Smooth transition
+4. 10 transitions
+
+## Static Hip Stretches
+
+### Hip Flexor Stretch (Half-Kneeling)
+
+1. Kneel on one knee
+2. Tuck tailbone under
+3. Shift weight forward
+4. Hold 30-60 seconds each side
+5. Keep glute engaged on back leg
+
+### Pigeon Pose
+
+1. Front shin roughly parallel to front of mat
+2. Back leg extended behind
+3. Square hips forward
+4. Fold forward for deeper stretch
+5. Hold 60-90 seconds each side
+
+### 90-90 Stretch
+
+1. Sit with both legs at 90° angles
+2. Front leg: shin parallel to shoulders
+3. Back leg: shin perpendicular
+4. Lean toward front shin
+5. Hold 30-60 seconds each side
+
+### Frog Stretch
+
+1. On hands and knees
+2. Widen knees as far as comfortable
+3. Rock back toward heels
+4. Hold 60-90 seconds
+5. Great for adductors
+
+### Deep Squat Hold
+
+1. Squat as deep as possible
+2. Hold onto something if needed
+3. Push knees out with elbows
+4. Hold 1-2 minutes
+5. Build up over time
+
+### Figure 4 Stretch
+
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull bottom thigh toward chest
+4. Hold 30-60 seconds each side
+
+### Couch Stretch
+
+1. Back foot on couch or wall
+2. Front foot forward in lunge
+3. Squeeze glute on back leg
+4. Hold 60-90 seconds each side
+5. Intense hip flexor stretch
+
+## Hip Rotation Exercises
+
+Many people neglect rotation. It's crucial:
+
+### Seated Hip Internal Rotation
+
+1. Sit on floor, knees bent, feet wide
+2. Let both knees drop to one side
+3. Feel stretch in outer hip of trailing leg
+4. Hold 30 seconds each side
+
+### Prone Hip Internal Rotation
+
+1. Lie face down, one knee bent 90°
+2. Let lower leg fall outward (this is internal rotation)
+3. Hold 30 seconds each leg
+
+### 90-90 Hip Lift
+
+1. In 90-90 position
+2. Lift front knee up 1-2 inches
+3. Hold 5 seconds
+4. 10 reps each side
+5. Builds active range
+
+### Shinbox Transitions
+
+1. Sit in 90-90
+2. Keep feet planted
+3. Drive knees to other side
+4. Return
+5. 10 reps
+6. Builds rotation control
+
+## Strengthening for Mobility
+
+Mobility without strength is unstable. Build strength in your new ranges:
+
+### Deep Squat Hold with Band Pull-Apart
+
+1. Hold deep squat
+2. Pull resistance band apart
+3. 15 pull-aparts
+4. Strengthens hip and upper back
+
+### Banded Hip Flexion
+
+1. Band around foot, anchor behind
+2. Stand, lift knee against resistance
+3. 15 reps each leg
+4. Builds hip flexor strength
+
+### Lateral Lunges
+
+1. Step wide to side
+2. Sit back into that hip
+3. Keep other leg straight
+4. Push back to center
+5. 10 reps each side
+
+### Cossack Squats
+
+1. Wide stance
+2. Shift weight to one side
+3. Squat deep on that leg
+4. Other leg stays straight
+5. 8-10 reps each side
+
+## Daily Hip Mobility Routine
+
+**Morning (5 min):**
+- Hip circles: 10 each direction, each leg
+- Walking knee hugs: 10 each
+- Deep squat hold: 60 seconds
+- Hip flexor stretch: 30 sec each
+
+**After Sitting (Every 1-2 Hours):**
+- Stand up and walk
+- Leg swings: 10 forward/back each leg
+- Standing hip flexor stretch: 20 sec each
+
+**Evening (10 min):**
+- 90-90 stretch: 60 sec each side
+- Pigeon pose: 60 sec each side
+- Frog stretch: 60 seconds
+- Couch stretch: 60 sec each side
+- Deep squat hold: 2 minutes
+
+## The Bottom Line
+
+1. **Consistency is key** — Daily mobility work beats occasional long sessions
+2. **Move in all directions** — Don't just stretch forward
+3. **Don't forget rotation** — Most neglected but crucial
+4. **Strengthen new ranges** — Make mobility usable
+5. **Reduce sitting** — The root cause for most people
+
+---
+
+*Foundational Rehab unlocks your hips with comprehensive mobility programs.*
+    `
+  },
+  'exercises-for-golfers': {
+    title: 'Exercises for Golfers: Improve Your Swing and Prevent Injury',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '7 min read',
+    content: `
+## The Golf Body
+
+Golf may look gentle, but it demands a lot from your body:
+
+**Key physical requirements:**
+- Thoracic rotation
+- Hip mobility and power
+- Core stability
+- Shoulder flexibility
+- Single-leg balance
+
+**Common golfer injuries:**
+- Lower back pain (most common)
+- Golfer's elbow
+- Shoulder impingement
+- Hip pain
+- Wrist issues
+
+Good conditioning prevents injury and improves performance.
+
+## Mobility for Golf
+
+### Thoracic Rotation
+
+The most important mobility for golf. Your upper back needs to rotate:
+
+**Open Books:**
+1. Lie on side, knees bent 90°
+2. Arms straight in front, palms together
+3. Rotate top arm to other side, opening chest
+4. Follow with eyes
+5. Return
+6. 10 reps each side
+
+**Quadruped Thoracic Rotation:**
+1. On hands and knees
+2. Place one hand behind head
+3. Rotate elbow toward opposite arm
+4. Then rotate elbow toward ceiling
+5. 10 reps each side
+
+**Seated Thoracic Rotation:**
+1. Sit straddling a bench or chair
+2. Hold club across shoulders
+3. Rotate as far as possible each direction
+4. Keep hips stable
+5. 10 reps each side
+
+### Hip Mobility
+
+**90-90 Stretch:**
+1. Sit with both legs at 90° angles
+2. Lean toward front shin
+3. 30 seconds each side
+
+**Half-Kneeling Hip Flexor Stretch:**
+1. Kneel on one knee
+2. Tuck tailbone, shift forward
+3. 30 seconds each side
+
+**Deep Squat Hold:**
+1. Squat as deep as possible
+2. Push knees out with elbows
+3. Hold 60 seconds
+
+### Shoulder Mobility
+
+**Sleeper Stretch:**
+1. Lie on side, bottom arm straight out
+2. Use top hand to push forearm toward floor
+3. 30 seconds each side
+
+**Cross-Body Stretch:**
+1. Pull arm across chest
+2. Hold at elbow
+3. 30 seconds each side
+
+## Strength for Golf
+
+### Core Stability
+
+The core transfers power from legs to arms:
+
+**Pallof Press:**
+1. Stand sideways to cable/band
+2. Press handle straight out
+3. Don't let resistance rotate you
+4. 10 reps each side, 3 sets
+
+**Dead Bug:**
+1. Lie on back, arms up, knees 90°
+2. Lower opposite arm and leg
+3. Keep back flat
+4. 10 reps each side
+
+**Bird Dog:**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep hips level
+4. 10 reps each side
+
+**Side Plank:**
+1. Prop on elbow, stack feet
+2. Lift hips, hold
+3. 30 seconds each side
+
+### Hip Power
+
+Power comes from the hips:
+
+**Hip Bridges:**
+1. Lie on back, knees bent
+2. Drive hips up
+3. Hold 3 seconds
+4. 15 reps
+
+**Single-Leg Romanian Deadlift:**
+1. Stand on one leg
+2. Hinge forward at hip
+3. Opposite leg extends behind
+4. 10 reps each leg
+
+**Lateral Band Walks:**
+1. Band around ankles
+2. Slight squat position
+3. Step sideways
+4. 15 steps each direction
+
+**Medicine Ball Rotational Throws:**
+1. Stand sideways to wall
+2. Rotate and throw ball into wall
+3. Catch and repeat
+4. 10 reps each side
+
+### Shoulder Stability
+
+**External Rotation with Band:**
+1. Elbow at side, bent 90°
+2. Rotate forearm outward
+3. 15 reps each arm
+
+**Face Pulls:**
+1. Pull band/cable toward face
+2. Elbows high, squeeze shoulder blades
+3. 15 reps
+
+### Single-Leg Balance
+
+**Single Leg Stand:**
+1. Stand on one foot
+2. Hold 30 seconds each leg
+3. Progress to eyes closed
+
+**Single Leg Balance with Rotation:**
+1. Stand on one foot
+2. Hold club, rotate upper body
+3. Mimic swing motion
+4. 10 reps each leg
+
+## Golf-Specific Exercises
+
+### Club Behind Back Rotation
+
+1. Hold club behind back in elbows
+2. Get into golf stance
+3. Rotate fully in each direction
+4. Focus on hip and thoracic separation
+5. 10 reps each direction
+
+### Split Stance Anti-Rotation Press
+
+1. Staggered stance (like golf stance)
+2. Pallof press motion
+3. Resist rotation
+4. 10 reps each stance
+
+### Sword Draws
+
+1. Hold light dumbbell
+2. Start at opposite hip
+3. Draw diagonally across body overhead
+4. Control the movement
+5. 10 reps each side
+
+## Sample Golf Fitness Routine
+
+**Warm-Up Before Round (10 min):**
+- Hip circles: 10 each leg
+- Leg swings: 10 each direction
+- Arm circles: 10 each direction
+- Open books: 5 each side
+- Club behind back rotation: 10 each way
+- Practice swings: Start slow, build up
+
+**Workout (2-3x Per Week):**
+
+*Mobility (10 min):*
+- Open books: 10 each side
+- Quadruped T-spine rotation: 10 each side
+- 90-90 stretch: 30 sec each side
+- Hip flexor stretch: 30 sec each side
+- Sleeper stretch: 30 sec each side
+
+*Strength (20 min):*
+- Pallof press: 3 × 10 each side
+- Dead bug: 3 × 10 each side
+- Hip bridges: 3 × 15
+- Single leg RDL: 3 × 10 each leg
+- External rotation: 3 × 15 each arm
+- Medicine ball rotational throw: 3 × 10 each side
+
+*Balance:*
+- Single leg stance: 30 sec each
+- Single leg rotation: 10 each leg
+
+## Preventing Common Golf Injuries
+
+### Lower Back Pain
+- Prioritize hip and thoracic mobility
+- Strengthen core
+- Don't force rotation from lower back
+
+### Golfer's Elbow
+- Strengthen wrist flexors and extensors
+- Grip strengthening
+- Check grip pressure (too tight?)
+
+### Shoulder Issues
+- Maintain shoulder mobility
+- Strengthen rotator cuff
+- Warm up properly
+
+## The Bottom Line
+
+1. **Thoracic rotation is king** — Can't swing well without it
+2. **Hips generate power** — Strong, mobile hips = more distance
+3. **Core transfers force** — Stability, not just strength
+4. **Warm up properly** — Never swing cold
+5. **Strength prevents injury** — A fit body handles golf stress better
+
+---
+
+*Foundational Rehab helps golfers play better and longer with sport-specific conditioning programs.*
+    `
+  },
+  'relieve-muscle-tension': {
+    title: 'How to Relieve Muscle Tension: Self-Massage Techniques',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read',
+    content: `
+## Understanding Muscle Tension
+
+Muscle tension is tightness or stiffness in muscles that can cause pain and restrict movement:
+
+**Common causes:**
+- Stress and anxiety
+- Poor posture
+- Overuse or repetitive movements
+- Sitting too long
+- Sleep position
+- Dehydration
+- Lack of movement
+
+**Common tight areas:**
+- Neck and upper traps
+- Shoulders
+- Lower back
+- Hip flexors
+- Calves
+
+## Self-Massage Basics
+
+### General Principles
+
+1. **Apply steady pressure** — Not too hard, not too soft
+2. **Breathe and relax** — Don't tense against the pressure
+3. **Work slowly** — 1-2 inches per second
+4. **Find tender spots** — Pause and hold 20-30 seconds
+5. **Stay hydrated** — Drink water after
+
+### Tools You Can Use
+
+- **Foam roller** — Large muscles (quads, back, hamstrings)
+- **Lacrosse ball** — Smaller, targeted areas (glutes, shoulders)
+- **Tennis ball** — Softer option, feet, back
+- **Massage gun** — Percussion therapy
+- **Your hands** — Always available!
+
+## Self-Massage by Body Area
+
+### Neck and Upper Traps
+
+**Finger Pressure:**
+1. Find tight spots on top of shoulders
+2. Apply firm pressure with fingers
+3. Hold 30 seconds on tender spots
+4. Can do small circles
+
+**Ball Against Wall:**
+1. Place tennis ball between upper trap and wall
+2. Lean into ball
+3. Move around to find tender spots
+4. Hold on tight spots 30 seconds
+
+### Shoulders
+
+**Lacrosse Ball on Wall:**
+1. Place ball between shoulder blade and wall
+2. Roll around to find tight spots
+3. Pause on tender areas
+4. Work from multiple angles
+
+**Cross-Body Pressure:**
+1. Reach across body
+2. Press into opposite shoulder muscles
+3. Apply pressure and make small circles
+
+### Lower Back (Careful!)
+
+**Tennis Balls (Gentle):**
+1. Lie on back, knees bent
+2. Place two balls on either side of spine (never ON spine)
+3. Gently roll up and down
+4. Keep it mild—lower back is sensitive
+
+**Hands on Hips:**
+1. Stand, place hands on lower back
+2. Press thumbs into muscles beside spine
+3. Small circles or sustained pressure
+
+### Glutes
+
+**Lacrosse Ball:**
+1. Sit on ball, one cheek
+2. Lean into tender spots
+3. Roll slowly or hold still
+4. Cross ankle over knee to go deeper
+
+**Foam Roller:**
+1. Sit on roller, cross one ankle over knee
+2. Lean toward that side
+3. Roll through the glute
+
+### Hip Flexors
+
+**Ball on Floor:**
+1. Lie face down
+2. Place ball below hip bone, to the side
+3. Let body weight create pressure
+4. Be gentle—this area is sensitive
+
+### Quads
+
+**Foam Roller:**
+1. Face down, roller under thighs
+2. Roll from hip to just above knee
+3. Rotate leg to hit different areas
+4. Pause on tight spots
+
+### Hamstrings
+
+**Foam Roller:**
+1. Sit on roller, legs extended
+2. Roll from sit bones to above knee
+3. Stack legs for more pressure
+4. Rotate to hit different angles
+
+### Calves
+
+**Foam Roller:**
+1. Sit, roller under one calf
+2. Cross other leg on top for pressure
+3. Roll from ankle to below knee
+4. Rotate foot in/out
+
+**Ball Work:**
+1. Sit, ball under calf
+2. Press down with hands on knee
+3. Point and flex foot
+4. Work around the muscle
+
+### Feet
+
+**Tennis/Golf Ball:**
+1. Stand or sit
+2. Roll ball under foot
+3. Apply moderate pressure
+4. Work from heel to toes
+5. Great for plantar fasciitis
+
+## Tension-Release Techniques
+
+### Sustained Pressure
+
+1. Find tender spot
+2. Apply steady pressure (6-7/10 intensity)
+3. Hold 30-90 seconds
+4. Wait for tissue to "release" (softening sensation)
+
+### Pin and Stretch
+
+1. Apply pressure to tight spot
+2. While holding pressure, move the joint
+3. Example: Press on calf while pointing/flexing foot
+4. Combines pressure with movement
+
+### Contract-Relax
+
+1. Find tight muscle
+2. Contract it for 5-10 seconds
+3. Relax
+4. Often releases tension
+
+## Daily Tension-Relief Routine
+
+**Morning (5 min):**
+- Neck circles: 10 each direction
+- Shoulder shrugs and rolls: 10 each
+- Upper trap massage: 30 sec each
+- Cat-cow: 10 cycles
+
+**Work Breaks (Every 1-2 Hours):**
+- Stand and move
+- Shoulder rolls
+- Neck stretches
+- Upper trap pressure points
+
+**Evening (10 min):**
+- Foam roll: Quads (60 sec), hamstrings (60 sec), glutes (60 sec each)
+- Ball work: Upper back (2 min), glutes (60 sec each)
+- Feet: Roll 60 sec each
+- Stretching: Hit tight areas
+
+## When Self-Massage Isn't Enough
+
+See a professional if:
+- Pain doesn't improve after 2 weeks
+- Tension affects daily activities
+- Numbness or tingling present
+- Pain from an injury
+- Severe or worsening symptoms
+
+## The Bottom Line
+
+1. **Consistency matters** — Daily small sessions beat occasional long ones
+2. **Find your tight spots** — Everyone's different
+3. **Don't overdo it** — Soreness is okay, pain isn't
+4. **Combine with movement** — Massage + stretching + activity
+5. **Address the cause** — Posture, stress, and habits matter
+
+---
+
+*Foundational Rehab helps you release tension with guided self-massage and mobility techniques.*
+    `
+  },
+  'exercises-after-surgery': {
+    title: 'Exercises After Surgery: Safe Return to Movement',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## The Importance of Post-Surgical Exercise
+
+Movement after surgery is essential for recovery:
+
+**Benefits:**
+- Prevents blood clots
+- Reduces stiffness
+- Maintains muscle strength
+- Improves circulation (speeds healing)
+- Prevents scar tissue complications
+- Better outcomes overall
+
+**Important:** Always follow your surgeon's and physical therapist's specific guidelines. This guide provides general principles.
+
+## General Principles
+
+### Listen to Your Body
+
+- Mild discomfort: Normal
+- Sharp pain: Stop and rest
+- Increasing swelling: Reduce activity
+
+### Progress Gradually
+
+- Start with gentle movements
+- Increase slowly over weeks
+- Don't rush the timeline
+
+### Protect the Surgical Site
+
+- Follow weight-bearing restrictions
+- Don't stress the repair
+- Use supports as prescribed
+
+### Stay Consistent
+
+- Do prescribed exercises daily
+- Multiple short sessions often beat one long one
+- Consistency is key for recovery
+
+## Early Post-Op (Days 1-14)
+
+Focus: Circulation, gentle range of motion, prevent complications
+
+### Ankle Pumps
+
+1. Lie in bed or sit
+2. Point toes away, then pull toward you
+3. 10-20 reps every hour while awake
+4. Prevents blood clots
+
+### Breathing Exercises
+
+1. Take slow, deep breaths
+2. Expand belly, then chest
+3. Hold 2-3 seconds
+4. Exhale slowly
+5. 10 breaths, several times daily
+6. Prevents pneumonia
+
+### Gentle Limb Movements
+
+Move joints above and below surgical site (if allowed):
+- Finger/toe wiggling
+- Ankle circles
+- Wrist circles
+- Gentle arm/leg lifts
+
+### Walking (If Allowed)
+
+- Short distances initially
+- Use walker/crutches if prescribed
+- Increase gradually
+- Best exercise for preventing complications
+
+## Intermediate Phase (Weeks 2-6)
+
+Focus: Restore range of motion, begin strengthening
+
+### Range of Motion Exercises
+
+Gently move the affected joint through available range:
+- Follow PT-prescribed motions
+- Don't force into pain
+- Multiple times daily
+
+### Isometric Exercises
+
+Contract muscles without joint movement:
+- Quad sets (tighten thigh, hold 5 sec)
+- Glute squeezes
+- Arm presses against pillows
+
+### Gradual Strengthening
+
+Light resistance when cleared:
+- Resistance bands (light)
+- Body weight exercises
+- Water exercises (when wound healed)
+
+## Common Surgery-Specific Guidelines
+
+### After Knee Surgery (ACL, Meniscus, Replacement)
+
+**Early:**
+- Ankle pumps
+- Quad sets
+- Straight leg raises (when cleared)
+- Heel slides (bending knee gently)
+
+**Progression:**
+- Stationary bike
+- Pool exercises
+- Step-ups
+- Progress per PT guidance
+
+### After Hip Surgery (Replacement, Repair)
+
+**Precautions often include:**
+- No bending hip past 90°
+- No crossing legs
+- No internal rotation (turning foot inward)
+- Follow your surgeon's specific precautions
+
+**Exercises:**
+- Ankle pumps
+- Glute squeezes
+- Gentle leg lifts (within precautions)
+- Walking with assistance
+
+### After Shoulder Surgery
+
+**Early:**
+- Pendulum exercises (arm hangs, swing gently)
+- Elbow/wrist movements
+- Grip exercises (squeeze ball)
+
+**Progression:**
+- Passive range of motion (therapist moves arm)
+- Active-assisted motion
+- Active motion
+- Strengthening (per timeline)
+
+### After Abdominal Surgery
+
+**Early:**
+- Deep breathing
+- Walking
+- Log-roll to get in/out of bed
+- No abdominal strain initially
+
+**Progression:**
+- Gentle core engagement (drawing in)
+- Pelvic tilts
+- Progress per healing timeline
+
+### After Spinal Surgery
+
+**Precautions vary by surgery type:**
+- May need to avoid bending, twisting, lifting
+- Follow surgeon's specific restrictions
+
+**Exercises:**
+- Walking (often encouraged early)
+- Gentle movements within restrictions
+- Core stability work when cleared
+
+## Red Flags—Contact Your Doctor
+
+- Increased pain despite rest
+- Fever over 101°F
+- Wound redness, warmth, or drainage
+- Calf swelling or tenderness
+- Chest pain or shortness of breath
+- Any concerning symptoms
+
+## Tips for Successful Recovery
+
+### Prepare Before Surgery
+
+- Get as strong and fit as possible pre-op
+- Learn basic exercises you'll need to do
+- Set up your home for recovery
+
+### Use Pain Management Wisely
+
+- Take medications as prescribed
+- Exercise when pain is controlled
+- Don't skip exercises because of mild discomfort
+
+### Attend All Therapy Appointments
+
+- Physical therapy is crucial
+- Follow the home exercise program
+- Ask questions if unsure
+
+### Be Patient
+
+- Recovery takes time
+- Pushing too hard causes setbacks
+- Trust the process
+
+### Stay Positive
+
+- Mental attitude affects physical recovery
+- Celebrate small progress
+- Focus on what you can do, not what you can't
+
+## Sample Daily Schedule (Post-Op)
+
+**Morning:**
+- Ankle pumps: 10-20 reps
+- Breathing exercises: 10 breaths
+- Prescribed exercises: As directed
+- Short walk (if allowed)
+
+**Afternoon:**
+- Repeat morning exercises
+- Ice if needed
+- Rest/elevation
+
+**Evening:**
+- Repeat exercises
+- Walk if able
+- Gentle stretching (if cleared)
+
+## The Bottom Line
+
+1. **Follow your team's guidance** — Surgeon and PT know your case
+2. **Start early** — Early movement prevents complications
+3. **Progress gradually** — Too fast causes problems
+4. **Stay consistent** — Daily exercises matter
+5. **Be patient** — Full recovery takes time
+
+---
+
+*Foundational Rehab supports your surgical recovery with safe, progressive exercise guidance.*
+    `
   }
 };
 

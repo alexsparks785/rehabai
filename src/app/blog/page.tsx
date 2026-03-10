@@ -4280,6 +4280,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Routines',
     readTime: '5 min read'
+  },
+  {
+    slug: 'hip-mobility-exercises',
+    title: 'Hip Mobility Exercises: Unlock Tight Hips',
+    excerpt: 'Dynamic and static hip openers to restore full range of motion.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-golfers',
+    title: 'Exercises for Golfers: Improve Your Swing and Prevent Injury',
+    excerpt: 'Mobility, strength, and power exercises for better golf performance.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'relieve-muscle-tension',
+    title: 'How to Relieve Muscle Tension: Self-Massage Techniques',
+    excerpt: 'Foam rolling, ball work, and hands-on techniques for muscle relief.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-after-surgery',
+    title: 'Exercises After Surgery: Safe Return to Movement',
+    excerpt: 'General principles and exercises for post-surgical recovery.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read'
   }
 ];
 
