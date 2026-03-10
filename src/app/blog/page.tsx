@@ -4388,6 +4388,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Posture',
     readTime: '7 min read'
+  },
+  {
+    slug: 'stretches-for-back-pain',
+    title: 'Stretches for Back Pain: Quick Relief Routine',
+    excerpt: 'Gentle stretches for quick back pain relief—find your direction preference.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-swimmers',
+    title: 'Exercises for Swimmers: Shoulder Health and Performance',
+    excerpt: 'Dryland exercises for shoulder health and swim performance.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'how-to-increase-mobility',
+    title: 'How to Increase Mobility: Complete Guide',
+    excerpt: 'Build usable mobility with flexibility, strength, and control.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '8 min read'
+  },
+  {
+    slug: 'exercises-for-diabetics',
+    title: 'Exercises for Diabetics: Safe Movement Guidelines',
+    excerpt: 'Safe exercise guidelines for Type 1 and Type 2 diabetes management.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
   }
 ];
 

@@ -138066,6 +138066,999 @@ Stand with back against wall:
 
 *Foundational Rehab helps you stand taller and feel better with comprehensive posture correction programs.*
     `
+  },
+  'stretches-for-back-pain': {
+    title: 'Stretches for Back Pain: Quick Relief Routine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Finding Relief Through Stretching
+
+Back pain affects most people at some point. Gentle stretching often provides relief:
+
+**Benefits of stretching for back pain:**
+- Reduces muscle tension
+- Improves flexibility
+- Increases blood flow
+- Decreases stiffness
+- Can reduce pain intensity
+
+**Important:** Not all back pain responds to the same stretches. Find what works for YOUR back.
+
+## Before You Start
+
+### Red Flags—See a Doctor First
+
+- Pain after trauma (fall, accident)
+- Numbness or weakness in legs
+- Loss of bladder/bowel control
+- Severe pain that doesn't change with position
+- Unexplained weight loss
+
+### Find Your Direction
+
+Most backs prefer either flexion (bending forward) or extension (bending backward):
+
+**Extension helps if:**
+- Pain increases with sitting
+- Pain decreases when standing/walking
+- Lying flat feels good
+
+**Flexion helps if:**
+- Pain increases with standing/walking
+- Pain decreases when sitting
+- Curling up feels good
+
+Try both carefully and stick with what helps.
+
+## Extension-Based Stretches
+
+For backs that feel better with backward bending:
+
+### Prone Lying
+
+1. Lie face down
+2. Arms at sides, head turned
+3. Let lower back relax and sag
+4. Stay 2-5 minutes
+5. Simplest starting point
+
+### Prone on Elbows
+
+1. Lie face down
+2. Prop up on elbows
+3. Let hips sink into floor
+4. Hold 30-60 seconds
+5. Repeat several times
+
+### Press-Ups
+
+1. Lie face down, hands under shoulders
+2. Press upper body up, hips stay down
+3. Straighten arms as far as comfortable
+4. Lower and repeat
+5. 10 reps, multiple times daily
+
+### Standing Back Extension
+
+1. Stand with hands on lower back
+2. Lean backward gently
+3. Hold 2-3 seconds
+4. Return to standing
+5. 10 reps
+6. Good for doing at work
+
+## Flexion-Based Stretches
+
+For backs that feel better with forward bending:
+
+### Knee to Chest (Single)
+
+1. Lie on back
+2. Pull one knee toward chest
+3. Keep other leg straight or bent
+4. Hold 20-30 seconds each side
+
+### Knee to Chest (Double)
+
+1. Lie on back
+2. Hug both knees to chest
+3. Rock gently side to side
+4. Hold 30-60 seconds
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward on floor
+3. Rest forehead down
+4. Hold 30-60 seconds
+5. Breathe deeply
+
+### Seated Forward Fold
+
+1. Sit with legs extended
+2. Reach toward toes
+3. Don't force—go to comfortable stretch
+4. Hold 30 seconds
+
+## Neutral Stretches (Good for Most)
+
+### Cat-Cow
+
+1. On hands and knees
+2. Arch back, drop belly (cow)
+3. Round back, tuck chin (cat)
+4. Move slowly between positions
+5. 10 cycles
+6. Great for general mobility
+
+### Pelvic Tilts
+
+1. Lie on back, knees bent
+2. Flatten lower back to floor (posterior tilt)
+3. Then arch lower back (anterior tilt)
+4. Move slowly between positions
+5. 15-20 reps
+
+### Supine Twist
+
+1. Lie on back
+2. Knees bent together
+3. Drop knees to one side
+4. Look opposite direction
+5. Hold 30 seconds each side
+
+### Figure 4 Stretch
+
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull bottom thigh toward chest
+4. Feel stretch in glute
+5. Hold 30 seconds each side
+
+## Hip Stretches for Back Pain
+
+Tight hips often contribute to back pain:
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Shift weight forward
+4. Hold 30-60 seconds each side
+
+### Pigeon Pose
+
+1. Front shin roughly parallel to shoulders
+2. Back leg extended behind
+3. Fold forward if comfortable
+4. Hold 60 seconds each side
+
+### 90-90 Stretch
+
+1. Sit with both legs at 90°
+2. Lean toward front shin
+3. Hold 30 seconds
+4. Switch sides
+
+## Quick Relief Routine (5 Minutes)
+
+When you need fast relief:
+
+1. **Cat-cow:** 8 cycles (1 min)
+2. **Single knee to chest:** 20 sec each (1 min)
+3. **Supine twist:** 30 sec each side (1 min)
+4. **Child's pose OR prone on elbows:** 1 min (pick what feels better)
+5. **Hip flexor stretch:** 30 sec each (1 min)
+
+## Morning Routine for Back Pain
+
+Do before getting out of bed:
+
+1. Knee to chest (single): 15 sec each
+2. Both knees to chest: 15 sec
+3. Supine twist: 20 sec each side
+4. Pelvic tilts: 10 reps
+5. Cat-cow: 8 cycles
+
+## Evening Routine for Back Pain
+
+Before bed to relax the back:
+
+1. Child's pose: 60 seconds
+2. Figure 4 stretch: 30 sec each
+3. Supine twist: 30 sec each side
+4. Knee to chest (both): 60 seconds
+5. Pelvic tilts: 10 gentle reps
+
+## What to Avoid
+
+### During Acute Pain
+
+- Deep forward bends (if extension helps you)
+- Back extensions (if flexion helps you)
+- Twisting with load
+- Heavy lifting
+
+### General Caution
+
+- Bouncing while stretching
+- Forcing through sharp pain
+- Holding breath
+- Stretching cold (warm up first)
+
+## The Bottom Line
+
+1. **Find your direction** — Flexion or extension preference
+2. **Start gentle** — Don't force anything
+3. **Consistency matters** — Multiple short sessions daily
+4. **Include the hips** — Tight hips = back pain
+5. **Listen to your body** — If it hurts, don't do it
+
+---
+
+*Foundational Rehab provides personalized back pain relief routines based on your specific needs.*
+    `
+  },
+  'exercises-for-swimmers': {
+    title: 'Exercises for Swimmers: Shoulder Health and Performance',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Sport-Specific',
+    readTime: '7 min read',
+    content: `
+## The Swimmer's Body
+
+Swimming demands a lot from specific areas:
+
+**What gets overworked:**
+- Internal rotators (pulling muscles)
+- Lats
+- Pecs
+- Upper traps
+
+**What gets neglected:**
+- External rotators
+- Lower traps and rhomboids
+- Scapular stabilizers
+- Hip extensors (for kicking)
+
+**Common swimmer problems:**
+- Shoulder impingement
+- Rotator cuff issues
+- Neck pain
+- Lower back pain
+- Knee pain (breaststrokers)
+
+## Shoulder Health Exercises
+
+### External Rotation with Band
+
+1. Elbow at side, bent 90°
+2. Rotate forearm away from body
+3. Control the return
+4. 15-20 reps each arm
+5. Critical for swimmers
+
+### Side-Lying External Rotation
+
+1. Lie on non-working side
+2. Top arm: elbow at side, bent 90°
+3. Hold light weight (2-5 lbs)
+4. Rotate forearm toward ceiling
+5. 15 reps each side
+
+### Face Pulls
+
+1. Pull band/cable toward face
+2. Elbows high and wide
+3. Externally rotate at the end
+4. 15-20 reps
+5. Great for upper back and external rotators
+
+### Prone Y-T-W-L
+
+**Y Raise:**
+1. Lie face down, arms overhead in Y
+2. Thumbs up
+3. Lift arms toward ceiling
+4. 10 reps
+
+**T Raise:**
+1. Arms out to sides
+2. Thumbs up
+3. Lift toward ceiling
+4. 10 reps
+
+**W Raise:**
+1. Elbows bent, pulled back
+2. Squeeze shoulder blades
+3. Hold at top
+4. 10 reps
+
+**L Raise:**
+1. Elbows at 90° at sides
+2. Rotate forearms up
+3. Squeeze at top
+4. 10 reps
+
+### Serratus Wall Slides
+
+1. Forearms on wall, elbows at shoulder height
+2. Slide arms up, pressing into wall
+3. Protract shoulder blades
+4. 10-15 reps
+
+## Mobility for Swimmers
+
+### Lat Stretch
+
+1. Grab doorframe or pole overhead
+2. Step back and hinge at hips
+3. Let arm straighten, feel stretch in lat
+4. Hold 30 seconds each side
+
+### Pec Stretch (Doorway)
+
+1. Forearm on doorframe
+2. Step through
+3. Feel stretch across chest
+4. Do at multiple arm heights
+5. 30 seconds each position
+
+### Thoracic Rotation
+
+1. On hands and knees
+2. Hand behind head
+3. Rotate elbow toward floor, then ceiling
+4. 10 reps each side
+
+### Sleeper Stretch
+
+1. Lie on side, shoulder on ground
+2. Bottom arm straight out
+3. Use top hand to push forearm toward floor
+4. Hold 30 seconds each side
+
+## Core Stability for Swimming
+
+### Dead Bug
+
+1. Lie on back, arms up, knees 90°
+2. Lower opposite arm and leg
+3. Keep lower back flat
+4. 10 reps each side
+
+### Plank Variations
+
+**Front Plank:** 30-45 seconds
+**Side Plank:** 20-30 seconds each side
+**Plank with Arm Lift:** 8 each side
+
+### Streamline Hold
+
+1. Lie on stomach
+2. Arms overhead, hands together (streamline position)
+3. Lift arms, chest, and legs off ground
+4. Hold 15-30 seconds
+5. Mimics swimming position
+
+### Flutter Kicks (On Back)
+
+1. Lie on back, hands under lower back
+2. Legs straight, slightly off ground
+3. Small alternating kicks
+4. 30 seconds
+5. Keep lower back pressed down
+
+## Hip and Leg Work
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone
+3. Shift forward
+4. Hold 30 seconds each side
+
+### Glute Bridges
+
+1. Drive through heels
+2. Squeeze glutes at top
+3. 15-20 reps
+
+### Banded Clamshells
+
+1. Band above knees
+2. Lie on side, knees bent
+3. Lift top knee
+4. 15-20 reps each side
+
+### Ankle Mobility
+
+Important for efficient kicking:
+1. Kneeling ankle stretch
+2. Point and flex exercises
+3. Ankle circles
+
+## Sample Swimmer Strength Routine
+
+**2-3x Per Week (Dryland):**
+
+*Warm-Up (5 min):*
+- Arm circles
+- Leg swings
+- Cat-cow
+- Shoulder rotations
+
+*Shoulder Health (10 min):*
+- External rotation: 2 × 15 each
+- Face pulls: 2 × 15
+- Y-T-W-L: 1 set each
+- Serratus wall slides: 2 × 10
+
+*Strength (15 min):*
+- Push-ups: 3 × 12
+- Rows: 3 × 12
+- Squats: 3 × 15
+- Single-leg RDL: 2 × 10 each
+
+*Core (5 min):*
+- Plank: 2 × 30 sec
+- Side plank: 2 × 20 sec each
+- Dead bug: 2 × 10 each
+- Streamline hold: 2 × 20 sec
+
+*Mobility (5 min):*
+- Lat stretch: 30 sec each
+- Pec stretch: 30 sec each
+- Sleeper stretch: 30 sec each
+- Hip flexor stretch: 30 sec each
+
+## Pre-Swim Routine (5 min)
+
+- Arm circles: 20 each direction
+- Band pull-aparts: 15 reps
+- External rotation: 10 each
+- Leg swings: 10 each direction
+- Ankle circles: 10 each direction
+
+## Post-Swim Routine (5 min)
+
+- Lat stretch: 30 sec each
+- Pec stretch: 30 sec each
+- Neck stretches: 30 sec each direction
+- Hip flexor stretch: 30 sec each
+- Child's pose: 60 seconds
+
+## The Bottom Line
+
+1. **Balance pushing and pulling** — Swimmers pull too much
+2. **Prioritize external rotation** — Prevents impingement
+3. **Don't neglect legs** — Hip and ankle mobility matter
+4. **Core stability is key** — Supports body position in water
+5. **Stretch after, not before** — Dynamic warm-up pre-swim
+
+---
+
+*Foundational Rehab keeps swimmers healthy with targeted shoulder care and dryland training programs.*
+    `
+  },
+  'how-to-increase-mobility': {
+    title: 'How to Increase Mobility: Complete Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '8 min read',
+    content: `
+## What Is Mobility?
+
+Mobility is your ability to move a joint through its range of motion with control:
+
+- **Flexibility:** Passive range (how far you can be stretched)
+- **Mobility:** Active range (how far you can move yourself)
+
+You need both. But mobility is more functional—it's usable movement.
+
+## Why Mobility Matters
+
+**Benefits:**
+- Move better in daily life
+- Reduce injury risk
+- Improve athletic performance
+- Decrease pain and stiffness
+- Better posture
+- Move with less compensation
+
+**The problem:** Modern life reduces mobility. Sitting, screens, and lack of movement all contribute.
+
+## The Mobility Formula
+
+**Mobility = Flexibility + Strength + Control**
+
+To improve mobility, you need:
+1. Tissue length (flexibility)
+2. Strength at end ranges
+3. Nervous system permission (control)
+
+Just stretching isn't enough.
+
+## Full Body Mobility Assessment
+
+### Ankle
+
+**Test:** Knee-to-wall (how far can knee go past toes while heel stays down?)
+**Goal:** 4-5 inches
+
+### Hip
+
+**Test:** Deep squat (can you get to parallel or below?)
+**Goal:** Full depth with heels down
+
+### Thoracic Spine
+
+**Test:** Seated rotation (how far can you turn?)
+**Goal:** 45+ degrees each way
+
+### Shoulder
+
+**Test:** Overhead reach (can arms go straight overhead against wall?)
+**Goal:** Full overhead without arching back
+
+## Ankle Mobility
+
+### Wall Ankle Stretch
+
+1. Face wall, one foot back
+2. Bend front knee toward wall
+3. Keep heel down
+4. Hold 30 seconds each
+5. Progress by moving foot back
+
+### Banded Ankle Mobilization
+
+1. Band around front of ankle, anchored behind
+2. Lunge forward, pushing knee past toes
+3. Band pulls ankle into dorsiflexion
+4. 15 reps each side
+
+### Half-Kneeling Ankle Rocks
+
+1. Kneeling, front foot flat
+2. Rock knee forward over toes
+3. Keep heel down
+4. 15-20 reps each side
+
+## Hip Mobility
+
+### 90-90 Stretch
+
+1. Sit with both legs at 90°
+2. Lean toward front shin
+3. Hold 30-60 seconds
+4. Switch sides
+
+### Hip Circles
+
+1. On hands and knees
+2. Lift knee, make circles
+3. 10 forward, 10 backward each leg
+
+### Deep Squat Hold
+
+1. Squat as deep as possible
+2. Hold position 1-2 minutes
+3. Use support if needed
+4. Rock and shift weight
+
+### Couch Stretch
+
+1. Back foot on wall/couch
+2. Front foot forward
+3. Stay upright
+4. Hold 60-90 seconds each
+
+### Pigeon Pose
+
+1. Front shin roughly parallel to shoulders
+2. Back leg extended
+3. Fold forward if comfortable
+4. Hold 60-90 seconds each
+
+## Thoracic Mobility
+
+### Thoracic Extension on Foam Roller
+
+1. Roller across upper back
+2. Support head with hands
+3. Extend over roller
+4. Hold 30 seconds
+5. Move to different segments
+
+### Open Books
+
+1. Lie on side, knees bent
+2. Arms extended in front
+3. Rotate top arm to other side
+4. Follow with eyes
+5. 10 reps each side
+
+### Cat-Cow (Thoracic Focus)
+
+1. On hands and knees
+2. Focus movement on upper back
+3. Flex and extend through mid-spine
+4. 10 cycles
+
+### Thread the Needle
+
+1. On hands and knees
+2. Reach one arm under body
+3. Let shoulder rest on floor
+4. Hold 30 seconds each
+
+## Shoulder Mobility
+
+### Wall Slides
+
+1. Back against wall
+2. Arms in goalpost position on wall
+3. Slide up and down
+4. Keep contact with wall
+5. 10-15 reps
+
+### Shoulder CARS (Controlled Articular Rotations)
+
+1. Stand tall, arm at side
+2. Make the biggest circle possible with straight arm
+3. Move slowly with control
+4. 5 circles each direction, each arm
+
+### Sleeper Stretch
+
+1. Lie on side, shoulder on ground
+2. Bottom arm straight out, elbow bent 90°
+3. Use top hand to push forearm toward floor
+4. Hold 30 seconds each
+
+### Lat Stretch
+
+1. Grab doorframe or pole
+2. Hinge forward at hips
+3. Let arm straighten
+4. Hold 30 seconds each side
+
+## Mobility Training Principles
+
+### Consistency Over Intensity
+
+5-10 minutes daily beats 60 minutes weekly.
+
+### Move Through the Range
+
+Active movement through ROM is more effective than passive holding.
+
+### Load the Position
+
+Add light resistance to build strength in new ranges.
+
+### Breathe and Relax
+
+Tension blocks mobility. Breathe into stretches.
+
+### Progressive Overload
+
+Gradually increase range, load, or duration.
+
+## Daily Mobility Routine (15 min)
+
+**Warm-Up (3 min):**
+- Light movement (walking, arm circles)
+- Joint circles
+
+**Ankles (2 min):**
+- Wall ankle stretch: 30 sec each
+- Ankle rocks: 15 each
+
+**Hips (4 min):**
+- 90-90: 30 sec each side
+- Hip circles: 10 each way, each leg
+- Hip flexor stretch: 30 sec each
+
+**Thoracic (3 min):**
+- Cat-cow: 10 cycles
+- Open books: 8 each side
+- Thread the needle: 20 sec each
+
+**Shoulders (3 min):**
+- Shoulder CARS: 5 each arm
+- Wall slides: 10 reps
+- Lat stretch: 30 sec each
+
+## Weekly Mobility Schedule
+
+**Daily:** 10-15 min full body routine
+
+**2-3x per week:** Extended work on problem areas (20-30 min)
+
+**Before workouts:** Dynamic mobility for areas you'll use
+
+**After workouts:** Static stretching and cool-down
+
+## Common Mistakes
+
+### Only Stretching
+
+Stretching alone doesn't build usable mobility. Add strength in new ranges.
+
+### Going Too Fast
+
+Mobility requires patience. Changes take weeks to months.
+
+### Ignoring Problem Areas
+
+We avoid what's hardest. Focus on your limitations.
+
+### Not Being Consistent
+
+Random mobility work doesn't create lasting change.
+
+### Stretching Through Pain
+
+Discomfort is okay. Pain is not. Respect your body.
+
+## The Bottom Line
+
+1. **Mobility = flexibility + strength + control** — All three matter
+2. **Daily practice** — Short consistent sessions win
+3. **Active > passive** — Move through ranges, don't just hold
+4. **Strengthen new ranges** — Make mobility usable
+5. **Be patient** — Real change takes time
+
+---
+
+*Foundational Rehab builds functional mobility that translates to real-life movement.*
+    `
+  },
+  'exercises-for-diabetics': {
+    title: 'Exercises for Diabetics: Safe Movement Guidelines',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Exercise and Diabetes
+
+Exercise is one of the most powerful tools for managing diabetes:
+
+**Benefits:**
+- Improves insulin sensitivity
+- Lowers blood sugar levels
+- Helps with weight management
+- Reduces cardiovascular risk
+- Improves mood and energy
+- Better sleep
+
+**For Type 2:** Can reduce medication needs
+**For Type 1:** Helps with blood sugar stability
+
+## Before Starting
+
+### Talk to Your Doctor
+
+Especially if you have:
+- Heart disease or high blood pressure
+- Neuropathy (nerve damage)
+- Retinopathy (eye problems)
+- Kidney disease
+- Foot problems
+
+### Know Your Numbers
+
+- Check blood sugar before, during (if long session), and after exercise
+- Keep fast-acting carbs available
+- Learn your body's response to different activities
+
+## Blood Sugar Management
+
+### Before Exercise
+
+- **Blood sugar 100-250 mg/dL:** Safe to exercise
+- **Below 100:** Eat a small snack first
+- **Above 250 with ketones:** Don't exercise
+- **Above 300:** Use caution, check ketones
+
+### During Exercise
+
+If exercising >30 minutes:
+- May need to check blood sugar
+- Have glucose tablets or juice available
+- Stop if you feel lightheaded or shaky
+
+### After Exercise
+
+- Blood sugar can drop hours later (especially evening)
+- May need to reduce insulin or have a snack
+- Stay hydrated
+
+## Types of Exercise
+
+### Aerobic (Cardio)
+
+**Best for:** Blood sugar control, heart health, weight management
+
+**Examples:**
+- Walking
+- Swimming
+- Cycling
+- Dancing
+- Low-impact aerobics
+
+**Start:** 10-15 minutes
+**Build to:** 30+ minutes most days
+
+### Resistance Training
+
+**Best for:** Muscle mass, insulin sensitivity, metabolism
+
+**Examples:**
+- Body weight exercises
+- Resistance bands
+- Weight machines
+- Free weights
+
+**Frequency:** 2-3x per week
+
+### Flexibility
+
+**Best for:** Joint health, preventing injury, circulation
+
+**Examples:**
+- Stretching
+- Yoga (gentle)
+- Tai chi
+
+**Frequency:** Daily if possible
+
+## Safe Exercises for Diabetics
+
+### Walking
+
+- Easiest to start
+- Low risk
+- Can do anywhere
+- Build up gradually
+- Aim for 30 minutes most days
+
+### Swimming/Water Exercise
+
+- Easy on joints
+- Full-body workout
+- Good for neuropathy (no foot impact)
+- Check blood sugar before/after
+
+### Chair Exercises
+
+For those with limited mobility:
+
+**Seated March:**
+1. Sit tall in sturdy chair
+2. March feet in place
+3. 30-60 seconds
+
+**Seated Arm Raises:**
+1. Sit tall
+2. Raise arms overhead
+3. Lower slowly
+4. 15 reps
+
+**Seated Leg Extensions:**
+1. Extend one leg straight
+2. Hold 5 seconds
+3. Lower slowly
+4. 10 reps each leg
+
+**Chair Squats:**
+1. Sit at edge of chair
+2. Stand up without using hands
+3. Sit back down with control
+4. 10-15 reps
+
+### Resistance Band Exercises
+
+**Band Pull-Apart:**
+1. Hold band in front, arms straight
+2. Pull apart, squeezing shoulder blades
+3. 15 reps
+
+**Band Bicep Curl:**
+1. Stand on band
+2. Curl hands toward shoulders
+3. 15 reps
+
+**Band Squat:**
+1. Stand on band, holding handles
+2. Squat and stand
+3. 10-15 reps
+
+## Foot Care During Exercise
+
+Neuropathy makes foot care critical:
+
+- **Check feet daily** for cuts, blisters, sores
+- **Wear proper shoes** — fitted, supportive, not too tight
+- **Wear moisture-wicking socks**
+- **Never exercise barefoot**
+- **Check inside shoes** for debris before wearing
+- **Inspect feet after exercise**
+
+## Signs to Stop Exercising
+
+Stop and seek help if you experience:
+- Chest pain or pressure
+- Severe shortness of breath
+- Dizziness or lightheadedness
+- Confusion
+- Severe low blood sugar symptoms (shakiness, sweating, confusion)
+
+## Sample Weekly Exercise Plan
+
+**Monday:** 20-min walk + 5-min stretching
+
+**Tuesday:** Resistance training (20 min)
+- Chair squats: 2 × 10
+- Wall push-ups: 2 × 10
+- Band rows: 2 × 12
+- Seated leg extensions: 2 × 10
+
+**Wednesday:** 20-min walk or swimming
+
+**Thursday:** Resistance training (20 min)
+- Band squats: 2 × 10
+- Band bicep curls: 2 × 12
+- Band pull-aparts: 2 × 15
+- Bridges: 2 × 15
+
+**Friday:** 20-min walk + 5-min stretching
+
+**Saturday:** 30-min activity of choice (swimming, dancing, cycling)
+
+**Sunday:** Rest or gentle stretching/yoga
+
+## Progression Tips
+
+### Start Small
+
+- 10 minutes is better than nothing
+- Build up gradually
+- Listen to your body
+
+### Increase Gradually
+
+- Add 5 minutes per week
+- Or add one more day
+- Don't increase more than 10% weekly
+
+### Find What You Enjoy
+
+- You'll stick with activities you like
+- Try different things
+- Exercise with others for motivation
+
+## The Bottom Line
+
+1. **Exercise is powerful medicine** — One of the best things for diabetes
+2. **Monitor blood sugar** — Know how you respond
+3. **Start slowly** — Build up gradually
+4. **Include variety** — Cardio, strength, flexibility
+5. **Take care of your feet** — Inspect daily, proper footwear
+6. **Stay consistent** — Regular exercise has the most benefit
+
+---
+
+*Foundational Rehab helps people with diabetes exercise safely and effectively with personalized guidance.*
+    `
   }
 };
 
