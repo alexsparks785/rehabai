@@ -113057,6 +113057,953 @@ Sometimes excessive stretching actually aggravates snapping hip.
 
 *Foundational Rehab offers hip mobility programs addressing snapping hip and general hip health.*
     `
+  },
+  'exercises-for-menstrual-cramps': {
+    title: 'Exercises for Menstrual Cramps: Movement That Helps Period Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '5 min read',
+    content: `
+## Can Exercise Help Period Cramps?
+
+Yes. Research shows that exercise can reduce menstrual pain by:
+- Releasing endorphins (natural pain relievers)
+- Improving blood flow to pelvic area
+- Reducing stress and tension
+- Decreasing prostaglandins (pain-causing compounds)
+
+Light to moderate exercise during your period is safe and often beneficial.
+
+## Best Types of Exercise for Cramps
+
+### Walking
+
+**Why it helps:**
+- Gentle, rhythmic movement
+- Increases circulation
+- Releases endorphins
+- Easy to do at any intensity
+
+**How much:** 20-30 minutes of moderate walking
+
+### Yoga
+
+**Why it helps:**
+- Combines movement with relaxation
+- Specific poses target the pelvic area
+- Reduces stress
+- Can be very gentle
+
+**Best poses:** See below
+
+### Swimming
+
+**Why it helps:**
+- Water supports the body
+- Rhythmic movement
+- Cooling effect can feel good
+- Low impact
+
+**Note:** Tampons or menstrual cups make this comfortable. No, you won't attract sharks.
+
+### Light Cardio
+
+**Why it helps:**
+- Endorphin release
+- Distraction from pain
+- Improves mood
+
+**Options:** Cycling, elliptical, dancing (at moderate intensity)
+
+### Stretching
+
+**Why it helps:**
+- Releases muscle tension
+- Improves blood flow
+- Relaxing
+
+## Yoga Poses for Cramp Relief
+
+### Child's Pose
+
+**How to:**
+- Kneel, sit back on heels
+- Fold forward, arms extended
+- Breathe deeply into lower back
+- Hold 1-2 minutes
+
+Gently compresses and releases pelvic area.
+
+### Cat-Cow
+
+**How to:**
+- On hands and knees
+- Alternate arching and rounding spine
+- 10-15 slow reps
+
+Mobilizes pelvis and lower back.
+
+### Supine Twist
+
+**How to:**
+- Lie on back
+- Pull one knee across body
+- Keep shoulders flat
+- Hold 30-60 seconds each side
+
+Gentle twist releases lower back and hip tension.
+
+### Reclined Bound Angle (Supta Baddha Konasana)
+
+**How to:**
+- Lie on back
+- Bring soles of feet together
+- Let knees fall open
+- Support knees with pillows if needed
+- Hold 2-5 minutes
+
+Opens hips and pelvic area, very relaxing.
+
+### Happy Baby
+
+**How to:**
+- Lie on back
+- Hold outsides of feet
+- Pull knees toward armpits
+- Rock gently side to side
+- Hold 1-2 minutes
+
+Releases lower back and hips.
+
+### Knees to Chest
+
+**How to:**
+- Lie on back
+- Pull both knees to chest
+- Rock gently
+- Hold 1-2 minutes
+
+Gentle compression relieves back pain.
+
+### Forward Fold (Seated or Standing)
+
+**How to:**
+- Fold forward from hips
+- Let gravity stretch the back
+- Hold 30-60 seconds
+
+Calming, releases back tension.
+
+## Quick 10-Minute Routine for Cramp Relief
+
+1. **Cat-Cow:** 10 reps (1 min)
+2. **Child's Pose:** 2 min
+3. **Supine Twist:** 1 min each side
+4. **Knees to Chest:** 1 min
+5. **Reclined Bound Angle:** 3 min
+6. **Deep breathing throughout**
+
+## Heat + Movement Combination
+
+**Heat application:**
+- Heating pad on lower abdomen or back
+- Hot water bottle
+- Warm bath
+
+**Combined with gentle movement:**
+- Light walking after applying heat
+- Stretching while warm
+- Yoga with heat nearby
+
+This combination can be more effective than either alone.
+
+## What to Avoid
+
+### High-Intensity Exercise
+
+- May worsen cramps for some women
+- Listen to your body
+- This isn't the time for PRs
+
+### Inversions (For Some)
+
+- Some women find inversions uncomfortable during menstruation
+- Others are fine
+- Listen to your body
+
+### Forcing It
+
+- If you feel terrible, rest
+- Exercise should help, not make things worse
+- Some days movement helps; some days it doesn't
+
+## Throughout Your Cycle
+
+### Menstrual Phase (Days 1-5)
+
+- Light exercise: walking, yoga, stretching
+- Listen to your body
+- Rest if needed
+
+### Follicular Phase (Days 6-14)
+
+- Energy often increases
+- Good time for harder workouts
+- Build strength and intensity
+
+### Ovulation (Around Day 14)
+
+- Peak energy for many women
+- Great time for intense exercise
+
+### Luteal Phase (Days 15-28)
+
+- Energy may decrease
+- May prefer moderate exercise
+- Some women feel strong; others don't
+
+## Other Natural Remedies to Combine
+
+### Diet
+
+- Anti-inflammatory foods
+- Magnesium-rich foods
+- Reduce caffeine and alcohol
+- Stay hydrated
+
+### Supplements
+
+- Magnesium
+- Omega-3 fatty acids
+- Vitamin B1
+- (Consult healthcare provider)
+
+### Stress Management
+
+- Deep breathing
+- Meditation
+- Adequate sleep
+
+## When to See a Doctor
+
+**Seek evaluation if:**
+- Cramps are severe and don't respond to treatment
+- Pain interferes with daily activities
+- Heavy bleeding
+- Pain outside of menstruation
+- Symptoms are getting worse over time
+
+Could indicate endometriosis, fibroids, or other conditions.
+
+## The Bottom Line
+
+1. **Movement helps** — Light exercise reduces cramp pain
+2. **Yoga is excellent** — Specific poses target the pelvic area
+3. **Walking works** — Simple and effective
+4. **Listen to your body** — Some days rest is better
+5. **Combine with heat** — Enhanced relief
+
+---
+
+*Foundational Rehab offers gentle movement programs for all phases of your cycle.*
+    `
+  },
+  'how-long-does-it-take-to-build-muscle': {
+    title: 'How Long Does It Take to Build Muscle? Realistic Timelines',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Honest Answer
+
+**Noticeable changes:** 4-8 weeks
+**Visible muscle:** 3-6 months
+**Significant transformation:** 1-2 years
+**Building foundation:** 3-5 years for most of your potential
+
+Building muscle is a slow process. Anyone promising rapid results is selling something.
+
+## What Affects Muscle Building Speed
+
+### Training Status
+
+**Beginners:** Fastest gains (newbie gains)
+- Can gain 1-1.5% of body weight in muscle per month
+- Most noticeable changes in first year
+
+**Intermediate:** Slower progress
+- 0.5-1% of body weight per month
+- Gains harder to come by
+
+**Advanced:** Very slow
+- 0.25-0.5% per month (or less)
+- Fighting for every ounce
+
+### Genetics
+
+**Favorable genetics:**
+- Longer muscle bellies
+- Better muscle fiber composition
+- Higher testosterone/growth hormone
+- Some people build muscle more easily
+
+**Less favorable genetics:**
+- Shorter muscle bellies
+- Different fiber types
+- Lower hormone levels
+- Can still build muscle, just slower
+
+You can't change genetics, but everyone can improve.
+
+### Age
+
+**Younger (teens-20s):** Higher testosterone, faster recovery, faster gains
+**30s-40s:** Still very possible, slightly slower
+**50s+:** Slower but absolutely achievable
+
+Muscle building is possible at any age.
+
+### Sex
+
+**Men:** More testosterone, typically faster muscle gain
+**Women:** Build muscle effectively, but absolute amounts smaller
+
+Women should not be afraid of "getting bulky" — it's very hard to do.
+
+### Training Quality
+
+**Better training = faster results:**
+- Progressive overload
+- Adequate volume
+- Good exercise selection
+- Proper form
+- Consistency
+
+### Nutrition
+
+**Essential:**
+- Adequate protein (0.7-1g per lb body weight)
+- Sufficient calories (slight surplus for building)
+- Proper recovery nutrition
+
+Poor nutrition = poor results, regardless of training.
+
+### Sleep and Recovery
+
+- Muscle grows during rest, not training
+- 7-9 hours sleep
+- Adequate rest between sessions
+
+## Realistic Timeline
+
+### Week 1-4: Neural Adaptations
+
+**What happens:**
+- Brain learns to recruit muscle fibers better
+- Strength increases significantly
+- Muscle size doesn't change much yet
+
+**What you'll notice:**
+- Getting stronger
+- Better coordination
+- Exercises feel easier
+
+### Week 4-8: Early Muscle Growth
+
+**What happens:**
+- Muscle protein synthesis increasing
+- Muscle fibers beginning to grow
+- Water and glycogen storage in muscles
+
+**What you'll notice:**
+- Muscles may look slightly fuller
+- Clothes fit differently
+- You feel stronger
+
+### Month 2-6: Visible Progress
+
+**What happens:**
+- Actual muscle tissue being built
+- Noticeable changes in the mirror
+- Strength continuing to increase
+
+**What you'll notice:**
+- Visible muscle definition
+- Others may comment
+- Measurements changing
+
+### Month 6-12: Significant Change
+
+**What happens:**
+- Substantial muscle gain accumulated
+- Body composition noticeably different
+- Rate of gain slowing
+
+**What you'll notice:**
+- Clear before/after difference
+- New clothes needed
+- Strength much higher than starting point
+
+### Year 1-3: Building Your Foundation
+
+**What happens:**
+- Most of your natural potential realized
+- Gains become harder
+- Refinement phase
+
+**What you'll notice:**
+- You look athletic/muscular
+- Progress is slower but continuing
+- Maintenance becomes easier
+
+## How Much Muscle Can You Build?
+
+### First Year (Beginner)
+
+**Men:** 20-25 lbs of muscle possible
+**Women:** 10-12 lbs of muscle possible
+
+### Second Year
+
+**Men:** 10-12 lbs
+**Women:** 5-6 lbs
+
+### Third Year
+
+**Men:** 5-6 lbs
+**Women:** 2-3 lbs
+
+### Lifetime Natural Potential (Very Rough Estimates)
+
+**Men:** 40-50 lbs of muscle above untrained baseline
+**Women:** 20-25 lbs of muscle above untrained baseline
+
+These are rough estimates. Individual variation is huge.
+
+## Why Progress Seems Slow
+
+### The Ceiling Effect
+
+Early gains are easy. Each additional pound of muscle is harder than the last.
+
+### Daily Changes Are Invisible
+
+Muscle builds gram by gram. Day-to-day changes aren't visible.
+
+### Water Weight Fluctuations
+
+Daily weight changes mask slow muscle gains.
+
+### Comparison Trap
+
+Social media shows genetic elites and/or steroid users. Don't compare your progress to theirs.
+
+## How to Maximize Progress
+
+### Training
+
+- Progressive overload (gradually increase weight/reps)
+- Train each muscle 2-3x per week
+- 10-20 sets per muscle per week
+- Good form over ego weight
+
+### Nutrition
+
+- Protein: 0.7-1g per lb body weight
+- Slight caloric surplus (200-500 calories)
+- Whole foods, adequate micronutrients
+
+### Recovery
+
+- 7-9 hours sleep
+- Manage stress
+- Rest days
+
+### Consistency
+
+- This is the biggest factor
+- Years of consistent effort beats months of perfect effort
+- Don't skip workouts
+
+## Signs of Progress (Beyond the Scale)
+
+- Strength increasing
+- Clothes fitting differently
+- Measurements changing
+- Photos showing change (monthly comparison)
+- Energy and performance improving
+
+## The Bottom Line
+
+1. **It takes time** — Months to see, years to transform
+2. **Beginners gain fastest** — Take advantage of newbie gains
+3. **Nutrition matters** — Can't out-train a bad diet
+4. **Consistency wins** — Show up, week after week
+5. **Be patient** — This is a years-long process
+
+---
+
+*Foundational Rehab offers strength training programs with realistic expectations and sustainable approaches.*
+    `
+  },
+  'best-stretches-after-sitting-all-day': {
+    title: 'Best Stretches After Sitting All Day: Undo Desk Damage',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Stretching',
+    readTime: '5 min read',
+    content: `
+## What Sitting Does to Your Body
+
+8+ hours of sitting creates predictable problems:
+- Hip flexors shorten
+- Glutes become inactive
+- Hamstrings tighten
+- Lower back stiffens
+- Shoulders round forward
+- Neck strains forward
+
+These stretches directly counter sitting's effects.
+
+## The Priority Stretches (Do These First)
+
+### 1. Hip Flexor Stretch
+
+**The most important stretch for desk workers.**
+
+**How to:**
+- Kneel on one knee, other foot forward
+- Tuck your pelvis under (flatten lower back)
+- Squeeze the back glute hard
+- Lean forward slightly
+- Hold 60-90 seconds each side
+
+**Why it matters:** Hip flexors are shortened ALL DAY while sitting. This is priority #1.
+
+### 2. Chest Doorway Stretch
+
+**How to:**
+- Stand in doorway, forearm on frame
+- Arm at 90° from body
+- Step through and rotate away
+- Hold 45-60 seconds each side
+- Repeat at different arm angles
+
+**Why it matters:** Counters the rounded shoulder position from reaching for keyboard.
+
+### 3. Figure-4 Glute Stretch
+
+**How to:**
+- Lie on back
+- Cross one ankle over opposite knee
+- Pull bottom leg toward chest
+- Hold 45-60 seconds each side
+
+**Why it matters:** Releases glutes that have been compressed and inactive all day.
+
+## The Supporting Stretches
+
+### 4. Cat-Cow
+
+**How to:**
+- On hands and knees
+- Alternate arching and rounding spine
+- 15-20 slow reps
+
+**Why it matters:** Mobilizes entire spine after it's been stuck in one position.
+
+### 5. Thoracic Extension
+
+**How to:**
+- Foam roller under upper back (or over chair back)
+- Extend back over roller
+- Move to different segments
+- 10-15 extensions total
+
+**Why it matters:** Counters the hunched upper back from desk work.
+
+### 6. Upper Trap Stretch
+
+**How to:**
+- Tilt ear toward shoulder
+- Add gentle hand pressure
+- Hold 30 seconds each side
+
+**Why it matters:** Releases tension from holding phone, stress, and poor posture.
+
+### 7. Chin Tucks
+
+**How to:**
+- Pull chin straight back (make double chin)
+- Hold 5 seconds
+- 15-20 reps
+
+**Why it matters:** Counters forward head posture from screen staring.
+
+### 8. Standing Back Extension
+
+**How to:**
+- Hands on lower back
+- Lean back gently
+- Hold 2-3 seconds
+- 10-15 reps
+
+**Why it matters:** Reverses the flexed sitting position.
+
+## The Complete Post-Work Routine (15 Minutes)
+
+### Phase 1: Mobilize (3 Minutes)
+
+1. Cat-cow: 15 reps
+2. Standing back extensions: 10 reps
+3. Thoracic rotation: 10 each side
+
+### Phase 2: Primary Stretches (8 Minutes)
+
+1. Hip flexor stretch: 60 sec each side
+2. Doorway pec stretch: 45 sec each side
+3. Figure-4 stretch: 45 sec each side
+4. Upper trap stretch: 30 sec each side
+
+### Phase 3: Movement (4 Minutes)
+
+1. Walking: 2-3 minutes
+2. Shoulder circles: 10 each direction
+3. Chin tucks: 10 reps
+
+## Quick Versions
+
+### 5-Minute Version
+
+1. Hip flexor stretch: 45 sec each side
+2. Doorway stretch: 30 sec each side
+3. Cat-cow: 10 reps
+4. Chin tucks: 10 reps
+
+### 2-Minute Emergency Version
+
+1. Standing hip flexor stretch: 30 sec each side
+2. Doorway stretch: 20 sec each side
+3. Standing back extension: 5 reps
+
+## Additional Exercises (If You Have Time)
+
+### Glute Bridges
+
+**How to:**
+- On back, knees bent
+- Squeeze glutes, lift hips
+- 15-20 reps
+
+Activates glutes that were dormant while sitting.
+
+### Wall Angels
+
+**How to:**
+- Back against wall
+- Arms at 90°
+- Slide up and down
+- Keep everything touching wall
+- 10-15 reps
+
+Strengthens posture muscles.
+
+### Dead Bugs
+
+**How to:**
+- On back, arms up, knees at 90°
+- Lower opposite arm and leg
+- 10 each side
+
+Re-engages core after sitting.
+
+## When to Do These Stretches
+
+### Best: Immediately After Work
+
+- Body is still in "sitting mode"
+- Immediate relief
+- Prevents accumulated stiffness
+
+### Also Good: Before Bed
+
+- Releases day's tension
+- May improve sleep
+- Longer holds okay
+
+### Throughout the Day (Even Better)
+
+- Mini stretches every hour
+- Standing hip flexor stretch at desk
+- Shoulder rolls between tasks
+
+## Making It a Habit
+
+### Attach to Existing Routine
+
+- Right after shutting down computer
+- Before dinner
+- Part of changing out of work clothes
+
+### Keep Equipment Ready
+
+- Yoga mat visible
+- Foam roller accessible
+- No setup barrier
+
+### Start Small
+
+- 5 minutes is better than nothing
+- Build to 15 minutes over time
+- Consistency beats duration
+
+## The Bottom Line
+
+1. **Hip flexors first** — The sitting muscle
+2. **Open the chest** — Counter rounded shoulders
+3. **Release glutes** — Compressed all day
+4. **Mobilize spine** — Cat-cow, extensions
+5. **Every day** — Consistency undoes daily damage
+
+---
+
+*Foundational Rehab offers desk worker programs to undo the effects of prolonged sitting.*
+    `
+  },
+  'exercises-for-hip-bursitis': {
+    title: 'Exercises for Hip Bursitis: Relieve Trochanteric Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read',
+    content: `
+## What Is Hip Bursitis?
+
+Greater trochanteric pain syndrome (GTPS), commonly called hip bursitis, involves:
+- Pain on the outside of the hip
+- Tenderness over the greater trochanter (bony prominence)
+- Pain with lying on that side
+- Pain with prolonged standing, walking, or climbing stairs
+
+It's actually more often a tendon problem (gluteal tendinopathy) than true bursitis.
+
+## Important: What NOT to Do
+
+### Avoid Compression
+
+**Don't:**
+- Lie on the painful side
+- Cross legs when sitting
+- Stand with weight shifted to painful side
+- Stretch IT band aggressively
+
+**Why:** Compression aggravates the condition. Many common stretches actually make it worse.
+
+### Avoid Aggressive IT Band Stretching
+
+Traditional IT band stretches compress the painful area. Skip these:
+- Standing IT band stretch (leaning away)
+- Foam rolling directly on the painful spot
+- Pigeon pose on painful side
+
+## What Helps: Load Management
+
+The key to treating GTPS is gradual, controlled loading of the gluteal tendons.
+
+### Phase 1: Reduce Aggravation
+
+**Sleep position:**
+- Sleep on non-painful side
+- Pillow between knees
+- If sleeping on back, pillow under knees
+
+**Sitting:**
+- Don't cross legs
+- Equal weight on both hips
+- Avoid low, soft chairs
+
+**Standing:**
+- Equal weight on both legs
+- Don't hang on painful hip
+
+### Phase 2: Isometric Loading
+
+Isometric exercises (static holds) begin reloading the tendon without aggravation.
+
+**Isometric Hip Abduction (Wall)**
+
+**How to:**
+- Stand sideways to wall
+- Painful side against wall
+- Press outside of leg into wall
+- Hold 30-45 seconds
+- 5 reps, 2-3 times daily
+
+**Isometric Bridge Hold**
+
+**How to:**
+- Glute bridge position
+- Hold at top
+- 30-45 seconds
+- 5 reps
+
+### Phase 3: Isotonic Loading (Progressive)
+
+Once isometrics are comfortable, add controlled movement.
+
+**Side-Lying Hip Abduction (Small Range)**
+
+**How to:**
+- Lie on NON-painful side
+- Lift top leg (painful side)
+- Small range — don't go too high
+- Slow and controlled
+- 3 sets of 10-15
+
+**Standing Hip Abduction**
+
+**How to:**
+- Stand holding support
+- Lift painful leg out to side
+- Keep pelvis level
+- Small range initially
+- 3 sets of 10-15
+
+**Single-Leg Bridge**
+
+**How to:**
+- Bridge position
+- Lift one leg, hold bridge on painful side
+- Start with short holds
+- Progress duration and reps
+
+**Clamshells (Gentle)**
+
+**How to:**
+- Side-lying, knees bent
+- Keep feet together
+- Open knees like a clamshell
+- Don't go to full range initially
+- 3 sets of 15
+
+### Phase 4: Functional Loading
+
+Progress to more challenging exercises.
+
+**Step-Ups**
+- Start with low step
+- Lead with painful leg
+- Progress height gradually
+
+**Single-Leg Stance**
+- Stand on painful leg
+- Hold 30 seconds
+- Progress to unstable surfaces
+
+**Walking Program**
+- Gradual increase in distance
+- Flat surfaces initially
+- Progress inclines
+
+## Stretches That May Help (If Not Aggravating)
+
+### Hip Flexor Stretch
+
+**How to:**
+- Kneeling lunge
+- Tuck pelvis, squeeze glute
+- 45-60 seconds each side
+
+Hip flexor tightness can affect gluteal function.
+
+### Gentle Glute Stretch
+
+**How to:**
+- Figure-4 position on back
+- Gentle pull
+- Don't push into pain
+- 30-45 seconds
+
+Only if it doesn't aggravate symptoms.
+
+## What to Avoid
+
+### Stretches That Compress
+
+- Standing IT band stretch
+- Pigeon pose
+- Foam rolling on the trochanter
+
+### Positions That Compress
+
+- Sitting with legs crossed
+- Lying on painful side
+- Standing with hip dropped to painful side
+
+### Progressing Too Fast
+
+- This is a tendon issue — tendons take time
+- Rush = relapse
+- Gradual loading is key
+
+## Timeline
+
+**Acute phase (Week 1-2):**
+- Reduce compression
+- Modify positions
+- Isometric exercises only
+
+**Early loading (Week 2-6):**
+- Continue isometrics
+- Add gentle isotonics
+- Gradual progression
+
+**Progressive loading (Week 6-12):**
+- Increase exercise difficulty
+- Build toward functional activities
+- Continue to avoid compression
+
+**Full recovery:**
+- Often 3-6 months for complete resolution
+- Some cases longer
+- Maintenance exercises important
+
+## Signs It's Working
+
+- Less pain with daily activities
+- Able to sleep on painful side (eventually)
+- Pain during exercises decreasing
+- Walking distance improving
+
+## When to Seek Help
+
+**See a professional if:**
+- No improvement after 4-6 weeks of conservative treatment
+- Severe pain
+- Pain at rest or at night (not positional)
+- You're unsure of the diagnosis
+- Previous failed treatments
+
+**Options:**
+- Physical therapy
+- Corticosteroid injection (temporary relief)
+- Shockwave therapy
+- Rarely: Surgery
+
+## The Bottom Line
+
+1. **Stop compression** — Sleep position, sitting posture
+2. **Start with isometrics** — Safe tendon loading
+3. **Progress gradually** — Tendons heal slowly
+4. **Avoid traditional stretches** — Many make it worse
+5. **Be patient** — 3-6 months for full recovery
+
+---
+
+*Foundational Rehab offers hip bursitis programs with progressive loading protocols.*
+    `
   }
 };
 
