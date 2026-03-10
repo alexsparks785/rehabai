@@ -4244,6 +4244,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Conditions',
     readTime: '6 min read'
+  },
+  {
+    slug: 'glute-exercises',
+    title: 'Glute Exercises: Build Stronger, More Powerful Hips',
+    excerpt: 'Hip thrusts, RDLs, and activation drills to build strong, functional glutes.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'forward-head-posture',
+    title: 'How to Fix Forward Head Posture: Tech Neck Solutions',
+    excerpt: 'Chin tucks, stretches, and lifestyle changes to fix tech neck.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-osteoporosis',
+    title: 'Exercises for Osteoporosis: Safe Strength Training for Bone Health',
+    excerpt: 'Build bone density safely with weight-bearing and resistance exercises.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'stretches-for-desk-workers',
+    title: 'Stretches for Desk Workers: Office Relief Routine',
+    excerpt: 'At-desk stretches and movement breaks to combat sitting all day.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Routines',
+    readTime: '5 min read'
   }
 ];
 

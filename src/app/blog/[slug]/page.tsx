@@ -134185,6 +134185,898 @@ Seek professional help if:
 
 *Foundational Rehab provides tennis elbow rehabilitation programs with progressive loading protocols.*
     `
+  },
+  'glute-exercises': {
+    title: 'Glute Exercises: Build Stronger, More Powerful Hips',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '7 min read',
+    content: `
+## Why Strong Glutes Matter
+
+Your glutes are the largest and most powerful muscles in your body:
+
+**Benefits of strong glutes:**
+- Reduce lower back pain
+- Prevent knee injuries
+- Improve athletic performance
+- Better posture
+- More powerful movement (running, jumping, lifting)
+
+**The problem:** Most people have weak, underactive glutes from too much sitting.
+
+## Glute Anatomy Basics
+
+Three muscles make up the glutes:
+
+### Gluteus Maximus
+- The big one—gives your butt its shape
+- Hip extension (standing up, climbing)
+- External rotation
+
+### Gluteus Medius
+- On the side of your hip
+- Hip abduction (leg out to side)
+- Stabilizes pelvis when standing on one leg
+
+### Gluteus Minimus
+- Under the medius
+- Assists with abduction and rotation
+- Pelvic stability
+
+Train ALL of them for complete glute development.
+
+## Glute Activation Exercises
+
+Do these before your workout to "wake up" the glutes:
+
+### Glute Bridges
+
+1. Lie on back, knees bent, feet flat
+2. Squeeze glutes, lift hips
+3. Hold 3 seconds at top
+4. Don't hyperextend lower back
+5. 15-20 reps
+
+### Clamshells
+
+1. Lie on side, knees bent 45°
+2. Keep feet together
+3. Lift top knee without rotating hips
+4. Hold 2 seconds at top
+5. 15-20 reps each side
+
+### Fire Hydrants
+
+1. On hands and knees
+2. Lift knee out to side
+3. Keep hips level
+4. 15 reps each side
+
+### Donkey Kicks
+
+1. On hands and knees
+2. Kick one leg back and up
+3. Keep knee bent
+4. Squeeze glute at top
+5. 15 reps each side
+
+## Building Glute Strength
+
+### Hip Thrust
+
+The best exercise for glute maximus:
+
+1. Upper back on bench, feet flat on floor
+2. Drive through heels, lift hips
+3. Squeeze glutes HARD at top
+4. Lower controlled
+5. 10-15 reps
+6. Add barbell for resistance
+
+### Romanian Deadlift (RDL)
+
+1. Hold weight in front of thighs
+2. Push hips back, lower weight along legs
+3. Feel stretch in hamstrings
+4. Squeeze glutes to return
+5. 10-12 reps
+
+### Bulgarian Split Squat
+
+1. Back foot on bench behind you
+2. Front foot forward
+3. Lower until back knee nears ground
+4. Drive through front heel
+5. 10 reps each leg
+
+### Step-Ups
+
+1. Use 12-18 inch box or bench
+2. Step up with one leg
+3. Don't push off back leg
+4. Lower slowly
+5. 10-12 reps each leg
+
+### Sumo Deadlift
+
+1. Wide stance, toes out
+2. Grip bar between legs
+3. Drive through heels, squeeze glutes at top
+4. 8-10 reps
+
+## Glute Medius Exercises
+
+Don't neglect the side glutes:
+
+### Side-Lying Hip Abduction
+
+1. Lie on side, legs straight
+2. Lift top leg toward ceiling
+3. Keep toe pointing forward (not up)
+4. 15-20 reps each side
+
+### Banded Lateral Walks
+
+1. Band around ankles or above knees
+2. Slight squat position
+3. Step sideways, keeping tension
+4. 10-15 steps each direction
+
+### Single Leg Stance
+
+1. Stand on one leg
+2. Keep pelvis level (don't let hip drop)
+3. Hold 30 seconds each side
+
+### Copenhagen Plank
+
+1. Side plank position
+2. Top leg on bench
+3. Lift bottom leg to meet top leg
+4. Hold 15-30 seconds each side
+5. Advanced move—great for hip stability
+
+## Sample Glute Workout
+
+**Activation (5 min):**
+- Glute bridges: 15 reps
+- Clamshells: 15 each side
+- Fire hydrants: 15 each side
+
+**Main Work (20 min):**
+- Hip thrust: 4 × 12
+- Romanian deadlift: 3 × 10
+- Bulgarian split squat: 3 × 10 each leg
+- Banded lateral walks: 3 × 15 each direction
+
+**Finisher:**
+- Single leg glute bridge: 2 × 10 each side
+
+**Frequency:** 2-3x per week
+
+## Mind-Muscle Connection
+
+Many people struggle to feel their glutes working:
+
+### Tips to feel glutes more:
+
+1. **Squeeze at the top** — Hold 2-3 seconds
+2. **Touch your glutes** — Physical cue helps
+3. **Slow the movement** — Especially the lowering
+4. **Do activation first** — Wake them up before main lifts
+5. **Reduce quad dominance** — Push through heels, not toes
+
+### If quads take over:
+
+- Push hips further back
+- Widen your stance
+- Turn toes out slightly
+- Focus on hip hinge movements (RDL, hip thrust)
+
+## Glute Training Mistakes
+
+### Not Training Heavy Enough
+
+Glutes respond to heavy loads. Bodyweight alone won't build much after the beginner stage.
+
+### Neglecting Hip Thrust
+
+Squats are great but hip thrusts target glutes more directly. Include both.
+
+### Forgetting Glute Medius
+
+Side glute exercises aren't just for rehab—they build stability and complete development.
+
+### Only Doing Compound Movements
+
+Add isolation exercises (hip thrust, kickbacks) for maximum glute work.
+
+### Not Squeezing
+
+Passive reps don't count. Actively squeeze your glutes on every rep.
+
+## The Bottom Line
+
+1. **Hip thrust is king** — Best glute exercise, period
+2. **Train the side glutes** — Medius matters for stability
+3. **Activate before lifting** — Wake up sleepy glutes
+4. **Squeeze every rep** — Mind-muscle connection
+5. **Progressive overload** — Increase weight over time
+
+---
+
+*Foundational Rehab builds powerful glutes that protect your back and improve performance.*
+    `
+  },
+  'forward-head-posture': {
+    title: 'How to Fix Forward Head Posture: Tech Neck Solutions',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: `
+## What Is Forward Head Posture?
+
+Forward head posture (FHP) is when your head sits in front of your shoulders instead of directly over them:
+
+**Also called:**
+- Tech neck
+- Text neck
+- Nerd neck
+
+**Symptoms:**
+- Neck pain and stiffness
+- Headaches (often at base of skull)
+- Upper back pain
+- Jaw pain (TMJ)
+- Shoulder tension
+
+**The math:** For every inch your head moves forward, it adds 10 lbs of stress on your neck muscles.
+
+## What Causes Forward Head Posture?
+
+Modern life pushes your head forward:
+
+- **Phone use** — Looking down constantly
+- **Computer work** — Screen too low, leaning forward
+- **Driving** — Craning to see
+- **Poor sleeping position** — Pillow too thick
+- **Weak neck muscles** — Can't support neutral position
+
+## Self-Assessment
+
+### Wall Test
+
+1. Stand with back against wall
+2. Heels, butt, shoulders touch wall
+3. Try to touch back of head to wall
+4. Don't tilt chin up—head should touch naturally
+
+**If your head doesn't touch** (or you have to strain): You have FHP
+
+### Side Photo
+
+- Have someone take a photo from the side
+- Your ear should be directly over your shoulder
+- If ear is forward of shoulder: FHP
+
+## Exercises for Forward Head Posture
+
+### Chin Tucks (Most Important)
+
+1. Sit or stand tall
+2. Pull chin straight back (make a double chin)
+3. Keep eyes level (don't tilt head)
+4. Hold 5 seconds
+5. 10-15 reps, multiple times daily
+
+Think: "Give yourself a double chin"
+
+### Chin Tucks Against Wall
+
+1. Stand with back against wall
+2. Pull chin back, trying to touch wall
+3. Don't tilt head up
+4. Hold 10 seconds
+5. 10 reps
+
+### Deep Neck Flexor Strengthening
+
+1. Lie on back without pillow
+2. Tuck chin gently (don't lift head)
+3. Hold 10 seconds
+4. 10 reps
+5. Progress to holding longer
+
+### Suboccipital Stretch
+
+1. Place fingers at base of skull
+2. Tuck chin
+3. Gently pull head forward and down
+4. Feel stretch at base of skull
+5. Hold 30 seconds
+
+### Neck Retraction with Rotation
+
+1. Do a chin tuck
+2. While holding the tuck, slowly turn head to one side
+3. Return to center
+4. Turn to other side
+5. 5 reps each side
+
+## Upper Back Exercises
+
+FHP often comes with rounded upper back. Fix both:
+
+### Thoracic Extension on Foam Roller
+
+1. Lie on foam roller horizontally across upper back
+2. Support head with hands
+3. Let upper back extend over roller
+4. Hold 30 seconds
+5. Move roller to different spots
+
+### Wall Angels
+
+1. Stand with back against wall
+2. Arms in goalpost position against wall
+3. Slide arms up and down
+4. Keep head, back, and arms in contact with wall
+5. 10-15 reps
+
+### Prone Y Raises
+
+1. Lie face down, arms overhead in Y shape
+2. Thumbs up
+3. Lift arms toward ceiling
+4. Squeeze shoulder blades
+5. 10-15 reps
+
+### Rows
+
+Any rowing exercise strengthens the upper back:
+- Band rows
+- Dumbbell rows
+- Cable rows
+- 15 reps, 3 sets
+
+## Stretches
+
+### Upper Trapezius Stretch
+
+1. Tilt ear toward shoulder
+2. Gently assist with hand
+3. Hold 30 seconds each side
+
+### Levator Scapulae Stretch
+
+1. Turn head 45° to one side
+2. Look down toward armpit
+3. Assist with hand on back of head
+4. Hold 30 seconds each side
+
+### Pec Stretch
+
+1. Stand in doorway
+2. Forearm on frame
+3. Step through until stretch in chest
+4. Hold 30 seconds each side
+
+## Daily Routine for FHP
+
+**Morning (5 min):**
+- Chin tucks: 10 reps
+- Wall angels: 10 reps
+- Upper trap stretch: 30 sec each
+
+**Throughout Day (every hour):**
+- Chin tucks: 5 reps
+- Posture reset: Pull head back, shoulders back
+- Take eyes off screen, look up
+
+**Evening (10 min):**
+- Chin tucks against wall: 10 reps
+- Deep neck flexor hold: 3 × 10 sec
+- Thoracic extension on roller: 2 min
+- All stretches: 30 sec each
+
+## Lifestyle Changes
+
+### Screen Setup
+
+- Monitor at eye level
+- Top of screen at eye height
+- 20-26 inches from face
+- Don't lean forward to see
+
+### Phone Use
+
+- Bring phone to eye level
+- Don't look down for extended periods
+- Limit phone time
+
+### Sleeping Position
+
+- Use thin pillow (or none)
+- Don't stack pillows
+- Sleep on back if possible
+- Side sleeping: pillow fills gap between head and shoulder only
+
+### Driving
+
+- Adjust seat so head touches headrest
+- Don't crane forward
+- Use mirrors to check posture
+
+## Timeline for Improvement
+
+With consistent effort:
+
+- **Week 1-2:** Increased awareness
+- **Week 3-4:** Easier to hold good position
+- **Week 6-8:** Noticeable improvement
+- **Week 8-12:** New posture feels natural
+- **Ongoing:** Maintenance to prevent return
+
+## The Bottom Line
+
+1. **Chin tucks are essential** — Do them constantly
+2. **Fix your screens** — Environment matters most
+3. **Strengthen the back** — Weak muscles can't hold posture
+4. **Stretch the front** — Chest and front neck are tight
+5. **Be patient** — Years of habits take months to fix
+
+---
+
+*Foundational Rehab corrects forward head posture with targeted exercises and lifestyle guidance.*
+    `
+  },
+  'exercises-for-osteoporosis': {
+    title: 'Exercises for Osteoporosis: Safe Strength Training for Bone Health',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## Exercise and Bone Health
+
+Bones respond to stress by getting stronger. Exercise is one of the best treatments for osteoporosis:
+
+**Benefits:**
+- Increases bone density
+- Improves balance (prevents falls)
+- Builds muscle strength
+- Improves posture
+- Reduces fracture risk
+
+**Key principle:** Bones need to be loaded to adapt. Too little stress = bone loss. Appropriate stress = bone building.
+
+## Types of Exercise for Bone Health
+
+### Weight-Bearing Exercise
+
+Activities where you support your body weight:
+- Walking
+- Hiking
+- Dancing
+- Stair climbing
+- Tennis
+
+### Resistance Training
+
+Using weights, bands, or body weight:
+- Most important for bone density
+- Directly loads bones
+- Builds muscle that supports bones
+
+### Balance Training
+
+Prevents falls (which cause fractures):
+- Single leg stance
+- Tai chi
+- Balance exercises
+
+## Safe Exercises for Osteoporosis
+
+### Lower Body
+
+**Squats (Bodyweight or Weighted):**
+1. Stand with feet shoulder-width
+2. Sit back and down
+3. Keep chest up
+4. Stand back up
+5. 10-15 reps
+
+**Lunges:**
+1. Step forward into lunge
+2. Lower back knee toward ground
+3. Push back to standing
+4. 10 reps each leg
+
+**Step-Ups:**
+1. Step onto 6-12 inch platform
+2. Stand fully on top
+3. Step down slowly
+4. 10-12 reps each leg
+
+**Heel Raises:**
+1. Stand holding support
+2. Rise up on toes
+3. Lower slowly
+4. 15-20 reps
+
+### Upper Body
+
+**Wall Push-Ups:**
+1. Hands on wall, arms straight
+2. Lean in, bend elbows
+3. Push back
+4. 10-15 reps
+5. Progress to incline, then floor
+
+**Rows:**
+1. Use band anchored at chest height
+2. Pull toward chest
+3. Squeeze shoulder blades
+4. 12-15 reps
+
+**Overhead Press:**
+1. Hold weights at shoulders
+2. Press straight up
+3. Lower controlled
+4. 10-12 reps
+
+**Bicep Curls:**
+1. Hold weights, arms at sides
+2. Curl toward shoulders
+3. Lower slowly
+4. 12-15 reps
+
+### Core (Safe Choices)
+
+**Bird Dog:**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep back flat
+4. Hold 5 seconds
+5. 10 reps each side
+
+**Modified Plank:**
+1. Forearms and knees on floor
+2. Keep body straight
+3. Hold 20-30 seconds
+4. Don't let hips sag
+
+**Standing March:**
+1. Stand tall, hold support if needed
+2. March in place, lifting knees
+3. 30-60 seconds
+4. Challenges balance and core
+
+### Balance Exercises
+
+**Single Leg Stand:**
+1. Hold support initially
+2. Lift one foot slightly
+3. Hold 10-30 seconds
+4. Progress to no support
+
+**Heel-to-Toe Walk:**
+1. Walk in straight line
+2. Place heel touching toes
+3. 10-20 steps
+
+**Weight Shifts:**
+1. Shift weight to one foot
+2. Hold 5 seconds
+3. Shift to other foot
+4. 10 reps each side
+
+## Exercises to AVOID
+
+### High Risk Movements
+
+- **Spinal flexion under load** — Crunches, sit-ups, toe touches
+- **Spinal rotation under load** — Russian twists with weight
+- **High-impact jumping** — Unless cleared by doctor
+- **Forward bending with weight** — Traditional deadlifts (modify with hip hinge)
+
+### Why Avoid Flexion?
+
+Osteoporotic vertebrae are most vulnerable to compression fractures during forward bending. Avoid:
+- Bending to pick things up (use squat instead)
+- Exercises that round the spine
+- Ab exercises that curl the spine
+
+## Sample Weekly Program
+
+**3x Per Week - Strength Training:**
+
+*Warm-Up (5 min):*
+- Walking or marching in place
+- Arm circles
+- Hip circles
+
+*Lower Body:*
+- Squats: 2 × 12
+- Lunges: 2 × 10 each leg
+- Step-ups: 2 × 10 each leg
+- Heel raises: 2 × 15
+
+*Upper Body:*
+- Wall/Incline push-ups: 2 × 10
+- Rows: 2 × 12
+- Overhead press: 2 × 10
+- Bicep curls: 2 × 12
+
+*Core:*
+- Bird dog: 2 × 10 each side
+- Modified plank: 2 × 20 sec
+
+*Balance:*
+- Single leg stand: 30 sec each leg
+- Heel-to-toe walk: 20 steps
+
+**Daily:**
+- Walking: 20-30 minutes
+- Balance practice: 5 minutes
+
+## Progression
+
+Start conservatively and progress gradually:
+
+1. **Master bodyweight first**
+2. **Add light weights** (2-5 lbs)
+3. **Increase gradually** (5-10% per week)
+4. **Never sacrifice form** for heavier weight
+
+## Safety Tips
+
+### Fall Prevention
+
+- Clear clutter from floors
+- Use nightlights
+- Wear supportive shoes
+- Install grab bars in bathroom
+- Be cautious on stairs
+
+### During Exercise
+
+- Always warm up
+- Use proper form
+- Hold onto support for balance exercises
+- Don't hold breath
+- Stop if you feel pain
+
+### Environmental
+
+- Good lighting
+- Non-slip surfaces
+- Sturdy furniture to hold
+- Proper footwear
+
+## The Bottom Line
+
+1. **Resistance training builds bone** — Most important exercise type
+2. **Avoid spinal flexion** — Protect vulnerable vertebrae
+3. **Balance training prevents falls** — Falls cause fractures
+4. **Progress gradually** — Start light, increase slowly
+5. **Consistency matters** — Regular exercise is key
+
+---
+
+*Foundational Rehab provides osteoporosis-safe exercise programs that build strength and protect bones.*
+    `
+  },
+  'stretches-for-desk-workers': {
+    title: 'Stretches for Desk Workers: Office Relief Routine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Routines',
+    readTime: '5 min read',
+    content: `
+## The Desk Work Problem
+
+Sitting at a desk all day creates predictable issues:
+
+**What gets tight:**
+- Hip flexors (constantly shortened)
+- Chest muscles (shoulders rounded forward)
+- Upper traps and neck (holding head up)
+- Lower back (compressed)
+
+**What gets weak:**
+- Glutes (not being used)
+- Core (slouching doesn't engage it)
+- Upper back (rounded posture)
+
+The solution: Regular movement breaks and targeted stretches.
+
+## At-Desk Stretches (Do Every Hour)
+
+### Seated Neck Stretch
+
+1. Sit tall
+2. Tilt right ear toward right shoulder
+3. Hold 15-20 seconds
+4. Switch sides
+5. Don't lift shoulder
+
+### Chin Tucks
+
+1. Pull chin straight back
+2. Make a double chin
+3. Hold 5 seconds
+4. 5-10 reps
+5. Fights forward head posture
+
+### Seated Chest Opener
+
+1. Clasp hands behind back
+2. Lift chest, squeeze shoulder blades
+3. Hold 15-20 seconds
+4. Breathe deeply
+
+### Seated Spinal Twist
+
+1. Sit sideways in chair or cross legs
+2. Place hand on outside of opposite knee
+3. Twist torso, look over shoulder
+4. Hold 20-30 seconds each side
+
+### Wrist Circles
+
+1. Extend arms
+2. Circle wrists 10 times each direction
+3. Prevents carpal tunnel symptoms
+
+### Shoulder Shrugs
+
+1. Raise shoulders toward ears
+2. Hold 5 seconds
+3. Drop and relax
+4. 5-10 reps
+5. Releases upper trap tension
+
+## Standing Breaks (Every 1-2 Hours)
+
+### Standing Hip Flexor Stretch
+
+1. Step one foot back
+2. Tuck tailbone under
+3. Feel stretch in front of back hip
+4. Hold 30 seconds each side
+
+### Doorway Chest Stretch
+
+1. Forearm on door frame
+2. Step through doorway
+3. Feel stretch across chest
+4. Hold 30 seconds each side
+
+### Standing Back Extension
+
+1. Place hands on lower back
+2. Lean backward gently
+3. Hold 5-10 seconds
+4. 5 reps
+5. Counteracts sitting posture
+
+### Wall Angels
+
+1. Stand with back against wall
+2. Arms in goalpost position
+3. Slide arms up and down
+4. Keep contact with wall
+5. 10 reps
+
+### Figure 4 Stretch (Standing)
+
+1. Cross ankle over opposite knee
+2. Sit back slightly
+3. Hold wall for balance
+4. Feel stretch in glute
+5. 30 seconds each side
+
+## 5-Minute Desk Break Routine
+
+Do this routine once or twice during your workday:
+
+**1. Neck Rolls (30 sec)**
+- Gentle circles, 5 each direction
+
+**2. Shoulder Rolls (30 sec)**
+- 10 forward, 10 backward
+
+**3. Chin Tucks (30 sec)**
+- 10 reps with 3-second holds
+
+**4. Seated Twist (1 min)**
+- 30 seconds each side
+
+**5. Standing Hip Flexor Stretch (1 min)**
+- 30 seconds each side
+
+**6. Doorway Chest Stretch (1 min)**
+- 30 seconds each side
+
+**7. Overhead Reach with Side Bend (30 sec)**
+- Reach up, bend gently each direction
+
+## Morning and Evening Routines
+
+### Morning (Before Work) - 5 min
+
+1. Cat-cow: 10 cycles
+2. Hip flexor stretch: 30 sec each
+3. Chest stretch: 30 sec
+4. Shoulder rolls: 20 reps
+5. Chin tucks: 10 reps
+
+### Evening (After Work) - 10 min
+
+1. Child's pose: 60 seconds
+2. Pigeon pose: 60 seconds each side
+3. Chest stretch on foam roller: 2 minutes
+4. Figure 4 stretch: 60 seconds each side
+5. Neck stretches: 30 seconds each direction
+6. Thoracic rotation: 30 seconds each side
+
+## Desk Ergonomics
+
+Stretching helps, but good setup prevents problems:
+
+### Monitor
+- Top of screen at eye level
+- 20-26 inches from face
+- No glare
+
+### Chair
+- Feet flat on floor
+- Knees at 90°
+- Back supported
+- Armrests supporting elbows
+
+### Keyboard/Mouse
+- Elbows at 90°
+- Wrists neutral
+- Close to body
+
+### General
+- Take breaks every 30-60 minutes
+- Consider standing desk
+- Move and change positions often
+
+## Quick Resets
+
+When you notice tension building:
+
+### Neck Reset
+- Chin tuck + hold 5 sec + neck rolls
+
+### Shoulder Reset
+- Shrug + hold 5 sec + roll back + drop
+
+### Back Reset
+- Stand + hands on lower back + lean back
+
+### Full Body Reset
+- Stand + reach overhead + big breath + drop arms
+
+## The Bottom Line
+
+1. **Move every hour** — Set a timer
+2. **Stretch what's tight** — Hip flexors, chest, neck
+3. **Strengthen what's weak** — Upper back, glutes, core
+4. **Fix your setup** — Ergonomics prevent problems
+5. **Consistency beats intensity** — Short frequent breaks work
+
+---
+
+*Foundational Rehab keeps desk workers moving with targeted stretch routines and movement breaks.*
+    `
   }
 };
 
