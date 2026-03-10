@@ -102377,6 +102377,947 @@ Hold each stretch 30-60 seconds.
 
 *Foundational Rehab offers runner-specific warm-up and recovery programs.*
     `
+  },
+  'how-to-crack-your-own-back-safely': {
+    title: 'How to Crack Your Own Back Safely: Self-Adjustment Techniques',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Self-Treatment',
+    readTime: '5 min read',
+    content: `
+## What Is That Cracking Sound?
+
+The "crack" or "pop" when you adjust your back is called cavitation. It's:
+- Gas bubbles releasing in the joint fluid
+- Usually harmless
+- Not bones grinding or breaking
+- Not necessarily a sign something was "out of place"
+
+The relief you feel is partly from:
+- Joint mobilization
+- Muscle relaxation
+- Endorphin release
+- Nervous system reset
+
+## Is It Safe to Crack Your Own Back?
+
+**Generally safe if:**
+- You use gentle techniques
+- You don't force anything
+- You don't have underlying conditions
+- You don't do it excessively
+
+**Avoid self-adjustment if you have:**
+- Osteoporosis
+- Inflammatory arthritis
+- Recent fractures or injuries
+- Spinal cord issues
+- Hypermobility disorders
+- Blood clotting disorders
+
+When in doubt, consult a healthcare provider.
+
+## Safe Self-Adjustment Techniques
+
+### Seated Spinal Twist
+
+**For mid and lower back:**
+
+**How to:**
+- Sit in a chair with feet flat
+- Place right hand on left knee
+- Place left hand behind you on the chair
+- Sit tall and twist gently to the left
+- Hold and breathe
+- You may hear/feel a pop
+- Repeat on other side
+
+**Tips:**
+- Don't force — let it happen naturally
+- Exhale as you twist
+- Keep hips facing forward
+
+### Supine Twist
+
+**For lower and mid back:**
+
+**How to:**
+- Lie on your back
+- Pull right knee toward chest
+- Guide knee across body to left side
+- Keep right shoulder down
+- Turn head to the right
+- Relax and breathe
+- Hold 20-30 seconds
+- Repeat on other side
+
+**Tips:**
+- Let gravity do the work
+- Don't force the knee to the floor
+- Breathe deeply
+
+### Knee-to-Chest Rock
+
+**For lower back:**
+
+**How to:**
+- Lie on your back
+- Pull both knees to chest
+- Gently rock side to side
+- Rock forward and back
+- Try small circles
+
+**Tips:**
+- Keep movements slow and controlled
+- Let momentum create gentle mobilization
+
+### Cat-Cow Mobility
+
+**For entire spine:**
+
+**How to:**
+- On hands and knees
+- Inhale: Arch back, look up (cow)
+- Exhale: Round back, tuck chin (cat)
+- Move slowly through full range
+- Focus on each spinal segment
+
+**Tips:**
+- Not a "cracking" technique but excellent for mobility
+- Often releases tension that makes cracking unnecessary
+
+### Standing Back Extension
+
+**For mid back:**
+
+**How to:**
+- Stand with hands on lower back
+- Fingers pointing down
+- Gently lean backward
+- Let upper back extend
+- Hold briefly, return
+
+**Tips:**
+- Don't overextend
+- Keep movement controlled
+- May produce gentle pop
+
+### Foam Roller Extension
+
+**For thoracic spine:**
+
+**How to:**
+- Foam roller under upper back
+- Support head with hands
+- Extend back over the roller
+- Roll to different segments
+- Pause and extend at each level
+
+**Tips:**
+- Stay above lower back (thoracic only)
+- Support neck throughout
+- Multiple pops are normal
+
+### Chair Back Stretch
+
+**For upper back:**
+
+**How to:**
+- Sit backwards in a chair
+- Hug the chair back
+- Arch backward over top of chair
+- Move to target different segments
+
+**Tips:**
+- Choose a chair with appropriate back height
+- Don't force — let extension happen naturally
+
+## Techniques to AVOID
+
+### The Bear Hug Twist
+
+Having someone hug you from behind and twist/lift:
+- Unpredictable force
+- Can injure ribs or spine
+- No control over what happens
+
+### Falling Onto Fists
+
+Lying on someone's fists and dropping weight:
+- Dangerous amount of force
+- Can fracture ribs
+- Very unpredictable
+
+### Aggressive Self-Twisting
+
+Forcing your spine to crack when it doesn't want to:
+- Can strain ligaments
+- May cause more problems
+- If it won't crack gently, leave it alone
+
+### Neck Self-Manipulation
+
+Cracking your own neck aggressively:
+- Higher risk than back
+- Vertebral artery concerns
+- Stick to gentle stretches for neck
+
+## If Your Back Won't Crack
+
+It's not necessary to achieve a crack. The goal is:
+- Improved mobility
+- Reduced tension
+- Better movement
+
+If it doesn't crack:
+- That's fine
+- Focus on mobility exercises instead
+- See a professional if something feels stuck
+
+## When to See a Professional
+
+Consider seeing a chiropractor, osteopath, or PT if:
+- Frequent need to crack (suggests underlying issue)
+- One area always feels stuck
+- Pain accompanies the stiffness
+- Self-techniques don't help
+- You have concerns about your spine
+
+## Better Long-Term Solutions
+
+Instead of relying on cracking:
+
+**Mobility work:**
+- Daily cat-cow stretches
+- Thoracic rotations
+- Thread the needle
+
+**Strengthening:**
+- Core exercises
+- Upper back strengthening
+- Glute work
+
+**Posture improvement:**
+- Less time in problematic positions
+- Regular movement breaks
+- Ergonomic setup
+
+**Movement:**
+- Regular exercise
+- Walking
+- Swimming
+
+## The Bottom Line
+
+1. **Usually safe** — Gentle self-adjustment techniques are generally fine
+2. **Don't force it** — If it doesn't crack easily, leave it alone
+3. **Avoid aggressive techniques** — No bear hugs or fist drops
+4. **Skip the neck** — Higher risk, stick to professional care
+5. **Address the root cause** — Mobility and strength beat frequent cracking
+
+---
+
+*Foundational Rehab offers spinal mobility programs to improve your back health long-term.*
+    `
+  },
+  'why-does-my-back-crack-so-much': {
+    title: 'Why Does My Back Crack So Much? Causes and Solutions',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Short Answer
+
+Frequent back cracking is usually caused by:
+- Stiffness and lack of mobility
+- Sitting too much
+- Muscle tension
+- Gas buildup in joints
+- Habit
+
+It's usually not dangerous, but frequent need to crack may signal underlying issues worth addressing.
+
+## What Causes the Cracking?
+
+### Synovial Fluid Release (Cavitation)
+
+Most back cracks are gas bubbles releasing in the synovial fluid:
+- Joints are surrounded by fluid
+- Stretching creates negative pressure
+- Gas bubbles collapse = pop sound
+- Harmless and common
+
+### Ligament/Tendon Movement
+
+Sometimes the sound is:
+- Tendons snapping over bones
+- Ligaments shifting position
+- Usually painless
+
+### Facet Joint Movement
+
+The small joints in your spine (facet joints):
+- Can get "stuck" in positions
+- Release with movement
+- Pop when restored to normal position
+
+## Why You Might Crack More Than Others
+
+### Stiffness from Sitting
+
+Prolonged sitting:
+- Reduces spinal movement
+- Creates areas of restricted mobility
+- Leads to buildup that wants to release
+
+**Solution:** Move more, sit less, take regular breaks.
+
+### Hypermobility
+
+Some people have naturally looser joints:
+- Joints move more freely
+- More opportunity for cavitation
+- May crack more easily
+
+**Solution:** Focus on stability and strength, not more stretching.
+
+### Muscle Tension
+
+Tight muscles pull on the spine:
+- Creates areas of restriction
+- When released, cracking occurs
+- Often from stress or posture
+
+**Solution:** Address muscle tension with stretching, massage, stress management.
+
+### Poor Posture
+
+Bad posture creates:
+- Uneven forces on the spine
+- Areas of compression and restriction
+- Joints that want to release
+
+**Solution:** Improve posture through exercise and ergonomics.
+
+### Habit
+
+The more you crack, the more you feel the need:
+- Cracking releases endorphins
+- Creates temporary relief
+- Brain learns to seek the sensation
+
+**Solution:** Break the habit, address underlying stiffness instead.
+
+## Is Frequent Cracking Bad?
+
+### Probably Not
+
+Research suggests:
+- No link to arthritis
+- No evidence of joint damage
+- Generally harmless
+
+### But Consider
+
+Frequent need to crack may indicate:
+- Underlying mobility problem
+- Muscle imbalances
+- Posture issues
+- Conditions worth addressing
+
+The cracking itself isn't the problem, but what's causing the need might be.
+
+## When to Be Concerned
+
+**See a healthcare provider if cracking is accompanied by:**
+- Pain
+- Swelling
+- Reduced range of motion
+- Numbness or tingling
+- Weakness
+- Grinding sensations (different from popping)
+
+These could indicate:
+- Arthritis
+- Disc problems
+- Joint dysfunction
+- Other conditions needing attention
+
+## How to Reduce the Need to Crack
+
+### Daily Mobility Routine
+
+**Morning (5 minutes):**
+- Cat-cow: 15 reps
+- Thoracic rotations: 10 each side
+- Hip circles: 10 each direction
+
+**Evening (5 minutes):**
+- Foam roller thoracic extension: 2 min
+- Thread the needle: 10 each side
+- Supine twist: 30 sec each side
+
+### Movement Throughout Day
+
+- Stand and move every 30-60 minutes
+- Change positions frequently
+- Walk more
+- Avoid prolonged sitting
+
+### Strengthen Your Core and Back
+
+Strong muscles support the spine:
+- Dead bugs: 3x10 each side
+- Bird dogs: 3x10 each side
+- Planks: 3x30 seconds
+- Rows: 3x12
+
+### Improve Your Posture
+
+Less postural stress = less cracking need:
+- Ergonomic workspace setup
+- Monitor at eye level
+- Regular posture checks
+- Core engagement when sitting
+
+### Manage Stress
+
+Stress causes muscle tension:
+- Deep breathing
+- Regular exercise
+- Adequate sleep
+- Stress management techniques
+
+## The Habit Loop
+
+If cracking has become a habit:
+
+### Recognize the Trigger
+- Sitting too long?
+- Stress?
+- Boredom?
+- Discomfort?
+
+### Replace the Behavior
+Instead of cracking, try:
+- Standing and stretching
+- Walking
+- Mobility exercises
+- Deep breathing
+
+### Address the Root Cause
+- If it's stiffness: mobility work
+- If it's tension: relaxation techniques
+- If it's posture: ergonomic changes
+
+## The Bottom Line
+
+1. **Usually harmless** — Cracking itself isn't damaging your spine
+2. **But consider why** — Frequent need may indicate underlying issues
+3. **Mobility is key** — Regular movement reduces the buildup
+4. **Strengthen** — Strong muscles support a healthy spine
+5. **Break the habit** — Replace cracking with better alternatives
+6. **See someone if concerned** — Pain or other symptoms warrant evaluation
+
+---
+
+*Foundational Rehab offers spinal mobility programs to reduce stiffness and improve back health.*
+    `
+  },
+  'exercises-to-do-every-day': {
+    title: 'Exercises to Do Every Day: The Essential Daily Movement Routine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Routine',
+    readTime: '6 min read',
+    content: `
+## Why Daily Movement Matters
+
+The human body is designed to move daily. Even if you exercise regularly, daily movement habits:
+- Counteract prolonged sitting
+- Maintain joint mobility
+- Prevent stiffness and pain
+- Support overall health
+- Require no equipment or gym
+
+## The Non-Negotiable 5 (5 Minutes)
+
+If you do nothing else, do these five exercises every single day:
+
+### 1. Cat-Cow (1 Minute)
+
+**Why:** Mobilizes your entire spine, counteracts sitting.
+
+**How:**
+- On hands and knees
+- Inhale: Arch back, look up (cow)
+- Exhale: Round back, tuck chin (cat)
+- Move slowly, feel each vertebra
+- 10-15 cycles
+
+### 2. Hip Flexor Stretch (1 Minute)
+
+**Why:** Sitting shortens hip flexors; this reverses it.
+
+**How:**
+- Kneeling lunge, back knee down
+- Tuck pelvis, squeeze back glute
+- Lean forward slightly
+- 30 seconds each side
+
+### 3. Dead Bug (1 Minute)
+
+**Why:** Core stability without spine stress.
+
+**How:**
+- On back, arms up, knees at 90°
+- Press lower back into floor
+- Extend opposite arm and leg
+- Return, switch sides
+- 10 each side
+
+### 4. Glute Bridges (1 Minute)
+
+**Why:** Activates glutes that sit dormant from sitting.
+
+**How:**
+- On back, feet flat, knees bent
+- Squeeze glutes, lift hips
+- Hold top 2-3 seconds
+- Lower with control
+- 15-20 reps
+
+### 5. Thoracic Rotation (1 Minute)
+
+**Why:** Upper back mobility for posture and shoulders.
+
+**How:**
+- Side-lying, knees bent 90°
+- Top arm across body
+- Rotate and open chest
+- Follow hand with eyes
+- 10 each side
+
+## The Essential 10 (10 Minutes)
+
+Add these five for a more complete routine:
+
+### 6. Chin Tucks (30 Seconds)
+
+**Why:** Counters forward head posture.
+
+**How:**
+- Pull chin straight back
+- Hold 5 seconds
+- 10 reps
+
+### 7. Shoulder Circles (30 Seconds)
+
+**Why:** Keeps shoulder joints mobile.
+
+**How:**
+- Large circles forward: 10 reps
+- Large circles backward: 10 reps
+- Full range of motion
+
+### 8. Bodyweight Squats (1 Minute)
+
+**Why:** Functional leg strength and hip mobility.
+
+**How:**
+- Feet shoulder-width
+- Squat as deep as comfortable
+- Stand fully
+- 15-20 reps
+
+### 9. World's Greatest Stretch (1 Minute)
+
+**Why:** Hits hips, thoracic spine, and hamstrings in one move.
+
+**How:**
+- Forward lunge
+- Same-side elbow to floor (inside foot)
+- Rotate and reach up
+- 5 each side
+
+### 10. Standing Balance (1 Minute)
+
+**Why:** Balance declines with age if not practiced.
+
+**How:**
+- Stand on one leg
+- 30 seconds each side
+- Close eyes to progress
+
+## The Complete 15 (15 Minutes)
+
+Add these five for comprehensive daily movement:
+
+### 11. Calf Raises (1 Minute)
+
+**Why:** Calf strength and ankle mobility.
+
+**How:**
+- Rise onto balls of feet
+- Lower slowly
+- 20 reps
+
+### 12. Wall Push-Ups or Push-Ups (1 Minute)
+
+**Why:** Upper body strength maintenance.
+
+**How:**
+- Standard or wall push-ups
+- 10-20 reps
+
+### 13. Bird Dog (1 Minute)
+
+**Why:** Core and back stability.
+
+**How:**
+- On hands and knees
+- Extend opposite arm and leg
+- Hold 3 seconds
+- 10 each side
+
+### 14. Neck Stretches (1 Minute)
+
+**Why:** Relieves tension from screen time.
+
+**How:**
+- Tilt ear to shoulder: 15 sec each
+- Rotation: 15 sec each
+
+### 15. Deep Breathing (1 Minute)
+
+**Why:** Activates parasympathetic nervous system, reduces tension.
+
+**How:**
+- Inhale 4 seconds
+- Hold 4 seconds
+- Exhale 6 seconds
+- 5-6 cycles
+
+## When to Do Your Daily Routine
+
+### Morning (Recommended)
+
+**Benefits:**
+- Starts day with movement
+- Counters sleep stiffness
+- Sets positive tone
+- Easier to make consistent
+
+### Evening
+
+**Benefits:**
+- Unwinds from the day
+- Releases accumulated tension
+- Prepares for sleep
+- Can be longer/slower
+
+### Split (Ideal)
+
+**Morning:** 5-minute routine
+**Evening:** 5-10 minute routine
+**Throughout day:** Movement breaks
+
+## Making It Stick
+
+### Same Time, Same Place
+
+- Attach to existing habit (after coffee, before shower)
+- Same location reduces friction
+- Consistency builds automaticity
+
+### Start Small
+
+- Begin with 5 minutes
+- Build to 10-15 over weeks
+- Something beats nothing
+
+### Don't Negotiate
+
+- Daily means daily
+- Even on busy days, do the 5-minute version
+- Maintain the habit streak
+
+### Track It
+
+- Check off each day
+- Visual reminder of consistency
+- Builds momentum
+
+## Modifications
+
+### If You're Very Stiff
+
+- Smaller range of motion
+- More reps, gentler
+- Focus on breathing
+- Progress gradually
+
+### If You're Pressed for Time
+
+- 5-minute version only
+- Standing movements at desk
+- Movement breaks instead
+
+### If You Have Pain
+
+- Skip or modify painful movements
+- Consult a professional if needed
+- Movement should feel good
+
+### If You're Already Active
+
+- This is in addition to workouts
+- Focus on mobility, not intensity
+- Recovery and maintenance purpose
+
+## The Bottom Line
+
+1. **5 minutes minimum** — The essential five, every day
+2. **10-15 minutes ideal** — More comprehensive coverage
+3. **Morning recommended** — Best for consistency
+4. **Same time daily** — Build the habit
+5. **Never skip** — Maintain the streak, even abbreviated
+
+---
+
+*Foundational Rehab offers daily movement programs with progressions and tracking.*
+    `
+  },
+  'should-i-stretch-or-strengthen': {
+    title: 'Should I Stretch or Strengthen? Making the Right Choice',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Short Answer
+
+**It depends on your situation:**
+- Tight AND weak → Usually strengthen first
+- Actually shortened muscle → Stretch
+- Nerve tension mimicking tightness → Neural work, not stretching
+- Weakness causing "tightness" → Strengthen, don't stretch
+
+Most people default to stretching when they should be strengthening. Let's figure out which you need.
+
+## Why This Matters
+
+Stretching muscles that need strengthening:
+- Can make problems worse
+- Doesn't address the root cause
+- Wastes time and effort
+- May increase injury risk
+
+Strengthening muscles that need stretching:
+- Less problematic but less efficient
+- Eventually helps but slower progress
+
+Getting it right accelerates results.
+
+## How to Tell What You Need
+
+### True Muscle Shortness (Stretch It)
+
+**Signs:**
+- Limited passive range of motion
+- Position-dependent (e.g., hip flexors short from sitting)
+- Feels "stuck" at end range
+- Stretching provides lasting relief
+
+**Common examples:**
+- Hip flexors after prolonged sitting
+- Pecs in rounded-shoulder posture
+- Calves from wearing heels
+
+**Solution:** Stretch it (30-60 second holds, daily).
+
+### Weakness Presenting as Tightness (Strengthen It)
+
+**Signs:**
+- Muscle feels tight but has normal range
+- Gets "tight" during activity
+- Stretching helps temporarily but tightness returns quickly
+- Muscle is weak when tested
+
+**Common examples:**
+- Hamstrings that feel tight but you can touch your toes
+- Upper back "tightness" (actually weak, not short)
+- Hip flexors tight from being overworked (weak core)
+
+**Solution:** Strengthen it. The tightness is the muscle working overtime because it's weak.
+
+### Neural Tension (Neither - Nerve Work)
+
+**Signs:**
+- Stretching makes it worse or refers symptoms
+- Numbness, tingling, or burning
+- Follows nerve pathway (e.g., down back of leg)
+- Changes with neck or back position
+
+**Common examples:**
+- "Tight hamstrings" that are actually sciatic nerve tension
+- Arm tightness that's thoracic outlet or nerve involvement
+
+**Solution:** Nerve glides, address root cause (often posture or thoracic mobility).
+
+### Both Tight AND Weak (Strengthen in Lengthened Position)
+
+**Signs:**
+- Limited range AND weak
+- Common in sedentary people
+
+**Solution:** Strengthen the muscle in its lengthened position. You get both effects.
+
+## Body Part Guide
+
+### Hamstrings
+
+**Usually need:** Strengthening (unless genuinely can't touch toes)
+
+**Why:** Most "tight hamstrings" are actually neural tension or weak hamstrings working overtime.
+
+**Test:** Can you touch your toes when you round your back? If yes, hamstrings aren't short.
+
+**Solution:**
+- Romanian deadlifts
+- Nordic curls
+- Good mornings
+- (Plus nerve glides if neural)
+
+### Hip Flexors
+
+**Usually need:** Stretching AND strengthening
+
+**Why:** Sitting shortens them, but they're also often weak.
+
+**Solution:**
+- Stretch: Kneeling hip flexor stretch
+- Strengthen: Hanging leg raises, psoas marches
+
+### Upper Back
+
+**Usually need:** Strengthening
+
+**Why:** Feels "tight" but actually weak from poor posture. Stretching forward more makes it worse.
+
+**Solution:**
+- Rows
+- Face pulls
+- Prone Y-T-W raises
+- Thoracic extension (not forward stretching)
+
+### Chest (Pecs)
+
+**Usually need:** Stretching (plus upper back strengthening)
+
+**Why:** Actually shortened from desk posture.
+
+**Solution:**
+- Doorway stretch
+- Foam roller chest opening
+- PLUS upper back strengthening
+
+### Neck (Upper Traps)
+
+**Usually need:** Strengthening (surprising to most)
+
+**Why:** Feels tight because they're working overtime. Stretching provides temporary relief but weakness persists.
+
+**Solution:**
+- Shrugs
+- Farmer carries
+- Scapular strength work
+- (Plus short-term stretching for relief)
+
+### Calves
+
+**Usually need:** Stretching AND strengthening
+
+**Why:** Often actually short from footwear, but also often weak.
+
+**Solution:**
+- Stretch: Wall calf stretch, both bent and straight knee
+- Strengthen: Calf raises (full range)
+
+### Glutes
+
+**Usually need:** Strengthening
+
+**Why:** Almost always weak from sitting, rarely truly short.
+
+**Solution:**
+- Bridges
+- Hip thrusts
+- Squats
+- Lunges
+
+### IT Band
+
+**Can't stretch:** It's connective tissue, not muscle.
+
+**What to do:** Strengthen hip abductors (glute med), release tensor fasciae latae (TFL).
+
+## The "Feeling Tight" Trap
+
+"Tight" is a sensation, not always a physical state.
+
+**Muscles can feel tight when:**
+- They're weak and overworked
+- Nerves are irritated
+- You're stressed
+- They're protecting an injury
+- They're actually short (least common)
+
+Don't assume tight = needs stretching.
+
+## Making Your Decision
+
+### Quick Assessment
+
+1. **Check range of motion** — Is it actually limited?
+2. **Test strength** — Is the muscle weak?
+3. **Consider neural** — Any nerve symptoms?
+4. **Think about cause** — Prolonged position or overwork?
+
+### General Rules
+
+- **If limited ROM + weak:** Strengthen in lengthened positions
+- **If normal ROM + feels tight:** Strengthen
+- **If limited ROM + strong:** Stretch
+- **If nerve symptoms:** Address neural component
+
+### When in Doubt
+
+- Start with strengthening (safer, more broadly helpful)
+- Add stretching if needed
+- Seek professional assessment for persistent issues
+
+## Both Together: The Best Approach
+
+For most people, the answer is actually both — but strategically:
+
+1. **Stretch what's short** (usually hip flexors, chest, calves)
+2. **Strengthen what's weak** (usually glutes, upper back, core)
+3. **Don't stretch what feels tight but isn't short**
+
+## The Bottom Line
+
+1. **"Tight" doesn't always mean stretch** — Often means weak
+2. **Test before deciding** — ROM testing, strength testing
+3. **Consider neural** — Nerve tension mimics tightness
+4. **Strengthen more than you think** — Most people underdo this
+5. **Be strategic** — Right tool for the right problem
+
+---
+
+*Foundational Rehab offers assessments to determine whether you need stretching, strengthening, or both.*
+    `
   }
 };
 
