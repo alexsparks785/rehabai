@@ -128634,6 +128634,1086 @@ After delivery (with provider clearance):
 
 *Foundational Rehab offers prenatal exercise guidance. Always consult your healthcare provider for personalized advice during pregnancy.*
     `
+  },
+  'how-to-do-a-push-up': {
+    title: 'How to Do a Push-Up Correctly: Form Guide for All Levels',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '6 min read',
+    content: `
+## Why Push-Ups Matter
+
+The push-up is one of the most effective bodyweight exercises. It builds:
+
+- Chest strength
+- Shoulder stability
+- Tricep strength
+- Core stability
+- Functional pushing power
+
+No equipment needed, can be done anywhere, and easily modified for any fitness level.
+
+## The Standard Push-Up
+
+### Starting Position
+
+1. Hands slightly wider than shoulder-width
+2. Fingers spread, pointing forward or slightly out
+3. Arms straight, shoulders over wrists
+4. Body in straight line from head to heels
+5. Feet together or hip-width apart
+6. Core engaged, glutes squeezed
+
+### The Movement
+
+**Going Down:**
+1. Bend elbows, lowering chest toward floor
+2. Keep elbows at 45° angle (not flared out)
+3. Lower until chest nearly touches floor
+4. Maintain straight body line throughout
+
+**Coming Up:**
+1. Push through palms
+2. Extend arms fully
+3. Don't let hips sag or pike up
+4. Return to starting position
+
+## Common Push-Up Mistakes
+
+### 1. Elbows Flared Out (90°)
+
+**Problem:** Stresses shoulders, reduces chest engagement.
+**Fix:** Keep elbows at 45° angle to body, like an arrow shape from above.
+
+### 2. Hips Sagging
+
+**Problem:** Strains lower back, reduces core engagement.
+**Fix:** Squeeze glutes, engage core, think "plank with movement."
+
+### 3. Hips Piking Up
+
+**Problem:** Makes push-up easier but less effective.
+**Fix:** Lower hips until body is straight, engage core.
+
+### 4. Incomplete Range of Motion
+
+**Problem:** Reduces effectiveness and strength gains.
+**Fix:** Lower until chest nearly touches floor, full arm extension at top.
+
+### 5. Head Dropping or Lifting
+
+**Problem:** Strains neck, breaks body alignment.
+**Fix:** Keep neck neutral, look slightly ahead of hands.
+
+### 6. Hands Too Far Forward
+
+**Problem:** Reduces leverage, stresses shoulders.
+**Fix:** Hands under or slightly behind shoulders.
+
+## Push-Up Progressions
+
+### Level 1: Wall Push-Up
+
+**Form:**
+1. Hands on wall at chest height
+2. Step feet back 2-3 feet
+3. Lower chest toward wall
+4. Push back to start
+
+**Best for:** Absolute beginners, those recovering from injury.
+
+### Level 2: Incline Push-Up
+
+**Form:**
+1. Hands on elevated surface (counter, bench, stairs)
+2. Body in straight line
+3. Lower chest to surface
+4. Push back up
+
+**Progression:** Lower the surface height as you get stronger.
+
+### Level 3: Knee Push-Up
+
+**Form:**
+1. Hands on floor, slightly wider than shoulders
+2. Knees on floor (not hips)
+3. Body straight from knees to head
+4. Lower chest to floor
+5. Push back up
+
+**Key:** Keep body straight—don't bend at hips.
+
+### Level 4: Negative Push-Up
+
+**Form:**
+1. Start at top of push-up position
+2. Lower slowly (3-5 seconds)
+3. At bottom, drop to knees
+4. Reset at top
+5. Repeat
+
+**Why:** Builds strength for full push-up.
+
+### Level 5: Full Push-Up
+
+**Form:** Standard push-up as described above.
+
+### Level 6: Advanced Variations
+
+**Decline push-up:** Feet elevated
+**Diamond push-up:** Hands close together
+**Archer push-up:** Wide grip, shift side to side
+**One-arm push-up:** Ultimate progression
+
+## Push-Up Variations
+
+### Close-Grip (Diamond) Push-Up
+
+**Target:** Triceps emphasis
+**Form:** Hands together, thumbs and index fingers form diamond
+**Difficulty:** Harder than standard
+
+### Wide Push-Up
+
+**Target:** Chest emphasis
+**Form:** Hands wider than shoulder-width
+**Difficulty:** Slightly easier
+
+### Staggered Push-Up
+
+**Target:** Unilateral strength
+**Form:** One hand forward, one back
+**Alternate sides each set
+
+### Pike Push-Up
+
+**Target:** Shoulders
+**Form:** Hips high (inverted V), lower head toward floor
+**Progression:** Toward handstand push-up
+
+### Decline Push-Up
+
+**Target:** Upper chest, more challenging
+**Form:** Feet elevated on bench or step
+**Difficulty:** Harder than standard
+
+### Spiderman Push-Up
+
+**Target:** Obliques, hip mobility
+**Form:** As you lower, bring knee to elbow
+**Alternate sides
+
+### Plyometric (Clap) Push-Up
+
+**Target:** Power
+**Form:** Push explosively, clap at top
+**Advanced:** Master standard push-up first
+
+## Building to Your First Push-Up
+
+### 4-Week Program
+
+**Week 1:**
+- Wall push-ups: 3x15, daily
+
+**Week 2:**
+- Incline push-ups (counter height): 3x12, daily
+
+**Week 3:**
+- Incline push-ups (lower surface): 3x12
+- Negative push-ups: 3x5
+
+**Week 4:**
+- Knee push-ups: 3x10
+- Negative push-ups: 3x5
+- Test full push-ups
+
+### Tips for Progress
+
+1. Practice daily (push-ups recover quickly)
+2. Focus on form over reps
+3. Use negatives to build strength
+4. Progress surfaces gradually
+5. Be patient—it takes time
+
+## Push-Up Workouts
+
+### Beginner Workout
+
+1. Incline push-ups: 3x10-12
+2. Knee push-ups: 2x8-10
+3. Plank hold: 3x20 sec
+
+### Intermediate Workout
+
+1. Standard push-ups: 3x10-15
+2. Close-grip push-ups: 3x8-10
+3. Wide push-ups: 2x12
+4. Plank: 3x30 sec
+
+### Advanced Workout
+
+1. Decline push-ups: 3x12
+2. Diamond push-ups: 3x10
+3. Archer push-ups: 3x6 each side
+4. Plyometric push-ups: 3x8
+5. Pike push-ups: 3x10
+
+### Push-Up Challenge
+
+**Ladder workout:**
+1 push-up, rest
+2 push-ups, rest
+3 push-ups, rest
+... continue until failure
+Then work back down
+
+## Common Questions
+
+### How Many Push-Ups Should I Do?
+
+**Beginners:** Work up to 3x10-15
+**Intermediate:** 3x15-25 or add difficulty
+**Advanced:** Focus on harder variations, not just more reps
+
+### How Often?
+
+Push-ups can be done daily for moderate volume, or 3-4x weekly for higher volume.
+
+### Why Can't I Do a Push-Up?
+
+Common reasons:
+- Upper body strength not developed yet (use progressions)
+- Core weakness (add planks)
+- Excess body weight (start with wall/incline)
+- Poor technique (review form)
+
+### Wrist Pain During Push-Ups?
+
+**Solutions:**
+- Use push-up handles or dumbbells
+- Make fists instead of flat hands
+- Stretch wrists before and after
+- Check hand position (may be too far forward)
+
+## The Bottom Line
+
+1. **Start where you are** — Use progressions
+2. **Elbows at 45°** — Not flared out
+3. **Body stays straight** — Plank position throughout
+4. **Full range of motion** — Chest to floor, full extension
+5. **Progress gradually** — Form before reps
+
+---
+
+*Foundational Rehab includes push-up progressions in upper body programs for building real-world pressing strength.*
+    `
+  },
+  'exercises-for-bunions': {
+    title: 'Exercises for Bunions: Foot Care and Pain Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '6 min read',
+    content: `
+## Understanding Bunions
+
+A bunion (hallux valgus) is a bony bump at the base of the big toe where it meets the foot. The big toe angles toward the other toes, and the joint protrudes outward.
+
+**Symptoms:**
+- Visible bump on side of foot
+- Pain and tenderness at the joint
+- Swelling and redness
+- Decreased big toe movement
+- Corns or calluses where toes overlap
+- Difficulty finding comfortable shoes
+
+**Causes:**
+- Genetics (foot structure)
+- Tight, narrow shoes (especially high heels)
+- Inflammatory conditions (rheumatoid arthritis)
+- Foot mechanics (overpronation)
+
+## Can Exercises Fix Bunions?
+
+**The honest truth:** Exercises cannot reverse a bunion or make the bone deformity disappear. Only surgery can do that.
+
+**What exercises CAN do:**
+- Slow progression
+- Reduce pain
+- Maintain mobility
+- Strengthen supporting muscles
+- Improve foot function
+- Delay or prevent need for surgery
+
+## Mobility Exercises
+
+### Big Toe Stretches
+
+**Toe Pull:**
+1. Sit comfortably
+2. Grasp big toe with fingers
+3. Gently pull toe into proper alignment
+4. Hold 15-30 seconds
+5. Repeat 3-5 times
+
+**Toe Circles:**
+1. Hold big toe
+2. Gently rotate in circles
+3. 10 circles each direction
+4. Daily
+
+### Toe Spacer Stretches
+
+**With toe spacers or fingers:**
+1. Place spacers between toes
+2. Sit for 5-10 minutes
+3. Gradually increase time
+4. Can also sleep with spacers
+
+### Bunion Stretch (Joint Mobilization)
+
+**Form:**
+1. Hold the foot steady with one hand
+2. Gently move big toe away from other toes
+3. Hold 30 seconds
+4. Repeat 5 times
+
+## Strengthening Exercises
+
+### Toe Spreads (Toe Yoga)
+
+**Form:**
+1. Sit with feet flat on floor
+2. Spread all toes apart as wide as possible
+3. Hold 5 seconds
+4. Relax
+5. Repeat 10-15 times
+
+**Progression:** Lift toes while spreading.
+
+### Big Toe Press Down
+
+**Form:**
+1. Place small ball or rolled towel under big toe
+2. Press big toe down into object
+3. Hold 5 seconds
+4. Release
+5. Repeat 15-20 times each foot
+
+### Towel Scrunches
+
+**Form:**
+1. Place towel flat on floor
+2. Sit with foot on towel
+3. Scrunch towel toward you using toes
+4. Spread it back out
+5. Repeat 15-20 times each foot
+
+### Marble Pickups
+
+**Form:**
+1. Place marbles on floor
+2. Pick up each marble with toes
+3. Place in container
+4. 15-20 marbles per foot
+
+### Short Foot Exercise (Foot Doming)
+
+**Form:**
+1. Sit or stand with foot flat
+2. Try to shorten your foot by lifting the arch
+3. Imagine pulling ball of foot toward heel
+4. Don't curl toes
+5. Hold 5 seconds
+6. Repeat 15-20 times
+
+### Single-Leg Balance
+
+**Form:**
+1. Stand on affected foot
+2. Focus on distributing weight evenly
+3. Press through big toe
+4. Hold 30-60 seconds
+5. Progress to unstable surface
+
+## Resistance Band Exercises
+
+### Big Toe Abduction
+
+**Form:**
+1. Sit with legs extended
+2. Loop band around both big toes
+3. Move big toes away from each other
+4. Hold 5 seconds
+5. Repeat 15-20 times
+
+### Toe Flexion with Band
+
+**Form:**
+1. Loop band around big toe
+2. Hold band ends with hands
+3. Push big toe down against resistance
+4. 15-20 reps each foot
+
+## Self-Massage and Release
+
+### Ball Rolling
+
+**Form:**
+1. Sit or stand
+2. Roll golf ball or massage ball under foot
+3. Apply moderate pressure
+4. Focus on arch and ball of foot
+5. 2-3 minutes per foot
+
+### Big Toe Joint Massage
+
+**Form:**
+1. Apply lotion or oil
+2. Massage around bunion joint gently
+3. Use circular motions
+4. 1-2 minutes per foot
+
+### Calf Massage
+
+Tight calves can affect foot mechanics.
+
+**Form:**
+1. Use foam roller or hands
+2. Massage calf muscles
+3. 2-3 minutes per leg
+
+## Daily Bunion Care Routine
+
+### Morning (3-5 Minutes)
+
+1. Toe spacer stretch: 2 minutes (or while getting ready)
+2. Toe spreads: 10 reps
+3. Big toe mobilization: 5 reps
+
+### Throughout Day
+
+- Wear wide toe box shoes
+- Go barefoot when possible (on safe surfaces)
+- Avoid high heels
+- Use toe spacers periodically
+
+### Evening (5-10 Minutes)
+
+1. Ball rolling: 2 min per foot
+2. Big toe stretches: 3x30 sec each
+3. Towel scrunches: 15 reps each
+4. Short foot exercise: 15 reps each
+5. Calf stretches: 30 sec each
+6. Toe spacers: 10-15 minutes (while relaxing)
+
+## Footwear Recommendations
+
+### What to Look For
+
+- Wide toe box (room for toes to spread)
+- Low heel (under 2 inches, flatter is better)
+- Arch support
+- Flexible but supportive sole
+- Soft materials over bunion area
+
+### What to Avoid
+
+- Pointed toes
+- High heels
+- Narrow shoes
+- Stiff materials that press on bunion
+
+### Helpful Products
+
+- Toe spacers or separators
+- Bunion pads (reduce friction)
+- Wide toe box shoes
+- Custom orthotics (for foot mechanics)
+
+## When to See a Doctor
+
+**Seek professional help if:**
+- Pain interferes with daily activities
+- Can't find comfortable shoes
+- Bunion is rapidly worsening
+- Numbness or tingling develops
+- Signs of infection
+- Conservative treatment isn't helping
+
+**Treatment options:**
+- Custom orthotics
+- Cortisone injections
+- Bunionectomy (surgery)
+
+## Prevention Tips
+
+**Slow progression:**
+- Wear proper shoes daily
+- Maintain foot strength
+- Use toe spacers regularly
+- Don't ignore early symptoms
+- Maintain healthy weight
+
+## The Bottom Line
+
+1. **Exercises help but don't cure** — Manage, don't fix
+2. **Daily consistency matters** — Brief daily work is best
+3. **Footwear is crucial** — Wide toe box, low heel
+4. **Toe spacers help** — Use regularly
+5. **Know when to seek help** — Surgery may be needed for severe cases
+
+---
+
+*Foundational Rehab provides foot care programs for bunion management and overall foot health.*
+    `
+  },
+  'resistance-band-exercises': {
+    title: 'Resistance Band Exercises: Complete Home Workout Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Why Resistance Bands?
+
+Resistance bands are one of the most versatile and effective training tools:
+
+- **Portable:** Take anywhere
+- **Affordable:** Much cheaper than weights
+- **Joint-friendly:** Variable resistance is easier on joints
+- **Versatile:** Hundreds of exercises possible
+- **Progressive:** Multiple resistance levels
+- **Effective:** Research shows they build muscle and strength
+
+## Types of Resistance Bands
+
+### Loop Bands (Mini Bands)
+
+- Small, flat loops
+- Best for: Glute work, lateral movements, warm-up
+- Common uses: Clamshells, monster walks, glute bridges
+
+### Long Loop Bands (Pull-Up Bands)
+
+- Large loops, various thicknesses
+- Best for: Assisted pull-ups, heavy resistance exercises
+- Can be anchored to door or pole
+
+### Tube Bands with Handles
+
+- Tubes with handles attached
+- Best for: Mimicking cable machine exercises
+- Often come in sets with door anchor
+
+### Therapy Bands (Flat Bands)
+
+- Flat, no handles
+- Best for: Rehab, physical therapy exercises
+- Can tie into loops or use as is
+
+## Upper Body Exercises
+
+### Chest
+
+**Band Push-Up:**
+1. Band across back, under hands
+2. Perform push-up with added resistance
+3. 3x10-15
+
+**Band Chest Press:**
+1. Anchor band behind you
+2. Press forward, squeezing chest
+3. 3x12-15
+
+**Band Flyes:**
+1. Anchor band behind
+2. Arms out to sides, slight elbow bend
+3. Bring hands together in front
+4. 3x12-15
+
+### Back
+
+**Band Rows:**
+1. Anchor band at waist height or loop around feet
+2. Pull toward body, squeezing shoulder blades
+3. 3x12-15
+
+**Band Lat Pulldown:**
+1. Anchor band above head
+2. Pull down to chest, elbows to sides
+3. 3x12-15
+
+**Band Face Pulls:**
+1. Anchor at face height
+2. Pull toward face, separating hands
+3. External rotate at end
+4. 3x15-20
+
+### Shoulders
+
+**Band Shoulder Press:**
+1. Stand on band
+2. Press handles overhead
+3. 3x12-15
+
+**Band Lateral Raises:**
+1. Stand on band
+2. Raise arms to sides
+3. 3x12-15
+
+**Band Front Raises:**
+1. Stand on band
+2. Raise arms in front
+3. 3x12-15
+
+**Band Pull-Aparts:**
+1. Hold band at chest height
+2. Pull apart, squeezing shoulder blades
+3. 3x15-20
+
+### Arms
+
+**Band Bicep Curls:**
+1. Stand on band
+2. Curl handles toward shoulders
+3. 3x12-15
+
+**Band Tricep Pushdowns:**
+1. Anchor band above head
+2. Push down, extending arms
+3. 3x12-15
+
+**Band Tricep Extensions:**
+1. Hold band behind head
+2. Extend arms overhead
+3. 3x12-15
+
+## Lower Body Exercises
+
+### Glutes
+
+**Banded Glute Bridge:**
+1. Band above knees
+2. Bridge up, pushing knees out against band
+3. 3x15-20
+
+**Banded Clamshells:**
+1. Band above knees
+2. Side lying, knees bent
+3. Lift top knee against resistance
+4. 3x15-20 each side
+
+**Banded Kickbacks:**
+1. Band around ankles
+2. On hands and knees
+3. Kick leg back against resistance
+4. 3x15 each leg
+
+### Quadriceps
+
+**Banded Squats:**
+1. Band above knees
+2. Squat while pushing knees out
+3. 3x15-20
+
+**Banded Leg Extensions:**
+1. Loop band around ankle and anchor
+2. Extend leg against resistance
+3. 3x15 each leg
+
+### Hamstrings
+
+**Banded Romanian Deadlift:**
+1. Stand on band
+2. Hold handles, hinge at hips
+3. 3x12-15
+
+**Banded Leg Curls:**
+1. Loop band around ankle and anchor
+2. Curl heel toward glute
+3. 3x15 each leg
+
+### Hip Abductors
+
+**Lateral Band Walks:**
+1. Band around ankles or above knees
+2. Quarter squat position
+3. Step sideways, maintaining tension
+4. 3x15 steps each direction
+
+**Standing Hip Abduction:**
+1. Band around ankles
+2. Lift leg to side
+3. 3x15 each leg
+
+## Core Exercises
+
+**Banded Dead Bug:**
+1. Band around feet, hold with hands
+2. Perform dead bug with resistance
+3. 3x10 each side
+
+**Banded Pallof Press:**
+1. Anchor band at chest height
+2. Stand sideways, press band out
+3. Resist rotation
+4. 3x10 each side
+
+**Banded Woodchops:**
+1. Anchor band high
+2. Pull diagonally across body
+3. 3x12 each side
+
+## Full Body Band Workouts
+
+### Beginner Full Body (20 Minutes)
+
+**Circuit, 2-3 rounds:**
+1. Band squats: 15 reps
+2. Band rows: 12 reps
+3. Band chest press: 12 reps
+4. Banded glute bridge: 15 reps
+5. Band bicep curls: 12 reps
+6. Plank: 30 seconds
+
+**Rest 60 seconds between rounds.**
+
+### Upper Body Focus (25 Minutes)
+
+**3 rounds:**
+1. Band push-ups: 12 reps
+2. Band rows: 12 reps
+3. Band shoulder press: 12 reps
+4. Band pull-aparts: 15 reps
+5. Band bicep curls: 12 reps
+6. Band tricep pushdowns: 12 reps
+
+**Rest 45-60 seconds between rounds.**
+
+### Lower Body Focus (25 Minutes)
+
+**3 rounds:**
+1. Banded squats: 15 reps
+2. Banded RDL: 12 reps
+3. Banded glute bridge: 15 reps
+4. Lateral band walks: 15 each direction
+5. Banded clamshells: 15 each side
+6. Banded kickbacks: 12 each leg
+
+**Rest 45-60 seconds between rounds.**
+
+### Quick Total Body (15 Minutes)
+
+**2 rounds, minimal rest:**
+1. Band squats: 15
+2. Band rows: 12
+3. Band chest press: 12
+4. Lateral band walks: 10 each way
+5. Band shoulder press: 10
+6. Banded glute bridge: 15
+
+## Band Training Tips
+
+### Choosing Resistance
+
+- Start lighter than you think
+- Should be challenging for last 2-3 reps
+- Multiple bands allow progression
+
+### Creating Tension
+
+- Remove slack before starting exercise
+- Maintain tension throughout movement
+- Control the return (eccentric)
+
+### Anchoring Safely
+
+- Use door anchors designed for bands
+- Check anchor point is secure
+- Inspect bands for damage before use
+
+### Progression
+
+1. More reps at same resistance
+2. Slower tempo (especially on return)
+3. Pause at peak contraction
+4. Move to heavier band
+5. Combine bands for more resistance
+
+## Band Care
+
+**Extend band life:**
+- Store away from heat and sunlight
+- Don't overstretch
+- Check for nicks or tears regularly
+- Replace when damaged
+- Don't use on rough surfaces
+
+## The Bottom Line
+
+1. **Bands build real strength** — Backed by research
+2. **Start lighter** — Progress gradually
+3. **Control the movement** — Especially the return
+4. **Full range of motion** — Don't shortcut
+5. **Variety is possible** — Hundreds of exercises available
+
+---
+
+*Foundational Rehab includes resistance band programs for home-based strength training and rehabilitation.*
+    `
+  },
+  'how-to-stretch-your-back': {
+    title: 'How to Stretch Your Back: Safe Techniques for Pain Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Before You Stretch: Important Considerations
+
+Back stretching isn't one-size-fits-all. The right stretches depend on your specific situation.
+
+**When stretching helps:**
+- General stiffness from sitting
+- Muscle tension
+- After exercise recovery
+- Minor aches from inactivity
+
+**When to be cautious:**
+- Acute disc issues (may need specific direction)
+- First thing in the morning (discs are swollen)
+- During acute pain flare-ups
+- If stretching makes symptoms worse
+
+**Rule of thumb:** If a stretch increases your pain or sends symptoms down your leg, stop immediately.
+
+## Lower Back Stretches
+
+### Knee-to-Chest
+
+**Form:**
+1. Lie on back, knees bent
+2. Pull one knee toward chest
+3. Hold behind thigh, not on knee
+4. Keep other foot flat or extend leg
+5. Hold 20-30 seconds each side
+
+**Variation:** Pull both knees to chest, gently rock side to side.
+
+### Supine Twist
+
+**Form:**
+1. Lie on back, knees bent
+2. Drop both knees to one side
+3. Keep shoulders on floor
+4. Arms out, look opposite direction
+5. Hold 20-30 seconds each side
+
+**Tip:** Let gravity do the work—don't force.
+
+### Cat-Cow
+
+**Form:**
+1. On hands and knees
+2. Inhale, arch back, look up (cow)
+3. Exhale, round back, tuck chin (cat)
+4. Move slowly with breath
+5. 10-15 cycles
+
+**Benefits:** Mobilizes entire spine, not just stretching.
+
+### Child's Pose
+
+**Form:**
+1. Kneel on floor
+2. Sit back toward heels
+3. Reach arms forward
+4. Let forehead rest on floor
+5. Hold 30-60 seconds
+
+**Variations:**
+- Knees together (more low back stretch)
+- Knees wide (more hip stretch)
+- Walk hands to one side (side stretch)
+
+### Pelvic Tilts
+
+**Form:**
+1. Lie on back, knees bent
+2. Flatten lower back to floor (tilt pelvis back)
+3. Then arch back slightly (tilt pelvis forward)
+4. Alternate slowly
+5. 15-20 repetitions
+
+**Benefits:** Gentle movement for acute back pain.
+
+## Upper and Mid-Back Stretches
+
+### Thread the Needle
+
+**Form:**
+1. On hands and knees
+2. Reach one arm under body
+3. Let shoulder and head rest on floor
+4. Feel stretch in upper back
+5. Hold 20-30 seconds each side
+
+### Seated Twist
+
+**Form:**
+1. Sit tall in chair or on floor
+2. Place one hand on opposite knee
+3. Other hand behind you
+4. Rotate torso gently
+5. Hold 20-30 seconds each side
+
+### Foam Roller Thoracic Extension
+
+**Form:**
+1. Lie on roller (perpendicular to spine)
+2. Roller at mid-back level
+3. Support head with hands
+4. Extend back over roller
+5. Move roller to different segments
+6. 30 seconds each position
+
+**Note:** This is more mobility than stretching.
+
+### Cat Stretch (Thoracic Focus)
+
+**Form:**
+1. On hands and knees
+2. Round upper back toward ceiling
+3. Focus on mid-back, not just lower back
+4. Hold 10-20 seconds
+5. Repeat 5-10 times
+
+### Doorway Lat Stretch
+
+**Form:**
+1. Hold doorframe or pole at waist height
+2. Step back, hinge at hips
+3. Let arms straighten, back flatten
+4. Feel stretch along sides of back
+5. Hold 30 seconds
+
+## Hip Stretches That Help the Back
+
+Tight hips often cause back pain. These stretches target the hips to relieve back strain.
+
+### Hip Flexor Stretch
+
+**Form:**
+1. Half-kneeling position
+2. Tuck pelvis under (posterior tilt)
+3. Lean forward slightly
+4. Feel stretch in front of hip
+5. Hold 30-60 seconds each side
+
+**Key:** The pelvic tuck is essential—otherwise you'll stretch your back, not hip flexors.
+
+### Figure-4 Stretch (Piriformis)
+
+**Form:**
+1. Lie on back
+2. Cross one ankle over opposite knee
+3. Pull bottom leg toward chest
+4. Feel stretch in buttock
+5. Hold 30-60 seconds each side
+
+### 90-90 Hip Stretch
+
+**Form:**
+1. Sit with front leg at 90°, back leg at 90°
+2. Lean forward over front leg
+3. Feel stretch in hip
+4. Hold 30-45 seconds each side
+
+## Morning Back Stretches
+
+**Important:** Avoid intense forward bending first thing in the morning—discs are swollen and more vulnerable.
+
+### Safe Morning Routine (5 Minutes)
+
+1. **Pelvic tilts** (in bed): 10 reps
+2. **Knee-to-chest** (single leg): 20 sec each
+3. **Cat-cow** (gentle): 10 cycles
+4. **Standing extension** (hands on low back, lean back gently): 5 reps
+5. **Wait 30+ minutes** before deep forward bending
+
+## Evening Back Stretches
+
+After being upright all day, your back can handle more.
+
+### Evening Routine (10 Minutes)
+
+1. Cat-cow: 10 cycles
+2. Child's pose: 60 seconds
+3. Supine twist: 30 seconds each side
+4. Knee-to-chest (both): 30 seconds
+5. Thread the needle: 30 seconds each
+6. Hip flexor stretch: 45 seconds each
+7. Figure-4 stretch: 45 seconds each
+
+## Stretches to Avoid (Or Modify)
+
+### Standing Toe Touch
+
+**Problem:** Can strain back, especially with stiff hamstrings.
+**Better option:** Seated hamstring stretch or supine with strap.
+
+### Seated Forward Fold (Full)
+
+**Problem:** Excessive spinal flexion under load.
+**Better option:** Keep slight arch in back, hinge from hips.
+
+### Cobra/Up-Dog (Forced)
+
+**Problem:** If extension-sensitive, can aggravate.
+**Better option:** Prone lying or gentle press-up.
+
+## Sample Back Stretching Programs
+
+### Quick Relief (5 Minutes)
+
+1. Cat-cow: 8-10 cycles
+2. Knee-to-chest: 20 sec each
+3. Supine twist: 20 sec each
+4. Child's pose: 30 seconds
+
+### Comprehensive Back Mobility (15 Minutes)
+
+1. Cat-cow: 10 cycles
+2. Pelvic tilts: 10 reps
+3. Child's pose: 60 seconds
+4. Thread the needle: 30 sec each
+5. Foam roller thoracic: 2 minutes
+6. Supine twist: 30 sec each
+7. Knee-to-chest (both): 30 seconds
+8. Hip flexor stretch: 45 sec each
+9. Figure-4 stretch: 45 sec each
+
+### Post-Sitting Routine (3 Minutes)
+
+1. Standing extension: 5 reps
+2. Cat-cow: 8 cycles
+3. Hip flexor stretch: 30 sec each
+
+## The Bottom Line
+
+1. **Know your direction** — Some backs like flexion, others extension
+2. **Include the hips** — Hip tightness causes back pain
+3. **Avoid morning forward bending** — Wait 30+ minutes
+4. **Don't force** — Gentle, sustained stretches work best
+5. **Listen to your body** — If it makes things worse, stop
+
+---
+
+*Foundational Rehab provides back care programs combining stretching, strengthening, and movement education.*
+    `
   }
 };
 
