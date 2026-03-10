@@ -109208,6 +109208,965 @@ Many tables allow partial inversion (30-60°), which is gentler than full invers
 
 *Foundational Rehab offers spinal health programs including decompression techniques and supportive exercises.*
     `
+  },
+  'exercises-for-rib-pain': {
+    title: 'Exercises for Rib Pain: Relieve Intercostal and Costal Discomfort',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '5 min read',
+    content: `
+## Understanding Rib Pain
+
+Rib pain can come from:
+- Intercostal muscles (between ribs)
+- Costochondral joints (where ribs meet cartilage)
+- Costovertebral joints (where ribs meet spine)
+- Referred pain from other areas
+
+Common causes include poor posture, respiratory infections (coughing), trauma, and muscle strain.
+
+## When to See a Doctor First
+
+**Seek medical evaluation if:**
+- Pain after trauma or injury
+- Difficulty breathing
+- Chest pain with exertion
+- Pain that worsens or doesn't improve
+- Fever or other systemic symptoms
+- History of cancer
+- Pain on both sides
+
+Rib pain can sometimes indicate serious conditions. Get checked if concerned.
+
+## Breathing Exercises (Foundation)
+
+Breathing properly is crucial for rib mobility and healing.
+
+### Diaphragmatic Breathing
+
+**How to:**
+- Lie on back, knees bent
+- One hand on chest, one on belly
+- Breathe so belly rises (not chest)
+- Exhale slowly
+- 10-15 breaths, multiple times daily
+
+Reduces compensatory rib movement and promotes relaxation.
+
+### Lateral Costal Breathing
+
+**How to:**
+- Sit or lie on side
+- Hands on ribs (sides of chest)
+- Breathe into your hands (expand sideways)
+- Feel ribs expand outward
+- 10 breaths each side
+
+Improves rib mobility and reduces stiffness.
+
+### Pursed Lip Breathing
+
+**How to:**
+- Inhale through nose (2 counts)
+- Exhale through pursed lips (4 counts)
+- Slow, controlled
+- 10-15 breaths
+
+Helpful if coughing has caused rib pain.
+
+## Stretching Exercises
+
+### Side Stretch
+
+**How to:**
+- Stand or sit tall
+- Raise one arm overhead
+- Lean away, stretching the raised-arm side
+- Hold 20-30 seconds
+- Both sides
+
+Opens intercostal muscles.
+
+### Doorway Stretch (Upper Ribs)
+
+**How to:**
+- Stand in doorway, forearm on frame
+- Step through, rotate away
+- Focus on feeling stretch in upper rib area
+- 30 seconds each side
+
+### Thoracic Rotation
+
+**How to:**
+- Sit or lie on side
+- Rotate upper body, reaching arm across and back
+- Follow hand with eyes
+- 10 reps each side
+
+Mobilizes rib joints at the spine.
+
+### Cat-Cow
+
+**How to:**
+- On hands and knees
+- Alternate arching and rounding
+- Focus on upper back and rib movement
+- 15-20 reps
+
+### Thread the Needle
+
+**How to:**
+- On hands and knees
+- Reach one arm under body, rotating spine
+- Follow with eyes
+- 10 each side
+
+## Mobility Exercises
+
+### Rib Mobilization with Foam Roller
+
+**How to:**
+- Lie on foam roller (along spine)
+- Arms out to sides
+- Let chest open and ribs stretch
+- Hold 1-2 minutes
+- Can gently roll side to side
+
+### Seated Rotation
+
+**How to:**
+- Sit in chair, feet planted
+- Rotate to one side
+- Use hands on chair for gentle overpressure
+- 10 reps each side
+
+### Extension Over Chair
+
+**How to:**
+- Sit in chair, lean back over top of chair
+- Hands behind head
+- Let upper back extend
+- 10 reps
+
+## Soft Tissue Release
+
+### Self-Massage
+
+**How to:**
+- Fingers or tennis ball on intercostal muscles
+- Apply gentle pressure
+- Small circles on tender spots
+- Avoid pressing directly on ribs
+- 30-60 seconds per area
+
+### Pec Release (Affects Ribs)
+
+**How to:**
+- Ball against wall, on chest
+- Below collarbone, toward armpit
+- Lean into tender spots
+- 60 seconds each side
+
+## Strengthening
+
+Once pain improves, strengthen the area.
+
+### Serratus Punches
+
+**How to:**
+- On back, arm extended toward ceiling
+- Push arm up (reaching toward ceiling)
+- Feel shoulder blade wrap around ribs
+- 15 reps each arm
+
+### Side Plank (When Ready)
+
+**How to:**
+- On side, elbow under shoulder
+- Lift hips, align body
+- Hold 15-30 seconds each side
+- Strengthens intercostals and obliques
+
+### Breathing Against Resistance
+
+**How to:**
+- Wrap resistance band around lower ribs
+- Breathe against the band resistance
+- 10-15 breaths
+
+Builds respiratory muscle strength.
+
+## Activity Modifications
+
+### While Recovering
+
+- Avoid heavy lifting
+- Modify activities that strain ribs
+- Support ribs when coughing or sneezing
+- Sleep on unaffected side (or back)
+- Use pillows for support
+
+### Coughing and Sneezing
+
+- Press a pillow against your ribs
+- Provides support and reduces pain
+- Important during respiratory illness
+
+## Recovery Timeline
+
+**Muscle strain:** 2-4 weeks
+**Costochondritis:** 1-6 weeks (can be longer)
+**Rib fracture:** 4-6 weeks (no exercise until cleared)
+**Post-viral rib pain:** 1-2 weeks after coughing stops
+
+## When Exercises Aren't Helping
+
+### Consider
+
+- Has it been evaluated? (may need diagnosis)
+- Are you doing too much? (rest may be needed)
+- Is there underlying cause? (posture, respiratory issue)
+
+### Professional Help
+
+- Physical therapy for persistent cases
+- Manual therapy for joint restrictions
+- Medical evaluation for unexplained pain
+
+## The Bottom Line
+
+1. **Breathing exercises first** — Foundation for rib health
+2. **Gentle mobility** — Rotation and side stretches
+3. **Don't push through pain** — Ribs need time to heal
+4. **Support when coughing** — Pillow splinting helps
+5. **See a doctor if concerned** — Rib pain can have serious causes
+
+---
+
+*Foundational Rehab offers rib mobility programs for pain relief and prevention.*
+    `
+  },
+  'how-to-improve-hip-internal-rotation': {
+    title: 'How to Improve Hip Internal Rotation: Unlock This Hidden Mobility',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Hip Internal Rotation Matters
+
+Hip internal rotation is often overlooked, but it's crucial for:
+- Squatting (especially deep squats)
+- Running mechanics
+- Knee health (lack of hip IR forces knee to compensate)
+- Low back health
+- Walking and turning
+
+Many people focus only on external rotation and miss this important component.
+
+## How to Test Your Hip Internal Rotation
+
+### Prone Test
+
+**How to:**
+- Lie face down
+- Bend knee to 90°
+- Let lower leg fall outward (this is internal rotation)
+- Compare sides
+
+**Normal:** 30-45° of movement
+**Limited:** Less than 30°
+
+### Seated Test
+
+**How to:**
+- Sit on edge of chair
+- Keep thighs parallel
+- Rotate lower leg outward
+- Compare sides
+
+## What Limits Hip Internal Rotation
+
+### Muscle Tightness
+
+- External rotators (piriformis, glutes)
+- Deep hip rotators
+- Hip capsule
+
+### Joint Restrictions
+
+- Posterior hip capsule tightness
+- Bony anatomy (this you can't change)
+
+### Movement Pattern
+
+- Nervous system may be limiting range
+- Lack of exposure to the position
+
+## Stretches for Hip Internal Rotation
+
+### Prone Hip Internal Rotation Stretch
+
+**How to:**
+- Lie face down
+- Bend knee to 90°
+- Let lower leg fall outward
+- Gently press for more range
+- Hold 45-60 seconds each side
+
+Simple and effective.
+
+### 90/90 Position (Internal Rotation Leg)
+
+**How to:**
+- Sit in 90/90 position
+- Focus on the back leg (internally rotated)
+- Lean back slightly
+- Hold 60 seconds each side
+
+### Sleeper Stretch Variation
+
+**How to:**
+- Lie on side
+- Top leg at 90° (knee and hip)
+- Press knee toward floor
+- Hold 45-60 seconds each side
+
+Targets internal rotation and hip capsule.
+
+### Pigeon Pose with IR Bias
+
+**How to:**
+- Standard pigeon pose
+- Then rotate body toward the front leg
+- Feel different aspect of hip
+- Hold 45-60 seconds
+
+## Mobility Drills
+
+### Hip Controlled Articular Rotations (CARs)
+
+**How to:**
+- On hands and knees
+- Lift knee out to side
+- Make large circle with knee
+- Include full internal and external rotation
+- 5-10 slow circles each direction, each hip
+
+Essential for maintaining hip mobility.
+
+### Quadruped Hip Circles
+
+**How to:**
+- On hands and knees
+- Circle knee inward (internal rotation emphasis)
+- Keep pelvis stable
+- 10-15 circles each leg
+
+### Shin Box Rotations
+
+**How to:**
+- Sit with both knees at 90°
+- Rotate to switch legs
+- One hip goes into IR, other into ER
+- 10-15 rotations
+
+Excellent for both internal and external rotation.
+
+### Frog Stretch with IR
+
+**How to:**
+- Standard frog stretch position
+- Then shift to one side
+- One hip gets more internal rotation
+- Alternate sides
+- 45 seconds each position
+
+## Strengthening in Internal Rotation
+
+Mobility without strength is less useful.
+
+### Clamshells in Reverse
+
+**How to:**
+- Side-lying, hips and knees at 90°
+- Keep feet together
+- Lift bottom foot toward ceiling (IR top hip)
+- 15-20 reps each side
+
+### Banded Hip Internal Rotation
+
+**How to:**
+- Stand, band around lower thigh
+- Rotate foot inward against band
+- 15-20 reps each side
+
+### Side-Lying Hip Internal Rotation
+
+**How to:**
+- Lie on side, bottom leg bent
+- Top leg extended
+- Rotate top leg inward (toe points down)
+- Lift slightly
+- 15-20 reps each side
+
+## Sample Daily Routine (10 Minutes)
+
+### Mobility (5 Minutes)
+
+1. Hip CARs: 5 each direction, each hip
+2. Shin box rotations: 10 total
+3. Quadruped hip circles: 10 each leg
+
+### Stretching (4 Minutes)
+
+1. Prone IR stretch: 45 sec each
+2. 90/90 with IR bias: 45 sec each
+
+### Strengthening (1 Minute)
+
+1. Reverse clamshells: 15 each side
+
+## How Long to See Results?
+
+**Week 1-2:** Better awareness, slight improvement post-session
+
+**Week 3-4:** Measurable improvement in prone test
+
+**Week 5-8:** Noticeable functional improvement
+
+**Week 9-12:** Significant gains if consistent
+
+**Note:** Bony anatomy may limit maximum achievable range in some people.
+
+## Common Mistakes
+
+### Ignoring IR Completely
+
+Most people only stretch external rotators. IR needs specific attention.
+
+### Forcing Range
+
+The hip joint is sensitive. Gentle, consistent work beats aggressive stretching.
+
+### Not Loading the New Range
+
+Stretching without strengthening doesn't create lasting change.
+
+### Expecting Symmetry
+
+Some asymmetry between sides is normal. Significant differences matter more.
+
+## When IR Won't Improve
+
+### Structural Limitations
+
+Some people have hip anatomy (bone shape) that limits internal rotation. This is called femoral retroversion or acetabular coverage differences.
+
+**Signs of structural limitation:**
+- Very limited IR from childhood
+- No improvement despite consistent work
+- IR limited in all positions
+
+If structural, you can't stretch past bone. Work with what you have.
+
+## The Bottom Line
+
+1. **IR matters** — Don't just stretch external rotators
+2. **Test yourself** — Know your baseline (prone test)
+3. **Daily mobility** — CARs and rotations
+4. **Stretch and strengthen** — Both for lasting change
+5. **Accept structure** — Some limitation may be permanent
+
+---
+
+*Foundational Rehab offers hip mobility programs addressing all directions of movement.*
+    `
+  },
+  'best-ab-exercises-for-bad-backs': {
+    title: 'Best Ab Exercises for Bad Backs: Core Strength Without Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Core',
+    readTime: '6 min read',
+    content: `
+## The Problem with Traditional Ab Exercises
+
+Sit-ups and crunches:
+- Load the spine in flexion
+- Can aggravate disc problems
+- Stress the lower back
+- Often use hip flexors more than abs
+- Not how the core actually functions
+
+If you have back pain, traditional ab exercises often make it worse.
+
+## What the Core Actually Does
+
+The core's main job is to **stabilize the spine**, not flex it. It resists movement rather than creates it.
+
+**Three types of core stability:**
+- Anti-extension (preventing back arching)
+- Anti-rotation (preventing twisting)
+- Anti-lateral flexion (preventing side bending)
+
+Exercises that train these patterns are safer and more functional.
+
+## Safe Ab Exercises for Bad Backs
+
+### Dead Bug (Foundation Exercise)
+
+**Why it's safe:** Back stays flat, no spinal flexion
+
+**How to:**
+- Lie on back, arms up, knees at 90°
+- Press lower back into floor (this is key)
+- Slowly extend opposite arm and leg
+- Only go as far as you can keep back flat
+- Return and switch
+- 10-15 each side, 2-3 sets
+
+**If back arches:** You've gone too far. Reduce range.
+
+### Bird Dog
+
+**Why it's safe:** Neutral spine, anti-extension training
+
+**How to:**
+- On hands and knees
+- Extend opposite arm and leg
+- Keep spine completely neutral
+- Hold 3-5 seconds
+- 10 each side, 2-3 sets
+
+**Key:** No rotation, no arching. Slow and controlled.
+
+### Plank (Modified if Needed)
+
+**Why it's safe:** Anti-extension without spinal movement
+
+**How to:**
+- Forearms and toes (or knees for modified)
+- Straight line from head to heels (or knees)
+- Squeeze glutes, tuck pelvis slightly
+- Hold 20-45 seconds, 3 sets
+
+**Key:** Don't let back sag or pike up. Glutes engaged.
+
+### Side Plank
+
+**Why it's safe:** Anti-lateral flexion, no spinal loading
+
+**How to:**
+- On side, elbow under shoulder
+- Lift hips, straight line from head to feet
+- Can modify with knees bent
+- Hold 20-30 seconds each side, 2-3 sets
+
+### Pallof Press
+
+**Why it's safe:** Anti-rotation without spinal movement
+
+**How to:**
+- Band or cable anchored at chest height
+- Stand sideways to anchor, hold handle at chest
+- Press arms straight out
+- Resist rotation toward anchor
+- Hold 3-5 seconds
+- 10 reps each side
+
+Excellent for teaching the core to resist rotation.
+
+### Tall Kneeling Pallof Press
+
+Same as above but kneeling, which eliminates leg assistance.
+
+### McGill Curl-Up
+
+**Why it's safe:** Minimal spinal flexion, supports natural curve
+
+**How to:**
+- Lie on back, one knee bent, one straight
+- Hands under lower back to maintain curve
+- Lift head and shoulders slightly (just off ground)
+- Hold 10 seconds
+- 5-8 reps, then switch legs
+
+**Key:** Very small movement. Don't flatten back.
+
+### Farmer Carry
+
+**Why it's safe:** Upright position, anti-lateral flexion
+
+**How to:**
+- Hold weight in one hand (or both for easier version)
+- Walk with perfect posture
+- Don't lean toward or away from weight
+- 30-60 seconds, 2-3 sets each side
+
+Trains core to stabilize while moving.
+
+### Stir the Pot
+
+**Why it's safe:** Controlled anti-extension and anti-rotation
+
+**How to:**
+- Forearms on stability ball
+- Plank position
+- Make small circles with forearms
+- 10 circles each direction
+
+Advanced exercise. Master plank first.
+
+## Exercises to Avoid
+
+### Sit-Ups and Crunches
+
+High spinal flexion load. Aggravates most back problems.
+
+### Leg Raises (Lying)
+
+Unless you can keep back perfectly flat, hip flexors pull spine into extension.
+
+### Russian Twists
+
+Rotation under flexion load. Recipe for disc irritation.
+
+### V-Ups
+
+High spinal flexion with momentum.
+
+### Superman
+
+Extreme extension. May feel good briefly but often aggravates backs.
+
+## Building a Back-Safe Core Routine
+
+### Beginner (2-3x per Week)
+
+1. Dead bugs: 2 x 10 each side
+2. Bird dogs: 2 x 10 each side
+3. Modified plank: 3 x 20 seconds
+
+### Intermediate
+
+1. Dead bugs: 3 x 12 each side
+2. Bird dogs: 3 x 10 each side
+3. Plank: 3 x 30 seconds
+4. Side plank: 2 x 20 seconds each side
+5. Pallof press: 2 x 10 each side
+
+### Advanced
+
+1. Dead bugs (weighted or banded): 3 x 12
+2. Bird dogs (with band): 3 x 10
+3. Plank: 3 x 45 seconds
+4. Side plank: 3 x 30 seconds
+5. Pallof press: 3 x 10
+6. Farmer carry: 3 x 45 seconds each side
+7. Stir the pot: 2 x 10 each direction
+
+## Progression Tips
+
+### Dead Bug Progressions
+
+1. Basic (opposite arm/leg)
+2. Add band around feet
+3. Hold weight in hands
+4. Slow down tempo
+
+### Plank Progressions
+
+1. Knees down
+2. Full plank
+3. Narrow feet
+4. Lift one leg
+5. Arm reaches
+6. Body saw
+
+### Side Plank Progressions
+
+1. Knees bent
+2. Straight legs
+3. Top leg lifted
+4. Hip drops
+5. Rotations
+
+## Signs an Exercise Isn't Right
+
+**Stop if:**
+- Sharp pain in back
+- Pain that lingers after exercise
+- Tingling or numbness
+- You can't maintain neutral spine
+
+**These are warning signs, not gains.**
+
+## The Bottom Line
+
+1. **Stability over flexion** — Train core to resist movement
+2. **Dead bugs and bird dogs** — Foundation exercises
+3. **Planks work** — If done with proper form
+4. **Avoid sit-ups/crunches** — High spinal load, low benefit
+5. **Neutral spine always** — If you can't maintain it, reduce difficulty
+
+---
+
+*Foundational Rehab offers back-safe core programs to build strength without pain.*
+    `
+  },
+  'exercises-for-shoulder-blade-pain': {
+    title: 'Exercises for Shoulder Blade Pain: Relieve Scapular Discomfort',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read',
+    content: `
+## Understanding Shoulder Blade Pain
+
+Pain around the shoulder blade (scapula) commonly comes from:
+- Rhomboids and middle trap strain
+- Poor posture (rounded shoulders)
+- Thoracic spine stiffness
+- Referred pain from neck
+- Trigger points
+- Scapular dyskinesis (poor movement patterns)
+
+Location matters: between shoulder blades, on the blade, or radiating from elsewhere.
+
+## When to Seek Medical Evaluation
+
+**See a doctor if:**
+- Pain after injury
+- Pain radiating down arm
+- Numbness or tingling
+- Weakness
+- Chest pain or breathing difficulty
+- Pain unrelated to movement
+- Persistent pain that doesn't improve
+
+Shoulder blade pain can sometimes indicate cardiac or lung issues.
+
+## Self-Massage and Release
+
+### Tennis Ball Release (Rhomboids)
+
+**How to:**
+- Lie on back
+- Place tennis ball between shoulder blade and spine
+- Find tender spots
+- Apply pressure by relaxing into ball
+- 60-90 seconds per spot
+
+### Foam Roller Thoracic Release
+
+**How to:**
+- Roller perpendicular to spine
+- Under upper/mid back (not lower back)
+- Hands behind head
+- Roll slowly, pausing on tight areas
+- 2-3 minutes
+
+### Doorway Stretch (Opens the Front)
+
+**How to:**
+- Forearm on doorframe
+- Step through
+- Feel stretch across chest
+- 30-45 seconds each side
+
+Tight chest pulls shoulder blades forward, causing strain.
+
+## Stretching Exercises
+
+### Thread the Needle
+
+**How to:**
+- On hands and knees
+- Reach one arm under body, rotating spine
+- Feel stretch between shoulder blades
+- 10 reps each side
+
+### Cat Stretch (Emphasis on Upper Back)
+
+**How to:**
+- On hands and knees
+- Round upper back, spread shoulder blades
+- Push floor away
+- Hold 5 seconds
+- 10 reps
+
+### Upper Trap Stretch
+
+**How to:**
+- Tilt ear toward shoulder
+- Add gentle hand pressure
+- 30 seconds each side
+
+### Levator Scapulae Stretch
+
+**How to:**
+- Look down toward opposite armpit
+- Gently assist with hand
+- 30 seconds each side
+
+Often the culprit in upper shoulder blade pain.
+
+## Mobility Exercises
+
+### Thoracic Rotation
+
+**How to:**
+- Side-lying, knees bent
+- Rotate top arm and upper back
+- Follow with eyes
+- 10-15 each side
+
+### Thoracic Extension Over Foam Roller
+
+**How to:**
+- Roller under upper back
+- Hands behind head
+- Extend back over roller
+- Move to different segments
+- 2-3 reps at each position
+
+### Scapular Wall Slides
+
+**How to:**
+- Stand with back against wall
+- Arms at 90° (goal post)
+- Slide arms up and down
+- Keep everything touching wall
+- 10-15 slow reps
+
+### Open Books
+
+**How to:**
+- Side-lying, knees bent
+- Arms together in front
+- Rotate top arm open, following with eyes
+- Let chest open
+- 10 each side
+
+## Strengthening Exercises
+
+Weakness causes many shoulder blade problems. Strengthen to prevent recurrence.
+
+### Prone Y-T-W Raises
+
+**How to:**
+- Lie face down
+- Y: Arms overhead, thumbs up, lift
+- T: Arms to sides, thumbs up, lift
+- W: Elbows bent, squeeze shoulder blades
+- 10 reps each position
+
+### Rows (Any Variation)
+
+**How to:**
+- Cable, band, or dumbbell
+- Pull elbows back, squeeze shoulder blades
+- Control the return
+- 3 sets of 12-15
+
+### Face Pulls
+
+**How to:**
+- Band or cable at face height
+- Pull toward face, elbows high
+- Squeeze shoulder blades
+- 3 sets of 15-20
+
+### Prone Shoulder Blade Squeezes
+
+**How to:**
+- Lie face down, arms at sides
+- Squeeze shoulder blades together
+- Lift arms slightly
+- Hold 3 seconds
+- 15-20 reps
+
+### Wall Push-Ups with Plus
+
+**How to:**
+- Wall push-up
+- At top, push extra (round upper back)
+- Spread shoulder blades apart
+- Return to start
+- 10-15 reps
+
+Strengthens serratus anterior.
+
+## Posture Correction
+
+### Posture Reset
+
+**How to:**
+- Roll shoulders up, back, and down
+- Squeeze shoulder blades gently
+- Chin tuck
+- Hold 10 seconds
+- Repeat hourly
+
+### Workspace Ergonomics
+
+- Monitor at eye level
+- Elbows at 90°
+- Chair supporting lower back
+- Take regular breaks
+
+## Sample Daily Routine
+
+### Morning (5 Minutes)
+
+1. Cat stretch: 10 reps
+2. Thread the needle: 8 each side
+3. Prone Y-T-W: 8 each position
+
+### During Day (At Desk)
+
+- Posture reset every hour
+- Wall slides: 10 reps every few hours
+- Upper trap stretch: 20 sec each when tense
+
+### Evening (10 Minutes)
+
+1. Tennis ball release: 60 sec each side
+2. Foam roller thoracic: 2 minutes
+3. Doorway stretch: 30 sec each side
+4. Rows or band pull-aparts: 15 reps
+5. Open books: 10 each side
+
+## When Pain Persists
+
+### Possible Causes
+
+- Cervical spine issue (neck referring pain)
+- Thoracic outlet syndrome
+- Disc problem
+- Persistent trigger points needing professional treatment
+
+### Professional Options
+
+- Physical therapy
+- Manual therapy/massage
+- Dry needling for trigger points
+- Medical evaluation if needed
+
+## The Bottom Line
+
+1. **Release and stretch** — Address muscle tension first
+2. **Mobilize thoracic spine** — Often restricted
+3. **Strengthen upper back** — Weak muscles strain easily
+4. **Fix posture** — Root cause for many
+5. **Seek help if persistent** — May need professional evaluation
+
+---
+
+*Foundational Rehab offers shoulder blade pain programs combining release, mobility, and strengthening.*
+    `
   }
 };
 
