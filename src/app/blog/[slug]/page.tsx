@@ -110167,6 +110167,997 @@ Strengthens serratus anterior.
 
 *Foundational Rehab offers shoulder blade pain programs combining release, mobility, and strengthening.*
     `
+  },
+  'should-you-exercise-when-sick': {
+    title: 'Should You Exercise When Sick? Guidelines for Training with Illness',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Quick Answer
+
+**Above the neck symptoms (mild cold):** Light exercise usually okay
+**Below the neck symptoms (chest, body):** Rest
+**Fever:** Definitely rest
+
+But it's more nuanced than that.
+
+## The "Neck Check" Rule
+
+### Above the Neck Symptoms
+
+- Runny nose
+- Mild sore throat
+- Sneezing
+- Congestion
+
+**Verdict:** Light exercise usually okay. May even help you feel better temporarily.
+
+### Below the Neck Symptoms
+
+- Chest congestion
+- Coughing
+- Body aches
+- Fatigue
+- Nausea/GI symptoms
+
+**Verdict:** Rest. Your body needs energy for healing.
+
+### With Fever
+
+- Any temperature elevation
+
+**Verdict:** Absolute rest. Exercise with fever can be dangerous (myocarditis risk, dehydration).
+
+## Why Rest Matters When You're Sick
+
+### Immune Function
+
+- Exercise temporarily suppresses immune function
+- When sick, this can prolong illness
+- Rest allows immune system to focus on fighting infection
+
+### Heart Risks
+
+- Viral infections can affect the heart
+- Exercise during infection increases myocarditis risk
+- Rare but serious
+
+### Recovery Time
+
+- Training while sick often extends illness duration
+- Missing 2-3 days now vs. being sick for 2 weeks
+
+### Performance
+
+- You won't have a good workout anyway
+- Risk of injury increases when fatigued
+- Gains aren't made when immune-compromised
+
+## When Light Exercise May Help
+
+### Symptoms Are Mild
+
+- Just a runny nose
+- Slight congestion
+- No fever, no fatigue
+
+### Exercise Intensity Is Low
+
+- Walking
+- Light stretching
+- Gentle yoga
+- Easy bike ride
+
+### Duration Is Short
+
+- 30 minutes or less
+- Not pushing intensity or duration
+
+### You Stop If It Gets Worse
+
+- If you feel worse during, stop
+- If symptoms worsen after, don't exercise again until better
+
+## What "Light Exercise" Means
+
+### Appropriate When Mildly Sick
+
+- Walking (20-30 min)
+- Gentle stretching
+- Light yoga (not hot yoga)
+- Easy swimming (if not contagious)
+- Stationary cycling (very easy)
+
+### NOT Appropriate
+
+- Running
+- High-intensity intervals
+- Heavy lifting
+- Team sports
+- Hot yoga
+- Long duration anything
+
+## When to Take Complete Rest
+
+### Definite Rest
+
+- Fever (any elevation)
+- Chest congestion
+- Coughing
+- Body aches
+- Fatigue
+- Vomiting or diarrhea
+- COVID-19 or flu
+
+### How Long?
+
+- Until symptoms resolve
+- Plus 1-2 additional days
+- Longer for serious illness
+
+### Returning After Illness
+
+- Start with 50% intensity
+- Gradually build back over several days
+- Listen to your body
+- Don't rush — fitness comes back quickly
+
+## Specific Illness Guidelines
+
+### Common Cold
+
+- Above-neck symptoms: Light exercise okay
+- If fatigued: Rest
+- Usually 3-5 days
+
+### Flu
+
+- Complete rest
+- Usually 1-2 weeks minimum
+- Return gradually
+
+### COVID-19
+
+- Complete rest during illness
+- Medical guidance for return
+- Cardiac screening may be recommended for athletes
+- Often 2-4 weeks before resuming
+
+### Stomach Bug
+
+- Complete rest
+- Focus on hydration
+- Wait until fully recovered
+- Usually 24-48 hours after symptoms stop
+
+### Strep Throat
+
+- Rest until on antibiotics 24+ hours
+- No fever for 24 hours
+- Return gradually
+
+## What About Gym Etiquette?
+
+### If You're Contagious
+
+- Stay home from public gyms
+- Don't expose others
+- Train at home if you must move
+
+### How Long Are You Contagious?
+
+- Cold: First 2-3 days typically most contagious
+- Flu: Up to 7 days
+- COVID: Varies, follow current guidelines
+
+## Returning to Training After Illness
+
+### Day 1-2 Back
+
+- 50% normal intensity/volume
+- See how you feel
+- Stop if any symptoms return
+
+### Day 3-4
+
+- 70-75% normal
+- Still monitoring
+
+### Day 5+
+
+- Gradually return to normal
+- Listen to your body
+- May take 1-2 weeks to feel 100%
+
+### Signs You're Not Ready
+
+- Fatigue returns
+- Symptoms recur
+- Heart rate elevated at rest or with light activity
+- Don't feel right
+
+## The Bottom Line
+
+1. **Fever = rest** — Non-negotiable
+2. **Below neck = rest** — Chest symptoms, body aches, fatigue
+3. **Above neck only = light exercise okay** — If you feel up to it
+4. **When in doubt, rest** — Missing a few days won't hurt fitness
+5. **Return gradually** — Don't rush back to full intensity
+
+---
+
+*Foundational Rehab offers return-to-training programs after illness or time off.*
+    `
+  },
+  'exercises-for-tailbone-pain': {
+    title: 'Exercises for Tailbone Pain: Coccyx Relief and Recovery',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '5 min read',
+    content: `
+## Understanding Tailbone Pain
+
+Coccydynia (tailbone pain) often results from:
+- Direct trauma (falls, childbirth)
+- Prolonged sitting on hard surfaces
+- Repetitive strain
+- Hypermobility or instability
+- Referred pain from pelvic floor or spine
+
+The tailbone (coccyx) is where many muscles attach, including pelvic floor muscles.
+
+## When to See a Doctor
+
+**Seek evaluation if:**
+- Pain after significant trauma
+- Pain is severe or worsening
+- Numbness or weakness in legs
+- Bowel or bladder changes
+- Pain doesn't improve with conservative care
+- Signs of infection (fever, redness)
+
+## Sitting Modifications (Priority #1)
+
+**Sitting often aggravates tailbone pain.** Address this first.
+
+### Coccyx Cushion
+
+- Cushion with cutout for tailbone
+- Takes pressure off the coccyx
+- Use for all sitting initially
+
+### Posture Adjustments
+
+- Sit upright or lean slightly forward
+- Avoid slumping (puts pressure on tailbone)
+- Weight on sit bones, not tailbone
+
+### Take Breaks
+
+- Stand and move every 20-30 minutes
+- Avoid prolonged sitting
+- Consider standing desk option
+
+## Stretching Exercises
+
+### Piriformis Stretch
+
+**How to:**
+- Lie on back
+- Cross one ankle over opposite knee
+- Pull bottom leg toward chest
+- Hold 30-45 seconds each side
+
+Releases muscles that attach near coccyx.
+
+### Single Knee to Chest
+
+**How to:**
+- Lie on back
+- Pull one knee toward chest
+- Keep other leg straight or bent
+- Hold 30 seconds each side
+
+Gently stretches lower back and pelvis.
+
+### Child's Pose
+
+**How to:**
+- Kneel, sit back on heels
+- Reach arms forward, chest to floor
+- Hold 30-60 seconds
+
+Relieves pressure on tailbone and stretches lower back.
+
+### Cat-Cow
+
+**How to:**
+- On hands and knees
+- Alternate arching and rounding spine
+- 15-20 reps
+
+Gently mobilizes the pelvis and lower spine.
+
+### Kneeling Hip Flexor Stretch
+
+**How to:**
+- Kneel on one knee
+- Tuck pelvis, squeeze back glute
+- Hold 30-45 seconds each side
+
+Tight hip flexors can affect pelvic position and tailbone.
+
+## Pelvic Floor Exercises
+
+The pelvic floor muscles attach to the coccyx. Tension or weakness can contribute to pain.
+
+### Pelvic Floor Relaxation
+
+**How to:**
+- Lie on back, knees bent
+- Breathe deeply into your belly
+- Consciously relax pelvic floor on exhale
+- Visualize the muscles releasing
+- 10 breaths, 2-3 times daily
+
+Many people with tailbone pain have pelvic floor tension.
+
+### Gentle Kegels (If Appropriate)
+
+**How to:**
+- Contract pelvic floor (like stopping urination)
+- Hold 5 seconds
+- Fully relax for 10 seconds
+- 10 reps
+
+**Note:** If pain increases, focus on relaxation instead of contractions.
+
+### Diaphragmatic Breathing
+
+**How to:**
+- Breathe into belly, not chest
+- Pelvic floor naturally descends on inhale
+- Promotes relaxation
+- 10-15 breaths, multiple times daily
+
+## Strengthening Exercises
+
+### Glute Bridges (Modified)
+
+**How to:**
+- Lie on back, feet flat
+- Place pillow between knees
+- Squeeze pillow and lift hips
+- Don't over-arch at top
+- 15-20 reps
+
+Strengthens glutes without stressing tailbone.
+
+### Clamshells
+
+**How to:**
+- Side-lying, knees bent
+- Keep feet together, open knees
+- 15-20 reps each side
+
+Strengthens hip rotators and glutes.
+
+### Bird Dogs
+
+**How to:**
+- On hands and knees
+- Extend opposite arm and leg
+- Keep spine neutral
+- 10 each side
+
+Core strengthening without sitting.
+
+## Manual Techniques
+
+### Self-Massage (External)
+
+**How to:**
+- Lie on side or stand
+- Use fingers to massage muscles around (not on) tailbone
+- Glutes, piriformis area
+- Gentle pressure, 60-90 seconds
+
+### Tennis Ball Release
+
+**How to:**
+- Lie on back or sit on firm surface
+- Ball under glute (not directly on tailbone)
+- Find tender spots, apply gentle pressure
+- 60 seconds per area
+
+## What to Avoid
+
+### Positions and Activities
+
+- Sitting on hard surfaces
+- Prolonged sitting without breaks
+- Sit-ups and crunches
+- Cycling (unless with modified seat)
+- Activities that aggravate pain
+
+### Don't Push Through Pain
+
+- Pain is a signal
+- Aggravating it delays healing
+- Modify activities as needed
+
+## Sample Daily Routine
+
+### Morning (5 Minutes)
+
+1. Cat-cow: 15 reps
+2. Single knee to chest: 30 sec each
+3. Pelvic floor breathing: 10 breaths
+
+### Throughout Day
+
+- Use coccyx cushion for sitting
+- Take standing breaks every 20-30 minutes
+- Posture awareness
+
+### Evening (10 Minutes)
+
+1. Piriformis stretch: 45 sec each side
+2. Child's pose: 60 seconds
+3. Glute bridges: 15 reps
+4. Clamshells: 15 each side
+5. Tennis ball glute release: 60 sec each side
+6. Pelvic floor relaxation: 10 breaths
+
+## Recovery Timeline
+
+**Acute injury:** 4-8 weeks with proper care
+**Chronic cases:** May take 3-6 months
+**Some cases:** Require professional intervention
+
+## When Exercises Aren't Enough
+
+### Professional Options
+
+- Physical therapy (especially pelvic floor PT)
+- Manual therapy
+- Injections (for severe cases)
+- Rarely: surgical intervention
+
+### Consider Pelvic Floor PT If
+
+- Pain persists despite home treatment
+- Pelvic floor tension is present
+- Associated bladder or bowel symptoms
+- Pain related to childbirth
+
+## The Bottom Line
+
+1. **Modify sitting first** — Coccyx cushion, breaks, posture
+2. **Stretch hip muscles** — Piriformis, hip flexors
+3. **Address pelvic floor** — Relaxation often key
+4. **Strengthen glutes** — Support without stress
+5. **Be patient** — Tailbone pain can take time to resolve
+
+---
+
+*Foundational Rehab offers tailbone pain programs with exercise and lifestyle modifications.*
+    `
+  },
+  'how-to-start-exercising-when-overweight': {
+    title: 'How to Start Exercising When Overweight: A Safe, Effective Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Getting Started',
+    readTime: '7 min read',
+    content: `
+## The Most Important Thing First
+
+Exercise at any size is beneficial. Research consistently shows that fitness matters more than weight for health outcomes. You're doing a good thing by starting.
+
+This guide focuses on starting safely and sustainably — not on weight loss (though that may happen).
+
+## Why Starting Smart Matters
+
+### Joint Stress
+
+- Higher body weight means more stress on joints
+- Starting with low-impact activities protects knees, hips, and back
+- Progress gradually to avoid injury
+
+### Cardiovascular Conditioning
+
+- Takes time to build
+- Starting too intense feels terrible
+- Gradual progression feels good and builds fitness
+
+### Sustainability
+
+- Starting too hard leads to burnout
+- Finding activities you enjoy leads to consistency
+- Consistency is everything
+
+## Best Starting Exercises
+
+### Walking (The Foundation)
+
+**Why it works:**
+- Natural movement
+- Low impact
+- Requires no equipment
+- Can be done anywhere
+- Easy to progress
+
+**How to start:**
+- Start with 10-15 minutes
+- Comfortable pace (can talk easily)
+- Build by 5 minutes per week
+- Goal: 30+ minutes most days
+
+### Water Exercise
+
+**Why it works:**
+- Buoyancy reduces joint stress
+- Resistance builds strength
+- Cooling effect is comfortable
+- Full body workout
+
+**Options:**
+- Water walking
+- Water aerobics classes
+- Swimming (any style)
+- Pool exercises
+
+**Note:** Don't be self-conscious. Pools are full of people of all sizes.
+
+### Seated Exercise
+
+**Why it works:**
+- Takes weight off joints
+- Reduces fall risk
+- Still provides cardiovascular and strength benefits
+- Good starting point
+
+**Options:**
+- Chair exercises
+- Seated aerobics
+- Arm exercises with light weights
+- Seated cycling (recumbent bike)
+
+### Recumbent Bike
+
+**Why it works:**
+- Supported seating
+- Low impact
+- Comfortable
+- Easy to control intensity
+
+**How to start:**
+- 10-15 minutes at easy pace
+- Progress duration before intensity
+- Goal: 30 minutes at moderate effort
+
+### Strength Training
+
+**Why it works:**
+- Builds muscle (improves metabolism)
+- Protects joints
+- Improves function
+- Can be done seated or standing
+
+**How to start:**
+- Bodyweight first (chair squats, wall push-ups)
+- Or light weights/resistance bands
+- 2-3 days per week
+- Focus on major muscle groups
+
+## Building Your Program
+
+### Week 1-2: Foundation
+
+**Activity:** Walking or water exercise
+**Duration:** 10-15 minutes
+**Frequency:** 3-4 days
+**Intensity:** Easy (can talk comfortably)
+
+### Week 3-4: Building
+
+**Activity:** Walking + light strength
+**Duration:** 15-20 minutes cardio
+**Frequency:** 4-5 days
+**Intensity:** Still easy to moderate
+
+### Week 5-8: Progressing
+
+**Activity:** Walking + strength 2-3x/week
+**Duration:** 20-30 minutes cardio
+**Frequency:** 5+ days
+**Intensity:** Moderate (slightly breathless but can still talk)
+
+### Beyond
+
+- Continue progressing duration and intensity
+- Add variety (different activities)
+- Consider group classes
+- Set new goals
+
+## Practical Tips
+
+### Start Where You Are
+
+If 5 minutes is all you can do, start there. It counts. Progress comes.
+
+### Break It Up
+
+Three 10-minute walks = one 30-minute walk for health benefits. Do what works for your schedule and energy.
+
+### Choose the Right Environment
+
+- Comfortable temperature
+- Supportive footwear
+- Private space if you prefer
+- Time of day that works for you
+
+### Manage Discomfort vs. Pain
+
+**Normal:** Mild muscle fatigue, breathing harder, sweating
+**Stop for:** Sharp pain, joint pain, chest pain, dizziness, nausea
+
+### Equipment Considerations
+
+**Shoes:** Proper supportive footwear is important. Get fitted if possible.
+**Clothing:** Comfortable, moisture-wicking
+**Support:** Sports bra with good support for women
+
+## Addressing Common Concerns
+
+### "I'm too out of shape"
+
+Everyone starts somewhere. The gym is full of beginners. Start private if you prefer, but don't let this stop you.
+
+### "People will judge me"
+
+Most people are focused on themselves. Many will admire your commitment. And honestly, their opinions don't matter.
+
+### "I've tried before and failed"
+
+This time, start easier than before. Build the habit before building intensity. Consistency beats perfection.
+
+### "I don't have time"
+
+Start with 10 minutes. Everyone has 10 minutes. Build from there.
+
+### "Exercise is uncomfortable"
+
+It should be at first. Start at a level where it's challenging but not miserable. It gets easier.
+
+### "I don't know what to do"
+
+Walking. Start with walking. It's that simple.
+
+## Strength Training Tips
+
+### Best Starting Exercises
+
+**Lower body:**
+- Chair squats (sit down, stand up)
+- Wall sits
+- Step-ups (low step)
+
+**Upper body:**
+- Wall push-ups
+- Seated rows (band)
+- Bicep curls (light weight)
+
+**Core:**
+- Seated marches
+- Standing core bracing
+- Bird dogs (if able to get on floor)
+
+### Progression
+
+- Start with bodyweight or very light weight
+- Add reps before adding weight
+- Focus on form over load
+- 2-3 sets of 10-15 reps
+
+## When to Talk to a Doctor
+
+### Before Starting, Consult If
+
+- Heart conditions
+- Diabetes
+- High blood pressure (uncontrolled)
+- Joint replacements
+- Any condition affecting exercise safety
+- Haven't exercised in years and have health concerns
+
+### During Exercise, Stop If
+
+- Chest pain or pressure
+- Severe shortness of breath
+- Dizziness or lightheadedness
+- Pain (not just discomfort)
+
+## The Bottom Line
+
+1. **Start small** — 10 minutes is enough
+2. **Choose low-impact** — Walking, water, cycling
+3. **Progress gradually** — Add time before intensity
+4. **Consistency matters most** — Daily habit beats occasional intense workout
+5. **Celebrate progress** — Every session counts
+
+---
+
+*Foundational Rehab offers beginner programs for all fitness levels and body types.*
+    `
+  },
+  'exercises-for-dowagers-hump': {
+    title: 'Exercises for Dowagers Hump: Reduce Upper Back Curvature',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '6 min read',
+    content: `
+## What Is Dowager's Hump?
+
+Dowager's hump (kyphosis, buffalo hump) is excessive rounding of the upper back, often with:
+- Forward head posture
+- Rounded shoulders
+- Visible hump at base of neck
+- Fatty tissue accumulation at C7/T1 area
+
+It develops from years of poor posture, weakness, and sometimes hormonal factors or conditions like osteoporosis.
+
+## Can It Be Fixed?
+
+**Postural kyphosis (from poor posture):**
+- Can be significantly improved
+- Exercises and posture correction help
+- Results take time (months, not weeks)
+
+**Structural kyphosis (bone changes, Scheuermann's, osteoporosis):**
+- Can be managed and slowed
+- May not fully reverse
+- Exercise still important
+
+**Fatty pad (lipodystrophy):**
+- Exercise helps overall, but fat pad may need medical treatment
+- Consult doctor if prominent
+
+## The Three Components to Address
+
+### 1. Thoracic Extension (Reverse the Curve)
+
+Train the upper back to extend rather than stay flexed.
+
+### 2. Strengthen Upper Back (Support Good Posture)
+
+Build strength in muscles that hold you upright.
+
+### 3. Stretch What's Tight (Release the Front)
+
+Open chest and front of shoulders.
+
+## Thoracic Extension Exercises
+
+### Foam Roller Thoracic Extension
+
+**How to:**
+- Roller perpendicular under upper back
+- Support head with hands
+- Extend back over roller
+- Move to different segments
+- 2-3 extensions at each level
+- 2-3 minutes total
+
+Essential exercise for kyphosis.
+
+### Prone Extension (Prone Press-Up)
+
+**How to:**
+- Lie face down
+- Hands under shoulders
+- Press upper body up, keeping hips down
+- Focus on upper back extension
+- 10-15 reps
+
+### Thoracic Extension Over Chair
+
+**How to:**
+- Sit backward in chair
+- Drape over chair back
+- Let upper back extend
+- 30-60 seconds
+
+### Wall Extension
+
+**How to:**
+- Stand with back to wall
+- Try to press upper back into wall
+- Chin tucked
+- Hold 10 seconds
+- 10 reps
+
+### Cat-Cow (Emphasis on Cow)
+
+**How to:**
+- On hands and knees
+- Focus on arching upper back during cow
+- Really open the chest
+- 15-20 reps
+
+## Upper Back Strengthening
+
+### Prone Y-T-W Raises
+
+**How to:**
+- Lie face down
+- Y: Arms overhead, thumbs up, lift
+- T: Arms to sides, thumbs up, lift
+- W: Elbows bent, squeeze shoulder blades back
+- 10 reps each position, 2-3 sets
+
+Targets all the muscles that fight kyphosis.
+
+### Rows
+
+**How to:**
+- Any row variation (band, dumbbell, cable)
+- Focus on squeezing shoulder blades
+- 3 sets of 12-15 reps
+
+### Face Pulls
+
+**How to:**
+- Band or cable at face height
+- Pull toward face, elbows high
+- Squeeze shoulder blades
+- 3 sets of 15-20 reps
+
+### Prone Cobra
+
+**How to:**
+- Lie face down, arms at sides
+- Lift chest, squeeze shoulder blades
+- Palms face down, then rotate up
+- Hold 5-10 seconds
+- 10 reps
+
+### Chin Tucks
+
+**How to:**
+- Pull chin straight back
+- Make double chin
+- Hold 5 seconds
+- 15-20 reps, multiple times daily
+
+Addresses forward head that accompanies kyphosis.
+
+## Stretching Tight Muscles
+
+### Doorway Pec Stretch
+
+**How to:**
+- Forearm on doorframe at 90°
+- Step through and rotate away
+- 45-60 seconds each side
+- Multiple times daily
+
+### Corner Stretch
+
+**How to:**
+- Face corner, forearms on walls
+- Lean into corner
+- 45-60 seconds
+
+### Lat Stretch
+
+**How to:**
+- Kneel in front of chair
+- Elbows on chair, sit hips back
+- Let chest drop
+- 45-60 seconds
+
+### Anterior Shoulder Stretch
+
+**How to:**
+- Hands behind back, fingers interlaced
+- Squeeze shoulder blades, lift arms
+- 30-45 seconds
+
+## Posture Practice
+
+### Wall Posture Check
+
+**How to:**
+- Stand with heels, butt, upper back, and head against wall
+- Note if head doesn't touch easily
+- Practice holding this position
+- Several times daily
+
+### Postural Reset
+
+**How to:**
+- Roll shoulders up, back, and down
+- Squeeze shoulder blades gently
+- Tuck chin
+- Hold 10 seconds
+- Every 30-60 minutes
+
+### Mirror Practice
+
+- Check your posture in mirrors
+- Build awareness
+- Self-correct throughout the day
+
+## Sample Daily Routine
+
+### Morning (10 Minutes)
+
+1. Foam roller thoracic extension: 2-3 min
+2. Cat-cow (emphasis on extension): 15 reps
+3. Prone Y-T-W: 8 each position
+4. Doorway pec stretch: 45 sec each side
+
+### Throughout Day
+
+- Chin tucks: 10 reps every hour
+- Posture resets: Every 30-60 minutes
+- Wall posture check: 2-3 times
+
+### Evening (10 Minutes)
+
+1. Foam roller: 2 min
+2. Prone extension: 15 reps
+3. Face pulls or rows: 3 x 15
+4. Prone cobra: 10 reps
+5. Lat stretch: 45 sec
+6. Corner stretch: 60 sec
+
+## Timeline for Improvement
+
+**Week 1-4:** Improved awareness, temporarily better posture
+
+**Month 2-3:** Noticeable improvement in photos
+
+**Month 4-6:** Significant reduction in curvature (postural cases)
+
+**Ongoing:** Maintenance required — gravity and sitting never stop
+
+## What Helps Success
+
+### Consistency
+
+Daily exercise is more effective than occasional intense sessions.
+
+### Ergonomics
+
+Fix your workspace. Monitor at eye level. Don't hunch over phone.
+
+### Strengthening + Stretching + Practice
+
+All three components needed. Just stretching or just strengthening is incomplete.
+
+### Patience
+
+This didn't develop overnight. It won't resolve overnight.
+
+## The Bottom Line
+
+1. **Extension exercises daily** — Foam roller, prone work
+2. **Strengthen upper back** — Y-T-W, rows, face pulls
+3. **Stretch the front** — Pecs, lats, anterior shoulder
+4. **Practice posture** — Awareness and correction all day
+5. **Be patient** — Months of consistent work for lasting change
+
+---
+
+*Foundational Rehab offers kyphosis correction programs with daily exercise guidance.*
+    `
   }
 };
 
