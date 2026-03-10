@@ -106261,6 +106261,1006 @@ Took years to develop, takes months to fix. Be consistent.
 
 *Foundational Rehab offers posture correction programs targeting rounded shoulders and related issues.*
     `
+  },
+  'how-often-should-you-exercise': {
+    title: 'How Often Should You Exercise? Science-Based Guidelines',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## The Quick Answer
+
+**Minimum for health:** 150 minutes of moderate activity per week (or 75 minutes vigorous)
+
+**For fitness gains:** 3-5 sessions per week
+
+**For muscle building:** Each muscle group 2-3x per week
+
+**For weight loss:** 4-6 sessions per week (combined with diet)
+
+But the best frequency is the one you'll actually maintain.
+
+## What the Research Says
+
+### Health Benefits
+
+**WHO and CDC recommendations:**
+- 150-300 minutes of moderate aerobic activity per week, OR
+- 75-150 minutes of vigorous activity per week
+- Plus muscle-strengthening activities 2+ days per week
+
+These are minimums. More exercise generally provides more benefits (up to a point).
+
+### Fitness Improvement
+
+**Cardiovascular fitness:**
+- 3-5 days per week of cardio
+- Progressive overload (gradually harder)
+
+**Muscle growth:**
+- Each muscle group trained 2-3x per week
+- This could mean full body 3x, or push/pull/legs 2x
+
+**Flexibility:**
+- Daily stretching is ideal
+- Minimum 2-3x per week for maintenance
+
+## Exercise Frequency by Goal
+
+### General Health and Longevity
+
+**Minimum effective dose:**
+- 3 days per week
+- Mix of cardio and strength
+- 30 minutes per session
+
+**Optimal:**
+- 4-5 days per week
+- Variety of activities
+- Include flexibility work
+
+### Muscle Building
+
+**Training frequency per muscle:**
+- Research supports 2x per week minimum
+- 3x per week may be slightly better for some
+- Volume matters more than frequency
+
+**Weekly split options:**
+- Full body 3x per week
+- Upper/lower 4x per week
+- Push/pull/legs 6x per week (2x through)
+
+### Weight Loss
+
+**More frequent = more calories burned:**
+- 4-6 days per week
+- Mix of cardio and strength
+- Diet is still the primary driver
+
+**Strength training is crucial:**
+- Preserves muscle mass
+- Keeps metabolism higher
+- 2-4 strength sessions minimum
+
+### Endurance/Cardio
+
+**For improvement:**
+- 3-5 cardio sessions per week
+- Mix intensities (easy, moderate, hard)
+- 80% easy / 20% hard is effective
+
+**For maintenance:**
+- 2-3 sessions per week can maintain fitness
+
+### Flexibility and Mobility
+
+**For improvement:**
+- Daily practice recommended
+- Even 5-10 minutes helps
+
+**For maintenance:**
+- 2-3x per week
+- As part of warm-up/cool-down
+
+## Rest and Recovery
+
+### Why Rest Matters
+
+Muscles don't grow during exercise — they grow during recovery. Without adequate rest:
+- Performance decreases
+- Injury risk increases
+- Progress stalls
+- Motivation drops
+
+### Rest Guidelines
+
+**Between strength sessions (same muscle):**
+- 48-72 hours minimum
+- This is why full body 3x works (Mon/Wed/Fri)
+
+**Between hard cardio sessions:**
+- 48 hours for high-intensity
+- Easy cardio can be daily
+
+**Complete rest days:**
+- 1-2 per week for most people
+- Active recovery (walking, light stretching) is fine
+
+### Signs You Need More Rest
+
+- Persistent fatigue
+- Declining performance
+- Increased injuries
+- Poor sleep
+- Elevated resting heart rate
+- Mood changes
+- Getting sick frequently
+
+## Sample Weekly Schedules
+
+### Beginner (3 Days)
+
+**Monday:** Full body strength (30 min)
+**Wednesday:** Full body strength (30 min)
+**Friday:** Full body strength (30 min)
+**Weekends:** Light activity (walking, stretching)
+
+### Intermediate Health (4 Days)
+
+**Monday:** Upper body strength
+**Tuesday:** Cardio (30-45 min)
+**Thursday:** Lower body strength
+**Saturday:** Cardio or active recreation
+
+### Muscle Building (5 Days)
+
+**Monday:** Push (chest, shoulders, triceps)
+**Tuesday:** Pull (back, biceps)
+**Wednesday:** Legs
+**Thursday:** Push
+**Friday:** Pull
+**Saturday:** Legs or rest
+**Sunday:** Rest
+
+### Active Person (5-6 Days)
+
+**Monday:** Strength
+**Tuesday:** Cardio
+**Wednesday:** Strength
+**Thursday:** Cardio or yoga
+**Friday:** Strength
+**Saturday:** Active recreation
+**Sunday:** Rest or light mobility
+
+## Common Mistakes
+
+### Too Much Too Soon
+
+Starting at 6-7 days per week when you haven't exercised in months. Recipe for burnout and injury.
+
+**Better:** Start with 3 days, build gradually.
+
+### No Rest Days
+
+Thinking more is always better. Rest is when adaptation happens.
+
+**Better:** Plan rest days into your schedule.
+
+### Inconsistent Frequency
+
+Going hard for 2 weeks, then nothing for 2 weeks.
+
+**Better:** Consistent moderate frequency beats sporadic intense frequency.
+
+### Same Thing Every Day
+
+Running every day, or only doing bicep curls.
+
+**Better:** Variety in modality and intensity.
+
+## What About "Every Day" Exercisers?
+
+Some people exercise daily and thrive. They typically:
+- Vary intensity (easy days between hard days)
+- Vary activities (don't repeat the same stress)
+- Listen to their bodies
+- Have built up over years
+- Include mobility/stretching as "exercise"
+
+Daily walking or yoga is different from daily intense workouts.
+
+## Finding Your Frequency
+
+### Consider
+
+**Your schedule:** What can you realistically commit to?
+**Your recovery:** Age, sleep, stress affect recovery needs
+**Your goals:** More ambitious = more frequency (usually)
+**Your history:** New to exercise = start lower
+
+### The Sustainable Test
+
+Ask yourself: "Can I maintain this for 6+ months?"
+
+If the answer is no, dial it back. Consistency over intensity.
+
+## The Bottom Line
+
+1. **Health minimum:** 3 days per week, 30 minutes
+2. **Optimal for most:** 4-5 days per week
+3. **Muscle building:** Hit each muscle 2-3x per week
+4. **Rest matters:** 1-2 rest days minimum
+5. **Consistency wins:** Sustainable frequency beats unsustainable intensity
+
+---
+
+*Foundational Rehab offers training programs tailored to your schedule and goals.*
+    `
+  },
+  'why-am-i-so-stiff-in-the-morning': {
+    title: 'Why Am I So Stiff in the Morning? Causes and Solutions',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## Morning Stiffness Is Normal (Usually)
+
+Almost everyone experiences some morning stiffness. Your body has been still for 6-8 hours, and it needs time to "wake up."
+
+But the degree and duration of stiffness can tell us important things.
+
+## Why It Happens
+
+### Fluid Changes
+
+**Disc rehydration:**
+- Spinal discs absorb fluid overnight
+- You're taller in the morning (up to 1 inch)
+- Discs are more pressurized, spine is stiffer
+- Subsides with movement
+
+**Synovial fluid:**
+- Joint fluid thickens at rest
+- Movement "warms up" the fluid
+- This is why joints feel stiff then loosen
+
+### Inactivity Effects
+
+**Muscles:**
+- Muscle stiffness from not moving
+- Blood flow is reduced during sleep
+- Takes time for circulation to increase
+
+**Nervous system:**
+- Nervous system "calms down" during sleep
+- Muscle tone changes
+- Movement helps reset normal tone
+
+### Sleep Position
+
+**How you slept affects how you feel:**
+- Poor alignment = more stiffness
+- Staying in one position = more localized stiffness
+- Pillow and mattress matter
+
+## Normal vs. Concerning Stiffness
+
+### Normal Morning Stiffness
+
+- Lasts less than 30 minutes
+- Resolves with movement
+- Similar every day (predictable)
+- No significant pain
+- No swelling
+
+### Potentially Concerning
+
+- Lasts more than 30 minutes
+- Severe or worsening over time
+- Accompanied by pain or swelling
+- Affects specific joints significantly
+- Doesn't improve with movement
+
+**Stiffness lasting 30+ minutes may indicate inflammatory conditions (rheumatoid arthritis, ankylosing spondylitis) — worth discussing with a doctor.**
+
+## What You Can Do
+
+### Evening Routine
+
+**Light stretching before bed:**
+- 5-10 minutes of gentle stretches
+- Helps prevent overnight tightening
+- Focus on areas that are typically stiff
+
+**Avoid sleeping in extreme positions:**
+- Tight fetal position curls the spine
+- Stomach sleeping twists neck
+- Try to start in a good position
+
+### Optimize Sleep Setup
+
+**Mattress:**
+- Medium-firm for most people
+- Replace every 7-10 years
+- Should support natural spine curve
+
+**Pillow:**
+- Keep neck aligned with spine
+- Side sleepers need thicker pillow
+- Back sleepers need thinner pillow
+
+**Sleep position:**
+- Back with pillow under knees
+- Side with pillow between knees
+- Avoid stomach if possible
+
+### Morning Routine
+
+**Don't jump out of bed:**
+- Wake up gently
+- Stretch in bed before getting up
+
+**In-bed stretches:**
+- Knee rocks side to side
+- Knee to chest (one at a time)
+- Full body stretch (reach arms overhead)
+- Cat-cow if you can do it in bed
+
+**First 5-10 minutes after waking:**
+- Move slowly at first
+- Cat-cow stretches
+- Hip flexor stretch
+- Gentle back extension
+- Walking around
+
+### Hydration
+
+**Drink water when you wake:**
+- Dehydration increases stiffness
+- You haven't had fluids for 6-8 hours
+- Water helps lubricate joints
+
+### Temperature
+
+**Warm up your body:**
+- Hot shower helps loosen muscles
+- Heat increases blood flow
+- Especially helpful in winter
+
+## Stiffness by Location
+
+### Lower Back
+
+**Common causes:**
+- Disc rehydration (normal)
+- Sleeping position
+- Hip flexor tightness
+
+**Morning solutions:**
+- Knee rocks
+- Cat-cow
+- Standing back extension
+- Hip flexor stretch
+
+### Neck and Shoulders
+
+**Common causes:**
+- Pillow issues
+- Sleeping position
+- Stress/tension
+
+**Morning solutions:**
+- Gentle neck tilts and rotations
+- Shoulder rolls
+- Upper trap stretch
+- Cat-cow
+
+### Hips
+
+**Common causes:**
+- Sleeping in fetal position
+- Tight hip flexors
+- Age-related changes
+
+**Morning solutions:**
+- Hip circles
+- Hip flexor stretch
+- Figure-4 stretch
+- Walking
+
+### Knees
+
+**Common causes:**
+- Arthritis (if persistent)
+- Inactivity
+- Previous injuries
+
+**Morning solutions:**
+- Gentle knee bends
+- Walking
+- Quad sets (tighten thigh)
+- Heel slides
+
+## Long-Term Solutions
+
+### Stay Active
+
+- Regular exercise reduces morning stiffness
+- Movement keeps joints healthy
+- Sedentary lifestyle = more stiffness
+
+### Maintain Flexibility
+
+- Regular stretching (especially hips and spine)
+- Evening routine prevents overnight tightening
+
+### Strength Training
+
+- Strong muscles support joints
+- Reduces wear and stiffness over time
+
+### Address Underlying Issues
+
+- If stiffness is getting worse, see a doctor
+- Inflammatory conditions are treatable
+- Early intervention helps
+
+## When to See a Doctor
+
+**Seek evaluation if:**
+- Stiffness lasts more than 30 minutes consistently
+- Significant pain accompanies stiffness
+- Stiffness is getting progressively worse
+- Swelling in joints
+- Fever or unexplained weight loss
+- Family history of inflammatory arthritis
+
+## The Bottom Line
+
+1. **Some stiffness is normal** — 6-8 hours of stillness affects everyone
+2. **Should resolve in <30 min** — Longer suggests possible issues
+3. **Movement is the cure** — Gentle morning routine helps
+4. **Optimize sleep setup** — Mattress, pillow, position
+5. **Evening stretching helps** — Prevents overnight tightening
+
+---
+
+*Foundational Rehab offers morning mobility programs to start your day moving freely.*
+    `
+  },
+  'exercises-for-construction-workers': {
+    title: 'Exercises for Construction Workers: Protect Your Body on the Job',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '6 min read',
+    content: `
+## The Construction Worker's Body
+
+Physical labor creates specific challenges:
+- Heavy lifting
+- Awkward positions
+- Overhead work
+- Repetitive motions
+- Vibration (power tools)
+- Long hours on feet
+- Environmental conditions
+
+Construction workers have high injury rates. Prevention is essential for a long career.
+
+## Before Work (5-10 Minutes)
+
+### Dynamic Warm-Up
+
+Don't start cold. A brief warm-up prevents injuries.
+
+**1. Arm Circles**
+- Forward and backward
+- 20 each direction
+- Prepares shoulders for overhead work
+
+**2. Hip Circles**
+- Hands on hips, rotate in circles
+- 10 each direction
+- Loosens hip joints
+
+**3. Leg Swings**
+- Hold onto something
+- Swing forward/back: 15 each leg
+- Swing side to side: 10 each leg
+
+**4. Bodyweight Squats**
+- 15-20 reps
+- Warm up legs for lifting
+
+**5. Torso Rotations**
+- Feet planted, rotate upper body
+- 15 each direction
+- Prepares spine for twisting
+
+**6. Cat-Cow**
+- On hands and knees
+- 10 reps
+- Mobilizes spine
+
+## During Work
+
+### Lifting Mechanics
+
+**Every lift:**
+- Get close to the load
+- Feet shoulder-width apart
+- Bend knees, not back
+- Engage core before lifting
+- Keep load close to body
+- Lift with legs
+- Don't twist while loaded
+
+**For heavy or awkward loads:**
+- Get help
+- Use equipment (dollies, forklifts)
+- No ego — injuries end careers
+
+### Micro-Breaks (Every 30-60 Minutes)
+
+**Standing back extension:**
+- Hands on lower back
+- Lean back gently
+- 5-10 reps
+- Counteracts bending
+
+**Shoulder rolls:**
+- 10 each direction
+- Releases upper body tension
+
+**Wrist circles:**
+- 10 each direction
+- Prevents repetitive strain
+
+**Neck stretches:**
+- Tilt ear to shoulder
+- 10 seconds each side
+
+### During Overhead Work
+
+**Frequent breaks:**
+- Lower arms every few minutes
+- Shoulder fatigue increases injury risk
+
+**Positioning:**
+- Use ladders and platforms to reduce reaching
+- Work at chest height when possible
+
+## After Work (10-15 Minutes)
+
+### Decompression Routine
+
+**1. Child's Pose**
+- 60 seconds
+- Releases lower back
+
+**2. Hip Flexor Stretch**
+- 45 seconds each side
+- Essential after squatting and lifting
+
+**3. Figure-4 Stretch**
+- 45 seconds each side
+- Releases glutes and piriformis
+
+**4. Chest Stretch**
+- Doorway or corner stretch
+- 45 seconds
+- Opens chest after forward work
+
+**5. Upper Trap Stretch**
+- 30 seconds each side
+- Releases neck tension
+
+**6. Cat-Cow**
+- 10 reps
+- Mobilizes entire spine
+
+**7. Hanging (If You Have a Bar)**
+- 30-60 seconds
+- Decompresses spine
+- Excellent after loading
+
+## Days Off
+
+### Strength Training (Critical)
+
+Strong muscles protect joints and prevent injuries.
+
+**Priority exercises:**
+
+**1. Deadlifts or Romanian Deadlifts**
+- Strengthens posterior chain
+- Makes lifting safer
+- 3 sets of 8-12
+
+**2. Squats**
+- Builds leg strength for lifting
+- 3 sets of 10-12
+
+**3. Rows**
+- Strengthens back for pulling
+- 3 sets of 12-15
+
+**4. Overhead Press**
+- Strengthens shoulders for overhead work
+- 3 sets of 10-12
+
+**5. Farmer Carries**
+- Grip and core strength
+- Simulates carrying materials
+- 3 sets of 30-60 seconds
+
+**6. Planks and Dead Bugs**
+- Core stability for lifting
+- 3 sets each
+
+### Flexibility Work
+
+**Focus areas:**
+- Hip flexors (always tight from squatting)
+- Hamstrings
+- Chest and shoulders
+- Lower back
+
+## Common Issues and Prevention
+
+### Lower Back Pain
+
+**The #1 construction injury**
+
+**Causes:**
+- Repetitive lifting
+- Poor mechanics
+- Weak core
+
+**Prevention:**
+- Proper lifting technique (every time)
+- Core strengthening
+- Hip flexor stretching
+- Regular decompression
+
+### Shoulder Problems
+
+**Causes:**
+- Overhead work
+- Repetitive motions
+- Heavy lifting
+
+**Prevention:**
+- Rotator cuff exercises (2-3x per week)
+- Positioning to minimize overhead reaching
+- Don't work through shoulder pain
+
+### Knee Pain
+
+**Causes:**
+- Squatting and kneeling
+- Stair climbing
+- Heavy loads
+
+**Prevention:**
+- Knee pads when kneeling
+- Quad and hip strengthening
+- Don't squat with feet together
+
+### Wrist and Hand Issues
+
+**Causes:**
+- Vibrating tools
+- Repetitive gripping
+- Awkward positions
+
+**Prevention:**
+- Anti-vibration gloves
+- Grip strengthening
+- Regular wrist stretches
+- Vary tasks when possible
+
+## Equipment Recommendations
+
+### On the Job
+
+**Knee pads:** Whenever kneeling
+**Back brace:** For support during heavy lifting (not a substitute for good form)
+**Anti-vibration gloves:** For power tool work
+**Good boots:** With proper support
+
+### At Home
+
+**Foam roller:** For daily maintenance
+**Lacrosse ball:** For trigger point release
+**Resistance bands:** For shoulder warm-ups
+**Pull-up bar:** For hanging/decompression
+
+## Warning Signs
+
+### Don't Ignore
+
+- Sharp pain during lifting
+- Numbness or tingling
+- Weakness in arms or legs
+- Pain that wakes you at night
+- Swelling
+- Pain that persists past a few days
+
+Early intervention prevents chronic problems and career-ending injuries.
+
+## The Bottom Line
+
+1. **Warm up every day** — 5-10 minutes prevents injuries
+2. **Lift with legs** — Every single time
+3. **Decompress after work** — 10-15 min stretching
+4. **Strength train** — Strong muscles protect you
+5. **Don't ignore pain** — Early treatment = shorter recovery
+
+---
+
+*Foundational Rehab offers construction worker programs designed for physical labor demands.*
+    `
+  },
+  'stretches-for-back-pain-at-work': {
+    title: 'Stretches for Back Pain at Work: Quick Relief at Your Desk',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '5 min read',
+    content: `
+## Why Work Causes Back Pain
+
+Office work is hard on backs:
+- Prolonged sitting
+- Poor posture
+- Repetitive positions
+- Stress tension
+- Minimal movement
+
+But you can fight back with strategic stretching throughout the day.
+
+## The 1-Minute Relief Routine
+
+When pain flares up, try this:
+
+### Seated Spinal Twist
+
+**How to:**
+- Sit tall in chair
+- Cross right leg over left
+- Twist torso right, left hand on right knee
+- Hold 20-30 seconds
+- Switch sides
+
+Relieves tension across lower and mid-back.
+
+### Seated Cat-Cow
+
+**How to:**
+- Sit at edge of chair, feet flat
+- Hands on knees
+- Round back, tuck chin (cat)
+- Arch back, look up (cow)
+- 10 slow reps
+
+Mobilizes entire spine.
+
+### Standing Back Extension
+
+**How to:**
+- Stand up
+- Hands on lower back
+- Lean back gently
+- Hold 2-3 seconds
+- 5-10 reps
+
+Counteracts the seated flexed position.
+
+## At-Desk Stretches (No One Will Notice)
+
+### Seated Pelvic Tilts
+
+**How to:**
+- Sit tall
+- Tilt pelvis forward (arch back)
+- Tilt pelvis back (flatten back)
+- 15-20 reps
+
+Keeps lower back moving.
+
+### Shoulder Blade Squeezes
+
+**How to:**
+- Sit tall
+- Squeeze shoulder blades together
+- Hold 5 seconds
+- 10-15 reps
+
+Counteracts rounded posture.
+
+### Chin Tucks
+
+**How to:**
+- Pull chin straight back
+- Make a double chin
+- Hold 5 seconds
+- 10-15 reps
+
+Relieves neck tension that contributes to upper back pain.
+
+### Seated Hip Stretch
+
+**How to:**
+- Cross one ankle over opposite knee
+- Sit tall
+- Lean forward slightly
+- Hold 20-30 seconds each side
+
+Releases hips, which affect the back.
+
+## Away-from-Desk Stretches (2-5 Minutes)
+
+### Standing Hip Flexor Stretch
+
+**How to:**
+- Staggered stance, back leg straight
+- Tuck pelvis under
+- Lean forward slightly
+- 30-45 seconds each side
+
+Critical for desk workers — tight hip flexors cause back pain.
+
+### Doorway Chest Stretch
+
+**How to:**
+- Forearm on door frame
+- Step through
+- 30 seconds each side
+
+Tight chest pulls shoulders forward, affecting back.
+
+### Wall Hamstring Stretch
+
+**How to:**
+- Face wall, heel on wall at hip height (or lower)
+- Keep both legs straight
+- Lean forward slightly
+- 30 seconds each side
+
+Tight hamstrings contribute to lower back tension.
+
+### Cat-Cow on Floor
+
+**How to:**
+- Find a quiet spot (break room, empty conference room)
+- 10-15 slow reps
+
+More effective than seated version.
+
+### Child's Pose
+
+**How to:**
+- Kneel, sit back on heels
+- Reach arms forward
+- 30-60 seconds
+
+Gentle stretch for entire back.
+
+## The Hourly Reset
+
+Set a timer. Every hour:
+
+**Stand up** (30 seconds)
+**Back extension** (5 reps)
+**Shoulder rolls** (10 each direction)
+**Walk briefly** (even just to get water)
+
+Total time: 1-2 minutes. Prevents pain from building up.
+
+## Posture Reminders
+
+### Sitting Posture
+
+- Feet flat on floor
+- Knees at 90°
+- Lower back supported
+- Shoulders relaxed
+- Screen at eye level
+- Arms supported
+
+### Common Mistakes
+
+- Crossing legs (twists pelvis)
+- Slouching (loads spine)
+- Leaning to one side
+- Perching on edge of seat
+- Craning neck forward
+
+## Prevention Strategies
+
+### Workspace Setup
+
+**Monitor:**
+- Top of screen at eye level
+- Arm's length away
+
+**Chair:**
+- Adjust height so feet flat
+- Lumbar support (built-in or add-on)
+
+**Keyboard/Mouse:**
+- Elbows at 90°
+- Wrists neutral
+
+### Movement Habits
+
+- Change positions frequently
+- Stand for phone calls
+- Walking meetings when possible
+- Take the stairs
+- Park farther away
+
+### Lunchtime Movement
+
+Even 10-15 minutes helps:
+- Walk outside
+- Full stretching routine
+- Quick strengthening exercises
+
+## When Desk Stretches Aren't Enough
+
+### See a Professional If
+
+- Pain persists despite stretching
+- Numbness or tingling in legs
+- Pain is severe
+- Symptoms are getting worse
+- Pain interrupts sleep
+
+### Long-Term Solutions
+
+- Regular exercise program
+- Core strengthening
+- Ergonomic evaluation
+- Stress management
+- Standing desk option
+
+## Quick Reference Routine
+
+### Every Hour (1 Min)
+
+- Stand up
+- Back extension x 5
+- Shoulder rolls x 10
+
+### Every 2-3 Hours (3 Min)
+
+- Seated twist (30 sec each side)
+- Hip flexor stretch (30 sec each side)
+- Chin tucks x 10
+
+### Lunch Break (10 Min)
+
+- Walk (5 min)
+- Full stretching routine (5 min)
+
+## The Bottom Line
+
+1. **Move every hour** — Minimum 1-minute break
+2. **Hip flexors are key** — Stretch them multiple times daily
+3. **Posture matters** — Set up workspace correctly
+4. **Extension counteracts flexion** — Back extensions throughout day
+5. **Prevention > treatment** — Consistent small efforts beat reactive stretching
+
+---
+
+*Foundational Rehab offers desk worker programs to prevent and relieve work-related back pain.*
+    `
   }
 };
 
