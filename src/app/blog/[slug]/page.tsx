@@ -122626,6 +122626,1325 @@ Include exercises you're bad at. That's where growth happens.
 
 *Foundational Rehab helps beginners build a strong foundation with proper movement patterns and progressive programming.*
     `
+  },
+  'how-to-do-a-plank': {
+    title: 'How to Do a Plank Correctly: Complete Form Guide and Variations',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '6 min read',
+    content: `
+## Why Planks Matter
+
+The plank is one of the most effective core exercises because it trains your core the way it actually functions—as a stabilizer, not a mover. Unlike crunches, planks teach your core to resist movement and protect your spine.
+
+**Benefits:**
+- Builds core stability
+- Protects lower back
+- Improves posture
+- Translates to real-world function
+- No equipment needed
+
+## The Standard Forearm Plank
+
+### Setup
+
+1. On forearms and toes
+2. Elbows directly under shoulders
+3. Forearms parallel or hands clasped
+4. Feet hip-width apart
+
+### Body Position
+
+**Head:** Neutral, looking at floor between hands
+**Shoulders:** Away from ears, shoulder blades flat
+**Back:** Completely flat—no sagging or piking
+**Hips:** In line with shoulders and ankles
+**Glutes:** Squeezed
+**Legs:** Straight, quads engaged
+
+### Common Cues
+
+- "Long spine from head to heels"
+- "Squeeze like you're about to be punched"
+- "Push the floor away"
+- "Tuck your tailbone slightly"
+
+### Breathing
+
+Don't hold your breath. Breathe normally throughout. If you can't breathe, the position is too challenging.
+
+## Common Plank Mistakes
+
+### 1. Hips Too High (Piking)
+
+**What it looks like:** Butt in the air, forming an inverted V
+**Why it's wrong:** Takes tension off the core
+**Fix:** Lower hips until body forms straight line
+
+### 2. Hips Sagging
+
+**What it looks like:** Lower back arched, belly dropping
+**Why it's wrong:** Strains lower back, defeats purpose
+**Fix:** Squeeze glutes, tuck pelvis slightly, engage abs
+
+### 3. Head Drooping
+
+**What it looks like:** Looking straight down or letting head hang
+**Why it's wrong:** Strains neck, breaks body line
+**Fix:** Look at floor slightly ahead, keep neck neutral
+
+### 4. Shoulders Shrugging
+
+**What it looks like:** Shoulders up by ears
+**Why it's wrong:** Creates neck tension
+**Fix:** Actively press shoulders down and away from ears
+
+### 5. Not Breathing
+
+**What it looks like:** Holding breath, turning red
+**Why it's wrong:** Unsustainable, dangerous
+**Fix:** Breathe normally. If you can't, plank is too hard.
+
+### 6. Watching the Clock
+
+**What it looks like:** Focusing on time, losing form
+**Why it's wrong:** Form breakdown means you're done
+**Fix:** Stop when form breaks, regardless of time
+
+## Plank Progressions
+
+### Easiest to Hardest
+
+**1. Wall Plank**
+- Hands on wall at chest height
+- Body at angle
+- Great starting point
+
+**2. Incline Plank**
+- Hands on bench, table, or stairs
+- Lower the surface as you progress
+
+**3. Knee Plank**
+- Forearms and knees
+- Body straight from knees to head
+- Don't let hips sag
+
+**4. Full Forearm Plank**
+- Standard position
+- Build to 30-60 seconds
+
+**5. Straight Arm Plank**
+- On hands instead of forearms
+- Arms straight, hands under shoulders
+- Slightly more challenging
+
+**6. Plank with Reach**
+- Full plank position
+- Reach one arm forward
+- Alternate arms
+- Resists rotation
+
+**7. Plank with Leg Lift**
+- Full plank
+- Lift one leg
+- Alternate legs
+- Increases core demand
+
+**8. Body Saw**
+- Full plank position
+- Rock forward and back on toes
+- Challenging variation
+
+## Plank Variations
+
+### Side Plank
+
+**Form:**
+1. On one forearm, feet stacked (or staggered for easier)
+2. Lift hips, body forms straight line
+3. Top arm on hip or toward ceiling
+4. Don't let hips sag forward or back
+
+**Works:** Obliques, hip stabilizers
+
+**Time:** 20-45 seconds each side
+
+### Reverse Plank
+
+**Form:**
+1. Sit, hands behind you, fingers forward
+2. Lift hips, body forms straight line
+3. Keep hips up, don't sag
+
+**Works:** Posterior chain, opens chest
+
+**Time:** 20-30 seconds
+
+### Plank to Push-Up
+
+**Form:**
+1. Start in forearm plank
+2. Press up to straight arm plank
+3. Return to forearm plank
+4. Alternate leading arm
+
+**Works:** Core, shoulders, triceps
+
+**Reps:** 5-10 each side
+
+### Dead Bug (Anti-Extension Alternative)
+
+**Form:**
+1. On back, arms up, knees at 90°
+2. Lower opposite arm and leg
+3. Keep lower back pressed to floor
+4. Return and alternate
+
+**Works:** Core stability with movement
+
+**Reps:** 8-12 each side
+
+### Bird Dog (Anti-Rotation Alternative)
+
+**Form:**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep back flat, don't rotate
+4. Hold 2-3 seconds, alternate
+
+**Works:** Core stability, back strength
+
+**Reps:** 8-10 each side
+
+### Pallof Press (Anti-Rotation with Band)
+
+**Form:**
+1. Band anchored at chest height
+2. Stand sideways to anchor
+3. Press band straight out
+4. Resist rotation
+5. Hold 2-3 seconds, return
+
+**Works:** Rotational stability
+
+**Reps:** 10-12 each side
+
+## Plank Programming
+
+### For Beginners
+
+**Goal:** Build to 30-second holds
+
+**Program:**
+- Start where you can hold good form (maybe 10-15 sec)
+- Add 5 seconds each session
+- 3 sets, rest 30-60 seconds between
+- Progress to harder variations when 30 sec is easy
+
+### For Intermediate
+
+**Goal:** Quality over quantity
+
+**Options:**
+- 3 sets of 30-45 seconds (focus on perfect form)
+- Add movement challenges (reaches, leg lifts)
+- Incorporate side planks and variations
+- Use planks as part of core circuit
+
+### For Advanced
+
+**Focus:** Variations and challenges
+
+**Options:**
+- Weighted planks (plate on back)
+- Single-arm or single-leg planks
+- Dynamic variations (plank to push-up, body saw)
+- Longer side plank holds
+
+## Sample Core Routines
+
+### Quick Core (5 Minutes)
+
+1. Forearm plank: 30 sec
+2. Side plank right: 20 sec
+3. Side plank left: 20 sec
+4. Dead bugs: 10 each side
+5. Bird dogs: 10 each side
+6. Forearm plank: 30 sec
+
+### Plank-Focused Routine
+
+1. Forearm plank: 3x30-45 sec
+2. Side plank: 2x20-30 sec each
+3. Plank with reach: 3x8 each side
+4. Plank to push-up: 2x8 total
+5. Dead bug: 2x10 each side
+
+### Complete Core Circuit
+
+1. Forearm plank: 30 sec
+2. Dead bugs: 10 each side
+3. Side plank right: 20 sec
+4. Bird dogs: 10 each side
+5. Side plank left: 20 sec
+6. Pallof press: 10 each side
+7. Plank: 30 sec
+
+**Rest 30 sec, repeat 2-3 times**
+
+## How Long Should You Hold a Plank?
+
+**The answer:** Quality matters more than time.
+
+A 20-second plank with perfect form beats a 2-minute plank with sagging hips.
+
+**General guidelines:**
+- Beginners: 10-30 seconds
+- Intermediate: 30-60 seconds
+- Advanced: 60+ seconds or move to harder variations
+
+**When to progress:** When you can hold 45-60 seconds with perfect form, move to a harder variation rather than adding time.
+
+## Planks for Back Pain
+
+Planks can help or hurt back pain depending on execution.
+
+**For back pain:**
+- Start with easier progressions
+- Focus on perfect hip position
+- Don't hold to failure
+- Stop if pain increases
+- Dead bugs may be better starting point
+
+**Avoid if:**
+- Pain worsens during or after
+- Can't maintain neutral spine
+- Doctor has advised against
+
+## The Bottom Line
+
+1. **Quality over quantity** — Form beats time
+2. **Neutral spine** — No sagging or piking
+3. **Breathe normally** — If you can't, it's too hard
+4. **Progress gradually** — Master each level before advancing
+5. **Variety matters** — Include side planks and anti-rotation work
+
+---
+
+*Foundational Rehab teaches proper core training that protects your back and builds real stability.*
+    `
+  },
+  'exercises-for-scoliosis': {
+    title: 'Exercises for Scoliosis: Manage Curvature and Reduce Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '7 min read',
+    content: `
+## Understanding Scoliosis
+
+Scoliosis is a lateral (side-to-side) curvature of the spine, often with rotation. It's more than just a curve—the spine twists, affecting the ribs and overall posture.
+
+**Types:**
+- **Idiopathic** (most common, cause unknown)
+- **Congenital** (present at birth)
+- **Neuromuscular** (from conditions like cerebral palsy)
+- **Degenerative** (develops in adulthood)
+
+**Curve severity:**
+- Mild: 10-25°
+- Moderate: 25-40°
+- Severe: 40°+
+
+**Important:** Exercise doesn't "cure" scoliosis or straighten a structural curve, but it can:
+- Reduce pain
+- Improve function
+- Slow progression (in some cases)
+- Strengthen supporting muscles
+- Improve quality of life
+
+## Before Starting
+
+### See a Professional First
+
+Scoliosis exercise should be individualized. Consider consultation with:
+- Physical therapist trained in scoliosis
+- Schroth-certified therapist
+- Spine specialist
+
+Generic exercises may not address YOUR specific curve pattern.
+
+### Know Your Curve
+
+**Right thoracic:** Curve bends right in mid-back (most common)
+**Left lumbar:** Curve bends left in lower back
+**Double curve:** Both patterns present (S-curve)
+
+The exercises you need depend on your curve type.
+
+## General Principles
+
+### Symmetry Is Not the Goal
+
+People often think "make everything even." But with scoliosis, you may need asymmetric exercises—strengthening one side more than the other to balance the curve.
+
+### Three-Dimensional Thinking
+
+Scoliosis involves:
+- Lateral bending (side curve)
+- Rotation (twist)
+- Changes in front-to-back curves
+
+Exercises must address all three.
+
+### Breathing Matters
+
+The rib cage is affected by scoliosis. Breathing exercises help expand the compressed side.
+
+## Core Stability Exercises
+
+A strong core supports the spine regardless of curve type.
+
+### Dead Bug
+
+**Form:**
+1. On back, arms up, knees at 90°
+2. Lower opposite arm and leg
+3. Keep back flat to floor
+4. Return and alternate
+
+**Reps:** 3 sets of 8-10 each side
+
+### Bird Dog
+
+**Form:**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep spine neutral
+4. Hold 3-5 seconds
+
+**Reps:** 3 sets of 8-10 each side
+
+### Plank
+
+**Form:**
+1. Forearms and toes
+2. Body straight
+3. Don't let hips sag or pike
+
+**Time:** 3 sets of 20-45 seconds
+
+### Side Plank
+
+**Note:** May need to hold longer on one side depending on curve.
+
+**Form:**
+1. On forearm and feet
+2. Body straight, hips lifted
+3. Top arm up or on hip
+
+**Time:** 2-3 sets of 15-30 seconds each side
+
+## Stretching and Mobility
+
+### Cat-Cow
+
+**Form:**
+1. On hands and knees
+2. Alternate arching and rounding spine
+3. Move through full range
+
+**Reps:** 10-15 cycles
+
+### Child's Pose
+
+**Form:**
+1. Kneel, sit back toward heels
+2. Arms extended forward
+3. Relax and breathe
+4. Can shift to side for lateral stretch
+
+**Hold:** 30-60 seconds
+
+### Prayer Stretch with Side Bend
+
+**Form:**
+1. Child's pose position
+2. Walk hands to one side
+3. Feel stretch on opposite side
+4. Hold 30 seconds each side
+
+### Thread the Needle
+
+**Form:**
+1. On hands and knees
+2. Reach one arm under body
+3. Rotate torso, shoulder to floor
+4. Hold 20-30 seconds each side
+
+### Doorway Chest Stretch
+
+Tight chest muscles are common with scoliosis.
+
+**Form:**
+1. Forearm on doorframe
+2. Step through, feel chest stretch
+3. Do at different arm angles
+4. May feel different each side—that's normal
+
+## Schroth-Inspired Exercises
+
+The Schroth method is the most studied scoliosis-specific exercise approach. These are simplified versions—consider seeing a certified therapist.
+
+### Postural Awareness
+
+**Form:**
+1. Stand in front of mirror
+2. Identify where you curve/rotate
+3. Gently try to "correct" toward center
+4. Hold corrected position
+5. Breathe into the concave (collapsed) side
+
+### Rotational Angular Breathing
+
+**Form:**
+1. Identify your concave (collapsed) side
+2. In corrected position, breathe deeply
+3. Direct breath into the collapsed ribs
+4. Expand that side with each inhale
+
+### Wall Slide with Awareness
+
+**Form:**
+1. Back against wall
+2. Arms in "goal post" position
+3. Slide arms up while maintaining contact
+4. Focus on keeping both sides even
+
+## Strengthening Exercises
+
+### Latissimus Stretch/Strengthen
+
+The lats are often tight on the convex side.
+
+**Stretch:**
+1. Reach arm overhead
+2. Side bend away from raised arm
+3. 30 seconds each side
+
+**Strengthen (weaker side):**
+1. Single-arm rows
+2. Focus on weaker side
+3. 3 sets of 12-15
+
+### Hip Strengthening
+
+Hip imbalances are common with scoliosis.
+
+**Clamshells:**
+1. Side lying, knees bent
+2. Lift top knee
+3. May need more reps on one side
+4. 3 sets of 15 each side
+
+**Side-Lying Leg Raise:**
+1. Side lying, bottom knee bent
+2. Lift top leg
+3. 3 sets of 15 each side
+
+**Bridges:**
+1. On back, knees bent
+2. Lift hips
+3. Check for level pelvis
+4. 3 sets of 15
+
+### Back Extension
+
+**Prone Extension:**
+1. Face down, arms overhead
+2. Lift chest and arms slightly
+3. Hold 3-5 seconds
+4. 3 sets of 10
+
+**Superman:**
+1. Face down
+2. Lift arms and legs simultaneously
+3. Hold 3-5 seconds
+4. 3 sets of 8-10
+
+## Swimming Exercises
+
+Water provides support and resistance—ideal for scoliosis.
+
+**Good options:**
+- Backstroke (symmetric, extension)
+- Water walking
+- Pool exercises
+- Aqua therapy
+
+**Caution with:** Breaststroke may not be ideal for all curve types.
+
+## What to Avoid
+
+### General Cautions
+
+- Heavy impact activities during growth
+- Extreme flexibility training (hypermobility)
+- Asymmetric overload without guidance
+- Ignoring pain
+
+### Activities to Discuss with Provider
+
+- Contact sports
+- Gymnastics/extreme flexibility
+- Heavy weightlifting
+- Running (may be fine, depends on curve)
+
+## Sample Routines
+
+### Daily Maintenance (10 Minutes)
+
+1. Cat-cow: 10 cycles
+2. Child's pose: 30 seconds
+3. Prayer stretch with side bend: 30 sec each
+4. Thread the needle: 20 sec each
+5. Dead bug: 8 each side
+6. Bird dog: 8 each side
+7. Plank: 30 seconds
+8. Deep breathing: 5 breaths into concave side
+
+### Strength Routine (3x/Week)
+
+1. Bird dogs: 3x10 each
+2. Dead bugs: 3x10 each
+3. Side planks: 3x20 sec each
+4. Clamshells: 3x15 each
+5. Bridges: 3x15
+6. Single-arm rows (focus on weaker side): 3x12
+7. Back extensions: 3x10
+8. Wall slides: 2x10
+
+## Managing Pain
+
+### When Pain Flares
+
+- Gentle movement (don't stop completely)
+- Heat or ice (whichever helps)
+- Focus on breathing exercises
+- Reduce exercise intensity
+- Consider trigger point release
+
+### Long-Term Pain Management
+
+- Consistent exercise program
+- Posture awareness throughout day
+- Ergonomic workstation
+- Regular movement breaks
+- Professional care as needed
+
+## When to Seek Help
+
+**See a professional if:**
+- New or worsening pain
+- Curve appears to be progressing
+- Numbness or weakness
+- Difficulty breathing
+- Want individualized program
+
+## The Bottom Line
+
+1. **Individualize** — Your curve is unique
+2. **Core stability** — Foundation for everyone
+3. **Breathe correctly** — Expand the collapsed side
+4. **Consistency matters** — Daily practice helps most
+5. **Professional guidance** — Consider Schroth-trained therapist
+
+---
+
+*Foundational Rehab provides scoliosis-aware programming. Consider consultation with a scoliosis specialist for personalized guidance.*
+    `
+  },
+  'best-glute-exercises': {
+    title: 'Best Glute Exercises: Build Stronger, More Functional Hips',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Why Glutes Matter
+
+Your glutes aren't just for aesthetics—they're the powerhouse of your body. Strong glutes:
+
+- Protect your lower back
+- Prevent knee pain
+- Improve athletic performance
+- Enable powerful movement
+- Support good posture
+- Help with hip pain
+
+**The problem:** Modern life (sitting) turns off your glutes. They become weak and "sleepy," forcing other muscles to compensate.
+
+## Glute Anatomy Basics
+
+### Gluteus Maximus
+
+The biggest muscle in your body. Responsible for:
+- Hip extension (standing up, climbing)
+- External rotation
+- Power movements
+
+### Gluteus Medius
+
+On the side of hip. Responsible for:
+- Hip abduction (moving leg away)
+- Pelvic stability (single-leg stance)
+- Preventing knee collapse
+
+### Gluteus Minimus
+
+Deep to medius, similar functions:
+- Hip abduction
+- Internal rotation
+- Stabilization
+
+**All three matter.** Different exercises target different glute muscles.
+
+## Activation Exercises
+
+Before heavy glute work, wake them up.
+
+### Glute Squeeze
+
+**Form:**
+1. Stand or lie down
+2. Squeeze glutes as hard as possible
+3. Hold 5-10 seconds
+4. Release
+
+**Reps:** 10-15 (do before workouts)
+
+### Clamshell
+
+**Form:**
+1. Side lying, knees bent 45°
+2. Keep feet together
+3. Lift top knee (opening like clamshell)
+4. Don't rotate pelvis
+5. Lower slowly
+
+**Reps:** 15-20 each side
+
+**Add band:** Above knees for more challenge
+
+### Banded Monster Walk
+
+**Form:**
+1. Band around ankles (or above knees)
+2. Quarter squat position
+3. Step sideways, maintaining tension
+4. Keep toes forward
+
+**Reps:** 15-20 steps each direction
+
+### Fire Hydrant
+
+**Form:**
+1. On hands and knees
+2. Keep knee bent 90°
+3. Lift knee out to side
+4. Don't shift weight away
+5. Lower slowly
+
+**Reps:** 15 each side
+
+## Glute Max Exercises
+
+### Glute Bridge
+
+**Form:**
+1. On back, knees bent, feet flat
+2. Feet hip-width apart
+3. Push through heels
+4. Lift hips, squeeze glutes hard at top
+5. Lower slowly
+
+**Reps:** 3 sets of 15-20
+
+**Progressions:**
+- Single-leg bridge
+- Feet elevated
+- Weighted (barbell on hips)
+
+### Hip Thrust
+
+The king of glute exercises.
+
+**Form:**
+1. Upper back on bench
+2. Feet flat on floor
+3. Drive through heels
+4. Lift hips until thighs parallel to floor
+5. Squeeze glutes at top
+6. Lower with control
+
+**Reps:** 3 sets of 10-15
+
+**Progressions:**
+- Bodyweight → Barbell → Heavy
+- Single-leg variations
+
+### Romanian Deadlift (RDL)
+
+**Form:**
+1. Stand with weight in hands
+2. Push hips back, slight knee bend
+3. Lower until hamstring stretch
+4. Squeeze glutes to stand
+
+**Reps:** 3 sets of 10-12
+
+**Variations:**
+- Barbell, dumbbell, kettlebell
+- Single-leg RDL
+- Staggered stance
+
+### Step-Up
+
+**Form:**
+1. Step onto box/bench
+2. Drive through heel of top foot
+3. Stand tall at top
+4. Lower with control
+5. Don't push off with back foot
+
+**Reps:** 3 sets of 10-12 each leg
+
+### Bulgarian Split Squat
+
+**Form:**
+1. Back foot on bench behind you
+2. Lower straight down
+3. Front knee tracks over toes
+4. Drive through front heel
+
+**Reps:** 3 sets of 8-12 each leg
+
+### Squat Variations
+
+**Best for glutes:**
+- Low bar back squat
+- Sumo squat (wide stance)
+- Deep squat (if mobility allows)
+
+**Key:** Push knees out, sit back, full range
+
+## Glute Med Exercises
+
+### Side-Lying Hip Abduction
+
+**Form:**
+1. Side lying, bottom leg bent for stability
+2. Top leg straight
+3. Lift toward ceiling
+4. Keep toe pointing forward (not up)
+5. Lower slowly
+
+**Reps:** 3 sets of 15-20 each
+
+### Standing Hip Abduction
+
+**Form:**
+1. Stand on one leg (hold something for balance)
+2. Lift other leg out to side
+3. Keep body upright
+4. Lower slowly
+
+**Reps:** 3 sets of 15 each leg
+
+**Add band:** Around ankles for resistance
+
+### Copenhagen Plank
+
+**Form:**
+1. Side plank position
+2. Top leg on bench
+3. Bottom leg hangs
+4. Lift bottom leg to meet top leg
+5. Hold position
+
+**Time:** 15-30 seconds each side
+
+### Single-Leg Stance
+
+**Form:**
+1. Stand on one leg
+2. Keep pelvis level (don't let hip drop)
+3. Hold 30-60 seconds
+
+**Why:** If hip drops, glute med is weak
+
+### Lateral Band Walk
+
+**Form:**
+1. Band above knees or around ankles
+2. Quarter squat position
+3. Step sideways, maintaining tension
+4. Don't let knees collapse
+
+**Reps:** 15-20 steps each direction
+
+## Sample Glute Workouts
+
+### Quick Glute Activation (5 Minutes)
+
+Before any lower body workout:
+1. Glute squeezes: 10 reps
+2. Clamshells: 15 each side
+3. Glute bridges: 15 reps
+4. Fire hydrants: 10 each side
+
+### Glute-Focused Strength Workout
+
+1. Hip thrust: 4x10-12
+2. Bulgarian split squat: 3x10 each
+3. Romanian deadlift: 3x10
+4. Cable hip abduction: 3x15 each
+5. Banded clamshells: 2x20 each
+6. Single-leg glute bridge: 2x12 each
+
+### Bodyweight Glute Workout
+
+1. Glute bridges: 3x20
+2. Single-leg bridges: 3x12 each
+3. Clamshells: 3x20 each
+4. Fire hydrants: 3x15 each
+5. Donkey kicks: 3x15 each
+6. Lateral band walks: 3x15 each direction
+7. Step-ups: 3x12 each
+
+### Glute Med Emphasis
+
+1. Side-lying hip abduction: 3x20 each
+2. Standing hip abduction: 3x15 each
+3. Lateral band walks: 3x20 each direction
+4. Single-leg stance: 3x30 sec each
+5. Clamshells with pause: 3x15 each
+6. Single-leg glute bridge: 3x12 each
+
+## Programming Guidelines
+
+### Frequency
+
+- 2-3 times per week for growth
+- Include in every lower body workout
+- Activation daily if glutes are "sleepy"
+
+### Exercise Selection
+
+Include each session:
+- 1-2 glute max exercises (bridge/thrust, RDL, squat)
+- 1-2 glute med exercises (abduction, clamshell)
+
+### Mind-Muscle Connection
+
+**Crucial for glutes.** If you don't feel them working:
+- Slow down
+- Squeeze at top of movement
+- Try different foot positions
+- Do activation exercises first
+
+### Progressive Overload
+
+- Add reps before weight
+- Add weight gradually
+- Track your progress
+
+## Common Mistakes
+
+### 1. Using Too Much Lower Back
+
+If your back hurts after glute work, glutes aren't firing properly.
+
+**Fix:** More activation work, lighter weights, focus on squeeze.
+
+### 2. Going Too Fast
+
+Momentum reduces glute activation.
+
+**Fix:** Slow down, pause at contraction, control the negative.
+
+### 3. Not Going Deep Enough
+
+Partial range = partial activation.
+
+**Fix:** Full range of motion where possible.
+
+### 4. Neglecting Glute Med
+
+Most people only train glute max.
+
+**Fix:** Include hip abduction work every session.
+
+### 5. Ignoring Mind-Muscle Connection
+
+Just going through motions doesn't work for glutes.
+
+**Fix:** Focus on feeling the glutes contract, not just moving weight.
+
+## The Bottom Line
+
+1. **Activate first** — Wake up sleepy glutes
+2. **Train all three** — Max AND medius/minimus
+3. **Hip thrust is king** — Best overall glute builder
+4. **Feel the squeeze** — Mind-muscle connection matters
+5. **Be consistent** — 2-3x per week for best results
+
+---
+
+*Foundational Rehab helps you build strong, functional glutes that protect your back and improve performance.*
+    `
+  },
+  'how-to-improve-balance': {
+    title: 'How to Improve Balance: Exercises for Better Stability',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '6 min read',
+    content: `
+## Why Balance Matters
+
+Balance isn't just for athletes or elderly fall prevention—it's fundamental to all movement. Good balance means:
+
+- Reduced injury risk
+- Better athletic performance
+- Improved daily function
+- Fall prevention as you age
+- Stronger core and stabilizers
+
+**The reality:** Balance peaks around age 20 and declines from there. Without training, it gets worse. With training, you can maintain and even improve it at any age.
+
+## How Balance Works
+
+Balance relies on three systems:
+
+### 1. Visual System
+Your eyes tell your brain where you are in space.
+
+### 2. Vestibular System
+Your inner ear detects head position and movement.
+
+### 3. Proprioceptive System
+Sensors in muscles and joints detect body position.
+
+**Good balance = all three systems working together.**
+
+Training can improve each system.
+
+## Balance Assessment
+
+### Single-Leg Stance Test
+
+**How to test:**
+1. Stand on one leg
+2. Hands on hips
+3. Other foot off ground
+4. Time how long you can hold
+
+**Benchmarks:**
+- Under 30: Should hold 30+ seconds
+- 30-40: Should hold 25+ seconds
+- 40-50: Should hold 20+ seconds
+- 50-60: Should hold 15+ seconds
+- 60+: Should hold 10+ seconds
+
+**Eyes closed:** Cut these times roughly in half.
+
+### Romberg Test
+
+**How to test:**
+1. Stand feet together
+2. Arms at sides
+3. Close eyes
+4. Hold 30 seconds
+
+**If you sway significantly:** Proprioception or vestibular issues may exist.
+
+## Beginner Balance Exercises
+
+### Single-Leg Stance
+
+**Form:**
+1. Stand on one leg
+2. Other foot just off ground
+3. Arms at sides (hold something if needed)
+4. Hold 30 seconds, switch sides
+
+**Progressions:**
+- Hold wall → No support
+- Eyes open → Eyes closed
+- Firm surface → Soft surface
+
+### Heel-to-Toe Walk (Tandem Walk)
+
+**Form:**
+1. Walk in straight line
+2. Place heel directly in front of opposite toe
+3. Arms out for balance
+4. 10-20 steps
+
+### Weight Shifts
+
+**Form:**
+1. Stand feet hip-width
+2. Shift weight to one foot
+3. Lift other foot slightly
+4. Hold 5 seconds
+5. Shift to other side
+
+**Reps:** 10-15 each side
+
+### Marching in Place
+
+**Form:**
+1. Stand tall
+2. Lift one knee to hip height
+3. Hold 2-3 seconds
+4. Lower and switch
+5. Controlled, not fast
+
+**Reps:** 20 total (10 each side)
+
+### Sit-to-Stand
+
+**Form:**
+1. Sit in chair
+2. Stand up without using hands
+3. Sit back down slowly
+4. Controlled motion
+
+**Reps:** 10-15
+
+**Progression:** Use lower chair, add single-leg sit-to-stand.
+
+## Intermediate Balance Exercises
+
+### Single-Leg Stance with Movement
+
+**Arm reaches:**
+- Stand on one leg
+- Reach arms in different directions
+- 30 seconds each leg
+
+**Head turns:**
+- Stand on one leg
+- Slowly turn head side to side
+- Look up and down
+- 30 seconds each leg
+
+### Clock Reaches
+
+**Form:**
+1. Stand on one leg
+2. Reach other foot to 12 o'clock (forward)
+3. Return to center
+4. Reach to 3 o'clock (side)
+5. Reach to 6 o'clock (back)
+6. Continue around the "clock"
+
+**Reps:** 2-3 rounds each leg
+
+### Single-Leg Romanian Deadlift
+
+**Form:**
+1. Stand on one leg
+2. Hinge forward at hip
+3. Back leg extends behind you
+4. Touch floor or stop at hamstring stretch
+5. Return to standing
+
+**Reps:** 8-10 each leg
+
+### Step-Up with Balance
+
+**Form:**
+1. Step onto box/stair
+2. Bring other knee to hip height
+3. Hold 2-3 seconds
+4. Step down with control
+
+**Reps:** 10 each leg
+
+### Lateral Stepping
+
+**Form:**
+1. Step to side
+2. Bring feet together
+3. Continue same direction
+4. 10 steps, switch directions
+
+**Add challenge:** Go over small obstacles.
+
+## Advanced Balance Exercises
+
+### Single-Leg Squat (Pistol Progression)
+
+**Assisted:**
+1. Stand on one leg
+2. Hold TRX or doorframe
+3. Squat down on single leg
+4. Stand back up with assistance
+
+**Progression:** Less assistance, deeper squat, no support.
+
+### Single-Leg Hop and Stick
+
+**Form:**
+1. Stand on one leg
+2. Hop forward
+3. Stick the landing (no extra steps)
+4. Hold 3 seconds
+5. Hop different directions
+
+**Reps:** 5-8 each direction, each leg
+
+### Bosu Ball or Unstable Surface Training
+
+**Options:**
+- Single-leg stance on Bosu
+- Squats on Bosu
+- Foam pad standing
+- Balance board
+
+**Note:** Don't go unstable if you can't handle stable surfaces first.
+
+### Eyes Closed Challenges
+
+**Progress any exercise by closing eyes:**
+- Single-leg stance, eyes closed
+- Heel-toe walk, eyes closed
+- Weight shifts, eyes closed
+
+**Why it works:** Removes visual system, forces proprioception to work harder.
+
+### Reactive Balance
+
+**Partner perturbations:**
+1. Stand balanced
+2. Partner gently pushes/pulls you off balance
+3. React and recover
+4. Light pushes from different angles
+
+## Balance Training for Specific Goals
+
+### Fall Prevention (Older Adults)
+
+**Focus on:**
+- Single-leg stance
+- Sit-to-stand
+- Heel-toe walking
+- Stepping over obstacles
+- Quick foot movements
+
+**Frequency:** Daily, even brief sessions help.
+
+### Athletic Performance
+
+**Focus on:**
+- Single-leg power (hops, jumps)
+- Reactive balance
+- Unstable surface training
+- Sport-specific movements
+
+**Frequency:** 2-3x per week, integrated with training.
+
+### Injury Recovery
+
+**Focus on:**
+- Regaining proprioception
+- Progressive challenges
+- Sport-specific balance if returning to activity
+
+**Work with professional:** Especially after ankle, knee, or hip injury.
+
+## Sample Balance Routines
+
+### Daily Maintenance (5 Minutes)
+
+1. Single-leg stance: 30 sec each side
+2. Heel-toe walk: 20 steps
+3. Weight shifts: 10 each side
+4. Marching: 20 steps
+
+### Balance-Focused Workout (15 Minutes)
+
+1. Single-leg stance: 3x30 sec each
+2. Clock reaches: 2 rounds each leg
+3. Single-leg RDL: 3x8 each
+4. Heel-toe walk: 2x20 steps
+5. Step-up with balance: 2x10 each
+6. Lateral stepping: 10 each direction
+
+### Advanced Balance Circuit
+
+1. Single-leg squat (assisted): 3x8 each
+2. Single-leg hop and stick: 5 each direction, each leg
+3. Bosu single-leg stance: 30 sec each
+4. Eyes-closed single-leg stance: 3x15 sec each
+5. Reactive balance with partner: 2 minutes
+
+## Tips for Success
+
+### Start Simple
+
+Begin with supported single-leg stance. Progress only when solid.
+
+### Practice Daily
+
+Brief daily practice beats occasional long sessions.
+
+### Challenge Yourself
+
+Once something is easy, make it harder. Balance improves through challenge.
+
+### Include in Warm-Up
+
+Balance exercises make great warm-up activities.
+
+### Be Safe
+
+Have something to grab if you lose balance. Use spotter for advanced exercises.
+
+## Common Mistakes
+
+### 1. Only Training Stable Surfaces
+
+Real life is unstable. Progress to soft, uneven, or dynamic surfaces.
+
+### 2. Always Using Visual Reference
+
+Practice with eyes closed to improve proprioception.
+
+### 3. Skipping Single-Leg Work
+
+Most activities are single-leg dominant. Train accordingly.
+
+### 4. Not Progressing
+
+Same exercises at same difficulty = no improvement.
+
+## The Bottom Line
+
+1. **Test yourself** — Know your starting point
+2. **Practice daily** — Brief sessions add up
+3. **Challenge all systems** — Vision, vestibular, proprioception
+4. **Progress gradually** — Easy to hard, stable to unstable
+5. **It's trainable at any age** — Balance can always improve
+
+---
+
+*Foundational Rehab includes balance training as part of comprehensive programs for function and injury prevention.*
+    `
   }
 };
 
