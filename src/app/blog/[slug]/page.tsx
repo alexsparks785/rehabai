@@ -119963,6 +119963,1375 @@ Adjust based on how you feel. Some days need more hip work, others more back.
 
 *Foundational Rehab includes morning mobility routines designed to wake up your body safely and effectively.*
     `
+  },
+  'how-to-deadlift-properly': {
+    title: 'How to Deadlift Properly: Complete Form Guide for Safe Lifting',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Why the Deadlift Matters
+
+The deadlift is one of the most functional exercises you can do. You deadlift every time you:
+
+- Pick up groceries
+- Lift a child
+- Move furniture
+- Get something off the floor
+
+A proper deadlift protects your back, builds total body strength, and trains the hip hinge pattern essential for daily life. Poor deadlift form is a fast track to back injury.
+
+## The Conventional Deadlift Setup
+
+### Stance
+
+**Foot position:**
+- Feet hip-width apart (narrower than squat)
+- Toes pointed forward or slightly out
+- Bar over mid-foot (about 1 inch from shins)
+
+### Grip
+
+**Standard grip:**
+- Hands just outside legs
+- Double overhand grip to start
+- Arms straight, not bent
+
+**Grip width:** When standing, arms should hang straight down.
+
+### The Setup Sequence
+
+**Step 1: Walk to the bar**
+- Position feet under bar
+- Bar over mid-foot
+
+**Step 2: Hinge and grip**
+- Push hips back
+- Bend knees until shins touch bar
+- Grip the bar
+
+**Step 3: Set your back**
+- Chest up, squeeze shoulder blades
+- Neutral spine (flat back)
+- Take a deep breath, brace core
+
+**Step 4: Create tension**
+- "Pull the slack out" of the bar
+- Arms straight, lats engaged
+- Feel the weight before you lift
+
+## The Lift
+
+### Initiation
+
+**Don't:**
+- Jerk the bar off the floor
+- Let your hips shoot up first
+- Round your back
+
+**Do:**
+- Push the floor away with your legs
+- Keep chest up and back flat
+- Bar stays close to body
+
+### Mid-Pull
+
+- Bar travels straight up (not around knees)
+- Hips and shoulders rise at same rate
+- Back angle stays constant
+- Bar drags up your shins/thighs
+
+### Lockout
+
+- Stand tall (don't hyperextend)
+- Squeeze glutes at top
+- Shoulders back, chest proud
+- Don't lean back excessively
+
+### The Descent
+
+**Control it:**
+- Push hips back first
+- Bend knees once bar passes them
+- Keep back flat
+- Don't drop the weight
+
+## Common Deadlift Mistakes
+
+### 1. Rounding the Lower Back
+
+**The problem:** Spine flexion under load = disc injury risk.
+
+**Fixes:**
+- Set your back before lifting (chest up)
+- Engage lats ("protect your armpits")
+- If you can't keep flat back, reduce weight
+- Work on hip mobility
+
+### 2. Bar Drifting Away
+
+**The problem:** Bar moving forward = more back stress.
+
+**Fixes:**
+- Keep bar against your body entire lift
+- Engage lats to pull bar in
+- Wear long pants or shin guards
+- Think "drag the bar up your legs"
+
+### 3. Hips Rising First
+
+**The problem:** Turns into a stiff-leg deadlift, all lower back.
+
+**Fixes:**
+- Think "push the floor away"
+- Keep chest up as you initiate
+- Strengthen quads
+- May need to lower weight
+
+### 4. Hyperextending at Top
+
+**The problem:** Stress on lower back at lockout.
+
+**Fixes:**
+- Stand tall, don't lean back
+- Squeeze glutes, not back extensors
+- Finish with hips, not spine
+
+### 5. Looking Up
+
+**The problem:** Cervical hyperextension under load.
+
+**Fixes:**
+- Neutral neck (chin tucked slightly)
+- Look at floor 10-15 feet ahead
+- Neck follows spine
+
+## Deadlift Variations
+
+### Sumo Deadlift
+
+**Setup:**
+- Wide stance (feet near plates)
+- Toes pointed out 30-45°
+- Grip inside legs
+- More upright torso
+
+**Best for:**
+- Longer torsos
+- Hip mobility issues
+- Quad emphasis
+- Some find it easier on lower back
+
+### Romanian Deadlift (RDL)
+
+**Form:**
+- Start standing with weight
+- Push hips back, slight knee bend
+- Lower until hamstring stretch
+- Keep back flat throughout
+
+**Best for:**
+- Hamstring and glute focus
+- Learning hip hinge
+- Accessory work
+- Less technical than full deadlift
+
+### Trap Bar Deadlift
+
+**Form:**
+- Stand inside trap bar
+- Neutral grip on handles
+- More upright torso than conventional
+
+**Best for:**
+- Beginners
+- Back issues (reduced shear force)
+- Athletic training
+- Learning the pattern
+
+### Deficit Deadlift
+
+**Form:**
+- Stand on 1-4 inch platform
+- Increases range of motion
+- More challenging off floor
+
+**Best for:**
+- Improving bottom position
+- Advanced lifters
+- Addressing weakness off floor
+
+### Block/Rack Pull
+
+**Form:**
+- Bar starts elevated (blocks or rack)
+- Reduced range of motion
+
+**Best for:**
+- Lockout strength
+- Working around injury
+- Handling heavier weights
+
+## Deadlift Progressions
+
+### Level 1: Hip Hinge Pattern
+
+**Dowel hip hinge:**
+1. Hold dowel along spine (head, upper back, sacrum touching)
+2. Push hips back
+3. Maintain all three contact points
+4. This teaches neutral spine during hinge
+
+### Level 2: Romanian Deadlift
+
+- Start with light weight
+- Master the hinge with load
+- Build hamstring strength
+- Progress to full deadlift when solid
+
+### Level 3: Trap Bar Deadlift
+
+- More forgiving form
+- Learn to lift from floor
+- Build confidence and strength
+
+### Level 4: Conventional Deadlift
+
+- Full movement pattern
+- Progress weight gradually
+- Focus on form over numbers
+
+## Mobility for Better Deadlifts
+
+### Hamstring Mobility
+
+**Loaded stretch:**
+1. Light RDL, hold at bottom
+2. 30-60 seconds
+3. Feel hamstring stretch under tension
+
+### Hip Hinge Mobility
+
+**Wall hip hinge:**
+1. Stand 6 inches from wall, facing away
+2. Push hips back to touch wall
+3. Keep back flat
+4. 10-15 reps
+
+### Thoracic Mobility
+
+**Foam roller extension:**
+1. Roller across upper back
+2. Extend over roller
+3. Improves ability to keep chest up
+
+## Programming Considerations
+
+### Frequency
+
+**Beginners:** 1-2x per week
+**Intermediate:** 1-2x per week (with variations)
+**Advanced:** 1-2x heavy + accessory work
+
+### Rep Ranges
+
+- **Strength:** 1-5 reps, heavier weight
+- **Hypertrophy:** 6-12 reps, moderate weight
+- **Technique:** 5-8 reps, lighter weight, perfect form
+
+### Warm-Up Protocol
+
+1. General warm-up (5 min light cardio)
+2. Hip hinge practice (dowel or bodyweight)
+3. Empty bar: 10 reps
+4. 50% working weight: 5 reps
+5. 70% working weight: 3 reps
+6. 85% working weight: 1-2 reps
+7. Working sets
+
+## Safety Considerations
+
+### When to Stop
+
+- Any sharp pain
+- Form breaking down
+- Excessive fatigue
+- Can't maintain neutral spine
+
+### Belt Use
+
+**Benefits:**
+- Increases intra-abdominal pressure
+- Can lift more weight
+- May reduce injury risk at heavy loads
+
+**When to use:**
+- Heavier sets (80%+ of max)
+- Don't rely on it for all sets
+- Learn to brace without it first
+
+### Breathing and Bracing
+
+1. Take deep breath before lift
+2. Brace core (push out against belt if wearing)
+3. Hold breath during lift
+4. Exhale at top
+5. Reset breath between reps
+
+## Sample Programs
+
+### Beginner (First 8 Weeks)
+
+**2x per week:**
+- Week 1-2: RDL 3x10, hip hinge drills
+- Week 3-4: Trap bar deadlift 3x8
+- Week 5-6: Conventional deadlift 3x5
+- Week 7-8: Conventional deadlift 4x5
+
+### Intermediate Maintenance
+
+**1x per week:**
+- Conventional deadlift: 3x5
+- RDL: 3x8-10
+- Accessory work (rows, back extensions)
+
+## The Bottom Line
+
+1. **Master the hip hinge** — Foundation of the movement
+2. **Keep the bar close** — Against your body entire lift
+3. **Neutral spine always** — No rounding under load
+4. **Progress gradually** — Form before weight
+5. **Use variations** — Match to your goals and body
+
+---
+
+*Foundational Rehab teaches proper lifting mechanics to protect your back and build real-world strength.*
+    `
+  },
+  'exercises-for-neck-pain': {
+    title: 'Exercises for Neck Pain: Relieve Tension and Build Strength',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '7 min read',
+    content: `
+## Understanding Neck Pain
+
+Neck pain is extremely common—most adults will experience it at some point. The good news: most neck pain responds well to exercise and doesn't require surgery or extensive treatment.
+
+**Common causes:**
+- Poor posture (forward head, rounded shoulders)
+- Muscle tension and trigger points
+- Desk work and phone use
+- Sleeping position
+- Stress and anxiety
+- Degenerative changes (arthritis)
+- Acute injury (whiplash, strain)
+
+**Red flags (see a doctor):**
+- Pain after trauma
+- Arm weakness or numbness
+- Difficulty walking or balance issues
+- Severe headache with neck stiffness
+- Fever with neck pain
+- Pain that wakes you at night
+- Unexplained weight loss
+
+## Phase 1: Pain Relief
+
+### Heat vs. Ice
+
+**Heat:** Better for muscle tension, chronic pain
+**Ice:** Better for acute injury, inflammation
+
+When in doubt, use what feels better.
+
+### Gentle Range of Motion
+
+**Neck rotations:**
+1. Slowly turn head to look over each shoulder
+2. Go only to comfortable range
+3. 5-10 each direction
+4. No forcing
+
+**Side bends:**
+1. Gently tilt ear toward shoulder
+2. Don't raise shoulder
+3. 5-10 each direction
+
+**Flexion/Extension:**
+1. Gently tuck chin to chest
+2. Then look up toward ceiling
+3. 5-10 cycles
+4. Avoid extremes if painful
+
+### Self-Massage
+
+**Suboccipital release:**
+1. Lie on back
+2. Place tennis balls under base of skull
+3. Let head rest on balls
+4. 2-3 minutes
+
+**Upper trap release:**
+1. Find tender spots in upper traps
+2. Apply pressure with fingers or ball
+3. Hold 30-60 seconds per spot
+
+## Phase 2: Stretching
+
+### Upper Trapezius Stretch
+
+**Form:**
+1. Sit or stand tall
+2. Tilt ear toward shoulder
+3. Use hand to gently increase stretch
+4. Keep opposite shoulder down
+5. Hold 30 seconds each side
+
+### Levator Scapulae Stretch
+
+**Form:**
+1. Turn head 45° (look toward armpit)
+2. Tilt head down toward armpit
+3. Use hand on back of head for gentle pressure
+4. Feel stretch in back/side of neck
+5. Hold 30 seconds each side
+
+### Scalene Stretch
+
+**Form:**
+1. Sit tall, hold bottom of chair with one hand
+2. Tilt head away from that side
+3. Rotate head slightly up
+4. Feel stretch in side of neck
+5. Hold 30 seconds each side
+
+### SCM Stretch
+
+**Form:**
+1. Tilt head back slightly
+2. Rotate head to one side
+3. Tilt ear away from rotated side
+4. Feel stretch in front/side of neck
+5. Hold 30 seconds each side
+
+### Chest Stretch
+
+Tight pecs pull shoulders forward, affecting neck.
+
+**Doorway stretch:**
+1. Forearm on doorframe
+2. Step through and lean
+3. 30 seconds at different angles
+
+## Phase 3: Strengthening
+
+### Chin Tucks (Foundation Exercise)
+
+**Form:**
+1. Sit or stand tall
+2. Draw chin straight back (make double chin)
+3. Don't tilt head up or down
+4. Hold 5-10 seconds
+5. Release
+
+**Cue:** "Slide head backward on a shelf"
+
+**Reps:** 10-15, multiple times daily
+
+### Deep Neck Flexor Strengthening
+
+The deep neck flexors are often weak in neck pain.
+
+**Supine head lift:**
+1. Lie on back, knees bent
+2. Tuck chin (don't lead with chin poking out)
+3. Lift head barely off floor
+4. Hold 5-10 seconds
+5. Lower if front of throat or jaw strains
+
+**Reps:** 5-10 holds
+
+### Chin Tuck with Resistance
+
+**Form:**
+1. Place hand on forehead
+2. Perform chin tuck
+3. Gently press head into hand (no movement)
+4. Hold 5-10 seconds
+
+**Reps:** 10-15
+
+### Isometric Neck Strengthening
+
+**All directions:**
+1. Hand on forehead—press forward into hand
+2. Hand on back of head—press backward
+3. Hand on side of head—press sideways
+4. Hold 5-10 seconds each direction
+5. No movement, just resistance
+
+**Reps:** 5-10 each direction
+
+### Neck Extension Strengthening
+
+**Prone position:**
+1. Lie face down, forehead on rolled towel
+2. Tuck chin
+3. Lift head slightly (nose off surface)
+4. Keep chin tucked throughout
+5. Hold 5 seconds
+
+**Reps:** 10-15
+
+### Shoulder Blade Squeezes
+
+**Form:**
+1. Sit or stand tall
+2. Squeeze shoulder blades together
+3. Don't shrug shoulders
+4. Hold 5 seconds
+5. Release
+
+**Reps:** 15-20
+
+## Phase 4: Upper Back Strengthening
+
+Neck pain often relates to upper back weakness.
+
+### Y-T-W Raises
+
+**Form (lying face down or standing bent over):**
+- **Y:** Arms at 45° overhead, lift and squeeze
+- **T:** Arms at 90°, lift and squeeze
+- **W:** Elbows bent, externally rotate as you lift
+
+**Reps:** 10 each position
+
+### Face Pulls
+
+**With band:**
+1. Band at face height
+2. Pull toward face
+3. Separate hands at end (external rotation)
+4. Squeeze shoulder blades
+5. Slow return
+
+**Reps:** 15-20
+
+### Rows
+
+**Band or dumbbell:**
+1. Pull toward body
+2. Squeeze shoulder blade back
+3. Don't shrug
+4. Control return
+
+**Reps:** 15 each side
+
+## Posture and Habits
+
+### Workstation Setup
+
+**Monitor:**
+- Top of screen at eye level
+- Arm's length away
+- Directly in front
+
+**Chair:**
+- Lumbar support
+- Feet flat on floor
+- Armrests at elbow height
+
+### Phone Habits
+
+- Bring phone to eye level
+- Use speakerphone or headset
+- Take breaks every few minutes
+- Don't hold phone with shoulder
+
+### Sleep Position
+
+**Best positions:**
+- On back with supportive pillow
+- On side with pillow filling neck-shoulder gap
+
+**Avoid:**
+- Stomach sleeping (neck rotated all night)
+- Too many pillows (neck flexed)
+- Too flat (no neck support)
+
+### Stress Management
+
+Stress causes muscle tension, especially in neck/shoulders.
+
+- Breathing exercises
+- Regular breaks
+- Shoulder shrugs and releases
+- Address underlying stress
+
+## Sample Programs
+
+### Daily Maintenance (5-10 Minutes)
+
+1. Chin tucks: 10-15 reps
+2. Upper trap stretch: 30 sec each side
+3. Levator stretch: 30 sec each side
+4. Shoulder blade squeezes: 15 reps
+5. Isometric neck strengthening: 5 each direction
+
+### Rehab Protocol (Neck Pain)
+
+**Week 1-2:**
+- Gentle ROM
+- Heat/self-massage
+- Chin tucks
+- Stretches
+
+**Week 3-4:**
+- Add isometric strengthening
+- Deep neck flexor holds
+- Continue stretches
+
+**Week 5-6:**
+- Y-T-W raises
+- Face pulls
+- Rows
+- Progress chin tuck resistance
+
+**Week 7+:**
+- Full strengthening program
+- Maintain mobility work
+- Address posture habits
+
+### Throughout Day
+
+- Chin tucks: Every hour at desk
+- Posture check: Every 30 minutes
+- Movement break: Every 60 minutes
+- Stretches: As needed
+
+## Common Mistakes
+
+### 1. Aggressive Stretching
+
+Neck is sensitive. Gentle, sustained stretches work better than forcing.
+
+### 2. Cracking Your Own Neck
+
+Risks outweigh benefits. See cervical manipulation safety concerns.
+
+### 3. Ignoring the Upper Back
+
+Weak upper back = poor posture = neck pain. Strengthen it.
+
+### 4. Sleeping on Stomach
+
+Rotating neck all night strains it. Switch to back or side.
+
+### 5. Only Treating Symptoms
+
+Address the cause (posture, stress, workstation) not just the pain.
+
+## When to Seek Help
+
+**See a professional if:**
+- Pain persists >2-3 weeks despite exercises
+- Arm symptoms (numbness, tingling, weakness)
+- Severe or worsening pain
+- Pain after injury
+- Associated headaches that don't improve
+
+## The Bottom Line
+
+1. **Chin tucks are key** — Fundamental exercise for neck health
+2. **Stretch AND strengthen** — Both matter
+3. **Fix your posture** — Workstation, phone, sleep
+4. **Strengthen upper back** — Supports the neck
+5. **Be patient** — Neck issues take time to resolve
+
+---
+
+*Foundational Rehab provides comprehensive neck programs addressing pain, mobility, and long-term prevention.*
+    `
+  },
+  'how-to-foam-roll': {
+    title: 'How to Foam Roll: Complete Guide to Self-Myofascial Release',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Recovery',
+    readTime: '7 min read',
+    content: `
+## What Is Foam Rolling?
+
+Foam rolling is a form of self-myofascial release (SMR)—essentially self-massage using a foam cylinder. It's become one of the most popular recovery tools, found in nearly every gym and many homes.
+
+**Proposed benefits:**
+- Reduces muscle soreness (DOMS)
+- Improves range of motion temporarily
+- Increases blood flow
+- May reduce muscle tension
+- Helps with recovery
+
+**What the research says:**
+- Definitely helps with perceived soreness
+- Short-term mobility improvements (10-20 minutes)
+- Limited evidence for long-term flexibility gains
+- Probably works through nervous system effects, not "breaking up adhesions"
+
+## Choosing a Foam Roller
+
+### Density
+
+**Soft (white):** Best for beginners, sensitive areas
+**Medium (blue/green):** Good all-purpose choice
+**Firm (black):** More intense, experienced users
+**Extra firm (textured):** Very aggressive, not for everyone
+
+### Size
+
+**Long (36"):** Full back rolling, versatile
+**Medium (18"):** Travel-friendly, targeted areas
+**Small (12"):** Very portable, specific work
+
+### Texture
+
+**Smooth:** Even pressure, less intense
+**Grid/ridged:** More targeted, intense
+**Bumpy/spiky:** Most aggressive, specific trigger points
+
+**Start with:** Medium density, smooth, full-length roller.
+
+## General Foam Rolling Guidelines
+
+### Technique
+
+1. **Position body on roller** over target muscle
+2. **Roll slowly** (1 inch per second)
+3. **Find tender spots** and pause there
+4. **Breathe** and try to relax into the pressure
+5. **Spend 30-90 seconds** per area
+
+### Pressure
+
+- Start lighter, increase as tolerated
+- Shouldn't be excruciating (aim for 6-7/10 discomfort)
+- Pain that makes you hold your breath = too much
+
+### Timing
+
+**Before exercise:** Brief rolling (30-60 sec/area) for warm-up
+**After exercise:** Longer rolling (60-90 sec/area) for recovery
+**Separate session:** Can do anytime for maintenance
+
+### What to Avoid
+
+- Rolling directly on bones
+- Rolling on joints
+- Rolling on injured/inflamed areas
+- Rolling on the lower back (debated—see below)
+
+## Body Part Guide
+
+### Calves (Gastrocnemius/Soleus)
+
+**Position:**
+1. Sit with roller under calves
+2. Hands behind you for support
+3. Cross legs for more pressure (optional)
+
+**Technique:**
+- Roll from ankle to below knee
+- Rotate leg to get all angles (inside, middle, outside)
+- 1-2 minutes per leg
+
+**Focus areas:** Middle of calf, Achilles insertion
+
+### IT Band (Lateral Thigh)
+
+**Position:**
+1. Lie on side
+2. Roller under outer thigh
+3. Bottom leg straight, top leg bent in front for support
+
+**Technique:**
+- Roll from hip to just above knee
+- This area is often very tender—start light
+- 1-2 minutes per side
+
+**Note:** The IT band itself doesn't really stretch or release. Rolling here affects the muscles beneath it and the nervous system.
+
+### Quads (Quadriceps)
+
+**Position:**
+1. Lie face down
+2. Roller under thighs
+3. Support on forearms
+
+**Technique:**
+- Roll from hip to just above knee
+- Shift side to side to target different quad muscles
+- Can do one leg at a time for more pressure
+
+**Focus areas:** Upper quad near hip, outer quad (vastus lateralis)
+
+### Hamstrings
+
+**Position:**
+1. Sit with roller under thighs
+2. Hands behind for support
+
+**Technique:**
+- Roll from below glutes to above knee
+- Cross legs for more pressure
+- Rotate leg to get all angles
+
+**Note:** Hamstrings can be tricky to get good pressure. A ball may work better for targeted release.
+
+### Glutes
+
+**Position:**
+1. Sit on roller
+2. Cross one ankle over opposite knee
+3. Lean toward crossed leg side
+
+**Technique:**
+- Roll around the glute muscle
+- Find tender spots and hold
+- 1-2 minutes per side
+
+**For piriformis:** Focus on the deep center of the glute, especially with figure-4 position.
+
+### Hip Flexors
+
+**Position:**
+1. Lie face down
+2. Roller at front of hip (below hip bone)
+3. Prop on forearms
+
+**Technique:**
+- Gentle pressure—this area can be sensitive
+- Small movements
+- 30-60 seconds per side
+
+**Caution:** Don't roll directly on hip bone or inguinal area.
+
+### Thoracic Spine (Upper Back)
+
+**Position:**
+1. Roller across upper back (perpendicular to spine)
+2. Support head with hands
+3. Knees bent, feet flat
+
+**Technique:**
+- Roll from mid-back to upper back
+- Extend over roller for mobility work
+- 2-3 minutes
+
+**Note:** This is more extension mobility than muscle release, but very valuable.
+
+### Lats (Latissimus Dorsi)
+
+**Position:**
+1. Lie on side
+2. Roller under armpit/side of back
+3. Arm overhead
+
+**Technique:**
+- Roll from armpit to mid-back
+- Rotate body slightly forward/back
+- 1-2 minutes per side
+
+### Pecs (Chest)
+
+**Better with ball than roller:**
+1. Stand facing wall
+2. Ball between pec and wall
+3. Lean in and move arm
+
+**If using roller:**
+1. Lie face down
+2. Roller at angle under chest
+3. Gentle pressure
+
+### Feet (Plantar Fascia)
+
+**Better with ball:**
+1. Stand or sit
+2. Golf ball, lacrosse ball, or frozen water bottle under foot
+3. Roll from heel to ball of foot
+4. 1-2 minutes per foot
+
+## When NOT to Foam Roll
+
+### Avoid Rolling:
+
+- **Acute injuries** (first 48-72 hours)
+- **Directly on bones or joints**
+- **Over bruises or skin conditions**
+- **If you have blood clotting disorders**
+- **Over varicose veins**
+- **During pregnancy** (certain areas)
+- **If numbness or tingling occurs**
+
+### The Lower Back Debate
+
+**Why some avoid it:**
+- No large muscles to roll (mostly spine)
+- Can cause hyperextension
+- May compress discs
+
+**If you do roll lower back:**
+- Go very light
+- Don't arch excessively
+- Focus on erector muscles, not spine
+- Better alternatives: ball work on QL, stretching
+
+## Foam Rolling vs. Other Tools
+
+### Lacrosse Ball/Tennis Ball
+
+**Better for:**
+- Targeted trigger points
+- Smaller areas (feet, glutes, pecs)
+- More precise pressure
+
+### Massage Stick
+
+**Better for:**
+- Calves (can sit and control pressure)
+- Quads while sitting
+- Travel-friendly
+
+### Percussion Massager (Theragun, etc.)
+
+**Better for:**
+- Quick recovery
+- Larger muscle groups
+- People who can't get on floor
+
+## Sample Routines
+
+### Pre-Workout (5 Minutes)
+
+Brief rolling to prepare for exercise:
+1. Quads: 30 sec each
+2. Glutes: 30 sec each
+3. Thoracic spine: 60 sec
+4. Target any specific tight areas: 30 sec
+
+### Post-Workout (10 Minutes)
+
+More thorough for recovery:
+1. Whatever muscle groups you trained: 90 sec each
+2. IT band (if lower body): 60 sec each
+3. Thoracic spine: 90 sec
+4. Any problem areas: 60 sec each
+
+### Full Body Recovery (15-20 Minutes)
+
+**Lower Body:**
+- Calves: 90 sec each
+- IT band: 90 sec each
+- Quads: 90 sec each
+- Hamstrings: 90 sec each
+- Glutes: 90 sec each
+
+**Upper Body:**
+- Thoracic spine: 2 min
+- Lats: 60 sec each
+- Pecs (with ball): 60 sec each
+
+## Maximizing Results
+
+### Combine with Stretching
+
+Foam roll first, then stretch. Rolling may help you get more out of stretching.
+
+### Use Before Mobility Work
+
+Rolling + mobility exercises = better range of motion gains.
+
+### Don't Replace Other Recovery
+
+Foam rolling is one tool. Also prioritize:
+- Sleep
+- Nutrition
+- Actual rest days
+- Professional massage when needed
+
+### Consistency Matters
+
+Brief daily rolling > long occasional sessions.
+
+## The Bottom Line
+
+1. **Roll slowly** — 1 inch per second
+2. **Find tender spots** — Pause and breathe into them
+3. **Appropriate pressure** — Not excruciating (6-7/10)
+4. **Avoid bones and joints** — Roll muscles only
+5. **Consistency over intensity** — Brief daily sessions work best
+
+---
+
+*Foundational Rehab incorporates self-myofascial release into comprehensive recovery programs.*
+    `
+  },
+  'exercises-for-arthritis': {
+    title: 'Exercises for Arthritis: Stay Active and Reduce Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Injury Recovery',
+    readTime: '7 min read',
+    content: `
+## Why Exercise Helps Arthritis
+
+It seems counterintuitive—moving painful joints—but exercise is one of the best treatments for arthritis. Research consistently shows that appropriate exercise:
+
+- Reduces pain
+- Improves joint function
+- Builds supporting muscle
+- Maintains range of motion
+- Helps with weight management
+- Improves mood and energy
+
+**The key:** Right type, right intensity, right progression.
+
+## Types of Arthritis
+
+### Osteoarthritis (OA)
+
+- "Wear and tear" arthritis
+- Cartilage breakdown
+- Most common type
+- Usually affects knees, hips, hands, spine
+- Exercise is first-line treatment
+
+### Rheumatoid Arthritis (RA)
+
+- Autoimmune condition
+- Affects joint lining
+- Often symmetric (both hands, both knees)
+- May have flares
+- Exercise important but modify during flares
+
+### Other Types
+
+- Psoriatic arthritis
+- Gout
+- Ankylosing spondylitis
+
+Each has specific considerations, but general exercise principles apply.
+
+## Exercise Guidelines for Arthritis
+
+### The Sweet Spot
+
+**Too little:** Joints stiffen, muscles weaken, pain worsens
+**Too much:** Increased pain, inflammation, potential damage
+**Just right:** Some discomfort during exercise, no lasting increased pain
+
+### The 24-Hour Rule
+
+If your pain is significantly worse 24 hours after exercise, you did too much. Scale back intensity or duration.
+
+### During Flares
+
+- Maintain gentle range of motion
+- Reduce intensity significantly
+- Focus on non-weight-bearing options
+- Don't stop completely (usually)
+
+## Types of Exercise for Arthritis
+
+### 1. Range of Motion (Flexibility)
+
+**Purpose:** Maintain joint mobility, reduce stiffness
+
+**Examples:**
+- Gentle stretching
+- Tai chi
+- Yoga (modified)
+- Joint circles
+
+**Frequency:** Daily, especially morning
+
+### 2. Strengthening
+
+**Purpose:** Build muscle to support and protect joints
+
+**Examples:**
+- Resistance bands
+- Light weights
+- Bodyweight exercises
+- Water exercises
+
+**Frequency:** 2-3x per week with rest days between
+
+### 3. Aerobic (Cardio)
+
+**Purpose:** Overall health, weight management, mood
+
+**Examples:**
+- Walking
+- Swimming/water aerobics
+- Cycling
+- Elliptical
+
+**Frequency:** 150 minutes per week (can be broken into short sessions)
+
+## Best Exercises by Body Part
+
+### Knee Arthritis
+
+**Range of motion:**
+- Heel slides (lying down, slide heel toward buttock)
+- Seated knee extension
+- Gentle knee bends
+
+**Strengthening:**
+- Quad sets (tighten thigh, press knee down)
+- Straight leg raises
+- Mini squats (partial range)
+- Step-ups (low step)
+- Wall sits (high position)
+
+**Cardio:**
+- Walking (flat surfaces)
+- Cycling (low resistance)
+- Swimming
+- Water walking
+
+**Avoid/modify:**
+- Deep squats
+- Lunges (initially)
+- High-impact activities
+- Stairs (excessive)
+
+### Hip Arthritis
+
+**Range of motion:**
+- Hip circles (lying down)
+- Knee to chest
+- Figure-4 stretch
+- Internal/external rotation
+
+**Strengthening:**
+- Glute bridges
+- Clamshells
+- Side-lying leg raises
+- Standing hip abduction
+- Mini squats
+
+**Cardio:**
+- Walking
+- Swimming (especially beneficial)
+- Cycling (upright position)
+- Elliptical
+
+**Avoid/modify:**
+- Deep hip flexion
+- High-impact activities
+- Prolonged sitting
+
+### Hand/Finger Arthritis
+
+**Range of motion:**
+- Finger spreads
+- Finger curls
+- Wrist circles
+- Thumb touches
+
+**Strengthening:**
+- Squeeze putty or soft ball
+- Finger extensions with rubber band
+- Grip exercises
+- Pinch exercises
+
+**Tips:**
+- Warm hands in warm water before exercises
+- Don't grip too hard
+- Take breaks during repetitive tasks
+
+### Spine Arthritis
+
+**Range of motion:**
+- Cat-cow stretches
+- Gentle rotation
+- Side bends
+- Pelvic tilts
+
+**Strengthening:**
+- Bird dogs
+- Dead bugs
+- Partial curl-ups
+- Bridges
+- Gentle back extension
+
+**Cardio:**
+- Walking
+- Swimming (backstroke often best)
+- Recumbent cycling
+
+**Avoid/modify:**
+- Heavy lifting
+- Excessive twisting
+- High-impact activities
+
+## Water Exercise
+
+Water is often ideal for arthritis:
+
+**Benefits:**
+- Buoyancy reduces joint stress (50-90% less weight)
+- Resistance builds strength
+- Warmth soothes joints
+- Supports full range of motion
+
+**Options:**
+- Water walking
+- Water aerobics classes
+- Swimming laps
+- Aqua jogging
+
+**Tips:**
+- Warm water (83-88°F) is best
+- Start with 10-15 minutes
+- Many communities offer arthritis-specific classes
+
+## Sample Programs
+
+### Daily Maintenance (10-15 Minutes)
+
+**Morning (combat stiffness):**
+1. Gentle joint circles: All affected joints, 10 each direction
+2. Range of motion: 5-10 reps each movement
+3. Light stretching: 20-30 seconds holds
+
+**Throughout day:**
+- Move every 30-60 minutes
+- Don't stay in one position too long
+
+### Strength Training (2-3x/Week)
+
+**Lower body focus:**
+1. Quad sets: 2x15
+2. Glute bridges: 2x12
+3. Side-lying leg raises: 2x12 each
+4. Mini squats: 2x10
+5. Standing hip abduction: 2x12 each
+
+**Upper body focus:**
+1. Wall push-ups: 2x10
+2. Rows with band: 2x12
+3. Shoulder raises: 2x10
+4. Bicep curls: 2x12
+5. Grip exercises: 2x10
+
+### Cardio Guidelines
+
+**Starting out:**
+- 5-10 minute sessions
+- Low intensity
+- 3-4x per week
+
+**Build to:**
+- 20-30 minute sessions
+- Moderate intensity
+- 5x per week (or 150 min total)
+
+**Options:**
+- Split into multiple short sessions
+- Mix different activities
+- Listen to your body
+
+## Managing Exercise with Flares
+
+### During a Flare
+
+**Do:**
+- Gentle range of motion
+- Non-weight-bearing options
+- Shorter sessions
+- Ice after if helpful
+
+**Don't:**
+- Stop completely (usually)
+- Push through significant pain
+- Do high-intensity work
+
+### After a Flare
+
+- Gradually return to normal routine
+- May take days to weeks
+- Don't rush back to pre-flare intensity
+
+## Pain Management Around Exercise
+
+### Before Exercise
+
+- Warm shower or heat pack (15-20 min before)
+- Take medications as prescribed
+- Gentle warm-up first
+
+### During Exercise
+
+- Start easy, progress gradually
+- Some discomfort is okay, sharp pain is not
+- Modify or stop if pain increases significantly
+
+### After Exercise
+
+- Cool down with gentle movement
+- Ice if joints feel warm/swollen (15-20 min)
+- Elevate if swollen
+- Note what worked and what didn't
+
+## Common Mistakes
+
+### 1. Doing Nothing
+
+Inactivity makes arthritis worse. Something is almost always better than nothing.
+
+### 2. Overdoing It
+
+"No pain, no gain" doesn't apply. Pushing too hard causes flares.
+
+### 3. Only Doing Cardio
+
+Strength training is crucial for joint support. Don't skip it.
+
+### 4. Ignoring Range of Motion
+
+Daily mobility work prevents stiffness and maintains function.
+
+### 5. Waiting for Pain to Disappear
+
+You may always have some discomfort. Learn to work within your limits.
+
+## When to See a Professional
+
+**Consult a doctor or physical therapist if:**
+- New or worsening symptoms
+- Significant swelling or redness
+- Joint instability
+- Unable to bear weight
+- Need help designing a safe program
+
+## The Bottom Line
+
+1. **Movement is medicine** — Exercise is essential, not optional
+2. **Low-impact is your friend** — Water, cycling, walking
+3. **Strength matters** — Build muscle to support joints
+4. **Daily mobility** — Combat stiffness every day
+5. **Listen to your body** — Modify based on how you feel
+
+---
+
+*Foundational Rehab provides arthritis-friendly exercise programs that help you stay active and manage pain.*
+    `
   }
 };
 
