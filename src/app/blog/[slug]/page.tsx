@@ -108196,6 +108196,1018 @@ Often, sore muscles feel better after warming up. Start light, and if soreness i
 
 *Foundational Rehab offers training programs with smart progression to minimize DOMS while maximizing results.*
     `
+  },
+  'exercises-for-elderly-parents': {
+    title: 'Exercises for Elderly Parents: Help Them Stay Strong and Independent',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Seniors',
+    readTime: '6 min read',
+    content: `
+## Why Exercise Matters for Aging Parents
+
+Regular exercise for older adults:
+- Reduces fall risk (leading cause of injury death in 65+)
+- Maintains independence
+- Improves cognitive function
+- Manages chronic conditions
+- Increases lifespan and healthspan
+- Improves mood and reduces depression
+
+It's never too late to start.
+
+## The Four Pillars of Senior Fitness
+
+### 1. Balance Training
+
+**Why:** Falls are the biggest threat to independence. Balance can be improved at any age.
+
+### 2. Strength Training
+
+**Why:** Muscle loss (sarcopenia) accelerates after 65. Strength maintains function.
+
+### 3. Flexibility
+
+**Why:** Maintains range of motion for daily activities (reaching, bending).
+
+### 4. Cardiovascular
+
+**Why:** Heart health, endurance for daily activities, cognitive benefits.
+
+## Balance Exercises (Priority #1)
+
+### Single Leg Stance
+
+**How to:**
+- Stand near counter or sturdy chair
+- Lift one foot slightly off ground
+- Hold as long as possible (goal: 30 seconds)
+- Use support as needed
+- 3 attempts each leg
+
+**Progression:** Close eyes, stand on pillow, reduce hand support.
+
+### Heel-to-Toe Walk
+
+**How to:**
+- Walk in straight line, heel touching toe
+- Arms out for balance if needed
+- 10-20 steps
+- Use wall for support if needed
+
+### Weight Shifts
+
+**How to:**
+- Stand with feet hip-width
+- Shift weight side to side
+- Then forward and back
+- 10-15 shifts each direction
+
+### Clock Reaches
+
+**How to:**
+- Stand on one leg (hold support)
+- Reach other leg to different "clock" positions
+- 12 o'clock, 3 o'clock, 6 o'clock
+- 5 reaches each direction, each leg
+
+## Strength Exercises
+
+### Chair Squats (Sit-to-Stand)
+
+**How to:**
+- Sit in sturdy chair
+- Stand up without using arms (if possible)
+- Sit back down with control
+- 10-15 reps
+- Use arms if needed, reduce assistance over time
+
+This is the most functional exercise — directly relates to independence.
+
+### Wall Push-Ups
+
+**How to:**
+- Hands on wall at shoulder height
+- Lean in, bending elbows
+- Push back
+- 10-15 reps
+
+**Progression:** Use counter, then chair, then floor.
+
+### Step-Ups
+
+**How to:**
+- Stand facing stairs or low step
+- Step up with one leg, bring other up
+- Step down with control
+- 10 each leg
+- Use railing for support
+
+### Heel Raises
+
+**How to:**
+- Stand holding counter
+- Rise up on toes
+- Lower slowly
+- 15-20 reps
+
+Important for walking and balance.
+
+### Seated Leg Extensions
+
+**How to:**
+- Sit in chair
+- Extend one leg straight
+- Hold 3-5 seconds
+- Lower slowly
+- 10-15 each leg
+
+Strengthens quads for walking and stairs.
+
+## Flexibility Exercises
+
+### Seated Hamstring Stretch
+
+**How to:**
+- Sit at edge of chair
+- Extend one leg, heel on floor
+- Lean forward with flat back
+- 30 seconds each side
+
+### Calf Stretch
+
+**How to:**
+- Stand facing wall
+- Step one foot back
+- Keep heel down, lean forward
+- 30 seconds each side
+
+### Shoulder Stretch
+
+**How to:**
+- Bring one arm across chest
+- Hold with other hand
+- 30 seconds each side
+
+### Neck Stretches
+
+**How to:**
+- Tilt ear toward shoulder
+- Hold 15-20 seconds each side
+- Slow rotations
+
+## Sample Weekly Program
+
+### Beginner (First Month)
+
+**Daily:**
+- Balance exercises: 5 minutes
+- Walking: 10-15 minutes
+
+**3x Per Week:**
+- Strength exercises: 10-15 minutes
+- Flexibility: 5 minutes
+
+### Intermediate (After 1 Month)
+
+**Daily:**
+- Balance exercises: 5-10 minutes
+- Walking: 20-30 minutes
+
+**3x Per Week:**
+- Strength exercises: 15-20 minutes
+- Flexibility: 10 minutes
+
+## How to Help Your Parents Start
+
+### Conversation Tips
+
+- Focus on independence, not "getting old"
+- "I want you to be able to play with grandkids"
+- "Let's do this together"
+- Don't lecture — invite
+
+### Making It Happen
+
+**Start small:** 5-10 minutes is fine
+**Be consistent:** Same time each day
+**Make it social:** Exercise together or in groups
+**Remove barriers:** Right shoes, clear space, accessible equipment
+
+### Safety Considerations
+
+- Start easier than you think necessary
+- Ensure stable surfaces for balance work
+- Check with doctor if new to exercise
+- Be present for balance exercises initially
+- Progress slowly
+
+## Red Flags to Watch For
+
+### Stop and Seek Help If
+
+- Chest pain or severe shortness of breath
+- Dizziness or lightheadedness
+- Joint pain that worsens with exercise
+- Unusual fatigue
+- Loss of balance or coordination
+
+### Signs They May Need Assessment
+
+- Frequent near-falls or falls
+- Significant weakness
+- Difficulty with basic activities
+- Recent hospitalization
+
+## Helpful Equipment
+
+### Minimal Cost
+
+- Sturdy chair
+- Counter or wall space
+- Comfortable shoes
+
+### Nice to Have
+
+- Resistance bands
+- Light dumbbells (2-5 lbs)
+- Balance pad
+- Walking poles
+
+## Group Options
+
+Consider:
+- Senior center classes
+- Silver Sneakers programs
+- Water aerobics
+- Tai Chi classes
+
+Social connection enhances adherence and provides additional benefits.
+
+## The Bottom Line
+
+1. **Balance is priority** — Prevents falls and maintains independence
+2. **Strength matters** — Fight muscle loss with resistance training
+3. **Start small** — Consistency beats intensity
+4. **Make it social** — Exercise together or in groups
+5. **Safety first** — Progress gradually, ensure stable environment
+
+---
+
+*Foundational Rehab offers senior fitness programs designed for safety and independence.*
+    `
+  },
+  'best-time-of-day-to-stretch': {
+    title: 'Best Time of Day to Stretch: When Flexibility Work Is Most Effective',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '5 min read',
+    content: `
+## The Short Answer
+
+**Best for flexibility gains:** Evening, when muscles are warmest
+**Best for consistency:** Whatever time you'll actually do it
+**Best for performance:** After exercise or activity
+
+The "best" time depends on your goals.
+
+## Morning Stretching
+
+### Pros
+
+- Reduces overnight stiffness
+- Wakes up the body
+- Sets positive tone for the day
+- Easier to make a habit (attach to waking routine)
+
+### Cons
+
+- Body is coldest and stiffest
+- Discs are fully hydrated (spine stiffer)
+- May not be as effective for flexibility gains
+- Rushing can lead to poor quality
+
+### Best For
+
+- Reducing morning stiffness
+- General mobility maintenance
+- People who won't do it later
+- Wake-up routine
+
+### Morning Stretching Tips
+
+- Start gentle — body needs to warm up
+- Focus on mobility (movement) rather than deep static stretches
+- 5-10 minutes is effective
+- Consider dynamic stretches over long holds
+
+## After Exercise
+
+### Pros
+
+- Muscles are warmest
+- Blood flow is elevated
+- Greater range of motion possible
+- May aid recovery
+- Already in exercise mode
+
+### Cons
+
+- May skip if tired from workout
+- Eager to leave gym/finish
+- Less effective if exercise was upper body but stretching lower body
+
+### Best For
+
+- Flexibility improvement
+- Post-workout recovery
+- Stretching specific muscles used in workout
+- Athletes and regular exercisers
+
+### Post-Exercise Tips
+
+- Focus on muscles just trained
+- 30-60 second holds effective
+- Body temperature enhances effectiveness
+- Don't rush — this is valuable time
+
+## Evening Stretching
+
+### Pros
+
+- Body has moved all day (warmest)
+- Reduces accumulated tension
+- Promotes relaxation for sleep
+- More time available (often)
+- Best for flexibility gains
+
+### Cons
+
+- Easy to skip (tired, busy evening)
+- May compete with other activities
+- Harder to establish habit
+
+### Best For
+
+- Maximum flexibility improvement
+- Stress reduction
+- Sleep preparation
+- Dedicated stretching practice
+
+### Evening Stretching Tips
+
+- Gentle, relaxing approach
+- Focus on tight areas from the day
+- Can combine with relaxation breathing
+- Avoid intense stretching right before bed if it energizes you
+
+## Pre-Exercise
+
+### Pros
+
+- Prepares muscles for activity
+- Part of warm-up routine
+- Reduces injury risk (if done correctly)
+
+### Cons
+
+- Static stretching may reduce power/strength temporarily
+- Cold muscles don't stretch as effectively
+
+### Best For
+
+- Dynamic stretching (not static holds)
+- Sport-specific preparation
+- Addressing problem areas briefly
+
+### Pre-Exercise Tips
+
+- Dynamic stretching preferred over static
+- Save long static holds for after
+- 10-15 seconds if doing static pre-workout
+- Focus on muscles you'll use
+
+## Midday/Work Breaks
+
+### Pros
+
+- Breaks up prolonged sitting
+- Reduces accumulated tension
+- Refreshes mentally
+- Body is warmer than morning
+
+### Cons
+
+- Environment may not be ideal
+- Time pressure
+- Interrupted focus
+
+### Best For
+
+- Desk workers
+- Preventing postural problems
+- Quick tension relief
+- Breaking up sedentary time
+
+### Midday Tips
+
+- Short, targeted stretches (1-3 minutes)
+- Focus on hips, chest, neck
+- Don't need to change clothes
+- Frequent short breaks beat one long session
+
+## What Research Suggests
+
+### For Flexibility Gains
+
+Studies show stretching is more effective when:
+- Muscles are warm (after activity or warm bath)
+- Done consistently (frequency matters more than timing)
+- Held for adequate duration (30-60 seconds)
+
+This slightly favors post-exercise or evening.
+
+### For Performance
+
+Static stretching immediately before explosive activities may temporarily reduce power. Dynamic stretching is preferred pre-activity.
+
+### For Consistency
+
+Research on habit formation suggests attaching stretching to existing routines (waking, post-workout, before bed) increases adherence.
+
+## Optimal Schedule by Goal
+
+### General Health and Maintenance
+
+**Option A:** Morning (5 min) + Evening (5 min)
+**Option B:** Post-workout (10 min)
+**Option C:** Evening only (10-15 min)
+
+### Maximum Flexibility Improvement
+
+**Primary:** Evening, 15-20 minutes daily
+**Secondary:** Post-workout stretching
+**Supplementary:** Morning mobility
+
+### Desk Worker Prevention
+
+**Primary:** Multiple short breaks throughout day
+**Secondary:** Evening stretching routine
+
+### Athletic Performance
+
+**Pre-workout:** Dynamic stretching (5-10 min)
+**Post-workout:** Static stretching (10-15 min)
+**Recovery days:** Extended stretching sessions
+
+## Making It Happen
+
+### Habit Stacking
+
+Attach stretching to existing habits:
+- Wake up → bathroom → 5 minutes stretching
+- Finish workout → stretching before shower
+- Watch TV → stretch on floor
+
+### Environment Design
+
+- Keep yoga mat visible
+- Have stretching area set up
+- Set phone reminders
+
+### Non-Negotiable Minimum
+
+Pick one time you'll definitely do:
+- Even 5 minutes is valuable
+- Consistency beats perfection
+- Can always do more later
+
+## The Bottom Line
+
+1. **Best for gains:** Evening (warmest, most time)
+2. **Best for consistency:** Time you'll actually do it
+3. **Pre-workout:** Dynamic, not long static holds
+4. **Post-workout:** Excellent time, muscles warm
+5. **Something beats nothing:** Any time is better than no time
+
+---
+
+*Foundational Rehab offers flexibility programs you can do at any time of day.*
+    `
+  },
+  'exercises-for-programmers': {
+    title: 'Exercises for Programmers: Combat Coding Posture',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '6 min read',
+    content: `
+## The Programmer's Body
+
+Coding for hours creates specific problems:
+- Wrist and hand strain (typing)
+- Neck tension (looking at screens)
+- Rounded shoulders (reaching for keyboard)
+- Lower back pain (sitting)
+- Hip flexor tightness (prolonged sitting)
+- Eye strain (constant screen focus)
+
+The irony: You optimize code but neglect your hardware.
+
+## Wrist and Hand Care (Critical)
+
+RSI (repetitive strain injury) can end careers. Prioritize this.
+
+### Wrist Extensions and Flexions
+
+**How to:**
+- Extend arm, palm down
+- Pull fingers back with other hand (30 sec)
+- Then pull fingers down, palm facing you (30 sec)
+- Both wrists, multiple times daily
+
+### Finger Spread
+
+**How to:**
+- Spread fingers as wide as possible
+- Hold 5 seconds
+- Make tight fist
+- Repeat 10 times
+
+### Wrist Circles
+
+**How to:**
+- Slow circles in both directions
+- 10 each way
+- Do between coding sessions
+
+### Prayer and Reverse Prayer
+
+**How to:**
+- Press palms together, elbows out
+- Lower hands while keeping palms pressed
+- Hold 30 seconds
+- Then backs of hands together, raise
+- Hold 30 seconds
+
+### Nerve Glides (Median Nerve)
+
+**How to:**
+- Arm out, palm up, extend wrist back
+- Turn head away
+- Hold 3 seconds, release
+- 10-15 reps each arm
+- Helps prevent carpal tunnel
+
+## Neck and Upper Back
+
+### Chin Tucks (The Essential)
+
+**How to:**
+- Pull chin straight back
+- Make a double chin
+- Hold 5 seconds
+- 15-20 reps, multiple times daily
+
+Single most important exercise for forward head posture.
+
+### Neck Tilts and Rotations
+
+**How to:**
+- Tilt ear to shoulder (20 sec each)
+- Rotate and look over shoulder (20 sec each)
+- Slow, controlled
+- Never force
+
+### Upper Trap Stretch
+
+**How to:**
+- Tilt head away, hand behind back
+- Add gentle pressure with other hand
+- 30 seconds each side
+
+### Thoracic Extension
+
+**How to:**
+- Sit in chair, hands behind head
+- Arch upper back over chair top
+- 10 reps
+- Counteracts the coding hunch
+
+## Shoulders
+
+### Doorway Pec Stretch
+
+**How to:**
+- Forearm on door frame
+- Step through and rotate
+- 30-45 seconds each side
+- Multiple times daily
+
+### Shoulder Blade Squeezes
+
+**How to:**
+- Squeeze shoulder blades together
+- Hold 5 seconds
+- 15 reps
+- Strengthens what sitting weakens
+
+### Wall Angels
+
+**How to:**
+- Back against wall
+- Arms at 90° (goal post)
+- Slide up and down
+- Keep everything touching wall
+- 10-15 slow reps
+
+## Lower Back and Hips
+
+### Hip Flexor Stretch
+
+**How to:**
+- Kneeling lunge position
+- Tuck pelvis, squeeze back glute
+- Hold 60 seconds each side
+- Essential for anyone who sits
+
+### Cat-Cow
+
+**How to:**
+- On hands and knees
+- Alternate arching and rounding
+- 15-20 reps
+- Mobilizes entire spine
+
+### Glute Bridges
+
+**How to:**
+- On back, knees bent
+- Squeeze glutes, lift hips
+- Hold 3 seconds
+- 15-20 reps
+- Activates muscles that sitting shuts off
+
+### Figure-4 Stretch
+
+**How to:**
+- Cross ankle over opposite knee
+- Pull bottom leg toward chest
+- 45 seconds each side
+
+## The Pomodoro Stretch Protocol
+
+Use the Pomodoro technique for your body too:
+
+### Every 25 Minutes (30 Seconds)
+
+- Stand up
+- Wrist circles
+- Shoulder rolls
+- Look away from screen
+
+### Every 50 Minutes (2 Minutes)
+
+- Standing back extension (10 reps)
+- Chin tucks (10 reps)
+- Wrist stretches
+- Walk to get water
+
+### Every 2 Hours (5 Minutes)
+
+- Full stretching circuit
+- Hip flexor stretch
+- Chest stretch
+- Walk around
+
+## Desk Setup Matters
+
+### Monitor
+
+- Top of screen at eye level
+- Arm's length away
+- Directly in front (not off to side)
+
+### Keyboard and Mouse
+
+- Elbows at 90°
+- Wrists neutral (not bent)
+- Consider ergonomic keyboard
+- Mouse close to keyboard
+
+### Chair
+
+- Feet flat on floor
+- Knees at 90°
+- Lower back supported
+- Sit on sit bones, not tailbone
+
+### Standing Desk (If Available)
+
+- Alternate sitting/standing (30-60 min intervals)
+- Standing still isn't enough — still need to move
+- Anti-fatigue mat helps
+
+## Eye Care (Often Forgotten)
+
+### 20-20-20 Rule
+
+Every 20 minutes, look at something 20 feet away for 20 seconds.
+
+### Eye Exercises
+
+- Look up, down, left, right
+- Circle eyes in both directions
+- Focus near, then far
+- Blink consciously (we forget when staring at screens)
+
+### Environment
+
+- Reduce screen brightness in evening
+- Blue light filters after dark
+- Proper lighting (not just screen glow)
+
+## Strength Training for Programmers
+
+Weakness underlies many postural problems. 2-3x per week:
+
+### Upper Back
+
+- Rows
+- Face pulls
+- Band pull-aparts
+
+### Core
+
+- Planks
+- Dead bugs
+- Bird dogs
+
+### Lower Body
+
+- Squats
+- Lunges
+- Hip thrusts
+
+### Forearms
+
+- Wrist curls
+- Reverse wrist curls
+- Grip strengthening
+
+## The Bottom Line
+
+1. **Wrists are priority** — RSI can end careers
+2. **Move every 25-30 minutes** — Non-negotiable
+3. **Chin tucks frequently** — Combat forward head
+4. **Hip flexors daily** — Sitting shortens them
+5. **Ergonomics matter** — Invest in good setup
+
+---
+
+*Foundational Rehab offers programmer-specific mobility programs to keep you coding pain-free.*
+    `
+  },
+  'how-to-decompress-your-spine': {
+    title: 'How to Decompress Your Spine: Relieve Pressure and Pain',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read',
+    content: `
+## What Is Spinal Decompression?
+
+Spinal decompression reduces pressure on:
+- Intervertebral discs
+- Spinal nerves
+- Facet joints
+
+This can relieve:
+- Lower back pain
+- Sciatica symptoms
+- Disc-related pain
+- General stiffness and pressure
+
+## Why Your Spine Gets Compressed
+
+### Gravity
+
+You're shorter at night than in the morning. Gravity compresses your spine all day, squeezing fluid out of discs.
+
+### Sitting
+
+Sitting loads the spine more than standing. Hours of sitting compresses discs.
+
+### Poor Posture
+
+Forward head and rounded shoulders increase spinal loading.
+
+### Heavy Lifting
+
+Loading the spine compresses discs (normal, but needs recovery).
+
+### Aging
+
+Discs lose hydration over time, reducing their shock-absorbing ability.
+
+## Self-Decompression Techniques
+
+### Hanging (Best Method)
+
+**How to:**
+- Find a sturdy pull-up bar
+- Hang with arms fully extended
+- Let your body weight create traction
+- Start with 15-30 seconds
+- Build to 60+ seconds
+- Multiple times daily
+
+**Variations:**
+- Dead hang (full weight)
+- Feet touching ground (partial weight)
+- Inversion table (full inversion)
+
+**Benefits:**
+- Creates space between vertebrae
+- Stretches spinal muscles
+- Allows disc rehydration
+- Feels incredible after a long day
+
+### Child's Pose
+
+**How to:**
+- Kneel, sit back on heels
+- Reach arms forward, chest to floor
+- Let spine round and lengthen
+- Hold 60-90 seconds
+- Breathe deeply
+
+### Cat-Cow with Emphasis on Extension
+
+**How to:**
+- On hands and knees
+- Cow: Drop belly, arch back, create space
+- Cat: Round back, tuck chin
+- Focus on the extension phase
+- 15-20 slow reps
+
+### Knee-to-Chest (Supine)
+
+**How to:**
+- Lie on back
+- Pull both knees to chest
+- Rock gently side to side
+- Hold 60 seconds
+- Creates flexion-based decompression
+
+### Prone Press-Ups
+
+**How to:**
+- Lie face down
+- Press upper body up, keeping hips down
+- Let back arch
+- Return to floor
+- 10-15 reps
+- Creates extension-based decompression
+
+### Prayer Stretch on Stability Ball
+
+**How to:**
+- Kneel in front of stability ball
+- Drape torso over ball
+- Let spine curve over the ball
+- Arms overhead
+- Hold 30-60 seconds
+
+### Supine Spinal Twist
+
+**How to:**
+- Lie on back
+- Pull one knee across body
+- Keep shoulders flat
+- Hold 30-45 seconds each side
+- Creates rotational decompression
+
+## Inversion Options
+
+### Inversion Tables
+
+**Pros:**
+- Full spinal decompression
+- No grip strength needed
+- Adjustable angle
+
+**Cons:**
+- Expensive
+- Takes up space
+- Not for everyone (see precautions)
+
+### Inversion with Gravity Boots
+
+**Pros:**
+- Full inversion
+- Uses existing pull-up bar
+
+**Cons:**
+- Requires grip strength initially
+- Can be intense
+- May increase blood pressure
+
+### Partial Inversion
+
+Many tables allow partial inversion (30-60°), which is gentler than full inversion.
+
+## When to Decompress
+
+### Best Times
+
+**After sitting:** Counteracts compression from desk work
+**After lifting:** Recovery from loaded spine
+**Before bed:** Promotes disc rehydration overnight
+**In the morning:** After overnight stiffness
+
+### Daily Routine
+
+**Minimum:** 2-3 decompression sessions
+**Optimal:** Brief decompression every few hours
+**Duration:** 30-90 seconds per technique
+
+## Sample Decompression Routine (5 Minutes)
+
+### After Work
+
+1. Hang (or partial hang): 30-60 seconds
+2. Cat-cow: 15 reps
+3. Child's pose: 60 seconds
+4. Knees to chest: 45 seconds
+5. Supine twist: 30 seconds each side
+
+### Before Bed
+
+1. Prone press-ups: 10 reps
+2. Child's pose: 90 seconds
+3. Gentle hang if available: 30 seconds
+
+## Precautions
+
+### Avoid Inversion If You Have
+
+- Uncontrolled high blood pressure
+- Heart disease
+- Glaucoma
+- Recent stroke
+- Retinal detachment
+- Pregnancy
+- Recent surgery
+- Severe osteoporosis
+
+### General Cautions
+
+- Start slowly and build tolerance
+- Don't stay inverted too long initially
+- Get up slowly from inversion
+- Stop if pain increases
+- Consult doctor if you have spine conditions
+
+## When Decompression Isn't Enough
+
+### See a Professional If
+
+- Pain persists despite self-care
+- Numbness or tingling in legs
+- Weakness in legs
+- Bowel or bladder changes
+- Pain is severe or worsening
+
+### Professional Decompression Options
+
+- Physical therapy traction
+- Mechanical decompression tables
+- Manual therapy
+
+## Lifestyle Support
+
+### Complement Decompression With
+
+**Good posture:** Reduces daily compression load
+**Core strength:** Supports spine
+**Regular movement:** Keeps discs healthy
+**Proper lifting:** Minimizes compression injury
+**Quality mattress:** Supports overnight recovery
+
+## The Bottom Line
+
+1. **Hanging is most effective** — Find a bar and use it daily
+2. **Multiple short sessions** — Better than one long session
+3. **After sitting and lifting** — Prime times to decompress
+4. **Be cautious with inversion** — Not appropriate for everyone
+5. **Part of a bigger picture** — Combine with posture and strength work
+
+---
+
+*Foundational Rehab offers spinal health programs including decompression techniques and supportive exercises.*
+    `
   }
 };
 
