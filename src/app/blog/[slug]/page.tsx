@@ -139059,6 +139059,907 @@ Stop and seek help if you experience:
 
 *Foundational Rehab helps people with diabetes exercise safely and effectively with personalized guidance.*
     `
+  },
+  'exercises-for-shoulder-impingement': {
+    title: 'Exercises for Shoulder Impingement: Rehab Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## What Is Shoulder Impingement?
+
+Shoulder impingement occurs when tendons or bursa get pinched in the shoulder:
+
+**Symptoms:**
+- Pain when raising arm
+- Pain reaching behind back
+- Weakness with overhead activities
+- Pain sleeping on affected side
+- Aching at rest that worsens with activity
+
+**Common causes:**
+- Poor posture (rounded shoulders)
+- Repetitive overhead movements
+- Weak rotator cuff
+- Tight chest and front shoulder
+
+## The Impingement Cycle
+
+1. Poor posture narrows the subacromial space
+2. Tendons get pinched with arm movement
+3. Inflammation develops
+4. Pain causes movement changes
+5. Weakness develops from disuse
+6. Cycle continues
+
+Breaking this cycle requires addressing posture, strength, and movement.
+
+## Phase 1: Pain Relief (Weeks 1-2)
+
+### Pendulum Exercise
+
+1. Lean forward, support on table
+2. Let affected arm hang
+3. Swing gently in circles
+4. 1 minute each direction
+5. Several times daily
+
+### Ice
+
+- 15-20 minutes after activities
+- Reduces inflammation
+
+### Avoid Painful Movements
+
+- Reaching overhead
+- Reaching behind back
+- Sleeping on affected side
+- Pushing/pressing movements
+
+## Phase 2: Mobility (Weeks 2-4)
+
+### Cross-Body Stretch
+
+1. Pull affected arm across chest
+2. Use other hand at elbow
+3. Hold 30 seconds
+4. Don't pull into pain
+
+### Sleeper Stretch
+
+1. Lie on affected side
+2. Elbow bent 90°, arm out
+3. Gently push forearm toward floor
+4. Hold 30 seconds
+
+### Doorway Stretch (Low Position)
+
+1. Arm at 45° below horizontal
+2. Forearm on doorframe
+3. Step through gently
+4. Hold 30 seconds
+5. Low position doesn't impinge
+
+### Thoracic Extension
+
+1. Foam roller across upper back
+2. Extend over roller
+3. Opens up chest, reduces rounding
+4. 2 minutes
+
+## Phase 3: Strengthening (Weeks 3-8)
+
+### External Rotation with Band
+
+1. Elbow at side, bent 90°
+2. Rotate forearm away from body
+3. Keep elbow tucked
+4. 15-20 reps
+5. Key exercise for impingement
+
+### Side-Lying External Rotation
+
+1. Lie on non-affected side
+2. Top arm elbow at side
+3. Light weight (2-3 lbs)
+4. Rotate forearm toward ceiling
+5. 15 reps
+
+### Scapular Squeezes
+
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. 15-20 reps
+4. Builds postural muscles
+
+### Prone Y Raises
+
+1. Lie face down
+2. Arms in Y position overhead
+3. Thumbs up
+4. Lift arms toward ceiling
+5. 10-15 reps
+
+### Prone T Raises
+
+1. Lie face down
+2. Arms out to sides (T position)
+3. Thumbs up
+4. Lift toward ceiling
+5. 10-15 reps
+
+### Wall Push-Up Plus
+
+1. Push-up against wall
+2. At top, push extra (protract shoulders)
+3. Feel shoulder blades spread apart
+4. 10-15 reps
+5. Strengthens serratus anterior
+
+### Face Pulls
+
+1. Band at face height
+2. Pull toward face, elbows high
+3. Externally rotate at end
+4. 15-20 reps
+
+## Phase 4: Functional (Weeks 6+)
+
+### Rows
+
+1. Any row variation
+2. Squeeze shoulder blades
+3. Don't shrug
+4. 12-15 reps
+
+### Push-Ups (Modified)
+
+1. Start with wall or incline
+2. Keep shoulder blades stable
+3. Don't let shoulders shrug
+4. Progress slowly
+
+### Overhead Reaching
+
+1. Pain-free range only
+2. Start with light or no weight
+3. Gradually increase range
+4. Progress over weeks
+
+## Posture Corrections
+
+Poor posture contributes to impingement:
+
+### Chin Tucks
+
+1. Pull chin straight back
+2. Hold 5 seconds
+3. 10 reps throughout day
+
+### Brugger's Position
+
+1. Sit tall
+2. Turn palms forward
+3. Squeeze shoulder blades back and down
+4. Hold 30 seconds
+5. Reset posture hourly
+
+### Thoracic Mobility Work
+
+Daily work on upper back extension improves shoulder mechanics.
+
+## Sample Daily Routine
+
+**Morning (5 min):**
+- Pendulum: 1 min each direction
+- Cross-body stretch: 30 sec
+- Scapular squeezes: 15 reps
+- Chin tucks: 10 reps
+
+**Throughout Day:**
+- Posture resets (Brugger's): Every hour
+- Avoid aggravating movements
+
+**Evening (15 min):**
+- Thoracic extension: 2 min
+- Doorway stretch: 30 sec
+- Sleeper stretch: 30 sec
+- External rotation: 2 × 15
+- Prone Y and T: 10 reps each
+- Wall push-up plus: 2 × 10
+- Face pulls: 2 × 15
+
+## Return to Activity Timeline
+
+- **Weeks 1-2:** Pain management, pendulum, gentle stretching
+- **Weeks 2-4:** Add mobility work, isometrics
+- **Weeks 4-6:** Progressive strengthening
+- **Weeks 6-8:** Functional movements
+- **Weeks 8+:** Gradual return to sport/activity
+
+## When to See a Professional
+
+- No improvement after 4 weeks
+- Significant weakness
+- Pain at rest that doesn't improve
+- Night pain that disrupts sleep
+- Unable to lift arm
+
+## The Bottom Line
+
+1. **Address posture first** — Rounded shoulders narrow the space
+2. **External rotation is key** — Strengthens what's usually weak
+3. **Don't push through pain** — You'll make it worse
+4. **Progress gradually** — Overhead activities come last
+5. **Be patient** — Full recovery takes 2-3 months typically
+
+---
+
+*Foundational Rehab provides comprehensive shoulder impingement rehab programs.*
+    `
+  },
+  'exercises-for-flat-feet': {
+    title: 'How to Fix Flat Feet: Exercises and Support',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Understanding Flat Feet
+
+Flat feet (pes planus) means the arch of your foot collapses when standing:
+
+**Types:**
+- **Flexible:** Arch appears when not weight-bearing
+- **Rigid:** No arch even without weight
+
+**Symptoms:**
+- Foot pain or fatigue
+- Knee, hip, or back pain
+- Difficulty standing on toes
+- Shoes wear unevenly
+
+**Causes:**
+- Genetics
+- Weak arch muscles
+- Posterior tibial tendon dysfunction
+- Injury or arthritis
+- Obesity
+
+## Can Exercises Fix Flat Feet?
+
+For flexible flat feet: Yes, exercises can strengthen the arch and improve function.
+
+For rigid flat feet: Exercises help symptoms but won't create an arch.
+
+For children: Arches often develop naturally by age 6.
+
+## Arch Strengthening Exercises
+
+### Short Foot Exercise
+
+1. Sit with foot flat on floor
+2. Try to raise arch without curling toes
+3. Imagine pulling ball of foot toward heel
+4. Hold 5 seconds
+5. 15-20 reps
+6. Progress to standing
+
+### Towel Scrunches
+
+1. Towel flat on floor
+2. Use toes to scrunch towel toward you
+3. Spread it back out
+4. 2-3 sets of 10
+
+### Marble Pick-Ups
+
+1. Marbles scattered on floor
+2. Pick up with toes
+3. Place in cup
+4. 20 marbles each foot
+
+### Toe Yoga
+
+1. Lift big toe, keep others down
+2. Then lift other toes, keep big toe down
+3. Alternate
+4. 10-15 reps each position
+5. Builds independent toe control
+
+### Toe Spreads
+
+1. Spread toes apart as wide as possible
+2. Hold 5 seconds
+3. 15-20 reps
+4. Can use toe spacers for assistance
+
+## Calf and Ankle Exercises
+
+### Calf Raises (Single Leg)
+
+1. Stand on step, heel hanging off
+2. Rise up on single leg
+3. Lower slowly
+4. 15 reps each foot
+5. Strengthens posterior tibialis
+
+### Tibialis Raises
+
+1. Stand with back against wall
+2. Lift toes off ground (heels stay down)
+3. Lower slowly
+4. 20 reps
+
+### Heel Walks
+
+1. Walk on heels, toes off ground
+2. 30 seconds
+3. Strengthens anterior tibialis
+
+### Ankle Inversion with Band
+
+1. Band around foot, anchored to side
+2. Turn sole of foot inward against resistance
+3. 15 reps each foot
+4. Targets posterior tibialis
+
+## Balance Exercises
+
+### Single Leg Stand
+
+1. Stand on one foot
+2. Try to maintain arch
+3. 30 seconds each foot
+4. Progress: eyes closed, unstable surface
+
+### Single Leg Balance with Ball Toss
+
+1. Stand on one foot
+2. Toss ball against wall and catch
+3. Maintain arch position
+4. 10 catches each foot
+
+## Stretches
+
+### Calf Stretch
+
+1. Wall stretch, back leg straight
+2. Hold 30 seconds each
+3. Tight calves contribute to flat feet
+
+### Plantar Fascia Stretch
+
+1. Seated, cross foot over knee
+2. Pull toes back toward shin
+3. Hold 30 seconds each
+
+### Achilles Stretch
+
+1. Wall stretch, back knee bent
+2. Feel stretch lower in calf
+3. Hold 30 seconds each
+
+## Footwear Considerations
+
+### What to Look For
+
+- Good arch support
+- Firm heel counter
+- Not overly cushioned (allows muscle work)
+- Proper fit
+
+### Orthotics
+
+- Custom orthotics for significant flat feet
+- Over-the-counter insoles for mild cases
+- Support the arch and control pronation
+
+### Barefoot Time
+
+- Controlled barefoot time can strengthen feet
+- Start gradually (5-10 minutes)
+- On safe surfaces
+
+## Daily Routine for Flat Feet
+
+**Morning (5 min):**
+- Toe spreads: 15 reps
+- Short foot: 10 reps standing
+- Calf stretch: 30 sec each
+
+**Throughout Day:**
+- Awareness of arch position
+- Single leg balance practice (waiting in line, etc.)
+
+**Evening (10 min):**
+- Short foot exercise: 2 × 15
+- Towel scrunches: 2 × 10
+- Single leg calf raises: 2 × 15
+- Ankle inversion with band: 2 × 15
+- Single leg balance: 30 sec each
+- Plantar fascia stretch: 30 sec each
+
+## When to See a Professional
+
+- Significant pain affecting daily activities
+- Sudden development of flat foot in adult
+- Rigid flat feet
+- No improvement after 2-3 months of exercises
+- Need for custom orthotics
+
+## The Bottom Line
+
+1. **Strengthen the arch** — Short foot exercise is key
+2. **Work the intrinsic muscles** — Toes need strength too
+3. **Balance training helps** — Builds dynamic arch support
+4. **Consider footwear** — Support helps while you build strength
+5. **Be consistent** — Changes take months, not days
+
+---
+
+*Foundational Rehab helps you build stronger, more supportive feet with targeted arch exercises.*
+    `
+  },
+  'exercises-for-stress-relief': {
+    title: 'Exercises for Stress Relief: Movement for Mental Health',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '6 min read',
+    content: `
+## How Exercise Reduces Stress
+
+Exercise is one of the most effective stress relievers:
+
+**Physical effects:**
+- Reduces stress hormones (cortisol, adrenaline)
+- Releases endorphins (feel-good chemicals)
+- Relaxes muscle tension
+- Improves sleep
+- Lowers blood pressure
+
+**Mental effects:**
+- Provides distraction from worries
+- Builds confidence
+- Creates social opportunities
+- Gives sense of accomplishment
+
+## Best Exercises for Stress
+
+### Walking
+
+- Simple and accessible
+- Outdoor walking adds nature benefits
+- 20-30 minutes provides significant stress relief
+- Can do anywhere
+
+### Swimming
+
+- Rhythmic breathing is meditative
+- Water is calming
+- Full-body engagement
+- Low impact
+
+### Yoga
+
+- Combines movement, breathing, mindfulness
+- Directly activates relaxation response
+- Builds body awareness
+- Many styles available
+
+### Tai Chi
+
+- Slow, flowing movements
+- Meditation in motion
+- Reduces anxiety and depression
+- Good for all fitness levels
+
+### Dancing
+
+- Fun and social
+- Releases tension
+- Music enhances mood benefits
+- Burns stress hormones
+
+### Cycling
+
+- Rhythmic motion
+- Can be outdoors (nature benefits)
+- Cardiovascular benefits
+- Low impact
+
+## Quick Stress-Relief Exercises
+
+When you need relief NOW:
+
+### Deep Breathing (2 min)
+
+1. Breathe in slowly: 4 counts
+2. Hold: 4 counts
+3. Exhale slowly: 6 counts
+4. Repeat 5-6 times
+
+### Progressive Muscle Relaxation (5 min)
+
+1. Tense feet muscles: 5 seconds
+2. Release and notice relaxation
+3. Move up: calves, thighs, glutes, abs, chest, arms, face
+4. Release all tension at end
+
+### Neck and Shoulder Release (3 min)
+
+1. Shoulder shrugs: 10 reps
+2. Neck rolls: 5 each direction
+3. Upper trap stretch: 30 sec each side
+
+### Walk Break (5-10 min)
+
+1. Get outside if possible
+2. Walk at comfortable pace
+3. Notice surroundings
+4. Breathe deeply
+
+### Stretch Break (5 min)
+
+1. Overhead reach and side bend
+2. Forward fold (let head hang)
+3. Hip flexor stretch
+4. Chest stretch in doorway
+5. Gentle twist
+
+## Yoga for Stress Relief
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Fold forward, arms extended
+3. Rest forehead on floor
+4. Breathe deeply
+5. Hold 1-2 minutes
+
+### Cat-Cow
+
+1. On hands and knees
+2. Alternate arching and rounding
+3. Coordinate with breath
+4. 10 slow cycles
+
+### Legs Up the Wall
+
+1. Sit sideways against wall
+2. Swing legs up, lie back
+3. Arms relaxed at sides
+4. Stay 5-10 minutes
+5. Deeply relaxing
+
+### Supine Twist
+
+1. Lie on back
+2. Hug knees, drop to one side
+3. Look opposite direction
+4. Hold 1-2 minutes each side
+
+### Savasana (Corpse Pose)
+
+1. Lie flat, arms at sides
+2. Close eyes
+3. Relax completely
+4. Focus on breath
+5. 5-10 minutes
+
+## Creating a Stress-Relief Routine
+
+### Daily Minimum (10 min)
+
+- Deep breathing: 2 min
+- Gentle stretching: 5 min
+- Walk or movement: 3 min
+
+### Moderate Stress Day (20-30 min)
+
+- Walking: 15 min
+- Yoga or stretching: 10-15 min
+- Deep breathing: 5 min
+
+### High Stress Day (30-45 min)
+
+- Cardio of choice: 20-30 min (intensity helps burn off stress hormones)
+- Stretching/yoga: 15 min
+- Meditation or breathing: 5 min
+
+## Exercise Timing for Stress
+
+### Morning Exercise
+
+- Sets positive tone for day
+- Builds stress resilience
+- Helps with sleep that night
+
+### Lunch Break Exercise
+
+- Breaks up stressful day
+- Prevents afternoon slump
+- Even 10 minutes helps
+
+### After Work Exercise
+
+- Releases accumulated tension
+- Transitions from work to personal time
+- Clears the mind
+
+### Evening Exercise (Caution)
+
+- Intense exercise too late can interfere with sleep
+- Gentle yoga or walking is fine
+- Finish 2-3 hours before bed
+
+## Exercise Environment
+
+### Outdoors
+
+- Nature adds stress relief benefits
+- Sunshine helps mood
+- Fresh air is calming
+
+### Group Classes
+
+- Social support reduces stress
+- Accountability helps consistency
+- Shared experience
+
+### Solo Exercise
+
+- Time for yourself
+- Control over intensity
+- Can be meditative
+
+## Signs You Need More Stress Relief
+
+- Chronic tension in neck/shoulders
+- Difficulty sleeping
+- Irritability
+- Difficulty concentrating
+- Frequent headaches
+- Low energy
+
+## The Bottom Line
+
+1. **Any movement helps** — Start with what you enjoy
+2. **Consistency matters most** — Regular exercise > occasional intense sessions
+3. **Include variety** — Cardio, stretching, relaxation
+4. **Listen to your body** — Some days need intense, others need gentle
+5. **Make it a priority** — Schedule it like any important appointment
+
+---
+
+*Foundational Rehab helps you manage stress through movement with guided exercise programs.*
+    `
+  },
+  'calf-stretches': {
+    title: 'Calf Stretches: Complete Guide to Tight Calves',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read',
+    content: `
+## Why Calves Get Tight
+
+Your calves work hard and often get neglected:
+
+**Common causes:**
+- Wearing heels
+- Running and jumping
+- Sitting (calves stay shortened)
+- Dehydration
+- Standing all day
+- Lack of stretching
+
+**Problems from tight calves:**
+- Achilles tendinitis
+- Plantar fasciitis
+- Ankle mobility issues
+- Knee pain
+- Limited squat depth
+
+## Calf Anatomy
+
+Two main muscles:
+
+### Gastrocnemius
+- The big visible muscle
+- Crosses the knee joint
+- Stretched with straight leg
+
+### Soleus
+- Deeper, underneath
+- Doesn't cross knee
+- Stretched with bent knee
+
+You need to stretch BOTH for complete calf flexibility.
+
+## Gastrocnemius Stretches
+
+### Wall Calf Stretch (Straight Leg)
+
+1. Face wall, hands on wall
+2. Step one foot back, keep heel down
+3. Keep back leg straight
+4. Lean into wall
+5. Hold 30-60 seconds each side
+
+### Step Stretch
+
+1. Stand on step, heels hanging off
+2. Let heels drop below step level
+3. Hold 30-60 seconds
+4. Can do one leg at a time for more intensity
+
+### Downward Dog
+
+1. Hands and feet on floor, hips high
+2. Press heels toward floor
+3. Pedal feet for dynamic stretch
+4. Hold 30-60 seconds
+
+### Standing Calf Stretch with Wall
+
+1. Face wall, toes on wall, heel on floor
+2. Lean forward
+3. Feel stretch through calf
+4. Hold 30 seconds each side
+
+## Soleus Stretches
+
+### Wall Calf Stretch (Bent Knee)
+
+1. Same setup as straight leg stretch
+2. Bend back knee while keeping heel down
+3. Feel stretch lower in calf
+4. Hold 30-60 seconds each side
+
+### Seated Soleus Stretch
+
+1. Sit on floor, one knee bent, foot flat
+2. Lean forward, pressing knee over toes
+3. Keep heel down
+4. Hold 30 seconds each side
+
+### Kneeling Soleus Stretch
+
+1. Half-kneeling position
+2. Front knee tracks over toes
+3. Press knee forward, heel stays down
+4. Hold 30 seconds each side
+
+## Dynamic Calf Stretches
+
+For warm-ups or active recovery:
+
+### Ankle Circles
+
+1. Lift one foot
+2. Circle ankle 10 times each direction
+3. Both feet
+
+### Calf Raises with Full Range
+
+1. On step, heels hanging off
+2. Rise up high on toes
+3. Lower heels below step
+4. 15-20 slow reps
+5. Full range = dynamic stretch
+
+### Walking Calf Stretch
+
+1. Take a step forward
+2. Keep back heel down as long as possible
+3. Feel stretch with each step
+4. Walk 20-30 steps
+
+## Self-Massage for Calves
+
+### Foam Roller
+
+1. Sit with roller under calf
+2. Cross other leg on top for pressure
+3. Roll from ankle to below knee
+4. Pause on tight spots
+5. 60-90 seconds each leg
+
+### Lacrosse Ball
+
+1. Sit, ball under calf
+2. Press down with hands on knee
+3. Point and flex foot
+4. Move ball to different spots
+5. Great for targeted release
+
+### Hands-On Massage
+
+1. Cross foot over opposite knee
+2. Use thumbs to press into calf
+3. Work from ankle to knee
+4. Focus on tight areas
+
+## Daily Calf Stretching Routine
+
+**Morning (2 min):**
+- Downward dog: 30 seconds
+- Standing calf stretch: 20 sec each
+- Ankle circles: 10 each direction
+
+**After Sitting (Every 2 Hours):**
+- Standing calf stretch: 15 sec each (straight and bent knee)
+- Quick calf raises: 10 reps
+
+**Evening (5 min):**
+- Wall stretch straight leg: 30 sec each
+- Wall stretch bent knee: 30 sec each
+- Step stretch: 30 sec each
+- Foam roll: 60 sec each leg
+
+## Calf Stretching for Specific Activities
+
+### For Runners
+
+- Before: Dynamic (ankle circles, walking calf stretch)
+- After: Static (hold 60+ seconds)
+- Daily: Both gastrocnemius and soleus
+
+### For Squatting
+
+- Before workout: Dynamic mobility
+- Limited ankle dorsiflexion limits squat depth
+- Daily stretching improves over time
+
+### For Heel Wearers
+
+- Stretch after removing heels
+- Focus on both muscles
+- Consider switching to lower heels
+
+### For Desk Workers
+
+- Stretch every 2 hours
+- Get up and walk
+- Calves shorten when sitting
+
+## Common Mistakes
+
+### Only Stretching Gastrocnemius
+
+Most people forget the soleus. Stretch with bent knee too.
+
+### Not Holding Long Enough
+
+30 seconds minimum for static stretches. 60 seconds is better for tight calves.
+
+### Stretching Cold
+
+Light activity first, or stretch after workout when muscles are warm.
+
+### Bouncing
+
+Hold stretches steady. Bouncing triggers stretch reflex.
+
+### Ignoring Pain
+
+Stretching should feel like a stretch, not pain. Ease off if too intense.
+
+## The Bottom Line
+
+1. **Stretch both muscles** — Gastrocnemius AND soleus
+2. **Hold 30-60 seconds** — Longer for tight areas
+3. **Do daily** — Consistency creates lasting change
+4. **Add foam rolling** — Self-massage enhances stretching
+5. **Don't forget after sitting** — Calves tighten when shortened
+
+---
+
+*Foundational Rehab keeps your calves flexible with targeted stretching programs.*
+    `
   }
 };
 

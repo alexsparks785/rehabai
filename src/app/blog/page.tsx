@@ -4424,6 +4424,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Conditions',
     readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-shoulder-impingement',
+    title: 'Exercises for Shoulder Impingement: Rehab Guide',
+    excerpt: 'Progressive rehab exercises to fix shoulder impingement and restore function.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-flat-feet',
+    title: 'How to Fix Flat Feet: Exercises and Support',
+    excerpt: 'Arch-strengthening exercises and support strategies for flat feet.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-stress-relief',
+    title: 'Exercises for Stress Relief: Movement for Mental Health',
+    excerpt: 'The best exercises and routines for reducing stress and anxiety.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Wellness',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'calf-stretches',
+    title: 'Calf Stretches: Complete Guide to Tight Calves',
+    excerpt: 'Stretch both gastrocnemius and soleus for complete calf flexibility.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '5 min read'
   }
 ];
 
