@@ -121332,6 +121332,1300 @@ You may always have some discomfort. Learn to work within your limits.
 
 *Foundational Rehab provides arthritis-friendly exercise programs that help you stay active and manage pain.*
     `
+  },
+  'stretches-for-runners': {
+    title: 'Best Stretches for Runners: Complete Pre and Post Run Routine',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## The Running Stretching Debate
+
+Should runners stretch? The answer depends on when:
+
+**Before running:** Dynamic stretching (movement-based) = YES
+**Before running:** Static stretching (holding) = PROBABLY NOT
+**After running:** Static stretching = YES (if you want)
+
+Research shows static stretching before running may temporarily reduce power and doesn't prevent injury. Dynamic warm-up prepares your body better.
+
+## Pre-Run: Dynamic Warm-Up
+
+The goal is to increase blood flow, activate muscles, and prepare your joints for running—not to increase flexibility.
+
+### 5-Minute Dynamic Warm-Up
+
+**1. Walking Knee Hugs (30 seconds)**
+- Walk forward
+- Pull each knee to chest as you step
+- 10-15 steps
+
+**2. Walking Quad Pull (30 seconds)**
+- Walk forward
+- Pull heel to glute each step
+- Slight forward lean
+- 10-15 steps
+
+**3. Leg Swings - Forward/Back (30 seconds each leg)**
+- Hold wall or fence for balance
+- Swing leg forward and back
+- Keep leg relatively straight
+- 15-20 swings each leg
+
+**4. Leg Swings - Side to Side (30 seconds each leg)**
+- Face wall, hands on it
+- Swing leg across body and out
+- 15-20 swings each leg
+
+**5. Walking Lunges with Twist (30 seconds)**
+- Step into lunge
+- Rotate torso toward front leg
+- 10 steps total
+
+**6. A-Skips (30 seconds)**
+- Skip with high knee drive
+- Arms moving opposite legs
+- 20-30 meters
+
+**7. Butt Kicks (30 seconds)**
+- Jog in place or moving
+- Kick heels to glutes
+- Quick, light feet
+
+**8. High Knees (30 seconds)**
+- Jog in place or moving
+- Drive knees up
+- Quick turnover
+
+### 10-Minute Extended Warm-Up
+
+Add to the 5-minute routine:
+
+**9. Carioca/Grapevine (30 seconds each direction)**
+- Lateral movement
+- Cross feet front and back
+- Rotate hips
+
+**10. Walking Toe Touches (30 seconds)**
+- Kick leg up straight
+- Touch opposite hand to toe
+- Keep moving forward
+
+**11. Inchworms (30 seconds)**
+- Bend down, walk hands out to plank
+- Walk feet to hands
+- Stand up
+- 5-8 reps
+
+**12. Lateral Lunges (30 seconds)**
+- Step wide to side
+- Bend one knee, keep other straight
+- Alternate sides
+
+## Post-Run: Static Stretching
+
+After running, your muscles are warm—ideal for static stretching. This is when holding stretches can improve flexibility.
+
+### Essential Post-Run Stretches
+
+**1. Standing Quad Stretch (30 sec each side)**
+- Hold wall for balance
+- Pull heel to glute
+- Keep knees together
+- Push hips slightly forward
+
+**2. Standing Hamstring Stretch (30 sec each side)**
+- Foot on low surface (curb, bench)
+- Lean forward with flat back
+- Feel stretch behind thigh
+- Don't round spine
+
+**3. Calf Stretch - Gastrocnemius (30 sec each side)**
+- Face wall, hands on it
+- Step back with leg to stretch
+- Keep back leg straight, heel down
+- Lean in
+
+**4. Calf Stretch - Soleus (30 sec each side)**
+- Same position
+- Bend back knee (keep heel down)
+- Targets deeper calf muscle
+
+**5. Hip Flexor Stretch (30 sec each side)**
+- Half-kneeling position
+- Tuck pelvis under
+- Lean forward slightly
+- Squeeze glute of back leg
+
+**6. Piriformis Stretch (30 sec each side)**
+- Cross ankle over opposite knee
+- Gently press knee away
+- Can do standing, seated, or lying down
+
+**7. IT Band Stretch (30 sec each side)**
+- Cross leg behind standing leg
+- Lean away from crossed leg
+- Reach arm overhead for more stretch
+
+**8. Standing Hip Adductor Stretch (30 sec each side)**
+- Wide stance
+- Shift to one side
+- Keep both feet flat
+- Feel stretch in inner thigh
+
+### Complete 10-Minute Post-Run Routine
+
+1. Walk 2-3 minutes to cool down
+2. Quad stretch: 30 sec each
+3. Hamstring stretch: 30 sec each
+4. Calf stretch (both variations): 30 sec each
+5. Hip flexor stretch: 30 sec each
+6. Piriformis stretch: 30 sec each
+7. IT band stretch: 30 sec each
+8. Adductor stretch: 30 sec each
+
+## Stretches for Common Runner Issues
+
+### Tight IT Band
+
+**Primary stretches:**
+- Standing IT band stretch (cross behind)
+- Side-lying IT band stretch
+- Foam rolling (not technically stretching, but helpful)
+
+**Supporting stretches:**
+- Glute stretches (piriformis, figure-4)
+- Hip flexor stretches
+
+### Tight Hip Flexors
+
+**Primary stretches:**
+- Half-kneeling hip flexor stretch
+- Couch stretch (foot elevated behind)
+- Prone quad stretch
+
+**Key:** Tuck pelvis under during stretches—don't arch back.
+
+### Calf Tightness/Achilles Issues
+
+**Primary stretches:**
+- Wall calf stretch (straight leg for gastrocnemius)
+- Wall calf stretch (bent knee for soleus)
+- Step stretch (heels hanging off edge)
+
+**Key:** Both calf muscles matter. Do both versions.
+
+### Hamstring Tightness
+
+**Primary stretches:**
+- Standing hamstring stretch (foot elevated)
+- Seated forward fold
+- Supine hamstring stretch with strap
+
+**Note:** "Tight" hamstrings are often weak, not short. Consider strengthening too.
+
+### Plantar Fasciitis
+
+**Primary stretches:**
+- Calf stretches (both versions)
+- Plantar fascia stretch (pull toes back)
+- Towel scrunches (strengthening)
+
+## Mobility Work for Runners
+
+Beyond stretching, mobility drills improve running efficiency:
+
+### Hip Circles
+
+**Form:**
+1. On hands and knees
+2. Make circles with knee
+3. 10 each direction, each leg
+
+### 90-90 Transitions
+
+**Form:**
+1. Sit in 90-90 position
+2. Rotate to other side
+3. 10 transitions
+
+### Ankle Mobility
+
+**Wall ankle drives:**
+1. Foot 4-6 inches from wall
+2. Drive knee toward wall over toes
+3. Keep heel down
+4. 10-15 each side
+
+## When to Stretch More
+
+### Before Long Runs or Races
+
+- Extended dynamic warm-up (10+ minutes)
+- Include running drills
+- Start the run easy
+
+### If You Have Persistent Tightness
+
+- Add dedicated flexibility sessions (not around running)
+- Consider yoga 1-2x per week
+- Address underlying weakness
+
+### Returning from Injury
+
+- More emphasis on affected areas
+- May need pre-run static stretching (exception to general rule)
+- Follow rehab protocol
+
+## Common Stretching Mistakes Runners Make
+
+### 1. Static Stretching Before Running
+
+May reduce performance. Do dynamic warm-up instead.
+
+### 2. Bouncing
+
+Ballistic stretching can cause injury. Hold stretches steady.
+
+### 3. Stretching Cold
+
+Even post-run, if you've cooled down completely, warm up first.
+
+### 4. Only Stretching What's Tight
+
+Address the whole kinetic chain. Hip tightness may cause calf issues, etc.
+
+### 5. Stretching Through Pain
+
+Moderate discomfort okay, sharp pain is too much.
+
+### 6. Expecting Stretching to Fix Everything
+
+Stretching helps, but strength training and proper training load matter more for injury prevention.
+
+## Sample Weekly Routine
+
+### Every Run
+- Pre: 5-10 min dynamic warm-up
+- Post: 5-10 min static stretching
+
+### 1-2x Per Week
+- Dedicated mobility session (15-20 min)
+- Yoga or flexibility class
+- Foam rolling
+
+### Strength Training Days
+- Focus on hip strength (glutes especially)
+- Single-leg exercises
+- Core work
+
+## The Bottom Line
+
+1. **Dynamic before, static after** — Match stretching to timing
+2. **Warm up the movement** — Dynamic prep mimics running
+3. **Post-run is ideal** — Muscles are warm, ready to stretch
+4. **Address the whole chain** — Hips, glutes, calves, feet
+5. **Don't rely on stretching alone** — Strength prevents injuries better
+
+---
+
+*Foundational Rehab helps runners stay injury-free with mobility and strength programs designed for endurance athletes.*
+    `
+  },
+  'how-to-fix-bad-posture': {
+    title: 'How to Fix Bad Posture: Complete Correction Guide',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Posture',
+    readTime: '7 min read',
+    content: `
+## Understanding Posture
+
+"Good posture" isn't about standing like a soldier. It's about maintaining your body's natural alignment with minimal effort—where muscles and joints work efficiently without excessive strain.
+
+**Common posture problems:**
+- Forward head posture (tech neck)
+- Rounded shoulders (kyphosis)
+- Excessive low back curve (lordosis)
+- Flat back
+- Swayback
+- Uneven shoulders or hips (scoliosis patterns)
+
+Most people have some combination of these, developed from years of sitting, phone use, and daily habits.
+
+## Why Posture Matters
+
+**Pain connection:**
+- Neck and shoulder pain
+- Headaches
+- Low back pain
+- Jaw problems (TMJ)
+- Breathing difficulty
+
+**Performance impact:**
+- Reduced strength
+- Limited mobility
+- Decreased athletic performance
+- More fatigue
+
+**Long-term effects:**
+- Joint degeneration
+- Chronic pain patterns
+- Functional limitations
+
+## Posture Assessment
+
+### Wall Test
+
+1. Stand with back against wall
+2. Heels 2-4 inches from wall
+3. Butt and shoulder blades should touch wall
+4. Where is your head?
+
+**Ideal:** Back of head touches wall naturally
+**Forward head:** Head is inches from wall
+
+### Side View Check
+
+Have someone photograph you from the side:
+
+**Checkpoints (should be vertically aligned):**
+- Ear
+- Shoulder
+- Hip
+- Knee
+- Ankle
+
+**Common findings:**
+- Head forward of shoulders
+- Shoulders forward of hips
+- Excessive curves or flat spots
+
+## The Posture Correction Framework
+
+Fixing posture requires three things:
+
+1. **Release** what's tight
+2. **Strengthen** what's weak
+3. **Practice** new positions
+
+No amount of one without the others will create lasting change.
+
+## Upper Body Posture Correction
+
+### Forward Head Posture
+
+**What's tight:** Suboccipitals, upper traps, SCM, chest
+**What's weak:** Deep neck flexors, lower traps
+
+**Release:**
+- Suboccipital release with ball
+- Upper trap stretches
+- Chest stretches
+
+**Strengthen:**
+- Chin tucks (foundation exercise)
+- Deep neck flexor holds
+- Face pulls
+- Y-T-W raises
+
+**Practice:**
+- Workstation setup
+- Phone at eye level
+- Regular posture checks
+
+### Rounded Shoulders
+
+**What's tight:** Pecs, front deltoids, lats
+**What's weak:** Lower traps, rhomboids, external rotators
+
+**Release:**
+- Doorway pec stretch (all three angles)
+- Lat stretches
+- Foam roll upper back
+
+**Strengthen:**
+- Face pulls
+- Band pull-aparts
+- Rows (emphasize squeeze)
+- External rotation exercises
+
+**Practice:**
+- Shoulder blade squeezes throughout day
+- Open chest when sitting/standing
+
+### Thoracic Kyphosis (Rounded Upper Back)
+
+**What's tight:** Chest, front shoulders, thoracic spine
+**What's weak:** Thoracic extensors, scapular stabilizers
+
+**Release:**
+- Foam roller thoracic extension
+- Chest stretches
+- Cat-cow mobility
+
+**Strengthen:**
+- Prone Y-T-W
+- Rows
+- Thoracic extension exercises
+
+**Practice:**
+- Extension over foam roller daily
+- Avoid prolonged flexed positions
+
+## Lower Body Posture Correction
+
+### Anterior Pelvic Tilt (Excessive Low Back Arch)
+
+**What's tight:** Hip flexors, low back extensors
+**What's weak:** Abs, glutes
+
+**Release:**
+- Hip flexor stretch (with pelvic tuck)
+- Couch stretch
+- Low back release
+
+**Strengthen:**
+- Dead bugs (core without arching)
+- Glute bridges (squeeze at top)
+- Planks
+
+**Practice:**
+- Posterior pelvic tilt awareness
+- Standing with slight glute engagement
+
+### Posterior Pelvic Tilt (Flat Back)
+
+**What's tight:** Hamstrings, abs
+**What's weak:** Hip flexors, low back extensors
+
+**Release:**
+- Hamstring stretches
+- Gentle ab stretches
+
+**Strengthen:**
+- Hip flexor strengthening
+- Back extensions
+- Maintain natural curve
+
+### Swayback
+
+**What's tight:** Hamstrings, upper abs
+**What's weak:** Hip flexors, lower abs, deep core
+
+**Release:**
+- Hamstring stretches
+
+**Strengthen:**
+- Hip flexor exercises
+- Lower ab exercises
+- Hip hinge patterns
+
+## Daily Posture Routine
+
+### Morning (3 Minutes)
+
+1. **Cat-cow:** 10 reps
+2. **Chin tucks:** 10 reps
+3. **Hip flexor stretch:** 30 sec each
+
+### Throughout Day
+
+- **Every 30 minutes:** Posture check and reset
+- **Every hour:** Stand, move, stretch briefly
+- **Phone use:** Bring phone to eye level
+
+### Evening (5-10 Minutes)
+
+1. **Foam roller thoracic extension:** 2 min
+2. **Doorway pec stretch:** 30 sec each angle
+3. **Hip flexor stretch:** 60 sec each
+4. **Chin tucks with hold:** 5x10 sec
+5. **Shoulder blade squeezes:** 15 reps
+6. **Dead bugs or glute bridges:** 15 reps
+
+## Strengthening Program (3x/Week)
+
+### Upper Body Focus
+
+1. **Face pulls:** 3x15
+2. **Band pull-aparts:** 3x15
+3. **Prone Y-T-W:** 2x10 each
+4. **Rows:** 3x12
+5. **External rotation:** 2x15
+
+### Core Focus
+
+1. **Dead bugs:** 3x10 each side
+2. **Bird dogs:** 3x10 each side
+3. **Planks:** 3x30 sec
+4. **Side planks:** 2x20 sec each
+
+### Lower Body Focus
+
+1. **Glute bridges:** 3x15
+2. **Clamshells:** 3x15 each
+3. **Hip hinge practice:** 3x10
+4. **Single-leg stance:** 3x30 sec each
+
+## Environment Setup
+
+### Workstation
+
+**Monitor:**
+- Top of screen at eye level
+- Arm's length away
+- Directly in front
+
+**Chair:**
+- Feet flat on floor
+- Knees at 90°
+- Lumbar support
+- Arm rests at elbow height
+
+**Keyboard/Mouse:**
+- Elbows at 90°
+- Wrists neutral
+- Shoulders relaxed
+
+### Phone/Tablet
+
+- Bring device to eye level
+- Use stands when possible
+- Take breaks every few minutes
+- Don't hold phone with shoulder
+
+### Sleep
+
+- Pillow should support neck curve
+- Side sleepers: pillow fills shoulder-to-head gap
+- Back sleepers: smaller pillow, support neck curve
+- Avoid stomach sleeping
+
+### Driving
+
+- Seat upright (100-110°)
+- Lumbar support
+- Headrest at middle of head
+- Mirrors adjusted for upright posture
+
+## How Long Does Correction Take?
+
+**Realistic timeline:**
+- Week 1-2: Increased awareness
+- Week 3-4: Exercises feel easier
+- Week 5-8: Noticeable improvements
+- Week 9-12: Significant change
+- Months 3-6: New habits forming
+- Ongoing: Maintenance required
+
+**Factors:**
+- How long you've had poor posture
+- Consistency of practice
+- Underlying structural issues
+- Daily habits
+
+## Common Mistakes
+
+### 1. Overcorrecting
+
+Standing like a soldier is not good posture. It's exhausting and unsustainable.
+
+### 2. Only Stretching
+
+Stretching without strengthening = temporary relief, no lasting change.
+
+### 3. Only Exercising
+
+Exercises without habit changes = fighting against 23 hours of bad posture.
+
+### 4. Expecting Quick Fixes
+
+Posture developed over years. It won't fix in days.
+
+### 5. Ignoring the Lower Body
+
+Hip and pelvis position affects everything above.
+
+## When to Seek Help
+
+**See a professional if:**
+- Pain that doesn't improve
+- Numbness or tingling
+- Significant scoliosis
+- Recent onset of posture changes
+- Posture changes after injury
+
+## The Bottom Line
+
+1. **Assess first** — Know what you're fixing
+2. **Release AND strengthen** — Both required
+3. **Change your environment** — Setup matters
+4. **Practice throughout day** — Not just during exercises
+5. **Be patient** — Months, not days
+
+---
+
+*Foundational Rehab provides personalized posture correction programs addressing your specific imbalances.*
+    `
+  },
+  'exercises-for-tight-hamstrings': {
+    title: 'Exercises for Tight Hamstrings: Stretch and Strengthen',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## The Tight Hamstring Myth
+
+Here's something most people get wrong: tight-feeling hamstrings are often not actually short. They may feel tight because they're:
+
+- **Weak** (and working overtime)
+- **Neurally guarded** (nervous system limiting range)
+- **Reciprocally inhibited** (from tight hip flexors)
+- **Actually tight** (shortened muscle tissue)
+
+The solution depends on the cause. That's why endless stretching often doesn't work.
+
+## Testing Your Hamstrings
+
+### Active Straight Leg Raise Test
+
+**Form:**
+1. Lie on back, both legs straight
+2. Keep one leg down, lift other leg toward ceiling
+3. Keep knee straight
+4. Note the angle achieved
+
+**Normal:** 80-90° (leg nearly vertical)
+**Limited:** Less than 70°
+**Hypermobile:** Beyond 90° easily
+
+### Passive vs. Active Range
+
+If someone can push your leg much further than you can lift it:
+- Neural tension may be limiting you
+- Active control is lacking
+- Need strengthening, not just stretching
+
+### Touch Your Toes Test
+
+Can't touch toes? Could be:
+- Hamstring tightness
+- Hip mobility limitation
+- Neural tension
+- Poor hip hinge pattern
+
+## Stretching Strategies
+
+### 1. Static Stretching
+
+**Standing hamstring stretch:**
+1. Foot on low surface (chair, step)
+2. Keep both legs straight
+3. Hinge forward at hips (flat back)
+4. Feel stretch behind thigh
+5. Hold 30-60 seconds
+
+**Supine hamstring stretch:**
+1. Lie on back
+2. Use strap around foot
+3. Raise leg toward ceiling
+4. Keep knee straight
+5. Hold 30-60 seconds
+
+**Seated forward fold:**
+1. Sit with legs extended
+2. Hinge forward from hips
+3. Reach toward toes
+4. Don't round back excessively
+5. Hold 30-60 seconds
+
+### 2. Dynamic Stretching
+
+**Leg swings:**
+1. Hold wall for balance
+2. Swing leg forward and back
+3. Increase range gradually
+4. 15-20 swings each leg
+
+**Walking toe touches:**
+1. Walk forward
+2. Kick leg up, touch opposite hand
+3. Keep moving
+4. 10-15 each side
+
+**Inchworms:**
+1. Bend down, hands to floor
+2. Walk hands out to plank
+3. Walk feet to hands
+4. 8-10 reps
+
+### 3. PNF Stretching (Most Effective for Gains)
+
+**Contract-relax technique:**
+1. Get into stretch position
+2. Contract hamstring (push leg down) for 5-10 seconds
+3. Relax and move deeper into stretch
+4. Repeat 3-4 times
+
+**Why it works:** Activates the Golgi tendon organ, causing reflex relaxation.
+
+## Neural Mobilization
+
+If stretching doesn't help, neural tension may be the issue.
+
+### Sciatic Nerve Glide
+
+**Form:**
+1. Sit at edge of chair
+2. Straighten one leg, flex foot
+3. Tuck chin to chest (stretches nerve)
+4. Then point toes and look up (releases)
+5. Alternate smoothly
+6. 10-15 glides each leg
+
+**Key:** Should NOT recreate pain. If it does, reduce range.
+
+### Slump Test Position
+
+**Form:**
+1. Sit, slump forward
+2. Straighten one knee
+3. Flex foot
+4. Gentle stretch, don't force
+
+## Strengthening Exercises
+
+This is where most people miss the boat. Weak hamstrings feel tight because they're overworked.
+
+### Romanian Deadlift (RDL)
+
+**Form:**
+1. Stand with weights in hands
+2. Push hips back, slight knee bend
+3. Lower weights along legs
+4. Feel stretch in hamstrings
+5. Squeeze glutes to return
+
+**Reps:** 3 sets of 10-12
+
+### Nordic Hamstring Curl
+
+**Form:**
+1. Kneel, anchor feet under something
+2. Slowly lower body forward
+3. Use hamstrings to control descent
+4. Catch yourself with hands
+5. Push back up
+
+**Reps:** 3 sets of 5-8 (eccentric focus)
+
+### Single-Leg RDL
+
+**Form:**
+1. Stand on one leg
+2. Hinge forward, back leg goes back
+3. Keep hips level
+4. Feel hamstring work
+
+**Reps:** 3 sets of 8-10 each leg
+
+### Glute Bridge with Hamstring Focus
+
+**Form:**
+1. Feet farther from butt than normal
+2. Bridge up
+3. Should feel hamstrings more than glutes
+
+**Reps:** 3 sets of 15
+
+### Hamstring Curl Variations
+
+- Stability ball curls
+- Slider curls
+- Machine curls
+- Band curls
+
+**Reps:** 3 sets of 12-15
+
+## Hip Flexor Connection
+
+Tight hip flexors cause reciprocal inhibition of hamstrings—they can't fully relax because hip flexors are pulling pelvis forward.
+
+### Hip Flexor Stretch
+
+**Form:**
+1. Half-kneeling position
+2. Tuck pelvis under (key!)
+3. Squeeze glute of back leg
+4. Lean forward slightly
+5. Hold 60 seconds each side
+
+**When:** Before hamstring stretching
+
+## Putting It Together
+
+### Quick Daily Routine (5 Minutes)
+
+1. Hip flexor stretch: 30 sec each
+2. Leg swings: 15 each leg
+3. Standing hamstring stretch: 30 sec each
+4. Nerve glide: 10 each leg
+
+### Comprehensive Program (3x/Week)
+
+**Warm-up:**
+- Leg swings: 15 each
+- Inchworms: 8 reps
+
+**Strengthening:**
+- RDL: 3x10
+- Single-leg RDL: 3x8 each
+- Nordic curls: 3x5
+
+**Stretching:**
+- PNF hamstring stretch: 3 contractions each
+- Hip flexor stretch: 60 sec each
+- Nerve glide: 10 each (if needed)
+
+## Progress Expectations
+
+### If It's Truly Tight Muscle
+
+- Noticeable improvement in 2-4 weeks
+- Significant improvement in 6-8 weeks
+- Maintenance required after
+
+### If It's Neural Tension
+
+- May improve quickly with nerve glides
+- May take longer to resolve
+- Consider professional assessment
+
+### If It's Weakness
+
+- Stretching alone won't fix it
+- Strength gains = reduced tightness sensation
+- 4-8 weeks of consistent strengthening
+
+## Common Mistakes
+
+### 1. Only Stretching
+
+If weakness is the issue, stretching won't help.
+
+### 2. Rounding the Back
+
+Rounding spine during stretches takes tension off hamstrings.
+
+### 3. Ignoring Hip Flexors
+
+Tight hip flexors prevent hamstrings from relaxing.
+
+### 4. Stretching Before Strength Training
+
+May reduce power output. Save static stretching for after.
+
+### 5. Expecting Quick Results
+
+Flexibility takes time. Consistency matters more than intensity.
+
+## When Tight Hamstrings Are a Problem
+
+**Address them if causing:**
+- Low back pain
+- Difficulty with activities
+- Running gait issues
+- Sitting discomfort
+
+**Maybe not an issue if:**
+- No pain or functional limitation
+- Just can't touch toes (may not matter)
+- Athletic performance is fine
+
+Not everyone needs to touch their toes. Functional range for your activities is what matters.
+
+## The Bottom Line
+
+1. **Test first** — Determine why they feel tight
+2. **Strengthen, not just stretch** — Often the real solution
+3. **Address hip flexors** — Connected to hamstring tension
+4. **Consider neural tension** — Nerve glides may help
+5. **Be consistent** — Flexibility gains take weeks
+
+---
+
+*Foundational Rehab helps you understand why your hamstrings feel tight and provides targeted solutions.*
+    `
+  },
+  'bodyweight-exercises-for-beginners': {
+    title: 'Bodyweight Exercises for Beginners: Start Your Fitness Journey',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Movement',
+    readTime: '7 min read',
+    content: `
+## Why Bodyweight Training?
+
+Bodyweight exercises are perfect for beginners because:
+
+- **No equipment needed** — Start anywhere
+- **Lower injury risk** — You control the resistance
+- **Build foundation** — Learn movement patterns first
+- **Progressive** — Can be made easier or harder
+- **Functional** — Movements you use in daily life
+
+## The Essential Movement Patterns
+
+All exercises fit into basic patterns. Master these:
+
+1. **Push** (push-ups)
+2. **Pull** (rows)
+3. **Squat** (squats, lunges)
+4. **Hinge** (deadlift pattern)
+5. **Core** (planks, carries)
+
+## Push Exercises
+
+### Wall Push-Up (Easiest)
+
+**Form:**
+1. Face wall, hands at chest height
+2. Lean in, bending elbows
+3. Push back to start
+4. Body stays straight
+
+**Reps:** 3 sets of 15-20
+
+### Incline Push-Up
+
+**Form:**
+1. Hands on elevated surface (counter, table, bench)
+2. Body straight from head to heels
+3. Lower chest to surface
+4. Push back up
+
+**Progression:** Lower the surface as you get stronger
+
+**Reps:** 3 sets of 10-15
+
+### Knee Push-Up
+
+**Form:**
+1. Hands slightly wider than shoulders
+2. Knees on ground, feet up
+3. Lower chest to floor
+4. Keep body straight from knees to head
+
+**Reps:** 3 sets of 10-15
+
+### Full Push-Up
+
+**Form:**
+1. Hands slightly wider than shoulders
+2. Body straight from head to heels
+3. Lower until chest nearly touches floor
+4. Push back up, don't let hips sag
+
+**Reps:** Work up to 3 sets of 10-15
+
+## Pull Exercises
+
+### Doorway Row (Easiest)
+
+**Form:**
+1. Hold both sides of doorframe
+2. Lean back with straight body
+3. Pull yourself toward door
+4. Control return
+
+**Reps:** 3 sets of 12-15
+
+### Table Row
+
+**Form:**
+1. Lie under sturdy table
+2. Grip table edge
+3. Pull chest toward table
+4. Keep body straight
+
+**Reps:** 3 sets of 10-15
+
+### Resistance Band Row
+
+**Form:**
+1. Secure band at chest height
+2. Pull toward body, squeeze shoulder blades
+3. Control return
+
+**Reps:** 3 sets of 12-15
+
+### Inverted Row (Advanced Beginner)
+
+**Form:**
+1. Set bar at waist height (smith machine, TRX)
+2. Hang underneath, body straight
+3. Pull chest to bar
+4. Lower with control
+
+**Progression:** Higher bar = easier
+
+**Reps:** 3 sets of 8-12
+
+## Squat Exercises
+
+### Box Squat (Easiest)
+
+**Form:**
+1. Chair or box behind you
+2. Squat down and touch (don't plop)
+3. Stand back up
+4. Weight in heels
+
+**Reps:** 3 sets of 12-15
+
+### Assisted Squat
+
+**Form:**
+1. Hold something sturdy (doorframe, pole)
+2. Squat down using support for balance
+3. Stand back up
+
+**Reps:** 3 sets of 12-15
+
+### Bodyweight Squat
+
+**Form:**
+1. Feet shoulder-width apart
+2. Push hips back, bend knees
+3. Lower until thighs parallel (or as low as comfortable)
+4. Chest up, weight in heels
+5. Stand back up
+
+**Reps:** 3 sets of 15-20
+
+### Split Squat (Single-Leg)
+
+**Form:**
+1. Staggered stance (one foot forward)
+2. Lower straight down
+3. Both knees bend to 90°
+4. Push back up
+
+**Reps:** 3 sets of 10 each leg
+
+## Hinge Exercises
+
+### Hip Hinge Practice
+
+**Form:**
+1. Stand with back against wall, feet 6 inches away
+2. Push hips back to touch wall
+3. Slight knee bend
+4. Keep back flat
+
+**Reps:** 3 sets of 15
+
+### Romanian Deadlift (Bodyweight)
+
+**Form:**
+1. Stand on one or both legs
+2. Push hips back
+3. Lower torso, keeping back flat
+4. Feel hamstring stretch
+5. Squeeze glutes to stand
+
+**Reps:** 3 sets of 12-15
+
+### Glute Bridge
+
+**Form:**
+1. Lie on back, knees bent, feet flat
+2. Push through heels
+3. Lift hips, squeeze glutes
+4. Lower with control
+
+**Reps:** 3 sets of 15-20
+
+### Single-Leg Glute Bridge
+
+**Form:**
+1. Same as glute bridge
+2. One leg extended
+3. Bridge up on single leg
+
+**Reps:** 3 sets of 10 each leg
+
+## Core Exercises
+
+### Dead Bug (Easiest)
+
+**Form:**
+1. Lie on back, arms up, knees at 90°
+2. Lower opposite arm and leg
+3. Keep lower back pressed to floor
+4. Return and alternate
+
+**Reps:** 3 sets of 8-10 each side
+
+### Bird Dog
+
+**Form:**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep back flat, don't rotate
+4. Hold 2 seconds
+5. Return and alternate
+
+**Reps:** 3 sets of 8-10 each side
+
+### Plank
+
+**Form:**
+1. On forearms and toes
+2. Body straight from head to heels
+3. Don't let hips sag or pike up
+4. Breathe normally
+
+**Time:** 3 sets of 20-60 seconds
+
+**Easier:** Plank from knees
+
+### Side Plank
+
+**Form:**
+1. On one forearm, feet stacked
+2. Lift hips, body straight
+3. Top arm on hip or toward ceiling
+
+**Time:** 2-3 sets of 15-30 seconds each side
+
+**Easier:** Knee on ground
+
+## Beginner Workout Programs
+
+### Program A: Full Body (3x/Week)
+
+**Workout:**
+1. Wall or incline push-ups: 3x12-15
+2. Doorway or table rows: 3x12-15
+3. Box squats: 3x12-15
+4. Glute bridges: 3x15
+5. Dead bugs: 3x8 each side
+6. Plank: 3x20-30 sec
+
+### Program B: Split Routine (4x/Week)
+
+**Day 1 & 3 - Upper Body:**
+1. Push-up progression: 3x10-15
+2. Row progression: 3x10-15
+3. Plank: 3x30 sec
+4. Wall angels: 2x10
+
+**Day 2 & 4 - Lower Body:**
+1. Squat progression: 3x12-15
+2. Glute bridges: 3x15
+3. Split squats: 3x10 each
+4. Bird dogs: 3x8 each
+5. Side plank: 2x20 sec each
+
+### Program C: Daily Movement (10 Minutes)
+
+**Every day:**
+1. Squats: 20 reps
+2. Push-ups (any variation): 10-20 reps
+3. Glute bridges: 15 reps
+4. Bird dogs: 10 each side
+5. Plank: 30-60 sec
+
+## Progression Guidelines
+
+### When to Progress
+
+Move to harder variation when you can:
+- Complete all sets and reps
+- With good form
+- Without excessive fatigue
+
+### How to Progress
+
+**Push-ups:** Wall → Incline → Knee → Full → Decline
+**Rows:** Doorway → Table → Inverted (high) → Inverted (low)
+**Squats:** Assisted → Box → Bodyweight → Single-leg
+**Planks:** Knee → Full → Add time → Add difficulty
+
+### Adding Reps vs. Harder Variation
+
+- Build to 15-20 reps before progressing
+- Or progress when current level feels easy at 12-15 reps
+- Quality always over quantity
+
+## Common Beginner Mistakes
+
+### 1. Starting Too Hard
+
+Begin with easier variations. Build form first.
+
+### 2. Skipping Warm-Up
+
+2-3 minutes of light movement prevents injury.
+
+### 3. Ignoring Form
+
+One good rep is worth more than five bad ones.
+
+### 4. Doing Too Much
+
+Start with 2-3 days per week. Recovery matters.
+
+### 5. Not Progressing
+
+Challenge yourself gradually. Same workout forever = no improvement.
+
+### 6. Only Doing What's Easy
+
+Include exercises you're bad at. That's where growth happens.
+
+## Tips for Success
+
+### Start Small
+
+- 10-15 minutes is enough to start
+- 2-3 days per week minimum
+- Consistency beats perfection
+
+### Track Progress
+
+- Write down reps and sets
+- Note when exercises get easier
+- Celebrate improvements
+
+### Stay Patient
+
+- Strength takes weeks to build
+- Form takes practice
+- Results come with consistency
+
+### Listen to Your Body
+
+- Rest when needed
+- Modify if something hurts
+- Gradual progress, not pain
+
+## The Bottom Line
+
+1. **Master the basics** — Push, pull, squat, hinge, core
+2. **Start easy** — Progress from there
+3. **Form first** — Quality over quantity
+4. **Be consistent** — 3x/week minimum
+5. **Progress gradually** — Challenge yourself appropriately
+
+---
+
+*Foundational Rehab helps beginners build a strong foundation with proper movement patterns and progressive programming.*
+    `
   }
 };
 
