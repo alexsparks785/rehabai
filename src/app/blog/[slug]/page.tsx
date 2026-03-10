@@ -104288,6 +104288,968 @@ See a professional if:
 
 *Foundational Rehab offers personalized lower back pain programs based on your specific needs.*
     `
+  },
+  'waking-up-with-back-pain': {
+    title: 'Waking Up with Back Pain: Causes and Morning Relief Strategies',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Pain Relief',
+    readTime: '6 min read',
+    content: `
+## Why Your Back Hurts in the Morning
+
+Morning back pain is extremely common. Understanding why it happens helps you fix it.
+
+### Disc Rehydration
+
+While you sleep, spinal discs absorb fluid and expand:
+- You're actually taller in the morning
+- Discs are more pressurized
+- Spine is stiffer
+- First movements can be painful
+
+This is normal and subsides with movement.
+
+### Sleep Position
+
+How you sleep affects your spine:
+- Poor alignment for 6-8 hours
+- Certain positions stress the back
+- Pillow and mattress matter
+
+### Mattress Issues
+
+Your mattress may be:
+- Too soft (spine sags)
+- Too firm (pressure points)
+- Too old (lost support)
+- Wrong for your body type
+
+### Inflammatory Conditions
+
+Morning stiffness lasting 30+ minutes may indicate:
+- Ankylosing spondylitis
+- Inflammatory arthritis
+- Worth discussing with a doctor if persistent
+
+### Muscle Tension
+
+You may be:
+- Sleeping in tense positions
+- Grinding teeth (jaw tension affects back)
+- Stressed (doesn't turn off at night)
+
+## Best Sleep Positions for Back Pain
+
+### Back Sleeping (Often Best)
+
+**How to optimize:**
+- Pillow under knees (reduces lumbar curve)
+- Pillow height keeps neck neutral
+- May need thin pillow under lower back if gap
+
+**Avoid:** Sleeping flat without knee support
+
+### Side Sleeping (Most Common)
+
+**How to optimize:**
+- Pillow between knees (keeps hips aligned)
+- Pillow thick enough to keep neck straight
+- Slight fetal position is fine
+- Avoid twisting spine
+
+**Avoid:** Top leg falling forward (twists spine)
+
+### Stomach Sleeping (Usually Worst)
+
+**Problems:**
+- Forces neck rotation
+- Increases lumbar curve
+- Hard on facet joints
+
+**If you must:**
+- Thin or no pillow
+- Pillow under hips to reduce arch
+- Try to transition away from this position
+
+## Pillow and Mattress Guidance
+
+### Pillow
+
+**For back sleepers:** Medium loft, fills the curve of neck
+**For side sleepers:** Higher loft, keeps neck straight
+**For stomach sleepers:** Very thin or none
+
+**Test:** Lie in your position — is your neck in line with your spine?
+
+### Mattress
+
+**Medium-firm works for most people**
+
+**Too soft signs:**
+- You sink in and can't turn over easily
+- Back aches in the morning
+- Feel like you're in a hammock
+
+**Too firm signs:**
+- Pressure points on hips/shoulders
+- Can't get comfortable
+- Tossing and turning
+
+**Consider:** Your weight matters. Heavier people generally need firmer. Lighter people may need softer.
+
+**Lifespan:** Most mattresses should be replaced every 7-10 years.
+
+## Morning Relief Routine (5 Minutes)
+
+Do this before getting out of bed or immediately after:
+
+### In Bed
+
+**1. Knee Rocks**
+- On back, knees bent
+- Rock knees gently side to side
+- 30 seconds
+
+**2. Single Knee to Chest**
+- Pull one knee toward chest
+- Hold 15-20 seconds
+- Switch sides
+
+**3. Pelvic Tilts**
+- On back, knees bent
+- Flatten lower back into bed
+- Hold 3 seconds
+- 10 reps
+
+### After Standing
+
+**4. Standing Back Extension**
+- Hands on lower back
+- Lean back gently
+- 10 reps
+
+**5. Cat-Cow**
+- On hands and knees
+- Slowly alternate arching and rounding
+- 10 reps
+
+**6. Hip Flexor Stretch**
+- Kneeling lunge
+- 30 seconds each side
+
+### Gentle Movement
+
+**7. Walk**
+- Even just around the house
+- Gets fluid moving in joints
+- 2-5 minutes
+
+## Lifestyle Factors
+
+### Evening Habits
+
+**Avoid:**
+- Heavy exercise right before bed
+- Stressful activities
+- Looking at phone in bed (neck position)
+
+**Do:**
+- Light stretching before bed
+- Relaxation routine
+- Address stress
+
+### Sleep Environment
+
+**Optimize:**
+- Room temperature (cool is usually better)
+- Darkness
+- Comfortable humidity
+- Limit alcohol (disrupts sleep quality)
+
+## When Morning Back Pain Is a Red Flag
+
+### See a Doctor If
+
+- Stiffness lasts more than 30 minutes after waking
+- Pain is getting progressively worse
+- Numbness or weakness accompanies pain
+- Pain wakes you up at night
+- Unexplained weight loss
+- History of cancer
+- Recent trauma
+
+These could indicate inflammatory conditions or other issues needing evaluation.
+
+## Quick Fixes vs. Long-Term Solutions
+
+### Quick Fixes
+
+- Morning stretching routine
+- Hot shower
+- Heat pack
+- OTC anti-inflammatories (short-term)
+
+### Long-Term Solutions
+
+- Proper mattress and pillow
+- Core strengthening
+- Overall fitness
+- Weight management
+- Stress management
+- Sleep position training
+- Address underlying conditions
+
+## The Bottom Line
+
+1. **Morning stiffness is normal** — Discs rehydrate overnight
+2. **Sleep position matters** — Back or side with proper support
+3. **Mattress check** — Medium-firm for most, replace every 7-10 years
+4. **Morning routine** — 5 minutes of gentle movement helps
+5. **Persistent stiffness** — See a doctor if it lasts 30+ minutes daily
+
+---
+
+*Foundational Rehab offers morning mobility programs to start your day pain-free.*
+    `
+  },
+  'tight-hip-flexors-symptoms': {
+    title: 'Tight Hip Flexors: Symptoms, Causes, and How to Fix Them',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## What Are Hip Flexors?
+
+Your hip flexors are muscles that lift your knee and bend at the hip:
+
+**Iliopsoas:** The main hip flexor (actually two muscles: iliacus and psoas)
+**Rectus Femoris:** Part of your quad, also flexes the hip
+**Tensor Fasciae Latae (TFL):** On the outside of the hip
+**Sartorius:** The longest muscle in the body, crosses hip and knee
+
+When people say "tight hip flexors," they usually mean the iliopsoas.
+
+## Symptoms of Tight Hip Flexors
+
+### Direct Symptoms
+
+- Tightness or pulling in front of hip
+- Difficulty standing up straight after sitting
+- Feeling "stuck" when trying to extend hip
+- Reduced stride length when walking/running
+
+### Related Problems (Often Caused by Tight Hip Flexors)
+
+**Lower back pain:**
+- Tight hip flexors pull pelvis into anterior tilt
+- Increases lumbar curve
+- Stresses lower back
+
+**Hip pain:**
+- Can cause impingement
+- Snapping hip syndrome
+- Groin discomfort
+
+**Poor posture:**
+- Belly pushed forward
+- Excessive lower back arch
+- Difficulty standing tall
+
+**Reduced athletic performance:**
+- Limited hip extension
+- Reduced power in running/jumping
+- Compensations leading to injury
+
+### The Thomas Test (Self-Assessment)
+
+**How to:**
+- Lie on table edge, both knees to chest
+- Lower one leg, keeping other knee pulled in
+- Observe the lowered leg
+
+**Results:**
+- Thigh should rest flat on table
+- Knee should bend to 90°
+- If thigh rises: hip flexor tightness (iliopsoas)
+- If knee straightens: rectus femoris tightness
+
+## Why Hip Flexors Get Tight
+
+### Prolonged Sitting
+
+The #1 cause:
+- Hip flexors stay shortened for hours
+- Adapt to this shortened position
+- Average person sits 10+ hours daily
+
+### Weak Glutes
+
+When glutes don't fire properly:
+- Hip flexors work overtime
+- Become chronically tight
+- Creates muscular imbalance
+
+### Running/Cycling Without Stretching
+
+Repetitive hip flexion:
+- Running (especially lots of uphill)
+- Cycling
+- Without counter-stretching, leads to tightness
+
+### Weak Core
+
+When core is weak:
+- Hip flexors compensate
+- Work harder than they should
+- Get tight from overwork
+
+### Stress
+
+Psoas is connected to stress response:
+- Chronically tense when stressed
+- Physical manifestation of mental tension
+
+## How to Fix Tight Hip Flexors
+
+### 1. Stretch the Hip Flexors (Daily)
+
+**Kneeling Hip Flexor Stretch (Essential)**
+
+**How to:**
+- Kneel on one knee, other foot forward
+- Tuck pelvis under (flatten lower back)
+- Squeeze back glute hard
+- Lean forward slightly
+- Hold 60-90 seconds each side
+- Do 2-3x daily
+
+**Key:** The glute squeeze and pelvic tuck are essential. Without them, you're not actually stretching the hip flexor effectively.
+
+**Couch Stretch (More Intense)**
+
+**How to:**
+- Back knee against wall or couch
+- Front foot forward in lunge
+- Stay upright
+- Squeeze glute, tuck pelvis
+- Hold 60-90 seconds each side
+
+### 2. Strengthen the Glutes
+
+Hip flexors often get tight because glutes are weak.
+
+**Glute Bridges**
+- 3 sets of 15-20 reps
+- Squeeze glutes at top
+- Daily
+
+**Clamshells**
+- 3 sets of 15 each side
+- Band above knees for added resistance
+
+**Hip Thrusts**
+- Progress to when bridges are easy
+- 3 sets of 12-15
+
+### 3. Strengthen the Core
+
+**Dead Bugs**
+- 3 sets of 10 each side
+- Keep back flat
+
+**Planks**
+- 3 sets of 30 seconds
+- Tuck pelvis (don't let back arch)
+
+### 4. Address Sitting
+
+- Stand more (standing desk if possible)
+- Walk regularly
+- Movement breaks every 30-60 minutes
+- Sit differently (varied positions)
+
+### 5. Soft Tissue Work
+
+**Psoas Release**
+- Lie face down
+- Tennis ball below hip bone, inside of hip
+- Relax onto ball
+- 60-90 seconds each side
+
+**TFL and Quad Rolling**
+- Foam roller on front and side of thigh
+- 60 seconds each area
+
+## Sample Daily Routine (10 Minutes)
+
+**Morning:**
+1. Hip flexor stretch: 60 sec each side
+2. Glute bridges: 15 reps
+
+**Midday (if sitting a lot):**
+1. Standing hip flexor stretch: 30 sec each side
+2. Walk for 5 minutes
+
+**Evening:**
+1. Couch stretch: 60 sec each side
+2. Psoas release: 60 sec each side
+3. Dead bugs: 10 each side
+4. Glute bridges: 15 reps
+
+## How Long to See Results?
+
+**Week 1-2:** Feeling looser after stretching
+
+**Week 3-4:** Noticeable improvement in daily life
+
+**Week 5-8:** Significant improvement in flexibility
+
+**Week 9-12:** Major changes in posture and function
+
+**Ongoing:** Maintenance required (sitting keeps fighting you)
+
+## Common Mistakes
+
+### Stretching Without Glute Squeeze
+
+Most people stretch hip flexors ineffectively. The glute squeeze tips the pelvis correctly to actually target the hip flexor.
+
+### Not Addressing Sitting
+
+Stretching 5 minutes then sitting 10 hours won't fix the problem. Must reduce sitting or take frequent breaks.
+
+### Ignoring Glute Weakness
+
+If glutes aren't activating, hip flexors will keep getting tight. Must strengthen glutes simultaneously.
+
+### Inconsistency
+
+Hip flexors need daily attention initially. Occasional stretching won't overcome chronic tightness.
+
+## The Bottom Line
+
+1. **Sitting is the main cause** — Address it directly
+2. **Stretch correctly** — Glute squeeze, pelvic tuck
+3. **Strengthen glutes** — Critical for long-term fix
+4. **Daily attention** — Consistency is key
+5. **Patience** — Takes 6-12 weeks for significant change
+
+---
+
+*Foundational Rehab offers hip flexor mobility programs with daily guidance and progress tracking.*
+    `
+  },
+  'can-you-build-muscle-with-bodyweight': {
+    title: 'Can You Build Muscle with Bodyweight Exercises? The Evidence',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## The Short Answer
+
+Yes, you can build significant muscle with bodyweight exercises alone. Research confirms it. But there are important caveats and strategies to maximize results.
+
+## What the Research Says
+
+### Studies Show
+
+- Bodyweight training produces similar muscle gains to weight training when effort is matched
+- Push-ups can build chest muscle as effectively as bench press at similar intensities
+- Bodyweight squats can build leg muscle when taken close to failure
+
+### The Key Variable: Effort
+
+Muscle growth requires:
+- Sufficient mechanical tension
+- Taking sets close to failure
+- Progressive overload over time
+
+This can be achieved with or without weights.
+
+## How Muscles Grow
+
+Muscle growth (hypertrophy) requires:
+
+**1. Mechanical Tension**
+Muscles must work against resistance. Bodyweight provides this.
+
+**2. Metabolic Stress**
+The "burn" from sustained effort. Achievable with bodyweight.
+
+**3. Muscle Damage**
+Micro-tears from challenging exercise. Bodyweight can provide this.
+
+**4. Progressive Overload**
+Gradually increasing demands. Possible with bodyweight through progressions.
+
+## Advantages of Bodyweight Training
+
+### Convenience
+
+- No gym required
+- No equipment cost
+- Can do anywhere
+- No waiting for equipment
+
+### Joint-Friendly
+
+- Often more natural movement patterns
+- Self-limiting (can't go heavier than you can handle)
+- Good for beginners and injury prevention
+
+### Functional Strength
+
+- You learn to control your body
+- Better body awareness
+- Transfers to real-world movement
+
+### Compound Movements
+
+Most bodyweight exercises work multiple muscle groups simultaneously.
+
+## Limitations (Being Honest)
+
+### Some Muscles Are Hard to Target
+
+- Hamstrings (limited without equipment)
+- Upper back pulling (need a bar for pull-ups)
+- Direct bicep/tricep isolation
+
+### Progressive Overload Is Harder
+
+With weights, you simply add more weight. Bodyweight requires:
+- Harder exercise variations
+- More reps (diminishing returns past ~30)
+- Slower tempos
+- Longer time under tension
+
+### Very Advanced Trainees
+
+Elite strength athletes will eventually need external resistance to continue progressing.
+
+### Leg Training
+
+Bodyweight leg exercises become very high rep before being challenging enough for muscle growth. This is time-consuming.
+
+## How to Build Muscle with Bodyweight
+
+### 1. Train Close to Failure
+
+**The key principle.**
+
+If you stop at 10 push-ups when you could do 20, you're leaving muscle growth on the table.
+
+**Leave 1-3 reps in reserve** (could do 1-3 more if you had to)
+
+### 2. Use Progressions
+
+When an exercise becomes easy (30+ reps), progress to a harder variation.
+
+**Push-up progression:**
+- Wall push-ups
+- Incline push-ups
+- Knee push-ups
+- Full push-ups
+- Diamond push-ups
+- Decline push-ups
+- Archer push-ups
+- One-arm progressions
+
+**Squat progression:**
+- Assisted squats
+- Bodyweight squats
+- Pause squats
+- Bulgarian split squats
+- Pistol squat progressions
+- Shrimp squats
+
+### 3. Control the Tempo
+
+Slow down the movement:
+- 3 seconds down
+- 1 second pause
+- 2 seconds up
+
+This increases time under tension and difficulty without changing the exercise.
+
+### 4. Use Pauses and Holds
+
+Add isometric holds at the hardest point:
+- Bottom of push-up (3-5 second hold)
+- Bottom of squat (3-5 second hold)
+- Top of pull-up (squeeze)
+
+### 5. Increase Volume
+
+More sets = more growth stimulus.
+
+**Minimum for muscle growth:** 10 sets per muscle group per week
+**Optimal for most:** 15-20 sets per week
+**Maximum recoverable:** ~25 sets per week
+
+### 6. Focus on Mind-Muscle Connection
+
+Squeeze the target muscle throughout the movement. This increases muscle activation.
+
+## Sample Muscle-Building Bodyweight Program
+
+### Push (Chest, Shoulders, Triceps)
+
+**Exercise 1:** Push-up variation (progression appropriate for you)
+- 4 sets, close to failure
+- 3 second negative
+
+**Exercise 2:** Pike push-ups (shoulders)
+- 3 sets, close to failure
+
+**Exercise 3:** Diamond push-ups (triceps)
+- 3 sets, close to failure
+
+**Exercise 4:** Dips (if available)
+- 3 sets, close to failure
+
+### Pull (Back, Biceps)
+
+**Exercise 1:** Pull-ups or inverted rows
+- 4 sets, close to failure
+
+**Exercise 2:** Chin-ups or underhand rows (bicep emphasis)
+- 3 sets, close to failure
+
+**Exercise 3:** Face pulls (bands help) or prone Y raises
+- 3 sets of 15-20
+
+### Legs
+
+**Exercise 1:** Bulgarian split squats
+- 4 sets each leg, close to failure
+
+**Exercise 2:** Hip thrusts or glute bridges
+- 4 sets, close to failure
+
+**Exercise 3:** Nordic curl negatives (hamstrings)
+- 3 sets of 5-8 slow negatives
+
+**Exercise 4:** Calf raises (single leg)
+- 3 sets, close to failure
+
+### Core
+
+**Exercise 1:** Ab wheel rollouts or dead bugs
+- 3 sets
+
+**Exercise 2:** Pallof press (with band) or side planks
+- 3 sets each side
+
+### Weekly Split
+
+**Option 1 (3 days):**
+Full body, 3x per week
+
+**Option 2 (4 days):**
+Upper/Lower split, 2x each per week
+
+**Option 3 (6 days):**
+Push/Pull/Legs, 2x through
+
+## Realistic Expectations
+
+### Beginners
+
+Can build significant muscle quickly (newbie gains). Bodyweight training is excellent.
+
+### Intermediate
+
+Can continue building muscle, but need to get creative with progressions. Some may want to add minimal equipment (pull-up bar, rings, bands).
+
+### Advanced
+
+May plateau without external resistance. Consider adding weighted vest, resistance bands, or transition to weights for continued gains.
+
+## Minimal Equipment Add-Ons
+
+If you want to maximize bodyweight training with minimal investment:
+
+**Pull-up bar ($20-40):** Opens up back and bicep training
+**Resistance bands ($20-30):** Adds options for many muscles
+**Gymnastic rings ($30-50):** Unlocks advanced progressions
+**Weighted vest ($50-100):** Adds resistance to everything
+
+## The Bottom Line
+
+1. **Yes, bodyweight builds muscle** — Research confirms it
+2. **Train close to failure** — The key variable
+3. **Progress to harder variations** — Don't just add reps forever
+4. **Control tempo** — Slow down for more stimulus
+5. **Be realistic** — Beginners thrive; advanced may need more
+
+---
+
+*Foundational Rehab offers bodyweight strength programs with progressive exercise variations.*
+    `
+  },
+  'exercises-for-nurses': {
+    title: 'Exercises for Nurses: Stay Strong Through Long Shifts',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Lifestyle',
+    readTime: '6 min read',
+    content: `
+## The Nursing Body Challenge
+
+12-hour shifts create specific physical demands:
+- Standing/walking 10,000+ steps
+- Awkward patient handling positions
+- Bending and twisting
+- Limited break time
+- Night shift disruption
+- Emotional stress (physical impact)
+
+Nurses have high rates of back injuries and burnout. Prevention is key.
+
+## Before Your Shift (5-10 Minutes)
+
+### Wake Up Your Muscles
+
+**Glute Bridges**
+- 15 reps
+- Wake up glutes before standing all day
+- Protects lower back
+
+**Cat-Cow**
+- 10 reps
+- Mobilize spine before work
+
+**Hip Flexor Stretch**
+- 30 seconds each side
+- Counteract sitting (commute, breaks)
+
+**Shoulder Circles**
+- 10 each direction
+- Prepare for reaching and lifting
+
+**Bodyweight Squats**
+- 15 reps
+- Activate legs
+
+## During Your Shift
+
+### Quick Movement Breaks (1-2 Minutes)
+
+**When you have 60 seconds:**
+
+**Calf Raises**
+- While charting or waiting
+- 20 reps
+- Reduces leg fatigue
+
+**Shoulder Rolls**
+- Standing anywhere
+- 10 each direction
+- Releases tension
+
+**Standing Back Extension**
+- Hands on lower back
+- Lean back gently
+- 5-10 reps
+
+**Chin Tucks**
+- Pull chin back
+- Hold 5 seconds
+- 10 reps
+- Counteracts looking down at patients/charts
+
+### In an Empty Room or Break Room
+
+**Wall Push-Ups**
+- 10-15 reps
+- Maintains upper body strength
+
+**Walking Lunges**
+- Down the hall (if appropriate)
+- 10 each leg
+
+**Seated Spinal Twist**
+- On break
+- 30 seconds each side
+
+## Patient Handling (Protect Your Back)
+
+### Before Lifting
+
+- Engage core first
+- Bend knees, not back
+- Get close to the load
+- Use equipment when available
+- Ask for help (no heroes)
+
+### Exercises That Protect You
+
+**Dead Bugs (Core Activation)**
+- Trains core to stabilize spine
+- Do at home regularly
+
+**Hip Hinges**
+- Practice proper bending pattern
+- Romanian deadlift movement
+
+**Farmer Carries**
+- Builds grip and core
+- Simulates carrying equipment
+
+## After Your Shift (10-15 Minutes)
+
+### Decompress Your Spine
+
+**Child's Pose**
+- 60 seconds
+- Gentle flexion stretch
+
+**Knees to Chest**
+- 30 seconds each side
+- Releases lower back
+
+**Supine Twist**
+- 45 seconds each side
+- Rotational relief
+
+### Release Tight Muscles
+
+**Hip Flexor Stretch**
+- 60 seconds each side
+- Standing all day still tightens them
+
+**Calf Stretch**
+- 45 seconds each side
+- After all that walking
+
+**Upper Trap Stretch**
+- 30 seconds each side
+- Stress accumulates here
+
+### Legs Up the Wall
+
+- Lie with legs up against wall
+- 5-10 minutes
+- Reduces leg swelling
+- Helps venous return
+- Incredibly restorative
+
+## Days Off (Strength Training)
+
+### Critical Areas for Nurses
+
+**1. Core Strength**
+
+Protects your back during patient handling.
+
+- Planks: 3 x 30 seconds
+- Dead bugs: 3 x 10 each side
+- Bird dogs: 3 x 10 each side
+- Pallof press (if band available): 3 x 10 each side
+
+**2. Hip and Glute Strength**
+
+Powers proper lifting mechanics.
+
+- Glute bridges: 3 x 15
+- Hip thrusts: 3 x 12
+- Clamshells: 3 x 15 each side
+- Romanian deadlifts: 3 x 10 (learn proper form)
+
+**3. Upper Back Strength**
+
+Counteracts forward posture.
+
+- Rows: 3 x 12
+- Face pulls: 3 x 15
+- Reverse flies: 3 x 12
+
+**4. Leg Endurance**
+
+Handles the daily load.
+
+- Squats: 3 x 15
+- Lunges: 3 x 10 each leg
+- Calf raises: 3 x 20
+
+### Sample Weekly Plan
+
+**Day 1:** Full body strength (30-40 min)
+**Day 2:** Active recovery (walking, light stretching)
+**Day 3:** Full body strength
+**Day 4:** Work
+**Day 5:** Work
+**Day 6:** Work
+**Day 7:** Rest and recovery (stretching, legs up wall)
+
+Adjust based on your shift schedule.
+
+## Sleep and Recovery
+
+### Night Shift Challenges
+
+- Circadian disruption
+- Sleep quality suffers
+- Recovery is harder
+
+**Strategies:**
+- Blackout curtains
+- Consistent sleep schedule (even off days)
+- Limit caffeine 6 hours before sleep
+- Short naps before shifts if needed
+
+### Recovery Priorities
+
+1. **Sleep** — Most important recovery tool
+2. **Nutrition** — Protein for muscle repair
+3. **Hydration** — Easy to forget during shifts
+4. **Stress management** — Impacts physical recovery
+
+## Footwear and Support
+
+### Good Nursing Shoes
+
+- Adequate arch support
+- Cushioning
+- Non-slip
+- Roomy toe box
+- Replace regularly
+
+### Compression Socks
+
+Consider wearing during shifts:
+- Reduce leg fatigue
+- Prevent swelling
+- Support venous return
+
+## Warning Signs
+
+### When to Seek Help
+
+- Persistent back pain
+- Pain that radiates down legs
+- Numbness or tingling
+- Pain that doesn't improve with rest
+- Injury from patient handling
+
+Don't wait until you can't work. Early intervention prevents chronic problems.
+
+## The Bottom Line
+
+1. **Before shift** — 5-10 min prep protects you
+2. **During shift** — Movement snacks when possible
+3. **After shift** — 10-15 min decompression
+4. **Days off** — Strength training for injury prevention
+5. **Recovery** — Sleep and self-care are not optional
+
+---
+
+*Foundational Rehab offers healthcare worker programs designed for demanding shift schedules.*
+    `
   }
 };
 
