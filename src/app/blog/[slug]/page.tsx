@@ -141847,6 +141847,896 @@ Less weight = less stress on knees.
 
 *Foundational Rehab builds strong, stable knees with progressive strengthening programs.*
     `
+  },
+  'exercises-for-si-joint-pain': {
+    title: 'Exercises for SI Joint Pain: Sacroiliac Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## Understanding SI Joint Pain
+
+The sacroiliac (SI) joint connects your spine to your pelvis:
+
+**Location:** Lower back, just below the belt line, usually on one side
+
+**Symptoms:**
+- Pain in lower back/buttock on one side
+- Pain radiating to hip, groin, or thigh
+- Pain with sitting, standing from sitting, or climbing stairs
+- Pain with standing on one leg
+- Stiffness in lower back and hips
+
+**Common causes:**
+- Pregnancy and childbirth
+- Leg length discrepancy
+- Gait abnormalities
+- Previous injury
+- Arthritis
+- Hypermobility
+
+## Goals of SI Joint Exercises
+
+1. **Stabilize** — Strengthen muscles that support the joint
+2. **Balance** — Address muscle imbalances
+3. **Mobilize** — Maintain appropriate movement
+4. **Reduce inflammation** — Through controlled movement
+
+## Phase 1: Pain Relief
+
+### Single Knee to Chest
+
+1. Lie on back
+2. Gently pull one knee toward chest
+3. Keep other leg straight or slightly bent
+4. Hold 20-30 seconds each side
+
+### Double Knee to Chest
+
+1. Lie on back
+2. Hug both knees to chest
+3. Rock gently side to side
+4. Hold 30 seconds
+
+### Supine Piriformis Stretch
+
+1. Lie on back
+2. Cross affected ankle over opposite knee
+3. Pull bottom thigh toward chest
+4. Hold 30 seconds each side
+
+### Prone Press-Up (If Comfortable)
+
+1. Lie face down
+2. Press up on hands, keep hips down
+3. Only if this feels good
+4. Hold 5-10 seconds
+
+## Phase 2: Stabilization
+
+The SI joint needs stability more than mobility:
+
+### Pelvic Tilts
+
+1. Lie on back, knees bent
+2. Flatten lower back to floor (posterior tilt)
+3. Hold 5 seconds
+4. 15 reps
+
+### Bridge
+
+1. Lie on back, knees bent
+2. Squeeze glutes, lift hips
+3. Hold 5 seconds
+4. 15 reps
+5. Keep pelvis level
+
+### Bird Dog
+
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Keep back flat, pelvis level
+4. Hold 5 seconds
+5. 10 reps each side
+
+### Dead Bug
+
+1. Lie on back, arms up, knees 90°
+2. Lower opposite arm and leg
+3. Keep back pressed to floor
+4. 10 reps each side
+
+### Side-Lying Clamshell
+
+1. Lie on side, knees bent
+2. Keep feet together
+3. Lift top knee
+4. 15-20 reps each side
+
+### Plank (Modified if Needed)
+
+1. Forearms and toes (or knees)
+2. Body straight
+3. Hold 20-30 seconds
+4. Don't let hips sag or pike
+
+## Hip Strengthening
+
+Strong hips support the SI joint:
+
+### Side-Lying Hip Abduction
+
+1. Lie on side, legs straight
+2. Lift top leg toward ceiling
+3. Keep toe pointing forward
+4. 15 reps each side
+
+### Standing Hip Extension
+
+1. Hold onto chair
+2. Extend leg straight behind
+3. Don't arch lower back
+4. 15 reps each leg
+
+### Monster Walks
+
+1. Band around ankles or knees
+2. Slight squat position
+3. Walk sideways
+4. 15 steps each direction
+
+## Stretches for SI Joint
+
+### Hip Flexor Stretch
+
+1. Half-kneeling position
+2. Tuck tailbone under
+3. Shift weight forward
+4. Hold 30 seconds each
+
+### Figure 4 Stretch
+
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull toward chest
+4. Hold 30 seconds each
+
+### Child's Pose
+
+1. Kneel, sit back on heels
+2. Reach arms forward
+3. Hold 30-60 seconds
+
+### Gentle Rotation Stretch
+
+1. Lie on back, knees bent
+2. Let both knees drop to one side
+3. Keep shoulders down
+4. Hold 20-30 seconds each side
+5. Keep range small if irritating
+
+## Daily Routine for SI Joint Pain
+
+**Morning (5 min):**
+- Single knee to chest: 20 sec each
+- Cat-cow: 10 cycles
+- Pelvic tilts: 10 reps
+- Bird dog: 5 each side
+
+**Evening (15 min):**
+- Knee to chest stretches: 30 sec each
+- Figure 4 stretch: 30 sec each
+- Bridge: 2 × 15
+- Clamshell: 2 × 15 each
+- Dead bug: 2 × 10 each side
+- Side-lying hip abduction: 15 each
+- Plank: 2 × 20 seconds
+- Hip flexor stretch: 30 sec each
+
+## What to Avoid
+
+**During acute pain:**
+- Heavy lifting
+- Twisting movements
+- Single-leg activities
+- Long periods of sitting or standing
+- Crossing legs
+
+**Exercises to use caution with:**
+- Deep lunges (may stress joint)
+- Heavy squats
+- High-impact activities
+- Extreme stretching
+
+## When to See a Professional
+
+- Pain persists despite exercises
+- Pain radiates below the knee
+- Numbness or weakness
+- Pain affects daily activities significantly
+- Need for SI joint belt or other supports
+
+## The Bottom Line
+
+1. **Stability over mobility** — SI joints need support
+2. **Strengthen the core** — Supports the pelvis
+3. **Build hip strength** — Especially glutes
+4. **Avoid aggravating movements** — Single-leg, twisting
+5. **Be patient** — SI issues take time to settle
+
+---
+
+*Foundational Rehab provides SI joint-friendly exercise programs to stabilize and strengthen.*
+    `
+  },
+  'how-to-do-a-plank': {
+    title: 'How to Do a Plank Correctly: Form and Progressions',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read',
+    content: `
+## Why Planks Work
+
+The plank is one of the best core exercises:
+
+**Benefits:**
+- Builds core stability (not just strength)
+- Works multiple muscles at once
+- Low injury risk
+- No equipment needed
+- Protects the spine
+- Improves posture
+
+**Muscles worked:**
+- Rectus abdominis (six-pack)
+- Transverse abdominis (deep core)
+- Obliques (sides)
+- Erector spinae (back)
+- Glutes
+- Shoulders
+
+## Perfect Plank Form
+
+### Setup
+
+1. Start on forearms and knees
+2. Forearms parallel, shoulder-width apart
+3. Elbows directly under shoulders
+4. Extend legs back, toes on floor
+
+### The Position
+
+- Body forms a straight line from head to heels
+- Head neutral (don't look up or tuck chin)
+- Shoulders directly over elbows
+- Engage core (like bracing for a punch)
+- Squeeze glutes
+- Don't let hips sag OR pike up
+
+### Breathing
+
+- Breathe normally throughout
+- Don't hold your breath
+- Keep core engaged while breathing
+
+## Common Plank Mistakes
+
+### Hips Too High (Piking)
+
+**Problem:** Reduces core work, shifts load to shoulders
+**Fix:** Lower hips until body is straight
+
+### Hips Too Low (Sagging)
+
+**Problem:** Stresses lower back
+**Fix:** Squeeze glutes, engage abs, think "belt buckle to chin"
+
+### Looking Up
+
+**Problem:** Strains neck
+**Fix:** Keep head neutral, look at floor just in front of hands
+
+### Shoulders Forward
+
+**Problem:** Poor position, reduced stability
+**Fix:** Stack shoulders directly over elbows
+
+### Holding Breath
+
+**Problem:** Increases blood pressure, reduces endurance
+**Fix:** Breathe continuously
+
+### Wide Feet
+
+**Problem:** Easier position, less core work
+**Fix:** Keep feet closer together for more challenge
+
+## Plank Progressions
+
+### Beginner: Incline Plank
+
+1. Hands on bench or elevated surface
+2. Body straight from head to heels
+3. Easier than floor plank
+4. Build to 30-60 seconds
+
+### Beginner: Knee Plank
+
+1. Forearms and knees on floor
+2. Body straight from head to knees
+3. Build to 30-60 seconds
+
+### Standard: Forearm Plank
+
+1. Forearms and toes
+2. Hold 30-60 seconds
+3. Build endurance over time
+
+### Standard: Straight Arm Plank
+
+1. Hands (not forearms) and toes
+2. Arms straight
+3. Slightly harder for shoulders
+4. Hold 30-60 seconds
+
+### Advanced: Plank with Shoulder Tap
+
+1. Straight arm plank
+2. Lift one hand, tap opposite shoulder
+3. Alternate, keep hips still
+4. 10-20 total taps
+
+### Advanced: Plank with Leg Lift
+
+1. Standard plank
+2. Lift one foot off ground
+3. Hold 5 seconds, switch
+4. 5-10 lifts each leg
+
+### Advanced: RKC Plank
+
+1. Standard forearm plank
+2. Squeeze EVERYTHING as hard as possible
+3. Pull elbows toward toes (they don't move)
+4. Maximum tension
+5. Hold 10-20 seconds only
+
+### Advanced: Long Lever Plank
+
+1. Forearm plank
+2. Walk forearms forward (shoulders ahead of elbows)
+3. Much harder
+4. Build to 20-30 seconds
+
+## Side Plank
+
+### Standard Side Plank
+
+1. Lie on side, prop on elbow
+2. Stack feet (or stagger for easier)
+3. Lift hips, body straight
+4. Hold 20-45 seconds each side
+
+### Side Plank Progressions
+
+**Easier:**
+- Knee down (bottom knee bent)
+- Feet staggered
+
+**Harder:**
+- Feet stacked
+- Top arm reaches up
+- Top leg lifts
+- Hip dips (lower and lift hips)
+
+## Sample Plank Workouts
+
+### Beginner (5 min)
+
+- Incline plank: 3 × 20 sec
+- Knee plank: 3 × 15 sec
+- Side plank (knees): 2 × 10 sec each
+
+### Intermediate (10 min)
+
+- Forearm plank: 3 × 30 sec
+- Side plank: 2 × 20 sec each
+- Plank shoulder taps: 2 × 10 total
+- Straight arm plank: 2 × 20 sec
+
+### Advanced (10 min)
+
+- RKC plank: 3 × 15 sec
+- Side plank with leg lift: 2 × 15 sec each
+- Plank leg lifts: 2 × 10 each
+- Long lever plank: 2 × 15 sec
+
+## How Long Should You Hold a Plank?
+
+**Quality over duration:**
+- A perfect 20-second plank beats a sloppy 2-minute plank
+- Multiple sets of 30-60 seconds is usually sufficient
+- If you can hold 60+ seconds easily, progress to harder variations
+
+**Signs to stop:**
+- Form breaks down
+- Hips start sagging
+- Excessive shaking
+- Can't breathe normally
+
+## Plank Frequency
+
+- Can be done daily (unlike heavy lifting)
+- 3-5 sets, 3-5 days per week
+- Include in core workouts or daily routine
+
+## The Bottom Line
+
+1. **Form first** — A good plank is a straight plank
+2. **Progress the challenge** — Don't just add time forever
+3. **Breathe** — Don't hold your breath
+4. **Include side planks** — Full core development
+5. **Quality over quantity** — Perfect position beats long duration
+
+---
+
+*Foundational Rehab builds core stability with proper plank technique and smart progressions.*
+    `
+  },
+  'exercises-for-tight-shoulders': {
+    title: 'Exercises for Tight Shoulders: Release Tension',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read',
+    content: `
+## Why Shoulders Get Tight
+
+Shoulder tightness is extremely common:
+
+**Common causes:**
+- Desk work and computer use
+- Stress and tension
+- Poor posture
+- Sleeping position
+- Overuse from sports
+- Underuse from inactivity
+
+**Symptoms:**
+- Stiffness and reduced movement
+- Aching or discomfort
+- Difficulty reaching overhead
+- Pain when reaching behind back
+- Tension headaches
+
+## Areas That Get Tight
+
+### Upper Trapezius
+
+- Top of shoulders to neck
+- Classic "tension" area
+- Tightens with stress
+
+### Levator Scapulae
+
+- Back of neck to shoulder blade
+- Often contributes to neck pain
+
+### Pectorals (Chest)
+
+- Pull shoulders forward
+- Tight from desk work
+
+### Lats
+
+- Large back muscles
+- Affect overhead reaching
+
+### Rotator Cuff
+
+- Small shoulder muscles
+- Can restrict rotation
+
+## Stretches for Tight Shoulders
+
+### Upper Trapezius Stretch
+
+1. Sit or stand tall
+2. Tilt right ear toward right shoulder
+3. Gently assist with right hand on head
+4. Keep left shoulder down
+5. Hold 30 seconds each side
+
+### Levator Scapulae Stretch
+
+1. Turn head 45° to one side
+2. Look down toward armpit
+3. Gently pull with hand on back of head
+4. Hold 30 seconds each side
+
+### Cross-Body Shoulder Stretch
+
+1. Bring arm across chest
+2. Hold at elbow with other hand
+3. Don't raise shoulder
+4. Hold 30 seconds each side
+
+### Doorway Chest Stretch
+
+1. Forearm on doorframe
+2. Elbow at shoulder height
+3. Step through doorway
+4. Feel stretch across chest
+5. Hold 30 seconds each side
+6. Repeat at different arm heights
+
+### Lat Stretch
+
+1. Hold doorframe or pole overhead
+2. Step back, hinge forward
+3. Let arm straighten, feel side stretch
+4. Hold 30 seconds each side
+
+### Sleeper Stretch
+
+1. Lie on side (on shoulder to stretch)
+2. Bottom arm straight out, elbow bent 90°
+3. Use top hand to push forearm toward floor
+4. Hold 30 seconds each side
+
+### Thread the Needle
+
+1. On hands and knees
+2. Reach one arm under body to opposite side
+3. Let shoulder rest on floor
+4. Hold 30 seconds each side
+
+## Shoulder Mobility Exercises
+
+### Shoulder Circles
+
+1. Shrug shoulders up
+2. Roll them back
+3. Drop them down
+4. 10 circles backward
+5. Then 10 forward
+
+### Wall Slides
+
+1. Back against wall
+2. Arms in goalpost position on wall
+3. Slide arms up and down
+4. Keep contact with wall throughout
+5. 10-15 reps
+
+### Shoulder CARS
+
+1. Stand tall, arm at side
+2. Make the biggest circle possible with arm
+3. Move slowly with control
+4. 5 circles each direction, each arm
+
+### Arm Circles
+
+1. Arms out to sides
+2. Make small circles, gradually bigger
+3. 20 forward, 20 backward
+
+### Open Books
+
+1. Lie on side, knees bent
+2. Arms straight in front, palms together
+3. Rotate top arm to other side, opening chest
+4. Follow with eyes
+5. 10 reps each side
+
+## Strengthening for Tight Shoulders
+
+Strengthening often helps as much as stretching:
+
+### Face Pulls
+
+1. Band at face height
+2. Pull toward face, elbows high
+3. Squeeze shoulder blades
+4. 15-20 reps
+
+### Band Pull-Aparts
+
+1. Hold band in front, arms straight
+2. Pull apart until arms are out to sides
+3. Squeeze shoulder blades
+4. 15-20 reps
+
+### Prone Y Raises
+
+1. Lie face down
+2. Arms overhead in Y position
+3. Thumbs up
+4. Lift arms toward ceiling
+5. 10-15 reps
+
+### External Rotation
+
+1. Elbow at side, bent 90°
+2. Rotate forearm away from body
+3. Use band or light weight
+4. 15 reps each arm
+
+## Self-Massage Techniques
+
+### Upper Trap Release
+
+1. Place lacrosse ball between shoulder and wall
+2. Lean into ball
+3. Move to find tender spots
+4. Hold on spots 30 seconds
+
+### Pec Release
+
+1. Ball between chest and wall (below collarbone)
+2. Roll gently or hold on tight spots
+3. 60 seconds each side
+
+### Lat Release
+
+1. Lie on side, foam roller under armpit
+2. Roll from armpit to mid-back
+3. 60 seconds each side
+
+## Daily Routine for Tight Shoulders
+
+**Morning (3 min):**
+- Shoulder circles: 10 each direction
+- Arm circles: 20 each direction
+- Upper trap stretch: 20 sec each
+
+**Every Hour of Desk Work:**
+- Shoulder rolls: 10
+- Upper trap stretch: 10 sec each
+- Chest stretch: 15 sec each
+
+**Evening (10 min):**
+- All stretches: 30 sec each
+- Open books: 10 each side
+- Wall slides: 10 reps
+- Face pulls or band pull-aparts: 15 reps
+- Self-massage: 2-3 minutes
+
+## The Bottom Line
+
+1. **Stretch AND strengthen** — Both help tight shoulders
+2. **Address posture** — It's often the root cause
+3. **Move frequently** — Don't stay in one position
+4. **Release tension** — Self-massage helps
+5. **Be consistent** — Daily work is key
+
+---
+
+*Foundational Rehab releases tight shoulders with targeted stretching and mobility work.*
+    `
+  },
+  'best-exercises-for-weight-loss': {
+    title: 'Best Exercises for Weight Loss: Burn Calories Effectively',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '7 min read',
+    content: `
+## Exercise and Weight Loss
+
+Exercise is an important part of weight loss, but here's the truth:
+
+**Diet is primary:** You can't outrun a bad diet. Nutrition accounts for ~80% of weight loss.
+
+**Exercise helps by:**
+- Burning additional calories
+- Building muscle (increases metabolism)
+- Improving body composition
+- Reducing stress (which can cause overeating)
+- Improving mood and motivation
+- Maintaining weight loss long-term
+
+## Best Types of Exercise for Weight Loss
+
+### 1. Strength Training
+
+Often overlooked, but essential:
+
+**Why it works:**
+- Builds muscle, which burns more calories at rest
+- Increases metabolic rate for hours after workout
+- Improves body composition (more muscle, less fat)
+- Preserves muscle during calorie deficit
+
+**Examples:**
+- Weight lifting
+- Bodyweight exercises
+- Resistance bands
+
+**Frequency:** 2-4 sessions per week
+
+### 2. High-Intensity Interval Training (HIIT)
+
+Short bursts of intense effort:
+
+**Why it works:**
+- Burns many calories in short time
+- Elevated calorie burn for hours after (EPOC)
+- Time-efficient
+- Maintains/builds muscle
+
+**Examples:**
+- Sprint intervals
+- Burpees
+- Jump squats
+- Battle ropes
+
+**Frequency:** 2-3 sessions per week (not daily—need recovery)
+
+### 3. Moderate-Intensity Cardio
+
+Sustained effort at challenging but maintainable pace:
+
+**Why it works:**
+- Burns significant calories during exercise
+- Can be done for longer durations
+- Lower injury risk than HIIT
+- Good for beginners
+
+**Examples:**
+- Jogging
+- Cycling
+- Swimming
+- Elliptical
+
+**Frequency:** 3-5 sessions per week
+
+### 4. Low-Intensity Activity (NEAT)
+
+Non-exercise activity thermogenesis:
+
+**Why it works:**
+- Can burn hundreds of extra calories daily
+- Sustainable all day
+- Doesn't require recovery
+- Often overlooked
+
+**Examples:**
+- Walking
+- Taking stairs
+- Standing desk
+- Fidgeting
+- Household chores
+
+**Frequency:** All day, every day
+
+## Calorie Burn Comparison (30 minutes)
+
+Approximate calories burned for 150 lb person:
+
+| Activity | Calories |
+|----------|----------|
+| Walking (3 mph) | 120 |
+| Walking (4 mph) | 170 |
+| Jogging (5 mph) | 280 |
+| Running (7 mph) | 390 |
+| Cycling (moderate) | 230 |
+| Swimming | 250 |
+| HIIT | 300-400 |
+| Weight lifting | 150-200 |
+| Rowing | 250 |
+| Jump rope | 350 |
+
+## Sample Weight Loss Workout Plan
+
+### Beginner (3 days/week)
+
+**Day 1 - Full Body Strength:**
+- Squats: 3 × 12
+- Push-ups: 3 × 8-10
+- Rows: 3 × 12
+- Plank: 3 × 20 sec
+
+**Day 2 - Cardio:**
+- 30 min walking/jogging (whatever you can maintain)
+
+**Day 3 - Full Body Strength:**
+- Lunges: 3 × 10 each
+- Dumbbell press: 3 × 12
+- Deadlifts: 3 × 10
+- Bridges: 3 × 15
+
+**Plus:** Walk daily, take stairs, increase general movement
+
+### Intermediate (5 days/week)
+
+**Day 1 - Upper Body Strength:**
+- Push-ups/Bench: 4 × 10
+- Rows: 4 × 10
+- Shoulder press: 3 × 12
+- Tricep dips: 3 × 12
+
+**Day 2 - HIIT (20 min):**
+- 30 sec work, 30 sec rest
+- Burpees, jump squats, mountain climbers, high knees
+
+**Day 3 - Lower Body Strength:**
+- Squats: 4 × 10
+- Romanian deadlifts: 4 × 10
+- Lunges: 3 × 10 each
+- Calf raises: 3 × 15
+
+**Day 4 - Moderate Cardio:**
+- 30-40 min jogging, cycling, or swimming
+
+**Day 5 - Full Body Circuit:**
+- 3 rounds of: 10 squats, 10 push-ups, 10 rows, 10 lunges, 30 sec plank
+
+**Plus:** Daily walking, increase NEAT
+
+### Advanced (6 days/week)
+
+- 4 strength sessions (upper/lower split)
+- 2 HIIT sessions
+- Daily walking/activity
+
+## Workout Mistakes for Weight Loss
+
+### Only Doing Cardio
+
+Muscle burns calories. Without strength training, you lose muscle when losing weight, slowing metabolism.
+
+### Too Much HIIT
+
+HIIT is stressful. Too much increases cortisol, can lead to burnout and overtraining. 2-3x/week max.
+
+### Overestimating Calorie Burn
+
+Exercise burns fewer calories than people think. Don't "eat back" all exercise calories.
+
+### Ignoring NEAT
+
+Gym exercise is 3-5% of your day. What you do the other 95% matters more. Walk more, sit less.
+
+### Inconsistency
+
+Best exercise is one you'll actually do. Consistency beats perfection.
+
+## Exercise Intensity
+
+### Low Intensity
+- Can carry on full conversation
+- Sustainable for long periods
+- Lower calorie burn per minute
+- Good for beginners, recovery days
+
+### Moderate Intensity
+- Can talk but not sing
+- Challenging but maintainable
+- Good calorie burn
+- Can do frequently
+
+### High Intensity
+- Can only say a few words
+- Cannot maintain long
+- Highest calorie burn per minute
+- Needs recovery time
+
+## The Bottom Line
+
+1. **Strength train** — Builds muscle, boosts metabolism
+2. **Include HIIT** — Time-efficient calorie burn
+3. **Add cardio** — Burns calories, improves fitness
+4. **Increase NEAT** — Walk more, sit less
+5. **Be consistent** — The best exercise is one you do regularly
+
+---
+
+*Foundational Rehab helps you exercise effectively for weight loss with balanced, sustainable programs.*
+    `
   }
 };
 

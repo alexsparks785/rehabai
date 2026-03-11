@@ -4532,6 +4532,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Conditions',
     readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-si-joint-pain',
+    title: 'Exercises for SI Joint Pain: Sacroiliac Relief',
+    excerpt: 'Stabilization and strengthening exercises for SI joint pain.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-to-do-a-plank',
+    title: 'How to Do a Plank Correctly: Form and Progressions',
+    excerpt: 'Perfect plank form with progressions from beginner to advanced.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Strength',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-tight-shoulders',
+    title: 'Exercises for Tight Shoulders: Release Tension',
+    excerpt: 'Stretches and mobility exercises to release shoulder tension.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'best-exercises-for-weight-loss',
+    title: 'Best Exercises for Weight Loss: Burn Calories Effectively',
+    excerpt: 'The most effective exercises and workout plans for weight loss.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '7 min read'
   }
 ];
 
