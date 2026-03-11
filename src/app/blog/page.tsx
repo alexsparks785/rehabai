@@ -4604,6 +4604,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Education',
     readTime: '6 min read'
+  },
+  {
+    slug: 'exercises-for-bone-health',
+    title: 'Exercises for Bone Health: Strength Training for Strong Bones',
+    excerpt: 'Weight-bearing and resistance exercises to build and maintain bone density.',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'how-to-stretch-properly',
+    title: 'How to Stretch Properly: Technique Guide',
+    excerpt: 'Master stretching technique to improve flexibility safely and effectively.',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'pelvic-floor-exercises',
+    title: 'Exercises for Pelvic Floor: Strengthen Your Foundation',
+    excerpt: 'Kegels and beyond—strengthen your pelvic floor for better core function.',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'rest-days',
+    title: 'Rest Days: How Often Should You Take a Break from Exercise',
+    excerpt: 'How many rest days you need and what to do on them.',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
   }
 ];
 

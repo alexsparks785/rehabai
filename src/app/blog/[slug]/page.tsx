@@ -143615,6 +143615,954 @@ Some people split exercise throughout the day:
 
 *Foundational Rehab helps you find your optimal exercise time for consistent, sustainable fitness.*
     `
+  },
+  'exercises-for-bone-health': {
+    title: 'Exercises for Bone Health: Strength Training for Strong Bones',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '6 min read',
+    content: `
+## Why Exercise Builds Bones
+
+Bones are living tissue that respond to stress:
+
+**Wolff's Law:** Bones adapt to the loads placed on them. More stress = stronger bones.
+
+**Benefits of exercise for bones:**
+- Increases bone density
+- Slows age-related bone loss
+- Reduces fracture risk
+- Improves balance (prevents falls)
+- Builds supporting muscle
+
+## Best Types of Exercise for Bones
+
+### Weight-Bearing Exercise
+
+Activities where you support your body weight:
+
+**High-impact (best for bones):**
+- Running
+- Jumping
+- Stair climbing
+- Tennis
+- Dancing
+
+**Low-impact (gentler option):**
+- Walking
+- Hiking
+- Elliptical
+- Low-impact aerobics
+
+### Resistance Training
+
+Using weights, bands, or body weight:
+
+**Why it works:**
+- Muscles pull on bones during exercise
+- This stimulates bone growth
+- Targets specific bones based on exercises
+
+**Examples:**
+- Weight lifting
+- Bodyweight exercises
+- Resistance bands
+
+### Balance Training
+
+Prevents falls that cause fractures:
+- Single-leg stance
+- Tai chi
+- Yoga
+- Balance exercises
+
+## Key Exercises for Bone Health
+
+### Lower Body (Hips, Legs, Spine)
+
+**Squats:**
+1. Feet shoulder-width apart
+2. Sit back and down
+3. Keep chest up
+4. Stand back up
+5. 2-3 sets of 10-15
+
+**Lunges:**
+1. Step forward into lunge
+2. Lower back knee toward ground
+3. Push back to standing
+4. 2-3 sets of 10 each leg
+
+**Step-Ups:**
+1. Step onto platform (8-12 inches)
+2. Stand fully on top
+3. Step down with control
+4. 2-3 sets of 10 each leg
+
+**Deadlifts:**
+1. Push hips back, lower weight
+2. Keep back flat
+3. Drive through heels to stand
+4. 2-3 sets of 10
+
+### Upper Body (Arms, Wrists, Spine)
+
+**Push-Ups:**
+1. On hands and toes (or knees)
+2. Lower chest to floor
+3. Push back up
+4. 2-3 sets of 8-12
+
+**Rows:**
+1. Pull weight toward chest
+2. Squeeze shoulder blades
+3. Lower with control
+4. 2-3 sets of 10-12
+
+**Overhead Press:**
+1. Press weights overhead
+2. Lower with control
+3. 2-3 sets of 10-12
+
+**Bicep Curls:**
+1. Curl weights toward shoulders
+2. Lower slowly
+3. 2-3 sets of 12
+
+### Core and Spine
+
+**Plank:**
+1. Forearms and toes
+2. Body straight
+3. Hold 20-30 seconds
+4. 2-3 sets
+
+**Bird Dog:**
+1. On hands and knees
+2. Extend opposite arm and leg
+3. Hold 5 seconds
+4. 10 reps each side
+
+## Impact Exercises
+
+If cleared for impact exercise:
+
+### Jumping
+
+**Jump Squats:**
+1. Squat down
+2. Jump up explosively
+3. Land softly
+4. 2-3 sets of 8-10
+
+**Jumping Jacks:**
+- Classic exercise
+- 30-60 seconds
+- Creates bone-building impact
+
+### Hopping
+
+**Single-Leg Hops:**
+1. Hop in place on one foot
+2. Land softly
+3. 10-15 hops each leg
+4. Stimulates hip bones
+
+### Stair Running
+
+- Run up stairs
+- Walk down (easier on joints)
+- Great bone-building activity
+
+## Sample Bone Health Workout
+
+**Warm-Up (5 min):**
+- Walking or marching
+- Arm circles
+- Leg swings
+
+**Weight-Bearing (10 min):**
+- Walking lunges: 10 each leg
+- Step-ups: 10 each leg
+- Jumping jacks: 30 seconds (if appropriate)
+
+**Resistance Training (15 min):**
+- Squats: 2 × 12
+- Push-ups: 2 × 10
+- Rows: 2 × 12
+- Overhead press: 2 × 10
+- Deadlifts: 2 × 10
+
+**Balance (5 min):**
+- Single-leg stance: 30 sec each
+- Tandem stance: 30 sec each position
+
+**Cool-Down:**
+- Walking
+- Stretching
+
+**Frequency:** 3x per week
+
+## Exercise Intensity for Bones
+
+Bones need significant stimulus to adapt:
+
+- **Moderate to vigorous intensity** works best
+- **Progressive overload** — Gradually increase weight/difficulty
+- **Variety** — Different exercises stress bones differently
+- **Impact helps** — If you can do it safely
+
+## Who Should Avoid Impact?
+
+**Use caution or avoid high-impact if you have:**
+- Osteoporosis (fracture risk)
+- Joint problems
+- Balance issues
+- Recent injuries
+- Doctor's recommendation to avoid
+
+**Low-impact alternatives still help bones—just less powerfully.**
+
+## Nutrition for Bone Health
+
+Exercise works best with proper nutrition:
+
+- **Calcium:** 1,000-1,200 mg/day (dairy, leafy greens, fortified foods)
+- **Vitamin D:** 600-800 IU/day (sunlight, supplements, fatty fish)
+- **Protein:** Adequate protein supports bone matrix
+
+## Lifestyle Factors
+
+- **Don't smoke** — Smoking weakens bones
+- **Limit alcohol** — Excess alcohol reduces bone density
+- **Maintain healthy weight** — Very low weight is a risk factor
+
+## The Bottom Line
+
+1. **Load your bones** — They need stress to stay strong
+2. **Include impact** — If you can do it safely
+3. **Resistance train** — 2-3x per week
+4. **Add balance work** — Prevents falls
+5. **Support with nutrition** — Calcium, vitamin D, protein
+
+---
+
+*Foundational Rehab builds strong bones with targeted weight-bearing and resistance exercises.*
+    `
+  },
+  'how-to-stretch-properly': {
+    title: 'How to Stretch Properly: Technique Guide',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Why Stretching Technique Matters
+
+Proper technique determines if stretching helps or hurts:
+
+**Good technique:**
+- Targets the right muscle
+- Creates appropriate tension
+- Minimizes injury risk
+- Produces results
+
+**Bad technique:**
+- Misses the target muscle
+- Can cause injury
+- Wastes time
+- Leads to frustration
+
+## Types of Stretching
+
+### Static Stretching
+
+Holding a stretch in one position:
+
+**How to do it:**
+- Move into stretch slowly
+- Hold 30-60 seconds
+- Breathe normally
+- Don't bounce
+
+**When:** After exercise or for flexibility work. Not before explosive activities.
+
+### Dynamic Stretching
+
+Active movement through range of motion:
+
+**How to do it:**
+- Controlled movements
+- Gradually increase range
+- 10-15 reps per movement
+
+**When:** Before exercise, as part of warm-up.
+
+### PNF Stretching
+
+Contract-relax technique:
+
+**How to do it:**
+1. Stretch to end range
+2. Contract the stretched muscle (5-10 seconds)
+3. Relax
+4. Stretch deeper
+
+**When:** For maximum flexibility gains. Best with a partner.
+
+## Universal Stretching Principles
+
+### 1. Warm Up First
+
+Cold muscles don't stretch well and can be injured:
+- Light cardio (5 min)
+- Or stretch after workout
+- Never force cold tissues
+
+### 2. Move Into Stretches Slowly
+
+- No jerky movements
+- Ease into position
+- Find the stretch gradually
+
+### 3. Hold at Tension, Not Pain
+
+**Stretch sensation (good):**
+- Gentle pull
+- Mild discomfort
+- Releasing sensation
+
+**Pain (bad):**
+- Sharp sensation
+- Nerve symptoms
+- Joint pain
+
+### 4. Breathe
+
+- Don't hold your breath
+- Exhale as you deepen
+- Breathing helps muscles relax
+
+### 5. Don't Bounce
+
+Bouncing triggers the stretch reflex, causing muscles to tighten.
+
+### 6. Hold Long Enough
+
+- 30 seconds minimum
+- 60+ seconds for stubborn areas
+- Shorter holds are less effective
+
+### 7. Both Sides
+
+Always stretch both sides, even if only one feels tight.
+
+## Common Stretching Mistakes
+
+### Rounding the Back
+
+**Problem:** When stretching hamstrings, many round their lower back instead.
+
+**Fix:** Hinge at the hips, keep back flat. The stretch should be in the hamstrings, not the back.
+
+### Stretching Through Joint Pain
+
+**Problem:** Continuing when joints hurt.
+
+**Fix:** Stretch should feel like muscle stretch, not joint pain. Modify position if joints hurt.
+
+### Forgetting to Breathe
+
+**Problem:** Holding breath increases tension.
+
+**Fix:** Breathe continuously. Exhale as you move deeper.
+
+### Bouncing
+
+**Problem:** Triggers stretch reflex, reduces effectiveness.
+
+**Fix:** Hold steady. Move smoothly if doing dynamic stretches.
+
+### Rushing
+
+**Problem:** Not holding long enough.
+
+**Fix:** Set a timer. 30 seconds minimum, 60 seconds better.
+
+### Overstretching
+
+**Problem:** Pushing too hard, too fast.
+
+**Fix:** Stretch to tension, not pain. Flexibility takes time.
+
+## Stretching by Body Part
+
+### Hamstrings
+
+**Keys:**
+- Hinge from hips, not back
+- Keep slight knee bend if needed
+- Feel it in back of thigh, not back
+
+### Hip Flexors
+
+**Keys:**
+- Tuck tailbone under (posterior pelvic tilt)
+- Keep torso upright
+- Feel it in front of back hip
+
+### Quadriceps
+
+**Keys:**
+- Keep knees together
+- Stand tall (don't lean forward)
+- Feel it in front of thigh
+
+### Calves
+
+**Keys:**
+- Keep heel down
+- Straight leg = gastrocnemius
+- Bent knee = soleus
+
+### Shoulders
+
+**Keys:**
+- Don't shrug shoulder up
+- Keep core engaged
+- Stretch, don't compress joint
+
+### Chest
+
+**Keys:**
+- Keep shoulder blade back
+- Don't let shoulder roll forward
+- Feel stretch across chest
+
+### Neck
+
+**Keys:**
+- Move slowly and gently
+- Don't force range
+- Keep shoulders down
+
+## Sample Stretching Routines
+
+### Quick Post-Workout (5 min)
+
+Hold each 30 seconds:
+1. Quad stretch (each leg)
+2. Hamstring stretch (each leg)
+3. Hip flexor stretch (each leg)
+4. Chest stretch (each side)
+5. Upper trap stretch (each side)
+
+### Comprehensive Routine (15 min)
+
+Hold each 45-60 seconds:
+1. Calf stretch - straight leg (each)
+2. Calf stretch - bent knee (each)
+3. Hamstring stretch (each)
+4. Hip flexor stretch (each)
+5. Quad stretch (each)
+6. Figure 4/pigeon (each)
+7. Chest stretch (each)
+8. Lat stretch (each)
+9. Upper trap stretch (each)
+10. Cat-cow (10 cycles)
+
+## The Bottom Line
+
+1. **Warm up first** — Cold muscles don't stretch well
+2. **Tension, not pain** — Know the difference
+3. **Hold 30+ seconds** — Shorter is less effective
+4. **Breathe** — Helps muscles relax
+5. **Don't bounce** — Smooth, controlled holds
+
+---
+
+*Foundational Rehab teaches you to stretch effectively with proper technique and guidance.*
+    `
+  },
+  'pelvic-floor-exercises': {
+    title: 'Exercises for Pelvic Floor: Strengthen Your Foundation',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Fitness',
+    readTime: '7 min read',
+    content: `
+## What Is the Pelvic Floor?
+
+The pelvic floor is a group of muscles at the bottom of your pelvis:
+
+**Functions:**
+- Supports bladder, bowel, uterus/prostate
+- Controls urination and bowel movements
+- Contributes to sexual function
+- Supports the spine and core
+
+**Who needs pelvic floor exercises:**
+- Postpartum women
+- Anyone with incontinence
+- People with pelvic pain
+- Those who want better core function
+- Men with prostate issues
+- Anyone—it's part of core strength
+
+## Signs of Pelvic Floor Weakness
+
+- Leaking urine (cough, sneeze, exercise)
+- Urgency to urinate
+- Difficulty emptying bladder/bowel
+- Pelvic organ prolapse
+- Lower back pain
+- Pelvic pain
+
+## Signs of Pelvic Floor Tightness
+
+Some pelvic floors are too tight, not too weak:
+- Pelvic pain
+- Pain with intercourse
+- Difficulty starting urination
+- Constipation
+- Hip/tailbone pain
+
+**If tight:** Focus on relaxation before strengthening. See a pelvic floor PT.
+
+## Finding Your Pelvic Floor
+
+### How to Locate the Muscles
+
+**Imagine:**
+- Stopping the flow of urine
+- Holding back gas
+- Lifting the pelvic floor up and in
+
+**What you should feel:**
+- A gentle squeeze and lift
+- Internal sensation
+- No visible external movement
+
+**What you shouldn't feel:**
+- Buttocks squeezing
+- Thigh squeezing
+- Breath holding
+- Belly pushing out
+
+## Basic Pelvic Floor Exercises (Kegels)
+
+### Quick Contractions
+
+1. Squeeze pelvic floor quickly
+2. Lift up and in
+3. Release immediately
+4. 10 quick pulses
+5. Rest, repeat 3 times
+
+Builds fast-twitch fibers (for sneezes, coughs).
+
+### Sustained Holds
+
+1. Squeeze pelvic floor
+2. Lift up and in
+3. Hold 5-10 seconds
+4. Fully release
+5. 10 reps, rest between
+
+Builds endurance.
+
+### The Knack
+
+Using pelvic floor before stress:
+1. Before coughing, sneezing, or lifting
+2. Squeeze and lift pelvic floor
+3. Hold through the effort
+4. Release after
+
+Prevents leaking during activities.
+
+## Progression
+
+### Week 1-2
+
+- Quick contractions: 10 reps × 3 sets
+- Sustained holds: 5 seconds × 10 reps
+- Do 3x daily
+
+### Week 3-4
+
+- Quick contractions: 15 reps × 3 sets
+- Sustained holds: 8 seconds × 10 reps
+- Practice "the knack"
+
+### Week 5+
+
+- Quick contractions: 15-20 reps × 3 sets
+- Sustained holds: 10 seconds × 10 reps
+- Integrate with movements (see below)
+
+## Integrating with Movement
+
+Pelvic floor works with other core muscles:
+
+### Pelvic Floor + Breathing
+
+1. Inhale: Pelvic floor relaxes, descends
+2. Exhale: Pelvic floor lifts with diaphragm
+
+Practice coordinating breath with pelvic floor.
+
+### Bridge with Pelvic Floor
+
+1. Lie on back, knees bent
+2. Exhale, engage pelvic floor
+3. Lift hips into bridge
+4. Hold, continue breathing
+5. Lower, release pelvic floor
+6. 10 reps
+
+### Bird Dog with Pelvic Floor
+
+1. On hands and knees
+2. Exhale, engage pelvic floor
+3. Extend opposite arm and leg
+4. Hold 5 seconds
+5. Return, release
+6. 10 reps each side
+
+### Squat with Pelvic Floor
+
+1. Stand, feet shoulder-width
+2. Inhale as you squat (pelvic floor relaxes)
+3. Exhale, engage pelvic floor as you stand
+4. 10 reps
+
+## Exercises for Tight Pelvic Floor
+
+If your pelvic floor is too tight:
+
+### Diaphragmatic Breathing
+
+1. Lie on back, knees bent
+2. Breathe into belly
+3. Feel belly AND pelvic floor expand
+4. Exhale slowly
+5. 5 minutes daily
+
+### Happy Baby Pose
+
+1. Lie on back
+2. Hold feet, knees wide
+3. Relax pelvic floor
+4. Breathe deeply
+5. Hold 1-2 minutes
+
+### Child's Pose with Deep Breathing
+
+1. Kneel, sit back on heels
+2. Fold forward, arms extended
+3. Breathe into belly and back
+4. Focus on releasing pelvic floor
+5. 2 minutes
+
+### Butterfly Stretch with Breathing
+
+1. Sit, soles of feet together
+2. Let knees fall open
+3. Breathe and relax
+4. 1-2 minutes
+
+## Daily Routine
+
+**Morning:**
+- Quick contractions: 10 × 3
+- Sustained holds: 5-10 sec × 10
+
+**Midday:**
+- Same as morning
+- Or integrate with activities
+
+**Evening:**
+- Same exercises
+- Add relaxation stretches if needed
+
+**Throughout Day:**
+- Practice "the knack" before exertion
+- Check in with pelvic floor
+
+## Common Mistakes
+
+### Squeezing Buttocks or Thighs
+
+The work should be internal. If glutes are firing, you're not isolating pelvic floor.
+
+### Holding Breath
+
+Breathe normally. Holding breath increases pressure.
+
+### Bearing Down
+
+Should be lifting UP, not pushing DOWN.
+
+### Only Contracting, Never Relaxing
+
+Full relaxation between reps is essential.
+
+### Doing Too Many
+
+Quality over quantity. Fatigue leads to poor form.
+
+## When to See a Professional
+
+- Symptoms don't improve
+- Pain during exercises
+- Difficulty finding muscles
+- Prolapse symptoms
+- Significant incontinence
+
+A pelvic floor physical therapist can assess and guide you.
+
+## The Bottom Line
+
+1. **Find the right muscles** — Internal lift, not glutes
+2. **Both quick and sustained** — Train both fiber types
+3. **Coordinate with breathing** — Exhale to engage
+4. **Practice "the knack"** — Before coughing, lifting, etc.
+5. **Don't overtighten** — Relaxation matters too
+
+---
+
+*Foundational Rehab strengthens your pelvic floor as part of complete core training.*
+    `
+  },
+  'rest-days': {
+    title: 'Rest Days: How Often Should You Take a Break from Exercise',
+    date: '2026-03-11',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Why Rest Days Matter
+
+Rest is when your body actually gets stronger:
+
+**During exercise:** You break down muscle fibers
+**During rest:** Your body repairs and builds back stronger
+
+**Without adequate rest:**
+- Muscles don't fully recover
+- Performance plateaus or declines
+- Risk of injury increases
+- Fatigue accumulates
+- Motivation drops
+
+## How Many Rest Days?
+
+### General Guidelines
+
+**Beginners:** 2-3 rest days per week
+**Intermediate:** 1-2 rest days per week
+**Advanced:** 1 rest day per week (but structured recovery)
+
+### Factors That Affect Recovery Needs
+
+**More rest needed if:**
+- New to exercise
+- High-intensity training
+- Heavy strength training
+- Poor sleep
+- High stress
+- Older age
+- Poor nutrition
+
+**Less rest needed if:**
+- Experienced
+- Low to moderate intensity
+- Good sleep and nutrition
+- Low stress
+- Younger
+- Following periodized program
+
+## Active Recovery vs Complete Rest
+
+### Complete Rest
+
+No structured exercise:
+- Walking around normally
+- Daily activities
+- Nothing strenuous
+
+**When to use:**
+- Very sore
+- Fatigued
+- Sick or injured
+- Mental burnout
+
+### Active Recovery
+
+Light movement on rest days:
+- Easy walking
+- Light swimming
+- Gentle yoga
+- Easy cycling
+- Mobility work
+
+**Benefits:**
+- Increases blood flow
+- Reduces soreness
+- Maintains habit
+- Better than sitting all day
+
+**Intensity:** Should feel easy. If it's hard, it's not recovery.
+
+## Signs You Need More Rest
+
+### Physical Signs
+
+- Persistent soreness (>72 hours)
+- Decreased performance
+- Increased injuries
+- Elevated resting heart rate
+- Sleep disturbances
+- Getting sick more often
+- Loss of appetite
+
+### Mental Signs
+
+- Dreading workouts
+- Irritability
+- Lack of motivation
+- Poor concentration
+- Mood changes
+
+**If you experience these:** Take extra rest. You're likely overtraining.
+
+## Structuring Rest Days
+
+### Option 1: Fixed Rest Days
+
+Example: Rest every Sunday and Wednesday
+- Predictable
+- Easy to plan
+- Works for most people
+
+### Option 2: Every X Days
+
+Example: Rest every 3rd or 4th day
+- Flexible schedule
+- Based on training cycle
+- Good for shift workers
+
+### Option 3: Listen to Your Body
+
+Rest when you feel you need it:
+- Requires experience
+- Must be honest with yourself
+- Risk of too much OR too little
+
+### Recommended Approach
+
+**Most people:** Fixed 1-2 rest days per week, plus extra when needed.
+
+## Sample Weekly Schedules
+
+### Beginner (3 workouts/week)
+
+- Monday: Workout
+- Tuesday: Rest
+- Wednesday: Workout
+- Thursday: Rest
+- Friday: Workout
+- Saturday: Rest or light activity
+- Sunday: Rest
+
+### Intermediate (4-5 workouts/week)
+
+- Monday: Workout
+- Tuesday: Workout
+- Wednesday: Active recovery
+- Thursday: Workout
+- Friday: Workout
+- Saturday: Workout or rest
+- Sunday: Rest
+
+### Advanced (5-6 workouts/week)
+
+- Monday: Workout
+- Tuesday: Workout
+- Wednesday: Active recovery
+- Thursday: Workout
+- Friday: Workout
+- Saturday: Workout
+- Sunday: Rest
+
+## What to Do on Rest Days
+
+### Good Rest Day Activities
+
+- Walking
+- Light stretching
+- Foam rolling
+- Gentle yoga
+- Swimming (easy)
+- Light cycling
+- Mobility work
+
+### Rest Day Nutrition
+
+- Don't drastically cut calories
+- Still need protein for recovery
+- Stay hydrated
+- Support recovery with good food
+
+### Sleep
+
+- Prioritize 7-9 hours
+- Most recovery happens during sleep
+- Rest days are for resting
+
+## Rest Between Muscle Groups
+
+If training specific muscles:
+
+- **Same muscle group:** 48-72 hours between sessions
+- **Different muscle groups:** Can train consecutive days
+
+**Example (Upper/Lower Split):**
+- Monday: Upper
+- Tuesday: Lower
+- Wednesday: Rest
+- Thursday: Upper
+- Friday: Lower
+- Sat/Sun: Rest
+
+Same muscles get 72+ hours between sessions.
+
+## Deload Weeks
+
+Periodically reducing intensity:
+
+**What:** Every 4-8 weeks, reduce volume or intensity by 40-50%
+**Why:** Allows accumulated fatigue to dissipate
+**Who:** Anyone training consistently
+
+**Example deload:**
+- Usual: 4 sets of 8 at 100 lbs
+- Deload: 2 sets of 8 at 80 lbs
+
+## The Bottom Line
+
+1. **Rest is essential** — It's when you get stronger
+2. **1-2 days per week** — Minimum for most people
+3. **Active recovery works** — Light movement beats sitting
+4. **Listen to your body** — More rest when needed
+5. **Sleep matters most** — Prioritize 7-9 hours
+
+---
+
+*Foundational Rehab helps you balance training and recovery for optimal results.*
+    `
   }
 };
 
