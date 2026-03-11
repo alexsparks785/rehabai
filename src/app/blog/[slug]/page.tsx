@@ -142737,6 +142737,884 @@ Best exercise is one you'll actually do. Consistency beats perfection.
 
 *Foundational Rehab helps you exercise effectively for weight loss with balanced, sustainable programs.*
     `
+  },
+  'exercises-for-diastasis-recti': {
+    title: 'Exercises for Diastasis Recti: Postpartum Core Recovery',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read',
+    content: `
+## What Is Diastasis Recti?
+
+Diastasis recti is a separation of the rectus abdominis (six-pack) muscles:
+
+**Who gets it:**
+- Very common during and after pregnancy
+- Can occur in anyone (including men)
+- Estimated 60% of women postpartum
+
+**Signs:**
+- Gap between abs when doing a crunch
+- Bulging or "doming" when contracting abs
+- Lower back pain
+- Poor posture
+- Weak core
+
+## Self-Assessment
+
+### How to Check
+
+1. Lie on back, knees bent
+2. Lift head and shoulders slightly (mini crunch)
+3. Feel along midline of abs with fingers
+4. Note: How many finger widths fit in the gap?
+
+**Results:**
+- 1-2 fingers: Normal
+- 2+ fingers: Likely diastasis recti
+- Also note depth: Deep and soft = more significant
+
+## Important Principles
+
+### What to Avoid
+
+**Don't do traditional ab exercises:**
+- Crunches
+- Sit-ups
+- Double leg lifts
+- Planks (initially)
+- Twisting movements with load
+
+These can worsen the separation.
+
+### Focus On
+
+- Proper breathing
+- Deep core activation
+- Gradual progression
+- Closing the gap before loading
+
+## Phase 1: Foundation (Weeks 1-4)
+
+### Diaphragmatic Breathing
+
+1. Lie on back, knees bent
+2. Hands on belly
+3. Breathe into belly (it rises)
+4. Exhale fully, feel abs draw in
+5. 10 breaths, 2-3x daily
+
+### Pelvic Floor Connection
+
+1. Same position
+2. On exhale, gently lift pelvic floor (like stopping urine)
+3. Coordinate with breath
+4. 10 reps, 2-3x daily
+
+### Transverse Abdominis Activation
+
+1. Lie on back, knees bent
+2. On exhale, draw belly button toward spine
+3. Keep breathing while holding gentle contraction
+4. Hold 10 seconds
+5. 10 reps
+
+### Heel Slides
+
+1. Lie on back, knees bent
+2. Exhale, engage core
+3. Slowly slide one heel away
+4. Return with control
+5. 10 reps each leg
+
+## Phase 2: Building (Weeks 4-8)
+
+### Dead Bug (Modified)
+
+1. Lie on back, knees at 90°
+2. Arms at sides (not overhead yet)
+3. Exhale, engage core
+4. Slowly lower one foot toward floor
+5. Return before back arches
+6. 8-10 reps each leg
+
+### Glute Bridge
+
+1. Lie on back, knees bent
+2. Exhale, engage core
+3. Lift hips using glutes
+4. Keep abs flat (no doming!)
+5. 12-15 reps
+
+### Side-Lying Knee Lifts
+
+1. Lie on side, knees bent
+2. Exhale, engage core
+3. Lift top knee (clamshell)
+4. 15 reps each side
+
+### Quadruped Breathing
+
+1. On hands and knees
+2. Let belly relax down
+3. Exhale, draw belly up toward spine
+4. Hold 5 seconds
+5. 10 reps
+
+## Phase 3: Progression (Weeks 8+)
+
+### Bird Dog
+
+1. On hands and knees
+2. Exhale, engage core
+3. Extend opposite arm and leg
+4. No doming!
+5. 10 reps each side
+
+### Side Plank (Modified)
+
+1. On elbow and knees
+2. Engage core, lift hips
+3. Hold 15-20 seconds each side
+4. Progress to feet if no doming
+
+### Plank (From Knees)
+
+1. Only if no doming
+2. Keep core engaged
+3. Hold 15-20 seconds
+4. Progress slowly
+
+### Single-Leg Stance
+
+1. Stand on one leg
+2. Engage core
+3. Hold 30 seconds each
+4. Challenges core stability
+
+## What Doming Looks Like
+
+When exercising, watch for:
+- Bulging along midline
+- Pointy belly shape
+- Gap widening during effort
+
+**If you see doming:** Stop that exercise. You're not ready for it yet.
+
+## Additional Support
+
+### Belly Binding
+
+Some women find support wraps helpful:
+- Provides external support
+- Reminds you to engage core
+- Not a substitute for exercises
+- Consult healthcare provider
+
+### Posture
+
+- Stand tall
+- Stack ribs over pelvis
+- Don't let ribs flare
+- Engage core throughout day
+
+## Daily Routine
+
+**Morning (5 min):**
+- Diaphragmatic breathing: 10 breaths
+- Pelvic floor + core connection: 10 reps
+- Heel slides: 10 each leg
+
+**Midday:**
+- Posture check
+- Core engagement practice
+- Walking
+
+**Evening (10 min):**
+- All breathing exercises
+- Current phase exercises
+- Glute bridges: 15 reps
+- Side-lying clamshells: 15 each
+
+## Timeline Expectations
+
+- **Weeks 1-4:** Learning activation, building awareness
+- **Weeks 4-8:** Starting to feel stronger
+- **Weeks 8-12:** Noticeable improvement in gap and function
+- **Months 3-6:** Significant progress, returning to more activities
+- **6-12 months:** Full recovery for many women
+
+**Note:** Severe cases may take longer or require physical therapy.
+
+## When to See a Professional
+
+- Gap doesn't improve with exercises
+- Significant pain
+- Bulging or hernia
+- Unable to activate core
+- Bladder or bowel issues
+
+## The Bottom Line
+
+1. **Avoid crunches** — They can worsen separation
+2. **Start with breathing** — Foundation of recovery
+3. **Watch for doming** — If it domes, stop that exercise
+4. **Progress slowly** — Healing takes time
+5. **Be consistent** — Daily practice brings results
+
+---
+
+*Foundational Rehab provides diastasis recti recovery programs with safe, progressive core exercises.*
+    `
+  },
+  'flexible-legs': {
+    title: 'How to Get More Flexible Legs: Lower Body Mobility',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read',
+    content: `
+## Why Leg Flexibility Matters
+
+Flexible legs improve everything:
+
+**Benefits:**
+- Better squat and lunge depth
+- Reduced lower back pain
+- Improved athletic performance
+- Less muscle soreness
+- Better posture
+- Easier daily movements
+
+**Common tight areas:**
+- Hamstrings
+- Hip flexors
+- Quadriceps
+- Calves
+- Adductors (inner thigh)
+- Glutes
+
+## Hamstring Flexibility
+
+### Standing Hamstring Stretch
+
+1. Foot on elevated surface
+2. Keep both legs straight
+3. Hinge forward at hips
+4. Hold 30-60 seconds each
+
+### Supine Hamstring Stretch
+
+1. Lie on back
+2. Lift leg, keep straight
+3. Hold behind thigh or use strap
+4. Hold 45-60 seconds each
+
+### Seated Forward Fold
+
+1. Sit with legs extended
+2. Reach toward toes
+3. Keep slight knee bend if needed
+4. Hold 60 seconds
+
+### Good Mornings (Active Flexibility)
+
+1. Hands behind head
+2. Hinge at hips, push butt back
+3. Feel stretch in hamstrings
+4. 15 slow reps
+
+## Hip Flexor Flexibility
+
+### Half-Kneeling Hip Flexor Stretch
+
+1. Kneel on one knee
+2. Tuck tailbone under (posterior pelvic tilt)
+3. Shift weight forward
+4. Hold 30-60 seconds each
+
+### Couch Stretch
+
+1. Back foot on wall or couch
+2. Front foot forward in lunge
+3. Stay upright, squeeze glute
+4. Hold 60-90 seconds each
+5. Intense but effective
+
+### Prone Quad Stretch
+
+1. Lie face down
+2. Bend knee, grab ankle
+3. Pull heel toward butt
+4. Push hip into floor
+5. Hold 30 seconds each
+
+## Quadriceps Flexibility
+
+### Standing Quad Stretch
+
+1. Stand on one leg
+2. Pull foot toward butt
+3. Keep knees together
+4. Hold 30-45 seconds each
+
+### Side-Lying Quad Stretch
+
+1. Lie on side
+2. Grab top ankle
+3. Pull heel toward butt
+4. Keep hips stacked
+5. Hold 45 seconds each
+
+### Kneeling Quad Stretch
+
+1. Kneel, sit back on heels
+2. Lean back on hands (or further)
+3. Feel stretch in quads
+4. Hold 30-60 seconds
+
+## Calf Flexibility
+
+### Wall Calf Stretch
+
+1. Hands on wall
+2. One foot back, heel down
+3. Straight leg = gastrocnemius
+4. Bent knee = soleus
+5. Hold 30 seconds each position, each leg
+
+### Step Stretch
+
+1. Stand on step, heels off edge
+2. Let heels drop below level
+3. Hold 30-60 seconds
+
+### Downward Dog
+
+1. Hands and feet on floor, hips high
+2. Press heels toward floor
+3. Pedal feet for dynamic stretch
+4. Hold 30-60 seconds
+
+## Adductor (Inner Thigh) Flexibility
+
+### Butterfly Stretch
+
+1. Sit, soles of feet together
+2. Hold ankles, press knees down
+3. Keep back straight
+4. Hold 45-60 seconds
+
+### Frog Stretch
+
+1. On hands and knees
+2. Spread knees wide
+3. Keep feet together or wider
+4. Rock back toward heels
+5. Hold 60-90 seconds
+
+### Side Lunge Stretch
+
+1. Wide stance
+2. Shift weight to one side
+3. Keep opposite leg straight
+4. Hold 30 seconds each side
+
+### Straddle Stretch
+
+1. Sit with legs wide
+2. Reach forward or to each side
+3. Hold 30-45 seconds each direction
+
+## Glute Flexibility
+
+### Figure 4 Stretch
+
+1. Lie on back
+2. Cross ankle over opposite knee
+3. Pull toward chest
+4. Hold 45 seconds each
+
+### Pigeon Pose
+
+1. Front shin roughly parallel to shoulders
+2. Back leg extended
+3. Fold forward for deeper stretch
+4. Hold 60-90 seconds each
+
+### Seated Piriformis Stretch
+
+1. Sit, cross one ankle over opposite knee
+2. Lean forward with straight back
+3. Hold 30-45 seconds each
+
+## Full Leg Flexibility Routine
+
+### Daily Quick Routine (10 min)
+
+1. Standing quad stretch: 30 sec each
+2. Standing hamstring stretch: 30 sec each
+3. Hip flexor stretch: 30 sec each
+4. Wall calf stretch: 30 sec each (both positions)
+5. Figure 4 stretch: 30 sec each
+
+### Deep Flexibility Session (20-30 min)
+
+**Warm-Up:**
+- 5 min light cardio or dynamic stretching
+
+**Hamstrings:**
+- Supine stretch: 45 sec each
+- Good mornings: 10 reps
+- Seated forward fold: 60 sec
+
+**Hip Flexors/Quads:**
+- Half-kneeling stretch: 45 sec each
+- Couch stretch: 60 sec each
+- Prone quad stretch: 30 sec each
+
+**Calves:**
+- Wall stretch both positions: 30 sec each
+- Step stretch: 45 sec
+
+**Adductors:**
+- Butterfly: 45 sec
+- Frog stretch: 60 sec
+- Side lunge: 30 sec each
+
+**Glutes:**
+- Pigeon pose: 60 sec each
+- Figure 4: 30 sec each
+
+## Tips for Faster Flexibility Gains
+
+### Consistency
+
+Daily short sessions beat occasional long ones.
+
+### Hold Longer
+
+30 seconds minimum. 60-90 seconds for stubborn areas.
+
+### Use PNF
+
+Contract the muscle for 5 seconds, then relax and stretch deeper.
+
+### Strengthen at End Range
+
+Active flexibility is more useful than passive.
+
+### Don't Force
+
+Stretch to tension, not pain. Forcing causes injury and tightening.
+
+## The Bottom Line
+
+1. **Target all areas** — Hamstrings, hip flexors, quads, calves, adductors, glutes
+2. **Hold 30+ seconds** — Minimum for static stretches
+3. **Stretch daily** — Consistency creates change
+4. **Don't neglect hip flexors** — Often the tightest
+5. **Be patient** — Flexibility takes weeks to months
+
+---
+
+*Foundational Rehab builds flexible, mobile legs with progressive stretching programs.*
+    `
+  },
+  'exercises-for-thoracic-outlet-syndrome': {
+    title: 'Exercises for Thoracic Outlet Syndrome: Nerve Relief',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read',
+    content: `
+## What Is Thoracic Outlet Syndrome?
+
+Thoracic outlet syndrome (TOS) occurs when nerves or blood vessels are compressed between the collarbone and first rib:
+
+**Symptoms:**
+- Pain in shoulder, arm, or hand
+- Numbness or tingling in fingers
+- Weakness in hand
+- Cold or discolored arm
+- Aching in neck or shoulder
+
+**Types:**
+- **Neurogenic TOS:** Nerve compression (most common)
+- **Venous TOS:** Vein compression
+- **Arterial TOS:** Artery compression (rare)
+
+**Common causes:**
+- Poor posture
+- Repetitive overhead activities
+- Trauma
+- Anatomical variations
+- Tight scalene muscles
+
+## Important Note
+
+**See a healthcare provider for proper diagnosis.** TOS can have serious complications, and other conditions mimic TOS symptoms.
+
+## Exercises for Neurogenic TOS
+
+### Posture Correction
+
+Poor posture compresses the thoracic outlet:
+
+**Chin Tucks:**
+1. Pull chin straight back
+2. Keep eyes level
+3. Hold 5 seconds
+4. 10-15 reps, throughout day
+
+**Shoulder Blade Squeezes:**
+1. Squeeze shoulder blades together
+2. Hold 5 seconds
+3. 15-20 reps
+4. Opens up the front
+
+**Corner Stretch:**
+1. Face corner, forearms on walls
+2. Lean into corner
+3. Feel stretch across chest
+4. Hold 30 seconds
+
+### Scalene Stretches
+
+Tight scalene muscles contribute to TOS:
+
+**Lateral Neck Stretch:**
+1. Tilt ear toward shoulder
+2. Hold opposite shoulder down
+3. Hold 30 seconds each side
+
+**Anterior Scalene Stretch:**
+1. Turn head 45° to one side
+2. Look up slightly
+3. Gently pull head further
+4. Hold 30 seconds each side
+
+**Posterior Scalene Stretch:**
+1. Turn head 45° to one side
+2. Look down toward armpit
+3. Gently assist with hand
+4. Hold 30 seconds each side
+
+### Pectoral Stretches
+
+Tight pecs pull shoulders forward:
+
+**Doorway Stretch:**
+1. Forearm on doorframe
+2. Step through
+3. Feel stretch across chest
+4. Hold 30 seconds each side
+5. Do at different arm heights
+
+**Ball or Roller Pec Release:**
+1. Lie face down on soft ball
+2. Place under pec (below collarbone)
+3. Hold on tender spots
+4. 60 seconds each side
+
+### Nerve Glides
+
+Help nerves move freely:
+
+**Median Nerve Glide:**
+1. Arm out to side
+2. Extend wrist back
+3. Tilt head away from arm
+4. Then toward arm
+5. 10 gentle reps each arm
+
+**Ulnar Nerve Glide:**
+1. Arm out, elbow bent
+2. Make "OK" sign
+3. Bring hand to eye (like mask)
+4. Extend elbow while moving away
+5. 10 gentle reps
+
+### Strengthening
+
+Strength supports better posture:
+
+**Rows:**
+1. Any rowing variation
+2. Squeeze shoulder blades
+3. Don't shrug shoulders
+4. 15 reps
+
+**Face Pulls:**
+1. Band at face height
+2. Pull toward face, elbows high
+3. Squeeze shoulder blades
+4. 15-20 reps
+
+**Prone Y Raises:**
+1. Lie face down
+2. Arms overhead in Y
+3. Lift toward ceiling
+4. 10-15 reps
+
+**Lower Trap Raises:**
+1. Lie face down on incline bench
+2. Arms in Y or T position
+3. Lift with lower traps
+4. Hold 5 seconds
+5. 10 reps
+
+## Things to Avoid
+
+- Carrying heavy bags on shoulder
+- Overhead reaching (minimize)
+- Sleeping with arm overhead
+- Forward head posture
+- Slouching
+
+## Sleeping Position
+
+- Avoid sleeping on affected side
+- Keep arm below shoulder level
+- Use pillow to support arm if needed
+
+## Daily Routine for TOS
+
+**Morning (5 min):**
+- Chin tucks: 10 reps
+- Shoulder blade squeezes: 15 reps
+- Scalene stretches: 20 sec each position
+
+**Throughout Day:**
+- Posture checks (hourly)
+- Chin tucks
+- Shoulder rolls
+
+**Evening (15 min):**
+- All scalene stretches: 30 sec each
+- Corner stretch: 30 sec
+- Doorway stretch: 30 sec each side
+- Nerve glides: 10 each arm
+- Face pulls: 15 reps
+- Prone Y raises: 12 reps
+
+## When to See a Professional
+
+- Symptoms worsen despite exercises
+- Significant weakness
+- Color changes in arm
+- Swelling in arm
+- Symptoms affect daily activities
+- Diagnosis uncertain
+
+## The Bottom Line
+
+1. **Fix posture first** — Opens the thoracic outlet
+2. **Stretch scalenes and pecs** — They compress the outlet
+3. **Strengthen upper back** — Supports better posture
+4. **Nerve glides help** — Keep nerves moving freely
+5. **See a provider** — For proper diagnosis and guidance
+
+---
+
+*Foundational Rehab provides thoracic outlet syndrome exercises with a focus on posture and nerve mobility.*
+    `
+  },
+  'best-time-to-exercise': {
+    title: 'Best Time to Exercise: Morning vs Evening Workouts',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read',
+    content: `
+## Does Workout Timing Matter?
+
+The short answer: **The best time to exercise is when you'll actually do it.**
+
+Consistency matters more than timing. That said, different times offer different advantages.
+
+## Morning Exercise Benefits
+
+### Advantages
+
+**Better consistency:**
+- Fewer schedule conflicts
+- No excuses pile up during day
+- Done before life gets busy
+
+**Hormonal benefits:**
+- Cortisol naturally higher (energy)
+- May boost metabolism for the day
+- Morning light helps circadian rhythm
+
+**Mental benefits:**
+- Sense of accomplishment
+- Better mood throughout day
+- Clearer thinking
+
+**Sleep benefits:**
+- More time between exercise and bed
+- Better sleep quality
+- Helps regulate circadian rhythm
+
+### Disadvantages
+
+- Body temperature lower (less warmed up)
+- May need longer warm-up
+- Muscles stiffer from sleep
+- Might feel less energetic initially
+- Early wake-up required
+
+### Best For
+
+- People who struggle with consistency
+- Those with busy/unpredictable schedules
+- Early birds (natural morning people)
+- Those with sleep issues
+
+## Afternoon/Evening Exercise Benefits
+
+### Advantages
+
+**Physical performance:**
+- Body temperature peaks (2-6 PM)
+- Muscles more warmed up
+- Better reaction time
+- Higher strength output
+- Lower injury risk (some studies)
+
+**Practical benefits:**
+- More awake and alert
+- Had meals for energy
+- Natural stress relief after work
+
+### Disadvantages
+
+- Schedule conflicts common
+- Motivation can fade throughout day
+- May interfere with sleep (if too late)
+- Gym crowding (peak hours)
+- Fatigue from work day
+
+### Best For
+
+- Performance-focused athletes
+- Those seeking maximum strength/power
+- People who feel sluggish in mornings
+- Evening stress relief
+
+## What Research Shows
+
+**Strength and power:** Slightly better in afternoon/evening when body temperature peaks.
+
+**Endurance:** Similar at all times with proper warm-up.
+
+**Fat burning:** Morning fasted exercise may burn slightly more fat, but total calories matter more.
+
+**Muscle building:** Timing is less important than total protein and training consistency.
+
+**Consistency:** Morning exercisers tend to be more consistent.
+
+## Sleep Considerations
+
+### Evening Exercise and Sleep
+
+- Most people: Evening exercise doesn't hurt sleep
+- Some people: High-intensity too close to bed disrupts sleep
+- General rule: Finish 2-3 hours before bed
+
+### What to Avoid Before Bed
+
+- HIIT within 2 hours of sleep
+- Heavy weightlifting late
+- Stimulating exercise that raises body temp
+
+### What's OK Before Bed
+
+- Gentle yoga
+- Walking
+- Light stretching
+- Low-intensity movement
+
+## Finding Your Best Time
+
+### Consider Your:
+
+**Schedule:**
+- When do you have consistent free time?
+- When are you least likely to skip?
+
+**Energy levels:**
+- When do you naturally feel most energetic?
+- Are you a morning person or night owl?
+
+**Goals:**
+- Performance goals might favor afternoon
+- Consistency goals might favor morning
+
+**Sleep patterns:**
+- Morning exercise may help if you struggle to wake up
+- Avoid late exercise if sleep is fragile
+
+## Making Morning Workouts Work
+
+### Tips
+
+1. **Prepare everything night before** — Clothes, bag, food
+2. **Sleep in workout clothes** — One less barrier
+3. **Put alarm across room** — Force yourself up
+4. **Have a go-to routine** — Decision fatigue kills motivation
+5. **Start with just 10 minutes** — Build the habit first
+6. **Coffee is fine** — Helps if you need it
+7. **Shorter is okay** — Morning workout doesn't need to be long
+
+### Warm-Up
+
+Morning bodies need more warm-up:
+- Extra 5 minutes of light cardio
+- Dynamic stretching
+- Don't jump straight to heavy lifting
+
+## Making Evening Workouts Work
+
+### Tips
+
+1. **Schedule it** — Treat it like an appointment
+2. **Go straight from work** — Don't go home first
+3. **Have a gym bag ready** — Always packed
+4. **Find accountability** — Workout partner or class
+5. **Eat a snack at 3-4 PM** — Energy for workout
+6. **Limit intensity late** — If sleep-sensitive
+7. **Have a backup plan** — Home workout if time crunches
+
+## The "Split" Approach
+
+Some people split exercise throughout the day:
+
+**Benefits:**
+- Breaks up sitting
+- Easier to fit in
+- Multiple energy boosts
+- Less overwhelming
+
+**Examples:**
+- Morning: 15 min cardio
+- Lunch: 15 min walk
+- Evening: 20 min strength
+
+## The Bottom Line
+
+1. **Consistency beats timing** — The best time is when you'll do it
+2. **Morning offers consistency** — Fewer excuses, better habits
+3. **Afternoon offers performance** — Warmer, stronger, faster
+4. **Evening needs sleep awareness** — Avoid intense late workouts
+5. **Experiment** — Try both and see what works for you
+
+---
+
+*Foundational Rehab helps you find your optimal exercise time for consistent, sustainable fitness.*
+    `
   }
 };
 

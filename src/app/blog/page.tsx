@@ -4568,6 +4568,42 @@ const blogPosts: BlogPost[] = [
     author: 'Foundational Rehab',
     category: 'Fitness',
     readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-diastasis-recti',
+    title: 'Exercises for Diastasis Recti: Postpartum Core Recovery',
+    excerpt: 'Safe core exercises to heal diastasis recti after pregnancy.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'flexible-legs',
+    title: 'How to Get More Flexible Legs: Lower Body Mobility',
+    excerpt: 'Stretches for hamstrings, hip flexors, quads, calves, and more.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Mobility',
+    readTime: '7 min read'
+  },
+  {
+    slug: 'exercises-for-thoracic-outlet-syndrome',
+    title: 'Exercises for Thoracic Outlet Syndrome: Nerve Relief',
+    excerpt: 'Posture correction and stretches for thoracic outlet syndrome.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Conditions',
+    readTime: '6 min read'
+  },
+  {
+    slug: 'best-time-to-exercise',
+    title: 'Best Time to Exercise: Morning vs Evening Workouts',
+    excerpt: 'Pros and cons of morning vs evening exercise—find your best time.',
+    date: '2026-03-10',
+    author: 'Foundational Rehab',
+    category: 'Education',
+    readTime: '6 min read'
   }
 ];
 
