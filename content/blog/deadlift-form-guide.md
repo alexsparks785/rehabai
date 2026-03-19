@@ -1,374 +1,340 @@
 ---
-title: "Deadlift Form Guide: Master the Hip Hinge"
-description: "Complete guide to proper deadlift technique. Learn setup, execution, common mistakes, and variations for safe, effective deadlifting."
-date: "2026-03-17"
-readTime: "10 min read"
+title: "Deadlift Form Guide: How to Deadlift with Perfect Technique"
+description: "Master the deadlift with this comprehensive form guide. Step-by-step technique breakdown, common mistakes, and variations to build a strong, safe deadlift."
+date: "2026-03-19"
+readTime: "11 min read"
+category: "Technique"
 ---
 
-# Deadlift Form Guide: Master the Hip Hinge
+# Deadlift Form Guide: How to Deadlift with Perfect Technique
 
-The deadlift is one of the most effective exercises for building total-body strength. It's also one of the most commonly performed incorrectly. Master the technique and you'll build a strong, resilient body.
+The deadlift is the ultimate strength builder—picking heavy weight off the floor using your entire body. It's also one of the most butchered exercises in the gym. Here's how to do it right.
 
-## Why Deadlift Form Matters
+## Why the Deadlift Matters
 
-**Benefits of good form:**
-- Maximum muscle engagement
-- Spinal safety
-- Greater strength potential
-- Transfers to daily activities
-- Prevents injury
+### Muscles Worked
+The deadlift is a true full-body exercise:
+- **Primary**: Glutes, hamstrings, erector spinae
+- **Secondary**: Quads, lats, traps, forearms, core
+- **Stabilizers**: Nearly everything else
 
-**Risks of poor form:**
-- Lower back injury
-- Disc issues
-- Muscle strains
-- Limited progress
+### Benefits
+- Builds total-body strength
+- Develops posterior chain (back side of body)
+- Improves grip strength
+- Transfers to real-world lifting
+- Increases bone density
+- Builds mental toughness
 
----
+## The Setup: Before You Pull
 
-## The Conventional Deadlift
-
-### Setup
-
-**Foot Position:**
-- Feet hip-width apart
-- Toes pointed slightly out or straight
+### Stance
+- Feet hip-width apart (narrower than squat)
+- Toes pointed straight or slightly out (5-15°)
 - Bar over mid-foot (about 1 inch from shins)
 
-**Grip:**
-- Hands just outside knees
-- Double overhand, mixed grip, or hook grip
-- Arms straight (not pulling with arms)
+### Grip
+- Hands just outside legs
+- Arms straight and vertical when viewed from front
+- Double overhand grip (or mixed/hook for heavier weight)
 
-**Hip Hinge:**
-- Push hips back
-- Bend knees until shins touch bar
-- Keep hips higher than knees
+### Hip Position
+- Hinge at hips, push them back
+- Knees bend to reach bar
+- Hips above knees, shoulders above hips
+- Not a squat—don't drop hips too low
 
-**Back Position:**
-- Flat back (neutral spine)
-- Chest up
-- Lats engaged ("protect your armpits")
+### Back Position
+- Chest up, spine neutral
+- Slight arch in lower back (not rounded)
+- Shoulders slightly in front of bar
+- Look at floor 6-10 feet ahead
 
-**Head Position:**
-- Neutral (looking at floor about 6-10 feet ahead)
-- Not looking up or tucking chin
+### Arm Position
+- Arms completely straight (like ropes)
+- Don't try to curl the weight
+- Shoulders packed down (not shrugged)
 
-### The Lift
+## Step-by-Step Deadlift Technique
 
-**Before Pulling:**
-- Take slack out of bar
-- Create tension
-- Brace core hard
+### Step 1: Walk to the Bar
+Stand with bar over mid-foot. Don't move the bar.
 
-**The Pull:**
-- Push floor away with legs
-- Keep bar close to body
-- Hips and shoulders rise together
-- Bar travels in straight line
+### Step 2: Grip the Bar
+Without moving your shins, hinge at hips and grip the bar just outside your legs.
 
-**Lockout:**
-- Stand fully upright
-- Squeeze glutes at top
-- Don't hyperextend
-- Shoulders back, chest up
+### Step 3: Bend Knees
+Bring shins forward to touch the bar. Don't move the bar backward.
 
-### The Descent
+### Step 4: Chest Up
+Lift chest, straighten back, squeeze lats. "Proud chest."
 
-- Hinge at hips first
-- Push hips back
-- Lower bar along thighs
-- Once bar passes knees, bend knees
-- Control the weight down
+### Step 5: Take the Slack Out
+Pull up on the bar slightly until you feel it contact the top of the plates. This creates tension before you lift.
 
----
+### Step 6: Drive
+Push the floor away with your legs while pulling the bar up. Think "leg press the floor."
 
-## Key Form Cues
+### Step 7: Hip Extension
+As bar passes knees, drive hips forward powerfully. Squeeze glutes at top.
 
-### "Push the Floor Away"
+### Step 8: Lockout
+Stand tall. Shoulders back, hips fully extended. Don't lean back excessively.
 
-- Think of leg pressing the earth
-- Engages quads properly
-- Prevents hips shooting up
+### Step 9: Lower the Bar
+Hinge at hips first, push them back. Bend knees once bar passes knees. Control the descent—don't drop.
 
-### "Drag the Bar Up Your Legs"
+## Key Technique Cues
 
-- Bar stays close to body
-- Scraping shins (wear long socks)
-- Reduces lower back stress
+### For Your Back
+- "Chest up, shoulders back"
+- "Squeeze an orange in your armpits" (lat engagement)
+- "Proud chest"
+- "Long spine"
 
-### "Protect Your Armpits"
+### For Your Legs
+- "Push the floor away"
+- "Leg press the earth"
+- "Drive through your heels"
 
-- Engage lats
-- Keeps bar close
-- Creates upper back tightness
+### For Your Hips
+- "Hump the bar" (at lockout)
+- "Drive hips through"
+- "Squeeze your glutes like you're cracking a walnut"
 
-### "Chest Up, Hips Down"
-
-- Maintains flat back
-- Sets proper hip position
-- Prevents rounding
-
-### "Wedge Yourself Into the Bar"
-
-- Create tension before pulling
-- Take slack out of bar
-- Eliminates jerky start
-
----
+### For Tension
+- "Pull the slack out"
+- "Bend the bar around your legs"
+- "Spread the floor apart"
 
 ## Common Deadlift Mistakes
 
-### Rounded Lower Back
+### Rounding the Lower Back
+**Problem**: Lumbar flexion under load—injury risk.
+**Fix**: 
+- Set up with chest up
+- Brace core hard
+- Don't start with hips too high
+- Lower weight until form improves
 
-**The problem:** Lumbar spine rounds during lift
-
-**Causes:** Weak core, poor hip hinge, too much weight
-
-**Fixes:**
-- Lower the weight
-- Brace harder
-- Practice hip hinge pattern
-- Romanian deadlifts for pattern
-
-### Hips Rising First
-
-**The problem:** Hips shoot up, turning it into a stiff-leg deadlift
-
-**Causes:** Quad weakness, motor pattern issue
-
-**Fixes:**
-- "Push floor away" cue
-- Keep chest up
-- Pause deadlifts
-- Lighter weight, perfect form
+### Hips Shooting Up First
+**Problem**: Back does all the work; knees straighten before bar moves.
+**Fix**:
+- Cue "chest and hips rise together"
+- Start with hips slightly higher
+- Push through legs, not just pull with back
 
 ### Bar Drifting Forward
-
-**The problem:** Bar moves away from body
-
-**Causes:** Poor lat engagement, starting position off
-
-**Fixes:**
-- "Protect armpits" cue
-- Start with bar over mid-foot
-- Drag bar up legs
+**Problem**: Bar moves away from body, increases back stress.
+**Fix**:
+- Keep bar close to body (scrape your shins)
+- Engage lats to pull bar in
+- Cue "drag the bar up your legs"
 
 ### Hyperextending at Top
+**Problem**: Leaning back excessively at lockout.
+**Fix**:
+- Stand tall, don't lean back
+- Squeeze glutes, not lower back
+- Think "tall" not "back"
 
-**The problem:** Leaning back at lockout
-
-**Causes:** Trying to "finish" the lift, poor habit
-
-**Fixes:**
-- Stand straight up only
-- Squeeze glutes, not lean back
-- Stop when hips are fully extended
+### Squatting the Deadlift
+**Problem**: Hips too low, knees too far forward.
+**Fix**:
+- It's a hinge, not a squat
+- Hips above knees at start
+- Shins close to vertical
 
 ### Jerking the Bar
-
-**The problem:** Yanking bar off floor
-
-**Causes:** Not taking slack out, impatience
-
-**Fixes:**
-- Take slack out before pulling
-- Gradual tension increase
-- Smooth, strong pull
+**Problem**: Yanking bar without building tension.
+**Fix**:
+- Take slack out first
+- Build pressure, then lift
+- Smooth pull, not a jerk
 
 ### Looking Up
-
-**The problem:** Head craned back
-
-**Causes:** Old coaching cues, habit
-
-**Fixes:**
-- Neutral head position
-- Look at floor ahead
-- Chin slightly tucked
-
----
-
-## Deadlift Variations
-
-### Romanian Deadlift (RDL)
-
-**Best for:** Hamstrings, hip hinge pattern, accessory work
-
-- Start standing with weight
-- Hinge hips back with slight knee bend
-- Lower until hamstring stretch (not to floor)
-- Great for learning hip hinge
-
-### Sumo Deadlift
-
-**Best for:** Those with longer torsos, hip-dominant pulling
-
-- Wide stance, toes pointed out
-- Grip inside knees
-- More upright torso
-- Different muscle emphasis
-
-### Trap Bar/Hex Bar Deadlift
-
-**Best for:** Beginners, those with back issues, athletes
-
-- Handles at sides
-- More natural position
-- Easier on lower back
-- Good learning tool
-
-### Deficit Deadlift
-
-**Best for:** Increasing range of motion, floor strength
-
-- Stand on platform (1-4 inches)
-- Harder off the floor
-- Builds bottom position strength
-
-### Rack Pull
-
-**Best for:** Lockout strength, overloading top portion
-
-- Bar starts elevated (on rack)
-- Trains top half of movement
-- Can use heavier weights
-
-### Single-Leg Romanian Deadlift
-
-**Best for:** Balance, unilateral strength, hamstrings
-
-- Stand on one leg
-- Hinge while extending other leg back
-- Excellent for athletes
-
----
+**Problem**: Strains neck, disrupts spine position.
+**Fix**:
+- Look at floor 6-10 feet ahead
+- Keep neck neutral
+- "Pack" your chin slightly
 
 ## Grip Options
 
 ### Double Overhand
+- Both palms face you
+- Weakest grip but most balanced
+- Great for warm-ups and lighter weight
+- Builds grip strength
 
-**Best for:** Building grip strength, moderate weights
-
-- Both palms facing you
-- Grip will fail before back on heavy weights
-- Use until grip limits you
-
-### Mixed Grip
-
-**Best for:** Heavy weights when grip fails
-
-- One palm toward you, one away
-- Allows heavier weights
-- Alternate which hand is supinated
+### Mixed Grip (Over/Under)
+- One palm faces you, one faces away
+- Stronger grip, prevents rolling
+- Alternate which hand is over
+- Watch for bicep strain on underhand side
 
 ### Hook Grip
-
-**Best for:** Heavy weights without mixed grip issues
-
-- Thumb wrapped around bar first
-- Fingers over thumb
-- Painful initially, very secure
+- Thumb wrapped under fingers
+- Hurts initially, but very secure
+- Preferred by Olympic lifters
+- Takes time to build tolerance
 
 ### Straps
-
-**Best for:** Grip-limited pulling, back training focus
-
-- Use when grip is limiting factor
+- Useful for high rep work or very heavy weight
 - Don't rely on them exclusively
-- Build grip strength separately
+- Build grip strength with strapless work too
 
----
+## Deadlift Variations
 
-## Programming Deadlifts
+### Conventional Deadlift
+The standard. Narrow stance, arms outside legs.
 
-### Beginners
+### Sumo Deadlift
+- Wide stance, toes pointed out
+- Arms inside legs
+- More upright torso
+- More quad/adductor emphasis
+- Some people are built for this
 
-**Focus:** Learning the pattern
+### Romanian Deadlift (RDL)
+- Start from standing
+- Hinge with slight knee bend
+- Don't touch floor
+- Hamstring focused
 
-- 3 sets of 5-8 reps
-- Moderate weight
-- Once per week initially
-- Video and analyze
+### Trap Bar Deadlift
+- Step inside hexagonal bar
+- More neutral grip
+- More quad involvement
+- Easier on lower back
+- Great for beginners
 
-### Intermediate
+### Deficit Deadlift
+- Stand on plates (1-3 inch elevation)
+- Increases range of motion
+- Builds strength off floor
+- Address
 
-**Focus:** Building strength
+### Pause Deadlift
+- Pause just below knees
+- Eliminates stretch reflex
+- Builds strength at weak points
 
-- Heavy sets of 3-5 reps
-- Once or twice per week
-- Progressive overload
-- Mix in variations
+### Block/Rack Pull
+- Start bar elevated (blocks or rack pins)
+- Reduced range of motion
+- Focus on lockout strength
+- Handle heavier weight
 
-### Advanced
+## Programming the Deadlift
 
-**Focus:** Specific goals
+### Frequency
+- 1-2x per week for most lifters
+- Very taxing on CNS
+- Allow 72+ hours recovery between sessions
 
-- Periodized approach
-- Variations for weaknesses
-- 1-2 times per week
-- Strategic programming
+### Rep Ranges
+- **Strength**: 1-5 reps, heavy
+- **Hypertrophy**: 6-10 reps, moderate
+- **Endurance**: 10-15 reps, lighter
 
----
+### Sets
+- 3-5 working sets typical
+- Quality over quantity
+- Back off if form breaks down
 
-## Warm-Up for Deadlifting
+### Progressive Overload
+- Add 5-10 lbs when you hit rep targets
+- Don't rush—steady progress compounds
+- Deload every 4-6 weeks
 
-### General (5 min)
+## Warm-Up for Deadlifts
 
-- Light cardio
-- Hip hinges (bodyweight)
+### General Warm-Up (5 minutes)
+- Light cardio (rowing, bike)
+- Hip circles
 - Leg swings
-- Cat-cow
+- Cat-cow stretches
 
-### Specific (5 min)
-
-1. RDL with light weight: 10 reps
-2. Hip CARs: 5 each
-3. Glute bridges: 15 reps
-4. Band pull-aparts: 15 reps
+### Movement Prep
+- Glute bridges: 2 × 10
+- Bodyweight Romanian deadlift: 2 × 8
+- Hip hinges with band: 2 × 8
 
 ### Warm-Up Sets
+Example for 315 lb working weight:
+- Bar × 10
+- 135 × 5
+- 185 × 3
+- 225 × 2
+- 275 × 1
+- 295 × 1
+- Begin working sets at 315
 
-- 135 lbs (or empty bar): 8 reps
-- 50% working weight: 5 reps
-- 70% working weight: 3 reps
-- 85% working weight: 1-2 reps
-- Working sets
-
----
-
-## Safety Considerations
+## Deadlift Safety
 
 ### When to Stop
+- Sharp pain (especially lower back)
+- Form breaks down significantly
+- You can't maintain neutral spine
+- Grip fails before set is complete
 
-- If form breaks down significantly
-- Sharp pain anywhere
-- Dizziness or lightheadedness
+### Prevention
+- Don't ego lift—form over weight
+- Build up gradually
+- Include core and back accessory work
+- Get enough sleep and recovery
 
-### Breathing
+### Equipment
+- Flat-soled shoes (or barefoot/socks)
+- Chalk for grip
+- Belt optional (for heavy singles/doubles)
+- Knee sleeves optional for warmth
 
-- Big breath before each rep
-- Hold during lift (valsalva)
-- Breathe out at top or between reps
-- Reset breath for each rep on heavy sets
+## Accessory Exercises
 
-### Belt Use
+Strengthen weak points:
 
-- Not required, but helpful for heavy weights
-- Increases intra-abdominal pressure
-- Learn to brace without belt first
-- Use for sets over 80% of max
+**Off the Floor**:
+- Deficit deadlifts
+- Pause deadlifts
+- Front squats
+
+**Mid-Range**:
+- Pause deadlifts at knees
+- RDLs
+- Good mornings
+
+**Lockout**:
+- Block pulls
+- Hip thrusts
+- Rack pulls
+
+**Grip**:
+- Farmer carries
+- Dead hangs
+- Plate pinches
+
+**Back**:
+- Rows (all variations)
+- Pull-ups
+- Back extensions
+
+## How Much Should You Deadlift?
+
+### Strength Standards (Approximate)
+
+| Level | Men | Women |
+|-------|-----|-------|
+| Beginner | 1× bodyweight | 0.75× bodyweight |
+| Intermediate | 1.5× bodyweight | 1× bodyweight |
+| Advanced | 2× bodyweight | 1.5× bodyweight |
+| Elite | 2.5× bodyweight | 2× bodyweight |
+
+These are guidelines. Individual variation exists.
 
 ---
 
-## Key Takeaways
+The deadlift is simple in concept but takes years to master. Focus on technique first, add weight gradually, and respect the lift. A strong deadlift will build a strong body.
 
-- **Hip hinge, not squat** — hips back, bar close
-- **Neutral spine** — flat back throughout
-- **Bar stays close** — drag up your legs
-- **Hips and shoulders together** — no hips shooting up
-- **Brace hard** — core tight entire lift
-- **Smooth, not jerky** — take slack out first
-- **Progress with good form** — don't chase weight with bad technique
-
-The deadlift is a skill. Treat it that way—practice the technique, be patient, and the strength will come.
+Now go pick up something heavy.
