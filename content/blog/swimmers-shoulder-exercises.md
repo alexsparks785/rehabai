@@ -1,313 +1,287 @@
-# Swimmer's Shoulder Exercises: Prevent and Recover from Swimming Pain
+---
+title: "Swimmer's Shoulder Exercises: Prevention and Rehabilitation"
+description: "Complete guide to preventing and treating swimmer's shoulder. Learn dryland exercises to keep your shoulders healthy for swimming."
+date: "2026-03-20"
+readTime: "9 min read"
+category: "Sports Performance"
+---
 
-Swimmer's shoulder affects up to 90% of competitive swimmers at some point. The repetitive overhead motion of swimming creates unique stresses on the shoulder joint. The right exercises can prevent this common injury—or help you recover from it.
+# Swimmer's Shoulder Exercises: Prevention and Rehabilitation
 
-**Reading time:** 9 minutes
+Swimmer's shoulder affects up to 90% of competitive swimmers at some point. The repetitive overhead motion—combined with the unique demands of swimming—creates predictable problems. Smart dryland training prevents injury and speeds recovery when problems arise.
 
 ## Understanding Swimmer's Shoulder
 
-Swimmer's shoulder isn't a single diagnosis but a collection of problems caused by repetitive overhead swimming:
+### What Causes It
 
-- **Rotator cuff tendinopathy** - irritation of the tendons
-- **Shoulder impingement** - structures pinched during movement
-- **Labral issues** - cartilage rim irritation
-- **Biceps tendinopathy** - long head of biceps inflammation
-- **Instability** - too much shoulder looseness
+**Volume:** Elite swimmers perform 1-2 million shoulder rotations per year
 
-The root causes are usually:
-- Muscle imbalances (strong internal rotators, weak external rotators)
-- Poor scapular stability
-- Training overload
-- Technique issues
+**Mechanics:**
+- Internal rotation dominance
+- Scapular dyskinesis
+- Rotator cuff fatigue
+- Impingement from repetitive overhead motion
 
-## Key Muscles to Address
+**Muscle Imbalances:**
+- Tight: Internal rotators, pecs, lats
+- Weak: External rotators, lower traps, serratus
 
-### Typically Tight/Overactive:
-- Pectoralis major and minor
-- Latissimus dorsi
-- Internal rotators
+### Warning Signs
+- Pain during or after swimming
+- Pain reaching overhead
+- Weakness with arm elevation
+- Pain at night
+- Clicking or catching sensations
 
-### Typically Weak:
-- External rotators (infraspinatus, teres minor)
-- Lower trapezius
-- Serratus anterior
-- Rhomboids
+## Phase 1: Pain Management (Week 1-2)
 
-Your program should stretch the tight muscles and strengthen the weak ones.
+If you're currently in pain, start here.
 
-## External Rotation Exercises
+### Rest and Modification
+- Reduce training volume 50%
+- Avoid painful strokes (usually butterfly, backstroke)
+- Use fins and kick sets to maintain fitness
+- Ice after swimming (15 minutes)
 
-The most important category for swimmers.
+### Gentle Range of Motion
 
-### Side-Lying External Rotation
+**Pendulum Exercises:**
+1. Lean over, let arm hang
+2. Small circles, forward/back, side/side
+3. 1-2 minutes, 2-3 times daily
 
+**Supine External Rotation:**
+1. Lie on back, arm at side
+2. Elbow bent 90°
+3. Rotate forearm out (use good arm to assist)
+4. 10 reps, gentle
+
+### Scapular Setting
+
+**Scapular Clocks:**
+1. Arm against wall at shoulder height
+2. Gently press shoulder blade in different directions
+3. Think: up, down, in, out
+4. Hold each 5 seconds
+
+## Phase 2: Strengthening (Week 2-6)
+
+Rebuild the stabilizers before returning to full training.
+
+### Rotator Cuff Exercises
+
+**Side-Lying External Rotation:**
 1. Lie on non-painful side
-2. Top arm: elbow at side, bent 90°
-3. Hold light weight (1-3 lbs to start)
-4. Rotate forearm toward ceiling
-5. Lower slowly
+2. Elbow at side, bent 90°
+3. Rotate forearm toward ceiling
+4. Light weight (2-5 lbs)
+5. 15 reps, 3 sets
 
-**Sets/reps:** 3 sets of 15 each arm
+**Prone External Rotation at 90°:**
+1. Lie face down, arm hanging off bed
+2. Elbow bent 90°
+3. Rotate forearm up
+4. 15 reps each side
 
-### Standing External Rotation with Band
+**Internal Rotation with Band:**
+1. Band at elbow height
+2. Elbow at side, bent 90°
+3. Pull band across body
+4. 15 reps each side
 
-1. Band attached at elbow height
-2. Elbow pinned to side, bent 90°
-3. Rotate forearm outward
-4. Hold 2 seconds at end range
-5. Return with control
+### Scapular Stabilizers
 
-**Sets/reps:** 3 sets of 15 each arm
+**Prone Y-T-W:**
+1. Lie face down on bench or floor
+2. Y: Arms overhead, thumbs up, lift
+3. T: Arms to sides, thumbs up, lift
+4. W: Elbows bent, squeeze back
+5. 10 reps each position
 
-### 90/90 External Rotation
-
-1. Arm out to side, elbow bent 90° (goal post position)
-2. Band or cable resistance
-3. Rotate forearm up toward ceiling
-4. Keep elbow at shoulder height
-5. Control the return
-
-**Sets/reps:** 3 sets of 12-15 each arm
-
-## Scapular Stability Exercises
-
-### Prone Y-T-W-L
-
-On bench or floor:
-
-1. **Y:** Arms overhead 45° angle, thumbs up, lift
-2. **T:** Arms straight out, thumbs up, lift
-3. **W:** Elbows bent 90°, squeeze shoulder blades, lift
-4. **L:** Arms at sides, externally rotate thumbs up
-
-**Sets/reps:** 2 sets of 10 each position
-
-### Face Pulls
-
+**Face Pulls:**
 1. Band or cable at face height
-2. Pull toward face, elbows high
-3. At end, externally rotate (hands by ears)
-4. Squeeze shoulder blades
-5. Control return
+2. Pull to face, elbows high
+3. Squeeze shoulder blades
+4. 15-20 reps
 
-**Sets/reps:** 3 sets of 15
+**Serratus Punch:**
+1. Lie on back, arm straight up
+2. Push hand toward ceiling (shoulder blade lifts)
+3. Control back down
+4. 15 reps each side
 
-### Wall Slides
-
+**Wall Slides:**
 1. Back against wall
-2. Arms in "W" position against wall
-3. Slide arms up to "Y" position
-4. Keep contact with wall throughout
-5. Slide back down
+2. Arms in goalpost position
+3. Slide up and down
+4. Maintain wall contact
+5. 15 reps
 
-**Sets/reps:** 3 sets of 12-15
+### Lower Trap Strengthening
 
-### Serratus Punches
+**Prone T with Thumbs Up:**
+1. Face down, arms to sides
+2. Thumbs pointing up
+3. Lift arms, squeeze lower traps
+4. Hold 3 seconds
+5. 15 reps
 
-Targets serratus anterior:
+**Low Trap Row:**
+1. Band overhead, slightly behind
+2. Pull down toward back pockets
+3. Focus on lower trap engagement
+4. 15 reps
 
-1. Lie on back or stand with band
-2. Arms straight toward ceiling
-3. Push hands further (protract shoulder blades)
-4. Shoulders come off surface
-5. Return with control
+## Phase 3: Return to Swimming (Week 4-8)
 
-**Sets/reps:** 3 sets of 15
+Gradual return while maintaining dryland work.
 
-### Push-Up Plus
+### Swimming Modifications
+- Start with 25-50% normal volume
+- Avoid butterfly initially
+- Focus on technique (no fatigue swimming)
+- Increase 10-15% per week
 
-1. Push-up position (on knees if needed)
-2. At top of push-up, push further
-3. Round upper back, protract shoulder blades
-4. Return to normal push-up position
-5. Lower and repeat
+### Continued Strengthening
 
-**Sets/reps:** 3 sets of 10-12
+**Band Pull-Aparts:**
+1. Band at shoulder width
+2. Pull apart, squeeze back
+3. 15-20 reps
 
-## Stretching for Swimmers
+**Push-Up Plus:**
+1. Do a push-up
+2. At top, push further (protract shoulders)
+3. Feel serratus engage
+4. 12 reps
 
-### Doorway Pec Stretch
+**Single-Arm Rows:**
+1. One arm rows
+2. Focus on scapular control
+3. 12 reps each side
 
-1. Forearm on doorframe, elbow at shoulder height
-2. Step through doorway
-3. Feel stretch across chest
-4. Hold 30 seconds
-5. Repeat at different angles (elbow higher/lower)
+## Prevention Program
 
-**Reps:** 3 positions, both sides
+For swimmers currently healthy—keep it that way.
 
-### Cross-Body Posterior Shoulder Stretch
+### Daily Routine (5-10 minutes)
 
-1. Bring arm across body at shoulder height
-2. Use other hand to pull it closer
-3. Feel stretch in back of shoulder
-4. Hold 30 seconds each side
+**Pre-Practice:**
+1. Arm circles: 10 each direction
+2. Band pull-aparts: 15 reps
+3. YTW: 5 reps each
+4. Serratus punches: 10 each arm
 
-**Note:** Avoid this stretch if you have instability
+**Post-Practice:**
+1. Cross-body stretch: 30 sec each
+2. Sleeper stretch: 30 sec each
+3. Doorway stretch: 30 sec each
+4. Lat stretch: 30 sec each
 
-### Lat Stretch
+### Strength Training (2-3x/week)
 
-1. Kneel next to wall or doorframe
-2. Reach arm overhead, palm on surface
-3. Sink hips down and away
-4. Feel stretch down side
-5. Hold 30 seconds each side
-
-### Thoracic Extension on Foam Roller
-
-1. Roller across mid-back
-2. Hands behind head
-3. Extend over roller
-4. Move roller up/down spine
-5. 2-3 minutes
-
-## Internal Rotation Exercises
-
-Don't neglect internal rotation—it needs to be balanced, not eliminated.
-
-### Side-Lying Internal Rotation
-
-1. Lie on painful side
-2. Bottom arm: elbow at side, bent 90°
-3. Hold light weight
-4. Rotate forearm toward stomach
-5. Lower slowly
-
-**Sets/reps:** 2 sets of 12-15 each arm
-
-## Core Stability for Swimming
-
-### Deadbug
-
-1. Lie on back, arms up, knees bent 90°
-2. Lower opposite arm and leg
-3. Keep lower back pressed down
-4. Return and switch
-
-**Sets/reps:** 3 sets of 10 each side
-
-### Pallof Press
-
-1. Band anchored to side
-2. Hold at chest
-3. Press arms straight out
-4. Resist rotation
-5. Hold 3 seconds, return
-
-**Sets/reps:** 3 sets of 10 each side
-
-### Plank Variations
-
-**Standard:** 30-60 seconds
-**Side Plank:** 30 seconds each side
-**Superman Hold:** 20-30 seconds (face down, arms and legs lifted)
-
-## Sample Weekly Program
-
-### Prevention Program (No Pain)
-
-**3x per week after swimming:**
-
-1. External rotation (pick 2 variations): 3 × 15 each
-2. Face pulls: 3 × 15
-3. Prone Y-T-W-L: 2 × 10 each
-4. Push-up plus: 3 × 10
-5. Doorway pec stretch: 30 seconds each side
-6. Core circuit: 10 minutes
-
-### Recovery Program (Mild Pain)
-
-**Daily during recovery phase:**
-
-**Stretching (morning):**
-- Doorway pec stretch: 3 × 30 seconds each
-- Lat stretch: 30 seconds each
-- Thoracic extension: 2 minutes
-
-**Strengthening (afternoon/evening):**
-- Side-lying external rotation: 3 × 15
-- Serratus punches: 3 × 15
-- Prone Y-T: 2 × 10 each
-- Face pulls: 3 × 15
-- Wall slides: 3 × 12
-
-**Modify swimming:** Reduce volume by 50%, avoid painful strokes
-
-### Return to Full Training
-
-**When pain-free:**
-1. Gradually increase swimming volume (10-20% per week)
-2. Continue strengthening 3x per week
-3. Continue stretching daily
-4. Monitor for any return of symptoms
+**Essential Exercises:**
+1. Side-lying external rotation: 3x15
+2. Prone YTW: 3x10 each
+3. Face pulls: 3x15
+4. Push-up plus: 3x12
+5. Band pull-aparts: 3x15
+6. Serratus punch: 3x12 each
 
 ## Stroke-Specific Considerations
 
 ### Freestyle
-- Most common stroke for shoulder problems
-- Focus on external rotation and posterior shoulder
-- Check breathing patterns (one side only increases stress)
+- Most rotator cuff stress at hand entry
+- Focus: External rotation strength
+- Prevention: Avoid crossing midline at entry
 
 ### Backstroke
-- Generally easier on shoulders
-- Still need external rotation work
-- Watch for impingement at entry
+- Impingement at start of pull
+- Focus: Scapular stability
+- Prevention: Don't hyperextend entry
 
 ### Butterfly
-- Highest stress on shoulders
-- Limit volume when building back
-- Extra attention to scapular stability
+- Most demanding stroke for shoulders
+- Focus: Everything—rotator cuff, scaps, thoracic mobility
+- Prevention: Limit volume when fatigued
 
 ### Breaststroke
-- Least shoulder stress
-- Good alternative when recovering
-- Watch for knee issues instead
+- Usually easier on shoulders
+- Use as recovery stroke
+- Watch for neck/low back issues instead
 
-## Training Load Management
+## Stretching and Mobility
 
-Most swimmer's shoulder is from overuse:
+### Essential Stretches
 
-1. **Monitor weekly yardage** - track increases
-2. **The 10% rule** - don't increase volume more than 10% per week
-3. **Variety** - rotate strokes, include kick sets
-4. **Rest weeks** - reduce volume every 4th week
-5. **Listen to your body** - pain is information
+**Cross-Body Stretch:**
+1. Arm across body at shoulder height
+2. Pull gently with other arm
+3. Hold 30-60 seconds
 
-## Technique Considerations
+**Sleeper Stretch:**
+1. Lie on affected side
+2. Shoulder and elbow at 90°
+3. Push forearm toward floor
+4. Hold 30-60 seconds
 
-Discuss with your coach:
+**Doorway Stretch:**
+1. Forearm on door frame
+2. Step through doorway
+3. Different elbow heights
+4. Hold 30 seconds each position
 
-1. **Hand entry** - avoid crossing midline
-2. **Catch position** - don't drop elbow
-3. **Breathing pattern** - alternate sides if possible
-4. **Body rotation** - proper rotation reduces shoulder stress
-5. **Recovery phase** - high elbow, relaxed
+**Lat Stretch:**
+1. Arm on wall or doorframe
+2. Lean away
+3. Feel stretch along side
+4. Hold 30-60 seconds
 
-## Dry-Land Training Balance
+### Thoracic Mobility
 
-Too much pulling in the pool—balance with:
+**Foam Roller Extension:**
+1. Roller under mid-back
+2. Hands behind head
+3. Extend over roller
+4. 2 minutes
 
-1. **Push exercises** (push-ups, overhead press)
-2. **External rotation** (3x per week minimum)
-3. **Scapular stability** (every workout)
-4. **Core work** (support rotation)
+**Quadruped Rotation:**
+1. On hands and knees
+2. Hand behind head
+3. Rotate elbow up toward ceiling
+4. 10 reps each side
+
+## Common Mistakes
+
+### Training Errors
+- Too much volume too soon
+- Swimming through pain
+- Neglecting dryland work
+- Poor technique when fatigued
+
+### Dryland Errors
+- Heavy bench press (internal rotation bias)
+- Overhead pressing with poor form
+- Neglecting external rotation work
+- Skipping scapular exercises
 
 ## When to See a Professional
 
-Seek evaluation for:
-- Pain lasting more than 2 weeks despite rest
-- Pain during daily activities (not just swimming)
-- Significant weakness
-- Night pain that disturbs sleep
-- Any "catching" or "locking" sensation
+Get evaluated if:
+- Pain persists >2 weeks despite rest
+- Weakness with arm elevation
+- Pain at night disrupting sleep
+- Numbness or tingling
+- Previous shoulder surgery
 
-## Key Takeaways
+## Summary
 
-1. **External rotation is essential** - the most important exercise category
-2. **Scapular stability matters** - controls shoulder blade during movement
-3. **Stretch tight pecs and lats** - they pull shoulder forward
-4. **Balance your training** - push exercises counter all the pulling
-5. **Manage volume** - most problems are overuse
-6. **Don't swim through pain** - early intervention prevents major issues
+Swimmer's shoulder is preventable and treatable:
 
-Swimmer's shoulder is preventable for most swimmers. A consistent strength and flexibility program, combined with smart training loads, keeps you in the pool for the long term.
+1. **Balance the shoulder** - Strengthen external rotators and scapular stabilizers
+2. **Maintain mobility** - Stretch internal rotators and pecs
+3. **Don't swim through pain** - Early intervention prevents chronic problems
+4. **Technique matters** - Poor form + high volume = injury
+5. **Dryland is essential** - Not optional for serious swimmers
+
+5-10 minutes of daily shoulder work protects your shoulders for thousands of pool hours.
