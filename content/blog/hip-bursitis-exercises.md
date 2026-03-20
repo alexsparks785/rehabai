@@ -1,301 +1,319 @@
 ---
-title: "Hip Bursitis Exercises: Relieve Pain and Strengthen Your Hips"
-description: "Effective exercises for hip bursitis (trochanteric bursitis). Learn stretches, strengthening exercises, and modifications to reduce lateral hip pain."
-date: "2026-03-13"
+title: "Hip Bursitis Exercises: Relieve Trochanteric Pain"
+description: "Complete guide to exercises for hip bursitis. Learn stretches and strengthening to reduce lateral hip pain and prevent recurrence."
+date: "2026-03-20"
 readTime: "9 min read"
+category: "Rehabilitation"
 ---
 
-# Hip Bursitis Exercises: Relieve Pain and Strengthen Your Hips
+# Hip Bursitis Exercises: Relieve Trochanteric Pain
 
-That nagging pain on the outside of your hip that makes it hard to sleep on your side? It's likely hip bursitis—specifically, trochanteric bursitis. The good news: the right exercises can significantly reduce pain and prevent recurrence.
+Hip bursitis—inflammation of the bursa on the outside of the hip—causes lateral hip pain that can make sleeping, walking, and stairs miserable. The right exercises address the underlying causes and provide lasting relief.
 
 ## Understanding Hip Bursitis
 
-Bursae are small, fluid-filled sacs that cushion areas where tendons, muscles, and bones meet. The trochanteric bursa sits on the bony prominence on the outside of your hip (the greater trochanter). When this bursa becomes irritated and inflamed, you get hip bursitis.
+### What's Happening
 
-### Symptoms
+The trochanteric bursa lies between the greater trochanter (hip bone) and the IT band/gluteal tendons. When inflamed:
 
-- Pain on the outside of the hip
-- Tenderness when pressing on the outer hip
-- Pain that worsens when lying on the affected side
-- Pain with stairs, walking, or prolonged standing
-- Pain that radiates down the outer thigh
-- Stiffness after sitting
+- Pain on outer hip
+- Tender to touch
+- Worse lying on that side
+- Aggravated by stairs, walking, rising from chair
 
-### Common Causes
+### Modern Understanding
 
-- Repetitive friction from tight IT band or glute tendons
-- Weak hip abductors (gluteus medius)
-- Overuse from walking, running, or cycling
-- Direct trauma (fall on hip)
-- Leg length discrepancy
-- Poor movement patterns
+Recent research suggests many cases are actually "gluteal tendinopathy" rather than pure bursitis—the tendons are the primary problem. Treatment is similar: strengthen glutes, address biomechanics.
 
-**Key insight:** Hip bursitis is often a symptom of gluteal tendinopathy—the tendons, not just the bursa, are involved. This is why strengthening is essential.
+### Contributing Factors
 
-## What to Avoid Initially
-
-These activities typically aggravate hip bursitis:
-
+- Weak gluteal muscles (especially gluteus medius)
+- Tight IT band
+- Poor hip mechanics
+- Leg length differences
+- Sudden activity increase
 - Sleeping on the affected side
-- Crossing your legs
-- Standing with weight shifted to one hip
-- Deep stretching into hip adduction (leg across body)
-- High-impact activities (running, jumping)
-- Prolonged sitting with legs crossed
 
-## Phase 1: Pain Relief
+## Acute Phase (First 1-2 Weeks)
 
-When pain is significant, focus on reducing irritation.
+### Rest from Aggravators
 
-### Ice and Rest
+- Avoid sleeping on painful side
+- Reduce stairs if possible
+- Limit single-leg standing on affected side
+- Avoid crossing legs
 
-- Ice for 15-20 minutes several times daily
-- Avoid sleeping on the painful side
-- Use a pillow between your knees when side-sleeping
-- Reduce walking distance temporarily
+### Pain Management
 
-### Gentle Stretching (Pain-Free Only)
+**Ice:**
+- 15-20 minutes
+- Several times daily
+- Over lateral hip
 
-**Standing Hip Flexor Stretch:**
-1. Stand in a staggered stance, affected leg back
-2. Tuck your pelvis under (posterior tilt)
-3. Shift weight forward gently
-4. Feel stretch in front of back hip
+**Positioning:**
+- Pillow between knees when side-lying
+- Sleep on non-painful side
+- Avoid prolonged standing
+
+### Gentle Movement
+
+**Supine Hip Circles:**
+1. Lie on back
+2. Lift painful leg slightly
+3. Small circles in air
+4. 10 each direction
+
+**Heel Slides:**
+1. Lie on back
+2. Slide heel toward buttock
+3. Slide back
+4. 10 reps
+
+## Stretching Phase
+
+### IT Band Stretches
+
+**Standing IT Band Stretch:**
+1. Cross painful leg behind other
+2. Lean away from painful side
+3. Feel stretch on outer hip
+4. Hold 30 seconds
+5. 3 reps
+
+**Side-Lying IT Band Stretch:**
+1. Lie on non-painful side
+2. Let top leg drop behind bottom leg
+3. Relax into stretch
+4. Hold 30-60 seconds
+
+### Hip Flexor Stretch
+
+**Kneeling Hip Flexor:**
+1. Kneel on painful side
+2. Other foot forward
+3. Tuck tailbone
+4. Lean forward
 5. Hold 30 seconds
-6. Repeat 3 times
 
-**Avoid:** Deep IT band stretches (crossing leg over) can compress the bursa and worsen symptoms.
+### Piriformis Stretch
 
-### Isometric Hip Abduction
+**Figure-4 Stretch:**
+1. Lie on back
+2. Cross painful ankle over opposite knee
+3. Pull thigh toward chest
+4. Hold 30 seconds
 
-Strengthening without movement:
-1. Lie on your back with knees bent
-2. Place a resistance band or belt around both thighs, just above knees
-3. Push outward against the band without moving
-4. Hold 10 seconds
-5. Repeat 10-15 times
+## Strengthening (Key Phase)
 
-This activates the gluteus medius without irritating the bursa.
+Weak glutes are the primary cause—strengthening is essential.
 
-## Phase 2: Early Strengthening
+### Gluteus Medius Focus
 
-As pain allows, begin targeted strengthening.
-
-### Side-Lying Hip Abduction (Modified)
-
-**Key modification:** Don't lift too high—this compresses the bursa.
-
-1. Lie on your non-painful side
-2. Keep the top leg straight, slightly behind your body
-3. Lift the leg only 6-8 inches (not to full height)
-4. Lead with your heel
-5. Lower slowly
-6. 3 sets of 10-15
-
-### Clamshells (Modified)
-
-1. Lie on your non-painful side
-2. Knees bent, feet together
-3. Lift top knee only halfway up
-4. Don't let pelvis roll back
-5. 3 sets of 15
-
-### Standing Hip Abduction
-
-1. Stand holding a support
-2. Keep your body upright (don't lean)
-3. Lift affected leg out to the side
-4. Only lift 30-45 degrees, not full range
-5. Lower with control
-6. 3 sets of 10
-
-### Glute Bridge
-
-1. Lie on your back, knees bent, feet flat
-2. Squeeze glutes and lift hips
-3. Hold 3-5 seconds at top
+**Side-Lying Hip Abduction:**
+1. Lie on non-painful side
+2. Keep top leg straight
+3. Lift toward ceiling (not too high—30°)
 4. Lower slowly
-5. 3 sets of 15
+5. 15-20 reps, 2-3 sets
 
-### Wall Sit
+**Clamshells:**
+1. Lie on non-painful side
+2. Knees bent, feet together
+3. Lift top knee
+4. Keep pelvis stable
+5. 15-20 reps, 2-3 sets
 
-1. Lean against a wall
-2. Slide down until thighs are parallel to floor (or as far as comfortable)
-3. Keep weight even on both legs
-4. Hold 20-30 seconds
-5. Repeat 3-5 times
+**Standing Hip Abduction:**
+1. Hold support
+2. Lift painful leg to side
+3. Keep pelvis level
+4. 15 reps, 2-3 sets
 
-## Phase 3: Progressive Strengthening
+### Progressive Strengthening
 
-As pain continues to improve, challenge the hip more.
+**Side Plank (Modified):**
+1. On forearm and knees
+2. Lift hips
+3. Hold 15-30 seconds
+4. Progress to feet
 
-### Single-Leg Glute Bridge
+**Single-Leg Bridge:**
+1. Lie on back, knees bent
+2. Lift one leg
+3. Bridge on single leg
+4. 10-12 reps each side
 
-1. Lie on your back
-2. Extend one leg straight
-3. Bridge up on the other leg
-4. Keep hips level—don't let the unsupported side drop
-5. 3 sets of 10 each leg
+**Step-Down:**
+1. Stand on low step
+2. Slowly lower other foot to floor
+3. Control with standing hip
+4. 10-12 reps each side
 
-### Lateral Band Walks
+### Resistance Band Exercises
 
-1. Place band around ankles or above knees
+**Monster Walks:**
+1. Band around ankles
 2. Quarter squat position
-3. Step sideways, maintaining band tension
-4. Keep hips level and toes forward
-5. 2 sets of 15 steps each direction
+3. Walk sideways
+4. 15 steps each direction
 
-### Standing Hip Hinge
+**Band Walks (Forward):**
+1. Band around ankles
+2. Walk forward maintaining tension
+3. 20 steps
 
-1. Stand on one leg (affected side)
-2. Hinge at hip, reaching other leg behind
-3. Keep hips level—this is key
-4. Touch the ground if possible
-5. Return by squeezing glute
-6. 3 sets of 8 each leg
+**Standing External Rotation:**
+1. Band around thighs above knees
+2. Stand, push knees out
+3. Hold 5 seconds
+4. 15 reps
 
-### Step-Ups (Lateral Focus)
+## Isometric Options
 
-1. Stand beside a step
-2. Step up sideways with affected leg
-3. Control the movement—no momentum
-4. Step down slowly
-5. 2 sets of 10 each leg
+Good for pain management:
 
-### Single-Leg Squat to Box
+**Isometric Hip Abduction:**
+1. Lie on side against wall
+2. Push outer thigh into wall
+3. Hold 30-45 seconds
+4. 5 sets
 
-1. Stand in front of a chair or box
-2. Extend one leg forward
-3. Sit back onto the box using one leg
-4. Keep knee tracking over toes
-5. Stand back up
-6. 2 sets of 8 each leg
+**Standing Isometric:**
+1. Painful hip against wall
+2. Push into wall
+3. Hold 30 seconds
+4. 5 reps
 
-## Phase 4: Functional Exercises
+## Exercises to Avoid (Initially)
 
-Prepare for return to full activity.
+### High Risk
 
-### Hip Airplanes
+- Stretches that compress bursa
+- Lying on painful side
+- Deep squats and lunges (until pain decreases)
+- Running or high-impact activities
 
-Balance and hip control:
-1. Stand on one leg
-2. Hinge forward at hip
-3. Rotate your pelvis open, then closed
-4. Keep standing hip level
-5. 10 rotations each leg
+### Modify
 
-### Lateral Lunges
+- Single-leg stance activities
+- Stairs (use handrail)
+- Side-lying exercises (on painful side)
 
-1. Step to the side
-2. Bend the stepping leg, keeping other leg straight
-3. Push back to start
-4. 2 sets of 10 each side
+## Daily Routine
 
-### Single-Leg Deadlift with Weight
+### Morning (10 min)
 
-1. Hold weight in opposite hand from standing leg
-2. Hip hinge pattern
-3. Focus on hip stability—no rotation
-4. 3 sets of 8 each leg
+1. Gentle hip circles: 10 each direction
+2. IT band stretch: 30 sec
+3. Hip flexor stretch: 30 sec
+4. Clamshells: 15 reps
+5. Side-lying abduction: 15 reps
 
-### Squat to Lateral Leg Raise
+### Evening (15 min)
 
-1. Perform a squat
-2. As you stand, lift one leg to the side
-3. Lower leg and squat again
-4. Alternate legs
-5. 2 sets of 10 each side
+1. All stretches: 30 sec each
+2. Clamshells: 2x15
+3. Side-lying abduction: 2x15
+4. Standing abduction: 2x15
+5. Monster walks: 15 steps each direction
+6. Ice if needed: 15 min
 
-## Complete Hip Bursitis Program
+## Sleep Positioning
 
-### Weeks 1-2 (Acute)
+### Best Positions
 
-**Daily:**
-- Ice: 15-20 minutes, 2-3 times
-- Isometric hip abduction: 3 × 10 holds
-- Hip flexor stretch: 3 × 30 seconds
-- Glute bridge: 2 × 10
+**Side-lying (non-painful side):**
+- Pillow between knees
+- Reduces stretch on bursa
+- Most common position
 
-**Sleep:** Pillow between knees, avoid affected side
+**On back:**
+- Pillow under knees
+- May be comfortable
+- Reduces pressure
 
-### Weeks 3-4 (Early Strengthening)
+### Avoid
 
-**Every other day:**
-- Modified side-lying abduction: 3 × 15
-- Clamshells: 3 × 15
-- Standing hip abduction: 3 × 10
-- Glute bridge: 3 × 15
-- Wall sit: 3 × 30 seconds
+- Sleeping on painful side
+- No pillow between knees when side-lying
+- Positions that stretch outer hip
 
-**Continue:** Ice after exercises if sore
+## Activity Modifications
 
-### Weeks 5-8 (Progressive Strengthening)
+### Walking
 
-**3 times per week:**
-- Single-leg glute bridge: 3 × 10 each
-- Lateral band walks: 2 × 15 each way
-- Standing hip hinge: 3 × 8 each
-- Step-ups: 2 × 10 each
-- Single-leg squat to box: 2 × 8 each
+- Continue if not severely painful
+- Avoid prolonged walking initially
+- Progress distance gradually
 
-### Week 9+ (Return to Activity)
+### Stairs
 
-**2-3 times per week:**
-- All Phase 3-4 exercises
-- Add sport-specific movements gradually
-- Maintain hip strength indefinitely
+- Lead with non-painful leg going up
+- Use handrail
+- Reduce if aggravating
 
-## Lifestyle Modifications
+### Exercise Substitutes
 
-### Sleeping
+Instead of running: cycling, swimming, elliptical
+Instead of lunges: mini squats, bridges
+Instead of side-lying: standing exercises
 
-- **Don't:** Sleep on affected side
-- **Do:** Sleep on opposite side with pillow between knees
-- **Alternative:** Sleep on back with pillow under knees
+## Return to Activity
 
-### Sitting
+### Signs You're Ready
 
-- **Don't:** Cross legs, sit on wallet
-- **Do:** Sit with feet flat, weight even
-- **Move:** Stand every 30 minutes
+- Pain significantly reduced
+- Can do strengthening without pain
+- Walking and stairs comfortable
+- Single-leg activities improving
 
-### Standing
+### Gradual Return
 
-- **Don't:** Stand with weight on one hip
-- **Do:** Distribute weight evenly
-- **Check:** Posture throughout the day
+- Add activity slowly
+- 10% increase per week
+- Monitor for pain return
+- Continue maintenance strengthening
 
-### Exercise Modifications
+## Prevention
 
-**Running:** Reduce distance and speed initially; run on softer surfaces
-**Cycling:** Ensure proper bike fit; avoid excessive hip drop
-**Walking:** Shorten stride; avoid hills initially
+### Ongoing Maintenance
+
+- Continue glute strengthening 2-3x/week
+- IT band stretching regularly
+- Address training errors
+- Proper footwear
+
+### Sleep Habits
+
+- Continue pillow between knees
+- Alternate sides
+- Avoid always lying on one hip
 
 ## When to Seek Help
 
-See a healthcare provider if:
+### See a Professional If
 
-- Pain doesn't improve after 4-6 weeks of exercises
-- Pain is severe or worsening
-- You have significant weakness
-- Pain affects daily activities significantly
-- You have hip pain with fever or redness
+- Pain not improving after 4-6 weeks
+- Severe pain
+- Unable to walk or bear weight
+- Night pain disrupting sleep significantly
 
-Additional treatments may include:
-- Corticosteroid injection
+### Treatment Options
+
 - Physical therapy
+- Corticosteroid injection
 - Shockwave therapy
-- Platelet-rich plasma (PRP) injection
+- Rarely: surgery
 
-## Key Takeaways
+## Summary
 
-1. **Strengthening is essential**—weak hips are usually the root cause
-2. **Avoid compression**—don't stretch deep into adduction or sleep on painful side
-3. **Modify your range**—lift legs only partially in early phases
-4. **Ice helps** initially—use after exercises if sore
-5. **Single-leg exercises** are critical for hip stability
-6. **Progress gradually**—rushing leads to flare-ups
-7. **Maintenance continues**—hip weakness returns without ongoing work
+Hip bursitis responds well to targeted exercises:
 
-Hip bursitis responds well to targeted exercise, but it takes patience. The bursa is irritated because of underlying weakness and movement dysfunction. Address those, and the pain resolves. Most people see significant improvement within 6-8 weeks of consistent work.
+1. **Rest from aggravators** - Initially reduce compression
+2. **Stretch tight structures** - IT band, hip flexors
+3. **Strengthen glutes** - The key to lasting relief
+4. **Progress gradually** - Don't rush back to full activity
+5. **Sleep positioning** - Pillow between knees
+6. **Maintain prevention** - Continue exercises long-term
+
+Most hip bursitis resolves with consistent exercise over 4-8 weeks. Patience and proper glute strengthening are the keys to recovery.
