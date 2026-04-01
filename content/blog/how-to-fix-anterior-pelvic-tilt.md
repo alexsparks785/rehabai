@@ -1,244 +1,323 @@
 ---
-title: "How to Fix Anterior Pelvic Tilt: Exercises and Stretches"
-description: "Learn how to identify and correct anterior pelvic tilt with targeted stretches and strengthening exercises. Fix your posture and reduce back pain."
-date: "2026-03-24"
-readingTime: "9 min read"
+title: "How to Fix Anterior Pelvic Tilt: Complete Exercise Guide"
+description: "Learn how to fix anterior pelvic tilt with targeted stretches and exercises. Understand which muscles are tight, which are weak, and the exact protocol to restore neutral pelvis position."
+date: "2026-04-01"
+author: "Dr. Sarah Chen, PT, DPT"
+tags: ["anterior pelvic tilt", "posture correction", "hip flexors", "glutes", "core exercises"]
+readingTime: "10 min read"
 ---
 
-# How to Fix Anterior Pelvic Tilt: Exercises and Stretches
+# How to Fix Anterior Pelvic Tilt: Complete Exercise Guide
 
-Anterior pelvic tilt is one of the most common postural issues—and one of the most misunderstood. Your pelvis tips forward, your belly pushes out, your lower back over-arches, and your butt sticks out. It's not about weight; it's about muscle imbalances.
+Anterior pelvic tilt (APT) is one of the most common postural dysfunctions, affecting a huge portion of the population—especially those who sit for long periods. That exaggerated lower back curve and "pooch belly" often isn't excess fat; it's your pelvis tilting forward.
 
-The good news: it's very fixable with the right approach.
+This guide provides the exact protocol to fix anterior pelvic tilt through targeted stretching and strengthening.
 
 ## What Is Anterior Pelvic Tilt?
 
-Your pelvis is like a bowl. In neutral position, it sits level. With anterior pelvic tilt (APT), the front of the bowl tips down and the back tips up.
+Imagine your pelvis as a bowl of water. In anterior pelvic tilt, the front of the bowl tips down, spilling water forward. This creates:
 
-**Visual signs:**
-- Belly protrudes forward (even if you're lean)
-- Excessive curve in lower back
-- Butt sticks out
-- Belt line angles down in front
+- Exaggerated lumbar lordosis (lower back curve)
+- Protruding abdomen (even in lean individuals)
+- Shortened hip flexors
+- Lengthened, weakened glutes and abs
 
-**The Thomas Test (Self-Check):**
+**The degree:** Normal pelvic tilt is 4-7 degrees forward. APT is typically 10+ degrees—enough to visibly affect posture and cause problems.
+
+## The Muscle Imbalance Pattern
+
+APT follows a predictable pattern:
+
+### Tight/Overactive Muscles (Pull Pelvis Forward)
+
+1. **Hip flexors (iliopsoas, rectus femoris)** — shortened from sitting
+2. **Erector spinae (lower back)** — overworking to maintain position
+3. **Quadriceps** — especially rectus femoris
+
+### Weak/Lengthened Muscles (Can't Pull Pelvis Back)
+
+1. **Glutes (maximus and medius)** — inhibited and weak
+2. **Abdominals** — especially lower abs, can't posteriorly tilt
+3. **Hamstrings** — often lengthened (despite feeling "tight")
+
+**The cycle:** Tight hip flexors pull the pelvis forward → glutes become inhibited → abs can't counterbalance → lower back overworks → posture worsens → more sitting → repeat.
+
+## Self-Assessment: Do You Have APT?
+
+### The Wall Test
+
+1. Stand with back against wall, heels 6 inches away
+2. Press lower back toward wall
+3. Can you flatten your lower back completely?
+4. How much space is between your lower back and wall?
+
+**Results:**
+- Minimal space, easy to flatten = normal
+- Large space (can fit whole hand), difficult to flatten = likely APT
+
+### The Thomas Test
+
 1. Lie on back at edge of bed/table
-2. Pull one knee to chest, hold it there
-3. Let the other leg hang off the edge
-4. If that thigh rises above parallel, you likely have APT
+2. Pull one knee to chest, hold
+3. Let other leg hang off edge
+4. Observe hanging leg position
 
-## Why It Happens
+**Results:**
+- Thigh drops below horizontal = tight hip flexors
+- Knee straightens excessively = tight rectus femoris
+- Both = significant APT pattern
 
-APT is a pattern of muscle imbalances:
+### Visual Assessment
 
-**Tight/Overactive:**
-- Hip flexors (psoas, iliacus, rectus femoris)
-- Lower back extensors (erector spinae)
+- Stand sideways in mirror
+- Draw imaginary line from hip bone (ASIS) to pubic bone
+- This line should be nearly vertical
+- Forward angle indicates APT
 
-**Weak/Inhibited:**
-- Abdominals (especially lower abs)
-- Glutes (gluteus maximus)
-- Hamstrings
+## The Complete APT Correction Protocol
 
-**Common Causes:**
-- Prolonged sitting (shortens hip flexors)
-- Weak core from inactivity
-- Standing with weight on toes
-- High heels
-- Hypermobility
+### Phase 1: Release and Stretch (Do Daily)
 
-## Why It Matters
-
-APT isn't just cosmetic. It can cause:
-
-- **Lower back pain:** Compressed facet joints, tight muscles
-- **Hip pain:** Altered hip mechanics
-- **Tight hamstrings:** They're constantly stretched, not actually short
-- **Poor posture chain:** Affects everything above it
-- **Reduced athletic performance:** Compromised glute function
-
-## The Fix: Four Components
-
-You need all four to actually correct APT:
-
-1. **Stretch** tight hip flexors and lower back
-2. **Strengthen** weak abs and glutes
-3. **Activate** inhibited muscles
-4. **Retrain** pelvic position awareness
-
-### Part 1: Stretch Tight Muscles
+#### Hip Flexor Stretches
 
 **Half-Kneeling Hip Flexor Stretch**
-- Kneel on one knee, other foot forward
-- **Key:** Tuck pelvis under FIRST (posterior tilt)
-- Then lean forward slightly
-- Feel stretch in front of back hip
-- Hold 60-90 seconds each side
-- **Do:** 2-3x daily
+1. Kneel on one knee, other foot forward
+2. Tuck tailbone under (posterior pelvic tilt)
+3. Shift weight forward while maintaining tuck
+4. Feel stretch in front of hip
+5. Hold 60-90 seconds each side
+6. Repeat 2-3x daily
 
-**Couch Stretch (Intense)**
-- Kneel facing away from wall/couch
-- Put back foot up on wall, shin against it
-- Front foot forward
-- Work toward upright torso
-- Hold 60-90 seconds each side
-- **Do:** Daily if tolerated
+*Key point:* The posterior pelvic tilt is ESSENTIAL. Without it, you're not actually stretching the hip flexors.
 
-**Rectus Femoris Stretch**
-- Side lying, grab top ankle
-- Pull heel toward butt
-- Extend hip back (don't just pull heel up)
-- Hold 60 seconds each side
+**Couch Stretch (Rectus Femoris Focus)**
+1. Kneel facing away from couch/wall
+2. Place back foot on couch, toes up
+3. Bring front foot forward into lunge
+4. Squeeze glute, tuck pelvis
+5. Hold 60-90 seconds each side
 
-**Lower Back Release**
-- Child's pose with arms extended
-- Focus on flattening lower back
-- Hold 60-90 seconds
-- **Do:** After any back tightness
+*Progression:* Start against wall, progress to couch as flexibility improves.
 
-### Part 2: Strengthen Weak Muscles
+#### Hip Flexor Release
+
+**Psoas Release**
+1. Lie face down on lacrosse ball
+2. Position ball just inside hip bone
+3. GENTLY sink into ball (this area is sensitive)
+4. Hold tender spots 60-90 seconds
+5. Can add gentle leg movements
+
+*Caution:* Go easy—the psoas area has blood vessels and nerves. Gentle sustained pressure, not aggressive digging.
+
+**Quad/Rectus Femoris Release**
+1. Foam roller or ball on front of thigh
+2. Work from hip to knee
+3. Pause on tender spots
+4. Can bend and straighten knee while on tender spot
+
+#### Lower Back Release
+
+**Foam Roller for Erectors**
+1. Foam roller under lower back
+2. Gently roll from mid-back to pelvis
+3. Don't hyperextend—keep core engaged
+4. Focus on releasing tension, not creating pain
+
+### Phase 2: Activate and Strengthen (Do 3-4x/Week)
+
+#### Glute Activation
+
+**Glute Bridges with Posterior Pelvic Tilt**
+1. Lie on back, knees bent, feet flat
+2. FIRST: tuck tailbone (flatten lower back)
+3. THEN: lift hips by squeezing glutes
+4. Hold top for 3 seconds, squeeze glutes hard
+5. Lower with control
+6. 3 sets of 15 reps
+
+*Key point:* The posterior pelvic tilt before lifting is crucial. This ensures glutes do the work, not lower back.
+
+**Single-Leg Glute Bridge**
+1. Same as above, but one leg extended
+2. Maintain level hips (don't let pelvis drop)
+3. 3 sets of 10-12 each side
+
+**Hip Thrust Progression**
+1. Back on bench, feet on floor
+2. Posterior tilt, then thrust hips up
+3. Squeeze glutes at top
+4. Progress by adding weight
+5. 3 sets of 10-12
+
+#### Core/Abdominal Strengthening
 
 **Dead Bug**
-- Lie on back, arms up, knees bent 90°
-- Press lower back INTO floor (eliminate gap)
-- Lower opposite arm and leg while maintaining flat back
-- If back arches, you've gone too far
-- 10 each side, 3 sets
-- **Key:** Maintain posterior pelvic tilt throughout
+1. Lie on back, arms up, knees at 90°
+2. Press lower back into floor (posterior tilt)
+3. MAINTAIN this position throughout
+4. Slowly lower opposite arm and leg
+5. Return, repeat other side
+6. 3 sets of 8-10 each side
 
-**Reverse Crunch**
-- Lie on back, knees bent
-- Use lower abs to tilt pelvis up (curl tailbone off floor)
-- Don't use momentum
-- 15 reps, 3 sets
-- **Key:** Trains the exact motion you're missing
+*Key point:* If your lower back arches off the floor, you've gone too far. Reduce range of motion.
 
-**Glute Bridge with Posterior Tilt**
-- Lie on back, knees bent
-- Flatten lower back into floor FIRST
-- Then lift hips while maintaining flat back
-- Squeeze glutes hard at top
-- 15 reps, 3 sets
-
-**Hip Thrust**
-- Upper back on bench/couch, feet on floor
-- Drive hips up by squeezing glutes
-- Don't hyperextend—think of tucking pelvis at top
-- 12 reps, 3 sets
+**Reverse Crunch/Posterior Pelvic Tilt**
+1. Lie on back, knees bent
+2. Use abs to tilt pelvis posteriorly (flatten back)
+3. Lift hips slightly off floor
+4. Focus on LOWER abs doing the work
+5. 3 sets of 15
 
 **Plank with Posterior Tilt**
-- Forearm plank
-- Squeeze glutes and tuck pelvis slightly (reduce arch)
-- Hold 30-45 seconds, 3 sets
-- **Key:** Most people plank with APT—don't
+1. Standard plank position
+2. Tuck tailbone under (squeeze glutes, engage abs)
+3. Eliminate any lower back sag
+4. Hold 30-60 seconds
+5. 3 sets
 
-**RKC Plank**
-- Forearm plank but harder
-- Squeeze glutes maximally, pull elbows toward toes
-- Everything tight
-- Hold 15-20 seconds, 3 sets
+*Key point:* Most people plank with APT intact. Actively tuck the pelvis to reinforce the correction.
 
-### Part 3: Activation Work
+**Pallof Press (Anti-Rotation)**
+1. Cable or band at chest height
+2. Press straight out, resist rotation
+3. Maintain posterior pelvic tilt throughout
+4. 3 sets of 10-12 each side
 
-**Glute Squeezes**
-- Standing, squeeze glutes as hard as possible
-- Hold 10 seconds
-- 10 reps
-- **When:** Throughout the day, any time
+#### Hamstring Strengthening
 
-**Wall Press Abs**
-- Stand with back against wall
-- Press lower back into wall by using abs
-- Hold 10 seconds
-- 10 reps
-- **Why:** Teaches pelvic position in standing
+Despite often feeling tight, hamstrings in APT are usually LENGTHENED and weak.
 
-**Supine Pelvic Tilts**
-- Lie on back, knees bent
-- Flatten lower back into floor (posterior tilt)
-- Then arch (anterior tilt)
-- Feel the difference, practice the posterior position
-- 20 cycles
+**Romanian Deadlift**
+1. Stand tall, slight knee bend
+2. Hip hinge, pushing hips back
+3. Feel hamstring stretch, not lower back
+4. Squeeze glutes to return
+5. 3 sets of 10-12
 
-### Part 4: Position Retraining
+**Nordic Hamstring Curl**
+1. Kneel, partner holds ankles
+2. Slowly lower body forward
+3. Hamstrings control descent
+4. 3 sets of 5-8 (progress slowly)
 
-**Standing Posture Check**
-- Stand against wall, heels 2 inches from wall
-- Back of head, upper back, and butt touch wall
-- Check lower back gap—should be about one hand thickness
-- If bigger, tuck pelvis to reduce
-- Practice this position frequently
+### Phase 3: Integrate and Maintain
 
-**Sitting Posture**
-- Sit on sitting bones, not tailbone
-- Avoid leaning back excessively
-- Feel abdominals lightly engaged
+#### Postural Awareness
 
-**Walking Awareness**
-- Engage glutes with each step
-- Think of leading with hips, not chest
-- Avoid over-arching when tired
+**Hourly Check-Ins**
+Set reminder to check pelvis position hourly:
+- Stand up
+- Find neutral pelvis (tuck slightly from APT position)
+- Engage lower abs gently
+- This is your new "home base"
 
-## Daily Routine
+**Seated Posture**
+- Sit on sit bones, not tailbone
+- Slight lumbar support (towel roll if needed)
+- Avoid slumping OR excessive arching
 
-**Morning (5 minutes):**
-- Pelvic tilts x 15
-- Dead bug x 10 each side
-- Hip flexor stretch 45 sec each
+#### Movement Integration
 
-**During Day:**
-- Glute squeezes whenever you think of it
-- Posture checks hourly
-- Wall press abs when standing
+**Squatting with Neutral Pelvis**
+- Set up with neutral pelvis before squatting
+- Maintain throughout movement
+- Don't let pelvis tip forward at bottom
 
-**Evening (15 minutes):**
-- Full hip flexor stretches (couch stretch if possible)
-- Dead bug 3x10 each side
-- Glute bridge with tilt 3x15
-- Plank with posterior tilt 3x30sec
-- Child's pose 60 sec
+**Walking/Running**
+- Slight posterior tilt awareness
+- Don't overarch lower back
+- Allow natural movement but avoid excessive APT
+
+## The Daily Protocol Summary
+
+### Morning (5-10 minutes)
+- Hip flexor stretch: 60-90 sec each side
+- Glute bridges: 2 sets of 15
+- Dead bugs: 2 sets of 8 each side
+
+### Throughout Day
+- Hourly posture checks
+- Standing/moving breaks from sitting
+- Awareness of pelvic position
+
+### Evening/Workout (15-20 minutes, 3-4x/week)
+- Full stretching routine
+- Complete strengthening protocol
+- Hip flexor release if needed
 
 ## Common Mistakes
 
-**Only stretching hip flexors:** You need strengthening too. Stretching alone provides temporary relief.
+### 1. Only Stretching Hip Flexors
 
-**Stretching hamstrings:** They feel tight but they're actually lengthened. Don't stretch them—strengthen them.
+Stretching alone won't fix APT. You MUST strengthen glutes and abs, or the pelvis has nothing to pull it back.
 
-**Doing crunches:** Traditional crunches don't address APT effectively. Reverse crunches and dead bugs are better.
+### 2. Stretching "Tight" Hamstrings
 
-**Planking with anterior tilt:** If your lower back arches in plank, you're reinforcing the problem.
+In APT, hamstrings feel tight because they're LENGTHENED over the tilted pelvis. Stretching them more can worsen the problem. Focus on strengthening instead.
 
-**Expecting quick results:** This pattern took years to develop. Give it 8-12 weeks of consistent work.
+### 3. Forgetting the Posterior Pelvic Tilt
 
-## Timeline
+During exercises, actively maintain posterior tilt. Otherwise, you're just reinforcing the existing pattern.
 
-**Week 1-2:** Learning the exercises and positions. Temporary improvement from stretching.
+### 4. Expecting Quick Results
 
-**Week 2-4:** Building strength. Starting to catch yourself in APT more often.
+APT develops over years. Correction takes months of consistent work. Expect 8-12 weeks for significant change.
 
-**Week 4-8:** Visible improvement. Neutral position feels more natural.
+### 5. Only Working Out, Not Living It
 
-**Week 8-12:** Significant change for most people. New pattern becoming default.
+Exercises matter, but posture throughout the day matters more. 30 minutes of exercise can't overcome 10 hours of poor sitting.
 
-**Ongoing:** Maintenance exercises 3x/week. Position awareness becomes automatic.
+## Progression Timeline
 
-## Red Flags
+**Weeks 1-2:** Focus on mobility and activation
+- Hip flexor stretching (daily)
+- Glute bridges (daily)
+- Learning posterior pelvic tilt
 
-See a professional if:
-- Significant lower back pain that doesn't improve
-- Pain radiating down legs
-- Numbness or tingling
-- Pain that's getting progressively worse
-- History of spinal conditions
+**Weeks 3-6:** Add strengthening
+- Progress glute exercises
+- Add core work
+- Begin postural awareness
+
+**Weeks 7-12:** Integration
+- Heavier strengthening
+- Movement pattern correction
+- Habitual posture change
+
+**Ongoing:** Maintenance
+- Continue strengthening 2-3x/week
+- Daily stretching as needed
+- Permanent postural awareness
+
+## When to Seek Help
+
+Consider professional evaluation if:
+- Significant lower back pain
+- Symptoms not improving after 6-8 weeks
+- Difficulty performing exercises correctly
+- History of back injury or surgery
 
 ## The Bottom Line
 
-Anterior pelvic tilt is a muscle imbalance problem:
-- **Stretch:** Hip flexors and lower back
-- **Strengthen:** Abs and glutes
-- **Activate:** Practice using the right muscles
-- **Retrain:** Build awareness of pelvic position
+Fixing anterior pelvic tilt requires:
 
-It's not complicated, but it requires consistency. 15-20 minutes daily for 8-12 weeks will make a significant difference.
+**Stretch:**
+- Hip flexors (iliopsoas and rectus femoris)
+- Lower back (erector spinae)
 
-Your body learned APT over years of sitting. It can learn neutral position too—you just have to teach it.
+**Strengthen:**
+- Glutes (maximus and medius)
+- Abdominals (especially lower)
+- Hamstrings (they're weak, not just tight)
+
+**Integrate:**
+- Postural awareness throughout the day
+- Neutral pelvis in all movements
+- Consistency over months, not days
+
+The formula is simple: release what's tight, strengthen what's weak, practice the new position. APT is correctable—it just takes consistent effort over time.
+
+---
+
+*Ready to fix your anterior pelvic tilt? Explore our [posture correction programs](/programs) designed to systematically restore neutral pelvic alignment.*
