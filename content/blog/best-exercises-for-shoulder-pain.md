@@ -1,387 +1,281 @@
 ---
-title: "Best Exercises for Shoulder Pain: Evidence-Based Guide"
-description: "Discover the best exercises for shoulder pain backed by research. Learn which movements help impingement, rotator cuff issues, and frozen shoulder, and how to build a safe shoulder routine."
-date: "2026-04-01"
-author: "Dr. Sarah Chen, PT, DPT"
-tags: ["shoulder pain", "rotator cuff", "shoulder exercises", "impingement", "rehabilitation"]
-readingTime: "11 min read"
+title: "Best Exercises for Shoulder Pain: Relief and Rehabilitation"
+description: "Shoulder pain limits daily activities and sleep. Learn effective exercises to reduce pain, restore mobility, and strengthen your shoulders safely."
+date: "2026-04-09"
 ---
 
-# Best Exercises for Shoulder Pain: Evidence-Based Guide
+# Best Exercises for Shoulder Pain: Relief and Rehabilitation
 
-Shoulder pain affects approximately 18-26% of adults, making it one of the most common musculoskeletal complaints. Whether you have impingement, rotator cuff tendinopathy, or general shoulder pain, **targeted exercises are the first-line treatment**—often more effective than injections or surgery.
+Shoulder pain affects millions of people, limiting everything from reaching overhead to sleeping comfortably. The shoulder is the most mobile joint in the body, which also makes it vulnerable. Fortunately, most shoulder pain responds well to targeted exercises that restore mobility, reduce tension, and build strength.
 
-This guide covers the best evidence-based exercises for shoulder pain and how to implement them safely.
+## Understanding Shoulder Pain
 
-## Why Exercise Works for Shoulder Pain
+The shoulder is a complex joint involving multiple structures:
 
-Research consistently shows:
-- Exercise is as effective as surgery for most rotator cuff tears
-- Progressive loading helps tendinopathy heal
-- Scapular training addresses root causes
-- Strength gains correlate with pain reduction
+**Rotator cuff**: Four muscles that stabilize and move the shoulder
+**Deltoids**: Large muscles that provide shoulder power
+**Labrum**: Cartilage ring that deepens the socket
+**Bursa**: Fluid-filled sacs that reduce friction
+**Biceps tendon**: Attaches to the shoulder and can be a pain source
 
-**The key insight:** The shoulder needs movement to heal. Avoiding all activity often makes things worse.
+Common causes of shoulder pain include:
+- Rotator cuff tendinitis or tears
+- Impingement syndrome
+- Frozen shoulder (adhesive capsulitis)
+- Bursitis
+- Arthritis
+- Muscle strains
+- Poor posture
 
-## Understanding Your Shoulder Pain
+## When to Exercise (And When Not To)
 
-### Impingement Pattern (Most Common)
+**Exercise is appropriate when**:
+- Pain is mild to moderate
+- Pain improves with gentle movement
+- No significant trauma preceded the pain
+- You have full or near-full range of motion
 
-**Symptoms:** Pain with overhead reaching, painful arc (60-120°)
-**Cause:** Subacromial space narrowing, usually from muscle imbalance
-**Focus:** Restore scapular mechanics, strengthen rotator cuff
+**See a doctor first if**:
+- Pain is severe or sudden
+- Significant weakness is present
+- You can't lift your arm
+- Pain followed a fall or injury
+- Numbness or tingling occurs
+- Pain persists more than 2-3 weeks despite rest
 
-### Rotator Cuff Tendinopathy
+## Phase 1: Pain Relief and Mobility
 
-**Symptoms:** Pain with reaching, weakness, night pain
-**Cause:** Tendon overload exceeding recovery capacity
-**Focus:** Progressive loading (the tendon needs load to heal)
+Start here when pain is present. Focus on gentle movements and reducing tension.
 
-### Frozen Shoulder (Adhesive Capsulitis)
+### Pendulum Exercises
 
-**Symptoms:** Progressive stiffness in all directions
-**Cause:** Capsular inflammation and fibrosis
-**Focus:** Gentle stretching, pendulums, gradual range restoration
+**Why it helps**: Gentle decompression and movement without muscle activation.
 
-### General Shoulder Pain
-
-**Symptoms:** Vague pain, multiple contributing factors
-**Focus:** Address posture, strengthen rotator cuff and scapular muscles
-
-## The Best Exercises for Shoulder Pain
-
-### Tier 1: Foundational Exercises (Start Here)
-
-#### 1. Pendulum Exercises
-
-**Why it works:** Provides gentle movement without loading—great for acute pain.
-
-**How to perform:**
-1. Lean forward, support with non-painful arm on table
+**How to do it**:
+1. Lean forward, supporting yourself with one hand on a table
 2. Let painful arm hang freely
-3. Gently swing arm in small circles
-4. Gradually increase circle size
-5. 1-2 minutes, multiple times daily
+3. Gently swing arm in small circles (clockwise and counterclockwise)
+4. Swing forward-and-back, then side-to-side
+5. Continue for 1-2 minutes
 
-**Key point:** Completely passive—let momentum and gravity do the work.
+### Passive Range of Motion
 
-#### 2. Passive/Assisted Range of Motion
+**External rotation stretch**:
+1. Lie on back, elbow bent 90 degrees at side
+2. Use other hand to gently rotate forearm outward
+3. Hold 20-30 seconds
+4. Don't force through pain
 
-**Why it works:** Maintains mobility during painful phase.
+**Cross-body stretch**:
+1. Bring affected arm across chest
+2. Use other hand to gently pull at elbow
+3. Hold 20-30 seconds
+4. Feel stretch in back of shoulder
 
-**How to perform:**
-1. Use non-painful arm to move painful arm
-2. Forward flexion: lying down, use good arm to lift painful arm
-3. External rotation: lying down, use stick to rotate arm out
-4. Move to point of gentle stretch, not pain
-5. Hold 10-30 seconds, repeat 5-10 times
+**Towel stretch (internal rotation)**:
+1. Hold towel behind back, one hand over shoulder, one at lower back
+2. Gently pull down with lower hand
+3. Feel stretch in front of shoulder
+4. Hold 20-30 seconds
 
-### Tier 2: Rotator Cuff Strengthening
+### Doorway Chest Stretch
 
-#### 3. Side-Lying External Rotation
+**Why it helps**: Tight chest pulls shoulders forward, contributing to impingement.
 
-**Why it works:** Isolates infraspinatus and teres minor (often weak).
+**How to do it**:
+1. Stand in doorway
+2. Place forearm on door frame, elbow at shoulder height
+3. Step forward through doorway
+4. Feel stretch across chest
+5. Hold 30 seconds, repeat both sides
 
-**How to perform:**
-1. Lie on non-painful side
-2. Elbow bent 90°, arm at waist
-3. Rotate forearm up toward ceiling
-4. Keep elbow at side throughout
-5. 3 sets of 15, light weight
+## Phase 2: Activation and Light Strengthening
 
-**Key point:** Start with no weight. Progress very slowly.
+Progress here when acute pain subsides and basic mobility improves.
 
-#### 4. Prone External Rotation (90/90 Position)
+### Isometric Rotator Cuff Exercises
 
-**Why it works:** Challenges external rotators in elevated position.
+**Why it helps**: Builds strength without movement—safer when still recovering.
 
-**How to perform:**
-1. Lie face down, arm hanging off edge at 90°
-2. Elbow bent 90°
-3. Rotate forearm from hanging to horizontal
-4. 3 sets of 15, light weight
-
-**Progression:** Only when basic side-lying is easy.
-
-#### 5. Sidelying Internal Rotation
-
-**Why it works:** Strengthens subscapularis (though usually not the weak link).
-
-**How to perform:**
-1. Lie on painful side
-2. Elbow bent 90° at waist
-3. Rotate forearm up toward ceiling
-4. 3 sets of 15, light weight
-
-**Note:** Most people are internally rotated dominant, so external rotation takes priority.
-
-#### 6. Isometric External Rotation
-
-**Why it works:** Builds strength without movement—good for painful shoulders.
-
-**How to perform:**
-1. Stand next to wall, elbow bent 90°
+**External rotation isometric**:
+1. Stand sideways to wall, elbow at side bent 90 degrees
 2. Press back of hand into wall
-3. Hold 10-30 seconds
-4. 5-10 reps
+3. Hold 10 seconds
+4. Repeat 10 times
 
-### Tier 3: Scapular Strengthening (Critical)
+**Internal rotation isometric**:
+1. Stand with elbow at side, bent 90 degrees
+2. Place palm against door frame
+3. Press into frame
+4. Hold 10 seconds
+5. Repeat 10 times
 
-The scapula is the foundation of shoulder health. Most shoulder pain involves scapular dysfunction.
+### Scapular Squeezes
 
-#### 7. Prone Y Raises
+**Why it helps**: Activates muscles that position the shoulder blade properly.
 
-**Why it works:** Targets lower trapezius—often the weakest link.
+**How to do it**:
+1. Sit or stand tall
+2. Squeeze shoulder blades together
+3. Hold 5 seconds
+4. Release
+5. Repeat 15-20 times
 
-**How to perform:**
-1. Lie face down, arms overhead in Y position
-2. Thumbs pointing up
-3. Lift arms by squeezing lower traps
-4. Hold 2-3 seconds at top
-5. 3 sets of 15
+### Wall Slides
 
-**Key point:** The movement comes from your back, not your arms pulling.
+**Why it helps**: Builds coordination and control of shoulder blade movement.
 
-#### 8. Prone T Raises
-
-**Why it works:** Targets middle trapezius and rhomboids.
-
-**How to perform:**
-1. Lie face down, arms out to sides (T position)
-2. Thumbs up
-3. Lift arms by squeezing shoulder blades
-4. 3 sets of 15
-
-#### 9. Face Pulls with External Rotation
-
-**Why it works:** Best combination exercise for shoulder health.
-
-**How to perform:**
-1. Cable or band at face height
-2. Pull toward face, elbows high and wide
-3. At end range, externally rotate (hands back)
-4. Squeeze shoulder blades
-5. 3 sets of 15-20
-
-**This exercise is gold.** It trains scapular retraction, external rotation, and lower trap activation simultaneously.
-
-#### 10. Wall Slides
-
-**Why it works:** Integrates scapular movement with arm elevation.
-
-**How to perform:**
+**How to do it**:
 1. Stand with back against wall
-2. Arms in "goal posts" (90°)
-3. MAINTAIN contact with wall
-4. Slide arms up overhead
-5. 3 sets of 15
+2. Arms in "goal post" position against wall
+3. Slowly slide arms up and down, keeping contact with wall
+4. 10-15 slow reps
+5. If painful, reduce range
 
-**Key point:** If arms come off wall, you're too tight. Reduce range.
+### Low Row Position Holds
 
-#### 11. Serratus Anterior Exercises
+**Why it helps**: Strengthens lower traps and rhomboids that support good shoulder position.
 
-**Push-Up Plus:**
-1. Push-up position (or on knees)
-2. At top of push-up, push FURTHER (protract scapulae)
-3. Control return
-4. 3 sets of 15
+**How to do it**:
+1. Stand with arms at sides
+2. Squeeze shoulder blades down and back
+3. Imagine putting shoulder blades in back pockets
+4. Hold 10 seconds
+5. Repeat 10 times
 
-**Wall Serratus Slides:**
-1. Forearms on wall, elbows bent
-2. Slide arms up while pushing into wall
-3. Feel serratus working along rib cage
-4. 3 sets of 15
+## Phase 3: Progressive Strengthening
 
-### Tier 4: Stretching and Mobility
+Progress here when pain is minimal and you have good range of motion.
 
-#### 12. Doorway Pec Stretch
+### Band External Rotation
 
-**Why it works:** Tight pecs pull shoulders forward, worsening impingement.
+**Why it helps**: Directly strengthens rotator cuff external rotators—often weak.
 
-**How to perform:**
-1. Arm on doorframe at 90°
-2. Step through, rotate body away
-3. Feel stretch across chest
-4. Hold 30-60 seconds each side
-5. Vary arm height to stretch different fibers
+**How to do it**:
+1. Attach resistance band at elbow height
+2. Stand sideways to anchor, elbow at side bent 90 degrees
+3. Rotate forearm outward against band resistance
+4. Control the return
+5. 15-20 reps, 2-3 sets
 
-#### 13. Sleeper Stretch (Cautious)
+### Band Internal Rotation
 
-**Why it works:** Stretches posterior capsule (if tight).
+**Why it helps**: Strengthens internal rotators, balancing the rotator cuff.
 
-**How to perform:**
-1. Lie on painful side
-2. Arm in front at 90°
-3. Use other hand to gently push forearm toward floor
-4. Hold 30 seconds
+**How to do it**:
+1. Same setup, but rotate forearm inward
+2. Keep elbow pinned to side
+3. 15-20 reps, 2-3 sets
 
-**Caution:** Controversial—can aggravate some shoulders. Skip if painful.
+### Face Pulls
 
-#### 14. Cross-Body Stretch
+**Why it helps**: Strengthens rear delts and external rotators, corrects posture.
 
-**Why it works:** Stretches posterior shoulder.
+**How to do it**:
+1. Attach band at face height
+2. Pull toward face, separating hands
+3. Squeeze shoulder blades, rotate shoulders externally
+4. 15-20 reps, 2-3 sets
 
-**How to perform:**
-1. Bring arm across body at shoulder height
-2. Use other arm to pull gently
-3. Hold 30 seconds each side
+### Prone Y-T-W Raises
 
-#### 15. Lat Stretch
+**Why it helps**: Builds lower trap and rotator cuff strength.
 
-**Why it works:** Tight lats limit overhead mobility.
+**How to do it**:
+1. Lie face down on bench or floor
+2. **Y**: Raise arms overhead at 45-degree angle, thumbs up
+3. **T**: Raise arms straight out to sides, thumbs up
+4. **W**: Bend elbows, raise arms with external rotation
+5. Hold each position 3-5 seconds
+6. 8-10 reps of each position
 
-**How to perform:**
-1. Grab doorframe or pole
-2. Step back, hinge at hips
-3. Let arm straighten, drop chest
-4. Hold 30-60 seconds each side
+### Side-Lying External Rotation
 
-### Tier 5: Progressive Loading (For Tendinopathy)
+**Why it helps**: Isolates external rotators without compensation.
 
-#### 16. Isometric Holds (Various Positions)
+**How to do it**:
+1. Lie on non-painful side
+2. Upper arm rests on side, elbow bent 90 degrees
+3. Hold light weight (2-5 lbs)
+4. Rotate forearm up toward ceiling
+5. Lower with control
+6. 15 reps, 2-3 sets
 
-**Why it works:** Loads tendon without movement—often well-tolerated.
+## Phase 4: Functional Strengthening
 
-**How to perform:**
-1. Find a position that's somewhat painful
-2. Hold against resistance at that position
-3. 30-45 seconds, moderate effort
-4. 3-5 sets
+Progress here when basic strength is established without pain.
 
-**Key point:** Isometrics can provide immediate pain relief.
+### Push-Up Progressions
 
-#### 17. Eccentric Training
+Start with wall push-ups, progress to incline, then floor.
 
-**Why it works:** Eccentrics stimulate tendon remodeling.
+**Push-up plus**: At top of push-up, round upper back slightly, pushing shoulder blades apart. This strengthens serratus anterior.
 
-**How to perform:**
-1. Lift with good arm (concentric)
-2. Lower slowly with painful arm (eccentric)
-3. 3 seconds down
-4. 3 sets of 15
+### Rows
 
-**Progress:** Gradually allow painful arm to do more of the lifting.
+Any row variation strengthens the muscles that support healthy shoulder position.
 
-## The 2:1 Rule
+**Key points**: Squeeze shoulder blades at end range, don't shrug shoulders.
 
-For long-term shoulder health:
+### Overhead Press (If Pain-Free)
 
-**For every pushing exercise, do TWO pulling exercises.**
+Progress cautiously. Start with light weight, partial range, progress to full range.
 
-- 1 set bench press → 2 sets rows
-- 1 set overhead press → 2 sets face pulls
-- 1 set push-ups → 2 sets band pull-aparts
+**Landmine press**: Pressing at an angle is often better tolerated than straight overhead.
 
-Most people have this backwards, creating the muscle imbalances that cause shoulder problems.
+## Sample Rehabilitation Progression
 
-## Daily Shoulder Protocol
+**Week 1-2 (Acute Phase)**:
+- Pendulums: 2 minutes, 2x daily
+- Passive stretches: 30 seconds each, 2x daily
+- Ice after exercise if needed
 
-### Morning (5 minutes)
-- Pendulums (if acute): 1-2 minutes
-- Face pulls or band pull-aparts: 20 reps
-- External rotation: 1 set of 15
+**Week 2-4 (Activation Phase)**:
+- Continue mobility work
+- Add isometric rotator cuff: 3 × 10 holds
+- Scapular squeezes: 2 × 15
+- Wall slides: 2 × 10
 
-### Strength Session (15-20 minutes, 3x/week)
-- Prone Y-T raises: 2 sets of 15
-- Side-lying external rotation: 3 sets of 15
-- Face pulls: 3 sets of 15
-- Wall slides: 2 sets of 15
-- Push-up plus: 2 sets of 15
-- Pec stretch: 60 seconds each side
+**Week 4-8 (Strengthening Phase)**:
+- Band external/internal rotation: 3 × 15
+- Face pulls: 3 × 15
+- Prone Y-T-W: 2 × 10 each
+- Side-lying external rotation: 3 × 15
 
-### Daily Maintenance
-- Band pull-aparts: 30-50 reps throughout day
-- Posture awareness
-- Regular movement breaks
+**Week 8+ (Functional Phase)**:
+- Continue strengthening exercises
+- Add push-up progressions
+- Add rowing movements
+- Progress to overhead work if tolerated
 
-## Exercises to Avoid (or Modify)
+## Tips for Success
 
-### Generally Avoid with Shoulder Pain
+### Progress Slowly
+Shoulders are sensitive. Progress weight and intensity gradually.
 
-**Upright Rows**
-- Internal rotation under load = impingement risk
-- Use face pulls instead
+### Maintain Posture
+Poor posture contributes to most shoulder problems. Address rounded shoulders and forward head.
 
-**Behind-Neck Press**
-- Puts shoulder in vulnerable position
-- Front press is safer
+### Balance Push and Pull
+Excessive pushing (bench press, push-ups) without pulling contributes to shoulder problems. Balance your training.
 
-**Dips (Deep)**
-- Excessive extension can irritate
-- Limit depth or skip if painful
+### Don't Push Through Sharp Pain
+Muscle fatigue is okay. Sharp or worsening pain is a signal to stop.
 
-**Lat Pulldown Behind Neck**
-- Same issue as behind-neck press
-- Pull to front
+### Be Consistent
+Shoulder rehab takes time. Daily or near-daily work beats occasional intense sessions.
 
-### Modify Rather Than Eliminate
+### Sleep Position
+Avoid sleeping on the painful shoulder. Side-lying on the non-painful side with a pillow between arms helps.
 
-**Bench Press:** Narrower grip, less depth
-**Overhead Press:** Stay in pain-free range
-**Pull-Ups:** May need to limit initially
+## Key Takeaways
 
-## Progression Timeline
+- Most shoulder pain responds to appropriate exercise
+- Progress through phases: mobility → activation → strengthening → function
+- Rotator cuff and scapular strengthening are central to most shoulder rehab
+- Balance pushing exercises with pulling exercises
+- Poor posture contributes to shoulder problems—address it
+- Progress gradually—shoulders are sensitive joints
+- Seek medical attention for severe pain, weakness, or trauma
 
-### Acute Phase (Weeks 1-2)
-- Pendulums
-- Gentle range of motion
-- Isometrics if tolerated
-- Ice/heat as needed
-
-### Subacute Phase (Weeks 2-6)
-- Add rotator cuff strengthening (light)
-- Scapular exercises (Prone Y-T-W)
-- Continue stretching
-- Face pulls
-
-### Rehabilitation Phase (Weeks 6-12)
-- Progress resistance
-- Add challenging positions
-- Begin sport/activity-specific work
-
-### Maintenance (Ongoing)
-- Face pulls and external rotation: 2-3x/week
-- Scapular work: 2x/week
-- 2:1 pulling ratio
-- Pec stretching as needed
-
-## When to Seek Help
-
-See a healthcare provider if:
-- Pain persists beyond 6-8 weeks despite exercise
-- Significant weakness (can't lift arm)
-- Night pain that doesn't improve
-- Pain after trauma (possible tear)
-- Numbness or tingling in arm
-- Shoulder feels unstable
-
-## The Bottom Line
-
-The best exercises for shoulder pain:
-
-**Foundation:**
-- External rotation exercises (most important)
-- Scapular training (Y-T-W raises, face pulls)
-- Wall slides
-
-**Key muscles to strengthen:**
-- Infraspinatus/teres minor (external rotators)
-- Lower trapezius (weak in almost everyone)
-- Serratus anterior (scapular control)
-
-**Key muscles to stretch:**
-- Pectoralis major and minor
-- Latissimus dorsi
-
-**Key principles:**
-1. Rotator cuff strengthening (especially external rotators)
-2. Scapular muscle training (especially lower traps)
-3. Release tight pecs and lats
-4. Follow the 2:1 pulling-to-pushing rule
-5. Progress gradually—tendons heal slowly
-
-Most shoulder pain responds to conservative exercise treatment. Strengthen the rotator cuff, fix the scapular mechanics, balance your training—and most shoulders heal.
-
----
-
-*Ready to address your shoulder pain? Explore our [shoulder programs](/programs) designed to restore rotator cuff strength and healthy scapular mechanics.*
+Shoulder pain is frustrating but usually treatable. With consistent, appropriate exercise, most people significantly improve within 6-12 weeks.
