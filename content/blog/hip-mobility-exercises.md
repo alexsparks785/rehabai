@@ -1,309 +1,267 @@
 ---
-title: "Hip Mobility Exercises: Unlock Tight Hips and Move Freely"
-description: "Complete hip mobility routine to improve flexibility, reduce pain, and move better. Learn stretches and movements for all fitness levels."
-date: "2026-03-14"
+title: "Hip Mobility Exercises: A Complete Guide to Unlocking Your Hips"
+description: "Learn the best hip mobility exercises to reduce stiffness, improve squat depth, relieve lower back pain, and move freely with this comprehensive guide."
+date: "2026-04-13"
 readTime: "9 min read"
+category: "Mobility"
+tags: ["hip mobility", "hip flexor", "hip stretches", "squat mobility", "flexibility"]
 ---
 
-# Hip Mobility Exercises: Unlock Tight Hips and Move Freely
+# Hip Mobility Exercises: A Complete Guide to Unlocking Your Hips
 
-Tight hips affect everything—your back, your knees, your posture, your ability to squat, walk, and move freely. Modern life (sitting all day) is terrible for hip mobility. But with the right exercises, you can restore movement and feel dramatically better.
+Tight hips are epidemic in modern life. Hours of sitting shorten your hip flexors, weaken your glutes, and leave your hips feeling like rusty hinges. But here's the good news: your hips are designed for remarkable range of motion, and with the right approach, you can restore it.
 
-## Why Hips Get Tight
+## Understanding Hip Mobility
 
-### The Sitting Problem
+Your hip is a ball-and-socket joint capable of moving in all directions:
 
-When you sit:
-- Hip flexors shorten and tighten
-- Glutes become inactive
-- Hip rotation decreases
-- Muscles adapt to the flexed position
+- **Flexion**: Bringing your knee toward your chest
+- **Extension**: Moving your leg behind you
+- **Abduction**: Moving your leg out to the side
+- **Adduction**: Bringing your leg across your body
+- **Internal rotation**: Turning your thigh inward
+- **External rotation**: Turning your thigh outward
 
-**The result:** Hips that feel locked, painful, and limited.
+True hip mobility means having adequate range and control in all of these directions.
 
-### Other Causes
+## Why Hip Mobility Matters
 
-- Lack of varied movement
-- Repetitive activities (running, cycling)
-- Previous injuries
-- Aging (use it or lose it)
-- Weak stabilizing muscles
+### For Your Lower Back
+When your hips can't move, your lower back compensates. Limited hip extension forces your back to arch more when walking. Limited hip rotation makes your spine twist during activities like golf or throwing.
 
-### Signs of Tight Hips
+### For Your Knees
+Hips that can't rotate properly push stress into the knee joint. Many cases of knee pain trace back to hip dysfunction.
 
-- Low back pain
-- Difficulty squatting deeply
-- Knee pain
-- Poor posture (anterior pelvic tilt)
-- Feeling "stuck" in the hips
-- Discomfort after sitting
+### For Performance
+Whether you're squatting, running, kicking, or climbing stairs, your hips power the movement. More mobility means more strength through a full range.
 
-## Hip Anatomy Basics
+### For Daily Life
+Getting up from a chair, putting on socks, playing with kids on the floor—these all require hip mobility we often take for granted until it's gone.
 
-Your hip moves in multiple directions:
-- **Flexion:** Bringing knee toward chest
-- **Extension:** Moving leg backward
-- **Abduction:** Moving leg away from body
-- **Adduction:** Moving leg toward/across body
-- **Internal rotation:** Turning thigh inward
-- **External rotation:** Turning thigh outward
+## Self-Assessment
 
-Complete hip mobility requires movement in ALL directions.
+### 90/90 Test
+Sit on the floor with one leg in front (hip and knee at 90 degrees) and one leg behind (hip and knee at 90 degrees). Can you sit upright without leaning? Can you switch sides easily? Difficulty suggests hip rotation limitations.
 
-## Dynamic Warm-Up (Do First)
+### Deep Squat Test
+Can you squat deeply with heels down, knees tracking over toes, and torso upright? Limitations reveal a combination of hip, ankle, and thoracic restrictions.
 
-### Hip Circles
+### Thomas Test
+Lie on a table edge with one knee pulled to your chest. Let the other leg hang. If that thigh rises off the table, your hip flexors are tight. If the knee straightens, your rectus femoris is tight.
 
-1. Stand on one leg (hold support if needed)
-2. Make circles with the other knee
-3. 10 circles forward, 10 backward
-4. Switch legs
+## Mobility Exercises
 
-### Leg Swings
+### 1. 90/90 Hip Stretch
 
-**Front to back:**
-1. Hold a wall for support
-2. Swing one leg forward and back
-3. Keep movement controlled
-4. 15-20 swings each leg
+The most comprehensive hip mobility exercise targeting internal and external rotation simultaneously.
 
-**Side to side:**
-1. Face the wall, hands on wall
-2. Swing leg across body and out to side
-3. 15-20 swings each leg
-
-### Walking Lunges with Twist
-
-1. Step into a lunge
-2. Twist torso toward front leg
-3. Return to standing
-4. Alternate legs
-5. 10 total (5 each side)
-
-### Squat to Stand
-
-1. Fold forward, touch toes (bend knees if needed)
-2. Grab toes and drop into deep squat
-3. Lift chest, stay in squat
-4. Straighten legs back to fold
-5. 8-10 repetitions
-
-## Hip Flexor Stretches
-
-### Half-Kneeling Hip Flexor Stretch
-
-The most important stretch for tight hips:
-1. Kneel on one knee (pad with pillow)
-2. Other foot flat in front, knee at 90°
-3. Tuck your pelvis under (flatten your lower back)
-4. Shift weight forward until you feel stretch
-5. Hold 45-60 seconds each side
-6. Repeat 2-3 times
-
-**Key:** The pelvic tuck is essential—without it, you'll miss the stretch.
-
-### Couch Stretch
-
-Intense hip flexor and quad stretch:
-1. Kneel facing away from couch/wall
-2. Place one shin against couch, knee in corner
-3. Other foot flat in front
-4. Keep torso upright
-5. Hold 60-90 seconds each side
-
-### Low Lunge (Runner's Lunge)
-
-1. Step one foot forward into lunge
-2. Lower back knee to floor
-3. Keep torso upright
-4. Sink hips forward and down
-5. Hold 45-60 seconds each side
-
-## Glute and Piriformis Stretches
-
-### Figure-4 Stretch (Supine)
-
-1. Lie on back
-2. Cross right ankle over left knee
-3. Pull left thigh toward chest
-4. Feel stretch in right hip/glute
-5. Hold 45-60 seconds each side
-
-### Pigeon Pose
-
-1. From all fours, bring right knee forward
-2. Place shin across body (angled, not parallel)
-3. Extend left leg straight back
-4. Square hips as much as possible
-5. Fold forward for deeper stretch
-6. Hold 60-90 seconds each side
-
-### Seated Piriformis Stretch
-
-1. Sit on chair
-2. Cross ankle over opposite knee
-3. Keep spine straight
-4. Lean forward from hips
-5. Hold 45 seconds each side
-
-## Hip Rotation Stretches
-
-### 90-90 Stretch
-
-Targets both internal and external rotation:
-1. Sit with front leg at 90° in front (shin parallel to body)
-2. Back leg at 90° to the side
-3. Keep both sit bones on floor (or use cushion)
-4. Sit tall and lean forward slightly
-5. Hold 60 seconds
+**How to do it:**
+1. Sit with your front leg at 90 degrees (shin parallel to your body)
+2. Position your back leg at 90 degrees behind you
+3. Sit tall with both sit bones grounded
+4. Hold for 60-90 seconds
+5. To progress, hinge forward over your front shin
 6. Switch sides
 
-### Supine Hip Rotations
+**Key tip**: If you can't sit upright, elevate your hips on a cushion.
 
-**External rotation:**
-1. Lie on back, knees bent, feet flat
-2. Let one knee drop out to the side
-3. Keep other knee pointing up
-4. Hold 30 seconds each side
+### 2. Half-Kneeling Hip Flexor Stretch
 
-**Internal rotation:**
-1. Same position
-2. Let one knee drop inward (foot moves out)
-3. Hold 30 seconds each side
+**How to do it:**
+1. Kneel on one knee with the other foot forward
+2. Tuck your pelvis under (posterior pelvic tilt)
+3. Squeeze the glute on your kneeling side
+4. Shift your weight forward slightly
+5. Reach the same-side arm overhead for a deeper stretch
+6. Hold 60 seconds per side
 
-### Seated Hip CARs (Controlled Articular Rotations)
+**Key tip**: The stretch should be in your hip flexor, not your lower back. Keep your abs engaged and pelvis tucked.
 
-1. Sit with one leg extended
-2. Lift other knee toward chest
-3. Rotate knee out to the side
-4. Then down and around
-5. Full circle, as much range as possible
-6. 5 circles each direction, each hip
+### 3. Pigeon Pose
 
-## Hip Strengthening for Mobility
+**How to do it:**
+1. From hands and knees, bring one knee forward behind your wrist
+2. Extend your other leg straight behind you
+3. Keep your hips square to the floor
+4. Walk your hands forward to deepen the stretch
+5. Hold 90 seconds to 2 minutes per side
 
-Strength supports mobility—weak hips can't move well.
+**Modification**: Place a pillow under your hip if it doesn't reach the floor.
 
-### Clamshells
+### 4. Frog Stretch
 
-1. Side-lying, knees bent 45°
-2. Keep feet together
-3. Lift top knee toward ceiling
-4. Don't let pelvis roll back
-5. 3 sets of 15 each side
+Targets hip adductors (inner thighs).
 
-### Glute Bridge
+**How to do it:**
+1. Start on hands and knees
+2. Gradually widen your knees as far as comfortable
+3. Keep your feet in line with your knees, toes pointing out
+4. Rock your hips back toward your heels
+5. Keep your spine neutral (don't round or arch)
+6. Hold 60-90 seconds
 
-1. Lie on back, knees bent
-2. Squeeze glutes, lift hips
-3. Hold 3 seconds at top
-4. Lower slowly
-5. 3 sets of 15
+**Progression**: Lower to your forearms for a deeper stretch.
 
-### Fire Hydrants
+### 5. Deep Squat Hold (Malasana)
 
-1. On hands and knees
-2. Lift one knee out to the side
-3. Keep knee bent 90°
-4. Don't shift weight to other side
-5. 3 sets of 12 each side
+**How to do it:**
+1. Stand with feet slightly wider than hip-width
+2. Turn your toes out 15-30 degrees
+3. Lower into a deep squat, keeping heels down
+4. Press your elbows against your inner knees
+5. Keep your chest up and spine neutral
+6. Hold for 1-3 minutes
 
-### Standing Hip CARs
+**Can't keep heels down?** Place a rolled towel under them or hold onto something in front of you.
 
-1. Stand on one leg (hold support)
-2. Lift other knee to hip height
-3. Rotate knee out to the side
-4. Extend leg behind you
-5. Return to start
-6. 5 circles each direction, each leg
+### 6. Couch Stretch
 
-## Complete Hip Mobility Routine
+The most intense hip flexor and quad stretch.
 
-### Quick Daily Routine (10 minutes)
+**How to do it:**
+1. Kneel facing away from a couch or wall
+2. Place one foot/shin up on the couch behind you
+3. Plant your other foot forward in a lunge
+4. Squeeze your glute and tuck your pelvis
+5. Stay upright—don't lean forward
+6. Hold 60-90 seconds per side
 
-1. Hip circles: 10 each direction, each leg
-2. Leg swings: 15 each direction, each leg
-3. Half-kneeling hip flexor stretch: 45 seconds each side
-4. Figure-4 stretch: 45 seconds each side
-5. 90-90 stretch: 45 seconds each side
-6. Glute bridges: 15 reps
+**Start easy**: Begin far from the couch and progress closer over time.
 
-### Comprehensive Routine (20 minutes)
+### 7. Supine Figure-4 Stretch
 
-**Dynamic warm-up (5 minutes):**
-- Hip circles
-- Leg swings (both directions)
-- Walking lunges with twist
-- Squat to stand
+**How to do it:**
+1. Lie on your back with knees bent
+2. Cross one ankle over the opposite knee
+3. Thread your hands behind the bottom thigh
+4. Pull toward your chest
+5. Keep your head and shoulders relaxed on the floor
+6. Hold 60-90 seconds per side
 
-**Stretching (10 minutes):**
-- Half-kneeling hip flexor: 60 seconds each
-- Couch stretch: 60 seconds each
-- Pigeon pose: 60 seconds each
-- 90-90 stretch: 60 seconds each
-- Supine rotations: 30 seconds each direction, each side
+### 8. Hip CARs (Controlled Articular Rotations)
 
-**Strengthening (5 minutes):**
-- Clamshells: 15 each side
-- Fire hydrants: 12 each side
-- Glute bridges: 15 reps
-- Standing hip CARs: 5 each direction, each leg
+The best exercise for hip joint health and active mobility.
 
-## When to Do Hip Mobility
+**How to do it:**
+1. Stand on one leg (hold something for balance)
+2. Lift your knee to hip height
+3. Open your knee out to the side
+4. Extend your leg behind you
+5. Return by reversing the movement
+6. Perform 5 slow reps each direction per side
 
-### Best Times
+**Key tip**: Move slowly (30+ seconds per rotation). Keep your pelvis still.
 
-- **Morning:** Combat stiffness from sleep
-- **Before workouts:** Prepare hips for exercise
-- **After sitting:** Undo the damage
-- **Evening:** Release tension from the day
+## Strengthening for Stability
 
-### Frequency
+Mobility without strength is instability. These exercises help you own your new range of motion.
 
-- **Daily:** Quick routine (10 minutes)
-- **2-3x per week:** Comprehensive routine (20 minutes)
-- **Consistency matters:** Some daily is better than lots occasionally
+### 1. Glute Bridges
 
-## Special Considerations
+**How to do it:**
+1. Lie on your back with knees bent
+2. Squeeze your glutes and lift your hips
+3. Hold at the top for 3 seconds
+4. Lower with control
+5. Perform 15-20 reps
 
-### If You Have Hip Pain
+### 2. Clamshells
 
-- Avoid movements that cause sharp pain
-- Focus on gentle range of motion
-- Strengthen before intense stretching
-- See a professional if pain persists
+**How to do it:**
+1. Lie on your side with knees bent 45 degrees
+2. Keep feet together, lift your top knee
+3. Don't let your pelvis roll backward
+4. Lower with control
+5. Perform 15-20 reps per side
 
-### For Athletes
+### 3. Hip Airplanes
 
-- Prioritize hip rotation mobility
-- Include hip CARs in warm-ups
-- Balance flexibility with stability
-- Address sport-specific limitations
+**How to do it:**
+1. Stand on one leg, hinge forward at the hips
+2. Extend your free leg behind you
+3. Rotate your pelvis to open toward the ceiling
+4. Then rotate to close toward the floor
+5. Return to neutral
+6. Perform 8-10 reps per side
 
-### For Desk Workers
+### 4. Single-Leg Romanian Deadlifts
 
-- Take hip breaks every hour
-- Do hip flexor stretches daily (they're short from sitting)
-- Prioritize 90-90 and half-kneeling stretches
-- Consider a standing desk part of the day
+**How to do it:**
+1. Stand on one leg
+2. Hinge at your hip, reaching toward the floor
+3. Let your free leg extend behind you for balance
+4. Keep your back flat
+5. Return to standing by squeezing your glute
+6. Perform 10-12 reps per side
 
-## Expected Results
+## Sample Routines
 
-- **Week 1-2:** Stretches feel easier; less stiffness
-- **Week 3-4:** Noticeable improvement in movement
-- **Week 6-8:** Significant mobility gains
-- **Ongoing:** Maintained mobility with consistent practice
+### Quick Daily Routine (5 minutes)
+1. Deep Squat Hold: 1 minute
+2. 90/90 Stretch: 1 minute each side
+3. Hip CARs: 3 each direction per side
 
-**Note:** Mobility improvements require consistency. Skip too many days and you'll lose gains.
+### Comprehensive Routine (15-20 minutes)
+1. Hip CARs: 5 each direction per side
+2. Deep Squat Hold: 2 minutes
+3. 90/90 Stretch: 90 seconds each side
+4. Half-Kneeling Hip Flexor: 60 seconds each side
+5. Frog Stretch: 90 seconds
+6. Pigeon Pose: 90 seconds each side
+7. Glute Bridges: 15 reps
+8. Clamshells: 15 reps each side
 
-## Key Takeaways
+### Pre-Squat Warm-Up
+1. Hip CARs: 3 each direction per side
+2. Deep Squat Hold: 1 minute
+3. 90/90 Flow (switching sides): 10 transitions
+4. Clamshells: 10 each side
+5. Glute Bridges: 10 reps
 
-1. **Hip flexors are priority #1** for most people (sitting tightens them)
-2. **All directions matter**—flexion, extension, rotation, abduction
-3. **Dynamic before static**—warm up, then stretch
-4. **Strength supports mobility**—strengthen what you stretch
-5. **Daily consistency wins**—10 minutes daily beats 1 hour weekly
-6. **Pelvic tuck matters**—essential for hip flexor stretches
-7. **Be patient**—significant changes take 4-8 weeks
+### Desk Worker's Reset
+Do this every 2-3 hours:
+1. Standing Hip Circles: 10 each direction
+2. Standing Hip Flexor Stretch: 30 seconds each side
+3. Deep Squat Hold: 30 seconds
 
-Unlocking your hips transforms how you move and feel. Most people notice improvements in their back, their squat, their walking, and their overall sense of freedom in movement. Start with the quick daily routine and watch what happens.
+## Common Mistakes
+
+1. **Forcing through pain**: Mobility work should feel like a stretch, not sharp pain
+2. **Only stretching**: You need strengthening too
+3. **Moving from the wrong place**: Lumbar spine often compensates for hip limitations
+4. **Holding your breath**: Breathe into tight positions
+5. **Impatience**: Hips respond slowly—consistency over intensity
+
+## Tips for Faster Progress
+
+- **Warm up first**: Muscles stretch better when warm
+- **Daily practice**: 5 minutes daily beats 30 minutes weekly
+- **Use your new range**: Sit on the floor, squat more often
+- **Address all directions**: Don't just stretch what's obviously tight
+- **Be patient**: Hip changes take months, not days
+
+## When to Seek Help
+
+See a healthcare provider if:
+- Sharp pain in the hip joint (not just tightness)
+- Clicking, catching, or locking in the hip
+- Pain in the groin, especially with activity
+- Numbness or tingling in the leg
+- No improvement after 8+ weeks of consistent work
+- History of hip injury or surgery
+
+## The Bottom Line
+
+Hip mobility is foundational for whole-body movement. The key principles:
+
+1. **Assess all directions**: Identify your specific limitations
+2. **Stretch what's tight**: Prioritize your problem areas
+3. **Strengthen what's weak**: Mobility without strength doesn't stick
+4. **Move daily**: Use your hips through their full range regularly
+5. **Be patient and consistent**: Lasting changes take time
+
+Your hips were designed to move freely. With dedicated practice, you can restore that freedom.
+
+---
+
+*Need a personalized hip mobility program? Foundational Rehab can assess your specific limitations and create a targeted plan for your needs.*
