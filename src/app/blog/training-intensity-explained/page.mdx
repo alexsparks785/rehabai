@@ -1,0 +1,230 @@
+import BlogPost from '@/components/BlogPost'
+
+export const metadata = {
+  title: 'Training Intensity Explained: How Heavy Should You Lift?',
+  description: 'Understand what training intensity means, how it differs from effort, and how to use load selection to match your goals.',
+  keywords: ['training intensity', 'how heavy to lift', 'percentage of max', '1RM', 'strength training', 'load selection', 'hypertrophy'],
+  openGraph: {
+    title: 'Training Intensity Explained: How Heavy Should You Lift?',
+    description: 'Understand what training intensity means and how heavy you should lift for your goals.',
+    type: 'article',
+  },
+}
+
+export default function Page() {
+  return (
+    <BlogPost
+      title="Training Intensity Explained: How Heavy Should You Lift?"
+      description="Understand what training intensity means, how it differs from effort, and how to use load selection to match your goals."
+      date="2026-04-14"
+      readTime="7 min read"
+      tags={["Strength Training", "Programming", "Exercise Science"]}
+    >
+      <p className="lead">
+        "Intensity" is one of the most misused words in fitness. In everyday language, an intense workout means one that leaves you gasping and sweating. In training science, intensity has a specific meaning—and understanding it can help you train smarter.
+      </p>
+
+      <h2>What Is Training Intensity?</h2>
+
+      <p>
+        In strength training, <strong>intensity refers to the load you're lifting relative to your maximum</strong>. It's typically expressed as a percentage of your one-rep max (1RM).
+      </p>
+
+      <ul>
+        <li><strong>High intensity:</strong> Heavy weights, close to your max (85-100% 1RM)</li>
+        <li><strong>Moderate intensity:</strong> Medium weights (65-85% 1RM)</li>
+        <li><strong>Low intensity:</strong> Lighter weights (below 65% 1RM)</li>
+      </ul>
+
+      <p>
+        This is different from <strong>effort</strong> (how hard you're working) or <strong>density</strong> (how much work you do in a given time). You can have a high-effort workout with moderate intensity—think lighter weights taken close to failure.
+      </p>
+
+      <h2>Intensity vs. Effort: Why the Distinction Matters</h2>
+
+      <p>
+        Consider two scenarios:
+      </p>
+
+      <ul>
+        <li><strong>Scenario A:</strong> Squat 315 lbs for 3 reps (your 5-rep max). High intensity, moderate effort.</li>
+        <li><strong>Scenario B:</strong> Squat 185 lbs for 20 reps to failure. Moderate intensity, high effort.</li>
+      </ul>
+
+      <p>
+        Both are challenging. Both require significant effort. But they represent different intensity levels and produce somewhat different adaptations.
+      </p>
+
+      <p>
+        When a program prescribes "high intensity," it means heavy loads—not just that you should work hard. You should always train with appropriate effort regardless of intensity.
+      </p>
+
+      <h2>How Intensity Affects Adaptations</h2>
+
+      <h3>Strength Development</h3>
+      <p>
+        Heavy loads (80-100% 1RM) are most effective for building maximal strength. High-intensity training:
+      </p>
+      <ul>
+        <li>Recruits high-threshold motor units</li>
+        <li>Develops neural efficiency</li>
+        <li>Teaches your nervous system to produce maximal force</li>
+      </ul>
+
+      <h3>Muscle Growth (Hypertrophy)</h3>
+      <p>
+        Hypertrophy can occur across a wide range of intensities (roughly 30-85% 1RM) as long as sets are taken close to failure. However:
+      </p>
+      <ul>
+        <li>Moderate intensity (65-80% 1RM) allows sufficient volume and mechanical tension</li>
+        <li>Very light weights require very high reps to reach failure—time-consuming and uncomfortable</li>
+        <li>Very heavy weights limit total volume per session</li>
+      </ul>
+
+      <h3>Muscular Endurance</h3>
+      <p>
+        Lower intensity with higher reps (below 65% 1RM, 15+ reps) develops muscular endurance—the ability to sustain repeated contractions over time.
+      </p>
+
+      <h2>Intensity Guidelines by Goal</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Goal</th>
+            <th>Intensity Range</th>
+            <th>Typical Rep Range</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Maximum strength</td>
+            <td>85-100% 1RM</td>
+            <td>1-5 reps</td>
+          </tr>
+          <tr>
+            <td>Strength-hypertrophy</td>
+            <td>75-85% 1RM</td>
+            <td>5-8 reps</td>
+          </tr>
+          <tr>
+            <td>Hypertrophy</td>
+            <td>65-80% 1RM</td>
+            <td>8-12 reps</td>
+          </tr>
+          <tr>
+            <td>Hypertrophy (extended)</td>
+            <td>50-65% 1RM</td>
+            <td>12-20+ reps</td>
+          </tr>
+          <tr>
+            <td>Muscular endurance</td>
+            <td>40-60% 1RM</td>
+            <td>15-25+ reps</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p>
+        Note: These ranges overlap because adaptation isn't binary. You can build some strength with moderate loads and some endurance with heavier loads.
+      </p>
+
+      <h2>Do You Need to Know Your 1RM?</h2>
+
+      <p>
+        Using percentages requires knowing your one-rep max, which raises practical issues:
+      </p>
+
+      <ul>
+        <li>Testing 1RM is fatiguing and carries injury risk</li>
+        <li>Your true max changes as you get stronger</li>
+        <li>1RM varies day-to-day based on sleep, stress, nutrition</li>
+      </ul>
+
+      <h3>Alternatives to Percentage-Based Training</h3>
+
+      <p>
+        <strong>RPE (Rate of Perceived Exertion):</strong> Rate sets based on effort level rather than exact percentages. RPE 8 = could do 2 more reps.
+      </p>
+
+      <p>
+        <strong>Rep targets:</strong> Instead of "75% for 5 reps," use "a weight you can do for 5-7 reps with 1-2 left in reserve."
+      </p>
+
+      <p>
+        <strong>Estimated 1RM:</strong> Calculate your estimated max from submaximal performance (many online calculators exist) and use that for percentage work.
+      </p>
+
+      <h2>Common Intensity Mistakes</h2>
+
+      <h3>Always Training Heavy</h3>
+      <p>
+        Some lifters believe heavier is always better. But constant high-intensity training:
+      </p>
+      <ul>
+        <li>Accumulates fatigue and CNS stress</li>
+        <li>Limits training volume (you can't do many sets at 90%+)</li>
+        <li>Increases injury risk over time</li>
+      </ul>
+
+      <h3>Never Training Heavy</h3>
+      <p>
+        On the flip side, never exposing yourself to heavy loads means you miss out on neural adaptations specific to maximal strength. Include some heavy work periodically, even if hypertrophy is your main goal.
+      </p>
+
+      <h3>Confusing Intensity with Effort</h3>
+      <p>
+        A high-intensity workout (heavy weights) isn't necessarily harder than a moderate-intensity workout taken to failure. Don't judge your program by how destroyed you feel afterward.
+      </p>
+
+      <h3>Ignoring Progressive Overload</h3>
+      <p>
+        Whatever intensity you train at, you need to increase the challenge over time. Add weight, add reps, or improve technique. Intensity prescriptions are starting points, not permanent fixtures.
+      </p>
+
+      <h2>Periodizing Intensity</h2>
+
+      <p>
+        Smart programs vary intensity over time:
+      </p>
+
+      <h3>Within a Week</h3>
+      <p>
+        Heavy days (high intensity, lower reps) combined with lighter days (moderate intensity, higher reps) allow you to develop multiple qualities while managing fatigue.
+      </p>
+
+      <h3>Within a Training Block</h3>
+      <p>
+        Accumulation phases might use moderate intensity with higher volume. Intensification phases increase load while reducing volume. Peaking phases push toward maximal efforts.
+      </p>
+
+      <h3>Throughout the Year</h3>
+      <p>
+        Periodically cycling through different intensity focuses prevents plateaus and overuse issues while developing well-rounded strength.
+      </p>
+
+      <h2>The Bottom Line</h2>
+
+      <p>
+        Training intensity—how heavy you lift relative to your max—is a key variable that influences your adaptations. Different intensity ranges serve different purposes, and most programs benefit from variety.
+      </p>
+
+      <p>
+        Key takeaways:
+      </p>
+
+      <ul>
+        <li>Intensity = load relative to your max, not how hard you feel you're working</li>
+        <li>Heavy (85%+): best for maximal strength</li>
+        <li>Moderate (65-85%): best for hypertrophy and strength-hypertrophy</li>
+        <li>Light (below 65%): can build muscle if taken to failure, develops endurance</li>
+        <li>RPE and rep targets can replace percentage-based prescriptions</li>
+        <li>Periodize intensity—don't always train heavy or always train light</li>
+      </ul>
+
+      <p>
+        Match your intensity to your goals, vary it over time, and always train with appropriate effort. That's the formula for long-term progress.
+      </p>
+    </BlogPost>
+  )
+}
