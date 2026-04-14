@@ -1,0 +1,269 @@
+import BlogPost from '@/components/BlogPost'
+
+export const metadata = {
+  title: 'RPE Explained: How to Use Rate of Perceived Exertion in Training',
+  description: 'Learn what RPE (Rate of Perceived Exertion) is, how to use it to regulate training intensity, and why it might be better than percentages for many lifters.',
+  keywords: ['RPE', 'rate of perceived exertion', 'training intensity', 'autoregulation', 'strength training', 'RIR', 'reps in reserve'],
+  openGraph: {
+    title: 'RPE Explained: How to Use Rate of Perceived Exertion in Training',
+    description: 'Learn what RPE is and how to use it to regulate your training intensity.',
+    type: 'article',
+  },
+}
+
+export default function Page() {
+  return (
+    <BlogPost
+      title="RPE Explained: How to Use Rate of Perceived Exertion in Training"
+      description="Learn what RPE (Rate of Perceived Exertion) is, how to use it to regulate training intensity, and why it might be better than percentages for many lifters."
+      date="2026-04-14"
+      readTime="7 min read"
+      tags={["Strength Training", "Training Techniques", "Programming"]}
+    >
+      <p className="lead">
+        Some days you walk into the gym feeling strong. Other days, weights that should feel light are grinding. RPE—Rate of Perceived Exertion—gives you a way to account for these daily fluctuations and train smarter. Here's how to use it.
+      </p>
+
+      <h2>What Is RPE?</h2>
+
+      <p>
+        RPE is a subjective scale that measures how hard a set feels. Instead of prescribing exact weights (like "lift 80% of your max"), RPE prescribes effort levels (like "lift at an 8 out of 10").
+      </p>
+
+      <p>
+        The RPE scale used in strength training typically runs from 1-10:
+      </p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>RPE</th>
+            <th>Description</th>
+            <th>Reps in Reserve (RIR)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>10</td>
+            <td>Maximum effort—couldn't do another rep</td>
+            <td>0 RIR</td>
+          </tr>
+          <tr>
+            <td>9.5</td>
+            <td>Could maybe do one more, but not confident</td>
+            <td>0-1 RIR</td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>Could definitely do one more rep</td>
+            <td>1 RIR</td>
+          </tr>
+          <tr>
+            <td>8.5</td>
+            <td>Could do 1-2 more reps</td>
+            <td>1-2 RIR</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>Could do 2 more reps</td>
+            <td>2 RIR</td>
+          </tr>
+          <tr>
+            <td>7.5</td>
+            <td>Could do 2-3 more reps</td>
+            <td>2-3 RIR</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>Could do 3 more reps</td>
+            <td>3 RIR</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Could do 4 more reps—warm-up territory</td>
+            <td>4 RIR</td>
+          </tr>
+          <tr>
+            <td>5 and below</td>
+            <td>Light effort—warm-ups, technique work</td>
+            <td>5+ RIR</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2>RPE vs. RIR: What's the Difference?</h2>
+
+      <p>
+        You'll often see RPE and RIR (Reps in Reserve) used interchangeably. They're closely related:
+      </p>
+
+      <ul>
+        <li><strong>RPE</strong> = How hard was that set? (scale of effort)</li>
+        <li><strong>RIR</strong> = How many more reps could you have done? (reps left in the tank)</li>
+      </ul>
+
+      <p>
+        They're essentially the same concept from different angles. RPE 8 = 2 RIR. Some people find one more intuitive than the other.
+      </p>
+
+      <h2>Why Use RPE Instead of Percentages?</h2>
+
+      <p>
+        Traditional programming often prescribes weights as percentages of your one-rep max (1RM). For example: "Squat 4×6 at 75%." This works, but it has limitations:
+      </p>
+
+      <h3>Daily Fluctuations</h3>
+      <p>
+        Your true max varies day to day based on sleep, stress, nutrition, and accumulated fatigue. A weight that's 75% of your max on a good day might be 85% on a bad day.
+      </p>
+
+      <h3>1RM Testing Issues</h3>
+      <p>
+        To use percentages accurately, you need to know your true 1RM. But maxing out is fatiguing, carries injury risk, and your max changes as you progress. RPE doesn't require knowing your max.
+      </p>
+
+      <h3>Individual Variation</h3>
+      <p>
+        Some people can do many reps at 80% of their max; others can only do a few. RPE accounts for individual differences in rep capacity.
+      </p>
+
+      <h3>Autoregulation</h3>
+      <p>
+        RPE allows "autoregulation"—adjusting training based on how you actually feel rather than what a spreadsheet says. Good day? Push a bit harder. Bad day? Back off without feeling like you failed.
+      </p>
+
+      <h2>How to Use RPE in Practice</h2>
+
+      <h3>Step 1: Learn to Rate Accurately</h3>
+      <p>
+        Rating RPE is a skill. Beginners often underestimate or overestimate their effort. To calibrate:
+      </p>
+      <ul>
+        <li>Occasionally take sets to actual failure (RPE 10) to learn what it feels like</li>
+        <li>Record your RPE predictions before sets and compare to actual results</li>
+        <li>Start with a conservative estimate; adjust as you learn</li>
+      </ul>
+
+      <h3>Step 2: Use RPE Targets in Programming</h3>
+      <p>
+        A typical hypertrophy workout might prescribe:
+      </p>
+      <ul>
+        <li>Squat: 4×8 @ RPE 8</li>
+        <li>Romanian Deadlift: 3×10 @ RPE 7-8</li>
+        <li>Leg Press: 3×12 @ RPE 8-9</li>
+      </ul>
+
+      <p>
+        This means: do the reps at a weight where you could do about 2 more reps (RPE 8) or 1-2 more (RPE 8-9).
+      </p>
+
+      <h3>Step 3: Select Weight Based on Feel</h3>
+      <p>
+        Warm up, then choose a weight you estimate will hit your target RPE. After the set, rate how it actually felt. Adjust for subsequent sets if needed.
+      </p>
+
+      <h3>Step 4: Track and Progress</h3>
+      <p>
+        Record both weight and RPE. Progress by:
+      </p>
+      <ul>
+        <li>Adding weight while maintaining the same RPE</li>
+        <li>Doing more reps at the same weight and RPE</li>
+        <li>Same weight and reps at a lower RPE (it's getting easier)</li>
+      </ul>
+
+      <h2>Common RPE Ranges for Different Goals</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Training Goal</th>
+            <th>Typical RPE Range</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Warm-ups</td>
+            <td>5-6</td>
+          </tr>
+          <tr>
+            <td>Technique/skill work</td>
+            <td>6-7</td>
+          </tr>
+          <tr>
+            <td>Hypertrophy (muscle building)</td>
+            <td>7-9</td>
+          </tr>
+          <tr>
+            <td>Strength development</td>
+            <td>8-9.5</td>
+          </tr>
+          <tr>
+            <td>Testing/peaking</td>
+            <td>9.5-10</td>
+          </tr>
+          <tr>
+            <td>Deload/recovery</td>
+            <td>5-7</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2>Limitations of RPE</h2>
+
+      <h3>Requires Self-Awareness</h3>
+      <p>
+        RPE only works if you can accurately gauge your effort. This takes time to develop, and some people struggle with it.
+      </p>
+
+      <h3>Easy to Sandbag</h3>
+      <p>
+        Without external accountability, it's tempting to rate sets as harder than they actually were. You need honesty with yourself.
+      </p>
+
+      <h3>Exercise-Dependent</h3>
+      <p>
+        RPE is easier to rate on compound lifts (squats, deadlifts, presses) than isolation exercises. It's hard to know how many more reps you have on lateral raises.
+      </p>
+
+      <h3>Doesn't Replace Programming Structure</h3>
+      <p>
+        RPE tells you how hard to work, not what exercises to do or how to progress long-term. You still need a well-designed program.
+      </p>
+
+      <h2>Tips for Accurate RPE Rating</h2>
+
+      <ul>
+        <li><strong>Focus on bar speed:</strong> When reps slow significantly, you're approaching failure</li>
+        <li><strong>Rate immediately after:</strong> Don't wait—you'll forget how hard it felt</li>
+        <li><strong>Be honest:</strong> Overreporting RPE cheats only yourself</li>
+        <li><strong>Consider form:</strong> If form breaks down, you're at or near failure</li>
+        <li><strong>Practice failing safely:</strong> Knowing what true failure feels like improves calibration</li>
+      </ul>
+
+      <h2>The Bottom Line</h2>
+
+      <p>
+        RPE is a tool for training smarter by matching your effort to your capacity on any given day. It's not perfect, but it's often more practical than rigid percentage-based programming.
+      </p>
+
+      <p>
+        Key takeaways:
+      </p>
+
+      <ul>
+        <li>RPE rates how hard a set feels on a 1-10 scale</li>
+        <li>RPE 8 = 2 reps left in the tank</li>
+        <li>Allows autoregulation based on daily readiness</li>
+        <li>Requires practice to rate accurately</li>
+        <li>Most hypertrophy work should be RPE 7-9</li>
+        <li>Track weight AND RPE to measure progress</li>
+      </ul>
+
+      <p>
+        Start using RPE on your main lifts. With practice, you'll develop the self-awareness to train at the right intensity—hard enough to stimulate growth, but not so hard you burn out.
+      </p>
+    </BlogPost>
+  )
+}
