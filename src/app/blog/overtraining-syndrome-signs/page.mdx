@@ -1,0 +1,229 @@
+import BlogPost from '@/components/BlogPost'
+
+export const metadata = {
+  title: 'Overtraining Syndrome: Signs, Causes, and How to Recover',
+  description: 'Learn what overtraining really is, how to recognize the warning signs, and what to do if you\'ve pushed too hard for too long.',
+  keywords: ['overtraining', 'overtraining syndrome', 'overreaching', 'recovery', 'fatigue', 'burnout', 'rest', 'deload'],
+  openGraph: {
+    title: 'Overtraining Syndrome: Signs, Causes, and How to Recover',
+    description: 'Learn what overtraining really is and how to recognize the warning signs.',
+    type: 'article',
+  },
+}
+
+export default function Page() {
+  return (
+    <BlogPost
+      title="Overtraining Syndrome: Signs, Causes, and How to Recover"
+      description="Learn what overtraining really is, how to recognize the warning signs, and what to do if you've pushed too hard for too long."
+      date="2026-04-14"
+      readTime="8 min read"
+      tags={["Recovery", "Training", "Health"]}
+    >
+      <p className="lead">
+        "Overtraining" gets thrown around a lot in fitness circles—often incorrectly. True overtraining syndrome is serious and relatively rare. But under-recovery and overreaching are common and can derail your progress. Here's how to understand the spectrum and know when you've crossed the line.
+      </p>
+
+      <h2>Overtraining vs. Overreaching: What's the Difference?</h2>
+
+      <h3>Functional Overreaching</h3>
+      <p>
+        Short-term fatigue from a hard training block. Performance temporarily decreases, but bounces back (and often improves) after a few days of rest. This is normal and often intentional in well-designed programs.
+      </p>
+
+      <h3>Non-Functional Overreaching</h3>
+      <p>
+        Extended fatigue lasting weeks. Performance decreases and doesn't quickly bounce back. Recovery requires a significant deload—typically 1-2 weeks. This is a warning sign.
+      </p>
+
+      <h3>Overtraining Syndrome (OTS)</h3>
+      <p>
+        A clinical condition resulting from prolonged imbalance between training stress and recovery. Recovery can take months. Performance is significantly impaired, and symptoms extend beyond the gym into overall health.
+      </p>
+
+      <p>
+        Most people who think they're "overtrained" are actually overreached. True OTS is uncommon in recreational lifters—it's more often seen in elite athletes with extreme training loads.
+      </p>
+
+      <h2>Signs and Symptoms</h2>
+
+      <h3>Performance Signs</h3>
+      <ul>
+        <li>Decreased strength that persists across multiple sessions</li>
+        <li>Plateaued or declining performance despite continued training</li>
+        <li>Inability to complete workouts you previously handled</li>
+        <li>Longer recovery time between sessions</li>
+        <li>Loss of motivation to train</li>
+      </ul>
+
+      <h3>Physical Signs</h3>
+      <ul>
+        <li>Persistent muscle soreness that doesn't resolve</li>
+        <li>Elevated resting heart rate</li>
+        <li>Frequent illness or infections</li>
+        <li>Nagging injuries or joint pain</li>
+        <li>Changes in appetite (usually decreased)</li>
+        <li>Unexplained weight loss</li>
+        <li>Sleep disturbances despite being tired</li>
+      </ul>
+
+      <h3>Psychological Signs</h3>
+      <ul>
+        <li>Irritability and mood swings</li>
+        <li>Depression or anxiety</li>
+        <li>Difficulty concentrating</li>
+        <li>Loss of enthusiasm for training and other activities</li>
+        <li>Feelings of burnout or dread about exercise</li>
+      </ul>
+
+      <h3>Hormonal Signs (in severe cases)</h3>
+      <ul>
+        <li>Decreased testosterone/elevated cortisol</li>
+        <li>Menstrual irregularities in women</li>
+        <li>Decreased libido</li>
+      </ul>
+
+      <h2>What Causes Overtraining?</h2>
+
+      <p>
+        Overtraining isn't caused by training alone—it's caused by the mismatch between stress and recovery:
+      </p>
+
+      <h3>Training Factors</h3>
+      <ul>
+        <li>Too much volume without adequate deloads</li>
+        <li>Too much intensity for too long</li>
+        <li>Rapid increases in training load</li>
+        <li>Insufficient rest days</li>
+        <li>Monotonous training without variation</li>
+      </ul>
+
+      <h3>Recovery Factors</h3>
+      <ul>
+        <li>Inadequate sleep (the biggest factor for most people)</li>
+        <li>Poor nutrition or insufficient calories</li>
+        <li>High life stress (work, relationships, finances)</li>
+        <li>Other physical demands (active job, other sports)</li>
+        <li>Illness or underlying health issues</li>
+      </ul>
+
+      <p>
+        The same training program can lead to great results or overtraining depending on recovery factors. This is why copying an elite athlete's program often backfires—you don't have their recovery resources.
+      </p>
+
+      <h2>Are You Actually Overtrained?</h2>
+
+      <p>
+        Before diagnosing yourself with overtraining, consider:
+      </p>
+
+      <h3>Have you actually been training that hard?</h3>
+      <p>
+        Most recreational lifters don't train hard enough or consistently enough to truly overtrain. Be honest about your actual training load.
+      </p>
+
+      <h3>Is something else going on?</h3>
+      <p>
+        Fatigue and performance decline can result from poor sleep, nutritional deficiencies, illness, stress, or other medical issues. Rule these out before blaming training.
+      </p>
+
+      <h3>How long has it been?</h3>
+      <p>
+        A bad week isn't overtraining. Persistent symptoms over 2-4+ weeks despite adequate sleep and nutrition warrant concern.
+      </p>
+
+      <h2>How to Recover</h2>
+
+      <h3>For Overreaching (Mild)</h3>
+      <ul>
+        <li>Take a deload week: reduce volume by 40-60%, keep intensity moderate</li>
+        <li>Prioritize sleep: aim for 8-9 hours</li>
+        <li>Eat adequately: don't diet during recovery</li>
+        <li>Reduce other stressors where possible</li>
+        <li>Return to normal training after 1 week</li>
+      </ul>
+
+      <h3>For Non-Functional Overreaching (Moderate)</h3>
+      <ul>
+        <li>Take 1-2 weeks off or significantly reduced training</li>
+        <li>Focus entirely on recovery: sleep, nutrition, stress management</li>
+        <li>Consider light activity only (walking, easy swimming)</li>
+        <li>Gradually return to training over 1-2 weeks</li>
+        <li>Reassess your program—what led to this?</li>
+      </ul>
+
+      <h3>For Overtraining Syndrome (Severe)</h3>
+      <ul>
+        <li>Complete rest may be needed for weeks to months</li>
+        <li>Consider seeing a doctor to rule out other conditions</li>
+        <li>Address all recovery factors comprehensively</li>
+        <li>Return to training very gradually with professional guidance</li>
+        <li>Fundamentally restructure training approach going forward</li>
+      </ul>
+
+      <h2>Prevention Strategies</h2>
+
+      <h3>Program Intelligently</h3>
+      <ul>
+        <li>Include regular deload weeks (every 4-8 weeks)</li>
+        <li>Progress training load gradually (10% rule)</li>
+        <li>Vary intensity and volume across the week</li>
+        <li>Periodize training across months and years</li>
+      </ul>
+
+      <h3>Monitor Recovery</h3>
+      <ul>
+        <li>Track resting heart rate (elevation can signal fatigue)</li>
+        <li>Pay attention to sleep quality</li>
+        <li>Notice mood and motivation changes</li>
+        <li>Track performance—consistent decline is a warning sign</li>
+      </ul>
+
+      <h3>Prioritize Recovery</h3>
+      <ul>
+        <li>Sleep 7-9 hours consistently</li>
+        <li>Eat enough protein and total calories</li>
+        <li>Manage life stress proactively</li>
+        <li>Take rest days seriously</li>
+      </ul>
+
+      <h3>Adjust Training to Life</h3>
+      <p>
+        During high-stress life periods (work deadlines, family issues, illness), reduce training load. Your recovery capacity is temporarily lower—train accordingly.
+      </p>
+
+      <h2>The Bigger Picture</h2>
+
+      <p>
+        Training should enhance your life, not diminish it. Chronic fatigue, dreading workouts, and declining health aren't badges of honor—they're signs something is wrong.
+      </p>
+
+      <p>
+        The goal is the minimum effective dose: enough training to stimulate adaptation, not so much that you can't recover. More isn't always better.
+      </p>
+
+      <h2>The Bottom Line</h2>
+
+      <p>
+        True overtraining syndrome is rare, but overreaching is common. Learning to recognize the signs early allows you to course-correct before serious damage occurs.
+      </p>
+
+      <p>
+        Key takeaways:
+      </p>
+
+      <ul>
+        <li>Overreaching (temporary) is different from overtraining syndrome (serious)</li>
+        <li>Most "overtraining" is actually under-recovery</li>
+        <li>Signs include declining performance, persistent fatigue, mood changes, sleep issues</li>
+        <li>Recovery requires rest, sleep, nutrition, and stress management</li>
+        <li>Prevention includes deloads, gradual progression, and recovery prioritization</li>
+        <li>Adjust training to match your current recovery capacity</li>
+      </ul>
+
+      <p>
+        Listen to your body. Fatigue is information. Training through warning signs doesn't make you tough—it makes you slower to recover and more likely to get injured. Smart athletes train hard and recover harder.
+      </p>
+    </BlogPost>
+  )
+}
