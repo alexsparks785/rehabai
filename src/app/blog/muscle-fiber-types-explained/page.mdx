@@ -1,0 +1,263 @@
+import BlogPost from '@/components/BlogPost'
+
+export const metadata = {
+  title: 'Muscle Fiber Types Explained: Slow-Twitch vs Fast-Twitch',
+  description: 'Understand the difference between Type I and Type II muscle fibers, how they affect your training, and whether you can change your fiber type composition.',
+  keywords: ['muscle fiber types', 'slow twitch', 'fast twitch', 'Type I', 'Type II', 'endurance', 'power', 'strength training'],
+  openGraph: {
+    title: 'Muscle Fiber Types Explained: Slow-Twitch vs Fast-Twitch',
+    description: 'Understand the difference between Type I and Type II muscle fibers and how they affect your training.',
+    type: 'article',
+  },
+}
+
+export default function Page() {
+  return (
+    <BlogPost
+      title="Muscle Fiber Types Explained: Slow-Twitch vs Fast-Twitch"
+      description="Understand the difference between Type I and Type II muscle fibers, how they affect your training, and whether you can change your fiber type composition."
+      date="2026-04-14"
+      readTime="8 min read"
+      tags={["Exercise Science", "Strength Training", "Endurance"]}
+    >
+      <p className="lead">
+        Not all muscle fibers are created equal. Your muscles contain different types of fibers with distinct characteristics—some built for endurance, others for explosive power. Understanding muscle fiber types can help explain why some people naturally excel at marathons while others dominate in sprints, and how to train for your goals.
+      </p>
+
+      <h2>The Two Main Types of Muscle Fibers</h2>
+
+      <p>
+        Skeletal muscle contains two primary fiber types, classified by their contraction speed and metabolic characteristics:
+      </p>
+
+      <h3>Type I (Slow-Twitch) Fibers</h3>
+
+      <ul>
+        <li><strong>Contraction speed:</strong> Slow</li>
+        <li><strong>Fatigue resistance:</strong> High—can work for extended periods</li>
+        <li><strong>Energy system:</strong> Aerobic (uses oxygen)</li>
+        <li><strong>Force production:</strong> Lower</li>
+        <li><strong>Color:</strong> Red (high myoglobin content)</li>
+        <li><strong>Best for:</strong> Endurance activities, posture, sustained efforts</li>
+      </ul>
+
+      <h3>Type II (Fast-Twitch) Fibers</h3>
+
+      <p>
+        Type II fibers are further divided into subtypes:
+      </p>
+
+      <p><strong>Type IIa (Fast Oxidative):</strong></p>
+      <ul>
+        <li>Moderate speed and power</li>
+        <li>Can use both aerobic and anaerobic energy</li>
+        <li>More fatigue-resistant than Type IIx</li>
+        <li>Adaptable—can shift characteristics with training</li>
+      </ul>
+
+      <p><strong>Type IIx (Fast Glycolytic):</strong></p>
+      <ul>
+        <li>Fastest contraction speed</li>
+        <li>Highest force production</li>
+        <li>Primarily anaerobic</li>
+        <li>Fatigue quickly</li>
+        <li>Best for explosive, short-duration efforts</li>
+      </ul>
+
+      <h2>How Fiber Types Affect Performance</h2>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Activity</th>
+            <th>Primary Fiber Type Used</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Marathon running</td>
+            <td>Type I (slow-twitch)</td>
+          </tr>
+          <tr>
+            <td>100m sprint</td>
+            <td>Type IIx (fast-twitch)</td>
+          </tr>
+          <tr>
+            <td>800m run</td>
+            <td>Mix of Type I and Type IIa</td>
+          </tr>
+          <tr>
+            <td>Powerlifting</td>
+            <td>Type IIa and IIx</td>
+          </tr>
+          <tr>
+            <td>Cycling (long distance)</td>
+            <td>Primarily Type I</td>
+          </tr>
+          <tr>
+            <td>Jumping/throwing</td>
+            <td>Type IIx</td>
+          </tr>
+          <tr>
+            <td>CrossFit/circuit training</td>
+            <td>Mix of all types</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2>Genetics and Fiber Type Distribution</h2>
+
+      <p>
+        The average person has roughly a 50/50 split between slow-twitch and fast-twitch fibers, but this varies significantly based on genetics.
+      </p>
+
+      <ul>
+        <li>Elite marathon runners may have 70-80% slow-twitch fibers</li>
+        <li>Elite sprinters may have 70-80% fast-twitch fibers</li>
+        <li>Most people fall somewhere in between</li>
+      </ul>
+
+      <p>
+        This genetic distribution partly explains why some people naturally gravitate toward and excel at certain activities. If you've always felt more comfortable with long, steady efforts than explosive ones (or vice versa), your fiber type composition may be a factor.
+      </p>
+
+      <h2>Can You Change Your Fiber Type?</h2>
+
+      <p>
+        This is a common question, and the answer is nuanced:
+      </p>
+
+      <h3>What Training CAN Do:</h3>
+
+      <ul>
+        <li><strong>Shift Type IIx → Type IIa:</strong> Endurance training converts the most explosive fibers (IIx) into more fatigue-resistant Type IIa fibers</li>
+        <li><strong>Improve efficiency:</strong> Both fiber types become more efficient at their primary function with training</li>
+        <li><strong>Increase size:</strong> Hypertrophy training can increase the size of either fiber type</li>
+        <li><strong>Enhance metabolic capacity:</strong> Endurance training increases mitochondria in all fiber types</li>
+      </ul>
+
+      <h3>What Training CANNOT Do:</h3>
+
+      <ul>
+        <li><strong>Convert Type I ↔ Type II:</strong> True conversion between slow and fast-twitch appears limited in humans</li>
+        <li><strong>Change your genetic baseline:</strong> Your fundamental ratio is largely set</li>
+      </ul>
+
+      <p>
+        The practical takeaway: You can optimize what you have, but you probably can't completely transform from an endurance athlete to a sprinter (or vice versa) through training alone.
+      </p>
+
+      <h2>Training Implications</h2>
+
+      <h3>For Hypertrophy (Muscle Growth)</h3>
+
+      <p>
+        Both fiber types can grow, but they respond to different stimuli:
+      </p>
+
+      <ul>
+        <li><strong>Type II fibers:</strong> Respond well to heavy loads, moderate reps (6-12), and explosive movements</li>
+        <li><strong>Type I fibers:</strong> May require higher reps (15-25+), more time under tension, and shorter rest periods</li>
+      </ul>
+
+      <p>
+        This is one reason why varied rep ranges in your training may produce better overall muscle development than always training in one range.
+      </p>
+
+      <h3>For Strength</h3>
+
+      <p>
+        Maximum strength depends heavily on Type II fiber recruitment. Heavy, low-rep training (1-5 reps) preferentially develops the neural pathways and fibers needed for peak force production.
+      </p>
+
+      <h3>For Endurance</h3>
+
+      <p>
+        Endurance training increases the oxidative capacity of all fiber types and shifts Type IIx fibers toward Type IIa. High-volume, lower-intensity training develops the slow-twitch system.
+      </p>
+
+      <h3>For Power and Speed</h3>
+
+      <p>
+        Explosive training (plyometrics, Olympic lifts, sprints) maintains and develops Type IIx fibers. Interestingly, too much endurance training can convert these fibers to Type IIa, potentially reducing peak power—something sprinters need to consider.
+      </p>
+
+      <h2>Fiber Type and Aging</h2>
+
+      <p>
+        As we age, we preferentially lose Type II (fast-twitch) fibers. This contributes to:
+      </p>
+
+      <ul>
+        <li>Decreased power and explosive ability</li>
+        <li>Slower reaction times</li>
+        <li>Reduced muscle mass (sarcopenia)</li>
+        <li>Increased fall risk</li>
+      </ul>
+
+      <p>
+        This is why strength and power training become increasingly important with age. While we can't prevent all Type II fiber loss, training can slow it significantly and maintain the fibers we have.
+      </p>
+
+      <h2>Practical Applications</h2>
+
+      <h3>Don't Obsess Over Fiber Types</h3>
+
+      <p>
+        Unless you're an elite athlete, your fiber type distribution probably isn't limiting your progress. Proper training, nutrition, and recovery matter far more for most people than optimizing for fiber types.
+      </p>
+
+      <h3>Train for Your Goals</h3>
+
+      <p>
+        Your training should match your objectives:
+      </p>
+
+      <ul>
+        <li><strong>Want to run a marathon?</strong> Focus on aerobic development</li>
+        <li><strong>Want to get stronger?</strong> Lift heavy with adequate rest</li>
+        <li><strong>Want overall fitness?</strong> Include both strength and endurance work</li>
+      </ul>
+
+      <h3>Use Varied Rep Ranges</h3>
+
+      <p>
+        For general fitness and muscle development, training across multiple rep ranges ensures you're developing all fiber types:
+      </p>
+
+      <ul>
+        <li>Heavy work (3-6 reps) for strength and Type II development</li>
+        <li>Moderate work (8-12 reps) for hypertrophy</li>
+        <li>Higher reps (15-25+) for endurance and Type I development</li>
+      </ul>
+
+      <h3>Consider Your Natural Tendencies</h3>
+
+      <p>
+        Pay attention to what types of training you naturally excel at and enjoy. This can give you clues about your fiber type distribution and help you set realistic goals.
+      </p>
+
+      <h2>The Bottom Line</h2>
+
+      <p>
+        Muscle fiber types explain some of the variation we see in athletic performance and training response. While genetics set your baseline distribution, training can optimize how well each fiber type functions.
+      </p>
+
+      <p>
+        Key points:
+      </p>
+
+      <ul>
+        <li>Type I fibers are built for endurance; Type II for power and speed</li>
+        <li>Genetics largely determine your fiber type ratio</li>
+        <li>Training can shift Type IIx toward Type IIa, but not slow-twitch to fast-twitch</li>
+        <li>Varied training develops all fiber types</li>
+        <li>Aging preferentially affects fast-twitch fibers—strength training helps preserve them</li>
+      </ul>
+
+      <p>
+        For most people, the practical advice is simple: train consistently for your goals, use varied approaches, and don't use fiber types as an excuse. Your muscles will adapt to the demands you place on them.
+      </p>
+    </BlogPost>
+  )
+}
