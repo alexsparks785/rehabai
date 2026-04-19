@@ -1,322 +1,278 @@
 ---
-title: "Vertigo Exercises: Reduce Dizziness and Improve Balance"
-description: "Evidence-based exercises for vertigo and dizziness including the Epley maneuver, Brandt-Daroff exercises, and vestibular rehabilitation techniques."
-date: "2026-03-13"
+title: "Vertigo Exercises: Vestibular Rehabilitation to Stop the Spinning"
+description: "Effective exercises for vertigo and dizziness relief. Learn the Epley maneuver, Brandt-Daroff exercises, and vestibular rehabilitation techniques."
+date: "2026-04-19"
 readTime: "10 min read"
+tags: ["vertigo", "dizziness", "vestibular", "balance", "BPPV"]
 ---
 
-# Vertigo Exercises: Reduce Dizziness and Improve Balance
+# Vertigo Exercises: Vestibular Rehabilitation to Stop the Spinning
 
-That spinning sensation that makes the room whirl around you? That's vertigo, and while it's terrifying when it happens, specific exercises can often resolve it completely. The key is understanding what type of vertigo you have and using the right exercises for your condition.
+The room spins. You feel like you're falling even when lying still. Simple movements—rolling over in bed, looking up, bending down—trigger waves of dizziness that leave you nauseated and disoriented. Vertigo is terrifying.
+
+The good news: many types of vertigo respond remarkably well to specific exercises. In fact, for the most common cause of vertigo (BPPV), a simple repositioning maneuver can cure it in minutes. For other vestibular problems, rehabilitation exercises can significantly reduce symptoms.
+
+Let's stop the spinning.
 
 ## Understanding Vertigo
 
-Vertigo is the sensation that you or your surroundings are spinning or moving when they're not. It's different from general dizziness or lightheadedness—vertigo has a distinct rotational quality.
+Vertigo is the sensation that you or your environment is moving when it isn't. It's different from lightheadedness or general dizziness—vertigo has a distinct spinning or tilting quality.
 
-### Types of Vertigo
+**Common causes:**
 
-**BPPV (Benign Paroxysmal Positional Vertigo):**
-- Most common type (50% of vertigo cases)
-- Brief spinning episodes triggered by head position changes
-- Caused by loose crystals in the inner ear
-- Highly treatable with specific maneuvers
+**BPPV (Benign Paroxysmal Positional Vertigo):** The most common cause. Tiny calcium crystals dislodge in the inner ear, triggering brief but intense spinning with head movements.
 
-**Vestibular Neuritis/Labyrinthitis:**
-- Caused by viral inflammation of inner ear
-- Constant vertigo lasting days to weeks
-- Gradually improves with vestibular rehabilitation
+**Vestibular neuritis/labyrinthitis:** Inflammation of the inner ear or vestibular nerve, often following a viral infection. Causes prolonged vertigo.
 
-**Meniere's Disease:**
-- Episodes of vertigo with hearing changes and tinnitus
-- Requires medical management
-- Exercises help between episodes
+**Meniere's disease:** Inner ear disorder causing episodes of vertigo, hearing loss, and tinnitus.
 
-**Cervicogenic Dizziness:**
-- Dizziness related to neck dysfunction
-- Improves with neck exercises and posture correction
+**Vestibular migraine:** Migraine-related dizziness and vertigo.
 
-## The Epley Maneuver (For BPPV)
+**Important:** See a healthcare provider for new or severe vertigo, especially if accompanied by:
+- Hearing loss
+- Severe headache
+- Difficulty speaking or swallowing
+- Weakness or numbness
+- Vision changes
+- Loss of consciousness
 
-The Epley maneuver repositions displaced crystals in your inner ear. It's 80-90% effective for posterior canal BPPV (the most common type).
+## BPPV: The Epley Maneuver
 
-### Right Ear BPPV
+BPPV is the most treatable cause of vertigo. The Epley maneuver repositions the displaced crystals.
 
-Perform if your vertigo is triggered by turning to the right or lying on your right side:
+**For right-side BPPV** (vertigo triggered by turning head right or rolling right in bed):
 
-**Starting position:**
-1. Sit on your bed with legs extended
-2. Turn your head 45 degrees to the RIGHT
+1. **Start sitting on your bed**, legs extended. Place a pillow behind you so it will be under your shoulders (not head) when you lie back.
 
-**Position 1:**
-1. Quickly lie back with your head still turned 45 degrees right
-2. Your head should hang slightly over the edge of the bed
-3. Wait 30-60 seconds (you may feel vertigo—this is normal)
+2. **Turn your head 45 degrees to the right** (toward the affected ear).
 
-**Position 2:**
-1. Turn your head 90 degrees to the LEFT (now looking 45 degrees left)
-2. Don't lift your head—just turn it
-3. Wait 30-60 seconds
+3. **Quickly lie back**, keeping your head turned. Your shoulders should be on the pillow, head reclined, hanging slightly below body level. Stay here for 30 seconds or until vertigo stops.
 
-**Position 3:**
-1. Roll your body onto your LEFT side
-2. Turn your head another 90 degrees so you're looking at the floor
-3. Wait 30-60 seconds
+4. **Turn your head 90 degrees to the left** (without lifting it). Now you're looking left at 45 degrees. Stay for 30 seconds.
 
-**Position 4:**
-1. Slowly sit up, keeping your head turned
-2. Return head to center
-3. Remain sitting for a few minutes
+5. **Roll your entire body onto your left side**, turning your head so you're looking at the floor at 45 degrees. Stay for 30 seconds.
 
-**After the maneuver:**
-- Sleep with head slightly elevated (30 degrees) for 1-2 nights
-- Avoid rapid head movements for 24-48 hours
-- Repeat the maneuver 2-3 times daily until symptoms resolve
+6. **Slowly sit up** from this side-lying position.
 
-### Left Ear BPPV
+**For left-side BPPV:** Do the mirror image—start by turning head left, roll to right side.
 
-Perform the same sequence but mirror everything—turn head to LEFT first, then to RIGHT, roll onto RIGHT side.
+**Tips:**
+- Expect vertigo during the maneuver—this means it's working
+- Do 1-3 times daily until vertigo resolves
+- Wait 10 minutes between repetitions
+- After the maneuver, try to keep your head upright for the rest of the day
 
-### How to Know Which Ear
-
-The affected ear is usually the one facing down when symptoms are triggered. You can also test:
-
-1. Sit on bed
-2. Turn head 45 degrees to one side
-3. Lie back quickly
-4. If vertigo occurs after 5-20 seconds, that ear is affected
-5. Test the other side to confirm
+**Success rate:** The Epley maneuver resolves BPPV in about 80% of cases, often after just 1-2 treatments.
 
 ## Brandt-Daroff Exercises
 
-These exercises help your brain adapt to the abnormal signals from your inner ear. They're useful for BPPV that doesn't fully respond to the Epley, or for other types of vertigo.
+An alternative for BPPV that you can do without knowing which ear is affected.
 
-### The Technique
+1. **Start sitting on the edge of your bed.**
 
-**Starting position:** Sit on the edge of your bed
+2. **Quickly lie down on your right side**, with your head turned 45 degrees upward (nose pointing toward ceiling).
 
-**Step 1:**
-1. Quickly lie down on your RIGHT side
-2. Turn your head up 45 degrees (looking at the ceiling)
-3. Stay for 30 seconds OR until dizziness stops
+3. **Stay for 30 seconds** or until vertigo stops.
 
-**Step 2:**
-1. Return to sitting
-2. Wait 30 seconds
+4. **Return to sitting.** Wait 30 seconds.
 
-**Step 3:**
-1. Quickly lie down on your LEFT side
-2. Turn your head up 45 degrees
-3. Stay for 30 seconds OR until dizziness stops
+5. **Quickly lie down on your left side**, head turned 45 degrees upward.
 
-**Step 4:**
-1. Return to sitting
-2. Wait 30 seconds
+6. **Stay for 30 seconds.**
 
-**This is one repetition.** Perform 5 repetitions, 3 times daily.
+7. **Return to sitting.** This is one cycle.
 
-### Expected Response
+**Frequency:** 5 cycles, 3 times per day, for 2 weeks (or until vertigo-free for 2 consecutive days).
 
-- First few days: May trigger significant dizziness
-- Days 3-7: Dizziness duration decreases
-- Days 7-14: Minimal or no dizziness
-- Continue for 2-3 weeks total
+## Half Somersault Maneuver (Foster Maneuver)
+
+An alternative to Epley that some find easier.
+
+**For right-side BPPV:**
+
+1. **Kneel on the floor**, sit back on your heels.
+
+2. **Tip your head back** and look at the ceiling. Wait for any vertigo to stop.
+
+3. **Put your head down** as if doing a somersault, tucking chin to knees. Wait 30 seconds.
+
+4. **Turn your head 45 degrees toward your right shoulder** (affected side). Wait 30 seconds.
+
+5. **Keeping your head turned, raise it to back level** (like a table top). Wait 30 seconds.
+
+6. **Keeping head turned, sit up quickly.**
+
+**For left-side BPPV:** Turn head toward left shoulder in step 4.
 
 ## Vestibular Rehabilitation Exercises
 
-These exercises train your brain to rely less on your inner ear and more on vision and body position sense. They're essential for vestibular neuritis, persistent BPPV, and chronic dizziness.
+For vestibular neuritis, labyrinthitis, or chronic dizziness, these exercises help your brain compensate for vestibular dysfunction.
 
 ### Gaze Stabilization Exercises
 
-These exercises teach your brain to keep vision stable during head movement.
+Train your eyes to stay stable during head movement.
 
-**Exercise 1: Horizontal Head Movement**
-1. Hold a business card with a letter on it at arm's length
-2. Focus on the letter
-3. Turn your head side to side while keeping the letter in focus
-4. Start slowly (1 second each direction)
-5. Gradually increase speed as tolerated
-6. Continue for 1-2 minutes
-7. Repeat 3-5 times daily
+**VOR x1 (Horizontal):**
+1. Hold a card with a letter or image at arm's length
+2. Focus on the target
+3. Turn your head side to side while keeping eyes fixed on the target
+4. Start slowly, increase speed as tolerated
+5. Do for 1-2 minutes, 3-5 times daily
 
-**Exercise 2: Vertical Head Movement**
-1. Same setup as above
-2. Nod your head up and down while keeping the letter in focus
-3. 1-2 minutes, 3-5 times daily
+**VOR x1 (Vertical):**
+Same exercise, but move head up and down.
 
-**Exercise 3: Walking with Gaze Stabilization**
-1. Hold the card and focus on the letter
-2. Walk forward while turning your head side to side
-3. Maintain focus on the letter
-4. Start with slow walking and head turns
-5. Progress as tolerated
+**Progression:**
+- Increase head speed
+- Do while standing instead of sitting
+- Do while walking
+- Change backgrounds (plain wall → busy environment)
 
 ### Balance Exercises
 
-Progress through these exercises as your balance improves.
+Progressively challenge your balance system.
 
-**Level 1: Static Balance**
-- Stand with feet shoulder-width apart: 30 seconds
-- Stand with feet together: 30 seconds
-- Stand heel-to-toe (tandem stance): 30 seconds
-- Repeat each 3 times
+**Standing Balance Progression:**
+1. Stand feet together, eyes open (30-60 seconds)
+2. Stand feet together, eyes closed (30-60 seconds)
+3. Tandem stance (heel-to-toe), eyes open (30 seconds)
+4. Tandem stance, eyes closed (30 seconds)
+5. Single-leg stance, eyes open (30 seconds each)
+6. Single-leg stance, eyes closed (as tolerated)
 
-**Level 2: Eyes Closed**
-- Repeat Level 1 with eyes closed
-- Stand near a wall for safety
+**Surface Progression:**
+- Firm floor → carpet → foam pad → pillow
 
-**Level 3: Soft Surface**
-- Repeat exercises standing on a pillow or foam pad
-- With eyes open, then closed
-
-**Level 4: Dynamic Balance**
-- Walk in a straight line
-- Walk heel-to-toe
-- Walk with head turns (left-right)
-- Walk with head movements (up-down)
+**Always have support nearby for safety.**
 
 ### Habituation Exercises
 
-These exercises deliberately provoke mild dizziness to desensitize your system.
+Repeatedly expose yourself to movements that trigger dizziness (in a controlled way) to reduce sensitivity.
 
-**Important:** Only perform movements that cause MILD dizziness (3/10 maximum). Stop if you feel nauseated.
+**Motion Sensitivity Exercises:**
+1. Identify movements that trigger mild-moderate dizziness
+2. Perform those movements deliberately
+3. Wait for dizziness to subside
+4. Repeat 3-5 times per session
+5. Do 2-3 sessions daily
 
-**Exercise 1: Sitting to Standing**
-1. Sit in a chair
-2. Stand up quickly
-3. Sit back down
-4. Repeat 10 times
-5. Rest until dizziness subsides
+**Examples:**
+- Turning head side to side
+- Looking up
+- Bending over
+- Rolling from side to side
+- Going from lying to sitting
 
-**Exercise 2: Head Turns**
-1. Sit comfortably
-2. Turn head quickly to the right
-3. Return to center
-4. Turn quickly to the left
-5. Return to center
-6. Repeat 10 times each direction
+The key is controlled exposure—enough to trigger mild symptoms, not so much that you're overwhelmed.
 
-**Exercise 3: Bending Over**
-1. Sit in a chair
-2. Bend forward to pick up an object from the floor
-3. Return to sitting
-4. Repeat 10 times
+### Walking Exercises
 
-**Exercise 4: Lying Down and Getting Up**
-1. From sitting, lie down quickly
-2. Sit back up quickly
-3. Repeat 10 times
+**Walking with Head Turns:**
+1. Walk in a safe area
+2. Turn your head side to side while walking
+3. Keep a target in focus ahead of you
+4. Start with slow head turns, progress to faster
 
-## Complete Vestibular Rehabilitation Program
+**Walking with Stops and Starts:**
+1. Walk, then stop suddenly
+2. Turn 90 or 180 degrees
+3. Continue walking
+4. Practice changing directions
 
-### Week 1-2
+## Sample Vestibular Rehab Program
 
-**3 times daily:**
-- Gaze stabilization (horizontal): 1 minute
-- Gaze stabilization (vertical): 1 minute
-- Static balance exercises (Level 1): 2 minutes
-- Brandt-Daroff exercises: 5 repetitions
+### For BPPV
+**Week 1-2:**
+- Epley maneuver: 1-3 times daily until resolved
+- Or Brandt-Daroff: 5 cycles, 3 times daily
 
-### Week 3-4
+Once BPPV resolves, no ongoing exercises needed unless it recurs.
 
-**3 times daily:**
-- Gaze stabilization (horizontal and vertical): 2 minutes each
-- Balance exercises (Level 2, eyes closed): 2 minutes
-- Habituation exercises: 10 reps of 2 exercises
-- Walking with head turns: 2 minutes
+### For Vestibular Neuritis/Chronic Dizziness
+**Daily:**
+- Gaze stabilization (horizontal): 2 minutes, 3-5 times
+- Gaze stabilization (vertical): 2 minutes, 3-5 times
+- Balance exercises: 10-15 minutes
+- Habituation exercises: 10-15 minutes
+- Walking practice: 10-20 minutes
 
-### Week 5-6
+**Progression:**
+- Increase difficulty every 1-2 weeks
+- Add more challenging environments
+- Increase duration and intensity
 
-**2-3 times daily:**
-- Gaze stabilization (increased speed): 2 minutes
-- Balance exercises (Level 3, soft surface): 3 minutes
-- All habituation exercises: 10 reps each
-- Walking with gaze stabilization: 5 minutes
+**Timeline:** Vestibular compensation can take 6-12 weeks or longer. Consistency is key.
 
-### Week 7+
+## Managing Symptoms During Recovery
 
-**Daily maintenance:**
-- Gaze stabilization: 5 minutes
-- Balance challenges (Level 4): 5 minutes
-- Continue as needed for symptom prevention
-
-## Tips for Success
-
-### Managing Dizziness During Exercises
-
-- Start with low-intensity versions
-- Take breaks as needed
-- Have someone nearby for balance exercises
+**During vertigo episodes:**
+- Sit or lie down immediately
+- Focus on a stationary object
+- Avoid sudden head movements
 - Stay hydrated
-- Avoid exercises on an empty stomach
+- Avoid bright lights and screens if they worsen symptoms
 
-### What's Normal
+**General tips:**
+- Move slowly and deliberately
+- Use handrails on stairs
+- Sit down to put on pants/shoes
+- Turn on lights before entering dark rooms
+- Remove tripping hazards
 
-- Mild dizziness during and after exercises (decreases over time)
-- Brief increase in symptoms initially
-- Good days and bad days
-- Gradual improvement over weeks
+## When to Seek Professional Help
 
-### When to Stop
+See a healthcare provider if:
+- Vertigo is new, severe, or progressive
+- You have hearing loss or tinnitus
+- You have other neurological symptoms
+- Home exercises don't help after 2-3 weeks
+- You can't do exercises safely on your own
+- You're falling or at high fall risk
 
-Stop and rest if you experience:
-- Severe dizziness (room spinning intensely)
-- Nausea or vomiting
-- Falling or near-falls
-- Symptoms lasting more than 30 minutes after exercise
+**Vestibular physical therapy** can provide:
+- Proper diagnosis of which ear/canal is affected
+- Professionally performed repositioning maneuvers
+- Customized rehabilitation program
+- Hands-on guidance and progression
 
-### Lifestyle Factors
+## What to Expect
 
-- **Sleep:** Inadequate sleep worsens vertigo
-- **Hydration:** Dehydration aggravates symptoms
-- **Caffeine/alcohol:** Can trigger dizziness in some people
-- **Stress:** Anxiety makes vertigo worse
+**For BPPV:**
+- Often resolves in days to 1-2 weeks with maneuvers
+- May recur (30-50% chance within 5 years)
+- If it recurs, repeat the maneuvers
 
-## When to See a Doctor
+**For vestibular neuritis/labyrinthitis:**
+- Acute severe vertigo typically improves in days to weeks
+- Residual dizziness and imbalance may take months to resolve
+- Vestibular rehabilitation accelerates recovery
 
-Seek medical attention for:
+**For chronic vestibular conditions:**
+- Ongoing management may be needed
+- Rehabilitation reduces symptoms even if the underlying condition persists
+- Most people improve significantly with consistent exercise
 
-- Vertigo with headache, especially sudden severe headache
-- Vertigo with slurred speech or weakness
-- Vertigo with hearing loss
-- Persistent vertigo that doesn't improve
-- Vertigo after head injury
-- Falls from dizziness
-- Vertigo with loss of consciousness
+## Living with Vestibular Issues
 
-### Red Flags
+**Ongoing prevention:**
+- Continue balance exercises even after recovery
+- Stay physically active
+- Address vision problems (they affect balance)
+- Manage other conditions that affect balance (diabetes, neuropathy)
 
-These symptoms require immediate medical attention:
-- Sudden severe headache ("worst headache of life")
-- Double vision or vision loss
-- Facial drooping or numbness
-- Difficulty speaking or understanding speech
-- Weakness on one side of the body
-- Difficulty walking due to coordination problems
+**Environmental modifications:**
+- Good lighting throughout home
+- Nightlights in hallways and bathrooms
+- Remove throw rugs and clutter
+- Install grab bars in bathroom
+- Use non-slip mats
 
-## Expected Timeline
+## The Path Forward
 
-**BPPV:**
-- Epley maneuver: 80% resolve in 1-2 treatments
-- Remaining cases: 1-2 weeks of exercises
+Vertigo is frightening, but it's usually treatable. Whether it's a simple repositioning maneuver for BPPV or a longer rehabilitation program for other vestibular issues, the exercises work.
 
-**Vestibular Neuritis:**
-- Acute phase: 1-3 days of severe symptoms
-- Recovery: 1-6 weeks with exercises
-- Full compensation: 3-6 months
+The brain is remarkably adaptable. Given the right stimulation, it learns to compensate for vestibular dysfunction. Your job is to provide that stimulation through consistent exercise.
 
-**Chronic Dizziness:**
-- Noticeable improvement: 2-4 weeks
-- Significant improvement: 6-8 weeks
-- Ongoing maintenance often needed
+Do the exercises. Be patient with the timeline. The spinning will stop.
 
-## Key Takeaways
-
-1. **BPPV is highly treatable**—the Epley maneuver works for most cases
-2. **Brandt-Daroff exercises** help when Epley isn't enough
-3. **Gaze stabilization** retrains your balance system
-4. **Balance exercises** build confidence and reduce fall risk
-5. **Mild dizziness during exercises is expected** and decreases over time
-6. **Consistency matters**—daily exercises produce faster results
-7. **See a doctor** if exercises don't help or symptoms are severe
-
-Vertigo is frightening, but it's usually treatable. The inner ear can heal, and the brain can learn to compensate for vestibular damage. With the right exercises and patience, most people return to normal activities. Start with the appropriate exercises for your type of vertigo, and progress as your symptoms allow.
+Steady ground is ahead.
