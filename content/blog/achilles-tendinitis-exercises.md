@@ -1,321 +1,264 @@
 ---
-title: "Achilles Tendinitis Exercises: Heal and Strengthen Your Achilles"
-description: "Evidence-based exercises for Achilles tendinitis recovery. Learn eccentric loading protocols, stretching, and strengthening to heal your Achilles tendon."
-date: "2026-03-20"
+title: "Achilles Tendinitis Exercises: Heal Your Tendon and Return to Activity"
+description: "Evidence-based exercises for Achilles tendinitis recovery. Eccentric strengthening, stretching, and progression protocols to get you back on your feet."
+date: "2026-04-19"
 readTime: "10 min read"
-category: "Rehabilitation"
+tags: ["achilles", "tendinitis", "running", "ankle", "rehab"]
 ---
 
-# Achilles Tendinitis Exercises: Heal and Strengthen Your Achilles
+# Achilles Tendinitis Exercises: Heal Your Tendon and Return to Activity
 
-Achilles tendinitis is one of the most common overuse injuries, especially in runners, jumpers, and weekend warriors who ramp up activity too quickly. The good news: eccentric exercise protocols have strong research support for healing Achilles tendon problems—often better than rest alone.
+That nagging pain at the back of your ankle. The stiffness when you first get out of bed. The ache that warms up during activity but returns with a vengeance afterward. Achilles tendinitis is one of the most common—and most stubborn—overuse injuries.
+
+The Achilles tendon connects your calf muscles to your heel and handles enormous forces with every step, jump, and push-off. When it becomes irritated and painful, it affects everything you do on your feet.
+
+The good news: Achilles tendinitis responds well to the right exercise approach. The key word is "right"—generic stretching and rest often aren't enough. Let's get you on the path to recovery.
 
 ## Understanding Achilles Tendinitis
 
-### Types of Achilles Problems
+Achilles tendinitis (or tendinopathy) is an overuse injury where the tendon becomes irritated, often developing microscopic damage that doesn't heal properly. It typically presents in two locations:
 
-**Insertional tendinitis:**
-- Pain where tendon meets heel bone
-- Often associated with bone spurs
-- Aggravated by hill running, stair climbing
-- May be worse after rest
+**Midportion tendinitis:** Pain 2-6 cm above where the tendon attaches to the heel. Most common type.
 
-**Mid-portion tendinitis:**
-- Pain 2-6 cm above heel
-- Often visible swelling or thickening
-- Most common type in runners
-- Better response to eccentric loading
+**Insertional tendinitis:** Pain where the tendon attaches to the heel bone. Often associated with a bump (Haglund's deformity) or bone spurs.
 
-**Tendinosis:**
-- Degeneration without acute inflammation
-- Chronic thickening of tendon
-- Responds well to loading protocols
-- Takes longer to heal (3-6 months)
+The treatment approach differs slightly depending on location, which we'll address.
 
-### Why Loading Works
+## Why Traditional Rest Doesn't Work
 
-Traditional advice was rest, ice, anti-inflammatories. Current evidence shows:
+Complete rest feels logical—if the tendon is injured, stop using it. But tendons need load to heal properly. Complete rest leads to:
+- Decreased tendon strength
+- Reduced blood flow
+- Loss of the tendon's ability to handle stress
 
-- **Tendons need load to heal** - Complete rest leads to weakening
-- **Eccentric loading** builds tendon strength more effectively
-- **Progressive overload** stimulates collagen remodeling
-- **Time under tension** matters for tendon adaptation
+The solution isn't rest OR activity. It's the right kind of activity at the right intensity—progressive loading that stimulates healing without causing further damage.
 
-## Phase 1: Acute Pain Management (Week 1-2)
+## The Cornerstone: Eccentric Exercises
 
-When pain is severe, start with gentle movement and relative rest.
+Eccentric exercises—where the muscle lengthens under load—are the gold standard for Achilles tendinitis. They've been studied extensively and consistently outperform other treatments.
 
-### Toe Flexion and Extension
-**How to do it:**
-1. Sit with legs extended
-2. Point toes away (plantarflexion)
-3. Pull toes back toward shin (dorsiflexion)
-4. 20-30 reps, 2-3 times daily
-5. Should be pain-free
+### Eccentric Heel Drops (Alfredson Protocol)
 
-### Ankle Circles
-**How to do it:**
-1. Sit with leg elevated
-2. Draw circles with foot
-3. 10 clockwise, 10 counterclockwise
-4. Each foot, 2-3 times daily
+This is the most researched exercise for midportion Achilles tendinitis.
 
-### Seated Calf Raise (Gentle)
-**How to do it:**
-1. Sit in chair, feet flat
-2. Slowly raise heels
-3. Hold 2-3 seconds
-4. Lower slowly
-5. 15-20 reps, 2-3 sets
+**On Flat Ground (Starting Point):**
+1. Stand on both feet, rise up onto your toes
+2. Shift your weight to the affected leg
+3. Slowly lower your heel to the ground over 3-5 seconds
+4. Use both legs to rise back up
+5. Repeat
 
-### Relative Rest Guidelines
-- Avoid activities that cause pain >3/10
-- Walking is usually fine
-- No running, jumping, or explosive movements
-- Ice after activity if needed (10-15 min)
+**On a Step (Standard Protocol):**
+1. Stand on a step with the balls of your feet on the edge, heels hanging off
+2. Rise up on both feet
+3. Shift weight to the affected leg
+4. Slowly lower your heel below the level of the step (3-5 seconds)
+5. Use both legs to return to the starting position
+6. Repeat
 
-## Phase 2: Eccentric Loading Protocol (Week 2-12)
+**The Protocol:**
+- 3 sets of 15 repetitions, twice daily
+- Do both with knee straight (targets gastrocnemius) and knee slightly bent (targets soleus)
+- That's 180 total repetitions per day
+- Continue for 12 weeks
 
-The Alfredson Protocol is the gold standard for Achilles tendinitis. Research shows 60-90% success rates with this approach.
+**Important:** Some discomfort during the exercise is acceptable and expected. Stop if pain is severe (above 5/10) or if pain worsens significantly the next day.
 
-### Alfredson Eccentric Heel Drops
+### Modified Approach for Insertional Tendinitis
 
-**Straight-knee version (targets gastrocnemius):**
+The standard heel drop (letting the heel drop below the step) can aggravate insertional tendinitis by compressing the tendon against the heel bone.
 
-1. Stand on step/stair, balls of feet on edge
-2. Rise up on both feet (concentric - use both legs)
-3. Shift weight to affected leg
-4. Slowly lower heel below step level (3-5 seconds)
-5. Use good leg to return to top
-6. 15 reps, 3 sets, twice daily
+**Modification:**
+- Perform eccentric heel drops on flat ground only
+- Don't let the heel drop below the level of the floor
+- Focus on the lowering phase from tiptoe to flat foot
 
-**Bent-knee version (targets soleus):**
+## Stretching Exercises
 
-Same as above, but:
-- Slightly bend knee of working leg (15-20°)
-- Maintains bend throughout lowering
-- 15 reps, 3 sets, twice daily
+Gentle stretching complements strengthening but shouldn't be the primary treatment.
 
-**Key Points:**
-- Do both versions each session
-- Mild pain (3-4/10) during exercise is OK
-- Increase load with backpack/weights when too easy
-- Total: 180 heel drops per day
+### Gastrocnemius Stretch
+1. Stand facing a wall, hands on the wall
+2. Step one foot back, keeping it straight with heel down
+3. Bend your front knee and lean forward
+4. Feel the stretch in your upper calf
+5. Hold 30-45 seconds, repeat 3 times each side
 
-### Progression Guidelines
-
-**Week 1-2:** Bodyweight only
-**Week 3-4:** Add 5-10 lbs if pain-free
-**Week 5-6:** Continue adding 5-10 lbs weekly
-**Week 8-12:** May reach 20-40+ lbs added
-
-**Pain guidelines:**
-- 0-3/10 pain: Progress as planned
-- 4-5/10 pain: Maintain current level
-- 6+/10 pain: Reduce load, check form
-
-## Phase 3: Strengthening and Loading (Week 6+)
-
-Begin strengthening once eccentric drops are comfortable with added weight.
-
-### Standing Calf Raises (Concentric-Eccentric)
-**How to do it:**
-1. Stand on step, balls of feet on edge
-2. Rise up on both feet (full range)
-3. Lower slowly on both feet
-4. 15 reps, 3 sets
-5. Progress to single leg when ready
-
-### Seated Calf Raises (Heavy)
-Targets soleus specifically.
-
-**How to do it:**
-1. Sit with weight on knees
-2. Feet on block or step
-3. Raise heels high
-4. Lower slowly
-5. 15-20 reps, 3 sets
-
-### Single-Leg Balance
-**How to do it:**
-1. Stand on affected leg
-2. Maintain balance 30-60 seconds
-3. Progress: eyes closed, unstable surface
-4. 3-4 rounds
-
-### Heel Walking
-**How to do it:**
-1. Walk on heels only (toes up)
-2. 20-30 steps
-3. Rest and repeat 3-4 times
-4. Strengthens tibialis anterior
-
-### Toe Walking
-**How to do it:**
-1. Walk on tiptoes
-2. Stay as high as possible
-3. 20-30 steps
-4. 3-4 sets
-
-## Phase 4: Return to Activity (Week 8-12+)
-
-Before returning to running or sports:
-
-**Criteria:**
-- Pain-free walking and stairs
-- Single-leg calf raises without pain
-- Can hop on affected leg pain-free
-- Full range of motion
-
-### Return to Running Protocol
-
-**Week 1:** Walk/jog intervals
-- 1 min jog, 2 min walk x 10
-- Every other day
-
-**Week 2:** Increase jog time
-- 2 min jog, 1 min walk x 10
-- Every other day
-
-**Week 3:** Continuous jogging
-- 15-20 minutes easy pace
-- 3 sessions
-
-**Week 4:** Progressive mileage
-- Add 10-15% volume per week
-- No speed work yet
-
-**Week 6+:** Introduce hills/speed
-- Gradual introduction
-- Monitor for pain return
-
-## Stretching and Mobility
-
-### Gastrocnemius Stretch (Wall)
-**How to do it:**
-1. Hands on wall, back leg straight
-2. Front leg bent
-3. Lean into wall, heel down
-4. Hold 30 seconds
-5. 3-4 reps each leg
-
-### Soleus Stretch (Wall)
-**How to do it:**
+### Soleus Stretch
 1. Same position as above
-2. Back knee slightly bent
-3. Feel stretch lower in calf
-4. Hold 30 seconds
-5. 3-4 reps each leg
+2. Bend the back knee while keeping the heel down
+3. Feel the stretch in your lower calf, closer to the Achilles
+4. Hold 30-45 seconds, repeat 3 times each side
 
 ### Plantar Fascia Stretch
-Connected to calf complex—worth addressing.
+Tightness in the plantar fascia can contribute to Achilles problems.
 
-**How to do it:**
-1. Sit, cross affected leg over knee
-2. Pull toes back toward shin
-3. Feel stretch along arch
-4. Hold 30 seconds
-5. 3-4 reps
+1. Sit and cross the affected foot over your opposite knee
+2. Pull your toes back toward your shin
+3. Feel the stretch along the bottom of your foot
+4. Hold 30 seconds, repeat 3 times
 
-### Foam Rolling Calves
-**How to do it:**
-1. Sit with calf on roller
-2. Roll from ankle to below knee
-3. Pause on tender spots
-4. Cross legs for more pressure
-5. 1-2 minutes per leg
+**Note for insertional tendinitis:** Aggressive stretching that puts the ankle in extreme dorsiflexion (toes pulled toward shin) can aggravate symptoms. Stretch gently.
 
-## Insertional Achilles: Special Considerations
+## Progressive Loading Program
 
-Insertional tendinitis (at the heel) doesn't respond as well to standard eccentric drops. Modified approach:
+Beyond eccentric exercises, progressive loading helps the tendon adapt to increasing demands.
 
-### Modified Heel Drops (Floor-Based)
-**Why:** Full drops below neutral stretch the insertion too much
+### Phase 1: Isometrics (Week 1-2, if very irritable)
+If your tendon is too irritated for eccentrics initially:
 
-**How to do it:**
-1. Stand on flat floor
-2. Rise on both feet
-3. Lower on affected leg to floor level (not below)
-4. Same protocol: 15 reps, 3 sets, 2x daily
+1. Stand on both feet
+2. Rise onto your toes
+3. Hold for 30-45 seconds
+4. Lower on both feet
+5. Repeat 4-5 times, 2-3 times per day
 
-### Isometric Holds
-Research shows isometrics help manage insertional pain.
+Isometric holds can reduce pain and prepare the tendon for eccentric loading.
 
-**How to do it:**
-1. Rise to mid-range calf raise
-2. Hold 45 seconds
-3. 5 reps
-4. 2-3 times daily during painful periods
+### Phase 2: Eccentric Loading (Weeks 2-12+)
+The Alfredson protocol described above. This is the main treatment phase.
 
-### Avoid These
-- Running uphill
-- Stiff-heeled shoes that rub
-- Excessive ankle dorsiflexion stretches
-- Deep squats with heels raised
+### Phase 3: Heavy Slow Resistance (Alternative or Addition)
+Some research suggests heavy, slow resistance training is equally effective and may be more practical:
 
-## Daily Routine
+**Seated Calf Raise (Machine or Weight on Knees):**
+1. Sit with weight on your thighs, balls of feet on a raised surface
+2. Lower your heels slowly (3 seconds down)
+3. Raise slowly (3 seconds up)
+4. 3 sets of 15 reps
+5. Increase weight as tolerated over time
 
-### Morning (5 minutes)
-1. Gentle toe flexion/extension: 20 reps
-2. Ankle circles: 10 each direction
-3. Wall stretch: 30 sec each leg
+**Standing Calf Raise (Weighted):**
+Same slow tempo with added weight (dumbbells, barbell, machine).
 
-### Evening (15-20 minutes)
-1. Foam roll calves: 2 minutes
-2. Eccentric heel drops, straight knee: 3x15
-3. Eccentric heel drops, bent knee: 3x15
-4. Standing calf raises (if in Phase 3+): 3x15
-5. Stretching: 3 min total
+### Phase 4: Energy Storage Exercises (Weeks 8-12+)
+Once pain is minimal, prepare the tendon for dynamic activities:
+
+**Double-Leg Hops:**
+1. Small hops in place, landing softly
+2. 3 sets of 10-15 hops
+3. Progress to single-leg when ready
+
+**Jump Rope:**
+Start with short intervals, progress duration gradually.
+
+**Skipping/Bounding:**
+Light plyometric movements to prepare for running.
+
+## Sample Weekly Program
+
+### Weeks 1-2 (Acute/Irritable)
+- Isometric calf holds: 5 × 30-45 seconds, twice daily
+- Gentle stretching: gastrocnemius and soleus, 3 × 30 seconds each
+- Ice after activity if needed
+- Relative rest from aggravating activities (can cross-train with swimming, cycling)
+
+### Weeks 3-8 (Eccentric Loading)
+**Daily (twice per day):**
+- Eccentric heel drops (knee straight): 3 × 15
+- Eccentric heel drops (knee bent): 3 × 15
+
+**Daily:**
+- Stretching: all calf stretches, 2 × 30 seconds each
+- Ice if needed post-exercise
+
+**3x per week:**
+- Additional calf strengthening (seated calf raises): 3 × 12-15
+
+### Weeks 9-12+ (Progressive Loading)
+**Daily:**
+- Eccentric heel drops: 3 × 15 (can reduce to once daily if improving)
+
+**3x per week:**
+- Heavy slow resistance calf raises: 3 × 10-12
+- Single-leg balance: 3 × 30 seconds each leg
+- Begin hop progressions if pain-free
+
+### Return to Running Phase
+- Walk-run progression (similar to shin splints protocol)
+- Continue maintenance strengthening 2-3x per week
+- Gradual increase in running volume (10% per week maximum)
 
 ## Adjunct Treatments
 
-**Helpful:**
-- Heel lifts (temporary) - reduce tendon strain
-- Night splints - maintain stretch
-- Proper footwear - avoid flat shoes
-- Ice after activity if sore
+### Foam Rolling and Self-Massage
+Roll your calves (not directly on the tendon) to release tension:
+1. Sit with calf on foam roller
+2. Roll slowly from ankle to knee
+3. Pause on tender spots
+4. 2-3 minutes per leg
 
-**Avoid:**
-- Cortisone injections (weaken tendon)
-- NSAIDs long-term (may impair healing)
-- Complete rest (weakens tendon)
+### Heel Lifts
+A temporary heel lift (1/4 to 1/2 inch) in your shoe can reduce tendon strain during the acute phase. Gradually remove as symptoms improve.
+
+### Night Splints
+Wearing a night splint that keeps your ankle in slight dorsiflexion can reduce morning stiffness.
+
+### Footwear
+- Supportive shoes with some heel elevation
+- Avoid completely flat shoes and going barefoot during recovery
+- Replace worn-out athletic shoes
+
+## Common Mistakes
+
+**Pushing through severe pain:** Some discomfort is acceptable; severe pain is not. If exercises cause pain above 5/10, reduce intensity or volume.
+
+**Not doing enough volume:** The research protocols are high volume (180 reps/day) for a reason. Doing 20 calf raises occasionally won't cut it.
+
+**Stopping too soon:** Tendon healing takes time—typically 12 weeks minimum. Stopping when pain improves often leads to recurrence.
+
+**Aggressive stretching:** Especially with insertional tendinitis, overstretching can aggravate the condition.
+
+**Complete rest:** Avoiding all activity leads to weaker tendons that are more prone to re-injury.
+
+**Returning to sport too quickly:** Gradual progression is essential. Jumping back to full activity invites recurrence.
 
 ## Timeline Expectations
 
-**Mild tendinitis:** 6-8 weeks
-**Moderate tendinitis:** 8-12 weeks
-**Chronic tendinosis:** 3-6 months
+**Weeks 1-4:** Pain may initially stay the same or slightly increase as you begin loading. This is normal.
 
-**Factors affecting healing:**
-- How long you've had it
-- Age (older = slower healing)
-- Consistency with exercises
-- Whether you continue aggravating activities
+**Weeks 4-8:** Gradual improvement in symptoms. Morning stiffness decreases.
 
-## When to Seek Help
+**Weeks 8-12:** Significant improvement. Can begin more dynamic activities.
 
-See a professional if:
-- No improvement after 6-8 weeks of protocol
-- Sudden pop or severe pain (possible rupture)
-- Significant swelling that doesn't resolve
-- Can't walk without pain
+**Weeks 12+:** Return to full activity for many people. Some cases take longer.
 
-## Prevention (After Recovery)
+**3-6 months:** Complete resolution for most cases with consistent treatment.
 
-1. **Maintain calf strength** - Regular raises 2x/week
-2. **Progress training gradually** - Max 10% increase per week
-3. **Warm up before running** - Easy jog, dynamic stretches
-4. **Address foot mechanics** - Orthotics if needed
-5. **Don't ignore early pain** - Treat before it becomes chronic
+Chronic cases (symptoms longer than 3 months before treatment) may take longer to resolve.
 
-## Summary
+## When to Seek Professional Help
 
-Achilles tendinitis responds excellently to consistent eccentric loading. The key points:
+See a healthcare provider if:
+- Pain is severe or came on suddenly (possible rupture)
+- You felt or heard a "pop" (possible rupture)
+- Significant swelling or bruising
+- No improvement after 4-6 weeks of consistent exercise
+- Pain prevents walking normally
+- You're unsure of your diagnosis
 
-1. **Don't just rest** - Tendons need progressive load to heal
-2. **Start eccentric drops early** - The Alfredson Protocol works
-3. **Expect temporary discomfort** - Mild pain during exercise is OK
-4. **Be patient** - Tendon healing takes 2-6 months
-5. **Progress systematically** - Return to activity gradually
+Additional treatments that may help:
+- Physical therapy for hands-on treatment and personalized programming
+- Shockwave therapy (ESWT)
+- Injections (PRP, other biologics—avoid corticosteroid injections in the Achilles)
+- In rare cases, surgery
 
-Most Achilles problems resolve with conservative treatment. Stick with the eccentric protocol—the research is clear that it works.
+## Prevention
+
+Once recovered, maintain tendon health:
+
+- **Continue calf strengthening:** 2-3 times per week as maintenance
+- **Progress training gradually:** Avoid sudden spikes in activity
+- **Warm up properly:** Include calf raises and dynamic stretching
+- **Maintain flexibility:** Regular calf stretching
+- **Listen to your body:** Early warning signs mean reduce load, not push through
+
+## The Path Forward
+
+Achilles tendinitis is frustrating because it's slow to heal. But the evidence is clear: progressive loading, centered on eccentric exercises, works for most people.
+
+Commit to the program. Do the repetitions. Be patient with the timeline. Your tendon is adapting, rebuilding, and getting stronger—even when you can't feel it yet.
+
+Twelve weeks feels like forever when you're injured. But it's a small investment for a lifetime of healthy, pain-free movement.
+
+Your Achilles will thank you.
