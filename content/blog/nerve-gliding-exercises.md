@@ -1,236 +1,224 @@
 ---
-title: "Nerve Gliding Exercises: Relieve Tingling, Numbness, and Nerve Pain"
-description: "Learn nerve gliding (nerve flossing) exercises for carpal tunnel, sciatica, and other nerve compression issues. Safe techniques with progressions."
-date: "2026-04-10"
-categories: ["rehabilitation", "pain-relief", "mobility"]
-featured: false
+title: "Nerve Gliding Exercises: Relieve Numbness, Tingling, and Nerve Pain"
+description: "Learn safe nerve gliding techniques to reduce compression, restore mobility, and relieve symptoms from carpal tunnel, sciatica, and other nerve issues."
+date: "2026-04-20"
+author: "Foundational Rehab"
+tags: ["nerve pain", "neural mobilization", "carpal tunnel", "sciatica", "numbness", "tingling", "nerve compression"]
+readingTime: "10 min"
 ---
 
-# Nerve Gliding Exercises: Relieve Tingling, Numbness, and Nerve Pain
+# Nerve Gliding Exercises: Relieve Numbness, Tingling, and Nerve Pain
 
-That tingling in your fingers, the numbness down your leg, the shooting pain that follows a specific path—these often signal nerve irritation. Nerve gliding exercises, also called nerve flossing or neural mobilization, can help restore normal nerve movement and reduce these uncomfortable symptoms.
+That numbness in your fingers. The tingling running down your arm. The burning sensation that makes you shake your hand awake. These symptoms often point to one thing: compressed or irritated nerves.
+
+Nerve gliding exercises—also called neural mobilization or nerve flossing—are gentle movements designed to help nerves slide freely through the tissues surrounding them. When done correctly, they can reduce compression, improve blood flow to nerves, and significantly decrease symptoms.
 
 ## What Is Nerve Gliding?
 
-Nerves need to slide and glide smoothly through the tissues surrounding them. When a nerve gets compressed, irritated, or stuck in adhesions, it can't move freely. This restriction causes pain, tingling, numbness, or weakness along the nerve's pathway.
+Your nerves aren't static cables. They need to move and slide as your body changes position. The median nerve in your arm, for example, moves several centimeters as you extend your elbow and wrist.
 
-Nerve gliding exercises gently tension and release the nerve, helping it move through its surrounding tissues. Think of it like flossing—you're creating a sliding motion that keeps the nerve mobile and healthy.
+When nerves get stuck—due to inflammation, scar tissue, repetitive strain, or anatomical factors—they can't glide properly. This creates tension and compression, leading to:
 
-## How Nerve Gliding Works
+- Numbness or tingling
+- Burning sensations
+- Weakness
+- Pain that radiates along the nerve path
+- Sensitivity to stretch
 
-When you move your body, nerves must accommodate that movement. For example, when you straighten your elbow, the ulnar nerve needs to elongate and slide through the cubital tunnel.
+Nerve gliding exercises gently tension and release the nerve, helping restore normal movement and reduce irritation.
 
-Nerve gliding creates alternating tension and slack:
-- **Tensioners**: Stretch the nerve at both ends simultaneously
-- **Sliders**: Stretch one end while relaxing the other, creating a sliding motion
+## Important Safety Guidelines
 
-Sliders are generally safer and recommended for most people. Tensioners are more aggressive and should be used cautiously.
+Before starting nerve gliding:
 
-## Common Conditions That Benefit from Nerve Gliding
+**Never force through pain.** Neural tissue is sensitive. If you feel increased numbness, tingling, or burning during an exercise, stop immediately and reduce the range of motion.
 
-- **Carpal tunnel syndrome** (median nerve)
-- **Cubital tunnel syndrome** (ulnar nerve)
-- **Thoracic outlet syndrome** (brachial plexus)
-- **Sciatica** (sciatic nerve)
-- **Piriformis syndrome** (sciatic nerve)
-- **Cervical radiculopathy** (nerve roots in the neck)
-- **Tarsal tunnel syndrome** (tibial nerve in the ankle)
+**Start with tensioners, not sliders.** Tensioners create gentle tension on one end of the nerve while the other end is slack. These are safer than full-range sliders for irritated nerves.
 
-## Upper Body Nerve Glides
+**Less is more.** Do 3-5 repetitions initially, not 20. Nerves respond better to frequent, gentle doses than aggressive stretching.
 
-### Median Nerve Glide (Carpal Tunnel)
+**Move slowly.** Quick movements can irritate nerves. Each glide should take 2-3 seconds.
 
-The median nerve runs from your neck, down your arm, through the carpal tunnel in your wrist, to your thumb and first three fingers.
+## Median Nerve Glides (Carpal Tunnel, Hand Numbness)
 
-**Slider technique:**
-1. Stand with arm out to the side, palm up, elbow straight
-2. Tilt your head TOWARD the arm as you flex your wrist (bend hand down)
-3. Tilt your head AWAY from the arm as you extend your wrist (bend hand up)
-4. Move smoothly back and forth, 10-15 repetitions
-5. The nerve slides rather than stretches
+The median nerve runs from your neck through your arm and into your thumb and first three fingers. It's commonly compressed at the wrist (carpal tunnel) or elbow.
 
-**Progression (tensioner—use cautiously):**
-1. Arm out to side, palm up, elbow straight
-2. Extend wrist back (fingers toward floor)
-3. Tilt head away from the arm
-4. Hold 2-3 seconds, return to neutral
-5. Only 5-10 reps; stop if symptoms increase
+### Basic Median Nerve Tensioner
 
-### Ulnar Nerve Glide (Cubital Tunnel)
+1. Stand with arm at your side, palm facing forward
+2. Extend your wrist back (fingers pointing toward floor) while keeping elbow straight
+3. Slowly tilt your head toward the same shoulder
+4. You should feel a gentle stretch along your arm
+5. Return to neutral by relaxing wrist and head together
+6. Repeat 5 times, 2-3 times daily
 
-The ulnar nerve passes behind your elbow ("funny bone") and into your ring and pinky fingers.
+### Median Nerve Slider
 
-**Slider technique:**
-1. Extend arm in front, palm facing you (like looking at a watch)
-2. Bend elbow, bringing hand toward shoulder
-3. As elbow bends, extend wrist (fingers point away)
-4. As elbow straightens, flex wrist (fingers point toward you)
-5. Coordinate movements smoothly, 10-15 reps
+1. Stand with arm extended to the side at shoulder height
+2. Extend wrist back while tilting head toward the arm (reduces tension at neck)
+3. Flex wrist forward while tilting head away from the arm (reduces tension at wrist)
+4. Create a smooth, oscillating motion
+5. Perform 10 slow slides per session
 
-**Alternative slider:**
-1. Make a circle with thumb and index finger (OK sign)
-2. Place the circle over your eye like a monocle
-3. Keep elbow high, gently move arm to feel the stretch
-4. Hold 2-3 seconds, release, repeat 10 times
+## Ulnar Nerve Glides (Elbow, Ring/Pinky Finger Numbness)
 
-### Radial Nerve Glide
+The ulnar nerve passes through the cubital tunnel at your elbow—that's the "funny bone" area. It supplies your ring and pinky fingers.
 
-The radial nerve runs down the back of your arm to your thumb side.
+### Ulnar Nerve Tensioner
 
-**Slider technique:**
-1. Arm at your side, make a fist with thumb inside
-2. Bend wrist down (toward floor)
-3. Rotate arm inward (thumb pointing back)
-4. As you depress your shoulder down, tilt head away
-5. Tilt head toward arm as you release shoulder
-6. 10-15 smooth repetitions
+1. Stand or sit tall
+2. Extend your arm in front of you, palm facing up
+3. Flex your wrist so fingers point toward you
+4. Bend your elbow, bringing your hand toward your shoulder
+5. For more tension, tilt your head away from the arm
+6. Hold 2 seconds, release, repeat 5 times
 
-### Brachial Plexus Stretch
+### Ulnar Nerve Slider
 
-For neck and shoulder nerve issues:
+1. Start with elbow bent, wrist extended, head tilted toward arm
+2. Slowly straighten elbow while flexing wrist and tilting head away
+3. Reverse the motion smoothly
+4. The nerve slides as tension shifts between neck and wrist
+5. Perform 10 slides per session
 
-1. Sit or stand tall
-2. Tip ear toward one shoulder
-3. Extend the opposite arm down, palm facing behind you
-4. Gently press palm toward the floor
-5. Hold 15-30 seconds, feeling a stretch from neck to fingertips
-6. Switch sides
+## Radial Nerve Glides (Back of Hand, Wrist Drop)
 
-## Lower Body Nerve Glides
+The radial nerve controls wrist extension and supplies the back of your hand. It can be compressed in the upper arm or forearm.
 
-### Sciatic Nerve Glide
+### Radial Nerve Tensioner
 
-The sciatic nerve runs from your lower back, through your buttock, down the back of your leg.
+1. Stand with arm at your side
+2. Make a loose fist and flex your wrist down
+3. Internally rotate your shoulder (turn thumb toward body)
+4. Slowly raise arm behind you while maintaining wrist flexion
+5. Tilt head away from arm for more tension
+6. Hold 2 seconds, repeat 5 times
 
-**Slider technique (seated):**
-1. Sit on a chair with feet flat on the floor
-2. Slump your spine (round your back)
-3. As you straighten one knee, look down at your foot
-4. As you bend the knee back down, look up at the ceiling
-5. The opposing movements create a sliding effect
-6. 10-15 reps per leg
+### Radial Nerve Slider
 
-**Slider technique (lying):**
-1. Lie on your back, one knee bent
-2. Hold behind the thigh of the straight leg
-3. Straighten the knee while pointing toes toward you (dorsiflexion)
-4. As you feel tension, point toes away and bend knee slightly
-5. Alternate smoothly, 10-15 reps
+1. Start with arm behind you, wrist flexed, head tilted away
+2. Bring arm forward while extending wrist and tilting head toward arm
+3. Reverse smoothly
+4. Perform 10 slides per session
 
-### Femoral Nerve Glide
+## Sciatic Nerve Glides (Low Back, Leg Pain)
 
-The femoral nerve runs down the front of your thigh.
+The sciatic nerve is the largest nerve in your body, running from your low back down each leg. It's commonly irritated by disc issues, piriformis syndrome, or spinal stenosis.
 
-**Slider technique:**
-1. Stand facing a wall for balance
-2. Bend one knee, bringing heel toward buttock
-3. As you do this, tuck your pelvis under (flatten low back)
-4. Release the tuck as you lower the foot
-5. 10-15 reps per leg
+### Seated Sciatic Nerve Tensioner
 
-**Alternative (lying):**
-1. Lie face down
-2. Bend one knee, bringing heel toward buttock
-3. Gently press hip into the floor as you pull the heel closer
-4. Hold 2-3 seconds, release
-5. 10 repetitions
+1. Sit on edge of chair with good posture
+2. Straighten one leg in front of you
+3. Flex ankle (toes toward shin)
+4. Gently round your lower back (this adds tension at spine)
+5. You should feel tension along back of leg
+6. Hold 2 seconds, release by bending knee
+7. Repeat 5 times each leg
 
-### Tibial Nerve Glide
+### Sciatic Nerve Slider (Slump Slider)
 
-For tarsal tunnel syndrome or plantar foot tingling:
+1. Sit with feet flat, hands behind you for support
+2. Extend one knee while tucking chin to chest
+3. Lower leg while lifting head to look up
+4. The nerve slides as tension alternates between spine and leg
+5. Perform 10 slow slides per leg
 
-1. Sit with leg extended
-2. Point and flex your foot
-3. As you flex (toes toward you), round your spine
-4. As you point (toes away), straighten your spine
-5. 10-15 smooth repetitions
+### Standing Sciatic Slider
 
-## Important Guidelines for Nerve Gliding
+1. Place one foot on low step or stool
+2. Keep knee straight, flex ankle
+3. Bow forward from hips while keeping back relatively straight
+4. Return to upright
+5. Perform 10 slides per side
 
-### Start Gently
-- Begin with sliders, not tensioners
-- Use small movements initially
-- Never push into pain
-- Numbness or tingling should decrease, not increase
+## Femoral Nerve Glides (Front of Thigh)
 
-### Frequency
-- 2-3 times daily for therapeutic effect
-- 10-15 repetitions per exercise
-- Consistency matters more than duration
+The femoral nerve supplies the front of your thigh and can be irritated by hip issues or spinal problems.
 
-### Warning Signs to Stop
-- Increased numbness or tingling
-- Pain that persists after exercise
+### Femoral Nerve Tensioner
+
+1. Stand holding wall for balance
+2. Bend knee and grab ankle behind you
+3. Gently pull heel toward buttocks
+4. Extend hip by bringing knee back (don't arch low back)
+5. Hold 2 seconds, release
+6. Repeat 5 times each side
+
+### Femoral Nerve Slider
+
+1. Lie on your side with bottom leg bent for stability
+2. Grab top ankle and bring heel toward buttocks
+3. Tuck chin while extending hip (knee moves back)
+4. Lift chin while flexing hip (knee moves forward)
+5. Perform 10 slides
+
+## When to Use Nerve Glides
+
+**Best times to perform nerve gliding:**
+
+- Morning, when nerves are often stiffest
+- After prolonged sitting or positioning
+- Before activities that aggravate symptoms
+- As part of warm-up for physical activity
+
+**Frequency:**
+
+- Acute symptoms: 3-5 reps, 3-4 times daily
+- Chronic symptoms: 10-15 reps, 2-3 times daily
+- Maintenance: 10 reps once daily
+
+## Signs You're Doing Too Much
+
+**Stop and reassess if you experience:**
+
+- Increased numbness during or after exercise
+- Worsening symptoms over days
+- New areas of numbness or tingling
+- Sharp, shooting pain
 - Weakness developing
-- Symptoms spreading to new areas
 
-### When NOT to Do Nerve Gliding
-- Active nerve inflammation (acute phase)
-- Significant nerve damage or compression requiring surgery
-- Infection or tumor affecting the nerve
-- Without proper diagnosis—see a professional first
+Neural tissue needs time to adapt. If symptoms increase, reduce repetitions and range of motion significantly.
 
 ## Combining Nerve Glides with Other Treatments
 
 Nerve gliding works best as part of a comprehensive approach:
 
-**Posture correction**: Poor posture often contributes to nerve compression
+**Address the root cause.** If a disc is compressing a nerve, you need strategies for disc health, not just nerve gliding.
 
-**Stretching tight muscles**: Tight muscles (like piriformis for sciatica) can compress nerves
+**Improve posture.** Poor posture creates sustained tension on nerves. Fix posture, reduce nerve irritation.
 
-**Strengthening weak muscles**: Muscle imbalances affect nerve health
+**Strengthen supporting muscles.** Strong muscles can reduce mechanical stress on nerves.
 
-**Ergonomic changes**: Adjust workstation, sleeping position, activities that aggravate symptoms
+**Manage inflammation.** Anti-inflammatory strategies help create an environment where nerves can heal.
 
-**Manual therapy**: Physical therapy, massage, or chiropractic can help release adhesions
+## Conditions That Respond to Nerve Gliding
 
-## Sample Nerve Gliding Routine
+Research supports nerve gliding for:
 
-### For Upper Body Issues (Carpal/Cubital Tunnel)
+- Carpal tunnel syndrome
+- Cubital tunnel syndrome
+- Thoracic outlet syndrome
+- Sciatica (when appropriate for the cause)
+- Post-surgical nerve sensitivity
+- Chronic nerve pain
+- Peripheral neuropathy (as part of broader program)
 
-**Morning:**
-- Median nerve sliders: 15 reps each arm
-- Ulnar nerve sliders: 15 reps each arm
-- Gentle neck stretches
+## When to Seek Professional Help
 
-**Midday:**
-- Repeat morning routine (especially if doing desk work)
+See a healthcare provider if:
 
-**Evening:**
-- All nerve glides: 10 reps each
-- Focus on relaxed, gentle movement
-
-### For Lower Body Issues (Sciatica)
-
-**Morning:**
-- Sciatic nerve sliders (lying): 15 reps each leg
-- Gentle hamstring stretches
-- Hip circles for mobility
-
-**Before Activity:**
-- Sciatic nerve sliders (seated): 10 reps
-- Walking warm-up
-
-**Evening:**
-- Full routine with longer holds
-- Piriformis stretches if indicated
-
-## When to See a Professional
-
-Nerve symptoms can be tricky. See a healthcare provider if:
-
-- Symptoms don't improve after 2-3 weeks of nerve gliding
+- Symptoms are worsening despite conservative care
 - You have significant weakness
-- Symptoms are getting worse
-- You have bowel or bladder changes (medical emergency)
-- You're unsure of your diagnosis
+- Symptoms affect both sides equally
+- There's bowel or bladder involvement
+- Pain is severe and unrelenting
 
-A physical therapist can assess your specific situation and customize a nerve gliding program for your needs.
+## A Gentle Approach Wins
 
-## Conclusion
+Nerve tissue doesn't respond to aggressive stretching. Unlike muscles, nerves can't be "released" through force. They require patient, consistent, gentle movement over time.
 
-Nerve gliding exercises are a powerful self-treatment for tingling, numbness, and nerve-related pain. By restoring normal nerve mobility, you can often reduce symptoms that would otherwise require more invasive treatment.
+Think of it like coaxing a stuck drawer open—gentle wiggling works better than yanking. Your nerves respond the same way.
 
-Start with gentle slider techniques. Be consistent—two to three times daily. Pay attention to your body's response and back off if symptoms increase.
+Start with the basic tensioners for whichever nerve seems involved based on your symptom pattern. Give it 2-4 weeks of consistent practice before assessing progress. Many people notice improvement within days, but full resolution often takes several weeks.
 
-Your nerves need to move freely through your body. Nerve gliding helps them do exactly that.
+Your nerves want to move freely. Give them the gentle nudges they need to do so.
