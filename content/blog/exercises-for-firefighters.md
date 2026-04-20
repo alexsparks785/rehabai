@@ -1,474 +1,278 @@
 ---
-title: "Exercises for Firefighters: Tactical Fitness Training"
-description: "Job-specific workout program for firefighters. Build the strength, endurance, and mobility needed for emergency response with this complete training guide."
-date: "2026-03-19"
-readTime: "10 min read"
+title: "Exercises for Firefighters: Train Like Your Life Depends On It"
+description: "Functional fitness exercises for firefighters to build the strength, endurance, and resilience needed for fire suppression, rescue operations, and the physical demands of emergency response."
+date: "2026-04-20"
+readTime: "11 min"
 ---
 
-# Exercises for Firefighters: Tactical Fitness Training
+Firefighting is one of the few professions where physical fitness can literally mean the difference between life and death—yours and the people you're trying to save. You might go from sleeping to climbing ladders in full turnout gear in minutes. You need to drag unconscious victims, breach doors, operate heavy equipment, and do it all while breathing through an SCBA in extreme heat.
 
-Firefighting demands a unique combination of strength, cardiovascular endurance, and functional mobility. You need to carry heavy equipment, climb ladders, work in confined spaces, and maintain performance under extreme stress and heat. This guide provides the training framework to build and maintain the physical capacity your job demands.
+The physical demands are enormous and unpredictable. Unlike most jobs where you can pace yourself, fireground operations demand maximum output with zero notice. Your body needs to be ready for anything, anytime.
 
-## Physical Demands of Firefighting
+These exercises are designed specifically for the functional demands firefighters face. They'll build the strength, endurance, and resilience you need to perform when it matters most.
 
-### What the Job Requires
+## The Physical Demands of Firefighting
 
-**Strength demands:**
-- Carrying victims and casualties (often 150+ lbs)
-- Dragging charged hose lines
-- Forcible entry with tools
-- Climbing ladders with gear (40-60 lbs)
-- Operating heavy rescue equipment
+Your body faces unique challenges:
 
-**Cardiovascular demands:**
-- Sustained effort in PPE
-- Working at elevated heart rates for extended periods
-- Quick recovery between tasks
-- Heat stress management
+**Heavy gear**: 50-75 lbs of turnout gear, SCBA, and tools—worn during maximum exertion
+**Climbing**: Ladders, stairs, over obstacles—under load and in limited visibility
+**Pulling and dragging**: Hose advancement, victim rescue, forcible entry
+**Carrying**: Victims, equipment, tools—often up and down stairs
+**Sustained high-intensity work**: Extended operations without rest in hostile environments
+**Extreme heat**: Working in temperatures that push the body to its limits
+**Cardiovascular stress**: Heart attacks are the leading cause of firefighter line-of-duty deaths
 
-**Mobility demands:**
-- Working in confined spaces
-- Moving through obstacles
-- Getting up and down repeatedly
-- Overhead reaching and pulling
+This requires a combination of strength, power, muscular endurance, cardiovascular capacity, and mental resilience that few other professions demand.
 
-### The Gear Factor
+## Foundational Strength
 
-Your body armor (PPE) adds 40-60 pounds and significantly increases energy expenditure. Training must account for this added load and the cardiovascular burden it creates.
+Build the base that everything else depends on:
 
-## Foundation Strength Exercises
+### Back Squat
+The king of lower body exercises. Heavy squats build the leg drive you need for climbing, lifting, and dragging. Work up to at least 1.5x bodyweight. 3-5 sets of 5 reps for strength.
 
-### Lower Body Strength
+### Deadlift
+Essential for picking anything up—victims, equipment, downed firefighters. Teaches proper hip hinge mechanics under load. Work toward 2x bodyweight. 3-5 sets of 3-5 reps.
 
-**Barbell Back Squat**
-The foundation for all lower body strength. Essential for lifting casualties and maintaining leg drive.
+### Bench Press
+Pressing strength for forcible entry, moving obstacles, and pushing. Work toward 1-1.25x bodyweight. 3-5 sets of 5 reps.
 
-- Sets: 4 x 5-8 reps
-- Focus: Full depth, controlled descent
-- Why: Builds the leg strength for lifting and carrying
+### Overhead Press
+Lifting equipment overhead, working above your head, ladder operations. 3 sets of 8-10 reps.
 
-**Romanian Deadlift**
-Builds posterior chain strength for lifting from compromised positions.
+### Pull-Ups
+Essential for climbing, pulling, and self-rescue. If you can't do 10 strict pull-ups, make this a priority. Work toward 15-20.
 
-- Sets: 3 x 8-10 reps
-- Focus: Hip hinge pattern, hamstring stretch
-- Why: Protects lower back during lifting tasks
+### Bent-Over Rows
+Back strength for pulling hose, dragging victims, and balancing out pressing movements. 3 sets of 8-10 reps.
 
-**Walking Lunges with Weight Vest**
-Simulates moving under load with directional changes.
+## Firefighter-Specific Movements
 
-- Sets: 3 x 12 steps each leg
-- Progression: Add weight vest (20-40 lbs)
-- Why: Job-specific loaded walking pattern
+Train the exact patterns you'll use on the fireground:
 
-**Step-Ups (High Box)**
-Mimics ladder climbing and stair ascent with gear.
+### Sled Drags (Forward and Backward)
+Load a sled and drag it. Forward mimics victim drag, backward mimics hose advancement. No sled? Drag a tire or have a partner resist while you pull a rope. 4-6 sets of 25-50 feet.
 
-- Sets: 3 x 10 each leg
-- Box height: 18-24 inches
-- Progression: Hold dumbbells or wear vest
-- Why: Direct transfer to ladder operations
+### Farmer's Carries
+Pick up heavy dumbbells or kettlebells and walk. Mimics carrying tools and equipment. 4 sets of 50 feet with challenging weight.
 
-### Upper Body Strength
+### Sandbag Carries
+Carry a sandbag on your shoulder, bear-hug style, or in a fireman's carry position. More awkward than weights—more like carrying a person. 4 sets of 50 feet.
 
-**Bench Press**
-Builds the pushing strength for forcible entry and victim extrication.
+### Stair Climbs Under Load
+Wear a weight vest or carry dumbbells and climb stairs. This is as specific as it gets for high-rise operations. 10-20 floors or timed intervals.
 
-- Sets: 4 x 6-8 reps
-- Variations: Include incline for overhead pushing
-- Why: Push strength for breaking through obstacles
+### Sledgehammer Work
+Slam a tire with a sledgehammer. Mimics forcible entry movements. 3 sets of 20 strikes each side.
 
-**Weighted Pull-Ups**
-Essential for rope climbs, ladder pulls, and self-rescue.
+### Battle Ropes
+Outstanding for building the upper body endurance needed for sustained hose operations. 30-second intervals, 6-8 rounds.
 
-- Sets: 4 x 6-8 reps
-- Progression: Add weight progressively
-- Why: Critical for climbing operations
+## Core and Stability
 
-**Overhead Press**
-Builds stability for overhead work with tools and equipment.
+Your core transfers force between upper and lower body:
 
-- Sets: 3 x 8-10 reps
-- Focus: Strict form, full lockout
-- Why: Overhead operations and tool use
+### Pallof Press
+Band or cable at chest height, press out and resist rotation. 3 sets of 10 each side. Anti-rotation strength for working in awkward positions.
 
-**Farmer's Carry**
-The most job-specific exercise—builds grip, core stability, and loaded carrying capacity.
+### Dead Bug
+On back, arms up, knees at 90. Lower opposite arm and leg while keeping back flat. 3 sets of 10 each side. Core stability for lifting.
 
-- Sets: 4 x 40-60 yards
-- Weight: 50%+ bodyweight total
-- Why: Direct transfer to equipment carries
+### Plank Variations
+Front plank: 60 seconds
+Side plank: 45 seconds each side
+Plank with shoulder taps: 20 total
 
-### Core and Rotational Strength
+### Turkish Get-Up
+Complex movement that builds total-body stability and strength. Practice with light weight until perfect, then progress. 3 each side.
 
-**Pallof Press**
-Anti-rotation strength for working in unstable positions.
-
-- Sets: 3 x 10 each side
-- Hold: 2-3 seconds at extension
-- Why: Stabilization during rescue operations
-
-**Cable Wood Chops**
-Rotational power for swinging tools and changing direction.
-
-- Sets: 3 x 12 each direction
-- Focus: Explosive hip rotation
-- Why: Axe work and forcible entry
-
-**Weighted Carries (Suitcase)**
-Single-arm carrying for asymmetric loads.
-
-- Sets: 3 x 40 yards each side
-- Why: Simulates carrying equipment in one hand
-
-## Job-Specific Functional Exercises
-
-### Firefighter-Specific Movements
-
-**Sled Push/Pull**
-Simulates dragging victims and charged hose lines.
-
-*Push:*
-- Sets: 4 x 30-40 yards
-- Weight: 90-180 lbs
-- Why: Victim rescue simulation
-
-*Pull (Face Away):*
-- Sets: 4 x 30-40 yards
-- Why: Hose drag simulation
-
-**Tire Flip**
-Full-body explosive power for forcible entry and moving debris.
-
-- Sets: 3-4 x 6-8 flips
-- Rest: 90 seconds between sets
-- Why: Explosive power for rescue operations
-
-**Sandbag Carry**
-Unstable load carrying like casualty rescue.
-
-- Sets: 4 x 50 yards
-- Carry positions: Bear hug, shoulder, fireman's carry
-- Why: Simulates victim carry
-
-**Sledgehammer Swings**
-Forcible entry preparation and rotational conditioning.
-
-- Sets: 3 x 30 seconds each side
-- Target: Tire or sturdy surface
-- Why: Tool-specific conditioning
-
-### Ladder and Climbing Drills
-
-**Rope Climb**
-Essential climbing skill for fireground operations.
-
-- Sets: 3-5 climbs
-- Variations: Legless (advanced), L-sit
-- Progressions: Start with rope pulls from floor
-
-**Ladder Climb Simulation**
-Step-ups with arm pull mimics ladder climbing.
-
-- Alternate: High step with pulling motion
-- Sets: 3 x 20 reps
-- Add weight vest to progress
-
-**Pull-Up to Knee Raise**
-Combines pulling and lower body lift for wall/obstacle clearing.
-
-- Sets: 3 x 8-10 reps
-- Why: Clearing obstacles during operations
+### Hanging Leg Raises
+Hang from bar, raise legs to 90 degrees or higher. 3 sets of 10-15. Builds grip endurance and core strength simultaneously.
 
 ## Cardiovascular Conditioning
 
-### The Heat Stress Factor
+Heart attacks kill more firefighters than fires. Train your cardiovascular system:
 
-Firefighting often involves sustained work at 70-85% max heart rate while heat-stressed. Training must build this capacity.
+### High-Intensity Intervals
+Replicate the burst-and-recover pattern of fireground work:
+- 30 seconds all-out, 30 seconds rest × 10 rounds
+- 1 minute hard, 1 minute easy × 8 rounds
+- Tabata (20 on/10 off × 8)
 
-### HIIT Protocols
+### Loaded Conditioning
+Wear a weight vest or pack for:
+- Stair climbing
+- Walking/hiking
+- Rowing
+This teaches your body to work hard while carrying weight.
 
-**CPAT-Style Intervals**
-Based on Candidate Physical Ability Test demands.
+### Long Slow Distance
+Build aerobic base with 30-60 minute easy runs, bikes, or rows. This improves recovery between intervals and supports heart health.
 
-*Workout:*
-- 8 x 30 sec max effort, 30 sec rest
-- Exercises: Stair climber, assault bike, rowing
-- Progress to 45:15 ratio
+### The Pack Test Standard
+The wildland firefighter pack test: 3 miles in 45 minutes with 45 lbs. This is a baseline—you should be able to beat it easily.
 
-**Firefighter Combat Challenge Prep**
-- 5 rounds:
-  - 20 sec stair climb (fast)
-  - 10 hose drags (with rope/band)
-  - 5 forcible entry swings (with ball/hammer)
-  - 30 sec victim drag (sled or sandbag)
-- Rest: 1 min between rounds
+## Grip Strength
 
-### Zone 2 Endurance
+You need to hold onto tools, ladders, hose lines, and victims:
 
-Build base aerobic capacity for sustained operations.
+### Dead Hangs
+Hang from a pull-up bar as long as possible. 3 sets to failure. Add weight when you can hang for 60+ seconds.
 
-**Rucking**
-- Duration: 45-60 min
-- Load: 30-45 lbs
-- Pace: 15-17 min/mile
-- Frequency: 2x/week
+### Towel Pull-Ups
+Hang towels over the bar, grip the towel ends. Even one rep is challenging. Builds specific grip for rope and hose work.
 
-**Stair Machine**
-- Duration: 20-30 min
-- Intensity: Moderate, conversational
-- Why: Direct CPAT transfer
+### Fat Grip Work
+Use Fat Gripz or a thick bar for any pulling exercise. Dramatically increases grip demands.
 
-### Weight Vest Conditioning
+### Plate Pinches
+Pinch weight plates together (smooth sides out), hold for time. 3 sets of 20-30 seconds.
 
-Train regularly with load to prepare for PPE.
+### Rope Climbs
+If available, rope climbing builds grip and pulling strength simultaneously. Legless rope climbs are the gold standard.
 
-*Weight Vest Walk:*
-- 30-45 min at moderate pace
-- Load: 30-45 lbs
-- Why: Simulates gear weight
+## Mobility and Recovery
 
-*Weight Vest Circuits:*
-- Air squats x 15
-- Push-ups x 10
-- Lunges x 10 each
-- Burpees x 5
-- Repeat 4-5 rounds with vest
+Hard training requires hard recovery:
 
-## Mobility for Firefighters
+### Hip Flexor Stretches
+Kneeling lunge position, push hips forward. 60 seconds each side. Critical after lots of stair climbing and squatting.
 
-### Problem Areas
+### Thoracic Spine Mobility
+Foam roll upper back, then do thoracic rotations. 2 minutes. Keeps your upper back mobile for overhead work.
 
-Firefighters commonly develop:
-- Tight hip flexors (from bunker gear)
-- Restricted thoracic spine
-- Tight shoulders from gear wear
-- Stiff ankles limiting deep positions
+### Shoulder Stretches
+Doorway stretch for chest, cross-body stretch for rear shoulder. 30 seconds each position.
 
-### Essential Mobility Work
+### Foam Rolling
+Full body: quads, IT bands, upper back, lats. 10-15 minutes post-workout.
 
-**90/90 Hip Stretch**
-Opens hips for crawling and confined space work.
+### Active Recovery Days
+Easy swimming, walking, or yoga. Promotes blood flow without additional training stress.
 
-- Hold: 2 min each side
-- Daily practice recommended
+## Sample Weekly Training Program
 
-**Thoracic Spine Extensions**
-Counters the hunched position from gear and hose work.
+### Day 1: Lower Body Strength
+- Back Squat: 5×5
+- Romanian Deadlift: 3×8
+- Walking Lunges: 3×10 each leg
+- Calf Raises: 3×15
+- Core work: 10 minutes
 
-- Foam roller, 2 min
-- Cat-cow, 10 reps
-- Thread the needle, 8 each side
+### Day 2: Upper Body Strength
+- Bench Press: 5×5
+- Pull-Ups: 4×max
+- Overhead Press: 3×8
+- Bent-Over Rows: 3×10
+- Face Pulls: 3×15
 
-**Shoulder CARS (Controlled Articular Rotations)**
-Maintains full shoulder range for overhead work.
+### Day 3: Conditioning
+- 20-30 minute cardio session
+- HIIT intervals or loaded stair climbing
+- Finish with mobility work
 
-- 5 slow circles each direction
-- Focus: Maximum controlled range
+### Day 4: Firefighter Specifics
+- Deadlift: Work up to heavy set of 3
+- Sled Drags: 4×50 feet (forward and backward)
+- Farmer's Carries: 4×50 feet heavy
+- Sledgehammer work: 3×20 each side
+- Sandbag carries: 3×50 feet
 
-**Ankle Mobility Drills**
-Enables full squat depth for lifting from low positions.
+### Day 5: Upper Body Volume + Grip
+- Push-Ups: 3×max
+- Inverted Rows: 3×15
+- Dips: 3×10
+- Battle Ropes: 6×30 seconds
+- Grip work: 15 minutes
 
-- Wall ankle stretch, 30 sec each
-- Calf raises with hold, 2 x 15
+### Day 6: Conditioning + Mobility
+- Long cardio: 45-60 minutes easy
+- Full stretching routine
+- Foam rolling
 
-### Post-Shift Recovery
+### Day 7: Rest
+- Complete rest or very light activity
 
-**Immediate (at station):**
-- Walk 5-10 min to cool down gradually
-- Hydrate and replace electrolytes
-- Gentle stretching (avoid intense stretching when fatigued)
+## Heat Acclimatization
 
-**Within 24 hours:**
-- Foam roll problem areas
-- Light movement (walking, swimming)
-- Prioritize sleep
+Working in extreme heat requires preparation:
 
-## Complete Weekly Program
+### Train in Heat
+When safe to do so, do some training in hot conditions. This improves your body's ability to regulate temperature.
 
-### Week Structure
+### Wear Your Gear
+Periodically train in full turnout gear. Your body needs to adapt to working under that load in heat.
 
-| Day | Focus | Duration |
-|-----|-------|----------|
-| Monday | Strength A (Lower) | 60 min |
-| Tuesday | Conditioning | 45 min |
-| Wednesday | Active Recovery | 30 min |
-| Thursday | Strength B (Upper) | 60 min |
-| Friday | Job-Specific/Functional | 45 min |
-| Saturday | Rucking/Zone 2 | 45-60 min |
-| Sunday | Rest/Mobility | 20 min |
+### Hydration Practice
+Learn how much fluid you need and practice drinking before, during, and after training.
 
-### Strength Day A (Lower Body)
+### Know Warning Signs
+Heat exhaustion and heat stroke are real risks. Know the symptoms in yourself and your crew.
 
-*Warm-up (10 min):*
-- Bike or row 5 min
-- Hip circles, leg swings, air squats
+## Fireground Fitness Tests
 
-*Main Work:*
-1. Barbell Squat: 4 x 6
-2. Romanian Deadlift: 3 x 8
-3. Walking Lunges (vest): 3 x 12 each
-4. High Step-Ups: 3 x 10 each
-5. Farmer's Carry: 4 x 50 yards
+Benchmark yourself regularly:
 
-*Cooldown:*
-- 90/90 stretch, 2 min each
-- Quad stretch, 1 min each
+**The CPAT Standard** (or your department's equivalent):
+- Stair Climb: 3 minutes at 60 steps/min with 75 lbs
+- Hose Drag: 75 feet, then pull 50 feet of hose
+- Equipment Carry: Two saws, 75 feet
+- Ladder Raise/Extension
+- Forcible Entry: Sledgehammer target
+- Search: Crawling obstacle course
+- Rescue: Drag 165-lb dummy 35 feet
+- Ceiling Breach/Pull
 
-### Strength Day B (Upper Body)
+You should be able to complete this with time to spare, not just barely passing.
 
-*Warm-up (10 min):*
-- Row 5 min
-- Arm circles, band pull-aparts, push-ups
+## Mental Toughness
 
-*Main Work:*
-1. Bench Press: 4 x 6
-2. Weighted Pull-Ups: 4 x 6
-3. Overhead Press: 3 x 8
-4. Bent Over Rows: 3 x 10
-5. Face Pulls: 3 x 15
+Physical fitness is only part of the equation:
 
-*Core Circuit:*
-- Pallof Press: 3 x 10 each
-- Plank: 3 x 45 sec
-- Cable Wood Chops: 3 x 12 each
+### Train When Tired
+Occasionally train when you're not feeling it. The fireground won't wait for you to feel ready.
 
-### Conditioning Day
+### Embrace Discomfort
+Cold showers, hard intervals, heavy carries—learn to operate when uncomfortable.
 
-*HIIT Circuit (30 min):*
-- Round 1-3: CPAT-style intervals (stair climber focus)
-- Round 4-6: Mixed modal (bike, row, ski erg)
-- Rest 2 min between blocks
+### Scenario Visualization
+Mentally rehearse fireground operations. This builds pattern recognition and reduces hesitation.
 
-### Functional Friday
-
-*Job-Specific Circuit:*
-1. Sled push: 30 yards
-2. Sandbag carry: 30 yards
-3. Tire flip: 5 reps
-4. Rope climb or pulls: 1 climb or 5 pulls
-5. Sledgehammer swings: 20 total
-- Rest 90 sec, repeat 4-5 rounds
-
-## CPAT Preparation
-
-If preparing for the Candidate Physical Ability Test:
-
-### CPAT Events
-1. Stair climb (3 min with 75 lbs)
-2. Hose drag
-3. Equipment carry
-4. Ladder raise and extension
-5. Forcible entry
-6. Search
-7. Rescue drag
-8. Ceiling breach and pull
-
-### Specific Preparation
-
-**Stair climb:** Stair machine with weight vest, build to 3+ min continuously
-
-**Hose drag:** Sled pulls, focus on grip and leg drive
-
-**Equipment carry:** Farmer's walks, unilateral carries
-
-**Ladder raise:** Cable rows, shoulder press, grip work
-
-**Forcible entry:** Sledgehammer swings, cable chops
-
-**Search:** Crawling practice, bear crawls with vest
-
-**Rescue drag:** Backward sled drags, deadlifts for hip hinge strength
-
-**Ceiling breach:** Overhead press, push press, shoulder endurance
+### Breathing Practice
+Box breathing (4-4-4-4) or tactical breathing. Being able to control your breathing under stress is critical.
 
 ## Injury Prevention
 
-### Common Firefighter Injuries
+Longevity matters as much as peak performance:
 
-1. **Back injuries** - From lifting and carrying
-2. **Knee injuries** - From repetitive climbing and kneeling
-3. **Shoulder injuries** - From overhead work and falls
-4. **Slips/falls** - From working in hazardous conditions
+**Warm up properly**: 10-15 minutes before any intense training or operation
+**Progress gradually**: Add weight and volume slowly over time
+**Address weaknesses**: Work on mobility limitations before they become injuries
+**Listen to your body**: Distinguish between productive discomfort and warning signs
+**Sleep**: Most repair happens during sleep. Protect it.
+**Don't neglect the small stuff**: Rotator cuff work, ankle mobility, thoracic spine
 
-### Prevention Strategies
+## The Standard
 
-**Back protection:**
-- Prioritize hip hinge training
-- Build core anti-rotation strength
-- Practice proper lifting mechanics daily
-- Decompress spine after shifts (hang from bar)
+Here's what fit-for-duty looks like:
 
-**Knee protection:**
-- Strengthen VMO (inner quad)
-- Build single-leg stability
-- Don't neglect hamstring strength
-- Use knee pads when kneeling
+- Back squat: 1.5× bodyweight
+- Deadlift: 2× bodyweight
+- Bench press: 1× bodyweight minimum
+- Pull-ups: 15 strict
+- 1.5 mile run: Under 11 minutes
+- Pack test (3 miles/45 lbs): Under 40 minutes
+- CPAT: Passing with 2+ minutes to spare
 
-**Shoulder protection:**
-- Maintain full mobility
-- Strengthen rotator cuff
-- Include face pulls and external rotation work
-- Don't neglect rear delts
+If you're not there yet, that's your training goal. If you're already there, maintain it while addressing weaknesses.
 
-## Shift Schedule Considerations
+## The Bottom Line
 
-### 24-Hour Shift Model
+When the tones drop at 3 AM and you're going into an IDLH environment, your fitness level is not negotiable. You need to be able to work at maximum capacity, in extreme conditions, under heavy load, with lives on the line—including your own.
 
-**Day of shift:**
-- Light movement in morning (yoga, walk)
-- Stay active at station during downtime
-- Avoid heavy training
+The firefighters who have long, healthy careers are the ones who treat physical training as part of the job, not optional extra credit. They train consistently, progressively, and specifically for the demands they'll face.
 
-**Day after shift:**
-- Active recovery focus
-- Light cardio, mobility work
-- Allow body to recover from disrupted sleep
+Your crew depends on you. The people you're trying to rescue depend on you. Your family depends on you coming home.
 
-**Off days:**
-- Primary training days
-- Fit in major strength and conditioning sessions
-
-### 48/96 Schedule
-
-Use consecutive days off for training blocks:
-- Day 1 off: Heavy strength + conditioning
-- Day 2 off: Functional/job-specific
-- Day 3 off: Active recovery + Zone 2
-- Day 4 off: Second strength session if recovered
-
-## Nutrition for Firefighters
-
-### Station Eating
-
-**Challenges:**
-- Interrupted meals
-- Shared cooking
-- Late-night calls affecting digestion
-
-**Solutions:**
-- Prep meals or components in advance
-- Keep emergency protein available (shakes, bars)
-- Eat balanced meals when possible (protein + vegetables + carbs)
-- Stay hydrated throughout shift
-
-### Performance Nutrition
-
-- Protein: 0.8-1g per pound bodyweight
-- Carbs: Moderate, emphasize around training
-- Hydration: Minimum 100oz daily, more on active days
-
-## Summary
-
-Firefighter fitness requires:
-
-1. **Strength foundation** - Squat, deadlift, press, pull
-2. **Loaded carrying capacity** - Farmer's walks, sandbag carries
-3. **Job-specific training** - Sled work, tire flips, climbing
-4. **Heat-stress cardio** - HIIT and Zone 2 with vest
-5. **Mobility maintenance** - Hips, shoulders, thoracic spine
-6. **Injury prevention** - Core stability, balanced development
-
-Train consistently on off days, use active recovery on shift days, and prioritize the movements that directly transfer to your job. Your fitness isn't just about performance—it's about safety for you and the people depending on you.
-
-Stay safe, train smart, and be ready when the bell rings.
+Train accordingly.
