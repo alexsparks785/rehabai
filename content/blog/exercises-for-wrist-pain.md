@@ -1,301 +1,343 @@
 ---
-title: "Exercises for Wrist Pain: Strengthen and Heal Your Wrists"
-description: "Effective exercises for wrist pain relief. Stretches, strengthening, and mobility work for common wrist issues including tendinitis and overuse injuries."
-date: "2026-03-17"
-readTime: "8 min read"
+title: "Exercises for Wrist Pain: Strengthen, Stretch, and Type Pain-Free"
+description: "Effective exercises for wrist pain relief. Learn stretches and strengthening moves for carpal tunnel, tendinitis, and general wrist discomfort from typing and computer work."
+date: "2026-04-21"
+readTime: "9 min read"
+tags: ["wrist pain", "carpal tunnel", "typing pain", "tendinitis", "desk exercises"]
 ---
 
-# Exercises for Wrist Pain: Strengthen and Heal Your Wrists
+# Exercises for Wrist Pain: Strengthen, Stretch, and Type Pain-Free
 
-Wrist pain from typing, lifting, or daily activities can significantly impact your life. The right exercises can provide relief, build strength, and prevent future problems.
+Wrist pain from typing, mousing, and computer work affects millions. Whether it's general aching, specific tendon pain, or carpal tunnel symptoms, the right exercises can provide significant relief and prevent worsening.
 
-## Common Causes of Wrist Pain
+This guide covers safe, effective exercises for common wrist problems.
 
-### Overuse Conditions
+## Understanding Wrist Pain
 
-- **Tendinitis:** Inflammation of wrist tendons
-- **Repetitive strain injury (RSI):** From repeated movements
-- **De Quervain's tenosynovitis:** Thumb-side wrist pain
+### Common Causes
 
-### Other Causes
+**Repetitive Strain**
+- Typing for hours
+- Mouse overuse
+- Repetitive gripping
+- Poor ergonomics
 
-- **Carpal tunnel syndrome:** Nerve compression (covered separately)
-- **Arthritis:** Joint degeneration
-- **Ganglion cyst:** Fluid-filled lump
-- **Sprain:** Ligament injury
-- **Fracture:** Bone break (requires medical care)
+**Carpal Tunnel Syndrome**
+- Numbness/tingling in thumb, index, middle fingers
+- Worse at night
+- Weakness in grip
+- Nerve compression at wrist
 
-### When to See a Doctor
+**Tendinitis**
+- Pain along tendons
+- Worse with specific movements
+- May have swelling
+- De Quervain's affects thumb side
 
-- Significant swelling
-- Visible deformity
-- Can't move wrist
-- Numbness or tingling
-- Pain after injury
-- No improvement with rest and exercises
+**General Overuse**
+- Aching after prolonged use
+- Stiffness
+- Fatigue in forearm muscles
 
----
+## When to See a Doctor
 
-## Wrist Mobility Exercises
-
-### Wrist Circles
-
-Basic mobility maintenance.
-
-1. Make a fist
-2. Circle wrist clockwise
-3. Then counterclockwise
-4. 10-15 circles each direction
-5. Do several times daily
-
-### Wrist Flexion/Extension
-
-1. Arm extended, palm down
-2. Bend wrist up (extension)
-3. Bend wrist down (flexion)
-4. Move through full range
-5. 15-20 reps
-
-### Wrist Ulnar/Radial Deviation
-
-1. Arm extended, thumb up
-2. Tilt wrist toward thumb (radial)
-3. Tilt wrist toward pinky (ulnar)
-4. 15-20 reps
-
-### Pronation/Supination
-
-1. Elbow at side, bent 90°
-2. Rotate palm up (supination)
-3. Rotate palm down (pronation)
-4. 15-20 reps
-
----
+Seek evaluation if you have:
+- Constant numbness or tingling
+- Significant weakness
+- Severe pain that doesn't improve with rest
+- Visible swelling or deformity
+- Symptoms after injury
+- Night pain that regularly wakes you
 
 ## Wrist Stretches
 
 ### Wrist Flexor Stretch
-
-1. Extend arm, palm up
-2. Use other hand to pull fingers down
-3. Feel stretch on inner forearm
-4. Hold 30-45 seconds
-5. Repeat 2-3 times each arm
+- Extend arm forward, palm up
+- Use other hand to gently pull fingers down
+- Feel stretch in inner forearm
+- Hold 20-30 seconds
+- 3 times each side
 
 ### Wrist Extensor Stretch
-
-1. Extend arm, palm down
-2. Use other hand to pull fingers down
-3. Feel stretch on top of forearm
-4. Hold 30-45 seconds
-5. Repeat 2-3 times each arm
+- Extend arm forward, palm down
+- Use other hand to gently push hand down
+- Feel stretch in outer forearm
+- Hold 20-30 seconds
+- 3 times each side
 
 ### Prayer Stretch
-
-1. Palms together in front of chest
-2. Keeping palms together, lower hands toward waist
-3. Feel stretch in wrists and forearms
-4. Hold 30-60 seconds
+- Press palms together in front of chest
+- Fingers pointing up
+- Lower hands while keeping palms together
+- Feel stretch in wrists
+- Hold 20-30 seconds
 
 ### Reverse Prayer Stretch
+- Press backs of hands together
+- Fingers pointing down
+- Raise hands while keeping contact
+- Hold 20-30 seconds
 
-1. Backs of hands together
-2. Lower toward waist
-3. Hold 30-60 seconds
+### Wrist Circles
+- Make fists
+- Rotate wrists in circles
+- 10 circles each direction
+- Keep movement smooth and slow
 
-### Finger Stretch
-
-1. Spread fingers wide
-2. Hold 5 seconds
-3. Make tight fist
-4. Hold 5 seconds
-5. Repeat 10 times
-
----
+### Finger Spread
+- Spread fingers as wide as possible
+- Hold 5 seconds
+- Relax and repeat
+- 10 repetitions
 
 ## Strengthening Exercises
 
 ### Wrist Curls (Flexion)
-
-1. Rest forearm on table, palm up, wrist over edge
-2. Hold light weight (1-5 lbs)
-3. Curl wrist up
-4. Lower slowly
-5. 2-3 sets of 15
+- Rest forearm on table, hand hanging off edge
+- Palm facing up, hold light weight (1-3 lbs)
+- Curl wrist up, lower slowly
+- 3 sets of 12-15 each side
 
 ### Reverse Wrist Curls (Extension)
-
-1. Palm down, wrist over edge
-2. Lift wrist up against weight
-3. Lower slowly
-4. 2-3 sets of 15
+- Same position, palm facing down
+- Curl wrist up, lower slowly
+- 3 sets of 12-15 each side
 
 ### Radial/Ulnar Deviation
-
-1. Hold weight with arm at side (hammer position)
-2. Flex wrist up (radial deviation)
-3. Lower slowly
-4. 2-3 sets of 15
+- Hold weight with arm at side, thumb up
+- Move wrist up (toward thumb) and down (toward pinky)
+- 2 sets of 12 each direction
 
 ### Grip Strengthening
+- Squeeze stress ball or grip trainer
+- Hold 5 seconds, release
+- 15-20 repetitions
+- Start easy, progress gradually
 
-**Squeeze exercises:**
-1. Squeeze tennis ball or grip trainer
-2. Hold 5 seconds
-3. Release slowly
-4. 2-3 sets of 10-15
+### Finger Extensions with Rubber Band
+- Place rubber band around all fingers
+- Spread fingers against resistance
+- Hold 3 seconds
+- 15-20 repetitions
+- Strengthens often-neglected extensors
 
-**Towel squeeze:**
-1. Wet and wring out a towel
-2. Squeeze to remove water
-3. Repeat multiple times
+### Pronation/Supination
+- Hold light weight, elbow bent 90°
+- Rotate forearm palm up, then palm down
+- Keep elbow still
+- 2 sets of 15 each arm
 
-### Finger Extensions
+## Nerve Gliding Exercises
 
-1. Place rubber band around fingers
-2. Spread fingers against resistance
-3. 2-3 sets of 15
+For carpal tunnel and nerve symptoms:
 
-### Pronation/Supination with Resistance
+### Median Nerve Glide
+**Position 1:** Make fist, wrist neutral
+**Position 2:** Extend fingers, wrist neutral
+**Position 3:** Extend wrist back, fingers extended
+**Position 4:** Extend thumb out
+**Position 5:** Turn forearm palm up
+**Position 6:** Gently pull thumb with other hand
 
-1. Hold hammer or weight at end of handle
-2. Rotate forearm against gravity
-3. 2-3 sets of 15 each direction
+Move slowly through positions. 5-10 repetitions, 2-3 times daily.
 
----
+### Tendon Gliding
+**Straight:** All fingers extended
+**Hook:** Bend fingers at middle/end joints only
+**Fist:** Full fist
+**Table Top:** Bend at knuckles, fingers straight
+**Straight Fist:** Fist with fingers flat (not curled)
 
-## Complete Wrist Routine
+Move through all positions smoothly. 10 cycles, 2-3 times daily.
 
-### Daily Maintenance (5 minutes)
+## Desk Routine (5 Minutes)
 
-1. Wrist circles: 10 each direction per wrist
-2. Flexion/extension movement: 15 reps
-3. Prayer stretch: 30 seconds
-4. Flexor stretch: 20 seconds each
-5. Extensor stretch: 20 seconds each
+Every 1-2 hours of computer work:
 
-### Recovery Routine (10-15 minutes)
+### Quick Break (1 minute)
+- Shake hands out: 10 seconds
+- Wrist circles: 5 each direction
+- Finger spread: 5 times
+- Make fists and open: 5 times
 
-For active pain management:
+### Full Break (5 minutes)
+- Wrist flexor stretch: 20 sec each
+- Wrist extensor stretch: 20 sec each
+- Prayer stretch: 20 seconds
+- Wrist circles: 10 each direction
+- Finger spread and squeeze: 10 reps
+- Nerve glides: 5 repetitions
+- Shake hands out
 
-**Mobility (2 min):**
-1. Wrist circles: 15 each direction
-2. Flexion/extension: 20 reps
-3. Pronation/supination: 20 reps
+## Daily Program
 
-**Stretching (5 min):**
-1. Flexor stretch: 45 sec each
-2. Extensor stretch: 45 sec each
-3. Prayer stretch: 45 sec
-4. Reverse prayer: 45 sec
+### Morning (3 minutes)
+- All stretches: 20 seconds each
+- Wrist circles: 10 each direction
+- Nerve glides: 5 reps
 
-**Strengthening (5 min):**
-1. Wrist curls: 2 x 15
-2. Reverse wrist curls: 2 x 15
-3. Grip squeezes: 2 x 10
+### Throughout Day
+- Micro-breaks every 30-60 minutes
+- Full desk routine every 2 hours
 
-### Strengthening Routine (15-20 minutes)
+### Evening (10 minutes)
+**Stretching:**
+- All wrist stretches: 30 seconds each
+- Forearm massage (see below)
 
-**2-3 times per week when pain-free:**
+**Strengthening (if not acute pain):**
+- Wrist curls: 2x12
+- Reverse wrist curls: 2x12
+- Grip squeezes: 2x15
+- Finger extensions: 2x15
 
-1. Wrist curls: 3 x 15
-2. Reverse wrist curls: 3 x 15
-3. Radial deviation: 2 x 15 each
-4. Pronation/supination: 2 x 15 each
-5. Grip strengthening: 3 x 10
-6. Finger extensions: 2 x 15
-7. All stretches: 30 sec each
+## Self-Massage Techniques
 
----
+### Forearm Flexor Massage
+- Use opposite thumb or fingers
+- Massage inner forearm from elbow to wrist
+- Find tender spots, apply sustained pressure
+- 2-3 minutes each arm
 
-## Exercises for Specific Conditions
+### Forearm Extensor Massage
+- Massage outer forearm
+- Focus on muscle belly below elbow
+- 2-3 minutes each arm
 
-### De Quervain's Tenosynovitis
+### Hand Massage
+- Massage palm, base of thumb
+- Work between finger bones
+- 1-2 minutes each hand
 
-Pain on thumb side of wrist.
+### Lacrosse Ball Forearm Roll
+- Place forearm on lacrosse ball against table
+- Roll from elbow to wrist
+- Pause on tender spots
+- Both inner and outer forearm
 
-**Focus on:**
-- Thumb stretches
-- Eccentric wrist extension
-- Avoiding aggravating movements
+## Ergonomic Adjustments
 
-**Key exercise - Finkelstein stretch:**
-1. Make a fist with thumb inside
-2. Bend wrist toward pinky side
-3. Hold 15-30 seconds
-4. Gentle stretch, not pain
+Exercises help, but ergonomics prevent:
 
-### Wrist Tendinitis
-
-**Focus on:**
-- Rest initially
-- Gentle stretching
-- Eccentric strengthening
-- Gradual return to activity
-
-**Eccentric wrist extension:**
-1. Support forearm, palm down
-2. Use other hand to lift wrist to top position
-3. Lower slowly with injured wrist only (3-5 seconds)
-4. 3 x 10-15
-
-### Post-Fracture or Sprain
-
-**Work with healthcare provider.** Generally:
-- Regain mobility first
-- Then gentle strengthening
-- Progress very gradually
-
----
-
-## Desk Worker Protocol
-
-For computer-related wrist pain:
-
-### Every 30-60 Minutes
-
-1. Wrist circles: 10 each
-2. Finger spreads: 5 times
-3. Shake hands gently
-4. Brief stretches
-
-### Morning and Evening
-
-Complete mobility and stretching routine.
-
-### Ergonomic Adjustments
-
+### Keyboard Position
+- Elbows at 90° or slightly more
 - Wrists neutral (not bent up or down)
-- Ergonomic keyboard/mouse
-- Wrist rest for support (not pressure)
-- Take regular breaks
+- Keyboard flat or slightly negative tilt
+- Consider ergonomic keyboard
 
----
+### Mouse Use
+- Mouse close to body
+- Elbow supported
+- Consider vertical mouse
+- Use keyboard shortcuts to reduce mousing
 
-## When to Modify
+### Workstation Setup
+- Monitor at eye level
+- Shoulders relaxed
+- Feet flat on floor
+- Consider standing desk for position changes
 
-### During Pain Flare-Ups
+### Take Breaks
+- Every 30-60 minutes, move
+- Use break reminder software
+- Vary tasks throughout day
 
-- Reduce or stop strengthening
-- Focus on gentle mobility
+## Condition-Specific Guidance
+
+### Carpal Tunnel Syndrome
+- Nerve glides are essential
+- Wear night splint to keep wrist neutral
+- Avoid prolonged flexed wrist position
+- Strengthen within pain-free range
+- May need medical treatment if severe
+
+### De Quervain's Tendinitis
+- Avoid thumb movements that cause pain
+- Splint may help
+- Focus on stretches for thumb side
 - Ice after activities
-- Rest from aggravating activities
+- Progress slowly
 
-### Returning to Activity
+### General Overuse/Tendinitis
+- Ice after aggravating activities
+- Reduce repetitive tasks
+- Strengthen gradually
+- Address ergonomics
+- May need temporary rest from aggravating activities
 
-- Gradual increase in load
-- Continue maintenance exercises
-- Address underlying causes
+## What to Avoid
+
+### During Acute Pain
+- Heavy gripping
+- Repetitive motions that cause pain
+- Pushing through sharp pain
+- Wrist positions at extreme ranges
+
+### Generally
+- Resting wrists on hard desk edge
+- Typing with wrists bent
+- Prolonged static positions
+- Ignoring early warning signs
+
+## Progressive Program
+
+### Week 1-2: Basics
+- All stretches daily
+- Desk routine every 2 hours
+- Ergonomic adjustments
+
+### Week 3-4: Add Strengthening
+- Light wrist curls and extensions
+- Grip exercises
+- Continue stretching
+
+### Week 5+: Progress
+- Gradually increase resistance
+- Maintain flexibility
+- Continue preventive breaks
+
+## Timeline for Improvement
+
+**Week 1-2:** Learning exercises, some immediate relief from stretching
+
+**Week 3-4:** Noticeable improvement, less end-of-day discomfort
+
+**Week 5-8:** Significant improvement for most, strength building
+
+**Ongoing:** Maintenance routine, prevention focus
+
+Chronic issues may take longer. Be patient and consistent.
+
+## When Exercises Aren't Enough
+
+Consider professional help if:
+- No improvement after 4-6 weeks
+- Symptoms worsening
+- Significant numbness or weakness
+- Night symptoms persisting
+- Unable to work due to pain
+
+**Options:**
+- Physical/occupational therapy
+- Ergonomic assessment
+- Night splints
+- Cortisone injection
+- Nerve conduction studies
+- Surgery (for severe carpal tunnel)
+
+## The Bottom Line
+
+Wrist pain responds well to consistent care:
+
+1. **Stretch regularly**—flexors, extensors, and fingers
+2. **Strengthen gradually**—curls, extensions, grip
+3. **Do nerve glides**—especially for tingling symptoms
+4. **Fix ergonomics**—often the root cause
+5. **Take breaks**—every 30-60 minutes
+6. **Be consistent**—daily practice prevents problems
+
+Most wrist pain from computer work is preventable and treatable with the right approach.
 
 ---
 
-## Key Takeaways
-
-- **Mobility first** — wrist circles and movement daily
-- **Stretch both sides** — flexors and extensors
-- **Strengthen gradually** — light weight, high reps
-- **Ergonomics matter** — fix your workstation
-- **Breaks help** — move throughout the day
-- **Be patient** — wrist issues take time to heal
-
-Wrist health depends on regular maintenance. Even after pain resolves, continue the mobility and stretching routine to prevent recurrence.
+*Want a personalized wrist care program? [Take our assessment](/assessment) to get targeted exercises for your specific symptoms.*
