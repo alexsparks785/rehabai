@@ -1,268 +1,214 @@
 ---
-title: "Face Pulls: The Most Important Exercise You're Not Doing"
-description: "Face pulls build rear delts, improve posture, and protect your shoulders. Learn proper form, common mistakes, and how to program this essential exercise."
-date: "2026-03-24"
-readingTime: "7 min read"
+title: "Face Pulls: The Best Exercise for Shoulder Health and Posture"
+description: "Complete guide to face pulls - the essential exercise for rear delts, rotator cuff health, and fixing rounded shoulders. Includes form tips, variations, and programming."
+date: "2026-05-04"
+keywords: ["face pulls", "face pull exercise", "rear delt exercises", "shoulder health exercises", "rotator cuff exercises", "posture exercises", "cable face pulls"]
 ---
 
-# Face Pulls: The Most Important Exercise You're Not Doing
+# Face Pulls: The Best Exercise for Shoulder Health and Posture
 
-Face pulls might be the most underrated exercise in the gym. They build the rear delts and upper back muscles that most people neglect—the same muscles that keep your shoulders healthy and your posture upright.
-
-Here's why you should be doing them and how to do them right.
+Face pulls might be the most underrated exercise in the gym. They target the rear delts, rotator cuff, and mid-back muscles that counteract the forward-shoulder posture of modern life. Here's your complete guide to this essential movement.
 
 ## Why Face Pulls Matter
 
-### 1. They Balance Your Training
+Most people are anterior dominant—their chest, front delts, and internal rotators overpower their posterior muscles. This creates:
 
-Most people do far more pushing (bench press, overhead press, push-ups) than pulling. This creates:
-- Overdeveloped front delts
-- Weak rear delts and upper back
 - Rounded shoulders
-- Increased shoulder injury risk
+- Forward head posture
+- Shoulder impingement risk
+- Rotator cuff weakness
+- Upper back pain
 
-Face pulls directly target the muscles that pushing neglects.
-
-### 2. They Protect Your Shoulders
-
-The rear delts, rhomboids, and external rotators worked by face pulls stabilize the shoulder joint. Strengthening these muscles:
-- Reduces impingement risk
-- Improves shoulder health
-- Allows heavier pressing long-term
-
-### 3. They Fix Posture
-
-Desk workers develop forward-rounded shoulders. Face pulls strengthen the muscles that pull your shoulders back and down—directly combating desk posture.
-
-### 4. They Build Rear Delts
-
-For complete shoulder development, you need all three heads: front, side, and rear. Most lifters have overdeveloped front delts and underdeveloped rear delts. Face pulls fix this.
+Face pulls directly address this imbalance by strengthening the muscles that pull your shoulders back and rotate them externally.
 
 ## Muscles Worked
 
-**Primary:**
-- Rear deltoids
-- Rhomboids
-- Middle trapezius
+### Primary Targets
 
-**Secondary:**
-- External rotators (infraspinatus, teres minor)
-- Lower trapezius
-- Upper back generally
+- **Rear deltoids**: The back portion of your shoulder
+- **Rhomboids**: Muscles between your shoulder blades
+- **Middle trapezius**: Mid-back, responsible for scapular retraction
 
-## How to Do Face Pulls: Proper Form
+### Secondary Targets
 
-### Setup
-1. Set cable pulley at upper chest to face height
-2. Attach a rope handle
-3. Grab the rope with a neutral grip (palms facing each other)
-4. Step back until arms are extended
+- **External rotators (infraspinatus, teres minor)**: Critical for rotator cuff health
+- **Lower trapezius**: Helps depress and rotate the scapula
+- **Posterior rotator cuff**: Stabilizes the shoulder joint
 
-### The Movement
-1. Pull the rope toward your face
-2. As you pull, separate the rope ends (pull apart)
-3. Bring the rope to either side of your face (not under your chin)
-4. Externally rotate at the end—thumbs pointing back, pinkies up
-5. Squeeze your shoulder blades together
-6. Hold the contraction for 1 second
-7. Return with control
+## How to Do Face Pulls
 
-### The Key Detail: External Rotation
+### Cable Face Pull Setup
 
-The external rotation at the end is what makes face pulls special. As you finish the pull:
-- Rotate your hands so thumbs point backward
-- Think "double bicep pose" position
-- This engages the external rotators
+1. **Set cable at face height** or slightly above
+2. **Attach rope handle**
+3. **Grip rope** with thumbs toward ceiling (neutral grip)
+4. **Step back** to create tension
 
-Without this rotation, face pulls become a simple row. The rotation is what makes them a shoulder health exercise.
+### Execution
 
-## Common Face Pull Mistakes
+1. **Pull the rope toward your face**, separating hands as you pull
+2. **Lead with elbows high** — elbows should end at or above shoulder height
+3. **Externally rotate** as you pull — finish with thumbs pointing behind you
+4. **Squeeze shoulder blades together** at peak contraction
+5. **Hold briefly** then return with control
+6. **Keep chest up** and avoid leaning back excessively
 
-### 1. No External Rotation
-**The problem:** Pulling straight back without rotating
-**Why it matters:** Misses the external rotator work—the key benefit
-**The fix:** Finish with thumbs pointing back, like a double bicep pose
+### Key Form Cues
 
-### 2. Going Too Heavy
-**The problem:** Using so much weight that form breaks down
-**Why it matters:** Face pulls are about muscle activation, not load
-**The fix:** Use moderate weight with perfect form and full contraction
+- **Elbows high**: Not a row — keep elbows at shoulder height or above
+- **External rotation**: Thumbs rotate back, not staying neutral
+- **Retract scapulae**: Actively squeeze shoulder blades
+- **Control the negative**: Don't let the weight snap your arms forward
+- **Minimal body English**: A little is okay, excessive swinging defeats the purpose
 
-### 3. Using Momentum
-**The problem:** Swinging and jerking the weight
-**Why it matters:** Reduces muscle tension, increases injury risk
-**The fix:** Control both directions; pause at the contraction
+## Common Mistakes
 
-### 4. Pulling Too Low
-**The problem:** Pulling toward your chest instead of face
-**Why it matters:** Becomes a row, misses the rear delt and rotator emphasis
-**The fix:** Pull toward your face; the rope should split around your ears
+### 1. Elbows Too Low
 
-### 5. Shrugging Shoulders
-**The problem:** Shoulders rise toward ears during the pull
-**Why it matters:** Involves traps instead of target muscles
-**The fix:** Keep shoulders down and back throughout
+If your elbows drop below shoulder height, you're doing a row, not a face pull. Keep elbows high to target rear delts and external rotators.
 
-### 6. Not Squeezing at the End
-**The problem:** Immediately returning after pulling
-**Why it matters:** Missing the peak contraction
-**The fix:** Hold for 1-2 seconds; squeeze shoulder blades together
+### 2. No External Rotation
+
+The external rotation at the end is what makes face pulls special for shoulder health. Don't skip it — rotate thumbs back as you finish each rep.
+
+### 3. Too Heavy
+
+Face pulls are not an ego lift. Heavy weight forces compensations and reduces the mind-muscle connection needed for rear delts.
+
+### 4. Using Momentum
+
+Leaning back excessively or using body momentum shifts work away from the target muscles.
+
+### 5. Straight Arms
+
+Some people try to keep arms nearly straight. Bend your elbows and pull toward your face, not your chest.
 
 ## Face Pull Variations
 
-### Standard Cable Face Pull
-- Most common version
-- Cable at face height
-- Great for most people
+### Rope Cable Face Pull
 
-### High Cable Face Pull
-- Cable set higher (above head)
-- More lower trap involvement
-- Good variation to cycle in
+The standard version. Cable provides constant tension throughout the movement.
 
 ### Band Face Pull
-- Resistance band attached at face height
-- Great for home workouts and travel
-- Increasing resistance through the movement
 
-### Prone (Lying) Face Pull
-- Lie face down on incline bench
-- Pull dumbbells or cables toward face
-- Eliminates momentum
-- Pure rear delt and upper back
+Great for home workouts or warm-ups. Anchor band at face height and perform the same motion.
+
+**Pro tip**: Band tension increases as you pull, which matches the strength curve nicely.
+
+### Seated Face Pull
+
+Sitting removes the ability to use momentum. Stricter form, better isolation.
 
 ### Single-Arm Face Pull
-- One arm at a time
-- Greater range of motion
-- Addresses imbalances
 
-### Face Pull with Hold
-- Perform face pull, hold at contraction for 5-10 seconds
-- Extreme rear delt and upper back burn
-- Great for activation and mind-muscle connection
+Unilateral version for addressing imbalances. Use a single cable handle.
+
+### Face Pull to External Rotation
+
+Exaggerate the external rotation by finishing with arms in a "field goal" position — elbows at 90 degrees, forearms vertical.
+
+### Prone Y Raise
+
+Floor-based alternative that targets similar muscles. Lie face down and raise arms in a Y pattern.
+
+### Band Pull-Apart
+
+Similar muscle activation with a horizontal pulling motion. Good complement to face pulls.
 
 ## Programming Face Pulls
 
-### For Shoulder Health (Recommended for Everyone)
-- **Frequency:** 2-4x per week
-- **Sets × Reps:** 3 × 15-20
-- **When:** Warm-up before pressing, or end of workout
-- **Load:** Light to moderate
+### For Shoulder Health/Posture
 
-This should be a staple in every program, regardless of goals.
+- **Frequency**: Every upper body day, or daily
+- **Sets**: 2-4
+- **Reps**: 15-25
+- **Timing**: Warm-up, between sets, or as finisher
 
 ### For Rear Delt Development
-- **Frequency:** 2-3x per week
-- **Sets × Reps:** 4 × 12-15
-- **When:** Shoulder or pull day
-- **Load:** Moderate (challenging for rep range)
+
+- **Frequency**: 2-3x per week
+- **Sets**: 3-4
+- **Reps**: 12-15
+- **Timing**: With shoulder or pull work
+- **Note**: Use moderate weight with strict form
 
 ### As a Warm-Up
-- **Before pressing:** 2 × 15-20 (light)
-- **Purpose:** Activate rear delts and rotators
-- **Benefit:** Improves pressing performance and safety
 
-### In a Superset
-- Pair with pressing movements
-- Example: Bench press → Face pulls (no rest)
-- Balances pushing with pulling in real-time
+- **Sets**: 2-3
+- **Reps**: 15-20 (light weight)
+- **Purpose**: Activate rear delts and external rotators before pressing
 
-## Sample Workouts Including Face Pulls
+### Daily Face Pulls
 
-### Upper Body Day
-1. Bench press: 4×6
-2. Barbell row: 4×8
-3. Overhead press: 3×8
-4. Lat pulldown: 3×10
-5. **Face pulls: 3×15**
-6. Bicep curls: 3×12
+Many lifters benefit from doing face pulls daily, especially if they:
 
-### Push Day (PPL Split)
-1. Bench press: 4×6
-2. Incline dumbbell press: 3×10
-3. Overhead press: 3×8
-4. Lateral raises: 3×15
-5. **Face pulls: 3×15** (balances the pushing)
-6. Tricep pushdowns: 3×12
+- Bench press frequently
+- Have desk jobs
+- Have forward shoulder posture
+- Experience shoulder discomfort
 
-### Shoulder-Focused Day
-1. Overhead press: 4×6
-2. Arnold press: 3×10
-3. Lateral raises: 4×12
-4. **Face pulls: 4×15**
-5. Rear delt fly: 3×12
-6. Shrugs: 3×12
-
-### Quick Posture Workout
-1. Face pulls: 3×20
-2. Band pull-aparts: 3×20
-3. Wall slides: 3×10
-4. Prone Y-T-W raises: 2×10 each position
-(10-15 minutes, great for desk workers)
+Use light resistance and focus on activation, not fatigue.
 
 ## Face Pulls vs. Other Rear Delt Exercises
 
-### Face Pulls vs. Rear Delt Fly
-- **Face pulls:** Include external rotation, better for shoulder health
-- **Rear delt fly:** More isolation of rear delts, no rotation
-- **Verdict:** Face pulls are more complete; include both for variety
+| Exercise | Pros | Cons |
+|----------|------|------|
+| Face Pulls | External rotation component, great for shoulder health | Requires cable/band |
+| Reverse Flyes | Good isolation | No external rotation |
+| Band Pull-Aparts | Portable, great for volume | Limited loading |
+| Prone Y Raises | No equipment needed | Harder to load progressively |
+| Seated Rows | Heavier loading | Less rear delt focus |
 
-### Face Pulls vs. Band Pull-Aparts
-- **Face pulls:** Adjustable load, include external rotation
-- **Band pull-aparts:** Simple, anywhere, no external rotation
-- **Verdict:** Both are great; face pulls are more versatile
+**Best approach**: Face pulls as your primary rear delt movement, supplemented with pull-aparts or reverse flyes.
 
-### Face Pulls vs. Reverse Pec Deck
-- **Face pulls:** Standing, includes external rotation
-- **Reverse pec deck:** Seated, pure rear delt isolation
-- **Verdict:** Face pulls for health; reverse pec deck for isolation
+## Face Pulls for Shoulder Pain
 
-## How Many Face Pulls Do You Need?
+If you have shoulder pain, face pulls can help by:
 
-### Minimum (Shoulder Health)
-- 2x per week
-- 2-3 sets of 15-20 reps
-- Total: 60-120 reps per week
+- Strengthening external rotators
+- Improving shoulder blade control
+- Reducing internal rotation dominance
+- Correcting posture issues
 
-### Optimal (Health + Development)
-- 3-4x per week
-- 3 sets of 15-20 reps
-- Total: 135-240 reps per week
+**Important**: Start very light and pain-free. If face pulls cause pain, see a healthcare provider.
 
-### If Rear Delts Are a Weak Point
-- 4x per week
-- 4 sets of 12-15 reps
-- Total: 200-300+ reps per week
-- Combine with other rear delt exercises
+## Face Pulls and Bench Press
 
-## Tips for Better Face Pulls
+Heavy benching strengthens internal rotators and anterior delts while the rear delts and external rotators get relatively weaker. This imbalance increases injury risk.
 
-### 1. Think "Pull Apart and Rotate"
-It's not just a pull—it's a pull, separate, and external rotation.
+**Solution**: Match pressing volume with pulling volume. For every set of bench pressing, consider a set of face pulls or similar.
 
-### 2. Use the Rope Attachment
-The rope allows you to pull the ends apart, which is essential for the movement.
+## How Many Face Pulls Is Enough?
 
-### 3. Don't Ego Lift
-This is about quality contraction, not heavy weight. If you can't do the full movement with rotation and squeeze, it's too heavy.
+A common recommendation: 100 face pulls per week minimum if you bench press regularly. This can be spread across:
 
-### 4. Do Them Often
-Face pulls can and should be done frequently. They're not taxing on recovery.
+- 4 sets of 25
+- 5 sets of 20
+- 10 sets of 10
+- Daily sets of 15-20
 
-### 5. Hold the Contraction
-The squeeze at the end is where the benefit happens. Don't rush through it.
+The goal is volume and frequency, not intensity.
+
+## Equipment Alternatives
+
+**No cable machine?**
+
+- Resistance bands (anchor at face height)
+- TRX/rings (inverted face pull)
+- Prone on bench with dumbbells (prone Y raise)
+- Standing bent-over reverse flyes
+
+## Signs You Need More Face Pulls
+
+- Shoulders round forward at rest
+- Difficulty keeping chest up during rows
+- Shoulder discomfort during pressing
+- Forward head posture
+- Tight pecs, weak upper back
+- You can bench more than you can row
 
 ## The Bottom Line
 
-Face pulls are one of the most important exercises for:
-- **Shoulder health:** Strengthens rotators and stabilizers
-- **Posture:** Pulls shoulders back, fights desk posture
-- **Balance:** Counteracts excessive pressing
-- **Rear delt development:** Fills out shoulders from all angles
+Face pulls are non-negotiable for anyone who presses, sits at a desk, or wants healthy shoulders. They're simple, effective, and address the postural problems created by modern life.
 
-**Do them:**
-- 2-4x per week
-- 3 sets of 15-20 reps
-- With full external rotation and squeeze
-
-If you're not doing face pulls, start today. Your shoulders (and posture) will thank you.
+Do them often. Do them correctly. Your shoulders will thank you.
